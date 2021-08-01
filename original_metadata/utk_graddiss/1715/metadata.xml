@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automating Large-Scale Simulation Calibration to Real-World Sensor Data</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>redwar15@utk.edu</email>
+<lname>Edwards</lname>
+<fname>Richard Everett</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Big Data</keyword>
+<keyword>Machine Learning</keyword>
+<keyword>Computer Simulation Calibration</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Multivariate Analysis</discipline>
+<discipline>Other Computer Sciences</discipline>
+<discipline>Probability</discipline>
+<discipline>Statistical Models</discipline>
+</disciplines><abstract>&lt;p&gt;Many key decisions and design policies are made using sophisticated computer simulations. However, these sophisticated computer simulations have several major problems. The two main issues are 1) gaps between the simulation model and the actual structure, and 2) limitations of the modeling engine&#39;s capabilities. This dissertation&#39;s goal is to address these simulation deficiencies by presenting a general automated process for tuning simulation inputs such that simulation output matches real world measured data. The automated process involves the following key components -- 1) Identify a model that accurately estimates the real world simulation calibration target from measured sensor data; 2) Identify the key real world measurements that best estimate the simulation calibration target; 3) Construct a mapping from the most useful real world measurements to actual simulation outputs; 4) Build fast and effective simulation approximation models that predict simulation output using simulation input; 5) Build a relational model that captures inter variable dependencies between simulation inputs and outputs; and finally 6) Use the relational model to estimate the simulation input variables from the mapped sensor data, and use either the simulation model or approximate simulation model to fine tune input simulation parameter estimates towards the calibration system.&lt;/p&gt;
+&lt;p&gt;The work in this dissertation individually validates and completes five out of the six calibration components with respect to the residential energy domain. Step 1 is satisfied by identifying the best model for predicting next hour residential electrical consumption, the calibration target. Step 2 is completed by identifying the most important sensors for predicting residential electrical consumption, the real world measurements. While step 3 is completed by domain experts, step 4 is addressed by using techniques from the Big Data machine learning domain to build approximations for the EnergyPlus (E+) simulator. Step 5&#39;s solution leverages the same Big Data machine learning techniques to build a relational model that describes how the simulator&#39;s variables are probabilistically related. Finally, step 6 is partially demonstrated by using the relational model to estimate simulation parameters for E+ simulations with known ground truth simulation inputs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1715</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2864&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1715</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2864</articleid>
+<submission-date>2013-02-25T10:12:43-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3780151</context-key>
+<submission-path>utk_graddiss/1715</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Hamparsum Bozdogan, Husheng Li, Joshua New</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

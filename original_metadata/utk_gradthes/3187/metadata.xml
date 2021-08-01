@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A LOW-POWER APPROACH FOR FRONT END  BIOLOGICAL SIGNAL CONDITIONING</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ltaylo38@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Taylor</lname>
+<fname>Logan</fname>
+<mname>Smith</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Front End</keyword>
+<keyword>Charge Amp</keyword>
+<keyword>CMOS</keyword>
+<keyword>Pseudo Resistor</keyword>
+<keyword>PreAmplifer</keyword>
+<keyword>BioSignal</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Electronic Devices and Semiconductor Manufacturing</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;In a lab-on-a-chip (LOC) application, the measurement of small analog signals such as local temperature variation often involves detection of very low-level signals in a noisy micro-scale environment. This is true for other biomedical monitoring systems as well. These systems observe various physiological parameters or electrochemical reactions that need to be tracked electrically. For temperature measurement pyroelectric transducers represent an efficient solution in terms of speed, sensitivity, and scale of integration, especially when prompt and accurate temperature monitoring is desired.&lt;/p&gt;
+&lt;p&gt;The ability to perform laboratory operations on a small scale using miniaturized LOC devices is a promising biosensing technique. The advantages of using LOC include faster time of analysis, low reagent costs, and reduced amount of chemical wastes. The application of portable, easy-to-use, and highly sensitive LOC biosensors for real-time detection could offer significant advantages over the currently used analytical methods.&lt;/p&gt;
+&lt;p&gt;This thesis presents design and analysis of a low frequency charge amplifier suited for biological sample applications, with a wide window for signal size and speed. The charge amp has been fabricated in a commercial 180nm CMOS process. The circuit has been tested for signals in 100Hz-100kHz range with a max charge of 250nC.&lt;/p&gt;
+&lt;p&gt;This thesis begins with a study of the transducer that produces the charge for the charge amplifier. Next it moves into the design of low power charge sensitive amplifiers, along with an analysis of various components essential to the makeup of the design. The charge amplifier circuit is simulated using analytical model as well as numerical simulation tools. Finally, the test setup is presented and the measurement results are compared with those obtained from simulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3187</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4098&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3187</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4098</articleid>
+<submission-date>2014-05-21T07:53:49-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4098/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5606492</context-key>
+<submission-path>utk_gradthes/3187</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Charles Britton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Identifying and Correcting First Order Effects in Explanatory Variables for Longitudinal Real Time Parameter Identification Methods in Atmospheric Turbulence</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bmartos@utk.edu</email>
+<lname>Martos</lname>
+<fname>Borja</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Aircraft</keyword>
+<keyword>Parameter System Identification</keyword>
+<keyword>Real-Time</keyword>
+<keyword>Atmospheric Turbulence</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Aeronautical Vehicles</discipline>
+<discipline>Other Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The use of real time parameter estimation methods for dynamic flight modeling in atmospheric turbulence was studied. Real time parameter estimation results of flight data in atmospheric turbulence and in a calm atmosphere were used to explain the problem and identify potential error sources. The use of indirect atmospheric turbulence measurements for real-time parameter estimation in a linear longitudinal dynamics model was studied to account for atmospheric turbulence. It is shown that measuring the air data angles correctly makes it possible to account for atmospheric turbulence as a measured explanatory variable in the parameter estimation problem. Commercial off-the-shelf sensors were researched and evaluated, then compared to air data booms. Frequency response of airflow angle vanes, structural response of the air data boom, and the frequency-dependent upwash and time delay were identified and studied as sources of colored noise in the explanatory variables resulting from typical atmospheric turbulence measurement techniques. The theory explaining the frequency dependent upwash and time delay of airflow angle vanes was studied. The resulting upwash and time delay corrections were analyzed and compared to previous time shift dynamic modeling research. Simulation data, as well as flight test data in atmospheric turbulence, were used to verify the upwash and time delay behavior. A methodology was developed to apply real time upwash and time delay corrections to the airflow angle vanes, dramatically improving parameter estimation results over the existing state of the art. Recommendations are given for follow-on theoretical development, flight research, and instrumentation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2457</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3061&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2457</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3061</articleid>
+<submission-date>2013-06-18T12:45:29-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3061/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4237311</context-key>
+<submission-path>utk_graddiss/2457</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Solies, Gary A. Flandro, Basil N. Antar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

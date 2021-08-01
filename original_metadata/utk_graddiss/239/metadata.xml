@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fabric-on-a-Chip: Toward Consolidating Packet Switching Functions on Silicon</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Matthews</lname>
+<fname>William</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The switching capacity of an Internet router is often dictated by the memory bandwidth required to bu¤er arriving packets. With the demand for greater capacity and improved service provisioning, inherent memory bandwidth limitations are encountered rendering input queued (IQ) switches and combined input and output queued (CIOQ) architectures more practical. Output-queued (OQ) switches, on the other hand, offer several highly desirable performance characteristics, including minimal average packet delay, controllable Quality of Service (QoS) provisioning and work-conservation under any admissible traffic conditions. However, the memory bandwidth requirements of such systems is &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;NR&lt;/em&gt;), where &lt;em&gt;N&lt;/em&gt; denotes the number of ports and &lt;em&gt;R&lt;/em&gt; the data rate of each port. Clearly, for high port densities and data rates, this constraint dramatically limits the scalability of the switch.&lt;/p&gt;
+&lt;p&gt;In an effort to retain the desirable attributes of output-queued switches, while significantly reducing the memory bandwidth requirements, distributed shared memory architectures, such as the parallel shared memory (PSM) switch/router, have recently received much attention. The principle advantage of the PSM architecture is derived from the use of slow-running memory units operating in parallel to distribute the memory bandwidth requirement. At the core of the PSM architecture is a memory management algorithm that determines, for each arriving packet, the memory unit in which it will be placed. However, to date, the computational complexity of this algorithm is &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;N&lt;/em&gt;), thereby limiting the scalability of PSM switches.&lt;/p&gt;
+&lt;p&gt;In an effort to overcome the scalability limitations, it is the goal of this dissertation to extend existing shared-memory architecture results while introducing the notion of Fabric on a Chip (FoC). In taking advantage of recent advancements in integrated circuit technologies, FoC aims to facilitate the consolidation of as many packet switching functions as possible on a single chip. Accordingly, this dissertation introduces a novel pipelined memory management algorithm, which plays a key role in the context of on-chip output- queued switch emulation. We discuss in detail the fundamental properties of the proposed scheme, along with hardware-based implementation results that illustrate its scalability and performance attributes.&lt;/p&gt;
+&lt;p&gt;To complement the main effort and further support the notion of FoC, we provide performance analysis of output queued cell switches with heterogeneous traffic. The result is a flexible tool for obtaining bounds on the memory requirements in output queued switches under a wide range of tra¢ c scenarios. Additionally, we present a reconfigurable high-speed hardware architecture for real-time generation of packets for the various traffic scenarios. The work presented in this thesis aims at providing pragmatic foundations for designing next-generation, high-performance Internet switches and routers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/239</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1290&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>239</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1290</articleid>
+<submission-date>2010-02-04T07:28:51-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1131858</context-key>
+<submission-path>utk_graddiss/239</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Elhanany</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Donald W. Bouldin, Bradley Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/MatthewsBrad.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

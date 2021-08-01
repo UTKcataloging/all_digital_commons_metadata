@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Electricity Market Designs for Demand Response from Residential Customers</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aasadine@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Asadinejad</lname>
+<fname>Ailin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Demand Response</keyword>
+<keyword>Incentive Based Demand Response</keyword>
+<keyword>Residential Elasticity</keyword>
+<keyword>Renewable Energy</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The main purpose of this dissertation is to design an appropriate tariff program for residential customers that encourages customers to participate in the system while satisfying market operators and utilities goals. This research investigates three aspects critical for successful programs: tariff designs for DR, impact of renewable on such tariffs, and load elasticity estimates. First, both categories of DR are modeled based on the demand-price elasticity concept and used to design an optimum scheme for achieving the maximum benefit of DR. The objective is to not only reduce costs and improve reliability but also to increase customer acceptance of a DR program by limiting price volatility. A time of use (TOU) program is considered for a PB scheme designed using a monthly peak and off peak tariff. For the IBDR, a novel optimization is proposed that in addition to calculation of an adequate and a reasonable amount of load change for the incentive also finds the best times to request DR.&lt;/p&gt;
+&lt;p&gt;Second, the effect of both DR programs under a high penetration of renewable resources is investigated. LMP variation after renewable expansion is more highly correlated with renewable’s intermittent output than the load profile. As a result, a TOU program is difficult to successfully implement; however, analysis shows IBDR can diminish most of the volatile price changes in WECC. To model risk associated with renewable uncertainty, a robust optimization is designed considering market price and elasticity uncertainty.&lt;/p&gt;
+&lt;p&gt;Third, a comprehensive study to estimate residential load elasticity in an IBDR program. A key component in all demand response programs design is elasticity, which implies customer reaction to LSEs offers. Due to limited information, PB elasticity is used in IBDR as well. Customer elasticity is calculated using data from two nationwide surveys and integrated with a detailed residential load model. In addition, IB elasticity is reported at the individual appliance level, which is more effective than one for the aggregate load of the feeder. Considering the importance of HVAC in the aggregate load signal, its elasticity is studied in greater detail and estimated for different customer groupings.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4378</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5523&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4378</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5523</articleid>
+<submission-date>2016-09-21T09:13:07-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9162251</context-key>
+<submission-path>utk_graddiss/4378</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Yilu Liu, Rupy Sawhney</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of an Experimental Pulsed Plasma Accelerator</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Rooney</lname>
+<fname>Daniel</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study was to gather and analyze data taken from a laboratory Pulsed Plasma Accelerator to understand its operation, and also for future comparison of the experimental data with predictions made with computer simulations based on the codes named MACH2 and GEMS. This comparison will allow for further validation of these two computer simulations in order to more accurately model the laboratory thruster. Data was collected from three different instruments: B-Dot probes; a laser interferometer; and Rogowski coils. These devices measure the time dependent current sheets, the electron number density, and the capacitor discharge current respectively.&lt;/p&gt;
+&lt;p&gt;The B-Dot probes were an excellent source of data once the correct procedure for their analysis was determined. Using this data and that of the main Rogowski coil, a total resistance and a total inductance of the thruster was determined to be 0.009 Ω and 4.5Xl0&lt;sup&gt;-8&lt;/sup&gt; Henry, respectively. Then, using a simple circuit analysis, the current sheet was modeled as a damped sine wave based on the experimentally determined thruster impedance, for use in the MACH2 computer simulation. In the future, a straight comparison of the electron number density from MACH2 will be made once new developments of MACH2 are completed.&lt;/p&gt;
+&lt;p&gt;Recommendations for future development of both the MACH2 and GEMS computer simulations are provided in the final chapter of this thesis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4452</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5972&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4452</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5972</articleid>
+<submission-date>2017-04-10T11:03:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9997816</context-key>
+<submission-path>utk_gradthes/4452</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Basil N. Antar, Roy J. Schulz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

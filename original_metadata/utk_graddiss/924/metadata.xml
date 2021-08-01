@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multivariate Optimization of Neutron Detectors Through Modeling</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mwillia3@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Williamson</lname>
+<fname>Martin</fname>
+<mname>Rodney</mname>
+</author>
+</authors>
+<keywords>
+<keyword>MCNPX</keyword>
+<keyword>Multivariate Statistics</keyword>
+<keyword>Response Surface Methodology</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Due to the eminent shortage of 3He, there exists a significant need to develop a new (or optimize an existing) neutron detection system which would reduce the dependency on the current 3He-based detectors for Domestic Nuclear Detection Office (DNDO) applications.  The purpose of this research is to develop a novel methodology for optimizing candidate neutron detector designs using multivariate statistical analysis of Monte Carlo radiation transport code (MCNPX) models.  The developed methodology allows the simultaneous optimization of multiple detector parameters with respect to multiple response parameters which measure the overall performance of a candidate neutron detector.  This is achieved by applying three statistical strategies in a sequential manner (namely factorial design experiments, response surface methodology, and constrained multivariate optimization) to results generated from MCNPX calculations.  Additionally, for organic scintillators, a methodology incorporating the light yield non-proportionality is developed for inclusion into the simulated pulse height spectra (PHS).  A Matlab® program was developed to post-process the MCNPX standard and PTRAC output files to automate the process of generating the PHS thus allowing the inclusion of nonlinear light yield equations (Birks equations) into the simulation of the PHS for organic scintillators.&lt;/p&gt;
+&lt;p&gt;The functionality of the developed methodology is demonstrated on the successful multivariate optimization of three neutron detection systems which utilize varied approaches to satisfying the DNDO criteria for an acceptable alternative neutron detector.  The first neutron detection system optimized is a 3He-based radiation portal monitor (RPM) based on a generalized version of a currently deployed system.  The second system optimized is a 6Li-loaded polymer composite scintillator in the form of a thin film.  The final system optimized is a 10B-based plastic scintillator sandwiched between two standard plastic scintillators.  Results from the multivariate optimization analysis include not only the identification of which factors significantly affect detector performance, but also the determination of optimum levels for those factors with simultaneous consideration of multiple detector performance responses.  Based on the demonstrated functionality of the developed multivariate optimization methodology, application of the methodology in the development process of new candidate neutron detector designs is warranted.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/924</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1967&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>924</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1967</articleid>
+<submission-date>2010-09-13T07:47:28-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1967/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1554357</context-key>
+<submission-path>utk_graddiss/924</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dayakar Penumadu, Lawrence W. Townsend, Ronald E. Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control of Energy Efficient Buildings</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cnelso23@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nelson</lname>
+<fname>Cale</fname>
+<mname>David</mname>
+</author>
+</authors>
+<keywords>
+<keyword>LQR</keyword>
+<keyword>FEM</keyword>
+<keyword>RHC</keyword>
+<keyword>Control</keyword>
+<keyword>Energy</keyword>
+<keyword>Efficient</keyword>
+<keyword>Building</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+</disciplines><abstract>&lt;p&gt;The building sector consumes a large part of the energy used in the United States and is responsible for nearly 40% of greenhouse gas emissions. Therefore, it is economically and environmentally important to reduce the building energy consumption to realize massive energy savings. Commercial buildings are complex, multi-physics, and highly stochastic dynamic systems. Recent work has focused on integrating modern modeling, simulation, and control techniques to solving this challenging problem. The overall focus of this thesis is directed toward designing an energy efficient building by controlling room temperature. One approach is based on a distributed parameter model represented by a three dimensional (3D) heat equation in a room with heater/cooler located at ceiling. The finite element method is implemented as part of a novel solution to this problem. A reduced order model of only few states is derived using Proper Orthogonal Decomposition (POD). A Linear Quadratic Regulator (LQR) is computed based on the reduced model, and applied to the full order model to control room temperature. Also, a receding horizon constrained linear quadratic Gaussian (LQG) controller is developed by minimizing energy cost of heating and cooling while satisfying hard and probabilistic temperature constraints. A stochastic receding horizon controller (RHC) is employed to solve the optimization problem with the so-called chance constraints governed by probability temperature levels. Furthermore, a constrained stochastic linear quadratic control (SLQC) approach was developed for such purposes. The cost function to be minimized is quadratic, and two different cases are considered. The first case assumes the disturbance is Gaussian and the problem is formulated to minimize the expected cost subject to a linear constraint and a probabilistic constraint. The second case assumes the disturbance is norm-bounded with distribution unknown and the problem is formulated as a min-max problem. By using SLQC, both problems are reduced to semidefinite optimization problems, where the optimal control may be computed efficiently. Later, some discussions on solving more requirements by SLQC are provided. Simulation and numerical results are given to demonstrate the validity of the proposed techniques shown in this thesis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2740</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4024&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2740</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4024</articleid>
+<submission-date>2014-02-28T20:48:33-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4024/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5242274</context-key>
+<submission-path>utk_gradthes/2740</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy Day, Husheng Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>“Field Weakening Operation of AC Machines for Traction Drive Applications.”</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Patil</lname>
+<fname>Niranjan</fname>
+<mname>Anandrao</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The rising cost of gasoline and environmental concerns have heightened the interest in electric/hybrid-electric vehicles. In passenger vehicles an electric traction motor drive must achieve a constant power speed range (CPSR) of about 4 to 1. This modest requirement can generally be met by using most of the common types of electric motors. Heavy electric vehicles, such as tanks, buses and off-road equipment can require a CPSR of 10 to 1 and sometimes much more. Meeting the CPSR requirement for heavy electric vehicles is a significant challenge. This research addresses the CPSR capability and control requirements of two candidates for high CPSR traction drives: the permanent magnet synchronous motor (PMSM) and the switched reluctance motor (SRM).&lt;/p&gt;
+&lt;p&gt;It is shown that a PMSM with sufficiently large winding inductance has an infinite CPSR capability, and can be controlled using a simple speed control loop that does not require measurement of motor phase currents. Analytical and experimental results confirm that the conventional phase advancement method charges motor winding with required current to produce the rated power for the speed range where the back-EMF normally prevents the generation of the rated power. A key result is that for the PMSM, the motor current at high speed approaches the machine rating independent of the power produced. This results in poor partial load efficiency.&lt;/p&gt;
+&lt;p&gt;The SRM is also shown to have infinite CPSR capability when continuous conduction is permitted during high speed operation. Traditional high speed control is of discontinuous type. It has been shown that this discontinuous conduction itself is the limiter of CPSR. Mathematical formulas have been developed relating the average current, average power, and peak current required producing the desired (rated) power to machine design parameters and control variables. Control of the SRM in the continuous conduction mode is shown to be simple; however, it does require measurement of motor current. For the SRM the motor current at high speed is proportional to the power produced which maintains drive efficiency even at light load conditions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/78</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1108&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>78</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1108</articleid>
+<submission-date>2009-12-23T10:27:08-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098750</context-key>
+<submission-path>utk_graddiss/78</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. S. Lawler</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. M. Tolbert, S. M. Djouadi, Suzanne Lenhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

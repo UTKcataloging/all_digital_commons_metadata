@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improving MPI Threading Support for Current Hardware Architectures</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>withdrawn</state>
+<authors>
+<author>
+<email>tpatinya@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Patinyasakdikul</lname>
+<fname>Thananon</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Message Passing</keyword>
+<keyword>High-performance Computing</keyword>
+<keyword>Threads</keyword>
+<keyword>communication</keyword>
+<keyword>MPI</keyword>
+</keywords>
+<abstract>&lt;p&gt;Threading support for Message Passing Interface (MPI) has been defined in the MPI standard for more than twenty years. While many standard-compliance MPI implementations fully support multithreading, the threading support in MPI still cannot provide the optimal performance on the same level as the non-threading environment. The performance disparity leads to low adoption rate from applications, and eventually, lesser interest in optimizing MPI threading support. However, with the current advancement in computation hardware, the number of CPU core per packet is growing drastically. Using shared-memory MPI communication has become more costly. MPI threading without local communication is one of the alternatives and the some interests are shifting back toward threading to MPI.In this work, we investigate different approaches to leverage the power of thread parallelism and tools to help us to raise the multi-threaded MPI performance to reasonable level. We propose a novel multi-threaded MPI benchmark with multiple communication patterns to stress multiple points of the MPI implementation, with the ability to switch between using MPI process and threads for quick comparison between two modes. Enabling the us, and the others MPI developers to stress test their implementation design.We address the interoperability between MPI implementation and threading frameworks by introducing the thread-synchronization object, an object that gives the MPI implementation more control over user-level thread, allowing for more thread utilization in MPI. In our implementation, the synchronization object relieves the lock contention on the internal progress engine and able to achieve up to 7x the performance of the original implementation. Moving forward, we explore the possibility of harnessing the true thread concurrency. We proposed several strategies to address the bottlenecks in MPI implementation. From our evaluation, with our novel threading optimization, we can achieve up to 22x the performance comparing to the legacy MPI designs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5519</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7165&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5519</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7165</articleid>
+<submission-date>2020-08-13T18:48:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911369</context-key>
+<withdrawn>2020-08-16</withdrawn>
+<submission-path>utk_graddiss/5519</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Michela Taufer, Yingkui Li</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-3921-022X</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

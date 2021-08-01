@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Application of Hidden Markov Model based methods for gaining insights into protein domain evolution and function</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aupadhy1@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Upadhyay</lname>
+<fname>Amit Anil</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Signal transduction</keyword>
+<keyword>sensory domains</keyword>
+<keyword>extracellular</keyword>
+<keyword>Cache</keyword>
+<keyword>PAS</keyword>
+<keyword>PDC</keyword>
+<keyword>GH48</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Genomics</discipline>
+</disciplines><abstract>&lt;p&gt;With the explosion in the amount of available sequence data, computational methods have become indispensable for studying proteins. Domains are the fundamental structural, functional and evolutionary units that make up proteins. Studying protein domains is an important part of understanding protein function and evolution. Hidden Markov Models (HMM) are one of the most successful methods that have been applied for protein sequence and structure analysis. In this study, HMM based methods were applied to study the evolution of sensory domains in microbial signal transduction systems as well as functional characterization and identification of cellulases in metagenomics datasets. Use of HMM domain models enabled identification of the ambiguity in sequence and structure based definitions of the Cache domain family. Cache domains are extracellular sensory domains that are present in microbial signal transduction proteins and eukaryotic voltage gated calcium channels. The ambiguity in domain definitions was resolved and more accurate HMM models were built that detected more than 50,000 new members. It was discovered that Cache domains constitute the largest family of extracellular sensory domains in prokaryotes. Cache domains were also found to be remotely homologous to PAS domains at the level of sequence, a relationship previously suggested purely based on structural comparisons. We used HMM-HMM comparisons to study the diversity of extracellular sensory domains in prokaryotic signal transductions systems. This approach allowed annotation of more than 46,000 sequences and reduced the percentage of unknown domains from 64% to 15%. New relationships were also discovered between domain families that were otherwise thought to be unrelated. Finally, HMM models were used to retrieve Family 48 glycoside hydrolases (GH48) from sequence databases. Analysis of these sequences, enabled the identification of distinguishing features of cellulases. These features were used to identify GH48 cellulases from metagenomics datasets. In summary, HMM based methods enabled domain identification, remote homology detection and functional characterization of protein domains.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3557</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5017&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3557</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5017</articleid>
+<submission-date>2015-10-08T18:22:30-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7697067</context-key>
+<submission-path>utk_graddiss/3557</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Igor B. Jouline</value>
+</field>
+<field name="advisor2" type="string">
+<value>Elias Fernandez, Jerome Baudry, Tongye Shen, Mircea Podar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Appendix_1.1.xlsx</archive-name>
+<upload-name>Appendix_1.1.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=5017&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>HHsearch results for Cache superfamily</description>
+</file>
+<file>
+<archive-name>Appendix_1.2.xlsx</archive-name>
+<upload-name>Appendix_1.2.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=5017&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>Overlapping hits with Cache domain prediction using new models</description>
+</file>
+<file>
+<archive-name>Appendix_1.3.xlsx</archive-name>
+<upload-name>Appendix_1.3.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=5017&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>Phyletic distribution of Cache, PAS and GAF superfamilies</description>
+</file>
+<file>
+<archive-name>Appendix_2.1.xlsx</archive-name>
+<upload-name>Appendix_2.1.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=5017&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>Supplementary for Chapter II</description>
+</file>
+<file>
+<archive-name>Appendix_3.1.pdf</archive-name>
+<upload-name>Appendix_3.1.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=5017&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+<description>Supplementary for Chapter III</description>
+</file>
+<file>
+<archive-name>Appendix_3.2.xlsx</archive-name>
+<upload-name>Appendix_3.2.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=5017&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>Supplementary for Chapter III</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improvements to NESTLE: Cross Section Interpolation and &lt;i&gt;N&lt;/i&gt;-Group Extension</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wkirklan@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Kirkland</lname>
+<fname>William</fname>
+<mname>Matthews</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nestle</keyword>
+<keyword>neutron diffusion</keyword>
+<keyword>interpolation</keyword>
+<keyword>nuclear cross section</keyword>
+<keyword>nuclear reactor</keyword>
+<keyword>computational</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The NESTLE program is a few-group neutron diffusion reactor core simulator code utilizing the nodal expansion method (NEM). This thesis presents two improvements made to NESTLE regarding cross-section interpolation and multigroup capability.&lt;/p&gt;
+&lt;p&gt;To quickly and accurately obtain cross sections from lattice physics input data, a new cross section interpolation routine was developed utilizing multidimensional radial basis function interpolation, also known as thin plate spline interpolation. Testing showed that, for existing NESTLE lattice physics input, accuracy was retained but not improved and processing time was longer. However, the new interpolation routine was shown allow much greater exibility in the case matrix of the the lattice physics input file. This allows for much more detailed modeling of cross section variation at the expense of computation time.&lt;/p&gt;
+&lt;p&gt;The existing capability of NESTLE to use two or four neutron energy groups in the NEM calculation was supplemented with a new routine to allow the use of an arbitrary number of neutron energy groups by calling existing, widely used linear algebra libraries. This represents a significant expansion of NESTLE&#39;s capability to model a broader ranger of reactor types beyond typical light water reactors (LWRs). Testing revealed that the new NEM routines retained the accuracy and speed of the existing routines for two and four energy groups, while calculations with other numbers of energy groups had adequate accuracy and speed for practical use.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4951</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5764&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4951</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5764</articleid>
+<submission-date>2017-02-21T13:31:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9725732</context-key>
+<submission-path>utk_gradthes/4951</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ondrej Chvala</value>
+</field>
+<field name="advisor2" type="string">
+<value>G. Ivan Maldonado, Peter C. Lukens, Steven E. Skutnik</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

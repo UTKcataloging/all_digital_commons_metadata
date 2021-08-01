@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Regional Assessment of the Relationships of Conservation Practices to Northern Bobwhite and Other Priority Grassland Bird Breeding Populations</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>clituma@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lituma</lname>
+<fname>Christopher</fname>
+<mname>Manuel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Central Hardwoods</keyword>
+<keyword>detection probability</keyword>
+<keyword>grassland birds</keyword>
+<keyword>occupancy</keyword>
+<keyword>point counts</keyword>
+<keyword>conservation</keyword>
+</keywords>
+<disciplines><discipline>Biology</discipline>
+<discipline>Ornithology</discipline>
+<discipline>Population Biology</discipline>
+</disciplines><abstract>&lt;p&gt;I documented populations of Northern Bobwhites (&lt;em&gt;Colinus virginianus&lt;/em&gt;) and other priority grassland and early successional birds in the Central Hardwoods Bird Conservation Region (CHBCR), and determined whether conservation practices have been effective in positively impacting species occupancy and abundance. I designed and implemented a roadside survey by randomly locating five 15-km routes with 5-min unlimited distance point counts (30 counts/route), along secondary roads within Northern Bobwhite focal counties (n = 37) in the CHBCR. I also developed a survey to assess roadside biases for estimates of relative abundance (a), occupancy (ψ), detection probability (&lt;em&gt;p&lt;/em&gt;), and associated land-cover for target species. Lastly, I monitored radio-tagged Northern Bobwhites to document the effects of spatial, temporal, and behavioral covariates on calling rates. I used occupancy estimation in program MARK 6.1 to model factors related to occupancy (ψ) and detection probability (&lt;em&gt;p&lt;/em&gt;). I used a multi-season robust design occupancy module in program MARK 6.1 to model occupancy (ψ) relationships among years to conservation practices, colonization (γ), and detection probability (&lt;em&gt;p&lt;/em&gt;). I used the general multinomial-Poisson mixture model in program R with the unmarked package to model species-specific abundance (a) relationships to conservation practices. Estimates of relative abundance, occupancy, and detection probability from roadside surveys for nine target grassland birds were unaffected by the presence of roads. For every species except Prairie Warbler, the addition of conservation covariates to top land-cover models improved model fit of occupancy models, though confidence intervals of beta estimates overlapped zero for all species except Dickcissel, Field Sparrow and Northern Bobwhite. Northern Bobwhite occupancy declined among years by &gt;18% on survey points and declined by &gt;4% in 2009 if a conservation practice wascovariates, with the presence or amount of conservation at a point of secondary importance. These models can be used to prioritize conservation efforts in the CHBCR by focusing land-cover modeled relationships for occupancy and abundance on existing conservation points to optimize likelihood of increased species occupancy and abundance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2706</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3575&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2706</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3575</articleid>
+<submission-date>2013-10-02T14:23:43-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3575/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4659320</context-key>
+<submission-path>utk_graddiss/2706</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David A. Buehler</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul R. Armsworth, Joseph D. Clark, Patrick D. Keyser</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;I changed the abstract as you suggested. This is the final version.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Natural Resources</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

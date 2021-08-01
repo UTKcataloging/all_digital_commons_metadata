@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extending Capability and Implementing a Web Interface for the XALT Software Monitoring Tool</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kagrawa1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Agrawal</lname>
+<fname>Kapil</fname>
+</author>
+</authors>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As high performance computing centers evolve in terms of hardware, software, and user-base, the act of monitoring and managing such systems requires specialized tools. The tool discussed in this thesis is XALT, which is a collaborative effort between the National Institute for Computational Sciences and Texas Advanced Computing Center. XALT is designed to track link-time and job level information for applications that are compiled and executed on any Linux cluster, workstation, or high-end supercomputer. The key objectives of this work are to extend the existing functionality of XALT and implement a real-time web portal to easily visualize the tracked data. A prototype is developed to track function calls resolved by external libraries which helps software management. The web portal generates reports and metrics which would improve efficiency and effectiveness for an extensive community of stakeholders including users, support organizations, and development teams. In addition, we discuss use cases of interest to center support staff and researchers on identifying users based on given counters and generating provenance reports. This work details the opportunity and challenges to further push XALT towards becoming a complete package.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4019</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5180&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4019</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5180</articleid>
+<submission-date>2016-04-15T10:14:48-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8482830</context-key>
+<submission-path>utk_gradthes/4019</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Audris Mockus, Michael Jantz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

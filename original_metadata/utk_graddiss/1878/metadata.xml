@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ASyMTRe: Building Coalitions for Heterogeneous Multi-Robot Teams</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tang</lname>
+<fname>Fang</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses the problem of synthesizing task solution strategies for a hetero- geneous robot team to accomplish multi-robot tasks by sharing sensory and computational resources. The approach I developed is called ASyMTRe, which stands for Automated Synthesis of Multi-robot Task solutions through software Reconfiguration, pronounced “Asymmetry”. When dealing with heterogeneous teams, it is challenging to determine how the capabilities of each team member can be appropriately utilized to facilitate the accomplishment of the team-level goal. The ASyMTRe approach provides a way for the robots to reason about how to solve a task depending on their individual capabilities. The fundamental idea of ASyMTRe is the change of abstraction of robot capabilities from the traditional task/sensor perspective to a more fine-grained schema perspective. Inspired by the information invariants theory, the mapping of schemas to information types enables robots to connect schemas within or across robots to form coalitions in which robots share sensory or computational information with their coalition members.&lt;/p&gt;
+&lt;p&gt;The contributions of the ASyMTRe approach include: (1) enabling robots to auto- matically generate task solutions based on sensor-sharing across robot coalition members, in configurations not previously explicitly defined by the human designer; (2) providing a way for robots to develop coalitions to address multi-robot tasks; (3) enabling flexible soft- ware code reuse from one multi-robot application to another through the task-independent schema abstraction that is viewed as a generator of semantic information content which can be used in many ways by various diverse tasks; and (4) providing a way for robots to reconfigure solutions online when the team encounters unexpected sensor or robot fail- ures. ASyMTRe has two different versions of implementation on multi-robot teams: the centralized ASyMTRe configuration algorithm and the distributed ASyMTRe-D negotia- tion protocol, depending on the amount of information shared among team members. In addition, the ASyMTRe approach has been integrated with an auction-based task allocator such that the resulting system generates robot coalitions to accomplish multi-robot tasks at a low level, and these coalitions compete for task assignment at a high level.&lt;/p&gt;
+&lt;p&gt;The ASyMTRe approach has been successfully implemented and tested in three different application scenarios: multi-robot navigation, cooperative box pushing, and site clearing. These experiments have validated the ASyMTRe approach and demonstrated its solution generation process, robustness, code reusability, and applicability to a wide range of multi- robot applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1878</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3305&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1878</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3305</articleid>
+<submission-date>2013-09-10T09:55:48-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4569822</context-key>
+<submission-path>utk_graddiss/1878</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bradley T. Vander Zanden, Bruce J. MacLennan, J. Douglas Birdwell</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

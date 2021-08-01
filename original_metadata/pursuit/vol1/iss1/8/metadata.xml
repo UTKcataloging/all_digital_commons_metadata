@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multilevel DC-AC Converter Interface with Solar Panels</title>
+<publication-date>2010-04-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pursuit@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cao</lname>
+<fname>Yue</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Electrical Engineering</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Undergraduate Research</keyword>
+<keyword>Pursuit</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Engineering</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This paper presents a single-phase 11-level (5 H-bridge) cascaded multilevel DC-AC converter that has implemented a Phase Locked Loop (PLL) and Maximum Power Point Tracking (MPPT) with 5 separate solar panel DC sources. This topology upgrades the conventional 3-level Pulse Width Modulation (PWM) controlled converter with advantages such as smoother output waveforms, more flexibility in voltage range, smaller filter size, and switching angle control. Simulation results of voltage synchronization using PLL and experimental setup and results implementing the entire converter interface are also presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/pursuit/vol1/iss1/8</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1004&amp;amp;context=pursuit&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>feature</document-type>
+<type>article</type>
+<articleid>1004</articleid>
+<submission-date>2010-03-24T12:30:17-07:00</submission-date>
+<publication-title>Pursuit - The Journal of Undergraduate Research at The University of Tennessee</publication-title>
+<context-key>1243303</context-key>
+<submission-path>pursuit/vol1/iss1/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-04-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Multilevel DC-AC Converter</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Topology Optimization of Carbon Nanotube Reinforced Polymer Damping Structures</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Varma Damu</lname>
+<fname>Seshadri</fname>
+<mname>Mohan</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Topology optimization has been successfully used for improving vibration damping in constrained layer damping structures. Reinforcing carbon nanotubes in a polymer matrix greatly influence the mechanical properties of the polymer. Such nanotube-reinforced polymers (NRP) can be used to further enhance the damping properties of the constrained layer structures. In this work, topology optimization is performed on constrained damping layer structures using NRP in order to maximize the loss factor for the first resonance frequency of the base beam. In addition to the material fractions of the NRP and elastic material, the volume fraction of the nanotubes in the polymer is also a design variable in the optimization process. The modal strain energy method is used for the loss factor calculation. A commercially available finite element code ABAQUS is used for the finite element analysis. The structure is discretized using 2-dimensional 8-noded quadratic elements. Optimization is performed with a gradient based optimization code which uses a sequential quadratic programming algorithm. To make the optimization process more efficient, an analytical method to calculate the gradients is derived to replace the previously used finite difference method. The resulting structures show a remarkable increase in damping performance. To show the robustness of the optimization process, material fraction and base beam thickness parameter studies are also performed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1858</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3214&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1858</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3214</articleid>
+<submission-date>2013-09-13T12:27:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4584836</context-key>
+<submission-path>utk_gradthes/1858</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arnold Lumsdaine</value>
+</field>
+<field name="advisor2" type="string">
+<value>J.A.M.Boulet, William.R.Hamel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

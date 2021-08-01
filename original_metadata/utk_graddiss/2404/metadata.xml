@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>REAL-TIME ORDER TRACKING  FOR SUPPLY SYSTEMS WITH MULTIPLE TRANSPORTATION STAGES</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nvepkhva@utk.edu</email>
+<lname>Bryan</lname>
+<fname>Nana</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Supply chain</keyword>
+<keyword>Shipment tracking</keyword>
+<keyword>stochastic lead-time</keyword>
+<keyword>Markov chain</keyword>
+</keywords>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation studies a supply system consisting of a retailer, a manufacturer, and multiple transportation stages. The manufacturer fulfills the demand from the retailer for a single product. The replenishment process is not instantaneous. Orders may take more than one time period to be shipped from the manufacturer’s location, and shipped orders pass through multiple transportation stages until they reach the retailer. Each stage may represent a physical location or a step in the delivery process. Shipments are not allowed to cross over in time. The movement of each shipment depends on the congestion and movements of shipments ahead of it.&lt;/p&gt;
+&lt;p&gt;A stochastic model is developed to evaluate the long-run average cost incurred by the retailer. The cost is modeled for a myopic order-up-to-level policy. Depending on the availability of real-time order tracking information, the cost function can have different expressions. The behavior of the cost functions with or without real-time tracking information and the difference between the two are studied for different parameters.&lt;/p&gt;
+&lt;p&gt;The first main section studies a model with the manufacturer’s delays in the shipping process. Orders may take several time periods to leave the manufacturer’s site. Numerical examples for various transportation congestion scenarios and for different shipping policies show which settings guarantee the lowest long-run average cost.  The model also helps to draw some insights on how and when the retailer should place orders with the manufacturer.&lt;/p&gt;
+&lt;p&gt;The second section studies a model with no manufacturer’s delay but with a limited number of tracking devices. The model calculates the long-run average cost using information collected from the tracking devices. The numerical examples help to determine the optimal placement of a given number of tracking devices to minimize the long-run average cost. The model also suggests the optimal number of tracking devices that brings the long-run average cost as close as possible to the long-run average cost with full real-time tracking information.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2404</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3155&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2404</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3155</articleid>
+<submission-date>2013-07-28T19:26:07-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4354560</context-key>
+<submission-path>utk_graddiss/2404</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mandyam Srinivasan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Melissa Bowers, Bogdan Bichescu, Rapinder Sawhney</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

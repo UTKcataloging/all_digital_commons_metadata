@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parametric Instability Investigation and Stability Based Design for Transmission Systems Containing Face-gear Drives</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mpeng1@utk.edu</email>
+<lname>Peng</lname>
+<fname>Meng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>face-gear</keyword>
+<keyword>parametric instability</keyword>
+<keyword>periodically time-varying system</keyword>
+<keyword>mesh kinematics</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of this dissertation is to provide a novel design methodology for face-gear transmissions based on system stability - a dynamics viewpoint. The structural dynamics models of transverse and torsional vibrations are developed for face-gear drives with spur pinions to investigate the parametric instability behavior in great depth. The unique face-gear meshing kinematics and the fluctuation of mesh stiffness due to a nonunity contact-ratio are considered in these models. Since the system is periodically timevarying, Floquet theory is utilized to solve the Mathieu-Hill system equations and determine the system stability numerically. To avoid complex numerical computations, Treglod’s approximation is employed to calculate face-gear contact-ratio. For transverse vibration, the model of face-gear with one spur pinion and in-plane symmetric centrifugal stress field is investigated first, and next the face-gear meshing with multiple pinions is explored, finally, the one pinion case is recalculated by taking into account the in-plane asymmetric stress field resulting from in-plane driving force. The results show that the system stability depends on rotation speed, geometrical dimension and mesh load. In stability based design, the system stability is one design constraint; the other constraint is input power. The power level determines the maximum stress at pinion tooth root and the in-plane driving force on face-gear body. Based on parametric instability investigations, the macroscopic design methodology of the facegear body is explored by considering the input power and stability constraints. Moreover, the relationship of system stability to spatial configuration of input pinions is also explored for the multiple pinion case. For torsional vibration, the system stability is investigated numerically with respect to rotation speed, rotational inertia, mesh stiffness, and characteristics of transmission shafts. Furthermore, a perturbation method is applied to the stability boundary tracing for design purposes. The stability results provide the necessary information for vibration suppressions. Hereinto, the effect of the system inertia distribution on the system stability is explored to develop passive vibration suppression methods and to find an optimal design with least weight; the damping and stiffness of shafts can also be adjusted individually so as to achieve passive and active vibration controls.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1434</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2608&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1434</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2608</articleid>
+<submission-date>2012-06-20T19:29:09-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3011467</context-key>
+<submission-path>utk_graddiss/1434</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hans A. DeSmidt</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. A. M. Boulet, Seddik M. Djouadi, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extension of the Continuity Constraint Algorithm to Variable-Density Flow Simulation</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yambert</lname>
+<fname>Mark</fname>
+<mname>William</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;One class of problems commonly encountered in the study of computational fluid dynamics involves the flow of fluids with variable density. Such flows are characterized by density variations too large for the assumption used in most incompressible Navier-Stokes formulations, that small changes in density are linearly proportional to changes in temperature, to be valid. Unlike fully compressible flows, such as the high-speed flow of gases, variable-density flows are often characterized by low Mach numbers. Examples of such flows include 1) combustion problems, where significant density variations may arise due to the large temperature differences present, and 2) flows involving liquids, such as refrigerated hydrogen, whose density varies significantly over small temperature differences.&lt;/p&gt;
+&lt;p&gt;While fully compressible algorithms can be used to solve problems involving variable- density flows, such calculations are computationally inefficient. As an alternative, a modified version of the Continuity Constraint Algorithm of Williams has been developed for solving problems involving fluids with variable-density. Originally developed as an inexact method for solving incompressible flow problems, the Continuity Constraint Algorithm belongs to a general class of computational algorithms, normally referred to as either “pressure-projection” or “pressure-correction” methods.&lt;/p&gt;
+&lt;p&gt;This work derives a variable-density form of the computational algorithm and presents the results of its application to a series of two-dimensional benchmark problems. The first of which involves the buoyancy-induced flow of air inside a closed cavity. Results of these initial algorithm tests showed, that while adequate steady-state solutions were obtained for cases corresponding to Rayleigh number values of 10&lt;sup&gt;4&lt;/sup&gt; to 10&lt;sup&gt;7&lt;/sup&gt;, the algorithm experienced some computational difficulties in reaching steady-state conditions.&lt;/p&gt;
+&lt;p&gt;A second series of calculations were performed to emphasize the effects of the variable- density assumption. For these calculations, solutions for the buoyancy-induced flow of liquid hydrogen inside a closed cavity at a Rayleigh number value of 10&lt;sup&gt;10&lt;/sup&gt; were generated using both the variable-density and incompressible versions of the Continuity Constraint Algorithm. Like the initial algorithm tests, a number of computational difficulties (some of which were significant) were encountered. Examination of the steady-state results, determined via visual inspection of the temporal evolution of velocity and temperature fields, from these analyses showed significant differences between the variable-density and INS solutions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2080</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3443&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2080</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3443</articleid>
+<submission-date>2013-10-03T10:11:10-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4663219</context-key>
+<submission-path>utk_gradthes/2080</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>A. J. Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Majid Keyhani, Joseph Iannelli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

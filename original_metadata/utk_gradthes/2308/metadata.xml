@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of Seal Integrity of Flexible Food Polytrays by Destructive and Non-Destructive Techniques</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Patankar</lname>
+<fname>Kshitish</fname>
+<mname>A</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+<discipline>Polymer Science</discipline>
+</disciplines><abstract>&lt;p&gt;The companies which supply military ration packages (MRP) have been suffering significant loss due to high rejection rate (more than 20 %) by the military. The standards set by the military, as far as acceptance of packages is concerned, are very high and conservative. The means employed are also based mostly on visual observation. The aim of the project is to quantitatively device test which reduce the high rejections the companies are incurring. Thus the drive behind this project is to determine the extent to which certain defects affect the seal strength of food trays.&lt;/p&gt;
+&lt;p&gt;Earlier work on this project was used as a guideline to decide the parameters for an optimized test. A package which develops a significant leak under a pressure of 20 psi is considered a defective package irrespective whether it has any visual defects. With the current laboratory set-up, leaks as low as 4-5 cc/minute were identified. The food packages with different defects namely; short seals, entrapped matter, blisters and air bubbles, tunneling, and wrinkles from Stegner and Wornick Co were tested destructively and non-destructively.&lt;/p&gt;
+&lt;p&gt;A destructive burst test was used to test the burst pressures and the leak developed in trays. A computer interface was designed using National Instrument Labview&lt;sup&gt;®&lt;/sup&gt; program which could automatically detect the leak through the seal and measure the pressure in the package while simultaneously increasing the pressure in step mode. Based on the results from the burst test, a systematic study of the burst pressures that different types of defective packages withstood and the correlation with the seal width was carried out. It was found that non-defective trays from both Stegner and Wornick performed equally well averaging 34.2 and 34.4 psi respectively. Blisters and entrapped matter seemed to drastically reduce the average burst pressure for Stegner trays, while Wornick trays with these defects did not show a substantial reduction in the burst pressure. Stegner trays with blisters in their seals sustained the average burst pressure of 23 psi, while those from Wornick performed better than their counterparts sustaining 35 psi. Short seal trays from Wornick were found to perform better than non-defective trays sustaining 37.7 psi, while those from Stegner sustained 28.3 psi. Although burst test gives the quantitative measure of seal strength, it cannot be implemented on the production line to test 100% of the production packages.&lt;/p&gt;
+&lt;p&gt;The stress condition developed in the package as a result of burst test was simulated using a finite element analysis program Femlab&lt;sup&gt;®&lt;/sup&gt;. Simulations were performed to better understand the visual presentation of stresses in the package; especially across the seal. Three-dimensional simulations although more effective; needed the coupling equations between the acrylic plate of a burst chamber and lid of a package. Two-dimensional simulations were performed with varying distances between acrylic plate and lid at constant boundary conditions gave exponential increase in the stress across the seal.&lt;/p&gt;
+&lt;p&gt;Non-destructive techniques such as ultrasonic C-scan inspection and infrared thermography were examined as techniques which could be installed in-line to detect the defects in the seal and reduce the defective packages reaching the consumer. Pulse-echo technique was used for ultrasonic inspection. Only packages with tunneling defects were tested. The presence of tunneling could be seen on the images. But the presence of small diameter channels like 50.8 microns could not be seen at all. So after some experiments the technique was not found of high utility and lacked the reproducibility. The infrared thermography on the other hand showed promise as a useful utility. Polytrays with many kinds of defects were examined using infrared camera. A 100W lamp was used to heat the packages. Differential heat loss across the defect was recorded by the camera.&lt;/p&gt;
+&lt;p&gt;The results from burst tests were complimented using characterization techniques such as scanning electron microscopy (SEM). The SEM data was also complimented by FTIR/ATR spectroscopy technique to analyze as to which layer was undergoing delamination during the burst. Delamination was seen to occur between PP/PET layers for the trays which burst. Crazing was seen as the failure mechanism for PP.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2308</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3749&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2308</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3749</articleid>
+<submission-date>2013-10-17T11:42:19-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4733345</context-key>
+<submission-path>utk_gradthes/2308</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin M. Kit</value>
+</field>
+<field name="advisor2" type="string">
+<value>Marion G. Hansen, Roberto S. Benson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Polymer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

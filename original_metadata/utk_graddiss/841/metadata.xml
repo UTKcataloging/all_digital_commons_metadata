@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Management Tool for Assessment of Alternative Fuel Cycles</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jrpresto@gmail.com</email>
+<institution>jpresto4@utk.edu</institution>
+<lname>Preston</lname>
+<fname>Jeffrey</fname>
+<mname>R</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Nuclear Engineering Fuel Cycle Energy Power AFCI DOE FCRD</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A new approach to fuel cycle uncertainty analysis and optimization is presented that combines reactor physics information, spent fuel management, and economic forecasting, which may be used to investigate effects of decisions in the design of advanced nuclear fuel cycles.  The Matlab-based simulation includes isotopic mass and integral decay heat data produced by reactor physics codes in the SCALE package (SAS2, ORIGEN-ARP, and ORIGEN-S).  Reactor physics data for Light Water Reactor (LWR), and metal- and oxide-fueled Liquid Metal-cooled Fast Burner Reactor (LMFBR) designs are stored in databases that the code uses as needed.  Detailed models of the once through and hybrid LWR-LMFBR fuel cycles have been developed for repository decay heat analysis, determination of levelized unit electric cost (LUEC), and reprocessing of spent fuel into fast reactor fuel or targets as a means of isotopic inventory minimization.  The models may be run for single estimates based on best estimates of model parameters as either a Monte Carlo uncertainty analysis or as an optimization using Genetic Algorithms (GA).&lt;/p&gt;
+&lt;p&gt;Results from the LUEC calculations show the once through cycle has a bus bar cost of about $19.0mills/kWh (excluding repository and interim storage costs), and the hybrid cycle has a bus bar cost of about $26.5mills/kWh.  Implementation of the hybrid cycle compared to the closed once through cycle yields an effective repository mass capacity increase by a percentage of about 30% to 60% through full reprocessing of LWR spent fuel compared to original mass definitions of the Yucca Mountain repository.  The GA optimization routine allows the user to define any one of the variables present in the output structure as the fitness parameter; thus, optimization of any calculated value is possible, including economic cost, isotopic inventory, or required repository capacity.  Optimization of the once through cycle with respect to LUEC gives a result of $19.2 mills/kWh when burn up approaches the upper limit of 60 GWd/t and delay time spent fuel cools after discharge approaches 200 years (including repository and interim storage costs).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/841</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1825&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>841</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1825</articleid>
+<submission-date>2010-05-21T06:23:50-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1825/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1323135</context-key>
+<submission-path>utk_graddiss/841</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wes Hines, Ron Pevey, Dayakar Penumadu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

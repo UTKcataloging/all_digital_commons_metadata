@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On Decision Making: Bayesian And Stochastic Optimization Approaches</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yshen6@utk.edu</email>
+<lname>Shen</lname>
+<fname>Yang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Stochastic Optimization</keyword>
+<keyword>Markov Decision Process</keyword>
+<keyword>Pareto Optimal</keyword>
+<keyword>Bayesian Hierarchical Approach</keyword>
+<keyword>Simulation</keyword>
+</keywords>
+<disciplines><discipline>Other Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Decision analysis provides a framework for searching an optimal solution under uncertainties and potential risks. This thesis focuses on two problems arising in transportation engineering and computer sciences, respectively.&lt;/p&gt;
+&lt;p&gt;First, it is considered a centralized controller which imposes actions on a number of interacting subsystems. Employing an appropriate Markov Decision Process framework, we establish that the Pareto optimal solution of each subsystem will be optimal for the entire system. Synthetic data have been taken into account for verifying this claim.&lt;/p&gt;
+&lt;p&gt;Next, we focus on a supercomputing problem utilizing a hierarchical Bayesian model. We estimate an optimal solution in order to minimize the queuing time. The estimates are propagated via a Gibbs sampling and a Metropolis-type algorithm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1405</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2541&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1405</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2541</articleid>
+<submission-date>2012-11-13T14:26:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3465712</context-key>
+<submission-path>utk_gradthes/1405</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasileios Maroulas</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andreas Malikopoulos, Mary Sue Younger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

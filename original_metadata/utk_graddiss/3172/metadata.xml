@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Forward/Adjoint Hybrid Monte Carlo Absorbed Dose Calculational Method for Use in Radiation Therapy</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mtamimi@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tamimi</lname>
+<fname>Mat</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Adjoint MC</keyword>
+<keyword>Forward MC</keyword>
+<keyword>Fictitious Scattering</keyword>
+<keyword>Voxelized</keyword>
+</keywords>
+<abstract>&lt;p&gt;A successful radiation therapy treatment aims at conforming (i.e., concentrating) radiation dose to the entire tumor volume (i.e., diseased area) while avoiding surrounding normal tissue (i.e., healthy non-diseased areas). This objective is achieved clinically by finding a set of radiation beam parameters that successfully deliver the desired dose distribution.&lt;/p&gt;
+&lt;p&gt;In this project, a hybrid forward/adjoint Monte Carlo based absorbed dose computation method is developed and tested, aimed at eventual implementation in a radiation therapy external beam treatment planning system to predict the absorbed dose produced by a medical linear accelerator. This absorbed dose calculational engine was designed to be:  &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Efficient.&lt;/strong&gt; This is achieved by incorporating several Monte Carlo techniques used in the Nuclear Engineering field for deep penetration and reactor analysis problem.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Flexible.&lt;/strong&gt; This is achieved by using a Cartesian grid and a voxelized material map.&lt;/li&gt; &lt;/ol&gt;&lt;/p&gt;
+&lt;p&gt;Currently most of the absorbed dose calculation algorithms in radiotherapy are 3-D based predictive models. The use of such algorithms results in treatment planning quality that depends tremendously on the planner’s experience and knowledge base. This dependence, along with inaccuracy in predicting absorbed dose due to the assumptions and simplifications used in these algorithms, can result in a predicted absorbed dose that under- or over-predicts the delivered dose.&lt;/p&gt;
+&lt;p&gt;As an alternative, forward and adjoint Monte Carlo absorbed dose computation methods have been used and validated by several authors (Difilippo, 1998; Goldstein &amp; Regev, 1999; Jeraj &amp; Keall, 1999). However, in the “pure” forward or adjoint methods, each change in the radiation beam parameters requires its own time-consuming 3D calculation; for the hybrid technique developed in this research, a single 3D calculation for each desired dose region (tumor or healthy organ) is all that is required.&lt;/p&gt;
+&lt;p&gt;This project also improves the Monte Carlo methodology by incorporating the use of voxelized fictitious scattering and surface forward/adjoint coupling. The accuracy is demonstrated through comparison with forward and adjoint MCNP calculations of a simple beam/patient sample problem.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3172</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4360&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3172</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4360</articleid>
+<submission-date>2014-10-08T08:55:45-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4360/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6217203</context-key>
+<submission-path>utk_graddiss/3172</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ronald E. Pevey</value>
+</field>
+<field name="advisor2" type="string">
+<value>Laurence F. Miller, Lawrence W. Townsend, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

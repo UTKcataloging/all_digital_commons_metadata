@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Framework for Small Animal SPECT Imaging: Simulation and Reconstruction</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>slee91@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lee</lname>
+<fname>Sang Hyeb</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Medical Imaging</keyword>
+<keyword>SPECT</keyword>
+<keyword>Reconstruction</keyword>
+<keyword>Simulation</keyword>
+<keyword>Attenuation and Scatter Correction</keyword>
+</keywords>
+<disciplines><discipline>Computer Engineering</discipline>
+<discipline>Nuclear</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;Small animal Single Photon Emission Computed Tomography (SPECT) has been an invaluable asset in biomedical science since this non-invasive imaging technique allows the longitudinal studies of animal models of human diseases. However, the image degradation caused by non-stationary collimator-detector response and single photon emitting nature of SPECT makes it difficult to provide a quantitative measure of 3D radio-pharmaceutical distribution inside the patient. Moreover, this problem exacerbates when an intra-peritoneal X-ray contrast agent is injected into a mouse for low-energy radiotracers.&lt;/p&gt;
+&lt;p&gt;In this dissertation, we design and develop a complete computational framework for the entire SPECT scan procedure from the radio-pharmaceutical injection, image acquisition, attenuation and scatter correction, and to the image reconstruction. Using this framework, we solve several challenging problems in small animal SPECT imaging. In particular, we perform an in-depth analysis of photon attenuation and scatter in small SPECT imaging and evaluate the performance of correction methods under various imaging circumstances in terms of image quality and computational complexity. Furthermore, we propose various techniques to accelerate correction methods using computational accelerators. This research also implements and validates a solution for solving the cross-talk contamination problem in I-123 and I-125 by using the ratio of detected low and high energy I-123 activity to separate the mixed low energy I-123 and I-125 activities using our simulation framework. Iterative reconstruction methods produce an accurate image using an accurate system matrix model of the image acquisition process at the expense of computational time. This research examines and proposes various techniques for accelerating the analytic system matrix generation for 3D SPECT.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3346</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4716&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3346</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4716</articleid>
+<submission-date>2015-02-27T08:38:01-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6741320</context-key>
+<submission-path>utk_graddiss/3346</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Dustin Osborne, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

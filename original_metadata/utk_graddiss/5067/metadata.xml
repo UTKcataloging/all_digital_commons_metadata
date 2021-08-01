@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enhancement and Local Calibration of Mechanistic-Empirical Pavement Design Guide</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hgong2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Gong</lname>
+<fname>Hongren</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MEPDG</keyword>
+<keyword>calibration</keyword>
+<keyword>machine learning</keyword>
+<keyword>fatigue cracking</keyword>
+<keyword>IRI</keyword>
+<keyword>rutting</keyword>
+</keywords>
+<abstract>&lt;p&gt;The Mechanistic-Empirical Pavement Design Guide (MEPDG) represents the state-of-art procedure for pavement design. However, after more than a decade since its publication, the number of agencies that have reported entirely adopting this design system is small. Among the many causes of this phenomenon, the poor predictive accuracy of the performance prediction models is considered the most crucial one. To improve the accuracy of performance predicted by the MEPDG, a preliminary calibration was first conducted for these models with data from the pavement management system (PMS) of Tennessee, and then employed various machine learning algorithms for further improvements. Also, an approach for estimating the modulus of existing asphalt pavement was proposed to enhance the reliability of rehabilitation analysis with the MEPDG.The transfer functions for alligator cracking and longitudinal cracking were validated and calibrated with data collected from the PMS of the state of Tennessee. The results of calibration efforts showed that after calibration, both the bias and variance of the prediction were significantly reduced. It was noted that although local calibration helped improve the accuracy of the transfer functions, the extent of improvement is limited. An observation of the performance models revealed that they were either inadequately formulated or too inflexible to capture sufficient information from the inputs.To further improve the predictive performance of the transfer functions in the MEPDG, several machine learning algorithms were employed including the gradient boosted model (GBM) for fatigue cracking, deep neural networks for rutting, and random forest for IRI. Using the determination of coefficient (&lt;i&gt;R&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;) and root mean squared error (RMSE) as the measure of model performance, compared with the global transfer functions, the models developed achieved significantly better predictive performance.The results from the regularized regression model indicated that, compared with the model using deflection basins parameters (DBPs), the one without DBPs could still generate modulus prediction of reasonable accuracy. Rehabilitation analyses in the MEPDG with the estimated modulus also contributed to the improved accuracy in pavement performance prediction.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5067</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6608&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5067</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6608</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415494</context-key>
+<submission-path>utk_graddiss/5067</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Baoshan Huang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee D. Han, Angelica M. Palomino, Xiang Shu, Russell L. Zaretzki</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journal.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

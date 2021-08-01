@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Identifying High Risk Spatial-Temporal Clusters and Predictors for La Crosse Virus Vectors: Aedes albopictus (Skuse), Ae. japonicus  (Theobald), and Ae. triseriatus (Say) in an Endemic Area (Knox County, TN)</title>
+<publication-date>2019-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rrowe5@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Rowe</lname>
+<fname>Devin</fname>
+<suffix>D.R.</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>Aedes</keyword>
+<keyword>GLMMs</keyword>
+<keyword>spatial analysis</keyword>
+<keyword>SaTScan</keyword>
+<keyword>La Crosse Virus</keyword>
+<keyword>La Crosse Encephalitis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Southern Appalachia has the highest incidence of La Crosse encephalitis (LACE), the leading pediatric related arbovirus in the United State Disease. The pathogen, La Crosse virus (LACV), is carried and transmitted by three Aedes species: Ae. albopictus, Ae. japonicus, and Ae. triseriatus. One way to control Aedes mosquito populations is to discover predictors and identifying spatial and temporal patterns, which leads to understanding and eventual prediction of Aedes occurrence. I hypothesized that discovery of local variations in Aedes data can be explained with predictors specific to each LACV vector (Ae. albopictus, Ae. japonicus, and Ae. triseriatus) and clustering can be identified with spatial-temporal models. Forty-four sites were identified in Knox County, Tennessee by land use/type; at each site immature and host-seeking mosquitoes were collected for ~20 weeks during summer 2018. Kulldorffâ€™s spatial scan statistic using a Bernoulli probability distribution identified high risk abundance clusters of Ae. albopictus and Ae. triseriatus in south Knox County through May-June as an area/time for increased risk of these two vectors. A combination of on-site identification and remote sensing data were used to collect predictors and were analyzed using generalized linear mixed modeling (GLMM) with a different mathematical distribution for each species. In the Aedes egg model a negative binomial GLMM was developed and found positive associations between eggs and meteorological variables. For Ae. albopictus, a negative binomial GLMM was created and resulted in positive associations with meteorological and abundance of Ae. triseriatus. For Ae. triseriatus a zero-inflated negative binomial GLMM was created and resulted in a potential positive association with vegetation greenness, although it is likely confounded. Abundance of Ae. albopictus was positively associated with presence of Ae. triseriatus. Due to low Ae. japonicus counts, a logistic regression was developed and results indicated increased canopy coverage as a predictor for Ae. japonicus presence. This thesis will aide in regional mosquito control efforts by identifying predictors relevant to LACV vectors. The scanning statistic could be used to identify areas within Knox County to incorporate mosquito control for LACV vectors. Together, the predictors and spatial clusters provides new information about LACV vectors in endemic areas.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5529</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7002&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5529</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7002</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914331</context-key>
+<submission-path>utk_gradthes/5529</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rebecca Trout Fryxell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Agricola Odoi, Karen Vail, Graham Hickling</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Entomology and Plant Pathology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

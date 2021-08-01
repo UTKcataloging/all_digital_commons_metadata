@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Intelligent Cueing Device to Improve Ambient Gait Behaviors for Patients with Parkinson&#39;s Disease</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nnaghavi@utk.edu</email>
+<lname>Naghavi</lname>
+<fname>Nader</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Parkinson&#39;s disease</keyword>
+<keyword>freezing of gait</keyword>
+<keyword>wearable sensor</keyword>
+<keyword>machine learning</keyword>
+<keyword>deep learning</keyword>
+<keyword>anomaly detection</keyword>
+</keywords>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+</disciplines><abstract>&lt;p&gt;Freezing of gait (FoG) is a common motor dysfunction in individuals with Parkinson’s disease (PD). FoG impairs walking and is associated with increased fall risk. Although pharmacological treatments have shown promise during ON-medication periods, FoG remains difficult to treat during medication OFF state and in advanced stages of the disease. External cueing therapy in the forms of visual, auditory, and vibrotactile, has been effective in treating gait deviations. Intelligent (or on-demand) cueing devices are novel systems that analyze gait patterns in real-time and activate cues only at moments when specific gait alterations are detected. In this study we developed methods to analyze gait signals collected through wearable sensors and accurately identify FoG episodes. We also investigated the potential of predicting the symptoms before their actual occurrence.&lt;/p&gt;
+&lt;p&gt;We collected data from seven participants with PD using two Inertial Measurement Units (IMUs) on ankles. In our first study, we extracted engineered features from the signals and used machine learning (ML) methods to identify FoG episodes. We tested the performance of models using patient-dependent and patient-independent paradigms. The former models achieved 92.5% and 89.0% for average sensitivity and specificity, respectively. However, the conventional binary classification methods fail to accurately classify data if only data from normal gait periods are available. In order to identify FoG episodes in participants who did not freeze during data collection sessions, we developed a Deep Gait Anomaly Detector (DGAD) to identify anomalies (i.e., FoG) in the signals. DGAD was formed of convolutional layers and trained to automatically learn features from signals. The convolutional layers are followed by fully connected layers to reduce the dimensions of the features. A k-nearest neighbors (kNN) classifier is then used to classify the data as normal or FoG. The models identified 87.4% of FoG onsets, with 21.9% being predicted on average for each participant. This study demonstrates our algorithm&#39;s potential for delivery of preventive cues. The DGAD algorithm was then implemented in an Android application to monitor gait patterns of PD patients in ambient environments. The phone triggered vibrotactile and auditory cues on a connected smartwatch if an FoG episode was identified. A 6-week in-home study showed the potentials for effective treatment of FoG severity in ambient environments using intelligent cueing devices.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6083</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7367&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6083</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7367</articleid>
+<submission-date>2020-09-23T16:08:43-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19521635</context-key>
+<submission-path>utk_graddiss/6083</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Caleb Rucker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel Caleb Rucker, Eric Randolph Wade, Amir Sadovnik, Jindong Tan, Subhadeep Chakraborty</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;0000-0002-3273-7213&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

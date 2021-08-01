@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Two-stage Approach for Multi-objective Decision Making with Applications to System Reliability Optimization</title>
+<publication-date>2009-10-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hliao@email.arizona.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liao</lname>
+<fname>Haitao</fname>
+</author>
+<author>
+<institution>University of Washington - Seattle Campus</institution>
+<lname>Li</lname>
+<fname>Zhaojun</fname>
+</author>
+<author>
+<institution>Rutgers University - New Brunswick/Piscataway</institution>
+<lname>Coit</lname>
+<fname>David</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>System reliability; Multi-objective optimization; Self-organizing map; Data envelopment analysis</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This paper proposes a two-stage approach for solving multi-objective system reliability optimization problems. In this approach, a Pareto optimal solution set is initially identified at the first stage by applying a multiple objective evolutionary algorithm (MOEA). Quite often there are a large number of Pareto optimal solutions, and it is difficult, if not impossible, to effectively choose the representative solutions for the overall problem. To overcome this challenge, an integrated multiple objective selection optimization (MOSO) method is utilized at the second stage. Specifically, a self-organizing map (SOM), with the capability of preserving the topology of the data, is applied first to classify those Pareto optimal solutions into several clusters with similar properties. Then, within each cluster, the data envelopment analysis (DEA) is performed, by comparing the relative efficiency of those solutions, to determine the final representative solutions for the overall problem. Through this sequential solution identification and pruning process, the final recommended solutions to the multi-objective system reliability optimization problem can be easily determined in a more systematic and meaningful way.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/14</coverpage-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1014</articleid>
+<submission-date>2010-04-30T10:24:06-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1293965</context-key>
+<submission-path>utk_indupubs/14</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-04-30T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-10-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V4T-4VSB166-2&amp;_user=422010&amp;_coverDate=10%2F31%2F2009&amp;_rdoc=11&amp;_fmt=high&amp;_orig=browse&amp;_srch=doc-info(%23toc%235767%232009%23999059989%231267067%23FLA%23display%23Volume)&amp;_cdi=5767&amp;_sort=d&amp;_docanchor=&amp;_ct=23&amp;_acct=C000019958&amp;_version=1&amp;_urlVersion=0&amp;_userid=422010&amp;md5=7284e071d5ca9c4d5973cd08f273bd0c</value>
+</field>
+</fields>
+</document>
+</documents>

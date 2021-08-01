@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of 2D Spatial Filtering of Simulated Muscle Action Potential Using Grid Arrays</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rahman</lname>
+<fname>Mohammad</fname>
+<mname>Moshiur</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Surface grid electrode is a noninvasive technique, which can be utilized for topographic analysis of EMG signals. In this study, an innovative spatial filtering technique is proposed in the form of grid electrodes to enhance the selectivity of surface EMG signal considering the effect of intermediate tissue layers between source and recording electrode. A simulation algorithm is developed to generate complete profile of single fiber action potential (SFAP) using previously derived mathematical model and published clinical data. A multiple-layer model is investigated in order to determine the potential distribution at the skin, fat and muscle surface based on the solution of the Poisson equation in spatial frequency domain. The arbitrary constants of the solution are determined by imposing the boundary conditions. The characteristics of subcutaneous fat and skin tissues are incorporated in the SFAP model to develop a systematic approach to select an appropriate inter-electrode distance of two dimensional grid arrays in order to eliminate spatial aliasing and distortion. The minimum grid spacing is determined by satisfying the Nyquist criterion for spatial sampling. The subcutaneous tissue layers reduce the frequency contents and attenuate the amplitude of the potential distribution at muscle surface. A two dimensional spatial filter is designed by manipulating the inverse of transfer function of fat and skin in order to compensate their spatial widening effect. The inverse transfer function is approximated to represent it in the form of filter mask for a discrete grid array. This spatial filtering technique is also investigated to eliminate the effect of a particular thick anisotropic medium inside muscle.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2290</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3768&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2290</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3768</articleid>
+<submission-date>2013-10-17T12:36:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4733863</context-key>
+<submission-path>utk_gradthes/2290</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohammed Ferdjallah</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

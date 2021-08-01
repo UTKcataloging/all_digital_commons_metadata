@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Control of High Power Density Motor Drive</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>djiang4@utk.edu</email>
+<lname>Jiang</lname>
+<fname>Dong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>power density</keyword>
+<keyword>motor drive</keyword>
+<keyword>SiC</keyword>
+<keyword>EMI</keyword>
+<keyword>PWM</keyword>
+<keyword>variable switching frequency</keyword>
+<keyword>modular motor drive</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation aims at developing techniques to achieve high power density in motor drives under the performance requirements for transportation system. Four main factors influencing the power density are the main objects of the dissertation: devices, passive components, pulse width modulation (PWM) methods and motor control methods.&lt;/p&gt;
+&lt;p&gt;Firstly, the application of SiC devices could improve the power density of the motor drive. This dissertation developed a method of characterizing the SiC device performance in phase-leg with loss estimation, and claimed that with SiC Schottky Barrier Diode the advantage of SiC JFET could benefit the motor drive especially at high temperature.&lt;/p&gt;
+&lt;p&gt;Then the design and improvement of the EMI filter in the active front-end rectifier of the motor drive was introduced in this dissertation. Besides the classical filter design method, the parasitic parameters in the passive filter could also influence the filtering performance. Random PWM could be applied to reduce the EMI noise peak value.&lt;/p&gt;
+&lt;p&gt;The common-mode (CM) noise reduction by PWM methods is also studied in this dissertation. This dissertation compared the different PWM methods’ CM filtering performance. Considering the CM loop, the design of PWM methods and switching frequency should be together with the CM impedance.&lt;/p&gt;
+&lt;p&gt;Variable switching frequency PWM (VSFPWM) methods are introduced in the dissertation for the motor drive’s EMI and loss improvement. The current ripple of the three-phase converter could be predicted. Then the switching frequency could be designed to adapt the current ripple requirements. Two VSFPWM methods are introduced to satisfy the ripple current peak and RMS value requirements.&lt;/p&gt;
+&lt;p&gt;For motor control issue, this dissertation analyzed the principle of the start-up transient and proposed an improved start-up method. The transient was significantly reduced and the motor could push to high speed and high power with speed sensorless control.&lt;/p&gt;
+&lt;p&gt;Next, the hardware development of modular motor drive was introduced. The development and modification of 10kW phase-legs and full power test of a typical 30kW modular converter is realized with modular design method.&lt;/p&gt;
+&lt;p&gt;Finally, the techniques developed in this dissertation for high power density motor drive design and control are summarized and future works are proposed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1196</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2383&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1196</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2383</articleid>
+<submission-date>2011-11-14T12:16:51-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2349208</context-key>
+<submission-path>utk_graddiss/1196</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon. M. Tolbert, Yilu Liu, Rao. V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

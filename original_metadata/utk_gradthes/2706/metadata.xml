@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multidimensional CFD Modeling of a Liquid Salt Pebble Bed Heat Transfer Loop</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rcunnin6@utk.edu</email>
+<lname>Cunningham</lname>
+<fname>Richard</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>CFD</keyword>
+<keyword>Pebble Bed</keyword>
+<keyword>Heat Transfer</keyword>
+<keyword>Fluid Flow</keyword>
+<keyword>Advanced Reactor Design</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Pebble Bed Advanced High Temperature Reactor (PB-AHTR) is a next generation reactor design proposed by the University of California at Berkeley. Oak Ridge National Laboratory’s Liquid Salt Test Loop (LSTL) is designed to simulate AHTR operating conditions for component testing. In this study, COMSOL Multiphysics is used to model the LSTL. Full 3D modeling of the LSTL is computationally expensive. However, COMSOL allows users to combine 1D, 2D, and 3D fluid flow physics in order to design models that are both representative and efficient. 1D pipe flow calculations are used for the piping sections. COMSOL’s porous media module is used with a 2D-axisymmetric geometry to model the fluid flow and heat transfer in the pebble bed core. The heat exchanger used to reject the loop energy to air was modeled using a 3D k-epsilon turbulence model. Modeling the LSTL in this manner requires 1D-2D and 1D-3D couplings using average operators on the 2D and 3D boundaries derived from the corresponding 1D boundary conditions. Using this strategy, a coupled model has been developed in COMSOL that provides CFD and heat transfer predictions for the LSTL. The model is presently being used to evaluate heat exchanger performance and determine potential loop operating points. The COMSOL results will be validated against experimental data once the loop is operating in 2014.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2706</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3906&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2706</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3906</articleid>
+<submission-date>2013-12-19T15:04:40-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3906/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4936289</context-key>
+<submission-path>utk_gradthes/2706</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur E. Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>Graydon L. Yoder, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

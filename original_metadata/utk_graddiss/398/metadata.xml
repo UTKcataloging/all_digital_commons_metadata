@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Digital-to-Analog Converter Architecture for Multi-Channel Applications</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hale</lname>
+<fname>Mark</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Systems-on-chip with the capability of driving multiple analog voltages are useful for a variety of applications, including multiple actuator control for robotics applications, automated test equipment systems, industrial automation, programmable logic controllers, and satellite  ywheel motor control. Such applications require a DAC for each analog output. A multi-channel architecture that saves power and area by sharing hardware is needed.&lt;/p&gt;
+&lt;p&gt;This work introduces a new single-ramp multi-channel 12-bit DAC architecture. The architecture includes a low power Gray code counter, ramp generator, digital comparator, analog memory units, and control logic.&lt;/p&gt;
+&lt;p&gt;The new multi-channel DAC architecture allows hardware sharing between multiple channels, and enables Systems-on-Chip to have multiple analog outputs for stimulating transducers or motors. The DAC architecture is to be used in a variety of space and defense applications as part of the BAE Systems RAD6000 microcontroller project.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/398</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1458&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>398</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1458</articleid>
+<submission-date>2010-02-17T08:52:24-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1150198</context-key>
+<submission-path>utk_graddiss/398</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, M. Nance Ericson, Vasilios Alexiades, Ethan Farquhar, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/HaleMark.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

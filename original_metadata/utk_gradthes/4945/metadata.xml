@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Evaluation of a Sub-1-Volt Read Flash Memory in a Standard 130 Nanometer CMOS Process</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dbasford@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Basford</lname>
+<fname>David</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>flash memory</keyword>
+<keyword>VLSI</keyword>
+<keyword>low-power</keyword>
+<keyword>CMOS</keyword>
+<keyword>single-polysilicon</keyword>
+<keyword>floating gate</keyword>
+</keywords>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Nonvolatile memory design is a discipline that employs digital and analog circuit design techniques and requires knowledge of semiconductor physics and quantum mechanics. Methods for programming and erasing memory are discussed here, and simulation models are provided for Impact Hot Electron Injection (IHEI), Fowler-Nordheim (FN) tunneling, and direct tunneling. Extensive testing of analog memory cells was used to derive a set of equations that describe the oating-gate characteristics. Measurements of charge retention also revealed several leakage mechanisms, and methods for mitigating leakage are presented.&lt;/p&gt;
+&lt;p&gt;Fabrication of ash memory in a standard CMOS process presents significant design challenges. The absence of multiple polysilicon layers requires that additional devices be used to control the oating-gate voltage. Furthermore high-voltage devices are often required to isolate the selected memory cells during write and erase cycles. However, a single-poly design allows portability to another standard process provided that the oating-gate characteristics are known.&lt;/p&gt;
+&lt;p&gt;A ash memory system is presented here that has been fabricated in a standard 130 nanometer CMOS process. The design utilizes capacitive feedback to maintain desired injection current during programming. It also includes a sense amplifier design which features auto-zeroing of inherent offsets. Comparisons to existing memory designs show that a significant improvement in areal density was achieved through the elimination of on-die high-voltage charge pumps and switches. Measurements were performed over a range of clock frequencies and supply voltages. Results show that this memory system is capable of a read access time of 3.5 microseconds with a 1 megahertz clock while consuming less than 25 microwatts from a 1 volt supply. Operation down to 650 millivolts was confirmed where power consumption was reduced to only 3.4 microwatts. The low power consumption and high density of this ash memory make it an excellent choice for on-die firmware storage in battery-powered embedded applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4945</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5842&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4945</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5842</articleid>
+<submission-date>2017-02-24T14:05:29-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9747943</context-key>
+<submission-path>utk_gradthes/4945</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Syed Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

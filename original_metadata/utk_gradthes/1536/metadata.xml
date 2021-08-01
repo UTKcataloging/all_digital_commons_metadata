@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Developmental Flight Test Lessons Learned from Open Architecture Software in the Mission Computer of the U.S. Navy E-2C Group II Aircraft</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cruz</lname>
+<fname>Randy</fname>
+<mname>Cristobal</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Naval Air Systems Command commissioned the E-2C Hawkeye Group II Mission Computer Replacement Program and tasked Air Test and Evaluation Squadron Two-Zero and the E-2C Integrated Test Team to evaluate the integration of the form, fit, and function of the OL-698/ASQ Mission Computer Replacement (MCR) for replacement of the Litton L-304 Mission Computer in the E-2C Group II configured aircraft. As part of the life cycle support of the E-2C aircraft, the MCR configuration fields a new, more reliable Commercial-off-the-Shelf (COTS) hardware system and preserves the original software investment by emulating the existing Litton Instructional Set Architecture (LISA) legacy code.&lt;/p&gt;
+&lt;p&gt;Incorporating Northrop Grumman Space Technology’s Reconfigurable Processor for Legacy Applications Code Execution (RePLACE) software re-hosting technique, the investment in the LISA software is maintained. Conducting developmental test of robust software systems, such as the MCR and its associated software, provided dramatically different challenges than traditional developmental testing.&lt;/p&gt;
+&lt;p&gt;A series of lessons were learned through particular discrepancies and deficiencies discovered through the six month flight test period. Specific deficiencies illustrate where proper planning could ease the difficulties encountered in software testing. Keys to successful developmental software tests include having the appropriate personnel on the test team with the proper equipment and capability. Equally important, inadequate configuration management creates more problems than fixes. Software re-programming can provide faster fixes than traditional developmental test. The flexibility of software programming makes configuration management a challenge as multiple versions become available in a short amount of time. Multiple versions of software heighten the risk of configuration management breakdown during limited amount of available flight tests. Each re-programmed version potentially fixes targeted deficiencies, but can also cause new issues in functional areas already tested. Inherently, regression testing impacts the schedule. Software testing requires a realistic schedule that the author believes should compensate for anticipated problems. Data collection, reduction, and analysis always prove to be valuable in developmental testing. A solid instrumentation plan for data collection from all parties involved in flight tests, especially data link network tests, are critical for trouble shooting discovered deficiencies.&lt;/p&gt;
+&lt;p&gt;Software testing is relatively new to the developmental test world and can be seen as the way of the future. Software upgrades lure program managers into a potentially cost effective option in the face of aging avionics systems. With realistic planning and configuration management, the cost and performance effectiveness of software upgrades and development is more likely to become realized.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1536</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2983&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1536</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2983</articleid>
+<submission-date>2013-08-02T12:39:28-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4383607</context-key>
+<submission-path>utk_gradthes/1536</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert B. Richards</value>
+</field>
+<field name="advisor2" type="string">
+<value>George W. Masters, George W. Garrison</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

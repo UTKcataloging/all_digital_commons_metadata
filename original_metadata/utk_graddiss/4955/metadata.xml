@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Configurable Low Power Analog Multilayer Perceptron</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Dix</lname>
+<fname>Jeffery</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>analog</keyword>
+<keyword>low power</keyword>
+<keyword>multilayer perceptron</keyword>
+<keyword>configurable</keyword>
+<keyword>neural networks</keyword>
+</keywords>
+<abstract>&lt;p&gt;A configurable, low power analog implementation of a multilayer perceptron (MLP) is presented in this work. It features a highly programmable system that allows the user to create a MLP neural network design of their choosing. In addition to the configurability, this neural network provides the ability of low power operation via analog circuitry in its neurons. The main MLP system is made up of 12 neurons that can be configurable to any number of layers and neurons per layer until all available resources are utilized. The MLP network is fabricated in a standard 0.13 &lt;i&gt;μ&lt;/i&gt;m CMOS process occupying approximately 1 &lt;i&gt;mm&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; of on-chip area. The MLP system is analyzed at several different configurations with all achieving a greater than 1 Tera-operations per second per Watt figure of merit. This work offers a high speed, low power, and scalable alternative to digital configurable neural networks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4955</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6496&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4955</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6496</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415174</context-key>
+<submission-path>utk_graddiss/4955</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vasilios Alexiades, Jeremy H. Holleman III, Lynne E. Parker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

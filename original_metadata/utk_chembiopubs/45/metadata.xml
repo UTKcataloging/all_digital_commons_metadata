@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Efficient Parallel Algorithms for Molecular Dynamics Simulations using Variable Charge Transfer Electrostatic Potentials</title>
+<publication-date>2000-10-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>U.S. Naval Research Laboratory</institution>
+<lname>Mintmire</lname>
+<fname>J.</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>molecular dynamics; simulation; parallel algorithm; alumina; electrostatic potential</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We present an algorithm developed for the efficient computation on parallel computers of molecular dynamics simulations of materials with electrostatic potentials that allow for dynamic charge evolution. This algorithm combines a hierarchical cell multipole method for the fast evaluation of the electrostatic potential with a Broyden-Fletcher-Goldfarb-Shanno scheme for approximate solutions to arbitrary precision of the electronegativity equalization condition, which defines charge transfer in the material. We apply this algorithm to the simulation of a model -alumina slab at equilibrium. First, we demonstrate that simple fixed-charge models yield different bulk energies than do dynamic-charge models. Second, we compare our algorithm with two previously published techniques for the simulation of dynamic charges in electrostatic materials, discussing both computational speed and numerical accuracy. We show the relative computational speed-up of this scheme over a direct evaluation of the linear equations, and show that intrinsic flaws in other approximate dynamic-charge schemes can be avoided with this approach.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/45</coverpage-url>
+<label>45</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1060</articleid>
+<submission-date>2010-05-26T08:04:21-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1331258</context-key>
+<submission-path>utk_chembiopubs/45</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Keffer,  D. J. &amp; Mintmire, J. W. (2000). Efficient parallel algorithms for molecular dynamics simulations using variable charge transfer electrostatic potentials. International Journal of Quantum Chemistry, (80)4-5, 733-742.
+http://dx.doi.org/10.1002/1097-461X(2000)80:4/5&lt;733::AID-QUA23&gt;3.0.CO;2-Q</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-26T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-10-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://onlinelibrary.wiley.com/doi/10.1002/1097-461X(2000)80:4/5%3C733::AID-QUA23%3E3.0.CO;2-Q/abstract</value>
+</field>
+</fields>
+</document>
+</documents>

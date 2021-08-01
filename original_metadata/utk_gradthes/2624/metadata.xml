@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mapping Spatial Thematic Accuracy Using Indicator Kriging</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mmarti85@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Martinez</lname>
+<fname>Maria</fname>
+<mname>I.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>thematic accuracy</keyword>
+<keyword>National Land Cover Data</keyword>
+<keyword>kriging</keyword>
+<keyword>geostatistics</keyword>
+</keywords>
+<disciplines><discipline>Categorical Data Analysis</discipline>
+<discipline>Databases and Information Systems</discipline>
+<discipline>Probability</discipline>
+</disciplines><abstract>&lt;p&gt;Thematic maps derived from remote sensing imagery is increasingly being used in environmental and ecological modeling. Spatial information in these maps however is not free of error. Different methodologies such as error matrices are used to assess the accuracy of the spatial information. However, most of the methods commonly used for describing the accuracy assessment of thematic data fail to describe spatial differences of the accuracy across an area of interest. This thesis describes the use of indicator kriging as a geostatistical method for mapping the spatial accuracy of thematic maps. The method is illustrated by constructing accuracy maps for the forest land-cover classes in the 2001 National Land Cover Dataset (NLCD) extent covering the conterminous United States. Independent reference data collected for the accuracy assessment of the 2001 NCLD was used. This thesis also describes the use of indicator cokriging for improving the thematic accuracy of the forest land-cover classes by adding information from other land-cover classes as additional variables. Finally, probability surfaces resulted from indicator kriging and indicator cokriging will be used to generate alternate realizations of the forest land-cover class through stochastic simulation. Such realizations could serve as input parameters to spatially explicit models. Result show how thematic accuracy varies across regions and it outlines differences between land-cover estimates by NLCD and those created through indicator kriging.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2624</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2840&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2624</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2840</articleid>
+<submission-date>2013-06-10T13:31:36-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2840/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4211377</context-key>
+<submission-path>utk_gradthes/2624</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Liem T. Tran</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicholas Nagle, Budhendra L. Bhaduri</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

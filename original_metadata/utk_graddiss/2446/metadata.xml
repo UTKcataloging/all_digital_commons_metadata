@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Finite Difference and Discontinuous Galerkin Finite Element Methods for Fully Nonlinear Second Order Partial Differential Equations</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tlewis10@utk.edu</email>
+<lname>Lewis</lname>
+<fname>Thomas</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<keywords>
+<keyword>numerical PDEs</keyword>
+<keyword>fully nonlinear PDEs</keyword>
+<keyword>discontinuous Galerkin methods</keyword>
+<keyword>finite difference methods</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+</disciplines><abstract>&lt;p&gt;The dissertation focuses on numerically approximating viscosity solutions to second order fully nonlinear partial differential equations (PDEs). The primary goals of the dissertation are to develop, analyze, and implement a finite difference (FD) framework, a local discontinuous Galerkin (LDG) framework, and an interior penalty discontinuous Galerkin (IPDG) framework for directly approximating viscosity solutions of fully nonlinear second order elliptic PDE problems with Dirichlet boundary conditions. The developed frameworks are also extended to fully nonlinear second order parabolic PDEs. All of the proposed direct methods are tested using Monge-Ampere problems and Hamilton-Jacobi-Bellman (HJB) problems. Due to the significance of HJB problems in relation to stochastic optimal control, an indirect methodology for approximating HJB problems that takes advantage of the inherent structure of HJB equations is also developed.&lt;/p&gt;
+&lt;p&gt;First, a FD framework is developed that guarantees convergence to viscosity solutions when certain properties concerning admissibility, stability, consistency, and monotonicity are satisfied. The key concepts introduced are numerical operators, numerical moments, and generalized monotonicity. One class of FD methods that fulfills the framework provides a direct realization of the vanishing moment method for approximating second order fully nonlinear PDEs. Next, the emphasis is on extending the FD framework using DG methodologies. In particular, some nonstandard LDG and IPDG methods that utilize key concepts from the FD framework are formulated. Benefits of the DG methodologies over the FD methodology include the ability to handle more complicated domains, more freedom in the design of meshes, higher potential for adaptivity, and the ability to use high order elements as a means for increased accuracy. Last, a class of indirect methods for approximating HJB equations using the vanishing moment method paired with a splitting formulation of the HJB problem is developed and tested numerically. The proposed methodology is well-suited for both continuous and discontinuous Galerkin methods, and it complements the direct methods developed in the dissertation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2446</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3074&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2446</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3074</articleid>
+<submission-date>2013-06-20T10:44:51-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4246885</context-key>
+<submission-path>utk_graddiss/2446</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaobing H. Feng</value>
+</field>
+<field name="advisor2" type="string">
+<value>Suzanne M. Lenhart, Ohannes Karakashian, Alfredo Galindo-Uribarri</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

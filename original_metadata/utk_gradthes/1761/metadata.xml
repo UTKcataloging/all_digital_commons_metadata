@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Microprocessor Implementation of Autoregressive Analysis of Process Sensor Signals</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pakala</lname>
+<fname>Swetha</fname>
+<mname>Priyanka</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Automated signal analysis can help for effective system surveillance and also to analyze the dynamic behavior of the system such as impulse response, step response etc. Autoregressive analysis is a parametric technique widely used for system surveillance and diagnosis. The main aim objective of this research work is to develop an embedded system for autoregressive analysis of sensor signals in an online fashion for monitoring system parameters. This thesis presents the algorithm, data representation and performance of the optimized microprocessor implementation of autoregressive analysis.&lt;/p&gt;
+&lt;p&gt;In this work an autoregressive (AR) model is generated as a solution to a linear system of equations called Yule-Walker linear equations. The generated model is then implemented on Motorola PowerPC MPC555 processor. The embedded software for autoregressive analysis is written in the C programming language using fixed point arithmetic. It includes estimation of the autoregressive parameters, estimation of the noise variance recursively using the AR parameters, determination of the optimal model order and the model validation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1761</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3112&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1761</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3112</articleid>
+<submission-date>2013-08-27T10:14:34-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4511567</context-key>
+<submission-path>utk_gradthes/1761</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle R. Upadhyaya, Syed Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Electric Power System Operations with a Variable Series Reactor</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xzhang46@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Xiaohu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Transmission network</keyword>
+<keyword>optimization</keyword>
+<keyword>N-1 contingency</keyword>
+<keyword>FACTS allocation</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Series FACTS devices, such as a Variable Series Reactor (VSR), have the ability to continuously regulate the transmission line reactance so as to control power ow. This research work evaluates the benefits brought by VSRs in different aspects of power system and develops efficient planning models and algorithms to provide optimal investment plan for the VSRs.&lt;/p&gt;
+&lt;p&gt;First, an optimization approach capable of finding both optimal locations and settings of VSRs under a specific operating condition is developed. The tool implements a full ac model as well as detailed models for different power system components.&lt;/p&gt;
+&lt;p&gt;Second, an optimization tool which can optimally allocate VSRs to improve the load margin in a transmission network considering a multi-scenario framework including base case and some critical contingencies is proposed. Starting from a mixed integer nonlinear programming (MINLP) model, a reformulation technique is leveraged to transform the MINLP model into a mixed integer linear programming (MILP) model so that it is computationally tractable for large scale power systems. Detailed numerical simulations on the practical Northwest US power network demonstrate the proposed technique and the capability of VSRs.&lt;/p&gt;
+&lt;p&gt;Third, the VSR is introduced in the Transmission Expansion Planning (TEP) problem. A security constrained multi-stage TEP with the VSR is formulated as an MILP model. To reduce the computational burden for a practical large scale system, a decomposition approach is proposed. Simulation results demonstrate the effectiveness of the proposed approach and show that the appropriately allocated VSRs allow reduced planning costs.&lt;/p&gt;
+&lt;p&gt;Fourth, in order to investigate the economic benefits brought by VSR in contingencies, a planning model to allocate VSR considering different operating conditions and the &lt;em&gt;N&lt;/em&gt; - 1 contingencies is formulated. We consider a single target year planning. Three distinct load patterns which represent peak, normal and low load level are selected to accommodate the yearly load profile. The transmission contingencies can occur in any of the three load conditions. A two phase Benders decomposition is proposed to solved the large scale MILP model. Simulation results on the IEEE-118 bus system and the practical Polish system establish the efficient performance of the proposed algorithm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4514</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5761&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4514</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5761</articleid>
+<submission-date>2017-02-15T10:25:54-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9692697</context-key>
+<submission-path>utk_graddiss/4514</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Xueping Li, Aleksandar Dimitrovski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

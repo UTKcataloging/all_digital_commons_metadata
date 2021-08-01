@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Bayesian Approach to Broad-Area Nuclear and Radiological Search Operations</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>swillmon@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Willmon</lname>
+<fname>Samuel</fname>
+<mname>James</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nuclear detection</keyword>
+<keyword>broad-area search</keyword>
+<keyword>Bayesian methods</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation describes the development, implementation, and initial performance testing of the Broad-Area Search Bayesian Processor (BASBP). The BASBP is a novel FORTAN code designed to combine the data from aerial radiation detection platforms with available geo-spatial data using Bayesian techniques to provide updated parameter estimates of the problem space. By employing empirical fits to the Monte Carlo photon flux estimates generated using MCNP6, the core BASBP model accounts for the increasing significance of photon scattering and absorption events with source-detector range. The BASBP employs Bayesian signal processing methods to estimate both the spatially varying background and the most likely signal contribution from radioactive sources of interest. In demonstrating the capabilities of the BASBP, it is shown that the coupling of Bayesian signal processing methods with radiation transport physics affords the opportunity to effectively treat the spatially varying background signal, improve the range at which detection, localization, and identification decisions are made; provide real-time recommendations on sensor employment; provide the framework for fusing data from multiple sensors and data from disparate sensor types (true multi-source data fusion); and, enhance the nuclear detection capabilities of first responder or national security organizations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2781</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4048&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2781</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4048</articleid>
+<submission-date>2014-02-27T14:42:24-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5232334</context-key>
+<submission-path>utk_graddiss/2781</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Howard L. Hall</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald E. Pevey, Jason P. Hayward, Glenn O. Allgood</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Power Management for GPU-CPU Heterogeneous Systems</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xli44@utk.edu</email>
+<lname>Li</lname>
+<fname>Xue</fname>
+</author>
+</authors>
+<keywords>
+<keyword>GPGPU</keyword>
+<keyword>Heterogeneous System</keyword>
+<keyword>Power</keyword>
+<keyword>Energy</keyword>
+<keyword>Workload Division</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, GPU-CPU heterogeneous architectures have been increasingly adopted in high performance computing, because of their capabilities of providing high computational throughput. However, current research focuses mainly on the performance aspects of GPU-CPU architectures, while improving the energy efficiency of such systems receives much less attention. There are few existing efforts that try to lower the energy consumption of GPU-CPU architectures, but they address either GPU or CPU in an isolated manner and thus cannot achieve maximized energy savings. In this paper, we propose GreenGPU, a holistic energy management framework for GPU-CPU heterogeneous architectures. Our solution features a two-tier design. In the first tier, GreenGPU dynamically splits and distributes workloads to GPU and CPU based on the workload characteristics, such that both sides can finish approximately at the same time. As a result, the energy wasted on staying idle and waiting for the slower side to finish is minimized. In the second tier, GreenGPU dynamically throttles the frequencies of GPU cores and memory in a coordinated manner, based on their utilization, for maximized energy savings with only marginal performance degradation. Likewise, the frequency and voltage of the CPU are scaled similarly. We implement GreenGPU using the CUDA framework on a real physical testbed with Nvidia GeForce GPUs and AMD Phenom II CPUs. Experiment results with standard Rodinia benchmarks show that GreenGPU achieves 21.04% average energy savings and outperform several well-designed baselines.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1079</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2094&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1079</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2094</articleid>
+<submission-date>2011-06-24T13:52:10-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2075469</context-key>
+<submission-path>utk_gradthes/1079</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaorui Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Qing Cao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

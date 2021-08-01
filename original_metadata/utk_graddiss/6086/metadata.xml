@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Supplier Ranking System and Its Effect on the Reliability of the Supply Chain</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kjalili@vols.utk.edu</email>
+<lname>Rabib</lname>
+<fname>Farshad</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Supply chain</keyword>
+<keyword>Ranking</keyword>
+<keyword>Reliability of supply chain</keyword>
+<keyword>Part Rank</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Systems Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Today, due to the growing use of social media and an increase in the number of&lt;/p&gt;
+&lt;p&gt;A HITS with a solution in PageRank (Massimo, 2011) sharing their opinions globally, customers can review products and services in many novel ways. However, since most reviewers lack in-depth technical knowledge, the true picture concerning product quality remains unclear. Furthermore, although product defects may come from the supplier side, making it responsible for repair cost, it is ultimately the manufacturer whose name is damaged when such defects are revealed. In this context, we need to revisit the cost vs. quality equations. Observations of customer behavior towards brand name and reputation suggest that, contrary to the currently dominant model in production where manufacturers are&lt;/p&gt;
+&lt;p&gt;expected to control only Tier 1 supplier and make it responsible for all higher tiers,&lt;/p&gt;
+&lt;p&gt;manufacturers should also have a better hold on the entire supply chain. Said differently, while the current system considers all parts in Tier 1 as equally important, it underestimates the importance of the impact of each piece on the final product. Another flaw of the current system is that, by commonizing the pieces in several different products, such as different care models of the same manufacturer to reduce the cost, only the supplier of the most common parts will be considered essential and thus get the most attention during quality control. To address the aforementioned concerns, in the present study, we created a parts/supplier ranking algorithm and&lt;/p&gt;
+&lt;p&gt;implemented it into our supply chain system. Upon ranking all suppliers and parts, we calculated the minimum number of the elements, from Tier 1 to Tier 4, that have to be checked in our supply chain. In doing so, we prioritized keeping the cost as low as possible with most inferior possible defects.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6086</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7377&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6086</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7377</articleid>
+<submission-date>2020-09-26T21:00:56-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7377/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19553369</context-key>
+<submission-path>utk_graddiss/6086</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Andrew Yu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr.James Simonton,Dr. John Kobza,Dr. Reza Abedi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

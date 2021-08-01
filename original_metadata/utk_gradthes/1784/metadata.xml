@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Hamiltonian-Based Algorithm for Equilibrium Molecular Dynamics Simulation at Constant Chemical Potential</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Reyes</lname>
+<fname>Johanna</fname>
+<mname>Marie</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of the research described in this thesis is to determine whether dilating mass can produce an equilibrium molecular dynamics algorithm for rigorous constant chemical potential simulation. The hypothesis is tested by developing an equilibrium molecular dynamics algorithm for the grand ensemble (constant chemical potential, volume and energy ensemble or μVƐ ensemble) following a methodical procedure developed by Keffer &lt;em&gt;et al&lt;/em&gt;. [1] and running simulations on possibly a μVƐ ensemble. A novel concept for a chemicostat controller is described. An equation for the instantaneous chemical potential is not available, thus a property, called the instantaneous partial specific Hamiltonian, that is related to the chemical potential was defined. The Hamiltonian for the μVƐ ensemble was formulated and from this the equations of motion were derived. The derivation of the algorithm for the integration scheme – single time scale reversible reference system propagator (rRESPA) is presented. We were able to simulate successfully a stable algorithm (i.e., the chemicostat controller functions properly, driving the system to the set point product of the partial specific Hamiltonian and mass), and show an equivalence of the change in mass and the change in number of particles with respect to the change in potential energy. The methodical procedure for algorithm development has great potential for extending the μVƐ ensemble algorithm to rigorous grand canonical ensemble EMD simulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1784</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3136&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1784</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3136</articleid>
+<submission-date>2013-08-30T13:45:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4532437</context-key>
+<submission-path>utk_gradthes/1784</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David J. Keffer, Brian J. Edwards</value>
+</field>
+<field name="advisor2" type="string">
+<value>William V. Steele</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

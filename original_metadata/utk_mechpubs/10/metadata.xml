@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Reduced-order Model for Electrically Actuated Microplates</title>
+<publication-date>2004-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhao</lname>
+<fname>Xiaopeng</fname>
+</author>
+<author>
+<institution>Virginia Polytechnic Institute and State University</institution>
+<lname>Abdel-Rahman</lname>
+<fname>Eihab</fname>
+<mname>M.</mname>
+</author>
+<author>
+<institution>Virginia Polytechnic Institute and State University</institution>
+<lname>Nayfeh</lname>
+<fname>Ali</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Engineering and Bioengineering</discipline>
+<discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We present a reduced-order model for electrically actuated microplate-based MEMS. The model accounts for the electric force nonlinearity and the mid-plane stretching of the plate. The linear undamped vibration modes are found numerically using the hierarchical finite-element method. These mode shapes are used in a Galerkin approximation to reduce the partial-differential equations of motion and associated boundary conditions into a finite-dimensional system of nonlinearly coupled second-order ordinary-differential equations. The model is validated by comparing its results with those obtained experimentally and those obtained by solving the distributed-parameter system. The model is used to calculate the deflection of the microplate under dc voltages and study the pull-in phenomenon. The natural frequencies and mode shapes around these deflected positions of the microplate are calculated by solving the linear eigenvalue problem. The effects of various design parameters on both the static and dynamic characteristics of microplates are studied. The reduced-order model provides an effective and accurate design tool, useful in design optimization and determination of the stable operation range of MEMS devices.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_mechpubs/10</coverpage-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1010</articleid>
+<submission-date>2010-07-29T08:30:04-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Mechanical, Aerospace and Biomedical Engineering</publication-title>
+<context-key>1414999</context-key>
+<submission-path>utk_mechpubs/10</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Xiaopeng Zhao, Eihab M. Abdel-Rahman, and Ali H. Nayfeh. &quot;A Reduced-order Model for Electrically Actuated Microplates&quot; Journal of Micromechanics and Microengineering 14.4 (2004): 900-906.</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-07-29T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://iopscience.iop.org/0960-1317/14/7/009</value>
+</field>
+</fields>
+</document>
+</documents>

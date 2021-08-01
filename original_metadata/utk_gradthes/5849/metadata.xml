@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Random Search Plus: A more effective random search for machine learning hyperparameters optimization</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bli43@vols.utk.edu</email>
+<lname>Li</lname>
+<fname>Bohan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Machine Learning</keyword>
+<keyword>Hyerparameter Optimization</keyword>
+<keyword>Random Search</keyword>
+<keyword>Random Search Plus</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Statistical Methodology</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Machine learning hyperparameter optimization has always been the key to improve model performance. There are many methods of hyperparameter optimization. The popular methods include grid search, random search, manual search, Bayesian optimization, population-based optimization, etc. Random search occupies less computations than the grid search, but at the same time there is a penalty for accuracy. However, this paper proposes a more effective random search method based on the traditional random search and hyperparameter space separation. This method is named random search plus. This thesis empirically proves that random search plus is more effective than random search. There are some case studies to do a comparison between them, which consists of four different machine learning algorithms including K-NN, K-means, Neural Networks and Support Vector Machine as optimization objects with three different size datasets including Iris flower, Pima Indians diabetes and MNIST handwritten dataset. Compared to traditional random search, random search plus can find a better hyperparameters or do an equivalent optimization as random search but with less time at most cases. With a certain hyperparameter space separation strategy, it can only need 10% time of random search to do an equivalent optimization or it can increase both the accuracy of supervised leanings and the silhouette coefficient of a supervised learning by 5%-30% in a same runtime as random search. The distribution of the best hyperparameters searched by the two methods in the hyperparameters space shows that random search plus is more global than random search. The thesis also discusses about some future works like the feasibility of using genetic algorithm to improve the local optimization ability of random search plus, space division of non-integer hyperparameters, etc.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5849</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7047&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5849</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7047</articleid>
+<submission-date>2020-09-29T23:32:50-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>19611992</context-key>
+<submission-path>utk_gradthes/5849</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce J.MacLennan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce J.MacLennan, Audris Mockus, Amir Sadovnik</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

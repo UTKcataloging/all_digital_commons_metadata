@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Expert System for Guitar Sheet Music to Guitar Tablature</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>che3@utk.edu</email>
+<lname>He</lname>
+<fname>Chuanjun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Image Processing</keyword>
+<keyword>Artificial Intelligence</keyword>
+<keyword>Guitar Tablature Generation</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This project applies analysis, design and implementation of the Optical Music Recognition (OMR) to an expert system for transforming guitar sheet music to guitar tablature. The first part includes image processing and music semantic interpretation to interpret and transform sheet music or printed scores into editable and playable electronic form. Then after importing the electronic form of music into internal data structures, our application uses effective pruning to explore the entire search space to find the best guitar tablature. Also considered are alternate guitar tunings and transposition of the music to improve the resulting tablature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1731</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2872&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1731</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2872</articleid>
+<submission-date>2013-02-26T08:17:16-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3787504</context-key>
+<submission-path>utk_graddiss/1731</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Vose</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Itamar Arel, Marianne Woodside</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

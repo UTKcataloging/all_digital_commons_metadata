@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Image Segmentation using PDE, Variational, Morphological and Probabilistic Methods</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pan</lname>
+<fname>Yongsheng</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The research in this dissertation has focused upon image segmentation and its related areas, using the techniques of partial differential equations, variational methods, mathematical morphological methods and probabilistic methods. An integrated segmentation method using both curve evolution and anisotropic diffusion is presented that utilizes both gradient and region information in images. A bottom-up image segmentation method is proposed to minimize the Mumford-Shah functional. Preferential image segmentation methods are presented that are based on the tree of shapes in mathematical morphologies and the Kullback-Leibler distance in information theory. A thorough evaluation of the morphological preferential image segmentation method is provided, and a web interface is described. A probabilistic model is presented that is based on particle filters for image segmentation.&lt;/p&gt;
+&lt;p&gt;These methods may be incorporated as components of an integrated image processed system. The system utilizes Internet Protocol (IP) cameras for data acquisition. It utilizes image databases to provide prior information and store image processing results. Image preprocessing, image segmentation and object recognition are integrated in one stage in the system, using various methods developed in several areas. Interactions between data acquisition, integrated image processing and image databases are handled smoothly. A framework of the integrated system is implemented using Perl, C++, MySQL and CGI.&lt;/p&gt;
+&lt;p&gt;The integrated system works for various applications such as video tracking, medical image processing and facial image processing. Experimental results on this applications are provided in the dissertation. Efficient computations such as multi-scale computing and parallel computing using graphic processors are also presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/261</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1314&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>261</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1314</articleid>
+<submission-date>2010-02-04T12:45:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1132450</context-key>
+<submission-path>utk_graddiss/261</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell, Seddik M. Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Tse-Wei Wang, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/PanYongsheng.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

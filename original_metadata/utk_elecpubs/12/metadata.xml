@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Inferring gene coexpression networks for low dose ionizing radiation using graph theoretical algorithms and systems genetics</title>
+<publication-date>2010-07-23T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Naswa</lname>
+<fname>Sudhir</fname>
+</author>
+<author>
+<email>grogers3@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rogers</lname>
+<fname>Gary</fname>
+<mname>L.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Lynch</lname>
+<fname>Rachel</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>skania@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kania</lname>
+<fname>Stephen</fname>
+<mname>A.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Das</lname>
+<fname>Suchita</fname>
+</author>
+<author>
+<institution>The Jackson Laboratory</institution>
+<lname>Chesler</lname>
+<fname>Elissa</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>asaxton@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Saxton</lname>
+<fname>Arnold</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>bhvoy@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Voy</lname>
+<fname>Brynn</fname>
+<mname>H.</mname>
+</author>
+<author>
+<email>langston@eecs.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Biological data generated through large scale -omics technologies have resulted in a new paradigm in the study of biological systems. Instead of focusing on individual genes or proteins these technologies enable us to extract biological networks using powerful computing and statistical algorithms that are scalable to very large datasets.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;  &lt;h3&gt;Materials and methods&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;We have developed a tool chain using novel graph algorithms to extract gene coexpression networks from microarray data. We highlight implementation of our tool chain to investigate the effects of in vivo low dose ionizing radiation treatments on mice. We are using systems genetics approach to investigate the biological effects of low dose (10 cGy) ionizing radiation. We measured the base line gene expression profile from spleen tissue of BXD recombinant inbred mice using Illumina microarrays. The data was filtered using coefficient of variance after robust spline normalization and variance stabilizing transformation. A graph was then derived from this data, with probes as vertices and edges between them representing correlations. The graph was analyzed using our toolkit to find the size and number of maximal cliques. We deployed another tool called paraclique that relaxes clique’s requirement that every edge be present between all vertices. Paraclique enables us to account for inherent noise in the microarray data and stochastic nature of biological processes. Using immunophenotype data from the baseline BXD mice, we employed biclique analysis to determine interactions between genotypes and immunophenotypes (%CD4, %CD3, LN T:B, %CD8, and LN CD4:CD8). We also extracted eQTLs from BXD data using QTL-Reaper from base line gene expression profiles. 1881 transcripts were associated with 686 loci. The eQTLs were classified as cis or trans according to their genomic positions. Besides population level studies we also investigated the differential effect of low dose and high dose (1Gy) of ionizing radiations on spleen gene expression in inbred parental strains (C57BL/6J and DBA/2J) of BXD recombinant inbred mice as well as BALB/c mice, a known radiation-sensitive strain.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/12</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1016&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1016</articleid>
+<submission-date>2013-07-12T13:44:51-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4310737</context-key>
+<submission-path>utk_elecpubs/12</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2010, 11(Suppl 4):O5 doi:10.1186/1471-2105-11-S4-O5</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-07-23T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

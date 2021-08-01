@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Power-cognizant Computing</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pvaccaro@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Vaccaro</lname>
+<fname>Philip</fname>
+<mname>Gerald</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The path towards exa-scale computing systems has yielded systems with performance bottlenecks that are increasingly hard to discover. Over time a steadily rising number of hardware performance metrics have been made available to application developers for optimization purposes. One emerging metric that has been singled out as being useful is power consumption. So far, understanding how different components of complex heterogenous computing systems consume energy has proved useful in investigating optimal power requirements for applications. This work can be broken up into two main areas: power profiling and power-cognizance. To gain insights regarding power consumption of complicated systems, there must be a consistent software interface for reliably profiling applications and collecting power metrics for analysis. That serves as the foundation for making inferences about real-world power requirements for different categories of applications. Using power profiles of applications to deduce trends in power consumption could provide a means for optimizing in pursuit of power-cognizance. The results of efforts in both power profiling and power-cognizance research are presented. Power profiling pursuits materialized as a component that is now a part of the Performance API (PAPI), known as powercap. Efforts in power-cognizance research took the form of utilizing powercap to collect power measurements and enforce power limits at run-time. The intention of this work is to explore the computing landscape of the future with the goal of drawing meaningful conclusions about application behavior in power-managed environments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5025</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6432&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5025</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6432</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414683</context-key>
+<submission-path>utk_gradthes/5025</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael R. Jantz, Stanimire Z. Tomov</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

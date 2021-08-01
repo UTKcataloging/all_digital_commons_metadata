@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterizing the 3D structure and dynamics of chromosomes and proteins in a common contact matrix framework</title>
+<publication-date>2018-07-10T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lindsay</lname>
+<fname>Richard</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>cpham3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Pham</lname>
+<fname>Bill</fname>
+</author>
+<author>
+<email>tshen@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Shen</lname>
+<fname>Tongye</fname>
+</author>
+<author>
+<email>rmccord@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>McCord</lname>
+<fname>Rachel</fname>
+<mname>Patton</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computational Methods</keyword>
+<keyword>Chromatin and Epigenetics</keyword>
+<keyword>Genomics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Conformational ensembles of biopolymers, whether proteins or chromosomes, can be described us- ing contact matrices. Principal component analysis (PCA) on the contact data has been used to in- terrogate both protein and chromosome structures and/or dynamics. However, as these fields have de- veloped separately, variants of PCA have emerged. Previously, a variant we hereby term Implicit-PCA (I- PCA) has been applied to chromosome contact ma- trices and revealed the spatial segregation of active and inactive chromatin. Separately, Explicit-PCA (E- PCA) has previously been applied to proteins and characterized their correlated structure fluctuations. Here, we swapped analysis methods (I-PCA and E- PCA), applying each to a different biopolymer type (chromosome or protein) than the one for which they were initially developed. We find that applying E-PCA to chromosome distance matrices derived from mi- croscopy data can reveal the dominant motion (con- certed fluctuation) of these chromosomes. Further, by applying E-PCA to Hi-C data across the human blood cell lineage, we isolated the aspects of chromo- some structure that most strongly differentiate cell types. Conversely, when we applied I-PCA to simula- tion snapshots of proteins, the major component re- ported the consensus features of the structure, mak- ing this a promising approach for future analysis of semi-structured proteins.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biocpubs/97</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1107&amp;amp;context=utk_biocpubs&amp;amp;unstamped=1</fulltext-url>
+<label>97</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1107</articleid>
+<submission-date>2019-07-21T12:54:38-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Biochemistry, Cellular and Molecular Biology</publication-title>
+<context-key>14966483</context-key>
+<submission-path>utk_biocpubs/97</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Richard J Lindsay, Bill Pham, Tongye Shen, Rachel Patton McCord, Characterizing the 3D structure and dynamics of chromosomes and proteins in a common contact matrix framework, Nucleic Acids Research, Volume 46, Issue 16, 19 September 2018, Pages 8143–8152, https://doi.org/10.1093/nar/gky604</value>
+</field>
+<field name="doi" type="string">
+<value>10.1093/nar/gky604</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-07-10T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Nucleic Acids Research</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Tongye_gky604_supplemental_figures.pdf</archive-name>
+<upload-name>Tongye_gky604_supplemental_figures.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1107&amp;amp;context=utk_biocpubs&amp;amp;type=additional</url>
+<mime-type>application/x-empty</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

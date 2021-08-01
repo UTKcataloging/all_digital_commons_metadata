@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Generalized Hamiltonian-Based Algorithm for Rigorous Nonequilibrium Molecular Dynamics Simulation in the NVT Ensemble</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rajkumar</lname>
+<fname>Joseph</fname>
+<mname>Gerald Leo</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Using a recently developed, methodical, Hamiltonian-based procedure, we derive rigorous algorithms for nonequilibrium molecular dynamic (NEMD) simulation in the NVE and NVT ensembles. We demonstrate that the equivalence of the kinetic temperature and configurational temperatures that exists at equilibrium is maintained in nonequilibrium states, given the proper nonequilibrium expression (in the microcanonical ensemble). Specifically, we apply the procedure to the p-SLLOD algorithm, which allows for rigorous NEMD simulation in the presence of an arbitrary, externally imposed flow field. The resulting algorithms are general in that they apply in the presence or absence of external fields in addition to the imposed flow field. Of particular note is the resulting algorithm for the canonical ensemble. The use of the Nosé-Hoover thermostat in the SLLOD and p-SLLOD algorithms has not been rigorously correct to date. We follow a methodical procedure to obtain a rigorous Hamiltonian-based NEMD algorithm using a reformulated Nosé-Hoover and Nosé-Poincaré thermostat. Although the resulting algorithms were unstable, it provided proof that it is the boundary conditions that drive the flow, contrary to the conventional belief that an external flow field has to be introduced into the equations of motion to simulate nonequilbrium flows.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/197</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1230&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>197</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1230</articleid>
+<submission-date>2010-02-10T09:25:54-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1138953</context-key>
+<submission-path>utk_gradthes/197</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian J. Edwards</value>
+</field>
+<field name="advisor2" type="string">
+<value>David J. Keffer, William V. Steele</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/RajkumarJoseph.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

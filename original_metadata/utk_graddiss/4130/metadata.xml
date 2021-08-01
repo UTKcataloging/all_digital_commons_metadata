@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Spatial Crowding and Confinement Effects on Bursty Gene Expression</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cchin@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Chin</lname>
+<fname>Charles</fname>
+<mname>Wei-Shing</mname>
+</author>
+</authors>
+<keywords>
+<keyword>gene expression</keyword>
+<keyword>biological noise</keyword>
+<keyword>transcriptional bursting</keyword>
+<keyword>spatial Gillespie model</keyword>
+</keywords>
+<disciplines><discipline>Molecular Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Synthetic biology and genetic engineering are valuable tools in the development of new, sustainable energy generation technologies. The characterization of stochastic gene expression is vital to the efficient application of genetic engineering techniques. Transcriptional bursting, in which periods of high expression are punctuated by periods of no expression, is extensively observed in gene expression. While various molecular mechanisms have been hypothesized to be responsible for transcriptional bursting, spatial considerations have largely been neglected. This work uses computational modeling to examine in detail the influence of spatial factors such as macromolecular crowding and confinement on gene expression.&lt;/p&gt;
+&lt;p&gt;In the first part of the thesis, cell-free expression chambers containing E. coli extract were fabricated and analyzed under varying confinement scenarios to explore how resource sharing influences gene expression. Interestingly, fluorescence measurements reveal that expression burst size, but not burst frequency, is highly sensitive to changes in chamber volume and the size of the shared resource pool. Computational models reveal that the timing of initial transcriptional activity strongly influences the acquisition of resources, such that mRNA transcripts produced early in time dominate the burst behavior of a chamber.&lt;/p&gt;
+&lt;p&gt;In the second part of the thesis, computational models were developed to study the effects of macromolecular crowding and confinement on transcriptional bursting. Spatially resolved gene expression models reveal significant changes in fluctuations and noise in mRNA behavior compared with well-mixed systems. The spatial results were compared to two- and three-state models to determine whether the effects of crowding and confinement could be adequately captured using simpler models. The comparisons reveal that the two- and three-state models, which do not explicitly incorporate spatial features, are unable to capture features of the noise of crowded and confined systems due to differences in the distribution of times between transcriptional events.&lt;/p&gt;
+&lt;p&gt;The work presented here reveals the importance of spatial influences when analyzing gene expression and transcriptional bursting in cells. Future work will expand on the role of resource sharing on gene expression through spatial considerations, as well as explore the effects of crowding on more complex gene expression systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4130</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5015&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4130</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5015</articleid>
+<submission-date>2015-10-08T17:01:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7697535</context-key>
+<submission-path>utk_graddiss/4130</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael L. Simpson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steven M. Abel, Mitchel J. Doktycz, Scott T. Retterer, Eric T. Boder</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

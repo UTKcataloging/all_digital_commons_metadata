@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Helium Line Emission Spectroscopy in the Prototype Material Plasma Exposure eXperiment for Evaluation of Electron Temperature and Density</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Ray</lname>
+<fname>Holly</fname>
+<mname>Beth</mname>
+</author>
+</authors>
+<keywords>
+<keyword>fusion</keyword>
+<keyword>plasma physics</keyword>
+<keyword>atomic physics</keyword>
+<keyword>helium line ratio</keyword>
+<keyword>spectroscopy</keyword>
+<keyword>Proto-MPEX</keyword>
+</keywords>
+<abstract>&lt;p&gt;The helium-line spectral monitoring (HELIOS) diagnostic measures T_e and n_e using a collisional radiative model (CRM) to interpret the relative intensity of neutral helium emission lines in the presence of plasma. The emission intensity can be measured at a data digitization rate of up to 1 MHz with a Filterscope radiometer.  A HELIOS system was installed and tested on the Prototype Material Plasma Exposure eXperiment (Proto-MPEX), which is a precursor to the planned MPEX facility at Oak Ridge National Laboratory (ORNL).  The open magnetic geometry of Proto-MPEX is ideal for testing and characterizing diagnostics.  Validation studies were performed in a deuterium plasma and compared HELIOS measurements of T_e and n_e to Thomson Scattering (TS) measurements and edge Double Langmuir Probe (DLP) data.  It was found that the helium line emission measured by HELIOS was localized to the plasma edge.  The high plasma density (&gt;2.0×10^12  cm^(-3)) of the discharge core was preventing the neutral helium gas puff from penetrating past the plasma edge.  In order to penetrate to the plasma core, the gas puff pressure was increased, which resulted in an increased ambient neutral pressure in the chamber.  The increased neutral density in the plasma chamber caused radiation trapping of the singlet transition helium lines (21P31S and 21P31D).  To account for radiation trapping, the ORNL CRM was modified using the optical emission factor (OEF) method.  The HELIOS core data for the increased gas puff experiment was re-analyzed using the new ORNL OEF CRM (T_e≈3.4 eV; n_e≈7.80×10^12  cm^(-3)) and compared to DLP data collected on axis at the plasma core (T_e≈2.8 eV; n_e≈1.90×10^13  cm^(-3)).  While the n_e measurements from HELIOS are somewhat low compared to the DLP data, the measurements are still within range of the estimated systematic errors.  The inferred T_e values from the ORNL OEF CRM are consistent with the DLP data, supporting the conclusion that radiation trapping is an important consideration and needs to be included in the CRM for accurate HELIOS measurements of n_e  and T_e.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5800</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7566&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5800</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7566</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522178</context-key>
+<submission-path>utk_graddiss/5800</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Theodore M, Biewer</value>
+</field>
+<field name="advisor2" type="string">
+<value>David C. Donovan, Ezekial A. Unterberg, Maik K. Lang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

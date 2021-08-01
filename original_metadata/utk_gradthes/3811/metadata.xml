@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimizing Cash Flows and Minimizing Simultaneous Turnovers in Operating Room Scheduling</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mshukla@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shukla</lname>
+<fname>Mohit</fname>
+</author>
+</authors>
+<keywords>
+<keyword>OR</keyword>
+<keyword>Block Scheduling</keyword>
+<keyword>Integer Programming</keyword>
+</keywords>
+<disciplines><discipline>Operational Research</discipline>
+</disciplines><abstract>&lt;p&gt;Currently, the scheduling of surgical suites follows either an open booking or block booking framework. Under block booking, medical departments (or surgeons) that provide certain types of services (e.g. ophthalmology, orthopedics, cardiology) are assigned fixed blocks of time that are used to divide access to the operating rooms (ORs) among different specialties. Two integer-programming based methods of generating block schedules are investigated in this research. The first approach focuses on optimizing cash flows, an area not studied previously within the OR scheduling domain. Results indicate that while there is some utility of this approach in improving the liquidity of a healthcare facility, its contribution towards increasing overall revenues is marginal. The second approach aims to minimize simultaneous turnovers of operating rooms. Although reduction in turnover times is a frequently studied area in literature, the solution presented here is novel in its attempt to minimize the occurrences of turnovers in two or more rooms at the same time, which places a strain on shared resources and leads to delays in planned start times of procedures. Results for this approach are promising in reduction of turnover times and consequently, workload on resources required to perform turnovers. Both approaches begin with the study of existing schedules to derive key insights into the chosen target parameters and then propose alternative schedules to optimize the aforementioned objectives. The proposed methods are designed to be minimally disruptive so as to remain feasible in real life scenarios.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3811</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5163&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3811</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5163</articleid>
+<submission-date>2016-03-29T09:27:08-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8394570</context-key>
+<submission-path>utk_gradthes/3811</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Oleg Shylo, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterization of the Non-Uniqueness of Used Nuclear Fuel Burnup Signatures through a Mesh-Adaptive Direct Search</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sskutnik@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Skutnik</lname>
+<fname>Steven</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Davis</lname>
+<fname>David</fname>
+<mname>R</mname>
+</author>
+</authors>
+<keywords>
+<keyword>sed nuclear fuel</keyword>
+<keyword>Burnup</keyword>
+<keyword>Non-destructive Assay</keyword>
+</keywords>
+<disciplines><discipline>Nuclear</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The use of passive gamma and neutron signatures from fission indicators is a common means of estimating used fuel burnup, enrichment, and cooling time. However, while characteristic fission product signatures such as &lt;sup&gt;134&lt;/sup&gt;Cs, &lt;sup&gt;137&lt;/sup&gt;Cs and &lt;sup&gt;154&lt;/sup&gt;Eu, and others are generally reliable estimators for used fuel burnup within the context where the assembly initial enrichment and the discharge time are known, in the absence of initial enrichment and/or cooling time information (such as when applying NDA measurements in a safeguards/verification context), these fission product indicators no longer yield a unique solution for assembly enrichment, burnup, and cooling time after discharge. Through the use of a new mesh-adaptive direct search (MADS) algorithm, it is possible to directly probe the shape of this ``degeneracy space&#39;&#39; characteristic of individual nuclides (and combinations thereof), both as a function of constrained parameters (such as the assembly irradiation history) and unconstrained parameters (e.g., the cooling time before measurement and the measurement precision for particular indicator nuclides). In doing so, this affords the identification of potential means of narrowing the uncertainty space of potential assembly enrichment, burnup, and cooling time combinations, thereby bounding estimates of assembly plutonium content. In particular, combinations of gamma-emitting nuclides with distinct half-lives (e.g., &lt;sup&gt;134&lt;/sup&gt;Cs with &lt;sup&gt;137&lt;/sup&gt;Cs and &lt;sup&gt;154&lt;/sup&gt;Eu) in conjunction with gross neutron counting (via &lt;sup&gt;244&lt;/sup&gt;Cm) are able to reasonably constrain the degeneracy space of possible solutions to a space small enough to perform useful discrimination and verification of fuel assemblies based on their irradiation history.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_nuclpubs/3</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1006&amp;amp;context=utk_nuclpubs&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1006</articleid>
+<submission-date>2018-10-24T06:59:07-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Nuclear Engineering</publication-title>
+<context-key>13152958</context-key>
+<submission-path>utk_nuclpubs/3</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>S.E. Skutnik, D.R. Davis, &quot;Characterization of the non-uniqueness of used nuclear fuel burnup signatures through a Mesh-Adaptive Direct Search,&quot; Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment,
+Volume 817, 2016, Pages 7-18, ISSN 0168-9002,
+https://doi.org/10.1016/j.nima.2016.02.007.</value>
+</field>
+<field name="doi" type="string">
+<value>10.1016/j.nima.2016.02.007</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-01T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Nuclear Instruments and Methods in Physics Research, Section A</value>
+</field>
+<field name="submission_type" type="string">
+<value>Post-print</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analysis of Topographic Effects on LANDSAT Thematic Mapper Image Using Digital Terain Data</title>
+<publication-date>1988-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Xiaomin</fname>
+</author>
+</authors>
+<disciplines><discipline>Forest Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;A comprehensive literature review on the simulation and corrections of topographic variations in remote sensing data was presented. The effects of topography on the scene radiance of LANDSAT thematic mapper (TM) image were examined in the context of the remote sensing of vegetation m Great Smoky Mountains National Park (GSMNP).&lt;/p&gt;
+&lt;p&gt;To simulate the image intensity component due to varying orientation of surface elements, two reflectance models were adopted to generate the synthetic images from a Digital Elevation Model (DEM). Visual and analytical procedures were developed to register the TM image to the DEM data.&lt;/p&gt;
+&lt;p&gt;The dark tones of scene radiance of most TM bands effective to vegetation classification were found to be caused by the terrain relief surface with incidence angle more than 55° rather than the intrinsic scene properties.&lt;/p&gt;
+&lt;p&gt;Statistically significant correlation were found between LANDSAT TM data and the synthetic brightness values. The best correlation coefficient was 0.854. This result indicated that a simple linear model gives a good prediction of measured brightness as a function of the cosine of the incident angle of the direct solar beam.&lt;/p&gt;
+&lt;p&gt;The residual images were produced from the linear regression model of real LANDSAT TM and synthetic images. The segmentation of residual images was performed based on the two segmenting criteria to extract ground spectral patterns. The outcome is discussed with a view to achieving a better understanding of the nature of problem.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3280</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4714&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3280</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4714</articleid>
+<submission-date>2015-03-26T11:35:23-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6905212</context-key>
+<submission-path>utk_gradthes/3280</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John C. Rennie</value>
+</field>
+<field name="advisor2" type="string">
+<value>James R. Carter, John B. Rehder</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Forestry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1988-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1988-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

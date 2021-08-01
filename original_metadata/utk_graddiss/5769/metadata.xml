@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design, Fabrication, Calibration and Testing of High-Temperature Sensors for Measurement of Surface Heat Flux, Temperature, and Total Heat Transfer</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jmyrick2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Myrick</lname>
+<fname>Justin</fname>
+<suffix>Jr</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>high-temperature experimental data</keyword>
+<keyword>calibration integral equation</keyword>
+<keyword>calibration of heat flux and temperature sensor</keyword>
+<keyword>determination of surface thermal conditions</keyword>
+<keyword>regularization of ill-posed problems</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation outlines the design, fabrication, calibration and testing of sensors that can be used to measure surface heat flux, surface temperature and total surface heat transfer. These sensors, once calibrated, use in-depth thermocouple (TC) data to estimate the surface boundary conditions which allows operation at high temperatures and harsh thermal environments. Calibration of these sensors is accomplished through the one-probe, two-probe and total surface heat transfer calibration integral equation formulations. The one-probe calibration integral equation method (CIEM) can be used to predict the surface thermal boundary conditions of a field test using the in-depth TC temperature from that test and data from a calibration test which consists of measured surface boundary conditions and data from the same in-depth TC. The calibration integral equation has the form of a Volterra integral equation which is ill-posed and requires regularization to achieve a stable prediction. The one-probe calibration integral technique may only be used when the thermal boundary condition at the back surface of the sensor during the calibration and reconstruction tests is the same. The two-probe CIEM removes this restriction by requiring data from two calibration tests consisting of the measured surface thermal boundary conditions and corresponding temperature data from two in-depth TC probes. The two sets of calibration data are used to predict the surface thermal boundary conditions of a reconstruction test when the temperature data from the two in-depth TCs from the reconstruction test are provided. The calibration integral equation for determination of the total surface heat transfer uses a simplified two-dimensional geometry where three of the domain boundaries are adiabatic and the fourth is an unknown spatially variable surface heat flux. The total heat transfer into the domain is predicted using the average in-depth temperature data from a series of thermocouples located on a fixed plane parallel to the heated surface. These formulations had previously been tested using high temperature numerical data. However, it is essential to verify these methods using high temperature experimental data to demonstrate their use in physical applications. This dissertation also provided novel methods to estimate the necessary regularization parameters using the calibration data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5769</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7535&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5769</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7535</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419661</context-key>
+<submission-path>utk_graddiss/5769</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Majid Keyhani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay Frankel, Kivanc Ekici, Vasilios Alexiades</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in: ASME Journal of Thermal Science and Engineering Applications, International Journal of Heat and Mass Transfer and Journal of Experimental Thermal and Fluid Science.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2022-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

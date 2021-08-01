@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A New Approach to Optimization of Dynamic Reactive Power Sources Addressing FIDVR Issues</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>whuang12@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Huang</lname>
+<fname>Weihong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>dynamic var support; FIDVR; linear programming</keyword>
+<keyword>nonlinear optimization; voltage recovery; Voronoi diagram</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Dynamic reactive power (var) sources, e.g. SVCs and STATCOMs, can effectively mitigate fault-induced delayed voltage recovery (FIDVR) issues or even voltage collapse. However, their optimal allocation in a power grid is a complicated nonlinear optimization problem since the post-fault voltage trajectories have to be solved to check constraints on voltage responses. Thus, solvers of both nonlinear optimization and power system differential and algebraic equations (DAEs) are required.&lt;/p&gt;
+&lt;p&gt;Currently, most of existing methods merely achieve dynamic optimization locally with great dependence on the initial operation point. Also, complicated algorithm and time consuming are obstacles for the practical implementation.&lt;/p&gt;
+&lt;p&gt;This thesis proposes a new approach to optimize the sizes of dynamic var sources at candidate locations by efficiently interfacing a heuristic linear programming based searching algorithm with power system simulation software. Within several iterative search steps, the optimal size of dynamic var can be achieved. In order to verify the result obtained from the proposed approach, Voronoi diagram is applied to tackle the feasible solution area, and then to demonstrate the result of heuristic linear programming is the global optimal.&lt;/p&gt;
+&lt;p&gt;Case studies on a 9-bus system and the IEEE 39-bus system have benchmarked the new approach with an existing representative approach and demonstrated that the new approach can quickly converge to an optimal solution. Voronoi diagram is implemented to tackle non-convex feasible solution area of both cases and it shows that the result is global optimal.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3159</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4223&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3159</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4223</articleid>
+<submission-date>2014-10-07T19:01:02-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4223/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6216201</context-key>
+<submission-path>utk_gradthes/3159</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Yan Xu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Saturable Reactor for Power Flow Control in Electric Transmission Systems: Modeling and System Impact Study</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>myoung7@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Young</lname>
+<fname>Marcus</fname>
+<mname>Aaron</mname>
+<suffix>II</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>saturable reactor</keyword>
+<keyword>power flow control</keyword>
+<keyword>electric transmission</keyword>
+<keyword>power systems</keyword>
+<keyword>modeling</keyword>
+<keyword>power system protection</keyword>
+</keywords>
+<disciplines><discipline>Electromagnetics and Photonics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;A Saturable Reactor for Power Flow Control (SRPFC) is a novel application of a concept well known to electronics and power electronics engineers that provides continuous modulation of line reactance by controlling the magnetization in a ferromagnetic core. The novelty of the SRPFC is the target application, which is power flow control in meshed electric power networks. Modulation of the line impedance occurs by altering the current in a DC winding to control the magnetization of the ferromagnetic core, thereby varying the reactance of the AC winding. The deployment of power system equipment, like SRPFC, requires careful planning and study to determine if the equipment will meet design objectives and how the equipment, and associated power system, respond to power system transients. This dissertation focuses on the development of SRPFC models for simulation at time resolutions compatible with many power system transient studies. The SRPFC models developed within the course of this effort are simulated within simple power system models under nominal and line to ground fault conditions to observe effectiveness. The simulations also provide a basis for comparison between the methods and the hardware test results of a prototype device. The simulation results demonstrate the effectiveness of all but one of the modelling methods to represent the SRPFC from the perspective of the AC power system.&lt;/p&gt;
+&lt;p&gt;Fault conditions can drive the SRPFC outside of the control point in sub-cycle time and could affect distance protection along the controlled line. This dissertation includes a system impact study that quantifies these effects through transient simulations of a SRPFC model, scaled to transmission levels based on full-scale design parameters, under fault conditions in an industry accepted power system model. Impacts on protection are observed through playback of the resulting waveforms to a distance relay via a relay test set. The results demonstrate that the interaction of the SRPFC has minimal effect on distance protection reach, even when measurements are acquired by coupling capacitor voltage transformers (CCVTs).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3377</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4566&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3377</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4566</articleid>
+<submission-date>2014-12-10T12:03:59-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4566/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6444608</context-key>
+<submission-path>utk_graddiss/3377</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Lee Riedinger, Aleksander Dimitrovski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

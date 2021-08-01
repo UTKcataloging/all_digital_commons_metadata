@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Temperature Sensitive Behavioral Modeling of Analog to Digital Converters</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wnorton2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Norton</lname>
+<fname>William</fname>
+<suffix>II</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>electronics</keyword>
+<keyword>analog to digital converters</keyword>
+<keyword>cryogenic</keyword>
+<keyword>mixed signal</keyword>
+</keywords>
+<abstract>&lt;p&gt;Using commercial analog to digital converters (ADCs), especially outside their designed operating temperature range, is inherently risky and device performance inherently uncertain. Current methods of verification rely on expensive, time-consuming characterization procedures. A behavioral model capturing expected device performance, especially one which can be applied without testing, could enable system engineers to quickly downselect components for use within a system. To this end, a behavioral ADC model is described, tested and validated against measured performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5490</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6963&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5490</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6963</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914264</context-key>
+<submission-path>utk_gradthes/5490</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Amir Sadovnik, Nicole McFarlane</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

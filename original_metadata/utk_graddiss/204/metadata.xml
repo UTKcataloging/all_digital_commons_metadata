@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Yield and Reliability Analysis for Nanoelectronics</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yuan</lname>
+<fname>Tao</fname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As technology has continued to advance and more break-through emerge, semiconductor devices with dimensions in nanometers have entered into all spheres of our lives. Accordingly, high reliability and high yield are very much a central concern to guarantee the advancement and utilization of nanoelectronic products. However, there appear to be some major challenges related to nanoelectronics in regard to the field of reliability: identification of the failure mechanisms, enhancement of the low yields of nano products, and management of the scarcity and secrecy of available data [34]. Therefore, this dissertation investigates four issues related to the yield and reliability of nanoelectronics.&lt;/p&gt;
+&lt;p&gt;Yield and reliability of nanoelectronics are affected by defects generated in the manufacturing processes. An automatic method using model-based clustering has been developed to detect the defect clusters and identify their patterns where the distribution of the clustered defects is modeled by a new mixture distribution of multivariate normal distributions and principal curves. The new mixture model is capable of modeling defect clusters with amorphous, curvilinear, and linear patterns. We evaluate the proposed method using both simulated and experimental data and promising results have been obtained.&lt;/p&gt;
+&lt;p&gt;Yield is one of the most important performance indexes for measuring the success of nano fabrication and manufacturing. Accurate yield estimation and prediction is essential for evaluating productivity and estimating production cost. This research studies advanced yield modeling approaches which consider the spatial variations of defects or defect counts. Results from real wafer map data show that the new yield models provide significant improvement in yield estimation compared to the traditional Poisson model and negative binomial model.&lt;/p&gt;
+&lt;p&gt;The ultra-thin SiO&lt;sub&gt;2&lt;/sub&gt; is a major factor limiting the scaling of semiconductor devices. High-&lt;em&gt;k&lt;/em&gt; gate dielectric materials such as HfO&lt;sub&gt;2&lt;/sub&gt; will replace SiO&lt;sub&gt;2&lt;/sub&gt; in future generations of MOS devices. This study investigates the two-step breakdown mechanisms and breakdown sequences of double-layered high-&lt;em&gt;k&lt;/em&gt; gate stacks by monitoring the relaxation of the dielectric films.&lt;/p&gt;
+&lt;p&gt;The hazard rate is a widely used metric for measuring the reliability of electronic products. This dissertation studies the hazard rate function of gate dielectrics breakdown. A physically feasible failure time distribution is used to model the time-to-breakdown data and a Bayesian approach is adopted in the statistical analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/204</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1251&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>204</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1251</articleid>
+<submission-date>2010-02-01T11:22:15-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127682</context-key>
+<submission-path>utk_graddiss/204</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Way Kuo</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yue Kuo, Adedeji B. Badiru, Alberto Garcia, Ramon V. Leon</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/YuanTao.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

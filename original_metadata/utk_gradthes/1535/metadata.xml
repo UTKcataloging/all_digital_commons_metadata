@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Determination and Analysis of the Spectral Emissivity of a Blackbody Simulator Source</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Crider</lname>
+<fname>Dustin</fname>
+<mname>Holt</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Blackbody simulator sources used for calibration of electro-optical sensors must be well characterized, especially in regards to source emissivity. Many applications require only the total emissivity to be known, but the motivation behind this present research required the spectral emissivity to be determined. Thus, theoretical and experimental methods for ascertaining the spectral emissivity of a blackbody simulator were investigated. Based on the blackbody simulator cavity geometry and material, the methods of Gouffé, Kelly, and Bartell [1] were used to calculate the theoretical spectral emissivity. The experimental phase of this study involved using two Fourier Transform Infrared (FTIR) instruments to measure the simulator spectral emissivity. A spectral emissometer, called the Optical Properties Measurement System (OPMS) was first used. Then, a spectral reflectometer, called the Scatterometer/Reflectometer (SCAT/R), was used to measure the spectral reflectance of the blackbody simulator cavity. The emissivity was then calculated from the reflectance data using Kirchoff’s Law. An extensive error analysis performed on the experimental emissivity data sets showed the OPMS data to have better quality than the SCAT/R data, with maximum standard deviations of 4.70 x 10&lt;sup&gt;-3 &lt;/sup&gt;and 2.69 x 10&lt;sup&gt;-2&lt;/sup&gt;, respectively. The theoretical and measured emissivities were compared and showed that Kelly’s theory compared the best with the OPMS measurements, with differences on the order of 0.1%. Finally, the measurement uncertainties were translated into an uncertainty in the measured output of the blackbody simulator, which was 2% and 3.2% for the OPMS and SCAT/R respectively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1535</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2982&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1535</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2982</articleid>
+<submission-date>2013-08-02T12:20:12-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4383468</context-key>
+<submission-path>utk_gradthes/1535</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>L. Montgomery Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy Schulz, Basil Antar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

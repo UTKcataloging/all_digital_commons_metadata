@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Study of Nonlinear Combustion Instability</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eric.james.jacob@gmail.com</email>
+<institution>University of Tennessee Space Institute</institution>
+<lname>Jacob</lname>
+<fname>Eric</fname>
+<mname>J</mname>
+</author>
+</authors>
+<keywords>
+<keyword>acoustics</keyword>
+<keyword>combustion</keyword>
+<keyword>instability</keyword>
+<keyword>rocket</keyword>
+<keyword>nonlinear</keyword>
+<keyword>wave</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Combustion instability (CI) has been persistent in all forms of propulsion since their inception. CI is characterized by pressure oscillations within the propulsion system. If even a small fraction of the dense energy within the system is converted to acoustic oscillations the system vibrations can be devastating. The coupling of combustion and fluid dynamic phenomena in a nonlinear system poses CI as a significant engineering challenge.&lt;/p&gt;
+&lt;p&gt;Drawing from previous analysis, second order acoustic energy models are taken to third order. Second order analysis predicts exponential growth. The addition of the third order terms capture the nonlinear acoustic phenomena (such as wave steepening) observed in experiments. The analytical framework is derived such that the energy sources and sinks are properly accounted for. The resulting third order solution is compared against a newly performed simplified acoustic closed tube experiment. This experiment provides the interesting result that in a forced system, as the 2nd harmonic is driven, no energy is transferred back into the 1st mode. The subsequent steepened waveform is a summation of 2nd mode harmonics (2, 4, 6, 8...) where all odd modes are nonexistent. The current third order acoustic model recreates the physics as seen in the experiment.&lt;/p&gt;
+&lt;p&gt;Numerical experiments show the sensitivity of the pressure wave limit cycle amplitude to the second order growth rate, highlighting the importance of correctly calculating the growth rates. The sensitivity of the solution to the third order parameter is shown as well. Exponential growth is found if the third order parameter is removed, and increased nonlinear behavior is found if it retained and as it is increased. The solutions sensitivity to this term highlights its importance and shows the need for continued analysis via increasing the models generality by including neglected effects. In addition, the affect of a time varying second order growth rate is shown. This effect shows the importance of modeling the system in time because of the time lag between changes in the growth rate to a change in the limit cycle amplitude.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/646</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1021&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>646</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1021</articleid>
+<submission-date>2009-11-20T10:18:56-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1069106</context-key>
+<submission-path>utk_graddiss/646</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gary A. Flandro</value>
+</field>
+<field name="advisor2" type="string">
+<value>John S. Steinhoff, Trevor M. Moeller, Christian G. Parigger, Boris A. Kupershmidt</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>LaTeX_Dissertation_Eric_Jacob.zip</archive-name>
+<upload-name>LaTeX_Dissertation_Eric_Jacob.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1021&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>LaTeX files and images.</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

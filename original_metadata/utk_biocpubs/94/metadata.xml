@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Iteratively improving Hi-C experiments one step at a time</title>
+<publication-date>2018-04-30T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rgollosh@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Golloshi</lname>
+<fname>Rosela</fname>
+</author>
+<author>
+<email>jsande66@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Sanders</lname>
+<fname>Jacob</fname>
+<mname>T</mname>
+</author>
+<author>
+<email>rmccord@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>McCord</lname>
+<fname>Rachel</fname>
+<mname>Patton</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Hi-C</keyword>
+<keyword>chromosome conformation capture</keyword>
+<keyword>3D genome structure</keyword>
+<keyword>high throughput sequencing</keyword>
+</keywords>
+<disciplines><discipline>Cell Biology</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Genomics</discipline>
+<discipline>Research Methods in Life Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The 3D organization of eukaryotic chromosomes affects key processes such as gene expression, DNA replication, cell division, and response to DNA damage. The genome-wide chromosome conformation capture (Hi-C) approach can characterize the landscape of 3D genome organization by measuring interaction frequencies between all genomic regions. Hi-C protocol improvements and rapid advances in DNA sequencing power have made Hi-C useful to study diverse biological systems, not only to elucidate the role of 3D genome structure in proper cellular function, but also to characterize genomic rearrangements, assemble new genomes, and consider chromatin interactions as potential biomarkers for diseases. Yet, the Hi-C protocol is still complex and subject to variations at numerous steps that can affect the resulting data. Thus, there is still a need for better understanding and control of factors that contribute to Hi-C experiment success and data quality. Here, we evaluate recently proposed Hi-C protocol modifications as well as often overlooked variables in sample preparation and examine their effects on Hi-C data quality. We examine artifacts that can occur during Hi-C library preparation, including microhomology-based artificial template copying and chimera formation that can add noise to the downstream data. Exploring the mechanisms underlying Hi-C artifacts pinpoints steps that should be further optimized in the future. To improve the utility of Hi-C in characterizing the 3D genome of specialized populations of cells or small samples of primary tissue, we identify steps prone to DNA loss which should be considered to adapt Hi-C to lower cell numbers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biocpubs/94</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1101&amp;amp;context=utk_biocpubs&amp;amp;unstamped=1</fulltext-url>
+<label>94</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1101</articleid>
+<submission-date>2018-06-01T10:23:47-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Biochemistry, Cellular and Molecular Biology</publication-title>
+<context-key>12235673</context-key>
+<submission-path>utk_biocpubs/94</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="doi" type="string">
+<value>10.1016/j.ymeth.2018.04.033</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-04-30T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-04-30T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Methods</value>
+</field>
+<field name="submission_type" type="string">
+<value>Post-print</value>
+</field>
+</fields>
+</document>
+</documents>

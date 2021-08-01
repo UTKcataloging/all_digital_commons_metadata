@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analog Axon Hillock Neuron Design for Memristive Neuromorphic Systems</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Weiss</lname>
+<fname>Ryan</fname>
+<mname>John</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neuromorphic</keyword>
+<keyword>Neuron</keyword>
+<keyword>Memristor</keyword>
+<keyword>Analog</keyword>
+</keywords>
+<abstract>&lt;p&gt;Neuromorphic electronics studies the physical realization of neural networks in discrete circuit components. Hardware implementations of neural networks take advantage of highly parallelized computing power with low energy systems. The hardware designed for these systems functions as a low power, low area alternative to computer simulations. With on-line learning in the system, hardware implementations of neural networks can further improve their solution to a given task.In this work, the analog computational system presented is the computational core for running a spiking neural network model. This component of a neural network, the neuron, is one of the building blocks used to create neural networks. The neuron takes inputs from the connected synapses, which each store a weight value. The inputs are stored in the neuron and checked against a threshold. The neuron activates, causing a firing event, when the neuron’s internal storage crosses its threshold. The neuron designed is an Axon-Hillock neuron utilizing memristive synapses for low area and energy operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4986</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6393&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4986</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6393</articleid>
+<submission-date>2018-11-08T14:23:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13276595</context-key>
+<submission-path>utk_gradthes/4986</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Garrett S. Rose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Mark E. Dean</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control of Species Augmentation Conservation Strategies</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ebodine@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bodine</lname>
+<fname>Erin</fname>
+<mname>Nicole</mname>
+</author>
+</authors>
+<disciplines><discipline>Applied Mathematics</discipline>
+<discipline>Control Theory</discipline>
+<discipline>Dynamic Systems</discipline>
+<discipline>Mathematics</discipline>
+<discipline>Natural Resources and Conservation</discipline>
+<discipline>Ordinary Differential Equations and Applied Dynamics</discipline>
+<discipline>Population Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Species augmentation is a method of reducing species loss via augmenting declining or threatened populations with individuals from captive-bred or stable, wild populations. In this dissertation, species augmentation is analyzed in an optimal control setting to determine the optimal augmentation strategies given various constraints and settings. In each setting, we consider the effects on both the target/endangered population and a reserve population from which the individuals translocated in the augmentation are harvested. Four different optimal control formulations are explored. The first two optimal control formulations model the underlying population dynamics with a system of ordinary differential equations. Each of these two formulations utilizes a different function to model the cost of augmentation. For each optimal control formulation we find a characterization for the optimal control and show numerical results for scenarios of different illustrative parameter sets.   The second two optimal control formulations model the underlying population dynamics with systems of discrete difference equations. The difference between these two optimal control formulations is the order in which events occur within each time step in the population models. In the first formulation the population is augmented before the natural growing season in each time step (augment then grow model), whereas in the second formulation the population is augmented after the natural growing season in each time step (grow then augment model). These two discrete time models, which differ only in their order of events, lead to structurally different models. The formulation with the augment then grow model cannot utilize discrete time optimal control theory and a brute force method of finding the optimal augmentation strategy is used. The formulation with the grow then augment model does utilize optimal control theory and we find the characterization of the optimal control. For both formulations, we explore several scenarios of different illustrative parameter sets.  In each of the four optimal control formulations, the numerical results provide considerably more detail about the exact dynamics of optimal augmentation than can be readily intuited. The work presented here are the first steps toward building a general theory of population augmentation, which accounts for the complexities inherent in many conservation biology applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/776</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1881&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>776</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1881</articleid>
+<submission-date>2010-07-02T11:36:03-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1380746</context-key>
+<submission-path>utk_graddiss/776</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Louis Gross, Charles Collins, Graham Hickling</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

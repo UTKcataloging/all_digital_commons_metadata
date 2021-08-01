@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Trajectory Analysis and Comparison of a Linear Aerospike Nozzle to a Conventional Bell Nozzle for SSTO Flight</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>elash@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lash</lname>
+<fname>Elizabeth</fname>
+<mname>Lara</mname>
+</author>
+</authors>
+<disciplines><discipline>Propulsion and Power</discipline>
+<discipline>Space Vehicles</discipline>
+<discipline>Systems Engineering and Multidisciplinary Design Optimization</discipline>
+</disciplines><abstract>&lt;p&gt;Single-stage to orbit (SSTO) rocket technology offers the potential to substantially reduce launch costs, but has yet to be considered practical for conventional launch vehicles. However, new research in composite propellant tank technology opens the field for renewed evaluation. One technology that increases the efficiency and feasibility of SSTO flight is an altitude compensating rocket engine nozzle, as opposed to a conventional constant area, bell nozzle design. By implementing an altitude compensation nozzle, such as a linear, aerospike nozzle for in-atmosphere flight, the propellant mass fraction (PMF) may be reduced by as much as seven percent compared to a conventional rocket engine. In this thesis, Optimal Trajectories by Implicit Simulation (OTIS) is used to model SSTO flight trajectories by comparing a high performance, aerospike nozzle configuration to a conventional bell nozzle; this includes thrust, specific impulse (&lt;em&gt;I&lt;sub&gt;sp&lt;/sub&gt;&lt;/em&gt;), and nozzle configuration combinations to show that nozzle variability increases the efficiency of SSTO flight through a reduction in PMF. Results suggest that having a limited nozzle configuration, where the nozzle is not allowed to expand to infinity, further increases the engine efficiency by lowering the PMF by 0.1-0.2 %. Thus, the limited nozzle design performs as well as the linear aerospike, and presents itself as an alternative if the aerospike is too complex, even if the added benefit is within the uncertainty of the simulation results. Additional modeling is required to confirm this, but it is evident that altitude compensating nozzles perform better than the conventional bell nozzles used in these simulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3383</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4603&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3383</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4603</articleid>
+<submission-date>2015-02-25T13:28:02-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6727277</context-key>
+<submission-path>utk_gradthes/3383</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Montgomery Smith, Steven Brooks</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

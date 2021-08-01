@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Combined Mutual Information of Intensity and Gradient for Multi-modal Medical Image Registration</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jiang</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, registration methods for multi-modal medical images are reviewed with mutual information-based methods discussed in detail. Since it was proposed, mutual information has gained intensive research and is getting very popular, however its robustness is questionable and may fail in some cases. The possible reason might be it does not consider the spatial information in the image pair. In order to improve this measure, the thesis proposes to use combined mutual information of intensity and gradient for multi-modal medical image registration. The proposed measure utilizes both the intensity and gradient information of an image pair. Maximization of this measure is assumed to correctly register an image pair. Optimization of the registration measure in a multi-dimensional space is another major issue in multi-modal medical image registration. The thesis first briefly reviews the commonly used optimization techniques and then discusses in detail the Powell&#39;s conjugate direction set method, which is implemented to find the maximum of the combined mutual information of an image pair. In the experiment, we first register slice images scanned in a single patient in the same or different scanning sessions by the proposed method. Then 20 pairs of co-registered CT and PET slice images at three different resolutions are used to study the performance of the proposed measure and four other measures discussed in this thesis. Experimental results indicate that the proposed combined measure produces reliable registrations and it outperforms the intensity- and gradient-based measures at all three resolutions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4630</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6193&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4630</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6193</articleid>
+<submission-date>2017-06-14T12:28:41-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10302058</context-key>
+<submission-path>utk_gradthes/4630</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seong G. Kong</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mongi A. Abidi, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

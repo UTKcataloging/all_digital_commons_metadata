@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Proper Approach for Nonequilibrium Molecular Dynamics Simulations of Planar Elongational Flow</title>
+<publication-date>2005-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baig</lname>
+<fname>C.</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Edwards</lname>
+<fname>B.</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cochran</lname>
+<fname>H.</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>molecular dynamics method</keyword>
+<keyword>flow simulation</keyword>
+<keyword>shear flow</keyword>
+<keyword>nonequilibrium thermodynamics</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We present nonequilibrium molecular dynamics simulations of planar elongational flow (PEF) by an algorithm proposed by Tuckerman et al. [J. Chem. Phys. 106, 5615 (1997)] and theoretically elaborated by Edwards and Dressler [J. Non-Newtonian, Fluid Mech. 96, 163 (2001)], which we shall call the proper-SLLOD algorithm, or p-SLLOD for short. [For background on names of algorithms see W. G. Hoover, D. J. Evans, R. B. Hickman, A. J. C. Ladd, W. T. Ashurst, and B. Moran, Phys. Rev. A 22, 1690 (1980) and D. J. Evans and G. P. Morriss, Phys. Rev. A 30, 1528 (1984).] We show that there are two sources for the exponential growth in PEF of the total linear momentum of the system in the contracting direction, which has been previously observed using the so-called SLLOD algorithm. The first comes from the SLLOD algorithm itself, and the second from the implementation of the Kraynik and Reinelt [Int. J. Multiphase Flow 18, 1045 (1992)] boundary conditions. Using the p-SLLOD algorithm (to eliminate the first source) implemented with our simulation strategy (to eliminate the second) in PEF simulations, we no longer observe the exponential growth. By analyzing the equations of motion, we also demonstrate that both the SLLOD and the DOLLS algorithms are intrinsically unsuitable for representing a nonequilibrium system with elongational flow. However, the p-SLLOD algorithm has a rigorously canonical structure in laboratory phase space, and thus can represent a nonequilibrium system not only for elongational flow but also for a general flow.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/32</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1022&amp;amp;context=utk_chembiopubs&amp;amp;unstamped=1</fulltext-url>
+<label>32</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1022</articleid>
+<submission-date>2010-05-21T06:48:55-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1323167</context-key>
+<submission-path>utk_chembiopubs/32</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Copyright (2005) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>C. Baig, B. J. Edwards, D. J. Keffer, and H. D. Cochran, J. (2005). A proper approach for nonequilibrium molecular dynamics simulations of planar elongational flow. Chem. Phys. 122, 114103 DOI:10.1063/1.1819869</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-21T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

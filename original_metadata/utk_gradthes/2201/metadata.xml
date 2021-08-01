@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A 1.8 GHz LC-Voltage Controlled Oscillator Using On-Chip Inductors and Body Driven Varactors in CMOS 0.35 μm process</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Seshan</lname>
+<fname>Lakshmipriya</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;In an era dominated by the highly demanding wireless communication system, there is a great need for developing small, cheap, and low power RF sub-systems. This demand has lead to significant research on completely integrated transceiver systems. One of the great challenges in an integrated transceiver system is the frequency synthesizer. Frequency synthesizers are usually implemented using a phase locked loop (PLL) and low frequency highly stable crystal oscillator. The spectral purity of a synthesized carrier signal depends on the kind of Voltage Controlled Oscillator (VCO) used. Hence successful implementation of a low phase noise, completely integrated VCO in standard CMOS process is a major step towards implementing a completely integrated transceiver.&lt;/p&gt;
+&lt;p&gt;The best VCO architecture in terms of noise performance is LC-VCO. The aim of the current research is to design a completely integrated 1.8 GHz LC-VCO for a GSM or DCS-1800 receiver in standard CMOS 0.35μm technology. The major challenge in a completely integrated LC-VCO is to develop an fully integrated inductor. In this research various means of implementing an integrated inductor have been scrutinized and the best feasible among them the on-chip spiral inductor has been analyzed elaborately. The complete design cycle from describing the specification of an inductor to the final layout in Cadence has been described. Also a new symmetrical, highly balanced on-chip inductor has been used in the current design. Another important and the most critical challenge is to implement a very high tuning range, high Q-factor on-chip varactor in standard CMOS process. In this research a new body driven varactor, which is forced to operate in accumulation mode has been developed and analyzed elaborately. The tuning range specification for the design was chosen to be 200 MHz accounting for component tolerance. Various means of measuring phase noise has been elaborately analyzed. Also detailed study on improving the noise performance of the LC-VCO has been studied.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2201</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3582&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2201</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3582</articleid>
+<submission-date>2013-10-10T07:41:23-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4691932</context-key>
+<submission-path>utk_gradthes/2201</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Donald W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

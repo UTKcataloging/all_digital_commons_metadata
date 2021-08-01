@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterization and Implementation of an Injection Locked Frequency Divider Based on Relaxation Oscillator</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kzhu3@utk.edu</email>
+<lname>Zhu</lname>
+<fname>Kai</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ILFD</keyword>
+<keyword>relaxation oscillator</keyword>
+<keyword>frequency divider</keyword>
+<keyword>RFIC</keyword>
+<keyword>CMOS</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Electronic Devices and Semiconductor Manufacturing</discipline>
+<discipline>Signal Processing</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;There has been a dramatic increase in wireless awareness among the user community in the past few years. As the wireless communication devices require more integration in terms of both hardware and software, the low-power integrated circuit (IC) solution has gained higher dedication and will dominate in the future radio-frequency IC (RFIC) design. Complementary Metal-Oxide Semiconductor (CMOS) process is extremely attractive for such applications because of its low cost and the possibility to integrate baseband and high frequency circuits on the same chip. The transceiver is often the most power-hungry block in a wireless communication system. The frequency divider (prescaler) and the voltage controlled oscillator (VCO) which are essential building blocks of in the frequency synthesizer of the transmitter are among the major sources of power consumption.&lt;/p&gt;
+&lt;p&gt;This work focuses on prescalers. The injection-locked frequency dividers (ILFD) were introduced in the recent past for low-power frequency division. ILFDs can consume an order of magnitude lower power when compared to conventional flip-flop based dividers. However their range of operating frequency, also known as the locking range, is limited. ILFDs can be classified as LC tank, ring or relaxation oscillator based. There have been a lot of published works on the LC tank and ring oscillator based ILFDs. However, the one on relaxation oscillator based ILFD has been rarely reported, especially for RF applications. Besides, it is usually employed to implement a single division ratio such as 2, 3, 4 with an ILFD, while dual- or multi- moduli prescaler is more attractive to an RF synthesizer and are also rarely studied among published ILFDs.&lt;/p&gt;
+&lt;p&gt;The goal of this work is to initially characterize the relaxation ILFD for RF applications. The locking range is optimized by the proposed topology. Besides, mathematical derivation is developed to verify the optimization. ILFD is also designed for different moduli with an easily controlled manner. Finally, the dual-modulus ILFD is also implemented based on the proposed structure. A prototype is fabricated in a 90-nm CMOS process and successfully tested.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1464</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2624&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1464</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2624</articleid>
+<submission-date>2012-06-25T11:34:27-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2624/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3021676</context-key>
+<submission-path>utk_graddiss/1464</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Jeremy Holleman, Joshua Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

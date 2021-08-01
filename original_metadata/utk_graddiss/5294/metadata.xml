@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sensitivity of Neutrino-Driven Core-Collapse Supernova Models to the Microphysical Equation of State</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rlandfie@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Landfield</lname>
+<fname>Ryan</fname>
+<mname>Elliott</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Astrophysics</keyword>
+<keyword>Core-Collapse Supernovae</keyword>
+<keyword>Equation of State</keyword>
+<keyword>Numerical Simulation</keyword>
+</keywords>
+<abstract>&lt;p&gt;The aim of this dissertation is to explore the sensitivity of neutrino-driven core collapse supernova physics to the microphysical equation of state of the stellar matter. Core collapse supernovae result from the gravitational collapse and ensuing explosion of massive stars. The most fundamental question in core collapse supernova (CCSN) theory is the mechanism of shock revival leading to the observed supernova explosion. The leading scenario is that neutrinos trapped in the proto-neutron star (PNS) during its formation escape and reheat the inner shock, reviving the shockwave, which expands outward, ejecting the star&#39;s outer shells into space. Given the central importance of the delayed heating mechanism to the dynamics of CCSNe, detailed studies of the dynamics of the neutrino heating mechanism, neutrino and gravitational wave (GW) signatures, and the dependence on both neutrinomatter interaction rates and the nuclear equation of state (EOS) are needed. The first direct detection of a GW emission from a CCSN would allow for a qualitative investigation into the accuracy of existing nuclear-force models via the EOS. Hence accurate CCSN numerical models are imminently necessary to predict and interpret such GW signatures. A tandem measurement of neutrino signature modulations and GWs would provide direct information about the CCSN mechanism and further our insight into the origins of neutron star rotation and kicks. In order to enhance the computational capability of the ORNL/UTK CCSN simulations, firstly I have developed the capacity to implement different pre-processed state-of- the-art EOS tables in the ORNL/UTK multi-D SN code CHIMERA. I have developed the multi-purpose EOS/Opacity table repository WeakLib for this purpose. Secondly, I have implemented these different EOS in 1D and 2D CHIMERA to study the impact of the EOS on the collapse, bounce, and post-bounce dynamics of the CCSNe explosion, as well as the impact on neutrino emission signals.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5294</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6838&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5294</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6838</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14343001</context-key>
+<submission-path>utk_graddiss/5294</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Anthony Mezzacappa</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hix, Eric J. Lentz, Otis Messer, Fernando Schwartz, Andrew Steiner</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

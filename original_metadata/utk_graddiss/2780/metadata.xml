@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Achieving Energy Efficiency on Networking Systems with Optimization Algorithms and Compressed Data Structures</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yyao9@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yao</lname>
+<fname>Yanjun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Energy Efficiency</keyword>
+<keyword>Workload Consolidation</keyword>
+<keyword>Data Collection</keyword>
+<keyword>Bloom Filter</keyword>
+<keyword>Compressive Sensing</keyword>
+<keyword>Routing</keyword>
+</keywords>
+<disciplines><discipline>Digital Communications and Networking</discipline>
+</disciplines><abstract>&lt;p&gt;To cope with the increasing quantity, capacity and energy consumption of transmission and routing equipment in the Internet, energy efficiency of communication networks has attracted more and more attention from researchers around the world. In this dissertation, we proposed three methodologies to achieve energy efficiency on networking devices: the NP-complete problems and heuristics, the compressed data structures, and the combination of the first two methods.&lt;/p&gt;
+&lt;p&gt;We first consider the problem of achieving energy efficiency in Data Center Networks (DCN). We generalize the energy efficiency networking problem in data centers as optimal flow assignment problems, which is NP-complete, and then propose a heuristic called CARPO, a correlation-aware power optimization algorithm, that dynamically consolidate traffic flows onto a small set of links and switches in a DCN and then shut down unused network devices for power savings.&lt;/p&gt;
+&lt;p&gt;We then achieve energy efficiency on Internet routers by using the compressive data structure. A novel data structure called the Probabilistic Bloom Filter (PBF), which extends the classical bloom filter into the probabilistic direction, so that it can effectively identify heavy hitters with a small memory foot print to reduce energy consumption of network measurement.&lt;/p&gt;
+&lt;p&gt;To achieve energy efficiency on Wireless Sensor Networks (WSN), we developed one data collection protocol called EDAL, which stands for Energy-efficient Delay-aware Lifetime-balancing data collection. Based on the Open Vehicle Routing problem, EDAL exploits the topology requirements of Compressive Sensing (CS), then implement CS to save more energy on sensor nodes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2780</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4045&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2780</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4045</articleid>
+<submission-date>2014-02-27T13:19:22-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5231662</context-key>
+<submission-path>utk_graddiss/2780</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Qing Cao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Husheng Li, Jindong Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

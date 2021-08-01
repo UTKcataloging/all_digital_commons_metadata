@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Taylor Weak Statement Finite Element Algorithm for Real-Gas Compressible Navier-Stokes Simulation</title>
+<publication-date>1992-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Freels</lname>
+<fname>James</fname>
+<mname>Downing</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;A new finite element numerical computational fluid dynamics (CFD) algorithm has been developed for efficiently solving multi-dimensional real-gas compressible flow problems in generalized coordinates on modern parallel-vector computer systems. The algorithm employs a Taylor extension on the classical Galerkin weak statement formulation, a time-relaxed iteration procedure, and a tensor matrix product based factorization of the linear algebra jacobian under a generalized coordinate transformation. Allowing for a general conservation law system, the algorithm has been exercised for the two-dimensional Euler and the laminar and turbulent forms of the Navier-Stokes equations. Equilibrium real-gas air properties are admitted, and numerical results verify solution accuracy, consistency, convergence, efficiency, and stability over a range of test problem parameters. The algorithm is cast in a fully generalized form, such that extension to other flow problems, including three dimensions or two-phase thermal-hydraulics, is direct.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4724</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6328&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4724</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6328</articleid>
+<submission-date>2018-02-02T11:43:13-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>11471990</context-key>
+<submission-path>utk_graddiss/4724</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Allen J. Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rao V. Arimilli, Eugene L. Wachspress, Jerry E. Stoneking, Osama Soliman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1992-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1992-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

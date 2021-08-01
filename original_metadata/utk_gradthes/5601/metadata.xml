@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Fluid Dynamics Assessment of Laminar-Turbulent Boundary Layer Transition and its Application to Rotorcraft</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcarnes6@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Carnes</lname>
+<fname>Jared</fname>
+<mname>Alexander</mname>
+</author>
+</authors>
+<keywords>
+<keyword>CFD</keyword>
+<keyword>Aerodynamics</keyword>
+<keyword>Rotorcraft</keyword>
+<keyword>Boundary layer transition</keyword>
+<keyword>Turbulence modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;The Amplification Factor Transport (AFT) transition modeling framework has been modified to include an algebraic model to account for crossflow transition. The effect of crossflow transition modeling is assessed for two rotors in hovering flight and on a rotor-fuselage system in forward flight conditions. Hover predictions for the S-76 and PSP rotor and forward flight predictions for the PSP-ROBIN system are made using a computational fluid dynamics approach. Solutions were obtained using OVERLFOW 2.2n, a structured, overset, Reynolds-averaged Navier-Stokes solver designed and maintained by NASA. A hybrid RANS/LES methodology is used in order to more accurately capture off-body structures and turbulent scales. Grid generation and computational methods are described. Simulations were performed using a fully-turbulent model, a transition model without crossflow, and a transition model with crossflow modeling enabled. Performance predictions and transition locations are qualitatively and quantitatively compared to results from experiments. Additional analyses include wake vortex structure examination, sectional loading, and integrated force and moment coefficient comparisons. For the S-76 rotor in hover, the transition model with crossflow showed early transition on the lower surface due to a blade-vortex interaction (BVI). When using the transition model without crossflow, BVI did not greatly affect predicted transition. Predicted rotor figure of merit for the PSP rotor in hover correlated well with experiments for both transition models. Thrust was overpredicted for the PSP-ROBIN system in forward flight; however, predicted transition locations showed good agreement with experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5601</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7135&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5601</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7135</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539100</context-key>
+<submission-path>utk_gradthes/5601</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James Coder</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Devina Sanjaya, Ryan Glasby</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

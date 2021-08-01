@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automatic Sleep Stages Classification</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mzokaein@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zokaeinikoo</lname>
+<fname>Maryam</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Time--frequency analysis</keyword>
+<keyword>Random forest classifier</keyword>
+<keyword>cross validation</keyword>
+<keyword>Sleep Interventions</keyword>
+<keyword>Sleep Efficiency</keyword>
+<keyword>Semi-Markov Methods</keyword>
+<keyword>Simulation</keyword>
+</keywords>
+<disciplines><discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, we first develop an efficient automated classification algorithm for sleep stages identification. Polysomnography recordings (PSGs) from twenty subjects were used in this study and features were extracted from the time{frequency representation of the electroencephalography (EEG) signal. The classification of the extracted features was done using random forest classifier. The performance of the new approach is tested by evaluating the accuracy of each sleep stages and total accuracy. The results shows improvement in all five sleep stages compared to previous works.&lt;/p&gt;
+&lt;p&gt;Then, we present a simulation decision algorithm for switching between sleep interventions. This method improves the percentage of average amount of sleep in each stage. The results shows that sleep efficiency can be maximized by switching between intervention chains.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4088</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5181&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4088</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5181</articleid>
+<submission-date>2016-04-16T17:05:40-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8486463</context-key>
+<submission-path>utk_gradthes/4088</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Anahita Khojandi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Oleg Shylo, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A shooting algorithm for complex immunodominance control problems</title>
+<publication-date>2009-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhao</lname>
+<fname>Xiaopeng</fname>
+</author>
+<author>
+<lname>Yang</lname>
+<fname>R</fname>
+</author>
+<author>
+<lname>Zhang</lname>
+<fname>M</fname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+<discipline>Biomedical Engineering and Bioengineering</discipline>
+<discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Although T cells are able to recognize a wide variety of target peptides, they are often strongly focused on a few of the peptides and leave the rest of them unattended. This phenomenon of strongly biased immune response is known as immunodominance. Mathematically, an immunodominance problem can be formulated using optimal control principles as a two-point boundary-value problem. The solution of this problem is challenging especially when the control variables are bounded. In this work, we develop a numerical algorithm based on the shooting technique for bounded optimal control problems. The algorithm is applied to a group of immunodominance problems. Numerical simulations reveal that the immune system selects either a broad or a specific strategy of immunodominance based on different optimization goals. The shooting algorithm can also be utilized to solve other complex optimal control problems.&lt;/p&gt;
+&lt;p&gt;doi: 10.1109/IEMBS.2009.5333566&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_mechpubs/20</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1022&amp;amp;context=utk_mechpubs&amp;amp;unstamped=1</fulltext-url>
+<label>20</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1022</articleid>
+<submission-date>2014-01-13T12:26:02-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Mechanical, Aerospace and Biomedical Engineering</publication-title>
+<context-key>4984709</context-key>
+<submission-path>utk_mechpubs/20</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article has been funded by the University of Tennessee&#39;s &lt;a href=&quot;http://www.lib.utk.edu/scholar/open-access/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Conf Proc IEEE Eng Med Biol Soc. 2009;2009:3897-900. doi: 10.1109/IEMBS.2009.5333566</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-01-13T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

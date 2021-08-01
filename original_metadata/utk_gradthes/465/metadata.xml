@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Development of an APD algorithm development board for Positron Emission Tomography</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mallem</lname>
+<fname>Rakesh</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Using the PET scanner, three dimensional images of the human body with sufficient detail can be viewed which help physicians to visualize both normal metabolic functions and discover the chemical processes underlying physical abnormalities. Commercial PET scanners employ Photo Multiplier Tubes to detect the anti-matter annihilation photons and amplify the signals to a suitable level for digital sampling. Photomultiplier tubes provide extremely high sensitivity and exceptionally low noise compared to other photosensitive devices currently used to detect radiant energy in the ultraviolet, visible and near infrared regions. A combined magnetic resonance positron emission tomography (MR-PET) modality would require a solid-state photo detector due to the known gain/timing variation of PMTs with variable magnetic field. PET detector block designs have been described and implemented in the literature using APD photo detectors at moderate values of gain. The APD Algorithm Development Board is basically a signal processing board which receives the integrated APD analog signals and outputs a digital event packet composing of position and timing data for each detected photon. These digital event packets are digitally transmitted to a downstream module for comparison with opposing detectors to detect the coincidence photons fundamental to PET. The main functions are to process analog signals from the APDs to determine if an energy qualified gamma ray event has been detected, localize the crystal position and time of the event, and transmit the event information to the control interface, en route to a coincidence processor.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/465</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1501&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>465</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1501</articleid>
+<submission-date>2010-02-18T08:01:53-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1153142</context-key>
+<submission-path>utk_gradthes/465</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Elhanany, Ethan Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/MallemRakesh.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

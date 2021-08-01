@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Anisotropic Adaptation on Unstructured Grids</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xia</lname>
+<fname>Guoping</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The efficient representation of the highly directional features in a flow field with adapted anisotropic grids forms the focus of the analysis. Anisotropic adaptation is more effective than isotropic adaptation and requires more degrees of freedom from the mesh, which also demands the use of unstructured grids in the adaptation. The size and orientation of an anisotropic element require a matrix-like local feature indicator. The Hessian, a matrix composed of the second derivatives of an appropriate flow variable, is defined and used as a feature indicator in the adaptation. The Hessian provides a metric that defines the length of an edge and the lengths of all edges are equal in the optimized mesh. The techniques to minimize the differences among edge lengths are discussed and those chosen include node enrichment, node removal, edge swapping and point smoothing. The results indicate that the mesh in which the edge lengths are equalized is not correct for three major flow features one frequently encounters. The inflections existing near the wall in a boundary layer result in coarse grids there. A “wall” Hessian is defined to replace the second derivatives and give a more appropriate spacing for high Reynolds number flow modeling. Difficulties in the adaptation of discontinuities are addressed. Remedies proposed are to limit the minimum physical edge length and smooth the Hessian such that the discontinuity refinement encompasses more layers of elements. The methodology to refine the discontinuity equally is also proposed. The invalidity of the Hessian in a free stream is corrected to give a reasonable grid size in that region. The concepts involved in the extension of the length-based approach to three dimensions are addressed. The difference and difficulties in three-dimensional adaptation are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2356</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3804&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2356</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3804</articleid>
+<submission-date>2013-10-15T12:31:48-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4717166</context-key>
+<submission-path>utk_graddiss/2356</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles L. Merkle</value>
+</field>
+<field name="advisor2" type="string">
+<value>John E. Caruthers, K.C. Reddy, John S. Steinhoff</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

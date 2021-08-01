@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Aerodynamic Analysis of Converging Free Jets</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hatcher</lname>
+<fname>George</fname>
+<mname>Wayman</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The aerodynamics of converging free jets was studied to determine the characteristics of the flow field involved in the manufacture of meltblown fibers.  The two-dimensional computational fluid dynamic analysis was validated through comparison to boundary layer theory.  The converging jet geometry consisted of two symmetric rectangular channels 30º from the axis of symmetry, 0.013 inches wide, converging toward a free expansion region at standard atmospheric conditions.  The two channels were 0.015 inches apart at the exit, and the perpendicular wall region between them was flush with the upper and lower plate faces of the meltblowing die.  Upstream boundary conditions of 10 psig and 400ºF were applied at the channel entrances as the nominal case and yielded an internal flow Reynolds number near the channel exit of .&lt;/p&gt;
+&lt;p&gt;The computational model utilized was based on the governing Navier-Stokes equations and included variable ideal gas density, the k-epsilon turbulence model, the energy equation, and time dependence.  Under these conditions, the resulting jet exhibited equilibrium even with asymmetric upstream pressure boundary conditions of up to 20% difference.  The computed velocity flow field exhibited three separate regions:  zone 1, where the jets exhibit individually distinct velocity profiles; zone 2, a mixing region with an intermediate velocity profile and the maximum turbulence; and zone 3, where the individual signatures of the jets are no longer present and the velocity profile assumes the theoretical profile of a single jet of similar mass flow rate.&lt;/p&gt;
+&lt;p&gt;Flow parameters were at their most complex in the expansion region in close proximity to the jet nozzle exits (zones 1 and 2), including maxima in velocity, vorticity, compressibility, temperature, recirculation, and turbulence.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2564</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3650&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2564</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3650</articleid>
+<submission-date>2013-10-11T12:50:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4699880</context-key>
+<submission-path>utk_gradthes/2564</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert Bond</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mancil W. Milligan, Gary V. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

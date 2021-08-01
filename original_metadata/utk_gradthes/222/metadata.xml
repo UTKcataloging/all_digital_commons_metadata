@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>FPGA-based Image Analysis System for Cotton Classing</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sharafat</lname>
+<fname>Muhammad</fname>
+<mname>Imran</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The design and implementation of an FPGA (field-programmable gate array) based image analysis system was undertaken to replace an older system whose components have become obsolete. Video from an analog camera is digitized by a video decoder. The data from the video decoder is stored in memory and then processed using an FPGA. The results are then transmitted over a universal serial bus (USB) to a host personal computer for additional processing. The system also controls the timing of a flash to correctly capture the images; it measures color and reflectance and is used to classify the quality of raw cotton by determining the concentration of impurities (e.g. leaves or trash). The original system is first described and the need for upgrading presented. The goals of the new system are then specified and its implementation presented along with the design space tradeoffs that were considered. Finally, the results obtained from using the new system are presented to demonstrate its effectiveness.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/222</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1255&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>222</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1255</articleid>
+<submission-date>2010-02-10T10:16:50-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1139092</context-key>
+<submission-path>utk_gradthes/222</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Jack S. Lawler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/SharafatMuhammad.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

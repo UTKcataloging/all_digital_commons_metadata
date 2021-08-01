@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptive Discontinuous Galerkin Finite Element Methods for a Diffuse Interface Model of Biological Growth</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aaristot@utk.edu</email>
+<lname>Aristotelous</lname>
+<fname>Andreas C</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Adaptive</keyword>
+<keyword>Discontinuous-Galerkin</keyword>
+<keyword>Finite-Element</keyword>
+<keyword>Cahn-Hilliard</keyword>
+<keyword>Diffuse-Interface</keyword>
+<keyword>Biological-Growth</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;This PhD dissertation concentrates on the development and application of adaptive Discontinuous Galerkin Finite Element (DG-FE) methods for the numerical solution of a Cahn-Hilliard-type diffuse interface model for biological growth. Models of this type have become popular for studying cancerous tumor progression in vivo. The work in this dissertation advances the state-of-the-art in the following ways: To our knowledge the work here contains the first primitive-variable, completely discontinuous numerical implementations of a 2D scheme for the Cahn-Hilliard equation as well as a diffuse interface model of cancer growth. We provide numerical evidence that the schemes above are convergent, with the optimal order. The efficiency of the numerical algorithms depends largely on the implementation of fast solvers for the systems of equations resulting from the DG-FE discretizations. We have developed such capabilities based on multigrid and sparse direct solver techniques. We demonstrate proof-of-concept regarding the implementation of a practical spatially adaptive meshing algorithm for the numerical schemes just mentioned and the effective use of a very simple, but powerful, marking strategy based on an inverse estimate. We demonstrate proof-of-concept for a novel simplified diffuse interface model of tumor growth. This model is essentially the Cahn-Hilliard equation with an added source term that is specialized for the context of cancerous tumor progression. We devise and analyze a mixed DG-FE scheme of convex splitting (CS) type for the Cahn-Hilliard equation in any space dimension. Specifically, we prove that our scheme is unconditionally energy stable and unconditionally uniquely solvable. Likewise, we devise and analyze a CS, mixed DG-FE scheme for our diffuse interface cancer model. This scheme is energy stable for any (positive) time step size and for any (positive) space step size that is sufficiently small.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1051</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2288&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1051</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2288</articleid>
+<submission-date>2011-08-02T13:09:45-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2128578</context-key>
+<submission-path>utk_graddiss/1051</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ohannes A. Karakashian</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steven M. Wise, Xiaobing H. Feng, Gao Yanfei</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

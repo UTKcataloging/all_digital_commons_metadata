@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Curvature Variation as Measure of Shape Information</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sukumar</lname>
+<fname>Sreenivas</fname>
+<mname>Rangan</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, we present the Curvature Variation Measure (CVM) as our informational approach to shape description. We base our algorithm on shape curvature, and extract shape information as the entropic measure of the curvature. We present definitions to estimate curvature for both discrete 2D curves and 3D surfaces and then formulate our theory of shape information from these definitions.&lt;/p&gt;
+&lt;p&gt;With focus on reverse engineering and under vehicle inspection, we document our research efforts in constructing a scanning mechanism to model real world objects. We use a laser-based range sensor for the data collection and discuss view-fusion and integration to model real world objects as triangle meshes. With the triangle mesh as the digitized representation of the object, we segment the mesh into smooth surface patches based on the curvedness of the surface. We perform region-growing to obtain the patch adjacency and apply the definition of our CVM as a descriptor of surface complexity on each of these patches. We output the real world object as a graph network of patches with our CVM at the nodes describing the patch complexity. We demonstrate this algorithm with results on automotive components.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2381</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3832&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2381</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3832</articleid>
+<submission-date>2013-10-22T10:18:59-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4751350</context-key>
+<submission-path>utk_gradthes/2381</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, David L. Page, Andrei V. Gribok</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

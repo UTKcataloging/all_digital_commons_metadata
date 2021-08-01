@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Theoretical and Experimental Study of Degradation Monitoring of Steam Generators and Heat Exchangers</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Huang</lname>
+<fname>Xuedong</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of this research is focused on the modeling, analysis, and experimental study of steam generator and heat exchanger degradation monitoring and fault diagnosis.  Experimental and analytical studies of tube fouling are performed and the system-level degradations are monitored using data-driven modeling of heat exchanger measurements.  Initially, a comprehensive literature study was made on the steam generator and heat exchanger degradation types and mechanisms, including fouling and corrosion.&lt;/p&gt;
+&lt;p&gt;Based on the mass balance, energy balance, and momentum balance and the moving-boundary method, a multi-node SIMULINK model of a U-tube steam generator (UTSG) has been developed so as to simulate the UTSG dynamics or responses to various defects, including fouling.  UTSG responses to different events, such as reduced heat transfer area, change in heat transfer coefficient at different axial nodes, change in tube material conductivity, and the change of steam valve coefficients have been simulated and studied using the SIMULINK model.  A mathematical model is established and implemented in MATLAB based on a systematic literature review of steam generator and heat exchanger fouling.&lt;/p&gt;
+&lt;p&gt;The fouling model and the UTSG SIMULINK model are both used to study the progression of tube fouling and the effects on UTSG thermal performance.  The simulation results show the fidelity and validity of the developed models.  The developed models can be used to predict the time behavior of UTSG thermal performance.  This could provide guidance for plant maintenance planning.  The simulation results of fouling and its effect on UTSG thermal performance are presented.&lt;/p&gt;
+&lt;p&gt;Based on an existing heat exchanger laboratory system, an experimental study of the particulate fouling progression in a heat exchanger has been performed.  The results show the particulate fouling in heat exchangers also exhibits an asymptotic behavior, and the model-based method for fouling monitoring and diagnosis is successful and efficient.&lt;/p&gt;
+&lt;p&gt;Finally a theoretical heat exchanger model is developed and coded using MATLAB.  This model is then used to generate data representative of normal conditions.  With these normal data and the fouling data collected from the experimental loop, the Group Method of Data Handling (GMDH) method is then used to monitor and diagnose the fouling problem in the heat exchanger.  The GMDH results show that the residuals of both hot-side and cold-side outlet temperatures follow the same pattern as the overall thermal resistance obtained from the experiment.  Also, the UTSG SIMULINK model is used to generate data and the GMDH method is used to establish a data-driven model.  The results again show that the GMDH approach can appropriately model the UTSG system behavior and can be used for fouling monitoring and diagnosis and also model the effect of tube plugging on UTSG steam pressure.&lt;/p&gt;
+&lt;p&gt;These results demonstrate that an appropriately developed GMDH model can be used to monitor and diagnose the fouling, and possibly other degradation problems in both the heat exchanger and steam generator systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1978</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3336&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1978</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3336</articleid>
+<submission-date>2013-09-26T13:31:45-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4634935</context-key>
+<submission-path>utk_gradthes/1978</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Algorithms for Data Analysis within Beta-Decay Experiments</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rwhiteh4@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Whitehead</lname>
+<fname>Ryan</fname>
+<mname>Ashley</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nuclear physics</keyword>
+<keyword>beta decay</keyword>
+<keyword>digital filter</keyword>
+<keyword>data analysis</keyword>
+<keyword>neutron physics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Observables in neutron and nuclear beta decay can be used to search for Beyond-the-Standard-Model (BSM) physics.The Nab experiment is measuring the electron-antineutrino correlation and Fierz interference terms, within the theory ofbeta decay, with a dedicated neutron beam at ORNL&#39;s SNS. Another experiment is measuring the Fierz interference term, usinga $^{45}$Ca source and taking place in Area B of LANSCE. Within both experiments, two thick, segmented Si detectors are equipped,each consisting of 127 pixels. The detected currents, after amplification and shaping, are recorded as waveforms.Backscattering is a significant issue, specifically that which causes multiple interactions to be recorded within a single waveform.A digital filter has been developed for the identification of these occurrences. With the Nab experiment planning to collect dataon the order of tens of months, the online analysis of the experiment is crucial. Algorithms will be explored within the onlinesoftware for coincidence-pair identification and the extraction of the electron-antineutrino correlation parameter.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5571</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7105&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5571</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7105</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409616</context-key>
+<submission-path>utk_gradthes/5571</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nadia Fomin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Geoffrey Greene, Stefan Spanier</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

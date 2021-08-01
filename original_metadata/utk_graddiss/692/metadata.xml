@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Development of a Parameterized Scatter Removal Algorithm for Nuclear Materials Identification System Imaging</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bgrogan@utk.edu</email>
+<institution>The University of Tennessee</institution>
+<lname>Grogan</lname>
+<fname>Brandon</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>neutron radiography</keyword>
+<keyword>scatter removal</keyword>
+<keyword>MCNP modeling</keyword>
+<keyword>MCNP-PoliMi</keyword>
+<keyword>NMIS</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents a novel method for removing scattering effects from Nuclear Materials Identification System (NMIS) imaging.  The NMIS uses fast neutron radiography to generate images of the internal structure of objects non-intrusively.  If the correct attenuation through the object is measured, the positions and macroscopic cross-sections of features inside the object can be determined.  The cross sections can then be used to identify the materials and a 3D map of the interior of the object can be reconstructed.  Unfortunately, the measured attenuation values are always too low because scattered neutrons contribute to the unattenuated neutron signal.  Previous efforts to remove the scatter from NMIS imaging have focused on minimizing the fraction of scattered neutrons which are misidentified as directly transmitted by electronically collimating and time tagging the source neutrons.  The parameterized scatter removal algorithm (PSRA) approaches the problem from an entirely new direction by using Monte Carlo simulations to estimate the point scatter functions (PScFs) produced by neutrons scattering in the object.  PScFs have been used to remove scattering successfully in other applications, but only with simple 2D detector models.  This work represents the first time PScFs have ever been applied to an imaging detector geometry as complicated as the NMIS.  By fitting the PScFs using a Gaussian function, they can be parameterized and the proper scatter for a given problem can be removed without the need for rerunning the simulations each time.  In order to model the PScFs, an entirely new method for simulating NMIS measurements was developed for this work.  The development of the new models and the codes required to simulate them are presented in detail.  The PSRA was used on several simulated and experimental measurements and chi-squared goodness of fit tests were used to compare the corrected values to the ideal values that would be expected with no scattering.  Using the PSRA resulted in an improvement of the chi-squared test by a factor of 60 or more when applied to simple homogeneous objects.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/692</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1380&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>692</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1380</articleid>
+<submission-date>2010-02-12T08:40:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1142509</context-key>
+<submission-path>utk_graddiss/692</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Mihalczo</value>
+</field>
+<field name="advisor2" type="string">
+<value>Thomas Handler, Laurence Miller, Lawrence Townsend</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

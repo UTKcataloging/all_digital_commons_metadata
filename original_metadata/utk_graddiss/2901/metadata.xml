@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Prognostic-based Life Extension Methodology with Application to Power Generation Systems</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sniknam@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Niknam</lname>
+<fname>Seyed</fname>
+<mname>Ahmad</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Prognostics</keyword>
+<keyword>Diagnostics</keyword>
+<keyword>Life Extension</keyword>
+<keyword>Reliability</keyword>
+</keywords>
+<disciplines><discipline>Other Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Practicable life extension of engineering systems would be a remarkable application of prognostics. This research proposes a framework for prognostic-base life extension. This research investigates the use of prognostic data to mobilize the potential residual life. The obstacles in performing life extension include: lack of knowledge, lack of tools, lack of data, and lack of time.&lt;/p&gt;
+&lt;p&gt;This research primarily considers using the acoustic emission (AE) technology for quick-response diagnostic. To be specific, an important feature of AE data was statistically modeled to provide quick, robust and intuitive diagnostic capability. The proposed model was successful to detect the out of control situation when the data of faulty bearing was applied. This research also highlights the importance of self-healing materials.&lt;/p&gt;
+&lt;p&gt;One main component of the proposed life extension framework is the trend analysis module. This module analyzes the pattern of the time-ordered degradation measures. The trend analysis is helpful not only for early fault detection but also to track the improvement in the degradation rate. This research considered trend analysis methods for the prognostic parameters, degradation waveform and multivariate data. In this respect, graphical methods was found appropriate for trend detection of signal features. Hilbert Huang Transform was applied to analyze the trends in waveforms. For multivariate data, it was realized that PCA is able to indicate the trends in the data if accompanied by proper data processing. In addition, two algorithms are introduced to address non-monotonic trends. It seems, both algorithms have the potential to treat the non-monotonicity in degradation data.&lt;/p&gt;
+&lt;p&gt;Although considerable research has been devoted to developing prognostics algorithms, rather less attention has been paid to post-prognostic issues such as maintenance decision making. A multi-objective optimization model is presented for a power generation unit. This model proves the ability of prognostic models to balance between power generation and life extension. In this research, the confronting objective functions were defined as maximizing profit and maximizing service life. The decision variables include the shaft speed and duration of maintenance actions. The results of the optimization models showed clearly that maximizing the service life requires lower shaft speed and longer maintenance time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2901</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4194&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2901</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4194</articleid>
+<submission-date>2014-06-12T18:41:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5684663</context-key>
+<submission-path>utk_graddiss/2901</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John E. Kobza, J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle R. Upadhyaya, Peter K. Liaw, Mingzhuo Zin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

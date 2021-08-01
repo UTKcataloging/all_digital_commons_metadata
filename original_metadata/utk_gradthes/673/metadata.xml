@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>GPU Implementation of a Novel Approach to Cramer’s Algorithm for Solving Large Scale Linear Systems</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rwest6@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>West</lname>
+<fname>Rosanne</fname>
+<mname>Lane</mname>
+</author>
+</authors>
+<keywords>
+<keyword>high performance computing</keyword>
+<keyword>GPU</keyword>
+<keyword>CUDA</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Scientific computing often requires solving systems of linear equations. Most software pack- ages for solving large-scale linear systems use Gaussian elimination methods such as LU- decomposition. An alternative method, recently introduced by K. Habgood and I. Arel, involves an application of Cramer’s Rule and Chio’s condensation to achieve a better per- forming system for solving linear systems on parallel computing platforms. This thesis describes an implementation of this algorithm on an nVidia graphics processor card us- ing the CUDA language. Increased performance, relative to the serial implementation, is demonstrated, paving the way for future parallel realizations of the scheme.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/673</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1645&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>673</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1645</articleid>
+<submission-date>2010-04-12T15:29:52-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1271851</context-key>
+<submission-path>utk_gradthes/673</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Charles Cao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

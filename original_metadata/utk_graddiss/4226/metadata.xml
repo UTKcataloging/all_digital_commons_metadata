@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Markov set-chains as models of plant succession</title>
+<publication-date>2001-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Samuels</lname>
+<fname>Corey</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<disciplines><discipline>Ecology and Evolutionary Biology</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation I examine Markov set-chains as a new approach for modeling plant succession. Set-chains are an extension of Markov chains, due to Hartfiel (1991, 1998), that makes it possible to model succession when transition probabilities are uncertain or fluctuating. In Markov set-chains each transition probability is expressed as an interval containing the range of all possible values for that parameter. In turn, a set-chain predicts community composition as a range of possible frequencies for each species. First, I give an introduction to Markov set-chains and methods for iterating and finding their asymptotic behavior. I demonstrate the formulation and computation of a set-chain with an example from a grassland restoration experiment. Next, I use set-chains to investigate the dynamics of experimental grassland plots planted with different species diversities. The set-chain predicts that plots with more planted species will vary less in composition than those with fewer species. I analyze a restricted, two-state set-chain and show that these differences in variability reflect variability thresholds that identify four distinct regions of parameter-space. These regions delineate which transition probability intervals lead to widening, or narrowing, distribution intervals as the system develops. Finally, I use simulations to investigate several questions about how uncertainty propagates from data to parameter estimates and predictions in Markov set-chains. Markov set-chains are an important contribution to our understanding of what controls variability in ecological systems; they may be useful tools for getting more predictable outcomes from ecological restoration and construction.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4226</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5908&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4226</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5908</articleid>
+<submission-date>2017-03-15T07:54:07-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9858175</context-key>
+<submission-path>utk_graddiss/4226</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark Kot, Thomas G. Hallam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mitch Cruzan, James A. Drake, Robert V. O&#39;Neill, Daniel Simberloff, Jake Weltzin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Ecology and Evolutionary Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2001-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

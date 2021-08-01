@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="Carter.3.3" system="knb" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 eml.xsd"> <access authSystem="knb" order="allowFirst"> <allow><principal>public</principal>
+ <permission>read</permission>
+ </allow>
+ </access>
+ <dataset> <title>Exotic Plants and Copperhead Resource Selection Data, Jefferson County, IN, USA, 2008-2011</title>
+ <creator id="1414086623648"> <individualName><givenName>Evin</givenName>
+ <surName>Carter</surName>
+ </individualName>
+ <organizationName>University of Tennessee</organizationName>
+ <positionName>PhD Student</positionName>
+ <address><deliveryPoint>Department of Ecology and Evolutionary Biology</deliveryPoint>
+ <city>Knoxville</city>
+ <administrativeArea>Tennessee</administrativeArea>
+ </address>
+ </creator>
+ <associatedParty><references>1414086623648</references>
+ <role>Principal Investigator</role>
+ </associatedParty>
+ <associatedParty id="1415235583261"><individualName><givenName>Bryan</givenName>
+ <surName>Eads</surName>
+ </individualName>
+ <role>Data collection</role>
+ </associatedParty>
+ <keywordSet><keyword>copperhead</keyword>
+ <keyword>exotic plants</keyword>
+ <keyword>invasive species</keyword>
+ <keyword>habitat selection</keyword>
+ <keyword>temperature</keyword>
+ <keyword>thermoregulation</keyword>
+ <keyword>density</keyword>
+ </keywordSet>
+ <intellectualRights><para>Acknowledge Evin T. Carter in any publications that use this data.</para>
+ </intellectualRights>
+ <coverage><geographicCoverage><geographicDescription>Jefferson County, IN, USA</geographicDescription>
+ <boundingCoordinates><westBoundingCoordinate>-91.125</westBoundingCoordinate>
+ <eastBoundingCoordinate>-83.0</eastBoundingCoordinate>
+ <northBoundingCoordinate>42.5</northBoundingCoordinate>
+ <southBoundingCoordinate>35.25</southBoundingCoordinate>
+ </boundingCoordinates>
+ </geographicCoverage>
+ <temporalCoverage><rangeOfDates><beginDate><calendarDate>2008</calendarDate>
+ </beginDate>
+ <endDate><calendarDate>2011</calendarDate>
+ </endDate>
+ </rangeOfDates>
+ </temporalCoverage>
+ </coverage>
+ <contact><references>1414086623648</references>
+ </contact>
+ <methods><methodStep><description><section><title>Fine and intermediate scale habitat selection data for copperheads at Clifty Falls State Park from June 2008 - November 2011</title>
+ <para>Radiotelemetry data for copperhead snakes at Clifty Falls State Park.  At the fine-grained scale, data includes densities and heights of native and exotic vegetation within 1-meter diameter plots (fine-grained scale).  At the intermediate scale, data includes nearest distance to native and exotic vegetation as well as nearest distance to leaf litter, fallen log (&gt;7.5cm diamter), and rock (&gt;7.5 shortest width) within a 20 meter radius with the snake at the central point.  Nearest distance to overstory tree was measured to 40 meters.  Distances beyond the maximum are written as the maximum distance plus 1 (e.g., 21 and 41 meters).  Snake behavior and position and leaf litter depth in center of plot are also included.  Longitude and lattitude oordinates are transformed to protect sensitive locations.  Equivalent data was recorded at a paired random location located 20 meters from a snake location in a random direction.  Some data collection methods changed between years, most notably from 2009 to 2010.  This is apparent in the data.  Null text values are denoted as NULL, and null numeric values are denoted as -99999.</para>
+ </section>
+ </description>
+ </methodStep>
+ <methodStep><description><section><title>Macrohabitat used and available for copperheads at Clifty Falls State Park from June 2008 - November 2011</title>
+ <para>Data describes the proportion of snake locations within the following defined macrohabitats:  Heavy Exotic (75-100% exotic vegetation coverage), Mosty Exotic (50-75% exotic vegetation coverage), Semi-Natural (25-50% exotic vegetation coverage), Mostly Natural (&lt; 25% exotic vegetatiion coverage), as well as Anthropogenic (road, residential, lawn).  Exotic vegeation coverage was estimated as total percent area coverage in a 30 meter radius along 550 locations spaces 60 meters apart across the study area.  The study area is defined as a minimum convex polygon surrounding all telemetered snake locations, including a 40-meter perimeter buffer.  Availability of habitat is defined on two separate scales:  the landscape level describes total proportion of each habitat within the study area, and the activity range level describes the availability of habitat within a minimum convex polygon surrounding each individual snake.  Additional information and detailed maps may be found in:</para>
+ <para>Evin T. Carter (2012). Impacts of Invasive Plants on Resource Selection and Thermoregulation by the Northern Copperhead (Agkistrodon contortrix mokasen). &lt;http://opus.ipfw.edu/masters_theses/13&gt;</para>
+ </section>
+ </description>
+ </methodStep>
+ <methodStep><description><section><title>Leaf depth and exotic vegetation density within 237 one meter diameter random plots at Clifty Falls State Park</title>
+ <para>Exotic vegetation was measured as total percent area cover within a 1-meter random plot at sites in the forest interior with greater than 50% canopy closure (measured at four points with a spherical densiometer).  Leaf litter depth was measured in the central point of each plot by pressing a 1 cm diameter dowel through the leaf layer.</para>
+ </section>
+ </description>
+ </methodStep>
+ <methodStep><description><section><title>Thermal gradient data for estimating thermal set points in copperheads</title>
+ <para>We constructed rectangular thermal gradients (200cm x 46cm x 20m) from plywood using metal sheeting and copper coils as a conductive base (temperature range: 18-40 °C). Each gradient consisted of a set of ten paired chambers lined with insulation foam, with one paired chamber lighted using soft even fluorescent bulbs and the opposite chamber covered to provide refuge. Tops were constructed from plexi-glass, and a 7.5 cm square hole passed through the length of each gradient in order to provide simple passage between chambers while still maintaining insulation and uniform temperature within each chamber. A thermostat-controlled heat pad was placed at one end of each gradient and chilled water was circulated through copper coils under the opposite ends. The shaded side of each chamber was also heated from above using thermostat-controlled heat pads in order maintain a smooth gradient and uniform temperature within each chamber.</para>
+ <para>To determine whether upper and lower thermoregulatory set points varied by reproductive state, we outfitted 5 male, 5 nongravid female, and 5 gravid female copperheads with an external temperature logger (iButton, model 1922L, Embedded Data Systems, Lawrenceburg, Kentucky, USA), and each snake was placed alone in the middle of a thermal gradient maintained in a controlled environmental chamber. Body temperature was logged every 10 minutes for 48 hours, and each snake was given an acclimation period of 12 hours in an attempt to reduce potential effects of stress and afford snakes ample opportunity to explore the gradient.  For each snake, the 75% quartile (Q3) of all temperatures selected in a gradient was designated as the upper bound, and the 25% quartile (Q1) of all temperatures selected in a gradient were designated as the lower bound.</para>
+ </section>
+ </description>
+ </methodStep>
+ <methodStep><description><section><title>Operative environmental temperatures and weather station data at Clifty Falls State Park</title>
+ <para>We physical models painted to approximate the reflectance of live copperheads to measure operative environmental temperatures in 18 habitats at Clifty Falls State Park.  Models were constructed from 16 cm sections of 2.54 cm diameter thin-walled copper tubing (painted with Krylon light brown #53562).  A thermocouple was suspended inside each tube, the tubes were filled with water, and the ends were sealed with rubber stoppers. Models were validated by comparison to both live copperheads and fresh copperhead carcasses (road-killed individuals) by testing each simultaneously in the field for 5-8 hours at both high and low sun intensity.  Each model was rotated among and within the 18 macrohabitats every 7-10 days from June 2010 - October 2011.  Weather station data was obtained from a local datalogging weather station and later used to predict temperatures in each habitat throughout the duration of the study.</para>
+ </section>
+ </description>
+ </methodStep>
+ <methodStep><description><section><title>Operative environmental temperatures at exotic plant invaded and non-invaded copperhead hibernacula during May 2011</title>
+ <para>Data represents operative environmental temperatures obtained using physical models of copperheads around 5 hibernacula dominated by the exotic shrubs, bush honeysuckle (Lonicera spp.) and privet (Ligustrum spp.), and 5 hibernacula consisting primarily of native bladdernut (Staphylea trifolia Linnaeus), greenbriar (Smilax spp.), and spicebush (Lindera benzoin Linnaeus) throughout May 2011.</para>
+ </section>
+ </description>
+ </methodStep>
+ </methods>
+ <dataTable id="1415424232413"><entityName>copperhead_telemetery_data_Clifty_2008thru2011.csv</entityName>
+ <entityDescription>Telemetry data for copperheads at Clifty Falls State Park from June 2008 through November 2011</entityDescription>
+ <physical id="1415293842169"><objectName>copperhead_telemetery_data_Clifty_2008thru2011.csv</objectName>
+ <size unit="byte">950032</size>
+ <dataFormat><textFormat><numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited><fieldDelimiter>,:</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+  <distribution><online><url>ecogrid://knb/Carter.5.2</url>
+</online>
+</distribution>
+</physical>
+ <attributeList><attribute id="1415424232414"><attributeName>Snake_ID</attributeName>
+ <attributeDefinition>ID assigned to individual snake</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>Subject ID</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415424232415"><attributeName>sex</attributeName>
+ <attributeDefinition>Reproductive group as male, nongravid female, and gravid female</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>Reproductive group</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ <codeExplanation>Value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232416"><attributeName>Time</attributeName>
+ <attributeDefinition>Date and time of telemetry location</attributeDefinition>
+ <measurementScale><dateTime><formatString>YYYY-MM-DDThh:mmTZD</formatString>
+ </dateTime>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>Date not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232417"><attributeName>snake_behavior</attributeName>
+ <attributeDefinition>Behavior of snake during telemetry location</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><enumeratedDomain><codeDefinition><code>partial_body_bask</code>
+ <definition>only a portion of central part of the body exposed to sunlight, e.g., head, tail, and part of body not visible</definition>
+ </codeDefinition>
+ <codeDefinition><code>full_bask</code>
+ <definition>snake coiled on open surface in direct sunlight</definition>
+ </codeDefinition>
+ <codeDefinition><code>bask</code>
+ <definition>applies to 2008 data only.  all or most of snake on open surface in sunlight</definition>
+ </codeDefinition>
+ <codeDefinition><code>mate</code>
+ <definition>mating or courting</definition>
+ </codeDefinition>
+ <codeDefinition><code>traveling</code>
+ <definition>snake moving</definition>
+ </codeDefinition>
+ <codeDefinition><code>resting</code>
+ <definition>resting in shade or refuge site</definition>
+ </codeDefinition>
+ <codeDefinition><code>forage</code>
+ <definition>feeding or foraging</definition>
+ </codeDefinition>
+ <codeDefinition><code>shaded_bask</code>
+ <definition>typically descibes a snake in a warm, open sun site but under thin material, e.g., metal sheet or thin rock</definition>
+ </codeDefinition>
+ <codeDefinition><code>unknown</code>
+ <definition>not known, describes a snake location with no visual</definition>
+ </codeDefinition>
+ <codeDefinition><code>body_bask</code>
+ <definition>full body exposed to sunlight, but head not visible; typical of absorptive copperheads</definition>
+ </codeDefinition>
+ <codeDefinition><code>head_bask</code>
+ <definition>body in refuge with top of head exposed to direct sunlight</definition>
+ </codeDefinition>
+ <codeDefinition><code>NULL</code>
+ <definition>Null value, value not available</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ <codeExplanation>Value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232418"><attributeName>snake_position</attributeName>
+ <attributeDefinition>Position of snake during telemetry location</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>where snake was positioned</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232419"><attributeName>UTMx_transformed</attributeName>
+ <attributeDefinition>Universal Transverse Mercator coordinate system, Easting in meters, but transformed to protect sensitive locations</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232420"><attributeName>UTMy_transformed</attributeName>
+ <attributeDefinition>Universal Transverse Mercator coordinate system, Northing in meters, but transformed to protect sensitive locations</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232421"><attributeName>overstory_canopy(%)</attributeName>
+ <attributeDefinition>canopy closure measured using a spherical densiometer directly above snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232422"><attributeName>canopy_gap_present</attributeName>
+ <attributeDefinition>whether a contiguous gap in canopy was present, 30% or greater in size using a spherical densiometer from all angles</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><enumeratedDomain><codeDefinition><code>yes</code>
+ <definition>30% or greater cap present</definition>
+ </codeDefinition>
+ <codeDefinition><code>NULL</code>
+ <definition>value not available</definition>
+ </codeDefinition>
+ <codeDefinition><code>no</code>
+ <definition>30% or greater cap not present</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232423"><attributeName>middle_canopy(%)</attributeName>
+ <attributeDefinition>percent canopy closure between 1 meter and 3 meters above a snake location, estimated visually</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232424"><attributeName>macrohabitat</attributeName>
+ <attributeDefinition>Macrohabitat where snake was located, defined as the dominant habitat in an area at least 1600 square meters</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>macrohabitat type</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232425"><attributeName>native_shrub_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of native shrub foliage if looking directly down on a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232426"><attributeName>native_vine_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of native vine foliage if looking directly down on a 1 meter diameter plot centered at a snake location.</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>natural</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232427"><attributeName>native_herbaceous_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of native herbaceous if looking directly down on a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232428"><attributeName>native_tree_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of native tree foliage if looking directly down on a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232429"><attributeName>native_shrub_height(cm)</attributeName>
+ <attributeDefinition>modal height of native shrub foliage in a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232430"><attributeName>native_vine_height(cm)</attributeName>
+ <attributeDefinition>modal height of native vine foliage in a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232431"><attributeName>native_herbaceous_height(cm)</attributeName>
+ <attributeDefinition>modal height of native herbaceous in a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232432"><attributeName>exotic_shrub_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of exotic shrub foliage if looking directly down on a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232433"><attributeName>exotic_vine_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of exotic vine foliage if looking directly down on a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232434"><attributeName>exotic_herbaceous_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of exotic herbaceous foliage if looking directly down on a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232435"><attributeName>exotic_tree_density(%)</attributeName>
+ <attributeDefinition>percent area coverage of exotic tree foliage if looking directly down on a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232436"><attributeName>exotic_shrub_height(cm)</attributeName>
+ <attributeDefinition>modal height of exotic shrub foliage in a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232437"><attributeName>exotic_vine_height(cm)</attributeName>
+ <attributeDefinition>modal height of exotic vine foliage in a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232438"><attributeName>exotic_herbaceous_height(cm)</attributeName>
+ <attributeDefinition>modal height of exotic herbaceous in a 1 meter diameter plot centered at a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>natural</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ <codeExplanation>value not available</codeExplanation>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232439"><attributeName>exotic_spp_present(common_name)</attributeName>
+ <attributeDefinition>common names of all exotic species present within a 1 meter diamter plot centered on a snake location; denoted as NOT_PRESENT when no exotic species occurred within a plot</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>common names of exotic species</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232440"><attributeName>exotic_species_count</attributeName>
+ <attributeDefinition>number of exotic species within a 1 meter plot around a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Count</customUnit>
+ </unit>
+ <numericDomain><numberType>whole</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232441"><attributeName>dominant_exotic_shrub(common_name)</attributeName>
+ <attributeDefinition>common name of the dominant exotic shrub present within a 1 meter diamter plot centered on a snake location; denoted as NOT_PRESENT when no exotic shrub occurred within a plot</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232442"><attributeName>dominant_exotic_vine(common_name)</attributeName>
+ <attributeDefinition>common name of the dominant exotic vine present within a 1 meter diamter plot centered on a snake location; denoted as NOT_PRESENT when no exotic vine occurred within a plot</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232443"><attributeName>dominant_exotic_herbaceous(common_name)</attributeName>
+ <attributeDefinition>common name of the dominant exotic herbaceous present within a 1 meter diamter plot centered on a snake location; denoted as NOT_PRESENT when no exotic herbaceous occurred within a plot</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232444"><attributeName>dominant_exotic_tree(common_name)</attributeName>
+ <attributeDefinition>common name of the dominant exotic tree present within a 1 meter diamter plot centered on a snake location; denoted as NOT_PRESENT when no exotic tree occurred within a plot</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232445"><attributeName>distance_native_shrub(m)</attributeName>
+ <attributeDefinition>Distance to nearest native shrub from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232446"><attributeName>distance_native_vine(m)</attributeName>
+ <attributeDefinition>Distance to nearest native vine from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232447"><attributeName>distance_native_herbaceous(m)</attributeName>
+ <attributeDefinition>Distance to nearest native herbaceous from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232448"><attributeName>distance_native_overstory(m)</attributeName>
+ <attributeDefinition>Distance to nearest native tree, greater than 7.5 cm diameter at breast height, from a snake location within a 40 meter radius.  The value 41 is used for values beyond 40 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232449"><attributeName>distance_native_understory(m)</attributeName>
+ <attributeDefinition>Distance to nearest native tree, less than 7.5 cm diameter at breast height, from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232450"><attributeName>DBH_native_overstory(cm)</attributeName>
+ <attributeDefinition>Diameter at breast height of nearest native overstory tree within a 40 meter radius around a snake location.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232451"><attributeName>DBH_native_understory(cm)</attributeName>
+ <attributeDefinition>Diameter at breast height of nearest native understory tree within a 20 meter radius around a snake location.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232452"><attributeName>distance_exotic_shrub(m)</attributeName>
+ <attributeDefinition>Distance to nearest exotic shrub from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232453"><attributeName>distance_exotic_vine(m)</attributeName>
+ <attributeDefinition>Distance to nearest exotic vine from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232454"><attributeName>distance_exotic_herbaceous(m)</attributeName>
+ <attributeDefinition>Distance to nearest exotic herbaceous from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232455"><attributeName>distance_exotic_overstory(m)</attributeName>
+ <attributeDefinition>Distance to nearest exotic tree, greater than 7.5 cm diameter at breast height, from a snake location within a 40 meter radius.  The value 41 is used for values beyond 40 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232456"><attributeName>distance_exotic_understory(m)</attributeName>
+ <attributeDefinition>Distance to nearest exotic tree, less than 7.5 cm diameter at breast height, from a snake location within a 20 meter radius.  The value 21 is used for values beyond 20 meters.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232457"><attributeName>DBH_exotic_overstory(cm)</attributeName>
+ <attributeDefinition>Diameter at breast height of nearest exotic overstory tree within a 40 meter radius around a snake location.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232458"><attributeName>DBH_exotic_understory(cm)</attributeName>
+ <attributeDefinition>Diameter at breast height of nearest exotic understory tree within a 20 meter radius around a snake location.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232459"><attributeName>exotic_shrub_species(common_name)</attributeName>
+ <attributeDefinition>Common name of the nearest exotic shrub</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232460"><attributeName>exotic_vine_species(common_name)</attributeName>
+ <attributeDefinition>Common name of the nearest exotic vine</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232461"><attributeName>exotic_herbaceous_species(common_name)</attributeName>
+ <attributeDefinition>Common name of the nearest exotic herbaceous</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232462"><attributeName>exotic_overstory_species(common_name)</attributeName>
+ <attributeDefinition>Common name of the nearest exotic overstory tree</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232463"><attributeName>exotic_understory_species(common_name)</attributeName>
+ <attributeDefinition>Common name of the nearest exotic understory tree</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232464"><attributeName>Dependent</attributeName>
+ <attributeDefinition>Dependent variable; snake presence and pseudo-absence.  Pseudo-absence is based on random locations, which are paired with snake locations by Snake-ID and Time columns.  Each random location was situated 20 meters from a snake location in a random direction.</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><enumeratedDomain><codeDefinition><code>snake</code>
+ <definition>snake telemetry location</definition>
+ </codeDefinition>
+ <codeDefinition><code>random</code>
+ <definition>random location</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415424232465"><attributeName>distance_rock</attributeName>
+ <attributeDefinition>Distance to nearest rock with greatest width no less 7.5 cm within a 20 meter radius centered on a snake location.  2008 and 2009 only</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232466"><attributeName>distance_log</attributeName>
+ <attributeDefinition>Distance to nearest fallen log with greatest width no less 7.5 cm within a 20 meter radius centered on a snake location.  2008 and 2009 only</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232467"><attributeName>distance_leaf</attributeName>
+ <attributeDefinition>Distance to nearest leaf litter within a 20 meter radius centered on a snake location.  2008 and 2009 only.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>meter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232468"><attributeName>leaf_depth(cm)</attributeName>
+ <attributeDefinition>leaf litter depth at snake location.  2008 and 2009 only.</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232469"><attributeName>total_exotic_density</attributeName>
+ <attributeDefinition>Total percent cover of exotic vegetation within a 1 meter diameter plot around a snake location.</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232470"><attributeName>exotic_types</attributeName>
+ <attributeDefinition>exotic species types occurring within 1 meter diameter plots around snake locations.</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species types</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232471"><attributeName>dominant_exotic_sp</attributeName>
+ <attributeDefinition>The dominant exotic species, regardless of type, within a 1 meter diameter plot around a snake location</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>exotic species common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ <missingValueCode><code>NULL</code>
+ </missingValueCode>
+ </attribute>
+ <attribute id="1415424232472"><attributeName>native_cover(%)</attributeName>
+ <attributeDefinition>Total percent cover of native vegetation within a 1 meter diameter plot around a snake location</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ <missingValueCode><code>-99999</code>
+ </missingValueCode>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>2317</numberOfRecords>
+ </dataTable>
+ <dataTable id="1415426540107"><entityName>Taxonomic coverage</entityName>
+ <physical id="1415425580277"><objectName>TAXONOMIC COVERAGE TABLE FOR IMPORT.csv</objectName>
+ <size unit="byte">1080</size>
+ <dataFormat><textFormat><numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited><fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution><online><url>ecogrid://knb/Carter.6.1</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList><attribute id="1415426540108"><attributeName>Genus</attributeName>
+ <attributeDefinition>Genus of the taxa covered in this data package</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>Genus</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415426540109"><attributeName>Species</attributeName>
+ <attributeDefinition>specific epithet of the taxa covered in this data package</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>species</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415426540110"><attributeName>Common_name</attributeName>
+ <attributeDefinition>Common name of the species covered in this data package</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>common name</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>31</numberOfRecords>
+ </dataTable>
+ <dataTable id="1415427279048"><entityName>macrohabitat_used_and_available.csv</entityName>
+ <physical id="1415426575514"><objectName>macrohabitat_used_and_available.csv</objectName>
+ <size unit="byte">5175</size>
+ <dataFormat><textFormat><numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited><fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution><online><url>ecogrid://knb/Carter.7.1</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList><attribute id="1415427279049"><attributeName>Subject</attributeName>
+ <attributeDefinition>Individual copperhead</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>ID</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427279050"><attributeName>Sex</attributeName>
+ <attributeDefinition>sex/reproductive class of the subject</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>reproductive group</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427279051"><attributeName>Heavy_exotic(proportion)</attributeName>
+ <attributeDefinition>proportion of heavy exotic habitat, defined as 75-100% area coverage of exotic species</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427279052"><attributeName>Mostly_exotic(proportion)</attributeName>
+ <attributeDefinition>proportion of mostly exotic habitat, defined as 50-75% area coverage of exotic species</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427279053"><attributeName>Semi_natural(proportion)</attributeName>
+ <attributeDefinition>proportion of semi-natural habitat, defined as 25-50% area coverage of exotic species</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427279054"><attributeName>Mostly_Natural(proportion)</attributeName>
+ <attributeDefinition>proportion of mostly natural habitat, defined as &lt; 25% area coverage of exotic species</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427279055"><attributeName>Anthropogenic(proportion)</attributeName>
+ <attributeDefinition>proportion of residential, road, lawn, and other habitats modified and continually used by humans</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427279056"><attributeName>Type</attributeName>
+ <attributeDefinition>Dependent variable</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><enumeratedDomain><codeDefinition><code>used</code>
+ <definition>used by snake as determined during radiotelemetry locations</definition>
+ </codeDefinition>
+ <codeDefinition><code>activity_range_availability</code>
+ <definition>within minimum convex polygons surround each individual snake</definition>
+ </codeDefinition>
+ <codeDefinition><code>landscape_availability</code>
+ <definition>within a single minimum convex polygon surrounding all combined  snake locations</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>75</numberOfRecords>
+ </dataTable>
+ <dataTable id="1415427695107"><entityName>leaf_depth_and_exotic_vegetation_density.csv</entityName>
+ <physical id="1415427535596"><objectName>leaf_depth_and_exotic_vegetation_density.csv</objectName>
+ <size unit="byte">1406</size>
+ <dataFormat><textFormat><numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited><fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution><online><url>ecogrid://knb/Carter.8.1</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList><attribute id="1415427695108"><attributeName>Exotic_vegetation_density(%)</attributeName>
+ <attributeDefinition>total percent area coverage of exotic vegetation within 1-meter diameter plots at random locations generated throughout the study area</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>Percent</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415427695109"><attributeName>Leaf_depth(cm)</attributeName>
+ <attributeDefinition>leaf depth within 1-meter diameter plots at random locations generated throughout the study area</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>237</numberOfRecords>
+ </dataTable>
+ <dataTable id="1415428127541"><entityName>thermal_gradient_data_for_estimating_thermal_set_points.csv</entityName>
+ <physical id="1415427895381"><objectName>thermal_gradient_data_for_estimating_thermal_set_points.csv</objectName>
+ <size unit="byte">853</size>
+ <dataFormat><textFormat><numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited><fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution><online><url>ecogrid://knb/Carter.9.1</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList><attribute id="1415428127542"><attributeName>subject</attributeName>
+ <attributeDefinition>individual subject</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>individual subject</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415428127543"><attributeName>Sex</attributeName>
+ <attributeDefinition>sex/reproductive group</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><textDomain><definition>reproductive group</definition>
+ </textDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415428127544"><attributeName>Quartile</attributeName>
+ <attributeDefinition>quartile of all temperatures selected each snake in a laboratory thermal gradient</attributeDefinition>
+ <measurementScale><nominal><nonNumericDomain><enumeratedDomain><codeDefinition><code>Q1</code>
+ <definition>25% quartile, represents lower bound of the preferred body temperature range</definition>
+ </codeDefinition>
+ <codeDefinition><code>Q3</code>
+ <definition>75% quartile, represents upper bound of the preferred body temperature range</definition>
+ </codeDefinition>
+ </enumeratedDomain>
+ </nonNumericDomain>
+ </nominal>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415428127545"><attributeName>Temp(degC)</attributeName>
+ <attributeDefinition>temperature in degree C</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>30</numberOfRecords>
+ </dataTable>
+ <dataTable id="1415431988649"><entityName>hibernacula_operative_environmental_temp_2011May.csv</entityName>
+ <physical id="1415428183840"><objectName>hibernacula_operative_environmental_temp_2011May.csv</objectName>
+ <size unit="byte">59016</size>
+ <dataFormat><textFormat><numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited><fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution><online><url>ecogrid://knb/Carter.10.1</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList><attribute id="1415431988650"><attributeName>Time</attributeName>
+ <attributeDefinition>time</attributeDefinition>
+ <measurementScale><dateTime><formatString>YYYY-MM-DDThh:mmTZD</formatString>
+ </dateTime>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988651"><attributeName>Wind.sp(mph)</attributeName>
+ <attributeDefinition>wind speed measured at a local data logging weather station</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>milesPerHour</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988652"><attributeName>Precipitation(inch)</attributeName>
+ <attributeDefinition>precipitation measured at a local data logging weather station</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>inch</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988653"><attributeName>Solar_radiation(MJsqm)</attributeName>
+ <attributeDefinition>solar radiation measured at a local data logging weather station</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>megajoulePerMeterSquare</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988654"><attributeName>Air_temp(degC)</attributeName>
+ <attributeDefinition>air temperature measured at a local data-logging weather station</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988655"><attributeName>Ground_temp(degC)</attributeName>
+ <attributeDefinition>bare soil temperature at depth of 10cm  measured at a local data logging weather station</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988656"><attributeName>Exotic_shrub_1(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by privet and bush honeysuckle</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988657"><attributeName>Exotic_shrub_2(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical copper models of snakes at a single copperhead hibernaculum dominated by privet and bush honeysuckle</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988658"><attributeName>Exotic_shrub_3(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by privet and bush honeysuckle</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988659"><attributeName>Exotic_shrub_4(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by privet and bush honeysuckle</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988660"><attributeName>Exotic_shrub_5(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by privet and bush honeysuckle</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988661"><attributeName>Native_shrub_1(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by native vegetation</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988662"><attributeName>Native_shrub_2(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by native vegetation</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988663"><attributeName>Native_shrub_3(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by native vegetation</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988664"><attributeName>Native_shrub_4(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by native vegetation</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415431988665"><attributeName>Native_shrub_5(degC)</attributeName>
+ <attributeDefinition>surface temperature measured using physical models of copperheads at a single snake hibernaculum dominated by native vegetation</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>735</numberOfRecords>
+ </dataTable>
+ <dataTable id="1415433994863"><entityName>operative_environmental_temperature_2010-2011.csv</entityName>
+ <physical id="1415432031475"><objectName>operative_environmental_temperature_2010-2011.csv</objectName>
+ <size unit="byte">983860</size>
+ <dataFormat><textFormat><numHeaderLines>1</numHeaderLines>
+ <recordDelimiter>#x0A</recordDelimiter>
+ <attributeOrientation>column</attributeOrientation>
+ <simpleDelimited><fieldDelimiter>,</fieldDelimiter>
+ </simpleDelimited>
+ </textFormat>
+ </dataFormat>
+ <distribution><online><url>ecogrid://knb/Carter.11.1</url>
+ </online>
+ </distribution>
+ </physical>
+ <attributeList><attribute id="1415433994864"><attributeName>Date.Time</attributeName>
+ <attributeDefinition>time</attributeDefinition>
+ <measurementScale><dateTime><formatString>YYYY-MM-DDThh:mmTZD</formatString>
+ </dateTime>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994865"><attributeName>Wind.sp(mph)</attributeName>
+ <attributeDefinition>wind speed measured at a local data-logging weather station</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>milesPerHour</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994866"><attributeName>Precipitation(inch)</attributeName>
+ <attributeDefinition>precipiation measured at a local data-logging weather station</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>centimeter</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994867"><attributeName>Solar_radiation(MJsqm)</attributeName>
+ <attributeDefinition>solar radiation measured at a local data-logging weather station</attributeDefinition>
+ <measurementScale><ratio><unit><customUnit>megajoulePerMeterSquare</customUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994868"><attributeName>Air_temp(degC)</attributeName>
+ <attributeDefinition>air temperature measured at a local data-logging weather station</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994869"><attributeName>Soil_temp_at_4inch(degC)</attributeName>
+ <attributeDefinition>bare soil temperature at 10 cm depth measured at a local data-logging weather station</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994870"><attributeName>stratified_mixed_exotics(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within stratified mixed exotic habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994871"><attributeName>armenian_blackberry(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within armenian blackberry dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>natural</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994872"><attributeName>autumn_olive(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within autumn olive dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>natural</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994873"><attributeName>bush_honeysuckle(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within bush honeysuckle dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994874"><attributeName>jetbead(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within jetbead dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994875"><attributeName>privet(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within privet dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994876"><attributeName>wine_raspberry(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within wine raspberry dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994877"><attributeName>bittersweet(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within Asiatic bittersweet dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994878"><attributeName>crownvetch(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within crownvetch dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994879"><attributeName>stiltgrass(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within stiltgrass dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994880"><attributeName>johnson_grass(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within johnson grass dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994881"><attributeName>forest(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within closed-canopy forest</attributeDefinition>
+ <measurementScale><ratio><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </ratio>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994882"><attributeName>native_vine(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within native vine dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994883"><attributeName>native_herbaceous(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within native herbaceous dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994884"><attributeName>native_shrub(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within native shrub dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994885"><attributeName>japanese_honeysuckle(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within japanese honeysuckle dominated habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994886"><attributeName>refuge_on_glade(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within refuge sites open glade</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ <attribute id="1415433994887"><attributeName>glade(degC)</attributeName>
+ <attributeDefinition>operative environmental temperature for copperheads within glade habitats</attributeDefinition>
+ <measurementScale><interval><unit><standardUnit>celsius</standardUnit>
+ </unit>
+ <numericDomain><numberType>real</numberType>
+ </numericDomain>
+ </interval>
+ </measurementScale>
+ </attribute>
+ </attributeList>
+ <numberOfRecords>7592</numberOfRecords>
+ </dataTable>
+ </dataset>
+ <additionalMetadata><metadata><unitList><unit id="Percent" multiplierToSI=" " name="Percent" parentSI="mole" unitType="amount"><description>Percent</description>
+ </unit>
+ </unitList>
+ </metadata>
+ </additionalMetadata>
+ <additionalMetadata><metadata><unitList><unit id="Count" multiplierToSI=" " name="Count" parentSI="mole" unitType="amount"><description>Count</description>
+ </unit>
+ </unitList>
+ </metadata>
+ </additionalMetadata>
+ <additionalMetadata><metadata><unitList><unit id="megajoulePerMeterSquare" multiplierToSI=" " name="megajoulePerMeterSquare" parentSI="mole" unitType="amount"><description>insolation: amount of solar radiation</description>
+ </unit>
+ </unitList>
+ </metadata>
+ </additionalMetadata>
+ </eml:eml>

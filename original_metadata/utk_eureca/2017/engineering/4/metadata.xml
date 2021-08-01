@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Predicting Patients’ Outcomes in Abdominal Wall Reconstruction Procedure</title>
+<publication-date>2017-12-12T10:39:49-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ddorris@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Dorris</lname>
+<fname>Danika</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Despite the improvement in patient outcomes following ventral hernia repair due to the adoption of abdominal wall reconstruction procedure, the operation can still result in major complications, and possibly death. We investigated historical data to determine the factors contributing to complications in past patients to guide future decisions regarding hernia repair patient care. More specifically, we retrospectively analyzed patient demographics and intraoperative factors (a total of 60 features) collected from 102 patients who underwent open abdominal wall reconstruction over 49 months from 8/11 to 9/15 at Halifax Health in Daytona Beach, FL. Out of 102 patients, 29 experienced wound complications following surgery. We used the random forest classifier to develop predictive models that can stratify patients based on their outcomes. We used parameter elimination and bootstrapping approaches to improve the accuracy of the models and objectively evaluated them using leave-one-out crossvalidation. Our proposed model uses nine features and results in the overall accuracy of 75%. Consistent with clinical intuition, body mass index (BMI) and previous preoperative wound infections consistently appeared among the most important contributing factors to wound complication following surgery.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2017/engineering/4</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1150&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1150</articleid>
+<submission-date>2017-04-19T19:49:42-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>10045226</context-key>
+<submission-path>utk_eureca/2017/engineering/4</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Anahita Khojandi</value>
+</field>
+<field name="year" type="date">
+<value>2017-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

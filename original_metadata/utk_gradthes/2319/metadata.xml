@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Whole Genome Phylogeny Using Truncated Pivoted QR Decomposition</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pulatova</lname>
+<fname>Shakhina</fname>
+<mname>Abdimajidovna</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The increasing availability of whole genome sequences in public databases has stimulated the development of new methods to automatically compare and categorize genes and species. Recently developed methods based on the singular value decomposition (SVD) allow for the simultaneous identification and definition of well concerved motifs and gene families using very large whole genome datasets. In contrast, this work discusses the use of a truncated pivoted QR factorization as a scalable alternative to the SVD for comparing whole genomes in a phylogenetic context. This algorithm computes the &lt;em&gt;R&lt;/em&gt; factor of the decomposition without forming the &lt;em&gt;Q&lt;/em&gt; factor or altering the original matrix. Encodings for both proteins and peptides are obtained by applying the QR factorization to a large and sparse peptide-by-protein data matrix in two ways. Gene and species phylogenies comparable to those from the SVD approach are constructed using cosines as pairwise similarities of the resulting protein vectors. Performance evaluations conducted on a few genomic datasets indicate that such an approach presents an efficient alternative to the SVD-based method for whole genome phylogeny.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2319</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3730&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2319</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3730</articleid>
+<submission-date>2013-10-16T12:38:35-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4729275</context-key>
+<submission-path>utk_gradthes/2319</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert C. Ward, Kwai L. Wong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

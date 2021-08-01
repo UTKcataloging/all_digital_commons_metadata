@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>THE DEMOCRATIZATION OF GENOME ENGINEERING: TOOLS AND TECHNIQUES FOR MANIPULATING MICROORGANISMS WITH CRISPR-CAS</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bmendoz1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Mendoza</lname>
+<fname>Brian</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<keywords>
+<keyword>CRISPR-Cas</keyword>
+<keyword>gene editing</keyword>
+<keyword>synthetic biology</keyword>
+<keyword>antimicrobials</keyword>
+<keyword>bioinformatics</keyword>
+</keywords>
+<abstract>&lt;p&gt;The discovery of the Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) family of genome sequences in bacteria and archaea has led to expansive application of the system as a means of interrogating and modifying genetic material across all kingdoms of life. This dissertation has developed algorithms and accompanying software, collectively named CASPER (CRISPR Associated Software for Pathway Engineering and Research), to identify promising sequences for effectively utilizing CRISPR associated (Cas) proteins in any species or community/metagenome of interest. The on- and off-target activity scoring algorithms improve upon previous work, first by utilizing an evolutionary algorithm and then by employing protein simulation to identify the contribution of sequence stability and mismatches to overall activity. Two algorithms, multitargeting and population analyses, employ searches across multiple genomes for deploying both degenerate and specific guides with immediate application in microbiome manipulation and CRISPR-Cas enabled rapid sequence detection assays. Finally, the CASPERpam algorithm was written to rapidly identify potential protospacer adjacent motifs (PAM) that are required for initial binding by Cas proteins/complexes. CASPERpam successfully re-identified 12 experimental PAM sequences and further identified putative PAM sequences for another 1,037 species.The application of CRISPR-Cas as an antimicrobial is of immediate interest due to rising prevalence of antibiotic resistance and the associated costs of development. Using the aforementioned algorithms for sequence design, this dissertation identified key barriers and opportunities for development of novel CRISPR-Cas antimicrobials that are both highly specific and highly tunable. Specifically, the identification of kinetic limitations to the transient introduction and expression of CRISPR-Cas machinery is a key mechanism of cell persistence. Studies in both model yeast (Saccharomyces cerevisiae) and multiple species of bacteria (Escherichia coli, Bacillus subtilis, and Staphylococcus aureus) highlight the benefits of co-targeting defensive genes with high turnover rate Cas enzymes as a means of mitigating such kinetic barriers. These design principles are inherently generalizable to multiple pathogenic species, and benefit from the inherent specificity of CRISPR-Cas sequences to lay the foundation for a powerful new class of antimicrobials.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5918</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7684&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5918</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7684</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527859</context-key>
+<submission-path>utk_graddiss/5918</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Cong T. Trinh</value>
+</field>
+<field name="advisor2" type="string">
+<value>Eric Boder, Steve Abel, Alison Buchan, Sarah Lebeis</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document (Chapter 2, Chapter 4) were previously published in Bioinformatics (doi:10.1093/bioinformatics/btx564) and Biotechnology Journal (doi:10.1002/biot.201700595) respectively.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

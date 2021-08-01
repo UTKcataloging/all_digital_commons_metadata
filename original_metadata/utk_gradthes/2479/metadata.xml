@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Characterization of a CMOS Radiation Hardened-by-Design Circuit Technique</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>awomac2@utk.edu</email>
+<lname>Womac</lname>
+<fname>Austin James</fname>
+</author>
+</authors>
+<keywords>
+<keyword>RHBD</keyword>
+<keyword>TID</keyword>
+<keyword>digital</keyword>
+<keyword>radiation testing</keyword>
+<keyword>leakage current</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the analysis, implementation and testing of a circuit-level radiation hardened-by-design (RHBD) technique first presented in [1]. Radiation effects heavily influence the cost and design of electronics bound for radiation-rich environments such as in nuclear reactors or space. The circuit-level RHBD technique is presented as a cost-effective way to mitigate total-ionizing dose (TID) radiation in digital complementary metal-oxide-semiconductor (CMOS) transistor circuits. These claims are analyzed and experimentally tested.&lt;/p&gt;
+&lt;p&gt;Devices from a relatively old and a newer semiconductor fabrication process are tested to investigate the impact of device scaling on the RHBD technique’s effectiveness. A rad-tolerant frequency synthesizer that implements this technique is discussed. Challenges in the project included implementing efficient testing procedures at the radiation test facilities. Testing time was limited and &lt;em&gt;in-situ­ &lt;/em&gt;test methodologies utilizing LabView programs were used effectively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2479</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2832&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2479</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2832</articleid>
+<submission-date>2013-06-05T08:03:39-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2832/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4197818</context-key>
+<submission-path>utk_gradthes/2479</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

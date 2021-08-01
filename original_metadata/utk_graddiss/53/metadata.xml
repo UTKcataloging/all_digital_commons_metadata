@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards Universality in Automatic Freeway Incident Detection: A Calibration-Free Algorithm</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>de Castro-Neto</lname>
+<fname>Manoel</fname>
+<mname>Mendonca</mname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Freeway automatic incident detection (AID) algorithms have been extensively investigated over the last forty years. A myriad of algorithms, covering a broad range of types in terms of complexity, data requirements, and efficiency have been published in the literature. However, a 2007 nationwide survey concluded that the implementation of AID algorithms in traffic management centers is still very limited. There are a few reasons for this discrepancy between the state-of-the-art and the state-of the-practice. First, current AID algorithms yield unacceptably high rates of false alarm when implemented in real-world. Second, the complexities involved in algorithm calibration require levels of efforts and diligence that may overburden Traffic Management Center (TMC) personnel.&lt;/p&gt;
+&lt;p&gt;The main objective of this research was to develop a self-learning, transferable algorithm that requires no calibration. The dynamic thresholds of the proposed algorithm are based on historical data of traffic, thus accounting for variations of traffic throughout the day. Therefore, the novel approach is able to recognize recurrent congestion, thus greatly reducing the incidence of false alarms. In addition, the proposed method requires no human-intervention, which certainly encourages its implementation.&lt;/p&gt;
+&lt;p&gt;The presented model was evaluated in a newly developed incident database, which contained forty incidents. The model performed better than the California, Minnesota, and Standard Normal Deviation algorithms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/53</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1083&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>53</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1083</articleid>
+<submission-date>2009-12-22T10:54:51-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1096633</context-key>
+<submission-path>utk_graddiss/53</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Thomas Urbanik II, Frederick Wegmann, William Seaver</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

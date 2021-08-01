@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A 3rd Generation Frequency Disturbance Recorder: A Secure, Low Cost Synchophasor Measurement Device</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jculliss@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Culliss</lname>
+<fname>Jerel</fname>
+<mname>Alan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>FNET</keyword>
+<keyword>Frequency Disturbance Recorder</keyword>
+<keyword>Synchrophasor</keyword>
+<keyword>Embedded System</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+<discipline>Systems and Communications</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The Frequency Monitoring Network (FNET) is a wide-area phasor measurement system developed in 2003. It collects power system data using embedded devices known as Frequency Disturbance Recorders (FDRs) which are installed at distribution level voltages. These devices are single-phase synchrophasor measurement units which share a number of common attributes with their commercial counterparts.&lt;/p&gt;
+&lt;p&gt;Phasor measurements from FDRs across North America and other power grids around the world are transmitted over the Internet back to the FNET servers at the University of Tennessee. By analyzing the fluctuations in the grid’s frequency, FNET can identify disruptive events relating to the operation of the system as a whole. Fundamentally, the effectiveness of FNET correlates to the number of units and their placement within the power system. Therefore, an effective method of improving the FNET system is to increase the rate of FDR deployment. The Generation-2 FDRs are limited in this sense by their cost, configurability, and maintainability. This generation of Frequency Disturbance Recorders was developed in 2006 and there have only been incremental improvements to them over their lifetime.&lt;/p&gt;
+&lt;p&gt;With this in mind, this purpose of this research is to develop a new FDR design which addresses the limitations of the current device – cost, maintainability, and communication. These improvements will ultimately increase the capabilities of FNET as a whole. This will be accomplished by a design which utilizes a modern microcontroller and a full-featured operating system combined with a modular hardware scheme. The combination of these factors will reduce costs and increase device capability while also allowing for improved future expansion and maintainability of the system. Research and development for both the hardware and software of this FDR is presented, along with a finalized prototype working unit which interfaces with the existing FNET servers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3495</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4650&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3495</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4650</articleid>
+<submission-date>2015-02-20T09:18:12-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4650/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6696272</context-key>
+<submission-path>utk_graddiss/3495</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Wei Gao, Lee L. Riedinger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>INTEGRATING AND ANALYZING DRIVER, VEHICLE AND ROAD INFRASTRUCTURE VOLATILITIES USING CONNECTED AND INSTRUMENTED VEHICLES TECHNOLOGY</title>
+<publication-date>2018-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Kamrani</lname>
+<fname>Mohsen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Driving Volatility</keyword>
+<keyword>Connected Vehicles</keyword>
+<keyword>Naturalistic Driving Study</keyword>
+<keyword>Driving Assist and Warnings</keyword>
+<keyword>Basic Safety Messages</keyword>
+<keyword>Markov Decision Processes</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation proposes a framework on how to process and analyze the data available from the driver, the vehicle and the road infrastructure i.e. data streams in real-time. Particularly, it conceptualize measures of driver, vehicle and road infrastructure performance and process the volatilities in data streams from sensors. It also provides a framework for real-time identification of anomalies, linking them with alerts, warnings and control assists. We explore different measures of driving volatility used to explain crash frequencies at intersections through developing a unique database that integrates intersection crash and inventory data with real-world Basic Safety Messages logged by connected vehicles. We introduce location-based volatility (LBV) as a proactive safety measure, quantifying variability in instantaneous driving decisions at intersections. Such an analysis is fundamental towards proactive intersection safety management. In addition, Markov Decision Process (MDP) framework is used to learn observed behavior by analyzing instantaneous driving decisions of acceleration, deceleration, and maintaining constant speed. Moreover, the developed measures of volatilities are applied to speed profiles from the Strategic Highway Research Program 2 (SHRP2) Naturalistic Driving Study (NDS) to come up with the most accurate crash-prediction model with used for real-time driving assist warning generation. Finally, by incorporating the data from the driver, vehicle and infrastructure into the analysis, the impact of detailed pre-crash driving behavior and recently developed measures of driving volatility on crash and near-crash risks is investigated. The knowledge gained from studying individual driving behaviors can be used to generate alerts and warnings for the driver of the host vehicle and to be passed via connected vehicle technology with the purpose of improving safety. The methods applied in this dissertation can form a foundation for human driver behavior prediction and personally revealed choice extraction. They also can help proactively identify locations with high levels of driving volatility (i.e., hot spots where crashes are waiting to happen) as candidates for safety improvements. Proactive warnings and alerts can be generated about potential hazards and transmitted to drivers via connected vehicle technologies such as road-side equipment, increasing drivers’ situational and safety awareness.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5239</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6783&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5239</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6783</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342646</context-key>
+<submission-path>utk_graddiss/5239</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Asad Khattak</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hamparsum Bozdogan, Subhadeep Chakraborty, Christopher Cherry</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;http://orcid.org/0000-0003-2073-8582&lt;/p&gt;</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Some portions of this document were previously published in journals and some are under review.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

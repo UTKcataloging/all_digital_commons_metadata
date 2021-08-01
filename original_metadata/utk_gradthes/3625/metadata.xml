@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-Area Surveillance System using a UAV Helicopter Interceptor and Sensor Placement Planning Techniques</title>
+<publication-date>2008-07-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jackson</lname>
+<fname>Marcus</fname>
+<mname>James</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This project proposes and describes the implementation of a wide-area surveillance system comprised of a sensor/interceptor placement planning and an interceptor unmanned aerial vehicle (UAV) helicopter. Given the 2-D layout of an area, the planning system optimally places perimeter cameras based on maximum coverage and minimal cost. Part of this planning system includes the MATLAB implementation of Erdem and Sclaroff’s Radial Sweep algorithm for visibility polygon generation. Additionally, 2-D camera modeling is proposed for both fixed and PTZ cases. Finally, the interceptor is also placed to minimize shortest-path flight time to any point on the perimeter during a detection event.&lt;/p&gt;
+&lt;p&gt;Secondly, a basic flight control system for the UAV helicopter is designed and implemented. The flight control system’s primary goal is to hover the helicopter in place when a human operator holds an automatic-flight switch. This system represents the first step in a complete waypoint-navigation flight control system. The flight control system is based on an inertial measurement unit (IMU) and a proportional-integral-derivative (PID) controller. This system is implemented using a general-purpose personal computer (GPPC) running Windows XP and other commercial off-the-shelf (COTS) hardware. This setup differs from other helicopter control systems which typically use custom embedded solutions or micro-controllers.&lt;/p&gt;
+&lt;p&gt;Experiments demonstrate the sensor placement planning achieving &gt;90% coverage at optimized-cost for several typical areas given multiple camera types and parameters. Furthermore, the helicopter flight control system experiments achieve hovering success over short flight periods. However, the final conclusion is that the COTS IMU is insufficient for high-speed, high-frequency applications such as a helicopter control system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3625</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4984&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3625</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4984</articleid>
+<submission-date>2016-02-09T13:32:45-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8119885</context-key>
+<submission-path>utk_gradthes/3625</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andreas Koschan, Seddik Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2008-07-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-07-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

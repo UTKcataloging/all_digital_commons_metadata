@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Robust Hierarchical Dispatch Scheme for Active Distribution Networks Considering Home Thermal Flexibility</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>crooks2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Rooks</lname>
+<fname>Cody</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Active distribution network</keyword>
+<keyword>distribution optimal power flow</keyword>
+<keyword>model predictive control</keyword>
+<keyword>demand response</keyword>
+</keywords>
+<abstract>&lt;p&gt;Distribution networks are changing from passive absorbers of electric energy to active distribution networks (ADN) capable of operating and participating in electricity markets. In the context of residential microgrids, which is a type of ADN, aggregated home heating, ventilation and air-conditioning (HVAC) loads present a key opportunity to drive operational and economic objectives, facilitate high renewable energy penetration, and enhance both system resiliency and flexibility. A robust, hierarchical dispatch scheme is developed and presented in this paper, which connects an upper level multi-phase distribution optimal power flow (DOPF) to a lower level model predictive control-based (MPC) HVAC fleet controller. The approach is tested and verified on a modified IEEE 13 bus system in an intraday market application. The results demonstrate that the proposed hierarchical dispatch scheme is able to drive both economic and operational objectives for the ADN operator.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5577</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7111&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5577</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7111</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409624</context-key>
+<submission-path>utk_gradthes/5577</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li PhD</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert PhD, Mohammed Olama PhD</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in the conference paper:
+C. Rooks, X. Kou &amp; F. Li, “Interval Optimization for Robust Economic Dispatch in Active Distribution Networks Considering Uncertainty,” in Proc. of 2nd International Conference on Smart Energy Systems and Technologies, 2019.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

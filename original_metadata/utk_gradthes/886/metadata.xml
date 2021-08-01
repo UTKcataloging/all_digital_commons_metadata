@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Control and Coordination in a Networked Robotic Platform</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kkalavac@utk.edu</email>
+<lname>Kalavacharla</lname>
+<fname>Krishna Chaitanya</fname>
+</author>
+</authors>
+<keywords>
+<keyword>robotics</keyword>
+<keyword>control</keyword>
+</keywords>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Control and Coordination of the robots has been widely researched area among the swarm robotics. Usually these swarms are involved in accomplishing tasks assigned to them either one after another or concurrently. Most of the times, the tasks assigned may not need the entire population of the swarm but a subset of them. In this project, emphasis has been given to determination of such subsets of robots termed as ”flock” whose size actually depends on the complexity of the task. Once the flock is determined from the swarm, leader and follower robots are determined which accomplish the task in a controlled and cooperative fashion. Although the entire control system,which is determined for collision free and coordinated environment, is stable, the results show that both wireless (bluetooth) and internet (UDP) communication system can introduce some lag which can lead robot trajectories to an unexpected set. The reason for this is each robot and a corresponding computer is considered as a complete robot and communication between the robot and the computer and between the computers was inevitable. These problems could easily be solved by integrating a computer on the robot or just add a wifi transmitter/receiver on the robot. On going down the lane, by introducing smarter robots with different kinds of sensors this project could be extended on a large scale for varied heterogenous and homogenous applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/886</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2024&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>886</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2024</articleid>
+<submission-date>2011-04-20T12:51:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1948835</context-key>
+<submission-path>utk_gradthes/886</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr.Seddik M Djoaudi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr.Dongjun Lee, Dr. Harry Lee Martin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

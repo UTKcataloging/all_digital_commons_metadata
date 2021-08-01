@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Noncontact Vital Signs Detection</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lren1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ren</lname>
+<fname>Lingyun</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Human health condition can be accessed by measurement of vital signs, i.e., respiratory rate (RR), heart rate (HR), blood oxygen level, temperature and blood pressure. Due to drawbacks of contact sensors in measurement, non-contact sensors such as imaging photoplethysmogram (IPPG) and Doppler radar system have been proposed for cardiorespiratory rates detection by researchers.The UWB pulse Doppler radars provide high resolution range-time-frequency information. It is bestowed with advantages of low transmitted power, through-wall capabilities, and high resolution in localization. However, the poor signal to noise ratio (SNR) makes it challenging for UWB radar systems to accurately detect the heartbeat of a subject. To solve the problem, phased-methods have been proposed to extract the phase variations in the reflected pulses modulated by human tiny thorax motions. Advance signal processing method, i.e., state space method, can not only be used to enhance SNR of human vital signs detection, but also enable the micro-Doppler trajectories extraction of walking subject from UWB radar data.Stepped Frequency Continuous Wave (SFCW) radar is an alternative technique useful to remotely monitor human subject activities. Compared with UWB pulse radar, it relieves the stress on requirement of high sampling rate analog-to-digital converter (ADC) and possesses higher signal-to-noise-ratio (SNR) in vital signs detection. However, conventional SFCW radar suffers from long data acquisition time to step over many frequencies. To solve this problem, multi-channel SFCW radar has been proposed to step through different frequency bandwidths simultaneously. Compressed sensing (CS) can further reduce the data acquisition time by randomly stepping through 20% of the original frequency steps.In this work, SFCW system is implemented with low cost, off-the-shelf surface mount components to make the radar sensors portable. Experimental results collected from both pulse and SFCW radar systems have been validated with commercial contact sensors and satisfactory results are shown.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4833</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6373&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4833</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6373</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276528</context-key>
+<submission-path>utk_graddiss/4833</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy, Jinyuan Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tai-Gang Nieh, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

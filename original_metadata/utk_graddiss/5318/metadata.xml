@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling, Simulation, and Analysis of Cascading Outages in Power Systems</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wju1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ju</lname>
+<fname>Wenyun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>blackout</keyword>
+<keyword>cascading outages</keyword>
+<keyword>multi-layer interaction graph</keyword>
+<keyword>interaction graph</keyword>
+<keyword>key link</keyword>
+<keyword>key component</keyword>
+</keywords>
+<abstract>&lt;p&gt;Interconnected power systems are prone to cascading outages leading to large-area blackouts. Modeling, simulation, analysis, and mitigation of cascading outages are still challenges for power system operators and planners.Firstly, the interaction model and interaction graph proposed by [27] are demonstrated on a realistic Northeastern Power Coordinating Council (NPCC) power system, identifying key links and components that contribute most to the propagation of cascading outages. Then a multi-layer interaction graph for analysis and mitigation of cascading outages is proposed. It provides a practical, comprehensive framework for prediction of outage propagation and decision making on mitigation strategies. It has multiple layers to respectively identify key links and components, which contribute the most to outage propagation. Based on the multi-layer interaction graph, effective mitigation strategies can be further developed. A three-layer interaction graph is constructed and demonstrated on the NPCC power system.Secondly, this thesis proposes a novel steady-state approach for simulating cascading outages. The approach employs a power flow-based model that considers static power-frequency characteristics of both generators and loads. Thus, the system frequency deviation can be calculated under cascading outages and control actions such as under-frequency load shedding can be simulated. Further, a new AC optimal power flow model considering frequency deviation (AC-OPFf) is proposed to simulate remedial control against system collapse. Case studies on the two-area, IEEE 39-bus, and NPCC power systems show that the proposed approach can more accurately capture the propagation of cascading outages when compared with a conventional approach using the conventional power flow and AC optimal power flow models.Thirdly, in order to reduce the potential risk caused by cascading outages, an online strategy of critical component-based active islanding is proposed. It is performed when any component belonging to a predefined set of critical components is involved in the propagation path. The set of critical components whose fail can cause large risk are identified based on the interaction graph. Test results on the NPCC power system show that the cascading outage risk can be reduced significantly by performing the proposed active islanding when compared with the risk of other scenarios without active islanding.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5318</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6862&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5318</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6862</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14343142</context-key>
+<submission-path>utk_graddiss/5318</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mingzhou Jin, Fanxing Li, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

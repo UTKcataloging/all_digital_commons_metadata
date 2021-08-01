@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Control Law Calculation and Verification Methods for the Variable Stability Navion In-Flight Simulation Aircraft</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jsiu@utk.edu</email>
+<lname>Siu</lname>
+<fname>Joe Ming Yin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>variable stability aircraft</keyword>
+<keyword>Navion</keyword>
+<keyword>in-flight simulation</keyword>
+<keyword>flying quality</keyword>
+<keyword>flight control law</keyword>
+<keyword>model following</keyword>
+</keywords>
+<disciplines><discipline>Aeronautical Vehicles</discipline>
+<discipline>Controls and Control Theory</discipline>
+<discipline>Navigation, Guidance, Control and Dynamics</discipline>
+</disciplines><abstract>&lt;p&gt;The University of Tennessee Space Institute’s (UTSI) variable stability research aircraft, Ryan Navion N66UT, was extensively modified by the Princeton University in the 1960’s. When UTSI acquired the aircraft from Princeton, volumes of calibration data, charts, and schematics manuals were transferred to UTSI.&lt;/p&gt;
+&lt;p&gt;Based on the study and research of available Princeton documents, methods of calculating flight control laws were “reverse-engineered”. The Variable Stability Navion employs an implicit model following structure to achieve in-flight simulation of other aircraft’s flying quality. Mathematical formulas were derived to calculate stability derivative potentiometer settings, for the analog response feedback flight controls system. MATLAB scripts were created to generate potentiometer settings, for both longitudinal and lateral-directional in-flight simulations, and Simulink models were used to verify the results.&lt;/p&gt;
+&lt;p&gt;This report outlines the calculation and verification process to allow the Variable Stability Navion to simulate different aircraft’s stability and dynamic responses. Sample calculations are focused on the in-flight simulation of the Twin Otter. This report also serves as a step-by-step guide for deriving desired flight control laws.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1679</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2588&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1679</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2588</articleid>
+<submission-date>2013-02-13T21:50:35-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2588/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>3699445</context-key>
+<submission-path>utk_gradthes/1679</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Borja Martos</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Solies, Ahmad Vakili</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>MATLAB_Simulink_files.zip</archive-name>
+<upload-name>MATLAB_Simulink_files.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2588&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>MATLAB scripts and Simulink models</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

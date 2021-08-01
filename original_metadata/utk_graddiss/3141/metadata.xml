@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computing Approximate Solutions to the Art Gallery Problem and Watchman Route Problem by Means of Photon Mapping</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bjohnson3141@gmail.com</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Bruce</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Art Gallery Problem</keyword>
+<keyword>Watchman Route Problem</keyword>
+<keyword>Photon Mapping</keyword>
+<keyword>Autonomy</keyword>
+<keyword>Simulation</keyword>
+<keyword>Virtual Environment</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Wireless sensor networks (WSNs) can be partitioned component sensor nodes (SNs) who are meant to operate and sense information arriving from multiple spectra in their environment. Determining where to place a single SN or multiple SNs such that the amount of information gained is maximized while the number of SNs used to gain that information is minimized is an instance of solving the art gallery problem (AGP). In order to solve the AGP, we present the Sensor Placement Optimization via Queries (SPOQ) algorithm that uses level sets populated by queries to a photon map in order to find observation points that sense as many photons as possible. Since we are using photon mapping as our means of modeling how information is conveyed, SPOQ can then take into account static or dynamic environmental conditions and can use exploratory or precomputed sensing.&lt;/p&gt;
+&lt;p&gt;Unmanned vehicles can be designated more generally as UxVs where “x” indicates the environment they are expected to operate – either in the air, on the ground, underwater or on the water’s surface. Determining how to plan an optimal route by a single UxV or multiple UxVs operating in their environment such that the amount of information gained is maximized while the cost of gaining that information is minimized is an instance of solving the watchman route problem (WRP). In order to solve the WRP, we present the Photon-mapping-Informed active-Contour Route Designator (PICRD) algorithm. PICRD heuristically solves the WRP by utilizing SPOQ’s AGP-solving vertices and connecting them with the high visibility vertices provided by a photon-mapping informed Chan-Vese segmentation mesh using a shortest-route path-finding algorithm. Since we are using photon-mapping as our foundation for determining sensor coverage by the PICRD algorithm, we can then take into account the behavior of photons as they propagate through the various environmental conditions that might be encountered by a single or multiple UxVs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3141</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4325&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3141</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4325</articleid>
+<submission-date>2014-09-18T14:43:08-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4325/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6137916</context-key>
+<submission-path>utk_graddiss/3141</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne Parker, Lou Gross, Seddik Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

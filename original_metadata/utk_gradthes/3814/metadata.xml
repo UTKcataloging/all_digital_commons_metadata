@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>DEVELOPMENT OF A DATABASE FOR RAPID APPROXIMATION OF SPACECRAFT RADIATION DOSE DURING JUPITER FLYBY</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sgilber4@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stewart</lname>
+<fname>Sarah</fname>
+<mname>Gilbert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Jupiter</keyword>
+<keyword>Flyby</keyword>
+<keyword>Radiation</keyword>
+<keyword>Gravity</keyword>
+<keyword>Assist</keyword>
+<keyword>Jovian</keyword>
+</keywords>
+<disciplines><discipline>Astrodynamics</discipline>
+<discipline>Space Vehicles</discipline>
+</disciplines><abstract>&lt;p&gt;Interplanetary and deep space missions greatly benefit from the utilization of gravitational assists to reach their final destinations. By closely “swinging by” a planet, a spacecraft can gain or lose velocity or change directions without requiring any expenditure of propulsion. In today’s budget-driven design environment, gravity assist flybys reduce the need for on-board fuel and propulsion systems, thereby reducing overall cost, increasing payload and mission capacity, increasing mission life, and decreasing travel time. It is expected that many future missions will also be designed to swing by Jupiter in order to utilize a gravity assist. However, there is a risk associated with choosing to flyby Jupiter: increased exposure to radiation. Exposure to radiation can severely impact spacecraft electronic systems. Since today’s spacecraft consist of sophisticated circuits that operate at low voltages and currents, the effects of radiation have become increasingly important. Harsh radiation environments can have damaging effects on spacecraft electronics that may ultimately lead to mission failure. Historically, analysts use trapped particle environment data recorded from previous missions in conjunction with the planned trajectory of their individual mission to predict radiation exposure at Jupiter. Until now, no database existed that lists potential radiation exposure for a variety of possible Jupiter flyby trajectories. This thesis and associated tools allow radiation dose to be more easily determined during preliminary mission planning. Over 16,000 potential Jupiter flyby trajectories were generated via the Program to Optimize Simulated Trajectories (POST). These trajectories were then input into the European Space Agency’s (ESA) Space Environment Information System (SPENVIS) to predict the total radiation dose behind 3 mm of Aluminum shielding. SPENVIS is web-based software that has stored trapped particle models for Jupiter. Once run through SPENVIS, total flyby radiation dosage was stored for each trajectory, and an algorithm was developed that allows for interpolation and approximation of dose for cases not in the original database. This algorithm should be useful to future space mission designers who are looking to utilize a gravity assist at Jupiter and will allow a quick comparison of multiple mission scenarios with respect to flyby radiation dose.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3814</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4890&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3814</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4890</articleid>
+<submission-date>2015-09-28T20:24:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7652469</context-key>
+<submission-path>utk_gradthes/3814</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James E. Lyne</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence W. Townsend, Zhili Zhang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

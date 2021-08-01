@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>LiDAR-based Sinkhole Detection and Mapping in Knox County, Tennessee</title>
+<publication-date>2019-07-30T19:47:26-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>clintshannon13@gmail.com</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Shannon</lname>
+<fname>J</fname>
+<mname>Clint</mname>
+</author>
+<author>
+<email>whj112@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Moore</lname>
+<fname>David</fname>
+</author>
+<author>
+<email>yli32@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Li</lname>
+<fname>Yingkui</fname>
+</author>
+<author>
+<email>cathy.olsen@knoxcounty.org</email>
+<institution>Knox County Stormwater</institution>
+<lname>Olsen</lname>
+<fname>Cathy</fname>
+</author>
+</authors>
+<keywords>
+<keyword>sinkhole</keyword>
+<keyword>sinkholes</keyword>
+<keyword>depressions</keyword>
+<keyword>detection</keyword>
+<keyword>LiDAR</keyword>
+<keyword>remote</keyword>
+<keyword>sensing</keyword>
+<keyword>gis</keyword>
+<keyword>geography</keyword>
+</keywords>
+<disciplines><discipline>Geographic Information Sciences</discipline>
+<discipline>Geomorphology</discipline>
+<discipline>Hydrology</discipline>
+<discipline>Physical and Environmental Geography</discipline>
+<discipline>Remote Sensing</discipline>
+<discipline>Spatial Science</discipline>
+<discipline>Urban Studies and Planning</discipline>
+</disciplines><abstract>&lt;p&gt;Sinkholes are one of the major causes of damage to roads, buildings, and other infrastructure throughout the US. Sinkholes near or on roads are especially costly and occasionally deadly. Knox County and much of East Tennessee are located within karst areas (comprised of porous and soluble limestone and dolomite), deeming it at risk for sinkholes. Currently, Knox County uses contour maps to manually identify sinkholes. Supported by a geographic information system (GIS), we developed a streamlined model to identify the locations and extents of potential sinkholes using 1.3-ft resolution LiDAR (Light Detection and Ranging) data and applied it to the Dutchtown area of Knox County. This model consists of creating a Digital Elevation Model (DEM), filling the depressions in the DEM, extracting the depressions with a DEM difference, converting the depressions to a polygon shapefile, and analyzing the shape characteristics of the depressions. This work provides a pilot study for Knox County Stormwater Management in identifying potential sinkholes and has the potential to be used in other similar regions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/pursuit/vol9/iss1/3</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1379&amp;amp;context=pursuit&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1379</articleid>
+<submission-date>2018-02-03T08:39:40-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/pursuit/article/1379/type/native/viewcontent</native-url>
+<publication-title>Pursuit - The Journal of Undergraduate Research at The University of Tennessee</publication-title>
+<context-key>11477195</context-key>
+<submission-path>pursuit/vol9/iss1/3</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>We would like to thank Will Fontanez of KGIS for providing the LiDAR data and Dr. Robert Washington-Allen for help with data processing and analysis.</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-02-03T00:00:00-08:00</value>
+</field>
+<field name="letters_to_reviewers" type="special">
+<value>ARRAY(0x13003f78)</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="short_title" type="string">
+<value>Sinkhole Detection in Knox County</value>
+</field>
+</fields>
+</document>
+</documents>

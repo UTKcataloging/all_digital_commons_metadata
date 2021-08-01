@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parallel Processing Architecture for Solving Large Scale Linear Systems</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nagari</lname>
+<fname>Arun</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Solving linear systems with multiple variables is at the core of many scienti…c problems. Parallel processing techniques for solving such system problems has have received much attention in recent years. A key theme in the literature pertains to the application of Lower triangular matrix and Upper triangular matrix(LU) decomposing, which factorizes an &lt;em&gt;N&lt;/em&gt;  &lt;em&gt;N&lt;/em&gt; square matrix into two triangular matrices. The resulting linear system can be more easily solved in &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;N&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;) work. Inher- ently, the computational complexity of LU decomposition is &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;N&lt;/em&gt;&lt;sup&gt;3&lt;/sup&gt;). Moreover, it is a challenging process to parallelize. A highly-parallel methodology for solving large-scale, dense, linear systems is proposed in this thesis by means of the novel application of Cramer’s Rule. A numerically stable scheme is described, yielding an overall computational complexity of &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;N&lt;/em&gt;) with &lt;em&gt;N&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt; processing units.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/53</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1081&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>53</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1081</articleid>
+<submission-date>2010-01-20T06:24:39-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1115426</context-key>
+<submission-path>utk_gradthes/53</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

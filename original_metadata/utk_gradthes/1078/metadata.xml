@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Distributed Data Aggregation for Sparse Recovery in Wireless Sensor Networks</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sli22@vols.utk.edu</email>
+<lname>Li</lname>
+<fname>ShuangJiang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Distributed Compressed Sensing</keyword>
+<keyword>Sparse Binary Matrices</keyword>
+<keyword>Data Recovery</keyword>
+<keyword>Expander Graph</keyword>
+</keywords>
+<disciplines><discipline>Computer Engineering</discipline>
+<discipline>Digital Communications and Networking</discipline>
+</disciplines><abstract>&lt;p&gt;We consider the approximate sparse recovery problem in Wireless Sensor Networks (WSNs) using Compressed Sensing/Compressive Sampling (CS). The goal is to recover the $n \mbox{-}$dimensional data values by querying only $m \ll n$ sensors based on some linear projection of sensor readings. To solve this problem, a two-tiered sampling model is considered and a novel distributed compressive sparse sampling (DCSS) algorithm is proposed based on sparse binary CS measurement matrix. In the two-tiered sampling model, each sensor first samples the environment independently. Then the fusion center (FC), acting as a pseudo-sensor, samples the sensor network to select a subset of sensors ($m$ out of $n$) that directly respond to the FC for data recovery purpose. The sparse binary matrix is designed using unbalanced expander graph which achieves the state-of-the-art performance for CS schemes. This binary matrix can be interpreted as a sensor selection matrix-whose fairness is analyzed. Extensive experiments on both synthetic and real data set show that by querying only the minimum amount of $m$ sensors using the DCSS algorithm, the CS recovery accuracy can be as good as dense measurement matrices (e.g., Gaussian, Fourier Scrambles). We also show that the sparse binary measurement matrix works well on compressible data which has the closest recovery result to the known best $k\mbox{-}$term approximation. The recovery is robust against noisy measurements. The sparsity and binary properties of the measurement matrix contribute, to a great extent, the reduction of the in-network communication cost as well as the computational burden.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1078</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2225&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1078</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2225</articleid>
+<submission-date>2011-11-17T17:02:24-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2356181</context-key>
+<submission-path>utk_gradthes/1078</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Qing Cao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

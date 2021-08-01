@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>GRANT: Ground-Roaming Autonomous Neuromorphic Targeter</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jambros2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ambrose</lname>
+<fname>Jonathan</fname>
+<mname>Daniel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Embedded neural systems</keyword>
+<keyword>Neurocontrol</keyword>
+<keyword>Robotics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Within the last 50 years, researchers have shifted from conventional programming paradigms to machine learning based approaches. Further development has been done to apply this artificial intelligence to the task of robotic control; however, Deep Neural Networks (DNNs) and Artificial Neural Networks (ANNs) created by these machine learning approaches often require too much computational intensity to be directly run on an embedded platform. In more recent times, focus has shifted toward the application of Recurrent Spiking Neural Networks (RSNNs) to these embedded systems, because these networks have a temporal element relevant to control problems, and small RSNNs have been shown to accomplish complex tasks. This work addresses the design, implementation, training, and testing of a neuromorphic robot using RSNNs. Specifically, the Ground Roaming Autonomous Neuromorphic Targeter (GRANT) uses the second generation Dynamic Adaptive Neural Network Array (DANNA2) neuromorphic processor to accomplish a variety of objectives, such as obstacle avoidance, grid coverage, object targeting, and object pursuit. Furthermore, the use of the TENNLab neuromorphic framework allows for the training of small RSNNs capable of running on a resource-constrained platform. This work also discusses how DANNA2 arrays may bedynamically reconfigured in real-time, such that multi-objective tasks may be accomplished by a set of these small networks. Finally, results are presented discussing a variety of distinct network performances against traditional algorithms, as well as testing the capabilities of such networks to be ran in simulation or on a remote host as the DNNs and ANNs of many other neuromorphic platforms would do. It was found that not only can these networks perform nearly as well as traditional algorithms, even when given less information, but these networks can also be run directly on the hardware of an embedded platform without the need for an external host.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5627</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7161&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5627</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7161</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539140</context-key>
+<submission-path>utk_gradthes/5627</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark E. Dean</value>
+</field>
+<field name="advisor2" type="string">
+<value>Garrett S. Rose, James S. Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

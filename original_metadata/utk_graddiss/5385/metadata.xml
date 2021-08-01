@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Rejection Enhanced Off-Lattice Kinetic Monte Carlo</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hruzayqa@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ruzayqat</lname>
+<fname>Hamza</fname>
+<mname>Mahmoud</mname>
+</author>
+</authors>
+<keywords>
+<keyword>kmc</keyword>
+<keyword>off-lattice kmc</keyword>
+<keyword>rejection</keyword>
+<keyword>atomic simulation</keyword>
+<keyword>lattice</keyword>
+<keyword>kinetic monte carlo</keyword>
+</keywords>
+<abstract>&lt;p&gt;We introduce a new kinetic Monte Carlo (KMC) algorithm for off-lattice simulation. In off-lattice KMC one needs to calculate the rates for all possible moves from the current state by searching the energy landscape for index-1 saddle points surrounding the current basin of attraction. We introduce a rejection scheme where the true rates are replaced by rate estimates. This is done by first associating each saddle point with a key atom defined to be the atom that moves the most or that corresponds to the largest energy change if the transition were to take a place, then constructing an estimate for the total rate associated with each atom by using a nearest-neighbor bond count. These estimates allow one to select a set of possible transitions, one of which is accepted or rejected based on a localized saddle point search focused on a particular atom. In principle, this allows a performance boost that scales with the number of particles in the system. We test the method on a growing two-species nanocluster with an emerging core-shell structure bound by Lennard-Jones potential. In addition to that, we give a detailed review for the dimer method used in this study to locate index-1 saddle points on the potential energy surface.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5385</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6921&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5385</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6921</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545398</context-key>
+<submission-path>utk_graddiss/5385</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tim Schulze</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ohannes Karakashian, Steven Wise, Haixuan Xu</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>https://orcid.org/0000-0002-6394-0695</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Prognostics-Based Two-Operator Competition for Maintenance and Service Part Logistics</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>faranak.fathi@utk.edu</email>
+<lname>Fathi Aghdam</lname>
+<fname>Faranak</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Maintenance and reliability policy optimization</keyword>
+<keyword>Game theory</keyword>
+<keyword>Stackelberg Game</keyword>
+<keyword>Genetic algorithms</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Prognostics and timely maintenance of components are critical to the continuing operation of a system. By implementing prognostics, it is possible for the operator to maintain the system in the right place at the right time. However, the complexity in the real world makes near-zero downtime difficult to achieve partly because of a possible shortage of required service parts. This is realistic and quite important in maintenance practice. To coordinate with a prognostics-based maintenance schedule, the operator must decide when to order service parts and how to compete with other operators who also need the same parts. This research addresses a joint decision-making approach that assists two operators in making proactive maintenance decisions and strategically competing for a service part that both operators rely on for their individual operations. To this end, a maintenance policy involving competition in service part procurement is developed based on the Stackelberg game-theoretic model. Variations of the policy are formulated for three different scenarios and solved via either backward induction or genetic algorithm methods. Unlike the first two scenarios, the possibility for either of the operators being the leader in such competitions is considered in the third scenario. A numerical study on wind turbine operation is provided to demonstrate the use of the joint decision-making approach in maintenance and service part logistics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1068</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2222&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1068</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2222</articleid>
+<submission-date>2011-11-15T18:37:05-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2351646</context-key>
+<submission-path>utk_gradthes/1068</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Haitao Liao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Joseph Wilck</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

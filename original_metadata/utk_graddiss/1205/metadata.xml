@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Packaging Design of IGBT Power Module Using Novel Switching Cells</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sli14@utk.edu</email>
+<lname>Li</lname>
+<fname>Shengnan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power Module</keyword>
+<keyword>Stray Inductance</keyword>
+<keyword>Module Packaging</keyword>
+<keyword>Commutation Loop</keyword>
+<keyword>Switching Cells</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Parasitic inductance in power modules generates voltage spikes and current ringing during switching which cause extra stress in power electronic devices, increase electromagnetic interference (EMI), and degrade the performance of the power converter system. As newer power devices have faster switching speeds and higher power ratings, the effect of the parasitic inductance of the power module is more pronounced. This dissertation proposes a novel packaging method for power electronics modules based on the concepts of novel switching cells: P-cell and N-cell. It can reduce the stray inductance in the current commutation path in a phase-leg module and hence improve the switching behavior.&lt;/p&gt;
+&lt;p&gt;Taking an insulated gate bipolar transistor (IGBT) as an example, two phase-leg modules, specifically a conventional module and a P-cell and N-cell based module were designed. Using Ansoft Q3D Extractor, electromagnetic simulation was carried out to extract the stray inductance from the two modules. An ABB 1200 V / 75 A IGBT model and a diode model were built for simulation study. Circuit parasitics were extracted and modeled. Switching behavior with different package parasitics was studied based on the Saber simulation.&lt;/p&gt;
+&lt;p&gt;Two prototype phase-leg modules were fabricated. The parasitics were measured using a precision impedance analyzer. The measurement results agree with the simulation very well. A double pulse tester was built in laboratory. Several approaches were used to reduce the circuit and measuring parasitics. From the switching characteristics of the two modules, it was verified that the larger stray inductance in the layout causes higher voltage overshoot during turn off, which in turn increases the turn off losses.&lt;/p&gt;
+&lt;p&gt;Multichip (two in parallel) IGBT modules applying novel switching cells was also designed. The parasitics were extracted and compared to a conventional design. The overall loop inductance was reduced in the proposed module. However, the mismatch of the paralleled branches was larger.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1205</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2399&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1205</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2399</articleid>
+<submission-date>2011-11-17T15:36:29-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2355955</context-key>
+<submission-path>utk_graddiss/1205</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Benjamin J. Blalock, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

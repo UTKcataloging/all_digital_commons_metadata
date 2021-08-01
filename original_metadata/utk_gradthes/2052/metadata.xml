@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Size, Speed, and Power Analysis for Application-Specific Integrated Circuits Using Synthesis</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ku</lname>
+<fname>Chung</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An application-specific integrated circuit (ASIC) must not only provide the required functionality at the desired speed but it must also be economical. In the past, minimizing the size of the ASIC was sufficient to accomplish this goal. Today it is increasingly necessary that the ASIC also achieve minimum power dissipation or an optimal combination of speed, size and power, especially in communication and portable electronic devices. The research reported in this thesis describes the implementation of a Huffman encoder and a finite impulse response (FIR) filter using a hardware description language (HDL) and the testing of the corresponding register transfer level (RTL) for functionality. The RTL was targeted for two different libraries, TSMC-0.18 CMOS and the Xilinx Virtex V1000EHQ240-6. The RTL was synthesized and optimized for different sizes, speeds, and power by using the Synopsys Design Compiler, FPGA Compiler II, and Mentor Graphics Spectrum. Cadence place and route tools optimized area, delay, and power of post-layout stages for TSMC-0.18. Xilinx place and route tools were used for the Virtex V1000EHQ240-6. The various ASICs were produced and compared over a range of speed, area, and power. iv&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2052</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3407&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2052</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3407</articleid>
+<submission-date>2013-10-01T09:51:55-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4652357</context-key>
+<submission-path>utk_gradthes/2052</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul Cilly, Chandra Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

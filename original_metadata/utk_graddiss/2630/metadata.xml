@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>All-SiC Three-Phase Converters for High Efficiency Applications</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fxu6@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xu</lname>
+<fname>Fan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SiC</keyword>
+<keyword>high efficiency</keyword>
+<keyword>three-phase converter</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The dissertation aims to improve the efficiency of three-phase converters using SiC power devices.The methodology to design a high efficiency all-SiC three-phase converter is presented. Four aspects are included: SiC power device evaluation, power loop parasitics analysis, high efficiency current source rectifier, and paralleled current source rectifier system.&lt;/p&gt;
+&lt;p&gt;The SiC JFET and MOSFET are tested based on voltage source and current source structures respectively. The dissertation proposes a device switching test circuit based on current source topology to simulate current commutation processes. The circuit can evaluate the switching performance and calculate switching loss of a power device used in a three-phase current source converter.&lt;/p&gt;
+&lt;p&gt;The impacts of power loop parasitics on SiC devices’ switching performance and switching loss are studied. The power loop parasitic inductance in a voltage source converter may cause phase-leg shoot-through during a fast switching transient. The key inductances include power device gate loop inductance and converter DC bus inductance. The influence of different parasitic capacitances on device switching loss in three-phase current source converters is analyzed. An inductive snubber circuit is proposed to reduce the impact of parasitic capacitance and reduce power device switching loss in a three-phase current source rectifier.&lt;/p&gt;
+&lt;p&gt;The design method and procedure of high efficiency three-phase converters are proposed through the development of a 7.5 kW all-SiC three-phase current source rectifier for data center power supplies as the front-end rectifier. The rectifier full load efficiency of 98.54% is obtained.&lt;/p&gt;
+&lt;p&gt;Master-slave control is proposed for paralleled three-phase current source rectifiers. The balanced output currents, rectifier module hot-swap, and paralleled rectifier system redundancy can be achieved with this master-slave control. A 19 kW front-end rectifier system using three paralleled all-SiC current source rectifiers is developed for data center power supplies with 98.3% peak efficiency and 98.1% full load efficiency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2630</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3576&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2630</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3576</articleid>
+<submission-date>2013-10-02T14:58:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4659469</context-key>
+<submission-path>utk_graddiss/2630</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Benjamin J. Blalock, Philip D. Rack</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

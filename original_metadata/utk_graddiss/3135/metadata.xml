@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Effective Multi-echelon Inventory Systems for Supplier Selection and Order Allocation</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>Guocong@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Guo</lname>
+<fname>Cong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Supply Chain Management</keyword>
+<keyword>Supplier Selection</keyword>
+<keyword>Multi-echelon Inventory System</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Operational Research</discipline>
+</disciplines><abstract>&lt;p&gt;Successful supply chain management requires an effective sourcing strategy to counteract uncertainties in both the suppliers and demands. Therefore, determining a better sourcing policy is critical in most of industries. Supplier selection is an essential task within the sourcing strategy. A well-selected set of suppliers makes a strategic difference to an organization&#39;s ability to reduce costs and improve the quality of its end products. To discover the cost structure of selecting a supplier, it is more interesting to further determine appropriate levels of inventory in each echelon for different suppliers. This dissertation focuses on the study of the integrated supplier selection, order allocation and inventory control problems in a multi-echelon supply chain.&lt;/p&gt;
+&lt;p&gt;First, we investigate a non-order-splitting inventory system in supply chain management. In particular, a buyer firm that consists of one warehouse and &lt;em&gt;N&lt;/em&gt; identical retailers procures a type of product from a group of potential suppliers, which may have different prices, ordering costs, lead times and have restriction on minimum and maximum total order size, to satisfy stochastic demand. A continuous review system that implements the order quantity, reorder point (&lt;em&gt;Q&lt;/em&gt;, &lt;em&gt;R&lt;/em&gt;) inventory policy is considered in the proposed model. The model is solved by decomposing the mixed integer nonlinear programming model into two sub-models. Numerical experiments are conducted to evaluate the model and some managerial insights are obtained with sensitivity analysis.&lt;/p&gt;
+&lt;p&gt;In the next place, we extend the study to consider the multi-echelon system with the order-splitting policy. In particular, the warehouse acquisition takes place when the inventory level depletes to a reorder point &lt;em&gt;R&lt;/em&gt;, and the order &lt;em&gt;Q&lt;/em&gt; is simultaneously split among &lt;em&gt;m&lt;/em&gt; selected suppliers. This consideration is important since it could pool lead time risks by splitting replenishment orders among multiple suppliers simultaneously. We develop an exact analysis for the order-splitting model in the multi-echelon system, and formulate the problem in a Mixed Integer Nonlinear Programming (MINLP) model. To demonstrate the solvability and the effectiveness of the model, we conduct several numerical analyses, and further conduct simulation models to verify the correctness of the proposed mathematical model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3135</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4395&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3135</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4395</articleid>
+<submission-date>2014-10-10T09:25:43-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6226563</context-key>
+<submission-path>utk_graddiss/3135</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mingzhou Jin, James Ostrowski, Wenjun Zhou</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

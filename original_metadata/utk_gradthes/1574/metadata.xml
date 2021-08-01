@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Ridge Regression Approach to Color Constancy</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Agarwal</lname>
+<fname>Vivek</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the work on color constancy and its application in the field of computer vision. Color constancy is a phenomena of representing (visualizing) the reflectance properties of the scene independent of the illumination spectrum. The motivation behind this work is two folds:&lt;br /&gt;The primary motivation is to seek ‘consistency and stability’ in color reproduction and algorithm performance respectively because color is used as one of the important features in many computer vision applications; therefore consistency of the color features is essential for high application success. Second motivation is to reduce ‘computational complexity’ without sacrificing the primary motivation.&lt;br /&gt;This work presents machine learning approach to color constancy. An empirical model is developed from the training data. Neural network and support vector machine are two prominent nonlinear learning theories. The work on support vector machine based color constancy shows its superior performance over neural networks based color constancy in terms of stability. But support vector machine is time consuming method. Alternative approach to support vector&lt;br /&gt;machine, is a simple, fast and analytically solvable linear modeling technique known as ‘Ridge regression’. It learns the dependency between the surface reflectance and illumination from a presented training sample of data. Ridge regression provides answer to the two fold motivation behind this work, i.e., stable and computationally simple approach. The proposed algorithms, ‘Support vector machine’ and ‘Ridge regression’ involves three step processes: First, an input matrix constructed from the preprocessed training data set is trained to&lt;br /&gt;obtain a trained model. Second, test images are presented to the trained model to obtain the chromaticity estimate of the illuminants present in the testing images. Finally, linear diagonal transformation is performed to obtain the color corrected image. The results show the effectiveness of the proposed algorithms on both calibrated and uncalibrated data set in comparison to the methods discussed in literature review. Finally, thesis concludes with a complete discussion and summary on comparison between the proposed approaches and other algorithms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1574</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3024&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1574</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3024</articleid>
+<submission-date>2013-08-08T12:46:43-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4408805</context-key>
+<submission-path>utk_gradthes/1574</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andrei V. Gribok, Andreas Koschan, Besma R. Abidi, Seong G. Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

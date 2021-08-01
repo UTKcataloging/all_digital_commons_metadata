@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reservoir Computing in an Evolutionary Neuromorphic Framework</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Reynolds</lname>
+<fname>John</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neural Networks</keyword>
+<keyword>Machine Learning</keyword>
+<keyword>Neuromorphic Computing</keyword>
+<keyword>Reservoir Computing</keyword>
+<keyword>Genetic Algorithms</keyword>
+<keyword>Computer Science</keyword>
+</keywords>
+<abstract>&lt;p&gt;Neuromorphic computing is an emerging hardware paradigm for doing non-traditional computing.  It has advantages over typical von Neumann systems in a myriad of different situations.  In particular, it offers attractive power savings over traditional hardware, by doing spiking neural network computations.  However, programming a neuromorphic spiking system is very challenging, and thus an active field of research.  This work explores using the TENNLab group&#39;s neuromorphic computing framework with reservoir computing, a method for utilizing either spiking or non-spiking neural networks as dynamical systems (called reservoirs) to filter and map information from one dimension to another to form useful intermediate data representations.  In this case, spiking recurrent neural networks are used to do the processing.  We delve into creating reservoirs with evolutionary genetic algorithms, and we explore parameters and applications across the available TENNLab architectures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5785</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7551&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5785</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7551</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419688</context-key>
+<submission-path>utk_graddiss/5785</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James S. Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Garrett S. Rose, Andy Sarles</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in both ACM and IEEE related conferences.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

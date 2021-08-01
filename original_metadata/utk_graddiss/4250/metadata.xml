@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Applying Landscape-scale Modeling to Everglades Restoration</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Duke-Sylvester</lname>
+<fname>Scott</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Ecology and Evolutionary Biology</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation I describe the implementation and application of three spatially-explicit, landscape-scale models designed to address specific aspects of Everglades restoration. The first is a model of vegetation succession for the Everglades. The second is a fire model for the Everglades. The third is a model of the spread and optimal spatial control of an invasive, non-native plant.&lt;/p&gt;
+&lt;p&gt;I developed the succession and fire models as part of the Across Trophic Level System Simulation (ATLSS). These models are used to assess the relative effects of alternative hydrology scenarios on the distribution of vegetation and fires. In addition to the effect of hydrology, I also included the effects of fires and nutrients in the succession model. It is the first model to include the effects of multiple interacting environmental processes on landscape-scale patterns of vegetation succession. I based the fire model on a percolation process including the effects of hydrology, fire history and dynamic vegetation patterns. These two models are linked to each other and incorporate both direct and indirect effects of hydrology and feedbacks between fires and succession. The fire model is the first such model to be linked to a dynamic vegetation model. I present model results for three hydrology scenarios. Results indicate that the differences in the management of hydrology under these scenarios are small. I describe a sensitivity analysis of major fire model parameters and compare the fire model outputs to historical fire data.&lt;/p&gt;
+&lt;p&gt;The third model addresses the optimal spatial control of the invasive fern, &lt;em&gt;Lygodium microphyllum&lt;/em&gt;, in the Arthur R. Marshall Loxahatchee National Wildlife Refuge. The model is the first to examine the spatial optimal control of an invasive species at the landscape-scale. I applied a genetic algorithm to search for optimal treatment plans. I compare results of the optimization to a standard treatment approach for a range of budgets. Results from this model indicate that the genetic algorithm implemented is not capable of carrying out a landscape-scale optimization. However, results from the standard treatment approach provide insights into the potential funding levels required to control and eliminate &lt;em&gt;L. microphyllum&lt;/em&gt; from Loxahatchee.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4250</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5953&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4250</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5953</articleid>
+<submission-date>2017-04-04T11:34:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9974020</context-key>
+<submission-path>utk_graddiss/4250</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Louis J. Gross</value>
+</field>
+<field name="advisor2" type="string">
+<value>Suzanne Lenhart, Daniel Simberloff, Jim Drake</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Ecology and Evolutionary Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

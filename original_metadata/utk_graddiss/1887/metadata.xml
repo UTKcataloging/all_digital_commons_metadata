@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Com- putational Subset Model Selection Algorithms and Applications</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bao</lname>
+<fname>Xinli</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation develops new computationally e±cient algorithms for identifying the subset of variables that minimizes any desired information criteria in model selection.&lt;/p&gt;
+&lt;p&gt;In recent years, the statistical literature has placed more and more empha- sis on information theoretic model selection criteria. A model selection crite- rion chooses model that \closely&quot; approximates the true underlying model. Recent years have also seen many exciting developments in the model se- lection techniques. As demand increases for data mining of massive data sets with many variables, the demand for model selection techniques are be- coming much stronger and needed. To this end, we introduce a new Implicit Enumeration (IE) algorithm and a hybridized IE with the Genetic Algorithm (GA) in this dissertation.&lt;/p&gt;
+&lt;p&gt;The proposed Implicit Enumeration algorithm is the ¯rst algorithm that explicitly uses an information criterion as the objective function. The algo- rithm works with a variety of information criteria including some for which the existing branch and bound algorithms developed by Furnival and Wil- son (1974) and Gatu and Kontoghiorghies (2003) are not applicable. It also ¯nds the \best&quot; subset model directly without the need of ¯nding the \best&quot; subset of each size as the branch and bound techniques do.&lt;/p&gt;
+&lt;p&gt;The proposed methods are demonstrated in multiple, multivariate, logis- tic regression and discriminant analysis problems. The implicit enumeration algorithm converged to the optimal solution on real and simulated data sets v with up to 80 predictors, thus having 280 = 1; 208; 925; 819; 614; 630; 000; 000; 000 possible subset models in the model portfolio. To our knowledge, none of the existing exact algorithms have the capability of optimally solving such problems of this size.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1887</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3315&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1887</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3315</articleid>
+<submission-date>2013-09-11T11:51:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4575686</context-key>
+<submission-path>utk_graddiss/1887</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth Gilbert, Hamila Bensmail, Chanaka Edirisinghe</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

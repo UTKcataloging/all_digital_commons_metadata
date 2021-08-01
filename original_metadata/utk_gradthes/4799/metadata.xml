@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data-Based Modeling Methods for Fault Detection and Isolation in Heat Exchangers</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Sawyer</lname>
+<fname>Aaron</fname>
+<mname>Patrick</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A multivariate analysis method is developed for processing measurements, and for detecting and isolating faults and monitoring performance degradation in heat exchanger control loops. A heat exchanger in a typical temperature-to-flow cascade loop s considered. A mechanistic thermal-fluid model for the components in the system is developed and compared to an installed laboratory heat exchanger control loop. A supplemental model for condenser hear transfer is included. The mechanistic model generate data to develop a data driven model using the Group Method of Data Handling (GMDH) approach. The GMDH model matches the mechanistic model well.&lt;/p&gt;
+&lt;p&gt;A Fault Detection and Isolation (FDI) rule-base is formulated from results of simulations performed using these models. The rule base allows the identification of faults in a heat exchanger control loop given suitable process measurements. The mechanistic model matches the physical system performance well and is used to create a Fault Detection and Isolation (FDI) algorithm for the system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4799</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6308&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4799</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6308</articleid>
+<submission-date>2017-08-23T09:56:10-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10647469</context-key>
+<submission-path>utk_gradthes/4799</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur E. Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle R. Upadhyaya, Lawrence W. Townsend</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

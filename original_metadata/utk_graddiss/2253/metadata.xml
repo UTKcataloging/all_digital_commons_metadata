@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High Accuracy Distributed Target Detection and Classification in Sensor Networks Based on Mobile Agent Framework</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Xiaoling</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;High-accuracy distributed information exploitation plays an important role in sensor networks. This dissertation describes a mobile-agent-based framework for target detection and classification in sensor networks. Specifically, we tackle the challenging problems of multiple- target detection, high-fidelity target classification, and unknown-target identification.&lt;/p&gt;
+&lt;p&gt;In this dissertation, we present a &lt;em&gt;progressive&lt;/em&gt; multiple-target detection approach to estimate the number of targets sequentially and implement it using a mobile-agent framework. To further improve the performance, we present a &lt;em&gt;cluster-based distributed&lt;/em&gt; approach where the estimated results from different clusters are fused. Experimental results show that the distributed scheme with the Bayesian fusion method have better performance in the sense that they have the highest detection probability and the most stable performance. In addition, the progressive intra-cluster estimation can reduce data transmission by 83.22% and conserve energy by 81.64% compared to the centralized scheme.&lt;/p&gt;
+&lt;p&gt;For collaborative target classification, we develop a general purpose &lt;em&gt;multi-modality, multi-sensor&lt;/em&gt; fusion hierarchy for information integration in sensor networks. The hierarchy is com- posed of four levels of enabling algorithms: local signal processing, temporal fusion, multi-modality fusion, and multi-sensor fusion using a mobile-agent-based framework. The fusion hierarchy ensures fault tolerance and thus generates robust results. In the meanwhile, it also takes into account energy efficiency. Experimental results based on two field demos show constant improvement of classification accuracy over different levels of the hierarchy.&lt;/p&gt;
+&lt;p&gt;Unknown target identification in sensor networks corresponds to the capability of detecting targets without any &lt;em&gt;a priori&lt;/em&gt; information, and of modifying the knowledge base dynamically. In this dissertation, we present a collaborative method to solve this problem among multiple sensors. When applied to the military vehicles data set collected in a field demo, about 80% unknown target samples can be recognized correctly, while the known target classification ac- curacy stays above 95%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2253</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3753&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2253</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3753</articleid>
+<submission-date>2013-10-11T09:30:39-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4697507</context-key>
+<submission-path>utk_graddiss/2253</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mongi A. Abidi, Michael J. Roberts. Daniel B. Koch, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Kernel-assisted and Topology-aware MPI Collective Communication among Multicore or Many-core Clusters</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tma@utk.edu</email>
+<lname>Ma</lname>
+<fname>Teng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MPI</keyword>
+<keyword>kernel</keyword>
+<keyword>hierarchical</keyword>
+<keyword>collective</keyword>
+<keyword>multi-core</keyword>
+<keyword>many-core</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Multicore or many-core clusters have become the most prominent form of High Performance Computing (HPC) systems. Hardware complexity and hierarchies not only exist in the inter-node layer, i.e., hierarchical networks, but also exist in internals of multicore compute nodes, e.g., Non Uniform Memory Accesses (NUMA), network-style interconnect, and memory and shared cache hierarchies.&lt;/p&gt;
+&lt;p&gt;Message Passing Interface (MPI), the most widely adopted in the HPC communities, suffers from decreased performance and portability due to increased hardware complexity of multiple levels. We identified three critical issues specific to collective communication: The first problem arises from the gap between logical collective topologies and underlying hardware topologies; Second, current MPI communications lack efficient shared memory message delivering approaches; Last, on distributed memory machines, like multicore clusters, a single approach cannot encompass the extreme variations not only in the bandwidth and latency capabilities, but also in features such as the aptitude to operate multiple concurrent copies simultaneously.&lt;/p&gt;
+&lt;p&gt;To bridge the gap between logical collective topologies and hardware topologies, we developed a distance-aware framework to integrate the knowledge of hardware distance into collective algorithms in order to dynamically reshape the communication patterns to suit the hardware capabilities. Based on process distance information, we used graph partitioning techniques to organize the MPI processes in a multi-level hierarchy, mapping on the hardware characteristics. Meanwhile, we took advantage of the kernel-assisted one-sided single-copy approach (KNEM) as the default shared memory delivering method. Via kernel-assisted memory copy, the collective algorithms offload copy tasks onto non-leader/not-root processes to evenly distribute copy workloads among available cores. Finally, on distributed memory machines, we developed a technique to compose multi-layered collective algorithms together to express a multi-level algorithm with tight interoperability between the levels. This tight collaboration results in more overlaps between inter- and intra-node communication.&lt;/p&gt;
+&lt;p&gt;Experimental results have confirmed that, by leveraging several technologies together, such as kernel-assisted memory copy, the distance-aware framework, and collective algorithm composition, not only do MPI collectives reach the potential maximum performance on a wide variation of platforms, but they also deliver a level of performance immune to modifications of the underlying process-core binding.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1541</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2753&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1541</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2753</articleid>
+<submission-date>2012-11-01T09:08:00-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3439419</context-key>
+<submission-path>utk_graddiss/1541</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>George Bosilca, Jian Huang, Louis J. Gross</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

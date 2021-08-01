@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Effects of Data Resolution and Human Behavior on Large Scale Evacuation Simulations</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wlu9@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lu</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>high resolution data</keyword>
+<keyword>evacuation assignment</keyword>
+<keyword>travelers&#39; behavior</keyword>
+<keyword>agent-based simulation</keyword>
+<keyword>shortest path</keyword>
+<keyword>vehicular communication</keyword>
+</keywords>
+<disciplines><discipline>Civil Engineering</discipline>
+<discipline>Computational Engineering</discipline>
+<discipline>Operational Research</discipline>
+</disciplines><abstract>&lt;p&gt;Traffic Analysis Zones (TAZ) based macroscopic simulation studies are mostly applied in evacuation planning and operation areas. The large size in TAZ and aggregated information of macroscopic simulation underestimate the real evacuation performance. To take advantage of the high resolution demographic data LandScan USA (the zone size is much smaller than TAZ) and agent-based microscopic traffic simulation models, many new problems appeared and novel solutions are needed. A series of studies are conducted using LandScan USA Population Cells (LPC) data for evacuation assignments with different network configurations, travel demand models, and travelers’ compliance behavior.&lt;/p&gt;
+&lt;p&gt;First, a new Multiple-Source-Nearest-Destination Shortest Path (MSNDSP) problem is defined for generating Origin-Destination (OD) matrix in evacuation assignments when using LandScan dataset. A new Super Node based Trip Generator (SNTG) algorithm is developed to significantly improve the computational performance in generating OD pairs. Second, a new agent-based traffic assignment framework using LandScan and TRANSIMS modules is proposed for evacuation planning and operation study. Impact analysis on traffic analysis area resolutions (TAZ vs. LPC), evacuation start times (daytime vs. nighttime), and departure time choice models (normal S-shape model vs. location based model) are studied. Third, based on the proposed framework, multi-scale network configurations (two levels of road networks and two scales of zone sizes) and three routing schemes (shortest network distance, highway biased, and shortest straight-line distance routes) are implemented for the evacuation performance comparison studies. Fourth, to study the impact of human behavior under evacuation operations, travelers’ compliance behavior with compliance levels from total complied to total non-complied are analyzed. Finally, an experimental study of using vehicular communication techniques in a car sharing system is conducted, which can be used to provide real-time road information for evacuees to choose their own best evacuation routes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2595</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3468&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2595</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3468</articleid>
+<submission-date>2013-09-25T08:06:28-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4626156</context-key>
+<submission-path>utk_graddiss/2595</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christopher R. Cherry, Joshua S. Fu, Cheng Liu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Web-based Computational Tools for Exploration, Analysis, and Visualization of Genomic Data</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Chen</lname>
+<fname>Ming</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The advent of high throughput technologies not only brought huge amounts of biological data but also many versatile bioinformatics tools, as well as highly sophisticated and complex analysis workflows (Ortuño and Rojas, 2016). However, the majority of biological scientists are not bioinformaticians. There is a gap between the average biologist and what is needed in terms of bioinformatics and statistics knowledge, and programming skills for tackling biological questions with those already huge but still growing amount of biological data. The aim of this study is to develop a set of web-based computational tools to enable biological researchers to access and acquire data from Tripal databases more efficiently, as well as gain insights from data with easy-to-use and powerful bioinformatics tools. The research goal was achieved by improving and extending the biological database construction toolkit, Tripal, and the web-based computational platform, Galaxy. First, I developed two Tripal extension modules: one for storing and visualizing high throughput differential expression experiments data, including gene expression data, NCBI Biosample metadata, and analysis methodology data; and the other for site-wide and customizable search. Second, I created an R Markdown based framework for Galaxy tool development. The new framework provides a generalized tool wrapper and enables the generation of output in more intuitive and standardized HTML reports. Finally, I developed the &lt;i&gt;Galaxy Tool Generator&lt;/i&gt; to improve the efficiency of developing Galaxy tools. In the last chapter, I presented a straightforward but comprehensive use case to demonstrate how these computational tools can facilitate scientific research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5243</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6787&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5243</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6787</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342676</context-key>
+<submission-path>utk_graddiss/5243</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Margaret E. Staton</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel A. Jacobson, Michael A. Langston, Russell Zaretzki, Jill L. Wegrzyn</value>
+</field>
+<field name="comments" type="string">
+<value>Chapter II of this document was previously published in journal.  Chapter III and IV have been submitted to journals as manuscripts.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

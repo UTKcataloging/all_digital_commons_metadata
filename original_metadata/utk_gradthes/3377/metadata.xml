@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Modeling of a Small Modular Reactor for Control and Monitoring</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jkaperni@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kapernick</lname>
+<fname>Jeffrey</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Small modular reactor</keyword>
+<keyword>integral pressurized water reactor</keyword>
+<keyword>once-through steam generator</keyword>
+<keyword>integral economizer</keyword>
+<keyword>reactor dynamics</keyword>
+<keyword>load following</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A system model of the Babcock &amp; Wilcox Generation mPower small modular reactor (SMR) was developed within the MATLAB-Simulink environment. A detailed physical configuration of this SMR was established based on the limited information available for the mPower reactor. This is an important step in the development of the simulation model. Three mathematical models were combined to simulate the control dynamics. A lumped-parameter approximation of fuel-to-coolant heat transfer is combined with vessel upper plenum and lower plenum coolant masses to represent the core power and heat transfer dynamics. A nodalized moving boundary steam generator model balances mass, momentum, and energy for the sub-cooled, saturated, and superheated flow regimes. A component based balance-of-plant system calculates the feedwater temperature. Controllers for the system include a once-through steam generator program which maintains a constant average primary coolant temperature with reactor thermal power, and a constant steam pressure controller, which maintains the steam outlet pressure at the set point by throttling the main steam valve. The integrated plant model is used to generate normal operation data and simulation of plant operation under specified transients. These data are being used for developing and testing on-line monitoring techniques for small modular reactors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3377</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4670&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3377</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4670</articleid>
+<submission-date>2015-03-02T12:07:29-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6759019</context-key>
+<submission-path>utk_gradthes/3377</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>J Wesley Hines, Arthur E. Ruggles</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

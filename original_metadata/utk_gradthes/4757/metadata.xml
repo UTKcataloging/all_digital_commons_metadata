@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ANGLE OF ATTACK DETERMINATION USING INERTIAL NAVIGATION SYSTEM DATA FROM FLIGHT TESTS</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jly@utsi.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Ly</lname>
+<fname>Jack</fname>
+<mname>Kevin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Flight Testing</keyword>
+<keyword>Angle of Attack</keyword>
+<keyword>Calibration</keyword>
+<keyword>Flight Dynamics</keyword>
+<keyword>Experimental</keyword>
+<keyword>Equations of Motion</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Aeronautical Vehicles</discipline>
+<discipline>Aviation Safety and Security</discipline>
+<discipline>Dynamics and Dynamical Systems</discipline>
+<discipline>Navigation, Guidance, Control and Dynamics</discipline>
+</disciplines><abstract>&lt;p&gt;Engineers and pilots rely on mechanical flow angle vanes on air data probes to determine the angle of attack of the aircraft in flight. These probes, however, are costly, come with inherent measurement errors, affect the flight characteristics of the aircraft, and are potentially dangerous in envelope expansion flights. Advances in the accuracy, usability, and affordability of inertial navigation systems allow for angle of attack to be determined accurately without direct measurement of the airflow around the aircraft. Utilizing an algorithm developed from aircraft equations of motion, a post-flight data review is completed as the first step in proving the low cost feasibility of utilizing inertial navigation data for such analysis. Flight tests were conducted with the UTSI Cessna 210 research aircraft to calibrate an angle of attack flow angle vane and obtain inertial navigation data from a commercial INS system in typical flight scenarios. The results of the angle of attack algorithm are compared to the measured angle of attack flow angle vane. Discussed in this thesis are the feasibility and potential applications of angle of attack determination from inertial data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4757</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5851&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4757</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5851</articleid>
+<submission-date>2017-02-26T23:12:53-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5851/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>9753303</context-key>
+<submission-path>utk_gradthes/4757</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steve Brooks</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Solies, Trevor Moeller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

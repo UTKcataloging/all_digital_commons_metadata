@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Methods for Deterministic and Stochastic Phase Field Models of Phase Transition and Related Geometric Flows</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yli70@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Yukun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>The Moving Interface Problem</keyword>
+<keyword>The Mean Curvature Flow</keyword>
+<keyword>The Hele-Shaw Flow</keyword>
+<keyword>Stochastic Flows</keyword>
+<keyword>Finite Element Methods</keyword>
+<keyword>Discontinuous Galerkin Methods</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+<discipline>Partial Differential Equations</discipline>
+<discipline>Probability</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation consists of three integral parts with each part focusing on numerical approximations of several partial differential equations (PDEs). The goals of each part are to design, to analyze and to implement continuous or discontinuous Galerkin finite element methods for the underlying PDE problem.&lt;/p&gt;
+&lt;p&gt;Part One studies discontinuous Galerkin (DG) approximations of two phase field models, namely, the Allen-Cahn and Cahn-Hilliard equations, and their related curvature-driven geometric problems, namely, the mean curvature flow and the Hele-Shaw flow. We derive two discrete spectrum estimates, which play an important role in proving the sharper error estimates which only depend on a negative power of the singular perturbation parameter ε [epsilon] instead of an exponential power. It is also proved that the zero level sets of the numerical solutions of the Allen-Cahn equation and the Cahn-Hilliard equation approximate the mean curvature flow and the Hele-Shaw flow respectively. Numerical experiments are carried out to verify the theoretical results and to compare the zero level sets of the numerical solutions and the geometric motions.&lt;/p&gt;
+&lt;p&gt;Part Two focuses on finite element approximations of stochastic geometric PDEs including the phase field formulation of a stochastic mean curvature flow and the level set formulation of the stochastic mean curvature flow. Both formulations give PDEs with gradient-type multiplicative noises. We establish PDE energy laws and the Hölder [Holder] continuity in time for the exact solutions. Moreover, optimal error estimates are derived, and various numerical experiments are carried out to study the interplay of the geometric evolution and gradient-type noises.&lt;/p&gt;
+&lt;p&gt;Part Three studies finite element methods for a quasi-static model of poroelasticity, which is a fluid-solid interaction multiphysics system at pore scale. We reformulate the original multiphysics system into a new system which explicitly reveals the diffusion process and has a built-in mechanism to overcome the &quot;locking phenomenon&quot;. Fully discrete finite element methods are proposed for approximating the new system. We derive a discrete energy law and optimal error estimates for our finite element methods. Numerical experiments are also provided to verify the theoretical results and to confirm that the &quot;locking phenomenon&quot; has indeed been overcome.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3439</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4838&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3439</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4838</articleid>
+<submission-date>2015-05-21T13:26:35-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7130319</context-key>
+<submission-path>utk_graddiss/3439</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaobing Feng</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ohannes Karakashian, Vasileios Maroulas, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

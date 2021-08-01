@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wireless Power Transfer System with Power Factor Correction for Electric Vehicles</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mpickels@utk.edu</email>
+<lname>Pickelsimer</lname>
+<fname>Michael</fname>
+<mname>Christopher</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Wireless Power Transfer</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Wireless power transfer is currently a popular topic of research. Because there are no mechanical connections between the transmitter and receiver, power can be transferred whenever a system is within range of a transmitter. Coil-to-coil efficiencies of over 95% at multiple kW have been recorded by researchers, proving that this type of charger has the potential to be a viable charging solution. Electric vehicles are a primary target for this technology because wireless power transfer systems may be able to provide power both while the vehicle is stationary or while in motion.&lt;/p&gt;
+&lt;p&gt;Despite the promises of high efficiency and high power capabilities, wireless power transfer has significant hurdles to overcome before widespread adoption can occur. Research is currently directed into two distinct paths. One of the areas of interest is aimed at reducing the amount of reactive power demand from these systems to improve system efficiency, while the area of exploration is centered on finding ways to increase the range at which transfer is capable and finding ways to improve a system’s resistance to misalignment.&lt;/p&gt;
+&lt;p&gt;This thesis outlines the physics behind the operation of wireless power transfer and describes some possible solutions to correct for the potential of poor power factor at the utility connection. For this to be completed, an&lt;/p&gt;
+&lt;p&gt;ivexperimental wireless power transfer system in use by Oak Ridge National Laboratories will be used to validate a transfer system model for simulation purposes.&lt;/p&gt;
+&lt;p&gt;After the transfer model is analyzed, two examples of complete wireless power transfer systems for an electric vehicle will be modeled and simulated for discussion. The first model was created to prove that the selected power factor correction technique can correct for power factor at a range of operating conditions. A second model will be constructed and simulated to improve operating efficiencies of the system. Results from both models will then be compared.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1298</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2482&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1298</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2482</articleid>
+<submission-date>2012-08-02T10:19:19-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3171954</context-key>
+<submission-path>utk_gradthes/1298</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Burak Ozpineci</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

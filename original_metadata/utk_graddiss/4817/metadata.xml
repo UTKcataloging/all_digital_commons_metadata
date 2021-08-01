@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonlinear Oscillation Analysis and Modal Decoupling for Power Systems</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Wang</lname>
+<fname>Bin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Frequency-amplitude (F-A) curve</keyword>
+<keyword>nonlinear dynamics</keyword>
+<keyword>electromechanical oscillation</keyword>
+<keyword>nonlinear modal decoupling</keyword>
+<keyword>angular stability</keyword>
+</keywords>
+<abstract>&lt;p&gt;This work analyzes power system nonlinear electromechanical oscillations (EOs). Two new tools are proposed for understanding better nonlinear oscillations and for angular stability analysis of power systems. The proposed tools and methodology can also be extended and applied to general high dimensional nonlinear dynamical systems besides power systems.The analysis of the nonlinear EOs on a single-machine-infinite-bus (SMIB) power system is first presented and a new tool called Frequency-Amplitude (F-A) curve is proposed. The F-A curve shows that the oscillation frequency (OF) decreases from the natural frequency toward zero when the oscillation amplitude (OA) grows to some critical threshold. It is also demonstrated that an F-A curve is actually a projection of the system trajectory between the stable equilibrium and the stability boundary onto the OF-OA plane. A measurement-based estimation method is also proposed and used to demonstrate the existence of the F-A curve for each EO mode for multi-machine power systems with or without governor and excitation controls of generators.Then, another new approach, called nonlinear modal decoupling (NMD), is proposed for analyzing EOs and angular stability of general multi-machine power systems. The proposed approach transforms a given multi-machine power system into a set of decoupled nonlinear oscillators, i.e. 2nd order systems, such that the dynamics and stability can first be analyzed or simulated on those decoupled small systems in an easier way and the results can then be inversely transformed back to the conclusions on the original multi-machine system.Stability analysis and control using the two proposed approaches are also validated on the SMIB system, IEEE 9-bus system, New England 39-bus system, WECC 179-bus system and NPCC 140-bus power system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4817</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6357&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4817</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6357</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276434</context-key>
+<submission-path>utk_graddiss/4817</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hector A. Pulgar-Painemal, Kevin L. Tomsovic, Xiaopeng Zhao</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-4199-4403</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journal.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

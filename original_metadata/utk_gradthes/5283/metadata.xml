@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Genomic data analysis using grid-based computing</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Rekapalli</lname>
+<fname>Bhanu</fname>
+<mname>Prasad</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Microarray experiments generate a plethora of genomic data; therefore we need techniques and architectures to analyze this data more quickly. This thesis presents a solution for reducing the computation time of a highly computationally intensive data analysis part of a genomic application. The application used is the Stanford Microarray Database (SMD). SMD&#39;s implementation, working, and analysis features are described. The reasons for choosing the computationally intensive problems of the SMD, and the background importance of these problems are presented. This thesis presents an effective parallel solution to the computational problem, including the difficulties faced with the parallelization of the problem and the results achieved. Finally, future research directions for achieving even greater speedups are presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5283</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6691&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5283</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6691</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847192</context-key>
+<submission-path>utk_gradthes/5283</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

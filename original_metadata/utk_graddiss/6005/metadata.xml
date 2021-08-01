@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Passive and active components development for broadband applications</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Lin</lname>
+<fname>Song</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Electrical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recently, GaN HEMTs have been proven to have numerous physical properties, resulting in transistors with greatly increased power densities when compared to the other well-established FET technologies. This advancement spurred research and product development towards power-band applications that require both high power and high efficiency over the wide band. Even though the use of multiple narrow band PAs covering the whole band has invariably led to better performance in terms of efficiency and noise, there is an associated increase in cost and in the insertion loss of the switches used to toggle between the different operating bands. The goal, now, of the new technology is to replace the multiple narrow band PAs with one broadband PA that has a comparable efficiency performance. In our study here, we have investigated a variety of wide band power amplifiers, including class AB PAs and their implementation in distributed and feedback PAs.Additionally, our investigation has included switching-mode PAs as they are well-known for achieving a relatively high efficiency. Besides having a higher efficiency, they are also less susceptible to parameter variations and could impose a lower thermal stress on the transistors than the conventional-mode PAs. With GaN HEMTs, we have demonstrated: a higher than 37 dBm output power and a more than 30% drain efficiency over 0.02 to 3 GHz for the distributed power amplifier; a higher than 30 dBm output power with more than a 22% drain efficiency over 0.1 to 5 GHz for the feedback amplifier; and at least a 43 dBm output power with a higher than 63% drain efficiency over 0.05 to 0.55 GHz for the class D PA. In many communication applications, however, achieving both high efficiency and linearity in the PA design is required. Therefore, in our research, we have evaluated several linearization and efficiency enhancement techniques.We selected the LInear amplification with Nonlinear Components (LINC) approach. Highly efficient combiner and novel efficiency enhancement techniques like the power recycling combiner and adaptive bias LINC schemes have been successfully developed and verified to achieve a combined high efficiency with a relatively high linearity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6005</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7938&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6005</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7938</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467683</context-key>
+<submission-path>utk_graddiss/6005</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fault current limiting and protection circuit for power electronics used in a Modular Converter</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mishra</lname>
+<fname>Shibani</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The thesis objective is to safeguard power electronics used in modular converter applications. A new fault current limiting and protection circuit is proposed. The system level fault mitigation assemblies take a long time to remove a fault and within this time the IGBTs used in the Flexible AC Transmission System (FACTS) application will undergo high thermal and mechanical stress. Exposure to such conditions over a prolonged period of time will reduce the device lifetime, which is one of the major reasons why power electronics are not very popular in utility applications. Modular converter approach will reduce the device ratings required to mitigate the fault at power electronics level. The fault current limiting and protection circuit is tested using PSPICE simulation tool. The test set up is simple comprising of two IGBTs, one which acts as device under test (DUT) and another which acts as switch regulating fault seen by DUT. The test voltage is 480 Volt and R-L is varied over a range of L – 20nanoHenry, 2microHenry, and 10microHenry and R – 20Ohm, 50Ohm, and 100Ohm. The fault current limiting (FCL) and protection circuit worked accurately in each of the cases described above, thereby safely turning OFF the device within the short circuit withstand capacity (10microseconds) of IGBTs. The FCL and protection circuit can mitigate both Hard Switched Fault and Fault Under Load seen by the IGBT during short circuit condition. The circuit developed is different from the conventional protection gate drives available in the market and there is the possibility of customizing it further for modular blocks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/468</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1504&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>468</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1504</articleid>
+<submission-date>2010-02-18T08:37:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1153210</context-key>
+<submission-path>utk_gradthes/468</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>LEON M TOLBERT</value>
+</field>
+<field name="advisor2" type="string">
+<value>FANGXING LI, JACK S LAWLER</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/MishraShibani.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

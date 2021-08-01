@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Coupled Flow Discrete Element Method Application in Granular Porous Media using Open Source Codes</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Feng</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The flow of fluid through an assembly of particles is of interest to a range of fields such as civil engineering, powder technology, and liquid chromatography. The Discrete Element Method (DEM) is a numerical approximation used to model the interaction of particles and fluid. This study starts with the verification of the open source 3D DEM code (YADE) by investigating simple, one and two-particle contact problems, and DEM results are shown to compare very well with the classical 1D vibration solutions.&lt;/p&gt;
+&lt;p&gt;2D and 3D simulations of particles flowing through a hopper were then investigated. The stability of the sinkhole repair for a range of rock particle diameters (relative to the sinkhole throat diameter) was investigated by presenting a statistical description to describe the gradual transition from unstable to stable behavior.&lt;/p&gt;
+&lt;p&gt;This was followed by an investigation of a fluid-solid two phase flow system. The fluid phase is modeled by solving the averaged Navier-Stokes equation using the Finite Volume Method (FVM) and the solid phase was modeled using the DEM. A framework was developed to couple two open source codes: YADE-OpenDEM for the DEM and OpenFOAM for the computational fluid dynamics. The particle-fluid interaction is quantified using a semi-empirical relationship proposed by Ergun (1952). 1D solutions for the classic upward seepage flow and consolidation were obtained and compared well with the analytical solutions. These verification problems were also used to explore the appropriate time step size for both the fluid and mechanical solution processes, and the choice of the viscous damping coefficient.&lt;/p&gt;
+&lt;p&gt;Finally, the coupled DEM-CFD code is used in the solution of a classical 2D seepage problem of flow beneath a sheet pile and the slurry packing of a chromatography column. For the sheet pile problem, both the quantity of seepage and the pressure gradient leading to the quick condition are investigated. The effect of the fluid volume size relative to particle size was also investigated. For the packing of a chromatography column, the method was able to reproduce the “wall effects” during the axial upward compression procedure, providing a displacement field similar to that observed in experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/21</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1051&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>21</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1051</articleid>
+<submission-date>2009-12-18T11:37:31-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1094155</context-key>
+<submission-path>utk_graddiss/21</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Eric C. Drumm</value>
+</field>
+<field name="advisor2" type="string">
+<value>Georges A. Guiochon, Dayakar Penumadu, Baoshan Huang, Richard Bennett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

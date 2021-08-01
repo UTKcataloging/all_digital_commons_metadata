@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Big Data and Unsupervised Machine Learning Approach to Understand Why People Ride E-Scooter in Nashville, Tennessee</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nshah12@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Shah</lname>
+<fname>Nitesh</fname>
+</author>
+</authors>
+<keywords>
+<keyword>E-scooter</keyword>
+<keyword>micromobility</keyword>
+<keyword>unsupervised machine learning</keyword>
+<keyword>trip purpose</keyword>
+<keyword>and big data</keyword>
+</keywords>
+<abstract>&lt;p&gt;In the past few decades, several mobility options have emerged as a potential solution to urban transportation problems, such as air pollution, congestion, etc. A shared e-scooter system is an example of recent micromobility, which prospered with the advancement in payment technique (online payment), vehicle tracking (GPS tracing through cellphone) as well as the evolution of the business model (to the dockless system). The popularity of e-scooters is also considered “disruptive,” as they make us reconsider our perception of urban mobility.One of the fundamental aspects of considering e-scooter as a part of the urban transportation system is to understand how and why people use e-scooters. Several cities have implemented a pilot program to regulate and evaluate the e-scooters, which also includes a recall-survey of the riders on how they use e-scooters. However, the data collected form this approach can only capture user behavior for a limited timeframe and often contains response bias. As an alternative approach, the author applied unsupervised machine learning methods to identify patterns in all 79,009 trips taken among seven e-scooter service providers during March 2019 in Nashville, Tennessee. The combination of trip data with the land use data suggests nine general patterns. Also, a visualization of the individual cluster in a map added contextual information about those trip clusters. The clustering approach did not reveal any typical commuting pattern like other micromobility vehicles, like bikeshare, while only 4% of the trips are purely recreational such as riding around the park. Whereas, more than half of the trips were for a social purpose that reflected characteristics of trips for evening dinner, lunch, or running errands. Also, 21% of all trips that started from 8 pm to 7 am had bars nearby at start or end locations.These findings will be of interest to city planners, infrastructure designers, and e-scooter operators. For instance, identifying the trip start and/or end nearby bars at night could be critical to improving the safety of e-scooter riders, who could be riding under the influence. Moreover, the methodology developed in the study could be one of the applications of open-source Micromobility Data Specification (MDS) to better understand the usage of these vehicles.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5554</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7088&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5554</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7088</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409592</context-key>
+<submission-path>utk_gradthes/5554</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Christopher R. Cherry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee D. Han, Haileab Hilafu, Candace Brakewood</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-2168-6948</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

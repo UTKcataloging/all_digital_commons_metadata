@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Visualization Techniques for Neuroscience-Inspired Dynamic Architectures</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mwhite40@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Drouhard</lname>
+<fname>Margaret</fname>
+<mname>Grace</mname>
+</author>
+</authors>
+<keywords>
+<keyword>visualization</keyword>
+<keyword>visual analytics</keyword>
+<keyword>neural networks</keyword>
+<keyword>neuromorphic computing</keyword>
+</keywords>
+<disciplines><discipline>Graphics and Human Computer Interfaces</discipline>
+</disciplines><abstract>&lt;p&gt;This work introduces visualization tools for Neuroscience-Inspired Dynamic Architecture (NIDA) networks and for the Dynamic Adaptive Neural Network Array (DANNA) hardware implementation of NIDA. A NIDA network is a novel type of artificial neural network that has performed well on control, anomaly detection, and classification tasks. We introduce a three dimensional visualization of software NIDA networks that represents network structure and simulates activity on networks. We present some of the analysis tasks for which the tool has been used, including the identification of useful substructures within NIDA networks through activity analysis and through the tracing of causality paths from events to their respective sources. We discuss features of the visualization that allow for the exploration of dense networks and subnetworks. We define analysis goals for the tools, in particular the definition of &quot;similarity&quot; between networks and substructures and the objectives for the recognition of similar substructures. We also introduce a two dimensional visual interface for DANNAs, which includes representation of the physical arrangement of elements on DANNAs, as well as interactions to configure and save the networks. We explore various representations of elements and connections within DANNAs, and we demonstrate the interactions that assist users in evaluating and modifying the networks. Finally, we propose extensions to the tools that will further aid in the exploration and understanding of NIDA and DANNA structure and behavior.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3360</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4591&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3360</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4591</articleid>
+<submission-date>2015-02-24T20:50:47-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6722327</context-key>
+<submission-path>utk_gradthes/3360</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Chad Steed</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Interactive_DANNAViz.mp4</archive-name>
+<upload-name>Interactive_DANNAViz.mp4</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=4591&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/mp4</mime-type>
+<description>Interactive Video of DANNA Visual Interface</description>
+</file>
+<file>
+<archive-name>Interactive_Mode_NIDAViz.mp4</archive-name>
+<upload-name>Interactive_Mode_NIDAViz.mp4</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=4591&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/mp4</mime-type>
+<description>Interactive Video of NIDA Visualization</description>
+</file>
+<file>
+<archive-name>Video_Mode_NIDAViz.mp4</archive-name>
+<upload-name>Video_Mode_NIDAViz.mp4</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=4591&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/mp4</mime-type>
+<description>Non-interactive Video of NIDA Visualization</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

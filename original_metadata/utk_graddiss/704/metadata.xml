@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Novel Technique for CTIS Image-Reconstruction</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mhorton5@utk.edu</email>
+<lname>Horton</lname>
+<fname>Mitchel Dewayne</fname>
+</author>
+</authors>
+<keywords>
+<keyword>CTIS</keyword>
+<keyword>Image-reconstruction</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Computed tomography imaging spectrometer (CTIS) technology is introduced and its use is discussed. An iterative method is presented for CTIS image-reconstruction in the presence of both photon noise in the image and post-detection Gaussian system noise.  The new algorithm assumes the transfer matrix of the system has a particular structure. Error analysis, performance evaluation, and parallelization of the algorithm is done.  Complexity analysis is performed for the proof of concept code developed. Future work is discussed relating to potential improvements to the algorithm.&lt;/p&gt;
+&lt;p&gt;An intuitive explanation for the success of the new algorithm is that it reformulates the image reconstruction problem as a constrained problem such that an explicit closed form solution can be computed when the constraint is ignored. Incorporating the constraint leads to an inverse matrix problem which can be dealt with using a conjugate gradient method. A weighted iterative refinement technique is employed because the conjugate gradient solver is terminated prematurely.&lt;/p&gt;
+&lt;p&gt;This dissertation makes the following contributions to the state of the art.  First, our method is several orders of magnitude faster that the previous industry best (multiplicative algebraic reconstruction technique (MART) and mixed-expectation reconstruction technique (MERT)).  Second, error bounds are established.  Third, open source proof of concept code is made available.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/704</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1150&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>704</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1150</articleid>
+<submission-date>2010-01-13T07:47:38-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1109599</context-key>
+<submission-path>utk_graddiss/704</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael D. Vose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce MacLennan, Hairong Qi, Sergey Gavrilets</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

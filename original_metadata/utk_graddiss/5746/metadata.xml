@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Influence of Phase Transformations on the Residual Stress Evolution and Cracking Tendency in CM247LC Nickel-base Superalloy</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aprabhu@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Prabhu</lname>
+<fname>Avinash</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Superalloys</keyword>
+<keyword>phase transformation modeling</keyword>
+<keyword>computational weld mechanics</keyword>
+<keyword>Nickel</keyword>
+</keywords>
+<abstract>&lt;p&gt;Precipitation strengthened nickel base superalloys are widely used in the hot sections of turbine engines, where these alloys experience physical degradation in service. Cladding or welding processes offer a way to repair and reuse the components. However, this needs to overcome challenges posed by the propensity of the alloys to experience cracking in the heat affected zone.In this work, the influence of phase transformations on the cracking tendency in the heat affected zone of the directionally solidified (DS) and conventionally cast (CC) superalloy CM247LC is examined. Firstly, the influence of the phase transformations on the residual stress evolution is studied by developing a finite element model sensitive to phase transformations. This is used to investigate the importance of accounting for phase transformations in estimation of residual stresses through finite element analysis. The influence of phase transformations on creating ‘cracking susceptible’ microstructures is also analyzed through characterization of welds. Initially the constitutive mechanical properties of the alloy are measured as a function of the temperature history of the heat affected zone. An improved microstructure model based on the simultaneous transformation kinetics theory is developed and shown to be able to track the γ&#39; [gamma prime] size distribution through the thermal history. This model is used to correlate the thermal history to the constitutive properties, which are then used in a finite element model by mapping to the inbuilt phase transformation and constitutive property model within the software Sysweld. The results show a difference in the peak stress of nearly 500MPa, implying that consideration of the phase transformations is required. The experimental constitutive property testing also shows that the ‘strain to fracture’ is highly anisotropic depending on alloy version. Potential incipient melting at the grain boundary as well as constitutional liquation of the MC carbide particles is identified as a source of cracking. Thiscracking tendency is correlated to the crystallographic misorientation between adjacent grains. It is found that cracking only occurs at grain boundaries misoriented beyond 15 degrees.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5746</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7512&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5746</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7512</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419627</context-key>
+<submission-path>utk_graddiss/5746</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Sudarsanam Suresh Babu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ryan Dehoff, Hahn Choo, Claudia Rawn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Materials Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

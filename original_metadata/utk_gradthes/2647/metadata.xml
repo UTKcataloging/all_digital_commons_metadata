@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Experimental Study of Hemispherical Vortex Generators for Separation Control over a NACA-0012</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dtucker8@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tucker</lname>
+<fname>David</fname>
+<mname>Joseph Ronald</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Aerospace</keyword>
+<keyword>Vortex Generator</keyword>
+<keyword>Hemispherical</keyword>
+<keyword>NACA-0012 Airfoil</keyword>
+<keyword>Hydrofoil</keyword>
+<keyword>Experimental</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+</disciplines><abstract>&lt;p&gt;This is a study towards understanding hemispherical vortex generators (VGs) and their effectiveness on delaying flow separation over an airfoil. To be tested was whether these devices could generate a horseshoe vortex structure that effectively entrained higher momentum flow into the boundary layer over the surface of a NACA-0012 wing section. The experimental results are primarily from water tunnel experiments, but the clean configuration NACA-0012 airfoil was investigated by numerical methods in order to ascertain the potential for numerical modeling as a tool to accurately predict flow around the VGs, and as a guide for size and location optimization. At Reynolds number of 50,000 the separation point was measured using three different sizes (large, medium, and small diameters) of VGs placed on the airfoil in different configurations at a range of angles of attack from 10 to 20 degrees. Fluorescent dye was illuminated by a system of lasers and a rotating mirror in order to visualize the flow over the airfoil. The following results were observed: large VGs were most effective and had the most consistent correlation between separation delay and VG spacing, medium VGs followed the same general trend, but had significantly lower effectiveness throughout the range of VG spacing, and small VGs generally seemed inert in their interaction with the local flow; appearing stagnant except for the smallest spacing where adjacent VGs were in contact. Spacing effectiveness of the large VGs was determined at one angle of attack; the best separation between large VGs was about 3 diameters. Numerical computations were performed by solving the Reynolds Averaged Navier-Stokes (RANS) equations with the Stanford University Unstructured (SU^2) code. The code ran remotely on the Kraken system at Oak Ridge National Laboratory. The simulations and associated experiments were meant to determine whether such devices could effectively delay flow separation. There are many practical applications for these VGs including: micro air vehicle static stall, rotorcraft dynamic stall, and applications to turbomachinery.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2647</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2900&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2647</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2900</articleid>
+<submission-date>2013-06-22T14:40:16-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2900/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4252356</context-key>
+<submission-path>utk_gradthes/2647</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ahmad Vakili</value>
+</field>
+<field name="advisor2" type="string">
+<value>Trevor Moeller, Gregory Power</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

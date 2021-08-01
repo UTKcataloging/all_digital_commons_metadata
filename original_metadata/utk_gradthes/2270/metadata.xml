@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Grid Generator for MHD Flow Simulations Made With the Gems Code</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kolokolnikov</lname>
+<fname>Konstantin</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Numerical simulations for Hypersonic Vehicle Power System (HVEPS) Project were based on a multi-domain, general Navier-Stokes Solver Code called the GEMS® Code. The GEMS® Code was in the process of being extended to solve for plasma flows with both self-induced as well as externally-applied magnetic fields. GEMS® is also capable of simulating both laminar and turbulent flow in unbounded as well as ducted flows. For application to the ducted Plasma flows generated experimentally in the HVEPS program, GEMS® was set up to calculate turbulent flow in 1-3D (dimensional) duct geometries in general and in 2D, 3D ones for purposes of numerical simulation in HVEPS Project. To model a real small scale experiment for Conductivity and MHD plasma channel flows it was decided to consider turbulent flow in both 2D and 3D duct geometries and to compare the results to experimental data obtained in HVEPS, as well as with numerical results from other known codes, such as the Mach 2 Code in 2D duct geometry. Accurate MHD channel flow simulations should require only 3D calculations, since MHD power generation is a completely three-dimensional phenomenon. In 2002, the latest generation GEMS® code (GEMS – General Equations and Mesh Solver), for CFD problems was created by Dr. Ding Li and Dr. Charles Merkle. This code can run in 1D, 2D and 3D as options and will be mentioned below. The problem attacked by the author of this thesis was to prepare a numerical method to generate appropriate and acceptable computational domains with acceptable grid formats that provide for convergence of numerical simulations made with GEMS® Code. In numerical modeling the HVEPS facility at UTSI the following computational domains were required:&lt;/p&gt;
+&lt;p&gt;• a combustor chamber area; • a supersonic nozzle;&lt;/p&gt;
+&lt;p&gt;• an adaptor fitted to the nozzle (ceramic ring as nozzle extension);&lt;/p&gt;
+&lt;p&gt;• a straight conductivity channel with 6 dielectrics rings;&lt;/p&gt;
+&lt;p&gt;• a conical MHD plasma channel with 6 dielectric rings;&lt;/p&gt;
+&lt;p&gt;• an air surrounding nozzle and channel;&lt;/p&gt;
+&lt;p&gt;• a channel extension as option for grid generation algorithm.&lt;/p&gt;
+&lt;p&gt;In addition to the variety of computational domains modeled, boundary layers required near the walls must be adequately resolved by the computational grids. Flexibility of grid generation by UTGRID®, which will be discussed later, in section 3.9, boundary layer issues, allows choosing of appropriate grid aspect ratios to provide convergence of the solutions in boundary layer regions. Known grid generators are incapable of working in an automated mode, and the process of grid generation for complicated domains, like the diagonal wall MHD channel, is an extremely time-consuming and difficult task. The author developed a semi-automated process for creating the meshed domains for the CFD modeling in the HVEPS project. Thus, within the period 2002-2004 a new generation code, UTGRID®, for automatic and flexible grid generation was created by the author, which and links the set of the following programs together:&lt;/p&gt;
+&lt;p&gt;• GEMS® (Created by Dr. Ding Li and Dr. Charles Merkle)&lt;/p&gt;
+&lt;p&gt;• PGRID® (Created by Dr. Ding Li)&lt;/p&gt;
+&lt;p&gt;• UTGRD® (Created by the author of this thesis) • GAMBIT™ (a commercial product associated with FLUENT®)&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2270</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3716&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2270</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3716</articleid>
+<submission-date>2013-10-16T11:27:24-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4728612</context-key>
+<submission-path>utk_gradthes/2270</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Roy J. Schulz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Boris A. Kupershmidt, Charles L. Merkle</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

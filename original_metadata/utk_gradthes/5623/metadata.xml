@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Stochastic Neuron Design for the mrDANNA Neuromorphic Architecture</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Brown</lname>
+<fname>Samuel</fname>
+<mname>Denis</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Neuromorphic computing architectures are bio-inspired alternatives to more conventional computing methodologies that have recently risen in popularity. In general, these architectures are patterned both structurally and behaviorally after the biological nervous system. The hardware implementations of these networks of artificial neurons and synapses benefit from low power consumption and low area as compared to traditional computing methods for similar applications. They also boast highly paralleized operation.Recently, researchers have begun to explore the idea of harnessing the inherent variability in electronic design to create neuromorphic systems with intrinsically stochastic behavior. It is hypothesized that networks of stochastic neural components may be able to form complex statistical models of their environments. This thesis proposes two unique circuit-level implementations of an inherently stochastic neuron for use within the mrDANNA neuromorphic architecture. The benefits of stochastic neuronal dynamics are then investigated through simulations of stochastic neural networks for a few different applications. The neurons presented in this work are simulated with 65nm IBM process models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5623</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7157&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5623</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7157</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539133</context-key>
+<submission-path>utk_gradthes/5623</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Garrett Rose</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Benjamin J. Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

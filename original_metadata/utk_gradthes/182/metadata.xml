@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Full Scale Camera Calibration Technique with Automatic Model Selection – Extension and Validation</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Orekhov</lname>
+<fname>Vitaliy</fname>
+<mname>Leonidovich</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents work on the testing and development of a complete camera calibration approach which can be applied to a wide range of cameras equipped with normal, wide-angle, fish-eye, or telephoto lenses. The full scale calibration approach estimates all of the intrinsic and extrinsic parameters. The calibration procedure is simple and does not require prior knowledge of any parameters. The method uses a simple planar calibration pattern. Closed-form estimates for the intrinsic and extrinsic parameters are computed followed by nonlinear optimization. Polynomial functions are used to describe the lens projection instead of the commonly used radial model. Statistical information criteria are used to automatically determine the complexity of the lens distortion model.&lt;/p&gt;
+&lt;p&gt;In the first stage experiments were performed to verify and compare the performance of the calibration method. Experiments were performed on a wide range of lenses. Synthetic data was used to simulate real data and validate the performance. Synthetic data was also used to validate the performance of the distortion model selection which uses Information Theoretic Criterion (AIC) to automatically select the complexity of the distortion model.&lt;/p&gt;
+&lt;p&gt;In the second stage work was done to develop an improved calibration procedure which addresses shortcomings of previously developed method. Experiments on the previous method revealed that the estimation of the principal point during calibration was erroneous for lenses with a large focal length. To address this issue the calibration method was modified to include additional methods to accurately estimate the principal point in the initial stages of the calibration procedure. The modified procedure can now be used to calibrate a wide spectrum of imaging systems including telephoto and verifocal lenses.&lt;/p&gt;
+&lt;p&gt;Survey of current work revealed a vast amount of research concentrating on calibrating only the distortion of the camera. In these methods researchers propose methods to calibrate only the distortion parameters and suggest using other popular methods to find the remaining camera parameters. Using this proposed methodology we apply distortion calibration to our methods to separate the estimation of distortion parameters. We show and compare the results with the original method on a wide range of imaging systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/182</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1214&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>182</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1214</articleid>
+<submission-date>2010-02-09T14:43:29-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1138279</context-key>
+<submission-path>utk_gradthes/182</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Besma Roui Abidi, Michael J. Roberts</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/OrekhovVitaliy.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

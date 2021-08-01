@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Microstructural-Based Modeling Framework for High Temperature Behavior of Ferritic-Martensitic Steels Using Crystal Plasticity and Grain Boundary Finite Element Approaches</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>onassif@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Nassif</lname>
+<fname>Omar</fname>
+<mname>Mohd</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Mesoscale modeling</keyword>
+<keyword>grain boundary sliding and cavity growth</keyword>
+<keyword>tempered martensitic steels</keyword>
+<keyword>crystal plasticity</keyword>
+<keyword>creep</keyword>
+<keyword>interface elements</keyword>
+</keywords>
+<abstract>&lt;p&gt;Ferritic/martensitic 9-12Cr steel alloys, have had widespread use as structural materials in power plants. Among this family of alloys, Grade 91 (Gr91) steel was a landmark in the development of 9-12Cr alloys. However, the unique microstructure complexity of the alloy has raised doubt regarding the techniques of data extrapolation in estimating its service-life for operation in next-generation power plants at higher temperatures and presssures. Conservatism becomes essential when the alloy is to be used in components lasting the life-cycle of power plants without replacement.This dissertation develops a physically-based microstructural model for creep rupture at 600 degrees Celsius for Gr91 steel as well as fundamental modeling tools that apply more broadly to microstructural modeling in metals. Key features of the Gr91 modeling framework capture the mechanical behavior of its prior austenite grains (PAG) and grain boundaries. Ultimately, a constitutive expression was adopted that captured the response from experiments conducted in the creep strain rate regime.An initial model intended to simulate low-cycle fatigue was first developed using the idea of geometrically necessary dislocations (GNDs) in crystal plasticity (CP) framework. That necessitated evaluating strain gradients and a patch-recovery method was implemented to recover a linear elastic deformation gradient field across the domain in linear elements. A Lie-group to Lie-algebra mapping was used to preserve orthogonality when projecting the rotation tensor from the elements’ Gauss points to the nodes.A statistically-stored dislocation density model was investigated to span the regimes of moderate strain rates (tension tests) to low strain rates (creep tests). Calibration of this model was possible against tension tests, but its application to creept tests suggested that other dislocation mechanisms were present during the primary creep regime of Gr91. Therefore, the CP model in the PAGs was changed to represent dislocation climb-glide motion and recovery along with linear viscous diffusional creep for point defect diffusion. This revised model more closely captured the measurements of creep response.Lastly, a robust Discontinuous Galerkin method is proposed to model the grain boundary interface elements to address traction oscillations observed for cohesive models. Stability and convergence are assessed along with non-conforming meshes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5438</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6974&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5438</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6974</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545472</context-key>
+<submission-path>utk_graddiss/5438</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy J. Truster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dayakar Penumadu, Yanfei Gao, Reza Abedi</value>
+</field>
+<field name="comments" type="string">
+<value>Chapter 2 was previously published in a journal:
+from “Truster, T.J., Nassif, O., 2017. Variational projection methods for gradient crystal plasticity using Lie algebras. International Journal for Numerical Methods in Engineering, 110, pp.303-332&quot;.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

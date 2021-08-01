@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Application of the ActiGraph GT9X IMU for the Assessment of Turning During Walking and Running</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rmarcott@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Marcotte</lname>
+<fname>Robert</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Energy expenditure</keyword>
+<keyword>filter</keyword>
+<keyword>gyroscope</keyword>
+<keyword>magnetometer</keyword>
+<keyword>turn degree</keyword>
+<keyword>turn detection</keyword>
+</keywords>
+<disciplines><discipline>Exercise Science</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;strong&gt;PURPOSE:&lt;/strong&gt; The purpose of this study was to examine the use of the ActiGraph GT9X gyroscope and magnetometer for turn detection and quantifying turn degree during walking and running. &lt;strong&gt;METHODS:&lt;/strong&gt; Participants (N=17) completed pivot trials, treadmill walking and running (3 to 6 mph) and different degrees of turns (i.e. 45°, 90°, 135°, and 180°) during over-ground walking and running. Pivot and walking and running activities were completed for 1-minute and 6-minutes per trial, respectively. Turn frequency was constant (10 turns/minute) across all overground walking and running trials. ActiGraph GT9X devices were placed on the left and right hips, wrists, and ankles and a Cosmed K4b&lt;sup&gt;2&lt;/sup&gt; measured energy expenditure. Raw ActiGraph GT9X gyroscope and magnetometer data were processed through various low-pass filter frequencies (0.25 Hz to 2.0 Hz). Treadmill and pivot trials were used to develop thresholds for turn detection using gyroscope and magnetometer data. Cross-validation was completed using over-ground trials for turn detection and turn degree using filtered gyroscope data. Cosmed data (VO&lt;sub&gt;2&lt;/sub&gt;) were averaged over 30-second periods and then converted to relative VO&lt;sub&gt;2 &lt;/sub&gt;(ml/kg.min) for each activity. Linear mixed models were used to compare actual and predicted number of turns, measured and predicted turn degree, and differences in VO&lt;sub&gt;2&lt;/sub&gt; across walking and running speed and turn degree. Linear regression models were used to predict VO&lt;sub&gt;2&lt;/sub&gt; using speed, turn degree, and speed and turn degree. &lt;strong&gt;RESULTS:&lt;/strong&gt; Greater than 98% of turns were detected when using gyroscope data filtered at 0.25 Hz. Turn degree was estimated within 2.2° of measured turn degree across all speeds. In general, the VO&lt;sub&gt;2&lt;/sub&gt; of walking and running increased as the turn degree increased beyond 135°. Walking and running speed explained 83.8% of the variability in VO&lt;sub&gt;2&lt;/sub&gt;, and the addition of turn degree explained an additional 4.3%. &lt;strong&gt;CONCLUSION:&lt;/strong&gt; The ActiGraph GT9X gyroscope, when filtered at 0.25 Hz can be used to detect the number of turns and estimate turn degree. The magnetometer was only useful for detecting the number of turns. Future work is needed to explore the gyroscope application for turn detection performance during activities other than walking and running and estimating VO&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4890</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6211&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4890</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6211</articleid>
+<submission-date>2017-06-15T13:55:34-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10310003</context-key>
+<submission-path>utk_gradthes/4890</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Scott E. Crouter</value>
+</field>
+<field name="advisor2" type="string">
+<value>David R. Bassett, Joshua T. Weinhandl</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Kinesiology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

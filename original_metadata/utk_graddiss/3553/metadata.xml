@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Gain tuning of proportional integral controller based on multiobjective optimization and controller hardware-in-loop microgrid setup</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kprabaka@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Prabakar</lname>
+<fname>Kumaraguru</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Multi-objective optimization</keyword>
+<keyword>microgrid</keyword>
+<keyword>Controller tuning</keyword>
+<keyword>controller hardware in loop</keyword>
+<keyword>inverter tuning</keyword>
+<keyword>PI controller tuning</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Proportional integral (PI) control is a commonly used industrial controller framework. This PI controller needs to be tuned to obtain desired response from the process under control. Tuning methods available in literature by and large need sophisticated mathematical modelling, and simplifications in the plant model to perform gain tuning. The process of obtaining approximate plant model conceivably become time consuming and produce less accurate results. This is due to the simplifications desired by the power system applications especially when power electronics based inverters are used in it. Optimal gain selection for PI controllers becomes crucial for microgrid application. Because of the presence of inverter based distributed energy resources.&lt;/p&gt;
+&lt;p&gt;In the proposed approach, a multi-objective genetic algorithm is used to tune the controller to obtain expected step response characteristics. The proposed approach do not need simplified mathematical models. This prevents the need for obtaining unfailing plant models to maintain the fidelity of modelling. Microgrid system and the PI controller are modelled in different software, hardware platform and tuned using the proposed approach. Gain values for PI controller in these different platform are tuned using the same objective function and multi-objective optimization. This proves the re-usability, scalability, and modularity of the proposed tuning algorithm.&lt;/p&gt;
+&lt;p&gt;Three different combination of software, hardware platform are proposed. First, the process and the PI controller are modelled in a computer based hardware. In order to increase the speed of the multi-objective optimization in the computer based hardware parallel computing is employed. This is a natural fit for paralleling the GA based optimization. Second, both the plant and control representation are modelled in the real time digital simulator (RTDS). Finally, a controller hardware in loop platform is used. In this platform, the plant will be modelled in RTDS and the PI controller will be modelled in an FPGA based hardware platform. Results indicate that the proposed approach has promising potentials since it does not need to simplify the switching model and can effectively solve the complicated tuning procedure using parallel computing. Similar advantage could be said for RTDS based tuning because RTDS simulates the models in real time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3553</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4988&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3553</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4988</articleid>
+<submission-date>2015-09-29T17:13:23-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7656902</context-key>
+<submission-path>utk_graddiss/3553</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Kevin Tomsovic, Rapinder Sawhney</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

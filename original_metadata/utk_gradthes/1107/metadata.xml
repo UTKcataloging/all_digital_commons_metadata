@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automating Real-Time Fault Detection for the University of Tennessee Space Institute, Aviation Systems’ Flight Testing and Airborne Science Applications</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>swilli90@utk.edu</email>
+<lname>Williams</lname>
+<fname>Samuel Vivek</fname>
+</author>
+</authors>
+<disciplines><discipline>Systems Engineering and Multidisciplinary Design Optimization</discipline>
+</disciplines><abstract>&lt;p&gt;The UTSI Aviation Systems program has conducted many successful airborne science campaigns in collaboration with premier research organizations including NASA and NOAA. Each airborne science mission requires dedicated FTEs to monitor the various instruments onboard the aircraft. A typical mission requires aircraft to be instrumented with a wide range of sensors (with approximately 145 data parameters). Monitoring the instruments requires highly skilled personnel who have a thorough understanding of the system.&lt;/p&gt;
+&lt;p&gt;With the advent of UTSI Aviation Systems program increasing capabilities to conduct multiple missions, using multiple airborne platforms, the requirement of a skilled FTE for each mission could effectively impede mission readiness. Conversely, the customers have also expressed interest in increased involvement in the airborne science missions and hence have to be accommodated within the limited confines of the aircraft. As a result of these requirements, a real-time expert system has been developed (using LabVIEW) to monitor mission-critical instrumentation. The program will provide the user with a tool to monitor the performance of the airborne sensors without requiring extensive knowledge of the system and rigorous training. The overall effect would be an increase in flexibility while simultaneously enhancing quality of operation wherein a mission would not be flown with a defective sensor onboard.&lt;/p&gt;
+&lt;p&gt;The following work describes the algorithms, system architecture and coding techniques used to develop the “go no-go” program. As the program is under constant refinement, the descriptions presented reflect the current state of the software.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1107</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2194&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1107</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2194</articleid>
+<submission-date>2011-10-10T22:31:16-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2194/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2288311</context-key>
+<submission-path>utk_gradthes/1107</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Muratore</value>
+</field>
+<field name="advisor2" type="string">
+<value>Uwe Peter Solies, Borja Martos</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

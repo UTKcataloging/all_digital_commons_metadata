@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Integration of a Display for a Low Cost Laser Altimeter for General Aviation Applications</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hutcheson</lname>
+<fname>Scott</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This project began when Opti-Logic, a local manufacturer of laser rangefinders for military and sporting applications, expressed a desire to design an altimeter for General Aviation application to measure absolute altitude based on the laser range finder as a sensor. The sensor they chose was the RS400, which was originally designed for security applications. The purpose of this thesis was to aid Opti-Logic by designing and flight-testing an intuitive display for the laser altimeter. A Systems Engineering approach was used throughout the design process. A basic assumption in the design of the system is that a suitable laser sensor was available and as such, the sensor was treated as a Non Developmental Item.&lt;/p&gt;
+&lt;p&gt;The development of an intuitive display was problematic in that the concept of intuition can have differing meanings from one individual to another. As a result, the topic of perception and cognition with respect to aviation was explored fully to gain better insight into how a pilot processes altitude information. Additionally, even though the sensor was fixed in the design process, basic laser theory is presented to give the reader an understanding of the problems associated with this type of system and to provide background in the analysis of the performance of the system overall.&lt;/p&gt;
+&lt;p&gt;A system engineering approach was adopted for the design of the display. The development of the altimeter display from requirements analysis to prototype validation was accomplished. These steps represent only the first iteration of the design process.&lt;/p&gt;
+&lt;p&gt;Qualitative evaluation of the symbology demonstrated that the display design reduces total pilot workload. This was accomplished by reducing the cognition required to process the information a pilot needs to execute control of altitude. Recommendations for future iterations include:&lt;/p&gt;
+&lt;p&gt;1. Testing the display using the caution, alert, and fault indication symbology sets to determine the effectiveness of color-coding as an alert strategy.&lt;/p&gt;
+&lt;p&gt;2. Continue evolving the software to incorporate a more effective filtering technique to eliminate lag errors without increasing the noise of the system.&lt;/p&gt;
+&lt;p&gt;3. Incorporate a method of recording altitude information for quantitative analysis to support qualitative evaluation.&lt;/p&gt;
+&lt;p&gt;4. Increase the maximum value or the VSI from + 1000 fpm to + 2000 fpm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2074</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3435&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2074</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3435</articleid>
+<submission-date>2013-10-03T07:51:54-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4662329</context-key>
+<submission-path>utk_gradthes/2074</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. William D. Lewis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. U. Peter Solies, Dr. Ralph D. Kimberlin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

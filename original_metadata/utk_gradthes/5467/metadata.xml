@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Simulation of a Langmuir Probe Sampling a non-Maxwellian Plasma</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>asherrod@utsi.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Sherrod</lname>
+<fname>Alicia</fname>
+<mname>Claire</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Plasma diagnostics</keyword>
+<keyword>Langmuir Probe</keyword>
+<keyword>electrostatic probe</keyword>
+<keyword>nonequilibrium plasma</keyword>
+</keywords>
+<abstract>&lt;p&gt;Langmuir probes are diagnostic tools used to determine electron temperature, number density, and plasma potential. Single, double, and triple Langmuir probe configurations are commonly used in plasma diagnostics because of their relative simplicity. Typical Langmuir probe analysis for determining electron temperature and number density of the plasma (for a single, double, or triple Langmuir probe) includes an assumption that the plasma is in thermal equilibrium. While this assumption may be justified for some applications, it is unlikely that it is fully justifiable for pulsed and time-varying plasmas or for the entire time a plasma device is in use. In this work, Langmuir probe computer models sampled a range of simple equilibrium and non-equilibrium plasmas using fundamental governing equations of probe current collection to compute the current to the probes for a distribution function consisting of two Maxwellian distributions with different temperatures. A variation of this method was also employed, where one of the Maxwellians is offset from zero in velocity space (a drifted Maxwellian or bump-on-the-tail) to add a suprathermal beam of electrons to the tail of the main Maxwellian distribution. For a range of parameters in these non-Maxwellian distributions, the simulation calculates and stores current collection to the probes. Plasma parameters were extracted from the current and voltage curve by applying standard probe theory and compared with the known plasma density and temperature. The collected current from a non-Maxwellian electron distribution illustrates the effect a non-Maxwellian plasma has when interpreted using the equilibrium probe current collection theory, allowing us to examine the magnitudes of these deviations as a function of the assumed distribution properties. The results of the simulation indicate that all Langmuir probes are ill-suited to report accurate results for non-equilibrium plasmas. Plasmas with bump-on-the-tail electron probability distributions, typical in electric propulsion plasmas, are especially vulnerable to higher inaccuracy in probe measurements and additional investigations into alternative techniques is warranted.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5467</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6875&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5467</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6875</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528605</context-key>
+<submission-path>utk_gradthes/5467</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Montgomery Smith, Zhili Zhang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

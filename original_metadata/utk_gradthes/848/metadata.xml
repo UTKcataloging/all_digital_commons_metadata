@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Pixel-level Image Fusion Algorithms for Multi-camera Imaging System</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>szheng1@utk.edu</email>
+<lname>Zheng</lname>
+<fname>Sicong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Image fusion</keyword>
+<keyword>pixel-based</keyword>
+<keyword>multi-sensor</keyword>
+<keyword>morphing</keyword>
+</keywords>
+<abstract>&lt;p&gt;This thesis work is motivated by the potential and promise of image fusion technologies in the multi sensor image fusion system and applications. With specific focus on pixel level image fusion, the process after the image registration is processed, we develop graphic user interface for multi-sensor image fusion software using Microsoft visual studio and Microsoft Foundation Class library.  In this thesis, we proposed and presented some image fusion algorithms with low computational cost, based upon spatial mixture analysis. The segment weighted average image fusion combines several low spatial resolution data source from different sensors to create high resolution and large size of fused image. This research includes developing a segment-based step, based upon stepwise divide and combine process. In the second stage of the process, the linear interpolation optimization is used to sharpen the image resolution. Implementation of these image fusion algorithms are completed based on the graphic user interface we developed. Multiple sensor image fusion is easily accommodated by the algorithm, and the results are demonstrated at multiple scales. By using quantitative estimation such as mutual information, we obtain the experiment quantifiable results.  We also use the image morphing technique to generate fused image sequence, to simulate the results of image fusion.  While deploying our pixel level image fusion algorithm approaches, we observe several challenges from the popular image fusion methods. While high computational cost and complex processing steps of image fusion algorithms provide accurate fused results, they also makes it hard to become deployed in system and applications that require real-time feedback, high flexibility and low computation ability&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/848</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1841&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>848</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1841</articleid>
+<submission-date>2010-08-12T06:46:01-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1440220</context-key>
+<submission-path>utk_gradthes/848</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mongi A. Abidi, Seddik M. Djouadi, Andreas F. Koschan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

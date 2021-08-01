@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On-Line Learning and Wavelet-Based Feature Extraction Methodology for Process Monitoring using High-Dimensional Functional Data</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Omitaomu</lname>
+<fname>Olufemi</fname>
+<mname>Abayomi</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The recent advances in information technology, such as the various automatic data acquisition systems and sensor systems, have created tremendous opportunities for collecting valuable process data. The timely processing of such data for meaningful information remains a challenge. In this research, several data mining methodology that will aid information streaming of high-dimensional functional data are developed.&lt;/p&gt;
+&lt;p&gt;For on-line implementations, two weighting functions for updating support vector regression parameters were developed. The functions use parameters that can be easily set a priori with the slightest knowledge of the data involved and have provision for lower and upper bounds for the parameters. The functions are applicable to time series predictions, on-line predictions, and batch predictions. In order to apply these functions for on-line predictions, a new on-line support vector regression algorithm that uses adaptive weighting parameters was presented. The new algorithm uses varying rather than fixed regularization constant and accuracy parameter. The developed algorithm is more robust to the volume of data available for on-line training as well as to the relative position of the available data in the training sequence. The algorithm improves prediction accuracy by reducing uncertainty in using fixed values for the regression parameters. It also improves prediction accuracy by reducing uncertainty in using regression values based on some experts’ knowledge rather than on the characteristics of the incoming training data. The developed functions and algorithm were applied to feedwater flow rate data and two benchmark time series data. The results show that using adaptive regression parameters performs better than using fixed regression parameters.&lt;/p&gt;
+&lt;p&gt;In order to reduce the dimension of data with several hundreds or thousands of predictors and enhance prediction accuracy, a wavelet-based feature extraction procedure called step-down thresholding procedure for identifying and extracting significant features for a single curve was developed. The procedure involves transforming the original spectral into wavelet coefficients. It is based on multiple hypothesis testing approach and it controls family-wise error rate in order to guide against selecting insignificant features without any concern about the amount of noise that may be present in the data. Therefore, the procedure is applicable for data-reduction and/or data-denoising. The procedure was compared to six other data-reduction and data-denoising methods in the literature. The developed procedure is found to consistently perform better than most of the popular methods and performs at the same level with the other methods.&lt;/p&gt;
+&lt;p&gt;Many real-world data with high-dimensional explanatory variables also sometimes have multiple response variables; therefore, the selection of the fewest explanatory variables that show high sensitivity to predicting the response variable(s) and low sensitivity to the noise in the data is important for better performance and reduced computational burden. In order to select the fewest explanatory variables that can predict each of the response variables better, a two-stage wavelet-based feature extraction procedure is proposed. The first stage uses step-down procedure to extract significant features for each of the curves. Then, representative features are selected out of the extracted features for all curves using voting selection strategy. Other selection strategies such as union and intersection were also described and implemented. The essence of the first stage is to reduce the dimension of the data without any consideration for whether or not they can predict the response variables accurately. The second stage uses Bayesian decision theory approach to select some of the extracted wavelet coefficients that can predict each of the response variables accurately. The two stage procedure was implemented using near-infrared spectroscopy data and shaft misalignment data. The results show that the second stage further reduces the dimension and the prediction results are encouraging.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1840</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3263&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1840</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3263</articleid>
+<submission-date>2013-08-26T13:16:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4504670</context-key>
+<submission-path>utk_graddiss/1840</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adedeji B Bariru, Myong K. Jeong</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fong-Yuen Ding, Dukwon Kim, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

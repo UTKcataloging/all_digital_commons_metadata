@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sparse Matrix Sparse Vector Multiplication using Parallel and Reconfigurable Computing</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Baugher</lname>
+<fname>Kirk</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this thesis is to provide analysis and insight into the implementation of sparse matrix sparse vector multiplication on a reconfigurable parallel computing platform. Common implementations of sparse matrix sparse vector multiplication are completed by unary processors or parallel platforms today. Unary processor implementations are limited by their sequential solution of the problem while parallel implementations suffer from communication delays and load balancing issues when preprocessing techniques are not used or unavailable. By exploiting the deficiencies in sparse matrix sparse vector multiplication on a typical unary processor as a strength of parallelism on a Field Programmable Gate Array (FPGA), the potential performance improvements and tradeoffs for shifting the operation to hardware assisted implementation will be evaluated. This will simply be accomplished through multiple collaborating processes designed on an FPGA.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4651</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6254&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4651</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6254</articleid>
+<submission-date>2017-08-02T10:29:28-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10531609</context-key>
+<submission-path>utk_gradthes/4651</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Kwai L. Wong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

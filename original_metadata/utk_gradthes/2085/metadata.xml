@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neural Supernets: Structuring Artificial Neural Networks According to Cluster Analysis</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Winberg</lname>
+<fname>Simon</fname>
+<mname>Lucas</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;A typical feed forward neural network relies solely on its training algorithm, such as backprop or quickprop, to determine suitable weight values for an architecture chosen by the human operator. The architecture itself is typically a fully connected structuring of neurons and synapses where each hidden neuron is connected to every neuron in the next layer. Such architecture does not reflect the structure of the data used to train it. Similarly, in the case where random initial weight values are used, these initial weights are also unlikely to relate to the training set. Thus the job of the training algorithm is to adjust these weights without any initial suggestion for the structure and general trends present in the training data.&lt;/p&gt;
+&lt;p&gt;This thesis investigates the effect of restructuring a typical fully connected architecture into a collection of &lt;em&gt;subnets&lt;/em&gt; and processing &lt;em&gt;modules&lt;/em&gt; that exhibit an application specific ordering. The conglomeration of these modules and subnets will be called a &lt;em&gt;supernet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The processing modules use techniques such as cluster analysis to find general patterns within the training set – somewhat like a low-resolution representation of trends within the data. The subnets are then used for “drilling deeper” into examples that exhibit these trends to produce a higher-resolution representation of aspects within the training set. Additional modules, referred to as &lt;em&gt;dicer&lt;/em&gt; and &lt;em&gt;splicer&lt;/em&gt; agents in the text, are used to respectively direct training examples to certain subnets, and join outputs from different subnets. The resultant structure of a supernet is similar to that of a neural network, but instead of being made up purely of neurons and synapses, a supernet is rather an assemblage of processing modules and neural subnets connected with dicers and splicers.&lt;/p&gt;
+&lt;p&gt;The goal of this thesis is to demonstrate practical advantages of supernets and how they can improve are reviewed and compared with a standard fully connected neural network structure.&lt;/p&gt;
+&lt;p&gt;The results of this practical evaluation show that there are definite benefits to the supernet technique, such as the Classification Based on Subnet Error (CBSE) model that works well with clusters that exhibit dissimilar local behavior. Since a supernet is designed specifically for certain types of application, it cannot be expected to improve performance for general applications. Thus it is necessary to develop a specially tailored supernet for the particular type of application for which it will be used. Although this can result in more work for the neural network developer, it is possible to radically reduce this workload by reusing modules and having a quick and simple means to connect them. If similar types of applications occur frequently, then the effort in developing supernets for these reoccurring applications should provide long-term benefits, since in the long run it will be easier to acquire trained neural networks for these applications. Such an effect is not necessarily achieved using standard neural networks since they are designed for universal use and as such do not have a structure that is optimized for specific types of application.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2085</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3454&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2085</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3454</articleid>
+<submission-date>2013-10-03T11:13:23-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4663637</context-key>
+<submission-path>utk_gradthes/2085</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce A. whitehead</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth R. Kimble, Bruce W. Bomar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Applications of Evolutionary Bioinformatics in Basic and Biomedical Research</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>oadebali@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Adebali</lname>
+<fname>Ogun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>protein domain</keyword>
+<keyword>phylogenetic profiling</keyword>
+<keyword>missense mutation prediction</keyword>
+<keyword>orthologs and paralogs</keyword>
+<keyword>phylogenetics</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Genomics</discipline>
+<discipline>Other Genetics and Genomics</discipline>
+</disciplines><abstract>&lt;p&gt;With the revolutionary progress in sequencing technologies, computational biology emerged as a game-changing field which is applied in understanding molecular events of life for not only complementary but also exploratory purposes. Bioinformatics resources and tools significantly help in data generation, organization and analysis. However, there is still a need for developing new approaches built based on a biologist’s point of view. In protein bioinformatics, there are several fundamental problems such as (i) determining protein function; (ii) identifying protein-protein interactions; (iii) predicting the effect of amino acid variants. Here, I present three chapters addressing these problems from an evolutionary perspective. Firstly, I describe a novel search pipeline for protein domain identification. The algorithm chain provides sensitive domain assignments with the highest possible specificity. Secondly, I present a tool enabling large-scale visualization of presences and absences of proteins in hierarchically clustered genomes. This tool visualizes multi-layer information of any kind of genome-linked data with a special focus on domain architectures, enabling identification of coevolving domains/proteins, which can eventually help in identifying functionally interacting proteins. And finally, I propose an approach for distinguishing between benign and damaging missense mutations in a human disease by establishing the precise evolutionary history of the associated gene. This part introduces new criteria on how to determine functional orthologs via phylogenetic analysis. All three parts use comparative genomics and/or sequence analyses. Taken together, this study addresses important problems in protein bioinformatics and as a whole it can be utilized to describe proteins by their domains, coevolving partners and functionally important residues.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3540</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4985&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3540</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4985</articleid>
+<submission-date>2015-09-28T13:12:52-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7651156</context-key>
+<submission-path>utk_graddiss/3540</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Igor B. Jouline</value>
+</field>
+<field name="advisor2" type="string">
+<value>Albrecht von Arnim, Jerome Baudry, Elias Fernandez</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Table_5_3.xlsx</archive-name>
+<upload-name>Table_5_3.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=4985&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+</file>
+<file>
+<archive-name>DataSet_5_1.xlsx</archive-name>
+<upload-name>DataSet_5_1.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=4985&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>Data Set 5.1</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

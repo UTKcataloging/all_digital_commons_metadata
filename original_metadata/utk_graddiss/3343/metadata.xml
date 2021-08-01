@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Monte Carlo Methods in Finance</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jkim74@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kim</lname>
+<fname>Je Guk</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Monte Carlo</keyword>
+<keyword>Quasi-regression</keyword>
+<keyword>Importance sampling</keyword>
+<keyword>Exponential Brownian functional</keyword>
+<keyword>American option</keyword>
+</keywords>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+<discipline>Probability</discipline>
+</disciplines><abstract>&lt;p&gt;Monte Carlo method has received significant consideration from the context of quantitative finance mainly due to its ease of implementation for complex problems in the field. Among topics of its application to finance, we address two topics: (1) optimal importance sampling for the Laplace transform of exponential Brownian functionals and (2) analysis on the convergence of quasi-regression method for pricing American option. In the first part of this dissertation, we present an asymptotically optimal importance sampling method for Monte Carlo simulation of the Laplace transform of exponential Brownian functionals via Large deviations principle and calculus of variations the closed form solutions of which induces an optimal measure for sampling. Some numerical tests are conducted through the Dothan bond pricing model, which shows the method achieves a significant variance reduction. Secondly, we study the convergence of a quasi-regression Monte Carlo method proposed by Glasserman and Yu (2004) that is a variant of least-squares method proposed by Longstaff and Schwartz (2001) for pricing American option. Glasserman and Yu (2004) showed that the method converges to an approximation to the true price of American option with critical relations between the number of paths simulated and the number of basis functions for two examples: Brownian motion and geometric Brownian motion. We show that the method surely converges to the true price of American option even under multiple underlying assets and prove a more promising critical relation between the number of basis functions and the number of simulations in the previous study holds. Finally, we propose a rate of convergence of the method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3343</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4787&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3343</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4787</articleid>
+<submission-date>2015-04-08T18:32:22-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6962245</context-key>
+<submission-path>utk_graddiss/3343</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Russell Zaretski</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xia Chen, Bogdan Bichescu, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

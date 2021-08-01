@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Microgrid Modeling and Grid Interconnection Studies</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hsaleem1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Saleem</lname>
+<fname>Hira Amna</fname>
+</author>
+</authors>
+<keywords>
+<keyword>microgrid</keyword>
+<keyword>stability</keyword>
+<keyword>decision trees</keyword>
+<keyword>grid</keyword>
+<keyword>islanding</keyword>
+<keyword>distributed generation</keyword>
+<keyword>Kundur&#39;s two-area system</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;The demand for renewable energies and their integration to the grid has become more pressing than ever before due to the various reasons including increasing population energy demand, depleting fossil fuels, increasing atmospheric population, etc. Thus the vision of a sustainable future requires easy and reliable integration of renewable distributed generators to the grid. This master’s thesis studies the dynamics of distributed generators when they are connected with the main grid. Simulink MATLAB is used for the design and simulations of this system. Three distributed generators are used in this system: Photo-voltaic converter, Fuel cell and diesel generator. The control and design of the power electronics converters is done to function properly in both grid-connected and islanding mode. The turbine governors in diesel generators control the proper functioning of diesel generator in both modes. The converters in both battery and PV make sure that they work properly in both grid-connected and islanding mode. The control of battery converter is designed in a way to function for load-shaving during unplanned load changes in the microgrid. This fully functioning microgrid is then connected with the main grid using Kundur’s two-area system and simulated for various faults and load changes. A collection of data at the point of common coupling which is the point of connection of microgrid and main grid is gathered for various cases in the grid-connected mode. The cases for faults in the external grid are simulated and then WEKA software is used to develop decision trees. The development of the decision trees can help in predicting the decision of islanding of microgrid. By increasing this database for more scenarios; the response of the generators in grid and distributed generators in microgrid can be studied with decision trees giving more accurate results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2756</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4007&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2756</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4007</articleid>
+<submission-date>2014-02-28T12:29:46-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4007/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5239095</context-key>
+<submission-path>utk_gradthes/2756</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Fran Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

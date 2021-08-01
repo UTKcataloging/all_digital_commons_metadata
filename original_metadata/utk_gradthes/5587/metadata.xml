@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fieldable Neutron Imaging System:  Simulation and Experimentation into the Viability of Associated Particle Imaging in Austere Field Environments</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>btroxell@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Troxell</lname>
+<fname>Benjamin</fname>
+<mname>Charles</mname>
+</author>
+</authors>
+<keywords>
+<keyword>associated particle imaging</keyword>
+<keyword>14.1 MeV neutron</keyword>
+<keyword>fast-neutron radiograph</keyword>
+<keyword>MCNPtools Ptrac</keyword>
+<keyword>misalignment study</keyword>
+</keywords>
+<abstract>&lt;p&gt;This thesis is the culmination of an effort to develop a portable fast neutron radiography device capable of generating images of the internal structure of high Z objects non-intrusively in austere field environments. This work represents the first advancement to this end for the Fieldable Nuclear Materials Identification System (FNMIS). The effort was two pronged in its approach. First, a physical system was constructed and tested in an effort to reduce size and overall system weight. Simultaneously, a new simulation workspace was developed to test objects unavailable for physical imaging. The physics of the simulation were modeled utilizing the latest version of MCNP 6.2. Post processing and image reconstruction were completed utilizing Python 3.7 employing the mcnptools module to study the content of MCNP’s PTRAC file. As part of this simulation process, a new beam characterization profile for the Russian ING-27 DT generator has been developed. The result is a double gaussian fit comparable to the characterization of the Thermo Scientific API-120 system. A series of objects and misalignment experiments were conducted. The result of this work is an agreement between the results of simulations and those of the laboratory measurements. Significant advances in setup time, alignment techniques, and required time of exposure were all made as part of the construction process. This work paves the way for the application of neural networks to improving misalignment assessment and image quality.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5587</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7121&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5587</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7121</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539074</context-key>
+<submission-path>utk_gradthes/5587</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Heilbronn, Howard Hall</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Tensor Based Monitoring of Large-Scale Network Traffic</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Liso</lname>
+<fname>Gerald</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Network monitoring systems are important for network operators to easily analyze behavioral trends in flow data. As networks become larger and more complex, the data becomes more complex with increased size and more variables. This increase in dimensionality lends itself to tensor-based analysis of network data as tensors are arbitrarily sized multi-dimensional objects. Tensor-based network monitoring methods have been explored in recent years through work at Carnegie Mellon University through their algorithm DenseAlert. DenseAlert identifies events anomalous events in tensors through quick detection of dense sub-tensors in positive-valued tensors. However, from experimentation, DenseAlert fails on larger datasets. Drawing from RED Alert, we developed an algorithm called RED Alert that uses recursive filtering and expansion to handle anomaly detection in large tensors of positive and negative valued data. This is done through the use of network parameters that are structured in a hierarchical fashion. That is, network traffic is first modeled at low granular data (e.g. host country), and events detected as anomalous in lower spaces are tracked down to higher granular data (e.g. host IP). The tensors are built on-the-fly in streaming data, filtering data to only consider the parameters deemed anomalous in previous granularity levels. RED Alert is showcased on two network monitoring examples, packet loss detection and botnet detection, comparing results to DenseAlert. In both cases, RED Alert was able to detect suspicious events and identify the root cause of the behavior from a sole IP. RED Alert was developed as part of a greater project, InSight2, that provides several different network monitoring dashboards to aid network operators. This required additional development of a tensor library that worked in the context of InSight2 as well as the development of a dashboard that could run the algorithm and display the results in meaningful ways.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5390</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6800&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5390</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6800</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343261</context-key>
+<submission-path>utk_gradthes/5390</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Audris Mockus, Michael G. Thomason</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

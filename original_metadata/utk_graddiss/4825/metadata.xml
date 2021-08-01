@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of Inveon Pre-Clinical Positron Emission Tomography (PET) Scanner Geant4 Application for Tomographic Imaging (GATE) Model for Multi-Positron Emission Particle Tracking (M-PEPT)</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Santos Torres</lname>
+<fname>Roque</fname>
+<mname>Antonio</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Positron Emission Particle Tracking</keyword>
+<keyword>Multiple Particle Tracking</keyword>
+<keyword>GATE</keyword>
+<keyword>Inveon Evaluation</keyword>
+</keywords>
+<abstract>&lt;p&gt;A Sodium-22 point source of activity 10 μCi [microcurie] is moved through an Inveon Pre-Clinical Positron Emission Tomography (PET) scanner, and the scan data are sent to Multi-Positron Emission Particle Tracking (M-PEPT) software to recreate the particle track. A Geant4 Application for Tomographic Imaging (GATE) model of the Inveon is used to simulate the scanner response to point source movements identical to those prescribed in experiments. Simulated and physical experiment outcomes are compared to qualify the GATE model for the M-PEPT application. GATE over predicts the number of detected coincident lines (CL). The standard deviation of particle positions predicted by M-PEPT using GATE data is similar to the standard deviation produced by M-PEPT using scanner data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4825</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6365&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4825</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6365</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276482</context-key>
+<submission-path>utk_graddiss/4825</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>John D. Auxier II, Lawrence Heilbronn, Dustin Osborne</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding three-body interactions in hexagonal close packed solid He-4</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>alocke5@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Barnes</lname>
+<fname>Ashleigh</fname>
+<mname>Locke</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Solid He-4</keyword>
+<keyword>Three-Body Interactions</keyword>
+<keyword>Quantum Monte Carlo</keyword>
+<keyword>Equation of State</keyword>
+<keyword>Elastic Constants</keyword>
+<keyword>Quantum Solid</keyword>
+</keywords>
+<disciplines><discipline>Condensed Matter Physics</discipline>
+<discipline>Physical Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;The ground state properties of hexagonal close packed (hcp) solid &lt;sup&gt;4&lt;/sup&gt;He [He-4] are dominated by large atomic zero point motions which make the primary contribution to the solid’s low-temperature Debye-Waller (DW) factors. Preliminary investigations have also suggested that three-body interactions can play an important role in this system, particularly at higher densities. However, due to their computational cost, these interactions are not generally incorporated into theoretical models of solid &lt;sup&gt;4&lt;/sup&gt;He [He-4]. In order to accurately treat both zero point motion and three-body interactions, we have developed a perturbative treatment in which the three-body energy is added as a correction to the two-body energy obtained from variational quantum Monte Carlo (VMC) and variational path integral Monte Carlo (VPI) simulations. The accuracy of this approach is verified via comparison to simulations in which a three-body potential energy function is fully incorporated into the potential energy calculations throughout the simulations. These methods are used to calculate the ground state energy and DW factors of hcp &lt;sup&gt;4&lt;/sup&gt;He [He-4] over a range of molar volumes from 2.5 cm&lt;sup&gt;3&lt;/sup&gt;/mol [cubic centimeters/mol] to 21.3 cm&lt;sup&gt;3&lt;/sup&gt;/mol [cubic centimeters/mol] at T = 0 K. DWfactors from two-body simulations are found to be in good agreement with existing two-body models; however, neither two- nor three-body simulations can account for the 20% anisotropy in the DW factors recently reported by Blackburn, et al. Pressure-volume equations of state (EOSs) are derived from the energies obtained from all simulations. Incorporating three-body interactions brings the calculated pressures into much closer agreement with experimental values, and EOSs derived from both the perturbative and full-incorporation treatments of three-body interactions are nearly indistinguishable. This indicates that over this molar volume range, the computationally efficient perturbative method is sufficient to account for three-body interactions. Finally, the nonzero elastic constants are calculated via the bulk modulus, K, and the three pure shear constants C&lt;sub&gt;0&lt;/sub&gt; [C_0], C&lt;sub&gt;66&lt;/sub&gt; [C_66], and C&lt;sub&gt;44&lt;/sub&gt; [C_44] which are obtained from simulations of distorted hcp &lt;sup&gt;4&lt;/sup&gt;He [He-4] lattices. The results show that while three-body interactions affect the pure shear constants at higher densities, their influence on &lt;em&gt;K&lt;/em&gt; is non-negligible even at low densities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4383</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5855&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4383</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5855</articleid>
+<submission-date>2017-02-24T12:23:38-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9746128</context-key>
+<submission-path>utk_graddiss/4383</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Z. Larese, Tessa R. Calhoun, Thomas Papenbrock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

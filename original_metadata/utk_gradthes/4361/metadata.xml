@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Numerical Algorithm For Solving the Nonlinear Differential Equations that Describe a Multistage Flash Evaporator</title>
+<publication-date>1970-06-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Anderson</lname>
+<fname>Maurice</fname>
+<mname>Manning</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A numerical algorithm is formulated to solve the first order, nonlinear differential equations that describe a multistage flash evaporator. The nonlinearities appearing in the formulation of the algorithm are products of up to three terms with each term being a dependent variable raised to some power.&lt;/p&gt;
+&lt;p&gt;To develop the algorithm, the first order differential equations are written in integral form. The dependent variables are then assumed to have a purely exponential dependence over a finite time step thereby allowing for the explicit integration of all terms. The solution of the differential equations is then reduced to the determination of the exponential dependences. The exponential dependences are determined by an iterative method.&lt;/p&gt;
+&lt;p&gt;A computer code based upon the aforementioned algorithm was written. Before the algorithm was used to obtain solutions to a flash evaporator system, it was applied to several differential equations with known solutions. The algorithm was then used to obtain solutions for two perturbations in the twenty-third order system that describes a three stage flash evaporator. These solutions are compared with solutions obtained by other methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4361</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5803&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4361</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5803</articleid>
+<submission-date>2017-02-24T06:17:47-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9742755</context-key>
+<submission-path>utk_gradthes/4361</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J.C. Robinson</value>
+</field>
+<field name="advisor2" type="string">
+<value>T.W. Kerlin, Hale C. Roland</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1970-06-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1970-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

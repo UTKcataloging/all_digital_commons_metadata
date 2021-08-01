@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Conditional Image Synthesis by Generative Adversarial Modeling</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zzhang61@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Zhifei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>image synthesis</keyword>
+<keyword>conditional GAN</keyword>
+<keyword>face aging</keyword>
+<keyword>super-resolution</keyword>
+<keyword>decoupled learning</keyword>
+<keyword>generative modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recent years, image synthesis has attracted more interests. This work explores the recovery of details (low-level information) from high-level features. The generative adversarial nets (GAN) has led to the explosion of image synthesis. Moving away from those application-oriented alternatives, this work investigates its intrinsic drawbacks and derives corresponding improvements in a theoretical manner.Based on GAN, this work further investigates the conditional image synthesis by incorporating an autoencoder (AE) to GAN. The GAN+AE structure has been demonstrated to be an effective framework for image manipulation. This work emphasizes the effectiveness of GAN+AE structure by proposing the conditional adversarial autoencoder (CAAE) for human facial age progression and regression. Instead of editing on the image level, i.e., explicitly changing the shape of face, adding wrinkle, etc., this work edits the high-level features which implicitly guide the recovery of images towards expected appearance.While GAN+AE being prevalent in image manipulation, its drawbacks lack exploration. For example, GAN+AE requires a weight to balance the effects of GAN and AE. An inappropriate weight would generate unstable results. This work provides an insight to such instability, which is due to the interaction between GAN and AE. Therefore, this work proposes the decoupled learning (GAN//AE) to avoid the interaction between them and achieve a robust and effective framework for image synthesis. Most existing works used GAN+AE structure could be easily adapted to the proposed GAN//AE structure to boost their robustness. Experimental results demonstrate the correctness and effectiveness of the provided derivation and proposed methods, respectively.In addition, this work extends the conditional image synthesis to the traditional area of image super-resolution, which recovers the high-resolution image according the low-resolution counterpart. Diverting from such traditional routine, this work explores a new research direction | reference-conditioned super-resolution, in which a reference image containing desired high-resolution texture details is used besides the low-resolution image. We focus on transferring the high-resolution texture from reference images to the super-resolution process without the constraint of content similarity between reference and target images, which is a key difference from previous example-based methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5257</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6801&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5257</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6801</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342770</context-key>
+<submission-path>utk_graddiss/5257</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Husheng Li, Russell Zaretzki</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-0466-9548</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in conferences CVPR, ICML, and WACV, as well as the public repository arXiv.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

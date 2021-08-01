@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Role Of Simulation In The Test And Evaluation Of A Man In The Loop Weapon System</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Henry</lname>
+<fname>Keith</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Department of Defense has attempted to use recent advances in modeling and simulation to improve the acquisition process for weapons systems. This Simulation Based Acquisition brought advances in the process, but considerable disagreement remains over the universal applicability of this approach. This paper focuses on the challenges of applying modeling and simulation to the Test and Evaluation of a weapon system with significant Pilot-Vehicle interface concerns.&lt;/p&gt;
+&lt;p&gt;The Standoff Land Attack Missile Expanded Response (SLAM ER) is an aircraft-launched missile with GPS/INS guidance for navigation to the target area and Man In The Loop (MITL) control in the terminal phase. The MITL control is conducted through a two way video and control data link which transmits infrared video from the missile seeker to the control aircraft and guidance update commands from the pilot back to the missile. After initial fielding of the weapon system, two preplanned product improvement programs were begun to add both an Automatic Target Acquisition (ATA) functionality to aid in pilot target identification as well as a capability to engage moving targets at sea (ASuW). Both Software in the Loop and Hardware in the Loop simulations were available for the testing of both these SLAM ER improvements. This paper focuses on the utility of this simulation support in the Test and Evaluation prior to delivery to the operational users. Though the management issues of cost and schedule can be large drivers in the use of modeling and simulation, this paper will focus on the performance aspect of weapon system evaluation.&lt;/p&gt;
+&lt;p&gt;Through the course of both the ATA and ASuW evaluations, simulation was able to provide very limited contributions to evaluations of system performance when MITL control was a concern. Simulation was useful in providing data on easily quantifiable parameters, such as seeker scan rates. However, flight tests with a physical prototype provided the only effective data when subjective measures such as pilot workload and pilot target identification were a concern. The simulators available did not effectively replicate the pilot interface or workload environment to the level required for valid MITL data. Only when an issue with the pilot interface was easily defined in quantifiable engineering data was simulation useful in identifying a possible solution – one that had to be further evaluated in subsequent flight testing.&lt;/p&gt;
+&lt;p&gt;As the quality of models and simulations continue to improve with advances in computing, modeling of the pilot vehicle interfaces may improve in the future. Until that time, management controls will be essential to correct application of modeling and simulation in areas where MITL is a concern. The development of models and simulations should begin early in the acquisition effort with robust verification and validation devoted to the pilot interface. Early identification of the areas in which simulations can contribute to the MITL evaluation effort as well as recognition of the limitations of models and simulations. Finally, the validated simulations should be viewed as an enhancement to the evaluation effort with live testing of the physical prototype forming the basis of the MITL evaluation, particularly when the system approaches the final phases of Developmental Testing and prepares for Operational Testing.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2001</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3362&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2001</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3362</articleid>
+<submission-date>2013-09-27T12:36:57-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4641024</context-key>
+<submission-path>utk_gradthes/2001</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Frank Collins</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ted Paludan, George Masters</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

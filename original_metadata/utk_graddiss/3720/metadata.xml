@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of an Integrated Biosensor Platform for Lab-on-a-Chip Diabetic Care Systems</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kmamun@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mamun</lname>
+<fname>Khandaker Abdullah Al</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Diabetes</keyword>
+<keyword>VACNF</keyword>
+<keyword>Poentiostat</keyword>
+<keyword>Bowel</keyword>
+<keyword>Feature Extractor</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Electronic Devices and Semiconductor Manufacturing</discipline>
+<discipline>Nanotechnology Fabrication</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Recent advances in semiconductor processing and microfabrication techniques allow the implementation of complex microstructures in a single platform or lab on chip. These devices require fewer samples, allow lightweight implementation, and offer high sensitivities. However, the use of these microstructures place stringent performance constraints on sensor readout architecture. In glucose sensing for diabetic patients, portable handheld devices are common, and have demonstrated significant performance improvement over the last decade. Fluctuations in glucose levels with patient physiological conditions are highly unpredictable and glucose monitors often require complex control algorithms along with dynamic physiological data. Recent research has focused on long term implantation of the sensor system. Glucose sensors combined with sensor readout, insulin bolus control algorithm, and insulin infusion devices can function as an artificial pancreas. However, challenges remain in integrated glucose sensing which include degradation of electrode sensitivity at the microscale, integration of the electrodes with low power low noise readout electronics, and correlation of fluctuations in glucose levels with other physiological data. This work develops 1) a low power and compact glucose monitoring system and 2) a low power single chip solution for real time physiological feedback in an artificial pancreas system.&lt;/p&gt;
+&lt;p&gt;First, glucose sensor sensitivity and robustness is improved using robust vertically aligned carbon nanofiber (VACNF) microelectrodes. Electrode architectures have been optimized, modeled and verified with physiologically relevant glucose levels.&lt;/p&gt;
+&lt;p&gt;Second, novel potentiostat topologies based on a difference-differential common gate input pair transimpedance amplifier and low-power voltage controlled oscillators have been proposed, mathematically modeled and implemented in a 0.18μm [micrometer] complementary metal oxide semiconductor (CMOS) process. Potentiostat circuits are widely used as the readout electronics in enzymatic electrochemical sensors. The integrated potentiostat with VACNF microelectrodes achieves competitive performance at low power and requires reduced chip space.&lt;/p&gt;
+&lt;p&gt;Third, a low power instrumentation solution consisting of a programmable charge amplifier, an analog feature extractor and a control algorithm has been proposed and implemented to enable continuous physiological data extraction of bowel sounds using a single chip. Abdominal sounds can aid correlation of meal events to glucose levels. The developed integrated sensing systems represent a significant advancement in artificial pancreas systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3720</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5168&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3720</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5168</articleid>
+<submission-date>2016-02-25T08:28:06-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8214846</context-key>
+<submission-path>utk_graddiss/3720</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicole McFarlane</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jayne Wu, Nathanael Paul, Syed K. Islam, Ramki Kalyanaraman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Floating WIM Threshold Concept for Truck Weight Enforcement</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gu</lname>
+<fname>Zhongren</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Weigh stations are the primary weight compliance checkpoints for commercial trucks.  In the past several decades, states have used weigh-in-motion (WIM) technology to reduce delay and increase enforcement on overweight vehicles.  This study offers a detailed analysis of weigh station systems and presents floating-threshold algorithms to improve the efficiency of WIM equipped weigh stations.&lt;/p&gt;
+&lt;p&gt;This research evaluates weigh station design and operational parameters using queueing theory and found that WIM technology not only enhances the effectiveness and efficiency of weigh station operations but also largely reduces travel delay for trucking companies.  The effects of truck demand, truck weight distribution, static scale service time, WIM accuracy, and sorting threshold on weigh station operations have been analyzed.  The author shows the importance of transponders in a WIM mainline weigh station operation.  The author also proves that the increase of storage spaces within a weigh station may largely increase truck travel delay and does not significantly improve weigh station operations.&lt;/p&gt;
+&lt;p&gt;This research focuses on the development of floating-threshold algorithms.  Since the number of trucks, particularly heavy trucks, has increased rapidly in recent decades, many weigh stations cannot meet the demand even when equipped with WIM systems.  This problem is complicated by the fact that truck demands, truck weight distribution, and static scale service time vary by time of day and day of week.  The author designed floating-threshold algorithms to automatically adapt to high truck demand and the varying of truck demand, truck weight distribution, and static scale service time, over time.  When the queue at the weigh station is long, the threshold value is increased so as to avoid the closure of the weigh station while still catching the worst weight limit offenders.  When the queue is short, the threshold value is lowered to increase the number of trucks inspected.  Both the traditional fixed-threshold strategy and two floating-threshold strategies were modeled and tested using a microscopic simulation model.  The results show that floating-threshold strategies are both more effective in weight enforcement and more efficient for heavy traffic flow and high-variance environments.  The finding that different floating-threshold strategies have different effects indicates that it is necessary to make a further study on floating-threshold algorithms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2022</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3456&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2022</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3456</articleid>
+<submission-date>2013-09-24T10:51:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4618264</context-key>
+<submission-path>utk_graddiss/2022</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee  Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tom Urbanik, Arun Chatterjee, Halima Bensmail</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

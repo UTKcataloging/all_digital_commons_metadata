@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Minimizing Job Completion Time Variance for Service Stability on Identical Parallel Machines</title>
+<publication-date>2010-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xueping.li@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Xueping</fname>
+</author>
+<author>
+<lname>Chen</lname>
+<fname>Yuerong</fname>
+</author>
+<author>
+<lname>Sun</lname>
+<fname>Yang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>job scheduling</keyword>
+<keyword>service stability</keyword>
+<keyword>Completion Time Variance (CTV)</keyword>
+<keyword>optimization</keyword>
+<keyword>just-in-time</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper addresses a job scheduling problem on multiple identical parallel machines so as to minimize job completion time variance (CTV). CTV minimization is closely related to the Just-In-Time philosophy and the service stability concept since it penalizes both earliness and tardiness. Its applications can be found in many real-life areas such as Internet data packet dispatching and production planning. This paper focuses on the unrestricted case of the problem where idle times are allowed to exist before machines start to process jobs. We prove several dominant properties about the optimal solution to the problem. For instance, we prove that the mean completion time (MCT) on each machine should be the same under an optimal schedule. Based on these properties, an efficient heuristic algorithm is proposed. Computational experiments are conducted to test the performance of the proposed algorithm. The outputs demonstrate that the proposed algorithm is near optimal for small problem instances and greatly outperforms some existing algorithms for large problem instances.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/21</coverpage-url>
+<label>21</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1019</articleid>
+<submission-date>2010-08-31T11:11:38-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1490041</context-key>
+<submission-path>utk_indupubs/21</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Xueping Li, Yuerong Chen and Yang Sun (2010) &quot; Minimizing Job Completion Time Variance for Service Stability on Identical Parallel Machines&quot;, &lt;em&gt;Computers &amp; Industrial Engineering&lt;/em&gt;, (doi:10.1016/j.cie.2010.02.002).</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-08-31T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V27-4YDKJT8-2&amp;_user=422010&amp;_coverDate=05%2F31%2F2010&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_origin=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1446433717&amp;_rerunOrigin=google&amp;_acct=C000019958&amp;_version=1&amp;_urlVersion=0&amp;_userid=422010&amp;md5=ab10f0365ba0187767b3a35e8916d22e&amp;searchtype=a</value>
+</field>
+</fields>
+</document>
+</documents>

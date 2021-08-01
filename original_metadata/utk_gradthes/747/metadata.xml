@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Propagation of Periodic Waves Using Wave Confinement</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>psanemat@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sanematsu</lname>
+<fname>Paula</fname>
+<mname>Cysneiros</mname>
+</author>
+</authors>
+<keywords>
+<keyword>wave confinement</keyword>
+<keyword>periodic waves</keyword>
+<keyword>numerical methods</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Other Aerospace Engineering</discipline>
+<discipline>Other Applied Mathematics</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis studies the behavior of the Eulerian scheme, with &quot;Wave Confinement&quot; (WC), when propagating periodic waves. WC is a recently developed method that was derived from the scheme &quot;vorticity confinement&quot; used in fluid mechanics, and it efficiently solves the linear wave equation. This new method is applicable for numerous simulations such as radio wave propagation, target detection, cell phone and satellite communications.&lt;/p&gt;
+&lt;p&gt;The WC scheme adds a nonlinear term to the discrete wave equation that adds stability with negative and positive diffusion, conserves integral quantities such as total amplitude and wave speed, and it allows wave propagation over long distances with minimal numerical diffusion, which contrasts to other numerical methods where wave propagation is affected by numerical dissipation. Previous studies have shown that WC propagates short pulses/surfaces as thin nonlinear solitary waves. In this thesis, a one-dimensional (1D) periodic wave is propagated by WC using the advection and wave equations.&lt;/p&gt;
+&lt;p&gt;For the advection equation, the parameters and the initial condition (IC) used in WC are analyzed to establish for which conditions the method can be implemented. When the IC is a positive periodic wave, the converged solution consists of a series of hyperbolic secants where the number of cycles of the IC represents the number of hyperbolic secants. Waves with varying signs are analyzed by changing the wave confinement term. For this case, the converged solution is a series of positive and negative hyperbolic secants where each hyperbolic secant is represented by half cycle of the IC.&lt;/p&gt;
+&lt;p&gt;For the wave equation, parameters and different IC&#39;s are studied to determine when WC is feasible. For positive periodic waves, the converged solution retains its sinusoidal shape and does not converge to a series of hyperbolic secants. The waves with varying signs, however, converge to a series of hyperbolic secants as seen for the advection equation.&lt;/p&gt;
+&lt;p&gt;WC is stable for various periodic waves for both advection and wave equations, which shows WC is useful for numerically propagating periodic waveforms. Convergence depends on the wave number of the IC and on the parameters (convection speed, positive diffusion, negative diffusion) used in WC.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/747</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1760&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>747</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1760</articleid>
+<submission-date>2010-07-12T13:07:45-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1391200</context-key>
+<submission-path>utk_gradthes/747</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>K. C. Reddy</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Steinhoff, Kenneth Kimble</value>
+</field>
+<field name="comments" type="string">
+<value>This thesis has attached files (movies).</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Advection_constantAmplitude.avi</archive-name>
+<upload-name>Advection_constantAmplitude.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1760&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Propagation of Positive Periodic Waves with Constant Amplitude Using Advection Equation</description>
+</file>
+<file>
+<archive-name>Advection_varyingAmplitude.avi</archive-name>
+<upload-name>Advection_varyingAmplitude.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=1760&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Propagation of Positive PeriodicWaves with Varying Amplitude Using Advection Equation</description>
+</file>
+<file>
+<archive-name>Advection_varyingSigns.avi</archive-name>
+<upload-name>Advection_varyingSigns.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=1760&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Propagation of Periodic Waves with Varying Signs Using Advection Equation</description>
+</file>
+<file>
+<archive-name>Wave_constantAmplitude.avi</archive-name>
+<upload-name>Wave_constantAmplitude.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=1760&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Propagation of Positive Periodic Waves with Constant Amplitude Using Wave Equation</description>
+</file>
+<file>
+<archive-name>Wave_varyingAmplitude.avi</archive-name>
+<upload-name>Wave_varyingAmplitude.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=1760&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Propagation of Positive Periodic Waves with Varying Amplitude Using Wave Equation</description>
+</file>
+<file>
+<archive-name>Wave_varyingSigns.avi</archive-name>
+<upload-name>Wave_varyingSigns.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=1760&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Propagation of Periodic Waves with Varying Signs Using Wave Equation</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

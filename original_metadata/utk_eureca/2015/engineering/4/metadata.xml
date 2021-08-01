@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptation and robustness in a chemotaxis network</title>
+<publication-date>2015-04-13T12:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bchen15@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Beini</fname>
+</author>
+<author>
+<email>abel@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Abel</lname>
+<fname>Steve</fname>
+</author>
+</authors>
+<disciplines><discipline>Biochemical and Biomolecular Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Adaptation is a behavior of biological systems in which a sustained change in input signal leads to a transient output response that returns to the pre--‐stimulated output level. Cells use adaptation to maintain sensitivity to the changes in their environment and to remain in homeostasis while the input signal is perturbed. Signaling networks in both prokaryotic and eukaryotic cells demonstrate adaptation, which is a common feature of chemotaxis, a signal transduction process that enables cells to sense chemical gradients in their extracellular environment and to adjust their movement in response. In the case of Escherichia coli, the bacteria swim in random directions in the absence of a chemical gradient, but will move toward or away from the chemical when a gradient exists. In this study, we use computational methods to study adaptation in the chemotaxis network of Escherichia coli. Based on the well--‐characterized two--‐state model of Barkai and Leibler (Nature 1997), we numerically analyze the chemotactic network with ordinary differential equations and measure the adaptation time and precision of the response to a change in ligand concentration. The adaptation time is the time that the signal takes to reach steady--‐state after a perturbation in input, and precision measures the difference between output and input levels. We find that the network exhibits a sensitive response and precise adaptation to the input stimulus. We also analyze the robustness of the network by randomly varying the kinetic parameters and characterizing the change in behavior. The adaptation demonstrates robustness: although the adaption time varies over a wide range, the precision is nearly perfect regardless of the values of the parameters. This shows that adaptation in this network depends more strongly on the topology of the network than on the values of kinetic parameters.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2015/engineering/4</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1064&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1064</articleid>
+<submission-date>2015-04-28T07:51:29-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>7039560</context-key>
+<submission-path>utk_eureca/2015/engineering/4</submission-path>
+<fields>
+<field name="college" type="string">
+<value>Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Chemical and Biomolecular Engr</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-04-13T12:00:00-07:00</value>
+</field>
+<field name="year" type="date">
+<value>2015-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

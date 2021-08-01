@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SAFDetection:Sensor Analysis based Fault Detection in Tightly-CoupledMulti-Robot Team Tasks</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Xingyan</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses the problem of detecting faults based on sensor analysis for tightly-coupled multi-robot team tasks. The approach I developed is called SAFDetection, which stands for Sensor Analysis based Fault Detection, pronounced “Safe Detection”. When dealing with robot teams, it is challenging to detect all types of faults because of the complicated environment they operate in and the large spectrum of components used in the robot system. The SAFDetection approach provides a novel methodology for detecting robot faults in situations when motion models and models of multi-robot dynamic interactions are unavailable. The fundamental idea of SAFDetection is to build the robots’ normal behavior model based on the robots’ sensor data. This normal behavior model not only describes the motion pattern for the single robot, but also indicates the interaction among the robots in the same team. Inspired by data mining theory, it combines data clustering techniques with the generation of a probabilistic state transition diagram to model the normal operation of the multi-robot system.&lt;/p&gt;
+&lt;p&gt;The contributions of the SAFDetection approach include: (1) providing a way for a robot system to automatically generate a normal behavior model with little prior knowledge; (2) enabling a robot system to detect physical, logic and interactive faults online; (3) providing a way to build a fault detection capability that is independent of the particular type of fault that occurs; and (4) providing a way for a robot team to generate a normal behavior model for the team based the individual robot’s normal behavior models. SAFDetection has two different versions of implementation on multi-robot teams: the centralized approach and the distributed approach; the preferred approach depends on the size of the robot team, the robot computational capability and the network environment.&lt;/p&gt;
+&lt;p&gt;The SAFDetection approach has been successfully implemented and tested in three robot task scenarios: box pushing (with two robots) and follow-the-leader (implemented with two- and five-robot teams). These experiments have validated the SAFDetection approach and demonstrated its robustness, scalability, and applicability to a wide range of tightly-coupled multi-robot applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/565</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1633&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>565</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1633</articleid>
+<submission-date>2010-02-23T09:50:09-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1164756</context-key>
+<submission-path>utk_graddiss/565</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Michael G. Thomason, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/LiXingyan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

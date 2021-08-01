@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using GIS to Analyze the Precipitation Regime of the Great Smoky Mountains National Park, TN/NC</title>
+<publication-date>1995-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Coffey</lname>
+<fname>Thomas</fname>
+<mname>Bryan</mname>
+</author>
+</authors>
+<disciplines><discipline>Plant Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Studies or research conducted in remote areas of the Great Smoky Mountains National Park (GSMNP) involving the use of precipitation data, have often resolved to utilizing the precipitation data from weather stations located in more easily accessible areas or from nearby towns and cities. This study was conducted to determine an accurate annual average precipitation value for the GSMNP and to develop an average annual precipitation database (coverage) for the park as a whole. Precipitation data from 51 weather stations in and around the GSMNP were placed into the geographic information system (GIS), ARC/INFO, and three methods were implemented to meet the desired objectives. These methods included: 1) constructing a THIESSEN polygon coverage from the precipitation station locations, 2) employing the use of a Triangulated Irregular Network (TIN) of the precipitation stations to create a precipitation coverage, and 3) establishing a linear relationship between the terrain data (elevation, slope and aspect) and the precipitation data obtained at the station locations and implementing this linear equation within the GIS to construct the precipitation coverage. The THIESSEN method determined the annual average precipitation to be 1542.5 mm with a maximum value of 2105.9 mm and a minimum value of 1194.8 mm; however, this database had an unrealistically small number of different precipitation values. The TIN method estimated the annual average precipitation to be 1532.1 mm with a maximum value of 2099.3 mm and a minimum value of 1217.9 mm. Again, the database obtained had only a limited number of precipitation data. The linear model developed from the statistical method showed a significant (R-square = .80, p = 0.05) relationship between terrain data and the precipitation data, indicating that changes in terrain influence precipitation amounts (Shanks, 1954). The linear equation estimated the average annual precipitation of the GSMNP to be 1575.1 mm with a maximum value of 2013.5 mm and a minimum value of 1217.7 mm. The statistical method seemed to develop the best representation of the precipitation of the park as it determined a larger variety (2,292,296 values) of precipitation values which were based on the various changes of the complex terrain within the study area. The precipitation database obtained from the statistical method could aide researchers and other interested persons in their studies of the GSMNP.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3263</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4695&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3263</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4695</articleid>
+<submission-date>2015-03-20T13:44:44-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6877791</context-key>
+<submission-path>utk_gradthes/3263</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joanne Logan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stephen C. Nodvin, John Foss</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Plant Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1995-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1995-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

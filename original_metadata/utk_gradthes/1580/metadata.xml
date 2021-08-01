@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Cartesian Space Approach to Teleoperate a Slave Robot with a Kinematically Dissimilar Redundant Manipulator</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ananthanarayanan</lname>
+<fname>Hariharan</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Due to the inability of humans to interact with certain unstructured environments,&lt;br /&gt;telemanipulation of robots have gained immense importance. One of the primary tasks in telemanipulating robots remotely, is the effective manipulation of the slave robot using the master manipulator. Ideally a kinematic replica of the slave manipulator is used as the master to provide a joint-to-joint control to the slave. This research uses the 7-DOF Whole Arm Manipulator© (WAM) as the master manipulator and a 6-DOF Titan as the slave manipulator. Due to the kinematic dissimilarity between the two, a Cartesian space position mapping technique is adapted in which the slave is made to follow the same trajectory as the end effector of the master with respect to its reference frame. The main criterion in undertaking this mapping approach is to provide a convenient region of operation to the human operator. Various methods like pseudo inverse, Jacobian transpose and Damped least squares have been used to perform the inverse kinematics for the Titan. Joint limit avoidance and obstacle avoidance constraints were used to perform the inverse kinematics for the WAM and thereby remove the redundancy. Finally a joint volume limitation constraint (JVLC) was adopted which aims at providing the operator, a comfortable operational space in union with the master manipulator. Each inverse method&lt;br /&gt;for the Titan was experimentally tested and the best method identified from the&lt;br /&gt;simulation results and the error analysis. Various experiments were also performed for the constrained inverse kinematics for the WAM and results were simulated. RoboWorks© was used for simulation purposes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1580</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3030&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1580</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3030</articleid>
+<submission-date>2013-08-08T13:37:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4409237</context-key>
+<submission-path>utk_gradthes/1580</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William. R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary. V. Smith, Vijay Chellaboina</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

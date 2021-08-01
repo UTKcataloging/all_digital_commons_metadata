@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Integrated Fuzzy Inference Based Monitoring, Diagnostic, and Prognostic System</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Garvey</lname>
+<fname>Dustin</fname>
+<mname>R</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;To date the majority of the research related to the development and application of monitoring, diagnostic, and prognostic systems has been exclusive in the sense that only one of the three areas is the focus of the work. While previous research progresses each of the respective fields, the end result is a variable &quot;grab bag&quot; of techniques that address each problem independently. Also, the new field of prognostics is lacking in the sense that few methods have been proposed that produce estimates of the remaining useful life (RUL) of a device or can be realistically applied to real-world systems. This work addresses both problems by developing the nonparametric fuzzy inference system (NFIS) which is adapted for monitoring, diagnosis, and prognosis and then proposing the path classification and estimation (PACE) model that can be used to predict the RUL of a device that does or does not have a well defined failure threshold.&lt;/p&gt;
+&lt;p&gt;To test and evaluate the proposed methods, they were applied to detect, diagnose, and prognose faults and failures in the hydraulic steering system of a deep oil exploration drill. The monitoring system implementing an NFIS predictor and sequential probability ratio test (SPRT) detector produced comparable detection rates to a monitoring system implementing an autoassociative kernel regression (AAKR) predictor and SPRT detector, specifically 80% vs. 85% for the NFIS and AAKR monitor respectively. It was also found that the NFIS monitor produced fewer false alarms. Next, the monitoring system outputs were used to generate symptom patterns for k-nearest neighbor (kNN) and NFIS classifiers that were trained to diagnose different fault classes. The NFIS diagnoser was shown to significantly outperform the kNN diagnoser, with overall accuracies of 96% vs. 89% respectively. Finally, the PACE implementing the NFIS was used to predict the RUL for different failure modes. The errors of the RUL estimates produced by the PACE-NFIS prognosers ranged from 1.2-11.4 hours with 95% confidence intervals (CI) from 0.67-32.02 hours, which are significantly better than the population based prognoser estimates with errors of ~45 hours and 95% CIs of ~162 hours.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/172</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1219&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>172</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1219</articleid>
+<submission-date>2010-01-29T10:11:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1125499</context-key>
+<submission-path>utk_graddiss/172</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Laurence F. Miller, Belle R. Upadhyaya, Tse-Wei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/GarveyDustin.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

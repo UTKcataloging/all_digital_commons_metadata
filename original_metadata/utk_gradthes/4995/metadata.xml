@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A GaN-Based Synchronous Rectifier with Reduced Voltage Distortion for 6.78 MHz Wireless Power Applications</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>scochra6@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Cochran</lname>
+<fname>Spencer</fname>
+<mname>Pierce</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Wireless Power Transfer</keyword>
+<keyword>WPT</keyword>
+<keyword>rectifier</keyword>
+<keyword>synchronous</keyword>
+<keyword>6.78 MHz</keyword>
+<keyword>THD</keyword>
+<keyword>ZVS</keyword>
+<keyword>EMI</keyword>
+</keywords>
+<abstract>&lt;p&gt;The call for a larger degree of engineering innovation grows as wireless power transfer increases in popularity. In this thesis, 6.78 MHz resonant wireless power transfer is explained. Challenges in WPT such as dynamic load variation and electromagnetic interference due to harmonic distortion are discussed, and a literature review is conducted to convey how the current state of the art is addressing these challenges.A GaN-based synchronous rectifier is proposed as a viable solution, and a model of the circuit is constructed. The precisely derived model is compared to a linearized model to illustrate the importance of exactness within the model derivation. The model is then used to quantify the design space of circuit parameters &lt;i&gt;L&lt;sub&gt;r&lt;/sub&gt;&lt;/i&gt; and &lt;i&gt;C&lt;sub&gt;r&lt;/sub&gt;&lt;/i&gt; with regard to harmonic distortion, input phase control, and efficiency. Practical design decisions concerning the 6.78 MHz system are explained. These include gate driver choice and mitigation of PCB parasitics. The model is verified with open loop experimentation using a linear power amplifier, FPGA, electronic load, and two function generators. Current zero-crossing sensing is then introduced in order to achieve self-regulation of both the switching frequency and input phase. The details of the FPGA code and sensing scheme used to obtain this closed loop functionality are described in detail. Finally, conclusions are drawn, and future work is identified.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4995</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6402&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4995</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6402</articleid>
+<submission-date>2018-11-08T14:23:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13276623</context-key>
+<submission-path>utk_gradthes/4995</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel J. Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Aly E. Fathy, Leon M. Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

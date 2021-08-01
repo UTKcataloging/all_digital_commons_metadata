@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Stability Analysis and Control of Nonlinear Power System Oscillations</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xxu30@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Xu</lname>
+<fname>Xin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Nonlinear oscillation</keyword>
+<keyword>nonlinear modal decoupling</keyword>
+<keyword>damping estimation</keyword>
+<keyword>damping control</keyword>
+<keyword>power systems.</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This work investigates the nonlinear oscillatory behaviors of multi-machine power systems. New model-based and measurement-based approaches are proposed for stability analysis and control of nonlinear oscillations.&lt;/p&gt;
+&lt;p&gt;For stability analysis, a recently proposed model-based nonlinear oscillation analysis method, nonlinear modal decoupling (NMD), is investigated on its ability in capturing the stability information of a multi-machine power system. From the differential-equation model of the power system, the NMD inversely constructs a set of 1-degree-of-freedom nonlinear oscillators, referred to as decoupled oscillators or subsystems, with each one corresponding to an oscillation mode of the original system. It is shown that retaining high order polynomial terms in the differential equation of each decoupled oscillator can make it more accurately represent the nonlinear modal dynamics and conditions of stability regarding the corresponding oscillation mode. For power system analysis, keeping the polynomial terms up to the 3rd-order during the decoupling is acceptable for the purpose of approximating assessment for transient stability. A transient stability analysis approach is proposed to apply the NMD for early warning of transient instability caused by inter-area oscillations. This new approach simplifies the real-time monitoring of the whole power system to the monitoring of only a few critical modes by checking the dynamics of the corresponding decoupled oscillators and their stability boundaries. Thus, when a critical oscillation mode is going to evolve into a mode of instability, this approach can provide early warning to the power system operator.&lt;/p&gt;
+&lt;p&gt;For stability control, a direct damping feedback control method is proposed to control the damping ratio of a target dominant mode to closely follow a pre-set value by utilizing power converter-interfaced energy resources, e.g. battery-based energy storage devices. The direct damping feedback controller is designed to consist of a proportional-integral controller, a low-pass filter and a power system module that includes a reduced single-oscillator power system equivalent on the target oscillation mode and its measurement-based damping estimation algorithm. The parameters of the PI controller are optimized by considering the trade-off between the requirements of robustness and control performance. The power system module is represented by a transfer function based on the &quot;zeroth-order&quot; parametric resonance phenomenon. By identifying a nonlinear oscillator to fit dynamics of the target mode under both small and large disturbances, the measurement-based real-time damping estimation algorithm provides a feedback signal to the direct damping feedback controller. Numerical studies on the 48-machine Northeast Power Coordinating Council system validate the effectiveness of the proposed damping control method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6098</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7371&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6098</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7371</articleid>
+<submission-date>2020-09-24T09:03:36-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19529500</context-key>
+<submission-path>utk_graddiss/6098</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Xiaopeng Zhao, Hector A. Pulgar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

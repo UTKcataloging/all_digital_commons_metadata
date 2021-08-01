@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Statistical Computational Topology and Geometry for Understanding Data</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jmike@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Mike</lname>
+<fname>Joshua</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Topological Data Analysis</keyword>
+<keyword>Metric Geometry</keyword>
+<keyword>Probability Density Functions</keyword>
+<keyword>Kernel Densities</keyword>
+<keyword>Persistence Diagrams</keyword>
+<keyword>Hodge Decomposition</keyword>
+</keywords>
+<disciplines><discipline>Geometry and Topology</discipline>
+<discipline>Statistical Methodology</discipline>
+</disciplines><abstract>&lt;p&gt;Here we describe three projects involving data analysis which focus on engaging statistics with the geometry and/or topology of the data.&lt;/p&gt;
+&lt;p&gt;The first project involves the development and implementation of kernel density estimation for persistence diagrams. These kernel densities consider neighborhoods for every feature in the center diagram and gives to each feature an independent, orthogonal direction. The creation of kernel densities in this realm yields a (previously unavailable) full characterization of the (random) geometry of a dataspace or data distribution.&lt;/p&gt;
+&lt;p&gt;In the second project, cohomology is used to guide a search for kidney exchange cycles within a kidney paired donation pool. The same technique also produces a score function that helps to predict a patient-donor pair&#39;s a priori advantage within a donation pool. The resulting allocation of cycles is determined to be equitable according to a strict analysis of the allocation distribution.&lt;/p&gt;
+&lt;p&gt;In the last project, a previously formulated metric between surfaces called continuous Procrustes distance (CPD) is applied to species discrimination in fossils. This project involves both the application and a rigorous comparison of the metric with its primary competitor, discrete Procrustes distance. Besides comparing the separation power of discrete and continuous Procrustes distances, the effect of surface resolution on CPD is investigated in this study.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4702</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6128&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4702</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6128</articleid>
+<submission-date>2017-06-12T19:44:00-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10286603</context-key>
+<submission-path>utk_graddiss/4702</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasileios Maroulas</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth Stephenson, Conrad Plaut, Michael Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

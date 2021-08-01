@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multiscale Simulations of Polymeric Electrolytes for Electrochemical Devices</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xluo16@vols.utk.edu</email>
+<lname>Luo</lname>
+<fname>Xubo</fname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Polymeric electrolytes are polymers containing the ionic moieties used for ion conduction in electrochemical devices. The strategic design of these materials requires the in-depth understanding of the relation between the molecular structure and the properties. This dissertation reports on computational simulations for two types of materials: hydrated anion exchange membranes (AEMs) for fuel cells and the polymerized ionic liquids (PolyILs). Various chemical structures were covered for systematic investigations.&lt;/p&gt;
+&lt;p&gt;For AEMs, the ion conducting channels or domains are essential for the efficient ion transport, and thus the morphology of the hydrated membrane is worthy of study. Dissipative particle dynamics simulations were carried out to investigate the meso-scale microphase separation for the functionalized triblock copolymer polystyrene-b-poly(ethylene-co-butylene)-b-polystyrene. The morphology was studied at a variety of hydration levels, and the connectivity of the water domains were analyzed. The morphology was tuned by the alkyl spacer, degree of functionalization, percentage of polystyrene, different anions, as well as the hydration level. However, a simple rule for the influence of the chemical composition was not elucidated. The size of the hydrophilic phase relative to the hydrophobic phase was speculated as an influential factor. Introducing more ionic species generally promotes water percolation. This effect was not solely determined by the water amount, but the chemistry also played an important role.&lt;/p&gt;
+&lt;p&gt;Classical molecular dynamics simulations were performed on different polyILs to study the mechanism of ion transport. The effects of anion were examined in poly(1-ethyl-3-vinylimidzolium), paired with bromide, tetrafluoroborate, hexafluorophosphate and bis(trifluoromethanesulfonyl), respectivly. As an alternative polymerized cation, poly((2-alkyldimethyl-ammoniumethyl) methacrylate bis(trifluoromethylsulfonyl)imide was simulated with different tails. Comparisons of ion association and hopping types in the transport of the ions were found to be inconsistent with the size of the ion. For all materials, the diffusivity was more likely to correlate to the effective hopping satisfying a criterion of distance. Generally, a large polyatomic counterion with a long linker and/or tail promoted the ion transport. These molecular structures reduced the dynamical heterogeneity and the average string length of the cooperative motion of the mobile ions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6080</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7054&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6080</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7054</articleid>
+<submission-date>2020-06-05T12:08:54-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7054/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>17995064</context-key>
+<submission-path>utk_graddiss/6080</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stephen J. Paddison</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stephen J. Paddison, Brian J. Edwards, Manolis Doxastakis,Sharani Roy</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;0000-0002-1591-7466&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

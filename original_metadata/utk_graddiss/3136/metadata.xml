@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Doppler Broadening of Cross Sections for Neutron Transport Applications</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>shart6@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hart</lname>
+<fname>Shane</fname>
+<mname>William Daniel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Monte Carlo</keyword>
+<keyword>Doppler broadening</keyword>
+<keyword>KENO</keyword>
+<keyword>SCALE</keyword>
+<keyword>on-the-fly</keyword>
+<keyword>thermal scattering</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation discusses the research and development of new cross section temperature handling techniques for the SCALE computer code, which is developed and maintained at Oak Ridge National Laboratory. In particular, methods will be added to the KENO Monte Carlo code.&lt;/p&gt;
+&lt;p&gt;Areas of interest include: neutron scattering off of heavy isotopes in the epithermal energy range, implementation of Doppler pre-broadening of continuous energy one-dimensional cross-section data, implementation of interpolation on the continuous energy two-dimensional cross sections, and implementation of the direct S(A,B) [S alpha beta] method for thermal neutron scattering and interpolation on that data.&lt;/p&gt;
+&lt;p&gt;Accurate cross section scattering off of heavy isotopes is crucial for accurate neutronics modeling and simulation of actual reactor cores during operational conditions. Scattering off of heavy isotopes such as 238U [Uranium 238] will have a greater impact on core neutronics behavior as reactor temperatures increase. Ensuring that the cross-section data used by Monte Carlo codes is obtained at the correct temperature will allow more accurate modeling of operating reactors that do not operate at current cross-section library temperatures.&lt;/p&gt;
+&lt;p&gt;A review of the current approaches used for scattering and Doppler broadening was performed, and the current limitations of these approaches were examined. By examining the limitations of current approaches, new methods were developed and implemented into KENO. First, the Doppler Broadened Rejection Correction algorithm was added to KENO to allow for more accurate scattering off of heavy isotopes. Next, a methodology allowing for accurate cross section pre-broadening of all cross section types was developed and implemented. Finally, as a comparison against existing and new, the direct SAB method was implemented into KENO.&lt;/p&gt;
+&lt;p&gt;To test the impact of the new methods, a large variety of test cases were run and unit tests showcasing the relevant coding sections were developed. These test cases are representative of cases that will be encountered during production code operation and will serve as good examples of the new functionality going forward. In addition, a select number of benchmarks from the Criticality and Reactor Physics Handbooks were selected to verify that the additions to the KENO code were accurate.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3136</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4339&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3136</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4339</articleid>
+<submission-date>2014-10-06T07:30:27-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6207810</context-key>
+<submission-path>utk_graddiss/3136</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ondrej Chvala, Steve E. Skutnik, Robert Grzywacz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

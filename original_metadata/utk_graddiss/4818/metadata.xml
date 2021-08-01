@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigating trends and processes that impact tree species diversity of southern forests at the landscape level</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ahartse1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hartsell</lname>
+<fname>Andrew</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>species diversity</keyword>
+<keyword>spatial lag model</keyword>
+<keyword>spatial error model</keyword>
+<keyword>geographically weighted regression</keyword>
+<keyword>regression trees</keyword>
+<keyword>forest inventory data</keyword>
+</keywords>
+<abstract>&lt;p&gt;Global biodiversity is currently being threatened by multiple anthropogenic sources. The increase in genetically modified, artificially regenerated forests has raised concerns that this management scheme may be a source of species loss. This study investigates the impacts of urbanization, agricultural development, and southern yellow pine plantation establishment on tree species evenness, Shannon-Wiener index, and Simpson’s index of forest communities within the Gulf Coastal Plain of the southeastern United States. The impacts of varying spatial scale on possible predictors was investigated by utilizing nested watersheds from the Watershed Boundary Dataset (WBD). Techniques used in the analysis included Getis-Ord Gi* analysis, Local Moran’s I, non-metric multidimensional scaling (NMS), multiple response permutation procedures, (MRPP) and spatial lag, spatial error, and geographically weighted regression techniques using ArcGIS, GeoDa, and PC-Ord software. The U.S. Forest Service Forest Inventory and Analysis inventory data were used as the source of all tree species data. The 100-meter resolution elevation raster data from the U.S. Geological Survey provided elevational data, while the 1992 200-meter national land cover data (NLCD) were used to derive land use patterns. The 1981-2010 parameter regressions on independent slopes model (PRISM) provided climatic data. All raster data were averaged to watershed basin. Conclusions from this study are 1) watersheds can be used for nested studies; 2) HUC04 and HUC06 watersheds are appropriate scales for FIA data and tree diversity studies; 3) forest area, productivity, and elevation are positively correlated to most diversity measures; 4) the Pine Belt has been repeatedly disturbed due to anthropogenic activity; 5) tree species diversity is impacted by these disturbances; 6) these impacts can be both positive and negative, as many disturbances increase species richness; 7) plantations increase the number of species, perhaps due to edge effects from management; and 8) increasing plantations has a negative impact on both Shannon’s diversity index and Simpson’s index as both decreases with plantation acreage.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4818</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6358&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4818</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6358</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276443</context-key>
+<submission-path>utk_graddiss/4818</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald G. Hodges</value>
+</field>
+<field name="advisor2" type="string">
+<value>Thomas J. Brandeis, Joanne Logan, Neelam C. Poudyal, John Zobel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Natural Resources</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

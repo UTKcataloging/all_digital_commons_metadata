@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Integration of Rosenbrock-type solvers into CAM4-Chem and evaluation of its performance in the perspectives of science and computation</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jsun21@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Sun</lname>
+<fname>Jian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>atmospheric chemistry</keyword>
+<keyword>ozone</keyword>
+<keyword>Rosenbrock</keyword>
+<keyword>grid resolution</keyword>
+<keyword>numerical convergence</keyword>
+<keyword>GPU computation</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this study, the perennial problem of overestimation of ozone concentration from the global chemistry-climate model (CAM4-Chem [Community Earth System Model with chemistry activated]) is investigated in the sense of numerics and computation. The high-order Rosenbrock-type solvers are implemented into CAM4-Chem, motivated by its higher order accuracy and better computational efficiency. The results are evaluated by comparing to the observation data and the ROS-2 [second-order Rosenbrock] solver can reduce the positive bias of ozone concentration horizontally and vertically at most regions. The largest reduce occurs at the mid-latitudes of north hemisphere where the bias is generally high, and the summertime when the photochemical reaction is most active. In addition, the ROS-2 solver can achieve ~2x speed-up compared to the original IMP [first-order implicit] solver. This improvement is mainly due to the reuse of the Jacobian matrix and LU [lower upper] factorization during its two-stage calculation. In order to gain further speed-up, we port the ROS-2 solver to the GPU [graphics processing unit] and compare the performance with CPU. The speed-up of the GPU version with the optimized configuration reaches a factor of ~11.7× for the computation alone and ~3.82× considering the data movement between CPU and GPU. The computational time of the GPU version increases more slowly than the CPU version as a function of the number of loop iterations, which makes the GPU version more attractive for a massive computation. Moreover, under the stochastic perturbation of initial input, we find the ROS-3 [third-order Rosenbrock] solver yields better convergence property than the ROS-2 and IMP solver. However, the ROS-3 solver generally provides a further overestimation of ozone concentration when it is implemented into CAM4-Chem. This is due to the fact that more frequent time step refinements are involved by the ROS-3 solver, which also makes the ROS-3 solver less computationally efficient than the IMP and ROS-2 solvers. We also investigate the effect of grid resolution and it shows that the fine resolution can provide relatively better pattern correlation than the coarse resolution, given the same chemical solver.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4898</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6439&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4898</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6439</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13414985</context-key>
+<submission-path>utk_graddiss/4898</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joshua S. Fu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chris D. Cox, Jack J. Dongarra, John B. Drake</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-6987-8052</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in the journal of advances in modeling earth systems or in review.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

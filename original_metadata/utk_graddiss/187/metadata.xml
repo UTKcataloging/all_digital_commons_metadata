@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Approximation Methods for the Standard Deviation of Flow Times in the G/G/s Queue</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhao</lname>
+<fname>Xiaofeng</fname>
+</author>
+</authors>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;We provide approximation methods for the standard deviation of flow time in system for a general multi-server queue with infinite waiting capacity (&lt;em&gt;G / G / s&lt;/em&gt; ). The approximations require only the mean and standard deviation or the coefficient of variation of the inter-arrival and service time distributions, and the number of servers.&lt;/p&gt;
+&lt;p&gt;These approximations are simple enough to be implemented in manual or spreadsheet calculations, but in comparisons to Monte Carlo simulations have proven to give good approximations (within ±10%) for cases in which the coefficients of variation for the interarrival and service times are between 0 and 1. The approximations also have the desirable properties of being exact for the specific case of Markov queue model &lt;em&gt;M / M / s&lt;/em&gt;, as well as some imbedded Markov queuing models ( &lt;em&gt;E&lt;sub&gt;k&lt;/sub&gt; / M / 1&lt;/em&gt; and &lt;em&gt;M / E&lt;sub&gt;α&lt;/sub&gt; / 1&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;The practical significance of this research is that (1) many real world queuing problems involve the &lt;em&gt;G / G / s&lt;/em&gt; queuing systems, and (2) predicting the range of variation of the time in the system (rather than just the average) is needed for decision making. For example, one job shop facility with which the authors have worked, guarantees its customers a nine day turnaround time and must determine the minimum number of machines of each type required to achieve nine days as a “worst case” time in the system. In many systems, the “worst case” value of flow time is very relevant because it represents the lead time that can safely be promised to customers. To estimate this we need both the average and standard deviation of the time in system.&lt;/p&gt;
+&lt;p&gt;The usefulness of our results stems from the fact that they are computationally simple and thus provide quick approximations without resorting to complex numerical techniques or Monte Carlo simulations. While many accurate approximations for the &lt;em&gt;G / G / s&lt;/em&gt; queue have been proposed previously, they often result in algebraically intractable expressions. This hinders attempts to derive closed-form solutions to the decision variables incorporated in optimization models, and inevitably leads to the use of complex numeric methods. Furthermore, actual application of many of these approximations often requires specification of the actual distributions of the inter-arrival time and the service time. Also, these results have tended to focus on delay probabilities and average waiting time, and do not provide a means of estimating the standard deviation of the time in the system.&lt;/p&gt;
+&lt;p&gt;We also extend the approximations to computing the standard deviation of flow times of each priority class in the &lt;em&gt;G / G / s&lt;/em&gt; priority queues and compare the results to those obtained via Monte Carlo simulations. These simulation experiments reveal good approximations for all priority classes with the exception of the lowest priority class in queuing systems with high utilization. In addition, we use the approximations to estimate the average and the standard deviation of the total flow time through queuing networks and have validated these results via Monte Carlo Simulations.&lt;/p&gt;
+&lt;p&gt;The primary theoretical contributions of this work are the derivations of an original expression for the coefficient of variation of waiting time in the &lt;em&gt;G / G / s&lt;/em&gt; queue, which holds exactly for &lt;em&gt;G / M / s&lt;/em&gt; and &lt;em&gt;M / G &lt;/em&gt;/1 queues. We also do some error sensitivity analysis of the formula and develop interpolation models to calculate the probability of waiting, since we need to estimate the probability of waiting for the &lt;em&gt;G / G / s&lt;/em&gt; queue to calculate the coefficient of variation of waiting time.&lt;/p&gt;
+&lt;p&gt;Technically we develop a general queuing system performance predictor, which can be used to estimate all kinds of performances for any steady state, infinite queues. We intend to make available a user friendly predictor for implementing our approximation methods. The advantages of these models are that they make no assumptions about distribution of inter-arrival time and service time. Our techniques generalize the previously developed approximations and can also be used in queuing networks and priority queues. Hopefully our approximation methods will be beneficial to those practitioners who like simple and quick practical answers to their multi-server queuing systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key words and Phrases: &lt;/strong&gt;Queuing System, Standard Deviation, Waiting Time, Stochastic Process, Heuristics, &lt;em&gt;G / G/ s&lt;/em&gt;, Approximation Methods, Priority Queue, and Queuing Networks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/187</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1233&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>187</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1233</articleid>
+<submission-date>2010-02-01T09:44:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127431</context-key>
+<submission-path>utk_graddiss/187</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kenneth C. Gilbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mandyam M. Srinivasan, Melissa R. Bowers, Funda Sahin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/ZhaoXiaofeng.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

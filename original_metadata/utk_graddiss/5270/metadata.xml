@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Utilizing Converter-Interfaced Sources for Frequency Control with Guaranteed Performance in Power Systems</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhan124@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Yichen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>wind turbine</keyword>
+<keyword>frequency control</keyword>
+<keyword>inertia emulation</keyword>
+<keyword>reachability</keyword>
+<keyword>safety verification</keyword>
+<keyword>sums of square programming</keyword>
+</keywords>
+<abstract>&lt;p&gt;To integrate renewable energy, converter-interfaced sources (CISs) keep penetrating into power systems and degrade the grid frequency response. Control synthesis towards guaranteed performance is a challenging task. Meanwhile, the potentials of highly controllable converters are far from fully developed. With properly designed controllers the CISs can not only eliminate the negative impacts on the grid, but also provide performance guarantees.First, the wind turbine generator (WTG) is chosen to represent the CISs. An augmented system frequency response (ASFR) model is derived, including the system frequency response model and a reduced-order model of the WTG representing the supportive active power due to the supplementary inputs.Second, the framework for safety verification is introduced. A new concept, region of safety (ROS), is proposed, and the safe switching principle is provided. Two different approaches are proposed to estimate the largest ROS, which can be solved using the sum of squares programming.Third, the critical switching instants for adequate frequency response are obtained through the study of the ASFR model. A safe switching window is discovered, and a safe speed recovery strategy is proposed to ensure the safety of the second frequency dip due to the WTG speed recovery.Fourth, an adaptive safety supervisory control (SSC) is proposed with a two-loop configuration, where the supervisor is scheduled with respect to the varying renewable penetration level. For small-scale system, a decentralized fashion of the SSC is proposed under rational approximations and verified on the IEEE 39-bus system.Fifth, a two-level control diagram is proposed so that the frequency of a microgrid satisfies the temporal logic specifications (TLSs). The controller is configured into a scheduling level and a triggering level. The satisfaction of TLSs will be guaranteed by the scheduling level, and triggering level will determine the activation instant.Finally, a novel model reference control based synthetic inertia emulation strategy is proposed. This novel control strategy ensures precise emulated inertia by the WTGs as opposed to the trial and error procedure of conventional methods. Safety bounds can be easily derived based on the reference model under the worst-case scenario.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5270</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6814&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5270</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6814</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342892</context-key>
+<submission-path>utk_graddiss/5270</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic, Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Xiaopeng Zhao, Joe Chow</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-6925-0775</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in papers: (1) Y. Zhang, M. E. Raoufat, K. Tomsovic, and S. M. Djouadi, &quot;Set theory-based safety supervisory control for wind turbines to ensure adequate frequency response,&quot; IEEE Trans. Power Syst., 2018, in press. (2) Y. Zhang, A. Melin, S. M. Djouadi, M. M. Olama, and K. Tomsovic, &quot;Provision for guaranteed inertial response in diesel-wind system using model reference control, IEEE Trans. Power Syst., 2018, in press. (3) Y. Zhang, K. Tomsovic, S. Djouadi, and H. Pulgar-Painemal, &quot;Hybrid controller for wind turbine generators to ensure adequate frequency response in power networks, IEEE J. Emerg. Sel. Topics Circuits Syst., vol. 7, no. 3, pp. 359-370, 2017. (4) Y. Zhang, M. Olama, A. Melin, Y. Xue, S. Djouadi, and K. Tomsovic, Synthesizing distributed energy resources in microgrids with temporal logic specifications, in Proc. IEEE Int. Symp. Power Electron. Distrib. Gener. Syst. (PEDG), May 2018, pp. 1-7.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

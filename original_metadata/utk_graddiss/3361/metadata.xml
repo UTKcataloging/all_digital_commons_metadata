@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neuroscience-Inspired Dynamic Architectures</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cschuman@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Schuman</lname>
+<fname>Catherine</fname>
+<mname>Dorothy</mname>
+</author>
+</authors>
+<keywords>
+<keyword>machine learning</keyword>
+<keyword>neural networks</keyword>
+<keyword>discrete event simulation</keyword>
+<keyword>biological networks</keyword>
+<keyword>optimization algorithms</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Biological brains are some of the most powerful computational devices on Earth. Computer scientists have long drawn inspiration from neuroscience to produce computational tools. This work introduces neuroscience-inspired dynamic architectures (NIDA), spiking neural networks embedded in a geometric space that exhibit dynamic behavior. A neuromorphic hardware implementation based on NIDA networks, Dynamic Adaptive Neural Network Array (DANNA), is discussed. Neuromorphic implementations are one alternative/complement to traditional von Neumann computation. A method for designing/training NIDA networks, based on evolutionary optimization, is introduced. We demonstrate the utility of NIDA networks on classification tasks, a control task, and an anomaly detection task. There are known neural structures (such as cortical columns) that are repeated many times in the brain, and there are other structures that are useful for a variety of different tasks. We speculated that ``useful structures&quot; will also emerge in NIDA networks. Three methods for identifying useful substructures within a NIDA network are presented: common structure, activity-based, and causality paths. We explored reusing activity-based useful substructures over the course of evolutionary optimization, but the results for those tests were inconclusive. One component of biological brains that is often ignored in biologically-inspired computation is the influence of affective, or emotion-related, systems. We define artificial affective systems and explore the effect of affective systems in NIDA networks in terms of behavior of the network and on the evolutionary optimization design method. We conclude with an outline of future research opportunities identified during this effort.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3361</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4656&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3361</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4656</articleid>
+<submission-date>2015-02-20T12:35:54-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6698070</context-key>
+<submission-path>utk_graddiss/3361</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Tsewei Wang, Itamar Arel, Bruce MacLennan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

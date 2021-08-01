@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of Two-Regression Models to Predict Energy Expenditure in Youth Using a GENEActiv and Axivity AX3 Activity Monitor</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>akaplan7@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Kaplan</lname>
+<fname>Andrew</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;&lt;b&gt;PURPOSE:&lt;/b&gt; The purpose was to develop two regression models (2RM) to estimate energy expenditure (EE) using wrist-worn GENEActiv (GENEA) and Axivity AX3 (AX3) activity monitors in youth. &lt;b&gt;METHODS:&lt;/b&gt; Youth (N=100; mean ± [plus or minus] SD; age, 12.2±3.5 years) performed 16 activities ranging from sedentary behaviors (SB) to vigorous physical activities (VPA). Participants wore a GENEA and AX3 monitors on the opposite wrists. Monitors were randomized for which device was worn on which wrist. A Cosmed K4b&lt;sup&gt;2&lt;/sup&gt; (K4b squared) was used as the criterion measure of EE. Raw 100 Hz acceleration data were expressed as Euclidean norm minus one (ENMO) and reduced to one-second epochs. 2RMs were developed for the GENEA and AX3 worn on the left and right wrists. Leave-one-participant-out cross-validation (LOOCV) was used to assess model performance. Using the entire activity bout, estimates of average EE from the four 2RMs and a previously developed single regression equation were calculated and estimates of time spent in different physical activity (PA) intensity levels were calculated using the four 2RMs and five single regression equations and ROC cut-points. &lt;b&gt;RESULTS:&lt;/b&gt; Log-transformed ENMO was used for the development of the classifiers. Log-transformed ENMO and age were used as predictor variables in the regression equations. For the LOOCV, the four 2RMs had root mean square errors (RMSE) of 0.84-0.95 youth metabolic equivalents (MET&lt;sub&gt;y&lt;/sub&gt; [MET y]) and mean absolute percent errors (MAPE) of 19.21-20.71%. For the entire activity bout, RMSE for the 2RMs ranged from 0.40 MET&lt;sub&gt;y&lt;/sub&gt; to 0.60 MET&lt;sub&gt;y&lt;/sub&gt; and the Hildebrand single regression ranged from 0.97 MET&lt;sub&gt;y&lt;/sub&gt; to 1.25 MET&lt;sub&gt;y&lt;/sub&gt;. The four 2RMs were within ± 10.3 minutes of measured minutes of SB, light PA (LPA), moderate PA (MPA), and VPA. All other methods were within ± 61.5 minutes of measured minutes of SB, LPA, MPA, and VPA. &lt;b&gt;CONCLUSION:&lt;/b&gt; Compared to indirect calorimetry, the newly developed 2RMs had lower RMSE and MAPE for estimates of MET&lt;sub&gt;y&lt;/sub&gt; and time spent in PA intensity levels than previously developed methods. Future studies should validate the 2RMs using an independent sample in a free-living environment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5149</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6556&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5149</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6556</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415092</context-key>
+<submission-path>utk_gradthes/5149</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Scott E. Crouter</value>
+</field>
+<field name="advisor2" type="string">
+<value>David R. Bassett Jr., Dawn P. Coe</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Kinesiology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reliability of wood plastic composites and improving lower percentile estimation via induced percentile censoring</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Crookston</lname>
+<fname>Kevin</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Statistics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Wood plastic composites (WPC) are a combination of wood fiber and thermoplastics to form a water resistant substitute for wood in construction. As a manufactured product, practitioners are interested in understanding the reliability of WPC. This thesis explores the reliability of WPC by analyzing data from a WPC manufacturer, and explores a new application of induced percentile right censoring via simulation to improve lower percentile estimation. The research demonstrates significant improvements in the mean squared errors and bias from this percentile right censoring. Estimates of the reliability of WPC are studied for two industrial extrusion lines at the same facility. A parametric analysis of the extrusion lines reveals only small differences in averages. However, a non-parametric method is presented that reveals differences between Kaplan-Meier survival curves for the modulus of elasticity (MOE) and modulus of rupture (MOR) strength metrics of the WPC industrial data.Although the differences between the two extrusion lines are most prevalent in the middle of the distributions, the consistency between the two lines for the smaller left tail percentiles holds greater interest for safety and liability. Bootstrapping is performed to estimate confidence intervals on the differences between the two lines for the first, fifth, and tenth percentiles of the MOE and the MOR. A statistical difference is found for the MOR at the tenth percentile. In many applications, one aging behavior is not sufficient for understanding the entire life time. A simulation is conducted to generate data with a bathtub hazard function. The simulation uses induced right censoring to improve the estimates of the lower tail percentiles. A wide range of possible percentile right censoring yields significant improvements. The smallest mean squared error and bias are achieved when the percentile censoring approaches the point at which aging behavior first shifts.Techniques for finding this optimal point are discussed. Application of the induced percentile right censoring and the methods used to analyze the WPC data may benefit statisticians, wood scientists, and practitioners by improving the statistical tools for understanding product quality and variability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5764</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7386&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5764</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7386</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467532</context-key>
+<submission-path>utk_gradthes/5764</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy M. Young</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hybrid K-edge Densitometry as a Method for Materials Accountancy Measurements in Pyrochemical Reprocessing</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mcook4@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cook</lname>
+<fname>Matthew</fname>
+<mname>Tyler</mname>
+</author>
+</authors>
+<keywords>
+<keyword>pyrochemical reprocessing</keyword>
+<keyword>Monte Carlo methods</keyword>
+<keyword>MCNP</keyword>
+<keyword>nuclear safeguards</keyword>
+<keyword>non-destructive assay</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Pyrochemical reprocessing is a proven method to recover useful fissile material from spent nuclear fuel. The process requires high temperatures and an inert atmosphere thus complicating the prospect of making materials accountancy measurements. Development of a measurement method for materials accountancy measurements has become necessary since pyroprocessing is receiving more attention as a possible compliment to aqueous reprocessing methods. If pyroprocessing is to be adapted from the engineering scale to a commercially viable reprocessing method a comprehensive safeguards measurement method and strategy must be developed.&lt;/p&gt;
+&lt;p&gt;Hybrid k-edge densitometry (HKED) has been applied to aqueous reprocessing measurements in commercial facilities. This method relies on a tuned beam of x-rays to bombard a sample. X-rays at an element&#39;s k-edge, or the binding energy of the k-shell electrons, will be preferentially absorbed leading to a transmission drop in the beam. Electrons from a higher energy level fill the vacancies resulting from this absorption. This results in the emission of characteristic x-rays that are unique to a given element. The fusion of these two measurement methods indicate the density and elemental composition of the sample.&lt;/p&gt;
+&lt;p&gt;A MCNP model of a commercial HKED instrument was developed to perform scoping studies in support of this measurement method&#39;s application to pyroprocessing. Development of a strategy of applying HKED required the prediction of how the instrument will respond to samples from a pyroprocess. Aqueous samples were measured in the instrument at Oak Ridge National Laboratory and compared to the results from the model. Some discrepancies were identified and are attributed to inconsistencies in both the modeled x-ray spectrum and MCNP photon libraries, however the model does effectively represent the characteristic x-rays and k-edge drop.&lt;/p&gt;
+&lt;p&gt;Several notional samples from a pyroprocess, such as molten salt solutions, voloxidation powders, liquid cathodes, and metallic strips were modeled to determine the system&#39;s response. Simulations of mixtures containing uranium and thorium (in place of plutonium) were completed to determine the feasibility of decreasing sample preparation cost without sacrificing sample characteristics. Finally, an active gamma-ray emitting sample was modeled to determine if x-ray fluorescence could be self-induced by the sample.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3329</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4694&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3329</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4694</articleid>
+<submission-date>2015-02-26T14:50:24-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6736484</context-key>
+<submission-path>utk_graddiss/3329</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven E. Skutnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Howard L. Hall, Joseph R. Stainback, Lawrence Heilbronn, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

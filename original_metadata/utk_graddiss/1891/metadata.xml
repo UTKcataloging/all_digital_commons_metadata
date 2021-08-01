@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Applications of Modern Statistical Methods to Analysis of Data in Physical Science</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wicker</lname>
+<fname>James</fname>
+<mname>Eric</mname>
+</author>
+</authors>
+<disciplines><discipline>Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Modern methods of statistical and computational analysis offer solutions to dilemmas confronting researchers in physical science. Although the ideas behind modern statistical and computational analysis methods were originally introduced in the 1970’s, most scientists still rely on methods written during the early era of computing. These researchers, who analyze increasingly voluminous and multivariate data sets, need modern analysis methods to extract the best results from their studies.&lt;/p&gt;
+&lt;p&gt;The first section of this work showcases applications of modern linear regression. Since the 1960’s, many researchers in spectroscopy have used classical stepwise regression techniques to derive molecular constants. However, problems with thresholds of entry and exit for model variables plagues this analysis method. Other criticisms of this kind of stepwise procedure include its inefficient searching method, the order in which variables enter or leave the model and problems with overfitting data. We implement an information scoring technique that overcomes the assumptions inherent in the stepwise regression process to calculate molecular model parameters. We believe that this kind of information based model evaluation can be applied to more general analysis situations in physical science.&lt;/p&gt;
+&lt;p&gt;The second section proposes new methods of multivariate cluster analysis. The K-means algorithm and the EM algorithm, introduced in the 1960’s and 1970’s respectively, formed the basis of multivariate cluster analysis methodology for many years. However, several shortcomings of these methods include strong dependence on initial seed values and inaccurate results when the data seriously depart from hypersphericity. We propose new cluster analysis methods based on genetic algorithms that overcomes the strong dependence on initial seed values. In addition, we propose a generalization of the Genetic K-means algorithm which can accurately identify clusters with complex hyperellipsoidal covariance structures. We then use this new algorithm in a genetic algorithm based Expectation-Maximization process that can accurately calculate parameters describing complex clusters in a mixture model routine. Using the accuracy of this GEM algorithm, we assign information scores to cluster calculations in order to best identify the number of mixture components in a multivariate data set. We will showcase how these algorithms can be used to process multivariate data from astronomical observations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1891</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3319&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1891</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3319</articleid>
+<submission-date>2013-09-12T09:11:13-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4579262</context-key>
+<submission-path>utk_graddiss/1891</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William E. Blass</value>
+</field>
+<field name="advisor2" type="string">
+<value>Halima Bensmail, Hamparsum Bozdogan, Marianne Breinig, Chia C. Shih</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

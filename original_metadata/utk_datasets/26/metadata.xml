@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Frequency-Dependent Transmission of Batrachochytrium Salamandrivorans in Eastern Newts</title>
+<publication-date>2019-10-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Gray</lname>
+<fname>Matthew</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>amphibian</keyword>
+<keyword>Batrachochytrium</keyword>
+<keyword>disease</keyword>
+<keyword>fungus</keyword>
+<keyword>model</keyword>
+<keyword>density-dependent</keyword>
+</keywords>
+<abstract>&lt;p&gt;Transmission is the fundamental process whereby pathogens infect their hosts and spread through populations, and can be characterized using mathematical functions. The functional form of transmission for emerging pathogens can determine pathogen impacts on host populations and can inform the efficacy of disease management strategies. By directly measuring transmission between infected and susceptible adult eastern newts (Notophthalmus viridescens) in aquatic mesocosms, we identified the most plausible transmission function for the emerging amphibian fungal pathogen Batrachochytrium salamandrivorans (Bsal). Although we considered a range of possible transmission functions, we found that Bsal transmission was best explained by pure frequency-dependence. We observed that &gt;90% of susceptible newts became infected within 17 days post-exposure to an infected newt across a range of host densities and initial infection prevalence treatments. Under these conditions, we estimated R0 = 4.9 for Bsal in an eastern newt population. Our results suggest that Bsal has the capability of driving eastern newt populations to extinction, and that managing host density may not be an effective management strategy. Intervention strategies that prevent Bsal introduction or increase host resistance or tolerance to infection may be more effective. Our results add to the growing empirical evidence that 28 transmission of wildlife pathogens can saturate and be functionally frequency-dependent. Optimization of proposed transmission functions for Bsal infection data in eastern newts. Optimization carried out over the initial stages of infection, before any fatalities had occurred. Probability distribution of number of susceptibles at time t calculated via numerical integration of the associated ordinary differential equations, and optimal parameter values selected through minimizing the log-likelihood of the data. AIC used to select the best fit, with likelihood profiles calculated for each parameter in the two best fitting transmission functions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_datasets/26</coverpage-url>
+<label>26</label>
+<document-type>data</document-type>
+<type>article</type>
+<articleid>1025</articleid>
+<submission-date>2021-03-10T08:15:31-08:00</submission-date>
+<publication-title>Data Sets</publication-title>
+<context-key>22011921</context-key>
+<submission-path>utk_datasets/26</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;14 objects comprise this dataset:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342/datastream/OBJ/download&quot; target=&quot;_blank&quot;&gt;Dataset README File&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;Frequency-dependent transmission of Batrachochytrium salamandrivorans in eastern newts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;CodeFile1_PreProcess.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;CodeFile2_SusceptibleDistribution.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;CodeFile3_Optimisation.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;CodeFile4_FreqDependentProfile.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;CodeFile5_QuadraticSaturationProfile.R &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;CodeFile6_DensityInfPrevSurvival.R &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;CodeFile7_BsalLoad.R &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;DataFile1.csv &gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;DataFile2_Days0to5.RData&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2342&quot;&gt;DataFile3_Day8_NoDeaths.RData &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2353&quot;&gt;DataFile4_DensityInfPrevSurvival.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2354&quot;&gt;DataFile5_BsalLoad.csv&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Click &quot;Link to Full Text&quot; above to be taken to the dataset entry on trace.utk.edu.&lt;/p&gt;</value>
+</field>
+<field name="doi" type="string">
+<value>https://dx.doi.org/10.7290/xw8yy2RBeu</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-10-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>https://trace.utk.edu/islandora/object/utk.ir.fg:2341</value>
+</field>
+</fields>
+</document>
+</documents>

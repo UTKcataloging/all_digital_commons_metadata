@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MODELING AND SPICE IMPLEMENTATION OF SILICON-ON-INSULATOR (SOI) FOUR GATE (G4FET) TRANSISTOR</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mhasan4@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hasan</lname>
+<fname>Md Sakib</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Silicon-on-insulator (SOI)</keyword>
+<keyword>G4FET</keyword>
+<keyword>Spline</keyword>
+<keyword>Lagrange</keyword>
+<keyword>regression</keyword>
+<keyword>SPICE</keyword>
+</keywords>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As the device dimensions have reduced from micrometer to nanometer range, new bulk silicon devices are now facing many undesirable effects of scaling leading device engineers to look for new process technologies. Silicon-on-insulator (SOI) has emerged as a very promising candidate for resolving the major problems plaguing the bulk silicon technology. G&lt;sup&gt;4&lt;/sup&gt;FET [G4FET] is a SOI transistor with four independent gates. Although G&lt;sup&gt;4&lt;/sup&gt;FET has already shown great potential in different applications, the widespread adoption of a technology in circuit design is heavily dependent upon good SPICE (&lt;em&gt;Simulation Program with Integrated Circuit Emphasis&lt;/em&gt;) models. CAD (Computer Aided Design) tools are now ubiquitous in circuit design and a fast, robust and accurate SPICE model is absolutely necessary to transform G&lt;sup&gt;4&lt;/sup&gt;FET into a mainstream technology.&lt;/p&gt;
+&lt;p&gt;The research goal is to develop suitable SPICE models for G&lt;sup&gt;4&lt;/sup&gt;FET to aid circuit designers in designing innovative analog and digital circuits using this new transistor. The first phase of this work is numerical modeling of the G&lt;sup&gt;4&lt;/sup&gt;FET where four different numerical techniques are implemented, each with its merits and demerits. The first two methods are based on multivariate Lagrange interpolation and multidimensional Bernstein polynomial. The third numerical technique is based on multivariate regression polynomial to aid modeling with dense gridded data. Another suitable alternative namely multidimensional linear and cubic spline interpolation is explored as the fourth numerical modeling approach to solve some of the problems resulting from single polynomial approximation.&lt;/p&gt;
+&lt;p&gt;The next phase of modeling involves developing a macromodel combining already existing SPICE models of MOSFET (metal–oxide–semiconductor field-effect transistor) and JFET (junction-gate field-effect transistor). This model is easy to implement in circuit simulators and provides good results compared to already demonstrated experimental works with innovative G&lt;sup&gt;4&lt;/sup&gt;FET circuits. The final phase of this work involves the development of a physics-based compact model of G&lt;sup&gt;4&lt;/sup&gt;FET with some empirical fitting parameters. A model for depletion-all-around operation is implemented in circuit simulator based on previous work. Another simplified model, combining MOS and JFET action, is implemented in circuit simulator to model the accumulation mode operation of G&lt;sup&gt;4&lt;/sup&gt;FET.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4626</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6176&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4626</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6176</articleid>
+<submission-date>2017-06-15T13:18:33-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10310578</context-key>
+<submission-path>utk_graddiss/4626</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Nicole McFarlane, Ramakrishnan Kalyanaraman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

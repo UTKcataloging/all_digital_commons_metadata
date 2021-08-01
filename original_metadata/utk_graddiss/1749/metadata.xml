@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vehicle-to-grid (V2G) Reactive Power Operation Analysis of the EV/PHEV Bidirectional Battery Charger</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mkisacik@utk.edu</email>
+<lname>Kisacikoglu</lname>
+<fname>Mithat Can</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Electric Vehicle</keyword>
+<keyword>Charger</keyword>
+<keyword>Reactive Power</keyword>
+<keyword>Single-phase</keyword>
+<keyword>Vehicle-to-grid</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;More battery powered electric vehicles (EVs) and plug-in hybrid electric vehicles (PHEVs) will be introduced to the market in 2013 and beyond. Since these vehicles have large batteries that need to be charged from an external power source or directly from the grid, their charging circuits and grid interconnection issues are garnering more attention.&lt;/p&gt;
+&lt;p&gt;It is possible to incorporate more than one operation mode in a charger by allowing the power to flow bidirectionally. Usually, the bidirectional power transfer stands for two-way transfer of active power between the charger and the grid. The general term of sending active power from the vehicle to the grid is called vehicle to grid (V2G).&lt;/p&gt;
+&lt;p&gt;While plug-in electric vehicles (PEVs) potentially have the capability to fulfill the energy storage needs of the electric grid, the degradation on the battery during this operation makes it less preferable by the auto manufacturers and consumers. On the other hand, the on-board chargers can also supply energy storage system applications such as reactive power compensation, voltage regulation, and power factor correction without the need of engaging the battery with the grid and thereby preserving its lifetime.&lt;/p&gt;
+&lt;p&gt;This study shows the effect of reactive power operation on the design and operation of single-phase on-board chargers that are suitable for reactive power support. It further introduces a classification of single-phase ac-dc converters that can be used in on-board PEV chargers based on their power transfer capabilities in addition to the currently available surveys.&lt;/p&gt;
+&lt;p&gt;The cost of supplying reactive power is also important to effectively evaluate reactive power operation using chargers. There are two major impacts: one is on the converter design (incremental costs) and the other is on the operating electricity costs. Their combination shows the total effect and cost of reactive power operation and can be compared with other options of the utility grid to supply reactive power. Two customer scenarios are investigated to have two options of reactive power support. Level 1 and Level 2 reactive power support are evaluated separately.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1749</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2498&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1749</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2498</articleid>
+<submission-date>2012-03-24T21:01:34-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2697227</context-key>
+<submission-path>utk_graddiss/1749</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Burak Ozpineci, Fred Wang, Paul D. Frymier</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

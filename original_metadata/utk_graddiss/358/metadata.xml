@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Long Range Automated Persistent Surveillance</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yao</lname>
+<fname>Yi</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses long range automated persistent surveillance with focus on three topics: sensor planning, size preserving tracking, and high magnification imaging.&lt;/p&gt;
+&lt;p&gt;field of view should be reserved so that camera handoff can be executed successfully before the object of interest becomes unidentifiable or untraceable. We design a sensor planning algorithm that not only maximizes coverage but also ensures uniform and sufficient overlapped camera’s field of view for an optimal handoff success rate. This algorithm works for environments with multiple dynamic targets using different types of cameras. Significantly improved handoff success rates are illustrated via experiments using floor plans of various scales.&lt;/p&gt;
+&lt;p&gt;Size preserving tracking automatically adjusts the camera’s zoom for a consistent view of the object of interest. Target scale estimation is carried out based on the paraperspective projection model which compensates for the center offset and considers system latency and tracking errors. A computationally efficient foreground segmentation strategy, 3D affine shapes, is proposed. The 3D affine shapes feature direct and real-time implementation and improved flexibility in accommodating the target’s 3D motion, including off-plane rotations. The effectiveness of the scale estimation and foreground segmentation algorithms is validated via both offline and real-time tracking of pedestrians at various resolution levels.&lt;/p&gt;
+&lt;p&gt;Face image quality assessment and enhancement compensate for the performance degradations in face recognition rates caused by high system magnifications and long observation distances. A class of adaptive sharpness measures is proposed to evaluate and predict this degradation. A wavelet based enhancement algorithm with automated frame selection is developed and proves efficient by a considerably elevated face recognition rate for severely blurred long range face images.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/358</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1418&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>358</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1418</articleid>
+<submission-date>2010-02-15T12:42:38-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1146202</context-key>
+<submission-path>utk_graddiss/358</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Besma R. Abidi, Paul B. Crilly, Hairong Qi, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/YaoYi.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

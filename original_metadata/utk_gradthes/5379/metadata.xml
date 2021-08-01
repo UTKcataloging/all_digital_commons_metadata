@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Low-Overhead Migration of Read-Only and Read-Mostly Data for Adapting Applications to Hybrid Memory Systems</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Teague</lname>
+<fname>Joseph</fname>
+<mname>Townley</mname>
+</author>
+</authors>
+<keywords>
+<keyword>memory management</keyword>
+<keyword>heterogeneous memory architectures</keyword>
+<keyword>hybrid memory architectures</keyword>
+<keyword>page migration</keyword>
+<keyword>migration overhead</keyword>
+<keyword>translation lookaside buffer</keyword>
+</keywords>
+<abstract>&lt;p&gt;Memory systems containing different types of memory with varying capacity, latency, and bandwidth are rapidly becoming mainstream. Conventional memory management techniques do not suffice for these systems; they require alternative strategies to appropriately and effectively adapt application memory placement to these heterogeneous memory tiers. Software-based placement and movement strategies are the most desirable due to their flexibility and ease of adoption by end-users. However, there are substantial sources of overhead present when synchronizing low-level data movement with the operating system and running applications.This thesis proposes a novel method of reducing these memory movement overheads on hybrid memory systems. Many data objects are only written to early in their life cycle (i.e. shortly after allocation) and are effectively read-only after these initial writes. If this read-only and read-mostly data is duplicated across memory tiers, as opposed to moved, the application, in many cases, is able to avoid certain types of transfer overhead, such as page table entry (PTE) and MMU cache (TLB) synchronization stalls.This work describes the design and implementation of a kernel module, mtier that implements this optimization on memory that has been explicitly marked as read-only. Our evaluation demonstrates that this approach has the potential to substantially reduce data movement overheads, especially in applications that are multi-threaded and require frequent movement of data, allowing a flexible, software based approach for memory management in hybrid systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5379</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6789&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5379</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6789</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343222</context-key>
+<submission-path>utk_gradthes/5379</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Jantz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Micah Beck, Max Schuchard</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

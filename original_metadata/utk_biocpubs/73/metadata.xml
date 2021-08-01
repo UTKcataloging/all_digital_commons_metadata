@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A coarse-grained model for synergistic action of multiple enzymes on cellulose</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Los Alamos National Laboratory</institution>
+<lname>Asztalos</lname>
+<fname>Andrea</fname>
+</author>
+<author>
+<institution>Los Alamos National Laboratory</institution>
+<lname>Daniels</lname>
+<fname>Marcus</fname>
+</author>
+<author>
+<institution>Los Alamos National Laboratory</institution>
+<lname>Sethi</lname>
+<fname>Anurag</fname>
+</author>
+<author>
+<email>tshen@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shen</lname>
+<fname>Tongye</fname>
+</author>
+<author>
+<institution>Los Alamos National Laboratory</institution>
+<lname>Langan</lname>
+<fname>Paul</fname>
+</author>
+<author>
+<institution>Los Alamos National Laboratory</institution>
+<lname>Redondo</lname>
+<fname>Antonio</fname>
+</author>
+<author>
+<institution>Los Alamos National Laboratory</institution>
+<lname>Gnanakaran</lname>
+<fname>Sandrasegaram</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cellulose degradation</keyword>
+<keyword>Synergy</keyword>
+<keyword>Exo-cellulase</keyword>
+<keyword>Endo-cellulase</keyword>
+<keyword>Agent-based model</keyword>
+<keyword>Spatial heterogeneity</keyword>
+</keywords>
+<disciplines><discipline>Biochemistry</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Degradation of cellulose to glucose requires the cooperative action of three classes of enzymes, collectively known as cellulases. Endoglucanases randomly bind to cellulose surfaces and generate new chain ends by hydrolyzing β-1,4-D-glycosidic bonds. Exoglucanases bind to free chain ends and hydrolyze glycosidic bonds in a processive manner releasing cellobiose units. Then, β-glucosidases hydrolyze soluble cellobiose to glucose. Optimal synergistic action of these enzymes is essential for efficient digestion of cellulose. Experiments show that as hydrolysis proceeds and the cellulose substrate becomes more heterogeneous, the overall degradation slows down. As catalysis occurs on the surface of crystalline cellulose, several factors affect the overall hydrolysis. Therefore, spatial models of cellulose degradation must capture effects such as enzyme crowding and surface heterogeneity, which have been shown to lead to a reduction in hydrolysis rates.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We present a coarse-grained stochastic model for capturing the key events associated with the enzymatic degradation of cellulose at the mesoscopic level. This functional model accounts for the mobility and action of a single cellulase enzyme as well as the synergy of multiple endo- and exo-cellulases on a cellulose surface. The quantitative description of cellulose degradation is calculated on a spatial model by including free and bound states of both endo- and exo-cellulases with explicit reactive surface terms (e.g., hydrogen bond breaking, covalent bond cleavages) and corresponding reaction rates. The dynamical evolution of the system is simulated by including physical interactions between cellulases and cellulose.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Our coarse-grained model reproduces the qualitative behavior of endoglucanases and exoglucanases by accounting for the spatial heterogeneity of the cellulose surface as well as other spatial factors such as enzyme crowding. Importantly, it captures the endo-exo synergism of cellulase enzyme cocktails. This model constitutes a critical step towards testing hypotheses and understanding approaches for maximizing synergy and substrate properties with a goal of cost effective enzymatic hydrolysis&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biocpubs/73</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1072&amp;amp;context=utk_biocpubs&amp;amp;unstamped=1</fulltext-url>
+<label>73</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1072</articleid>
+<submission-date>2013-07-12T12:14:01-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Biochemistry, Cellular and Molecular Biology</publication-title>
+<context-key>4310394</context-key>
+<submission-path>utk_biocpubs/73</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Biotechnology for Biofuels 2012, 5:55 doi:10.1186/1754-6834-5-55</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

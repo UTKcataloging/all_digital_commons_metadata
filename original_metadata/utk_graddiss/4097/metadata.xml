@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Deterministic Neutron Transport and Multiphysics Experimental Safety Analyses at the High Flux Isotope Reactor</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>churt2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hurt</lname>
+<fname>Christopher</fname>
+<mname>James</mname>
+</author>
+</authors>
+<keywords>
+<keyword>hfir</keyword>
+<keyword>comsol</keyword>
+<keyword>neutron transport</keyword>
+<keyword>heat transfer</keyword>
+<keyword>multiphysics</keyword>
+<keyword>discrete ordinates</keyword>
+</keywords>
+<disciplines><discipline>Materials Science and Engineering</discipline>
+<discipline>Mechanical Engineering</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The computational ability to accurately predict the conditions in an experiment under irradiation is a valuable tool in the operation of a research reactor whose scientific mission includes isotope production, materials irradiation, and neutron activation analysis. Understanding of different governing physics is required to ascertain satisfactory conditions within the experiment: the neutron transport behavior throughout the reactor and the coupled behavior of heat transfer, structural mechanics and fluid flow. Computational methods and tools were developed for robust numerical analysis of experiment behavior at the Oak Ridge National Laboratory (ORNL) High Flux Isotope Reactor (HFIR), including fully-coupled thermo-mechanics in three plutonium-238 (&lt;sup&gt;238&lt;/sup&gt;Pu) production targets. In addition, a new computational tool was developed that solves neutron transport using the discrete ordinates method on a finite element mesh and offers multiphysics coupling.&lt;/p&gt;
+&lt;p&gt;The thermo-mechanical models of the &lt;sup&gt;238&lt;/sup&gt;Pu targets are solved using the COMSOL heat transfer and solid mechanics modules with irradiation behavior and thermophysical properties taken from measurements performed at ORNL. The experiments, placed in the permanent beryllium (PB) reflector, consist of neptunium dioxide/aluminum (NpO2/Al) pellets in Al containment, the model taking advantage of axisymmetry in two-dimensional R-Z cylindrical geometry. At times, extended analysis was needed for incomplete data sets and time schedules; however, the thermal-structure models ensured progression through three project phases of target qualification.&lt;/p&gt;
+&lt;p&gt;The neutron transport equation was solved in COMSOL, using the discrete ordinates formulation in the weak form partial differential equation (PDE) interface. Validation studies were performed for the dimensions developed (one-, two- and three- dimensional Cartesian as well as two-dimensional R-Z cylindrical/axi-symmetric) and compared to external deterministic and stochastic codes. The method was then applied to a beginning-of-cycle (BOC) simplified HFIR core, with good comparison to other static solutions of the HFIR, and a time-dependent extension to this tool was created and exhibited for a benchmark problem.&lt;/p&gt;
+&lt;p&gt;The research presented in this dissertation is the continued progress towards creating a comprehensive multiphysics methodology for studying the dynamic behavior of the HFIR core, and shows the capabilities of detailed space-time reactor physics studies and of multiphysics analyses for experiment qualification and safety analyses at a research reactor.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4097</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5332&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4097</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5332</articleid>
+<submission-date>2016-06-16T12:09:41-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5332/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8740928</context-key>
+<submission-path>utk_graddiss/4097</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald E. Pevey, Arthur E. Ruggles, James D. Freels, David H. Cook, David Chandler (courtesy member)</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

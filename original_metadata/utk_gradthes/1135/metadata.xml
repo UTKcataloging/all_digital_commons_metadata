@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A GPS-based Mobility Power Model for Military Vehicle Applications</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gbozdech@gmail.com</email>
+<lname>Bozdech</lname>
+<fname>George</fname>
+<mname>William</mname>
+</author>
+</authors>
+<keywords>
+<keyword>GPS</keyword>
+<keyword>power</keyword>
+<keyword>military</keyword>
+<keyword>vehicle</keyword>
+<keyword>duty cycle</keyword>
+</keywords>
+<disciplines><discipline>Bioresource and Agricultural Engineering</discipline>
+<discipline>Computer-Aided Engineering and Design</discipline>
+<discipline>Dynamics and Dynamical Systems</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, military vehicles have been equipped with hybrid, diesel-electric drives to improve fuel efficiency and stealth capabilities. These vehicles require an accurate estimate of the power duty cycles during distinct operating conditions. To meet this demand, a GPS-based mobility power and duty cycle analysis is one approach to predict the power requirements of on-road and off-road vehicles. The dynamic vehicle parameters needed to estimate the forces developed during locomotion are determined from the GPS tracking data, and these forces include the following: the motion resistance, gravitational, linear inertia, rotational inertia, and aerodynamic drag. The motion resistance force generated at the wheel and soil interface is quantified via the U.S. military&#39;s Vehicle Terrain Interaction (VTI) model.&lt;/p&gt;
+&lt;p&gt;On-road controlled tests were performed to validate the motion resistance, grade, and inertia components of the model. Uncontrolled tests were performed to validate the model in a scenario that simulated a U.S. military reconnaissance mission. GPS data was collected from Trimble 132 and Garmin 18 GPS receivers. The predicted mobility power values from the GPS data were compared to the measured drivewheel power estimated from engine data transmitted on the vehicle&#39;s Controller Area Network (CAN). The results from the validation tests indicated that the model accurately predicted the average power requirements of the vehicle while the model had a moderate level of variability when estimating the power requirements at discrete points in time during testing. The motion resistance tests conducted at slow speeds provided for reasonable estimates of the required mobility power. The absolute average percent error of the average positive power requirements during the grade and inertia tests was 6 and 21% respectively from the Trimble 132 GPS receiver. The absolute average percent error during the uncontrolled test was 20% from the Trimble 132 GPS receiver. The model was applied to GPS tracking data collected for the U.S. Army&#39;s 8-wheeled Stryker vehicle conducting reconnaissance missions at Fort Lewis, Washington and Pohakuloa Training Area (PTA), Hawaii. The mission-specific power duty cycle characteristics were quantified, and the average positive power requirement at Fort Lewis and PTA was 65.4 and 43.6 kW respectively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1135</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2306&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1135</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2306</articleid>
+<submission-date>2012-03-20T09:35:19-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2682274</context-key>
+<submission-path>utk_gradthes/1135</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Paul D. Ayers</value>
+</field>
+<field name="advisor2" type="string">
+<value>David K. Irick, John B. Wilkerson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

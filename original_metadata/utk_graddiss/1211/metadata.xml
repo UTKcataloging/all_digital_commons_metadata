@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterization of a Small Animal SPECT Platform for use in Preclinical Translational Research</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dosborne@utk.edu</email>
+<lname>Osborne</lname>
+<fname>Dustin Ryan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SPECT</keyword>
+<keyword>preclinical</keyword>
+<keyword>translational</keyword>
+<keyword>I-125</keyword>
+<keyword>SPECT-CT</keyword>
+</keywords>
+<disciplines><discipline>Health and Medical Physics</discipline>
+<discipline>Medical Specialties</discipline>
+</disciplines><abstract>&lt;p&gt;Imaging Iodine-125 requires an increased focus on developing an understanding of how fundamental processes used by imaging systems work to provide quantitative output for the imaging system. Isotopes like I-125 pose specific imaging problems that are a result of low energy emissions as well as how closely spaced those emissions are in the spectrum. This work seeks to characterize the performance of a small animal SPECT-CT imaging system with respect to imaging I-125 for use in a preclinical translational research environment and to understand how the performance of this system relates to critical applications such as attenuation and scatter correction. The specific aims of this work examined several key areas of system function and performance with respect to I-125 imaging.&lt;/p&gt;
+&lt;p&gt;The first aim examined the geometric SPECT calibration routine used for the Inveon imaging system with a particular focus on determining the accuracy of the calibration as well as the robustness of the algorithm under routine and adverse imaging conditions. The second aim was to characterize detector uniformity issues that may arise by comparing the uniformity performance of the system with both I-125 and Co-57 as well as examining the possibility of altering the acquisition method for normalization scans to increase the uniformity performance. The third aim sought to optimize the energy window used for acquisition of I-125 data and to determine the effects the selection of the window had on valid and scatter events. The fourth aim used the optimized windows, determined by the third aim, to assess the performance of a reconstruction algorithm, currently under development, that corrects for attenuation and scatter effects. The fifth and final aim of this work sought to assess the feasibility acquiring SPECT-CT data simultaneously and to assess the quality of data that could be achieved if simultaneous acquisition of the two imaging modalities was, in fact, possible.&lt;/p&gt;
+&lt;p&gt;This work met these aims by performing an extensive series of studies examining the response of the system to I-125 imaging. These included multiple series of phantom imaging using both manufacturer as well as custom-designed sources for use with measurements involving I-125 and Co-57. Statistics from over 60 datasets with analysis in greater than 480 regions of interest were used for the analysis of attenuation and scatter correction data alone. The final study involving simultaneous SPECT-CT acquisition required modification of the imaging hardware to enable this type of data collection as well as development of a reconstruction algorithm to correctly handle the CT data acquired in a step-and-shoot helical mode.&lt;/p&gt;
+&lt;p&gt;A number of key findings resulted from this work including the validation of the calibration routine of this imaging system, even under non-ideal imaging conditions for both the SPECT and CT modalities. Uniformity performance with I-125 was found to be a challenge with this imaging system but reductions in performance compared to other isotopes were not significant enough to introduce severe artifacts into the image data. Optimization of I-125 parameters resulted in improvements of the processed data indicating that the recommended settings provided by the manufacturer could be altered to provide results that better balance between minimizing scatter effects and maximizing detection of valid events. Assessment of the proposed scatter and attenuation correction algorithm for this system showed marked improvement as compared to data processed without these corrections. The final study of simultaneous SPECT-CT imaging proved this acquisition method to be feasible on a commercial system with minimal&lt;/p&gt;
+&lt;p&gt;The primary conclusions drawn from this study indicate that the system is adequate for imaging with I-125 when care is taken to properly maintain the system as well as keeping sources current and properly centered in the scanner field of view during calibration. The study strongly illustrates the necessity of compensating any data collected using I-125 for attenuation and scatter effects; with some regions showing greater than 25% attenuation and approximately 30% improvement in quantitative values for scatter affected regions with the corrections applied. The study also concludes that simultaneous SPECT-CT is feasible with minor adjustments to a commercial platform.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1211</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2348&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1211</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2348</articleid>
+<submission-date>2011-10-17T19:51:45-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2348/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2300201</context-key>
+<submission-path>utk_graddiss/1211</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Townsend, Jonathan Wall, Jens Gregor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Eliminating Harmonics in a Cascaded H-Bridges Multilevel Inverter Using Resultant Theory, Symmetric Polynomials, and Power Sums</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>McKenzie</lname>
+<fname>Keith</fname>
+<mname>Jeremy</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis studies a multilevel converter with assumed equal dc sources. The multilevel fundamental switching scheme is used to control the needed power electronics switches. Also, a method is presented where switching angles are computed such that a desired fundamental sinusoidal voltage is produced while at the same time certain higher order harmonics are eliminated.&lt;/p&gt;
+&lt;p&gt;Using Fourier Series theory, the transcendental equations eliminating certain higher order harmonics were derived in terms of the switching angles. Furthermore, these transcendental equations were transformed into polynomial equations by making some simple changes of variables. Resultant theory was used to solve the polynomial equations. Furthermore, using the ideas of Symmetric Polynomials and Power Sums, these polynomials were reduced further to form smaller degree polynomials, which are much easier to solve. This approach will find all solutions. Numerical techniques, such as Newton-Raphson, will only find one solution.&lt;/p&gt;
+&lt;p&gt;The computer algebra software package Mathematica was used to symbolically solve the above polynomials. When five dc sources were used, it was found that quite often the switching angles could be selected such that the output voltage Total Harmonic Distortion (THD) was less than 7%. When six dc sources were used, quite often the switching angles could be selected such that the output voltage THD was less than 6%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4695</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6282&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4695</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6282</articleid>
+<submission-date>2017-08-16T05:42:55-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10607782</context-key>
+<submission-path>utk_gradthes/4695</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chiasson, Lawler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

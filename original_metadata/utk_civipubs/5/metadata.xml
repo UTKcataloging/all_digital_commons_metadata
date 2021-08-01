@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A novel downscaling technique for the linkage of global and regional air quality modeling</title>
+<publication-date>2010-04-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lam</lname>
+<fname>Y.</fname>
+<mname>F.</mname>
+</author>
+<author>
+<email>jsfu@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Fu</lname>
+<fname>Joshua</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+<discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Recently, downscaling global atmospheric model outputs (GCTM) for the USEPA Community Multiscale Air Quality (CMAQ) Initial (IC) and Boundary Conditions (BC) have become practical because of the rapid growth of computational technologies that allow global simulations to be completed within a reasonable time. The traditional method of generating IC/BC by profile data has lost its advocates due to the weakness of the limited horizontal and vertical variations found on the gridded boundary layers. Theoretically, high quality GCTM IC/BC should yield a better result in CMAQ. Unfortunately, several researchers have found that the outputs from GCTM IC/BC are not necessarily better than profile IC/BC due to the excessive transport of O3 aloft in GCTM IC/BC. In this paper, we intend to investigate the effects of using profile IC/BC and global atmospheric model data. In addition, we are suggesting a novel approach to resolve the existing issue in downscaling.&lt;/p&gt;
+&lt;p&gt;In the study, we utilized the GEOS-Chem model outputs to generate time-varied and layer-varied IC/BC for year 2002 with the implementation of tropopause determining algorithm in the downscaling process (i.e., based on chemical (O&lt;sub&gt;3&lt;/sub&gt;) tropopause definition). The comparison between the implemented tropopause approach and the profile IC/BC approach is performed to demonstrate improvement of considering tropopause. It is observed that without using tropopause information in the downscaling process, unrealistic O&lt;sub&gt;3&lt;/sub&gt; concentrations are created at the upper layers of IC/BC. This phenomenon has caused over-prediction of surface O&lt;sub&gt;3&lt;/sub&gt; in CMAQ. In addition, the amount of over-prediction is greatly affected by temperature and latitudinal location of the study domain. With the implementation of the algorithm, we have successfully resolved the incompatibility issues in the vertical layer structure between global and regional chemistry models to yield better surface O&lt;sub&gt;3&lt;/sub&gt; predictions than profile IC/BC for both summer and winter conditions. At the same time, it improved the vertical O&lt;sub&gt;3&lt;/sub&gt; distribution of CMAQ outputs. It is strongly recommended that the tropopause information should be incorporated into any two-way coupled global and regional models, where the tropospheric regional model is used, to solve the vertical incompatibility that exists between global and regional models.&lt;/p&gt;
+&lt;p&gt;doi:10.5194/acp-10-4013-2010&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Publisher&#39;s note&lt;/b&gt;: We have discovered that the previously published paper was not the latest version of the manuscript we intended to use. Some corrections made during the second ACPD reviewing process were not incorporated in the text. As a result, the figure numbers (i.e., figure number below the graph) were not referenced correctly in the manuscript. Therefore, we have decided to re-publish this paper as a corrigendum.&lt;/p&gt;</abstract>
+<fpage>4013</fpage>
+<lpage>4031</lpage>
+<coverpage-url>https://trace.tennessee.edu/utk_civipubs/5</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1009&amp;amp;context=utk_civipubs&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1009</articleid>
+<submission-date>2011-10-31T09:00:26-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Civil &amp; Environmental Engineering</publication-title>
+<context-key>3779604</context-key>
+<submission-path>utk_civipubs/5</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-04-01T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Atmospheric Chemistry and Physics</value>
+</field>
+</fields>
+</document>
+</documents>

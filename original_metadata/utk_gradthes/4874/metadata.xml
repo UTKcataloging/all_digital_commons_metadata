@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High-current integrated battery chargers for mobile applications</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ggabian@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Gabian</lname>
+<fname>Gabriel</fname>
+<mname>Alejo</mname>
+</author>
+</authors>
+<keywords>
+<keyword>integrated circuits</keyword>
+<keyword>DCDC Converters</keyword>
+<keyword>battery charger</keyword>
+<keyword>power electronics</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Battery charging circuits for mobile applications, such as smart phones and tablets, require both small area and low losses. In addition, to reduce the charging time, high current is needed through the converter. In this work, exploration of the Buck, the 3-Level Buck and the Hybrid Buck converter is performed over the input voltage, the total FET area and the load current. An analytical loss model for each topology is constructed and constrated by experimental results. In addition, packaging and bond wire impact on on-chip losses is analyzed by 3D modeling. Finally, a comparison between the topologies is presented determining potential candidates for a maximum on-chip loss of 2 W at output voltage of 4 V and 10 A of output current.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4874</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6199&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4874</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6199</articleid>
+<submission-date>2017-06-15T08:40:08-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10307943</context-key>
+<submission-path>utk_gradthes/4874</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Syed Islam, Benjamin Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

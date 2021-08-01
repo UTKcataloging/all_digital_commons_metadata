@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of solvability and applications of stochastic optimal control problems through systems of forward-backward stochastic differential equations.</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kyakovle@utk.edu</email>
+<lname>Yakovlev</lname>
+<fname>Kirill Yevgenyevich</fname>
+</author>
+</authors>
+<keywords>
+<keyword>numerical</keyword>
+<keyword>stochastic</keyword>
+<keyword>metapopulation</keyword>
+<keyword>markovian iteration</keyword>
+</keywords>
+<disciplines><discipline>Control Theory</discipline>
+<discipline>Numerical Analysis and Computation</discipline>
+<discipline>Other Applied Mathematics</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;A stochastic metapopulation model is investigated. The model is motivated by a deterministic model previously presented to model the black bear population of the Great Smoky Mountains in east Tennessee. The new model involves randomness and the associated methods and results differ greatly from the deterministic analogue. A stochastic differential equation is studied and the associated results are stated and proved. Connections between a parabolic partial differential equation and a system of forward-backward stochastic differential equations is analyzed.&lt;/p&gt;
+&lt;p&gt;A ``four-step&#39;&#39; numerical scheme and a Markovian type iterative numerical scheme are implemented. Algorithms and programs in the programming languages C and R are provided. Convergence speed and accuracy is compared for two numerical methods. Moreover, simulation results are presented and discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1374</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2488&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1374</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2488</articleid>
+<submission-date>2012-03-19T06:12:13-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2488/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2678371</context-key>
+<submission-path>utk_graddiss/1374</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Jie Xiong</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chuck Collins, Suzanne Lenhart, Phillip Daves</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

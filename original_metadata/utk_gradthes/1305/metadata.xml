@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Memory Controller for FPGA Applications</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bhunter6@utk.edu</email>
+<lname>Hunter</lname>
+<fname>Bryan Jacob</fname>
+</author>
+</authors>
+<keywords>
+<keyword>FPGA</keyword>
+<keyword>memory controller</keyword>
+<keyword>reconfigurable precision</keyword>
+<keyword>security</keyword>
+</keywords>
+<disciplines><discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As designers and researchers strive to achieve higher performance, field-programmable gate arrays (FPGAs) become an increasingly attractive solution. As coprocessors, FPGAs can provide application specific acceleration that cannot be matched by modern processors. Most of these applications will make use of large data sets, so achieving acceleration will require a capable interface to this data. The research in this thesis describes the design of a memory controller that is both efficient and flexible for FPGA applications requiring floating point operations. In particular, the benefits of certain design choices are explored, including: scalability, memory caching, and configurable precision. Results are given to prove the controller&#39;s effectiveness and to compare various design trade-offs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1305</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2484&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1305</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2484</articleid>
+<submission-date>2012-08-02T18:47:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3173949</context-key>
+<submission-path>utk_gradthes/1305</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Hairong Qi, Nathanael Paul</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

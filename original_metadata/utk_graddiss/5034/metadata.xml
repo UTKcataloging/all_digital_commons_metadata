@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Control and Placement of Battery Energy Storage Systems for Power System Oscillation Damping</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhu16@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhu</lname>
+<fname>Yongli</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Battery Energy Storage System</keyword>
+<keyword>Mixed-Integer Particle Swarm Optimization</keyword>
+<keyword>Oscillation Damping</keyword>
+<keyword>State of Charge</keyword>
+<keyword>Optimal Placement</keyword>
+</keywords>
+<abstract>&lt;p&gt;Power system low-frequency oscillation, with frequency at 0.2-2.5Hz, is a common phenomenon arising between groups of generators, which is also called “electromechanical oscillation”. Current oscillation damping control measures are mainly based on power system stabilizers (PSS) and conventional FACTs (Flexible AC Transmission Systems). With the development of power electronics technologies, more and more battery energy storage systems (BESSs) have been integrated into power systems, which provide a new option for oscillation damping. In this dissertation, a systematical research work regarding optimal placement and control of BESS units for oscillation damping is presented.In the first part, the BESS model is established based on the power output characteristics of its power converter interface considering the converter power limit, State of Charge (SOC) limit, and the converter time constant. A BESS based control method is then proposed to improve the damping ratio of a target electromechanical mode to a desired level by charging or discharging the BESSs based on local bus measurements. The relationship between the desired damping improvement and the BESS controller parameters is derived analytically for a single-machine-infinite-bus system and a multi-machine system respectively. This BESS-based approach is then tested on a four-generator power system. The factors of the power converter limit, converter time constant, PSSs and battery SOC are studied. Simulation results validate the effectiveness of the proposed analytical control formula.In the second part, an optimal placement problem on the BESS locations and controller parameters is formulated for oscillation damping improvement. First, the objective function and constraints are introduced to establish a black-box mixed-integer optimization problem by interfacing the time-domain simulation with a Mixed-Integer Particle Swarm Optimization (Mixed-PSO) algorithm. Then, the proposed optimization procedure is tested on the New England 39-bus system and a Nordic test system. The local optimality of the results is also verified via time-domain simulations. Finally, the applicability of the proposed method is investigated regarding seasonal load changes, the minimum number of BESS units to be placed, improvement of the Mixed-PSO efficiency and performance comparison of different controllers. Results demonstrate the effectiveness of the proposed placement approach.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5034</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6575&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5034</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6575</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415432</context-key>
+<submission-path>utk_graddiss/5034</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Yilu Liu, Hairong Qi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-3004-2693</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document are based on the author’s following publications: 
+Y. Zhu, C. Liu, B. Wang, K. Sun, “Damping Control for a Target Oscillation Mode Using Battery Energy Storage,” Journal of Modern Power Systems and Clean Energy, vol. 6, no. 4, pp. 833-845, July 2018;
+Y. Zhu, C. Liu, K. Sun, D. Shi, Z. Wang, “Optimization of Battery Energy Storage to Improve Power System Oscillation Damping,” IEEE Trans. Sustainable Energy, in press, doi: 10.1109/TSTE.2018.2858262.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

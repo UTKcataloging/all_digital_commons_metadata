@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>AN EXPERIMENTAL INVESTIGATION OF HIGH-SPEED AIR-BREATHING VEHICLE PERFORMANCE METRICS</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kstamper@vols.utk.edu</email>
+<lname>Stamper</lname>
+<fname>Katherine</fname>
+<mname>M</mname>
+</author>
+</authors>
+<keywords>
+<keyword>hypersonics</keyword>
+<keyword>scramjets</keyword>
+<keyword>shock-wave/boundary-layer interactions</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+</disciplines><abstract>&lt;p&gt;High-speed air-breathing vehicles are one of the main hypersonic vehicles currently being developed. There is a current push by major world powers to develop these vehicles and one of the major limiting factors is engine design. The high-speed air-breathing vehicles necessitate an engine that can perform at higher speeds and higher temperatures, such as a scramjet. This engine is broken into three main parts: the inlet, isolator, and combustor. One of the primary concerns for these vehicles is engine unstart, which is when there is no longer supersonic flow through the engine and the engine can no longer perform. This is typically considered a worst-case scenario for these vehicles and is equated with vehicle loss.&lt;/p&gt;
+&lt;p&gt;This study is broken into two main experiments looking at the inlet and isolator sections of the scramjet flow path. These experiments were done with computational counterparts as the need for complementary studies has been well documented in the literature. Specifically for scramjets, the flight Mach number, Reynolds number, and enthalpy are very difficult to match in ground testing. Thus, there is a distinct need for computational studies to support ground testing in vehicle development.&lt;/p&gt;
+&lt;p&gt;The inlet study uses a crossing shock-wave/boundary-layer interaction as a canonical representation of an inlet, specifically at an off-design-condition with a large shock-wave/boundary layer created in the inlet flow. Then, vortex generators were employed to determine the effect of passive flow control on such an interaction. They were shown to delay separation but cause in increase in flow distortion.&lt;/p&gt;
+&lt;p&gt;The isolator study used a dynamic cylinder model to create a shock train in the wind tunnel test section. This accurately modeled a shock train in an isolator section of a scramjet flow path. Unstart was then created by moving the shock train with the dynamic cylinder which changed the backpressure ratio. Additionally, the asymmetrical nature of the shock train was investigated in the experimental data after the asymmetry was noted in the computations. The experimental data conferred well with the computational data as a strong asymmetrical trend was shown.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5857</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7064&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5857</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7064</articleid>
+<submission-date>2020-09-30T12:26:32-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>19620664</context-key>
+<submission-path>utk_gradthes/5857</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John D. Schmisseur</value>
+</field>
+<field name="advisor2" type="string">
+<value>Phillip A. Kreth, Trevor M. Moeller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

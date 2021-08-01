@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparative Analysis of Predictive Data-Mining Techniques</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Nsofor</lname>
+<fname>Godswill</fname>
+<mname>Chukwugozie</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis compares five different predictive data-mining techniques (four linear techniques and one nonlinear technique) on four different and unique data sets: the Boston Housing data sets, a collinear data set (called “the COL” data set in this thesis), an airliner data set (called “the Airliner” data in this thesis) and a simulated data set (called “the Simulated” data in this thesis).  These data are unique, having a combination of the following characteristics: few predictor variables, many predictor variables, highly collinear variables, very redundant variables and presence of outliers.&lt;/p&gt;
+&lt;p&gt;The natures of these data sets are explored and their unique qualities defined.  This is called data pre-processing and preparation.  To a large extent, this data processing helps the miner/analyst to make a choice of the predictive technique to apply.  The big problem is how to reduce these variables to a minimal number that can completely predict the response variable.&lt;/p&gt;
+&lt;p&gt;Different data-mining techniques, including multiple linear regression MLR, based on the ordinary least-square approach; principal component regression (PCR), an unsupervised technique based on the principal component analysis; ridge regression, which uses the regularization coefficient (a smoothing technique); the Partial Least Squares (PLS, a supervised technique), and the Nonlinear Partial Least Squares (NLPLS), which uses some neural network functions to map nonlinearity into models, were applied to each of the data sets.  Each technique has different methods of usage; these different methods were used on each data set first and the best method in each technique was noted and used for global comparison with other techniques for the same data set.&lt;/p&gt;
+&lt;p&gt;Based on the five model adequacy measuring criteria used, the PLS outperformed all the other techniques for the Boston housing data set.  It used only the first nine factors and gave an MSE of 21.1395, a condition number less than 29, and a modified coefficient of efficiency, E-mod, of 0.4408.  The closest models to this are the models built with all the variables in MLR, all PCs in PCR, and all factors in PLS.  Using only the mean absolute error (MAE), the ridge regression with a regularization parameter of 1 outperformed all other models, but the condition number (CN) of the PLS (nine factors) was better.  With the COL data, which is highly collinear data set, the best model, based on the condition number (&lt;100) and MSE (57.8274) was the PLS with two factors.  If the selection is based on the MSE only, the ridge regression with an alpha value of 3.08 would be the best because it gave an MSE of 31.8292.  The NLPLS was not considered even though it gave an MSE of 22.7552 because NLPLS mapped nonlinearity into the model and in this case, the solution was not stable.  With the Airliner data set, which is also a highly ill-conditioned data set with redundant input variables, the ridge regression with regularization coefficient of 6.65 outperformed all the other models (with an MSE of 2.874 and condition number of 61.8195).  This gave a good compromise between smoothing and bias.  The lease MSE and MAE were recorded in PLS (all factors), PCR (all PCs), and MLR (all variables), but the condition numbers were far above 100.  For the Simulated data set, the best model was the optimal PLS (eight factors) model with an MSE of 0.0601, an MAE of 0.1942 and a condition number of 12.2668.  The MSE and MAE were the same for the PCR model built with PCs that accounted for 90% of the variation in the data, but the condition numbers were all more than 1000.&lt;/p&gt;
+&lt;p&gt;The PLS, in most cases, gave better models both in the case of ill-conditioned data sets and also for data sets with redundant input variables.  The principal component regression and the ridge regression, which are methods that basically deal with the highly ill-conditioned data matrix, performed well also in those data sets that were ill-conditioned.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4495</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6008&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4495</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6008</articleid>
+<submission-date>2017-04-12T08:12:54-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10009934</context-key>
+<submission-path>utk_gradthes/4495</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adedeji B. Badiru, Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Ford, Charles H. Aikens</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

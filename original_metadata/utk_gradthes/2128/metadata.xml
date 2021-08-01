@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Verification of Parameterized Digital Signal Processing Macros for Microelectronic Systems</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Miller</lname>
+<fname>Adam</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Digital system design is a broad field that is growing every day.  As technology grows, the complexity of systems grows also, which leads to longer design times.  A Design-for-reuse policy can decrease design time by building flexibility into designs as they are created.  By creating parameterized macros, they are more likely to be reused.  Verifying the capabilities of macros is also important, and testing should be incorporated into each step of the design process.  In this thesis, designing parameterized macros is discussed, with a Complex Fast Fourier Transform presented as an example of a complex algorithm, and three different Rounder blocks as examples of simple macros.  Each Rounder was tested successfully, instantiating one of the Rounders with several different configurations.  The Fast Fourier Transform macro was simulated successfully to Post-layout Simulation for one set of parameters, and for several sets was simulated in the Pre-synthesis step.  The Fast Fourier Transform macro was fabricated using a TSMC 180nm process and verified to be working correctly.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2128</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3501&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2128</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3501</articleid>
+<submission-date>2013-10-07T12:57:44-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4677458</context-key>
+<submission-path>utk_gradthes/2128</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>D.W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Chandra Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

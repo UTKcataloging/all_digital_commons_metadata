@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Deep Reinforcement Learning for Real-Time Residential HVAC Control</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>emckee5@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>McKee</lname>
+<fname>Evan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>machine learning</keyword>
+<keyword>deep learning</keyword>
+<keyword>demand response</keyword>
+<keyword>optimization</keyword>
+</keywords>
+<abstract>&lt;p&gt;The model-free Deep Reinforcement Learning (DRL) environment developed for this work attempts to minimize energy cost during residential heating, ventilation, and air conditioning (HVAC) operation. The HVAC load associated with heating and cooling is an ideal candidate for price optimization through automation for two reasons: Its power footprint in a typical home is sizeable, and the required level of participation from an inhabitant is passive. HVAC is difficult to accurately model and unique for every home, so online machine learning is used to allow for real-time readjustment in performance. Energy cost for the cooling unit shown in this work is minimized by scheduling on/off commands around dynamic prices. By taking advantage of precooling events that take place when the price is low, the agent is able to reduce operational cost without violating user comfort. This work applies to multi-zone cooling operation, where each zone’s indoor temperature affects the others, and will be extended to include heating as well as management of other home loads. After training in simulation, the learner was tested in a real home where it achieved a 21.4% cost reduction when compared to rule-based, fixed-setpoint operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5579</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7113&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5579</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7113</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409626</context-key>
+<submission-path>utk_gradthes/5579</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Amir Sadovnik, Hector Pulgar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

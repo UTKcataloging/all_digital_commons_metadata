@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of a Robotic Instrument Manipulator for Endoscopic Deployment</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rponten@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Ponten</lname>
+<fname>Ryan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>manipulator</keyword>
+<keyword>workspace</keyword>
+<keyword>endoscopic instrument</keyword>
+<keyword>degrees of freedom</keyword>
+<keyword>dexterity</keyword>
+</keywords>
+<disciplines><discipline>Applied Mechanics</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Computer-Aided Engineering and Design</discipline>
+<discipline>Electro-Mechanical Systems</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis describes the initial design process for an application of continuum robotics to endoscopic surgical procedures, specifically dissection of the colon. We first introduce the long-term vision for a benchtop dual-instrument endoscopic system with intuitive haptic controllers and then narrow our focus to the design and testing of the instrument manipulator itself, which must be actuated through the long, winding channel of a standard colonoscope.&lt;/p&gt;
+&lt;p&gt;Based on design requirements for a target procedure, we analyze simulations of two types of continuum robots using recently established kinematic and mechanic modeling approaches: the concentric-tube robot (CTR) and the concentric agonist-antagonist robot (CAAR). In addition, we investigate solutions to the primary engineering challenge to this system, which is accurately transmitting joint motion through exible, hollow shafts. Based on our study of the manipulator simulations and transmission shafts, we select instrument designs for prototyping and testing. We present approaches for controlling the position of the robotic instrument in real-time using an input device, and demonstrate the degree of control we can achieve in various configurations by performing time trial experiments with our prototype robotic instruments. Our observations of the manipulator during testing inform us of sources of error, and we conclude this report with suggestions for future work, including shaft design and alternative continuum manipulator approaches.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4921</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6185&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4921</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6185</articleid>
+<submission-date>2017-06-14T04:00:51-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10297337</context-key>
+<submission-path>utk_gradthes/4921</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel C. Rucker</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Hamel, Jindong Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

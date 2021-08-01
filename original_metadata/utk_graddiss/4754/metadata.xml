@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploration of Equal Tune Transverse Coupling in the Spallation Neutron Source Accumulator Ring</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rpotts1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Potts</lname>
+<fname>Robert</fname>
+<mname>Edward</mname>
+<suffix>III</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>accelerator physics</keyword>
+<keyword>beam dynamics</keyword>
+<keyword>resonance</keyword>
+<keyword>oak ridge national lab</keyword>
+</keywords>
+<disciplines><discipline>Physics</discipline>
+<discipline>Plasma and Beam Physics</discipline>
+</disciplines><abstract>&lt;p&gt;The development of hadron machines is one of the main areas of focus in accelerator technology and is specifically called out as a priority in the high energy physics 10-year plan[70]. The trend for future accelerators is to move towards very high-intensity high-power accelerators to be used as proton drivers for secondary particles, target stations, and high-energy accelerators. These accelerators require lower beam losses and more stringent beam controls to maintain typical loss levels and meet specific final beam distributions.&lt;/p&gt;
+&lt;p&gt;This study focuses on the recently documented coupling resonance in the Spallation Neutron Source (SNS) accumulator ring. It was previously demonstrated that certain beam configurations resulted in a loss of independent control of the on-target transverse beam profiles[12]. This is an issue for SNS production operations. Yet there has not been a robust experimental exploration of the coupling resonance aimed at understanding the effect on the evolution of the beam distribution. The SNS is an ideal facility for this exploration.&lt;/p&gt;
+&lt;p&gt;We studied the coupling experimentally using traditional wire scanners and a novel Electron Scanner. We demonstrated coupling in both the RMS size and beam profile that was correlated with the tune split. The coupling started at low intensity and had an inverse relationship with intensity; indicating that it is not a Montague resonance. We modeled one experiment using a realistic self-consistent particle-in-cell simulation in PyORBIT. We demonstrated strong coupling that was very sensitivity to the tune split. By comparing fringe field models, we demonstrated that fringe fields are the source of the resonance. Our final experiment focused on mitigating the effects during operations. We used the Electron Scanner to demonstrate that the most recent production settings produced no coupling. Further mitigation of the resonance should not be necessary, provided that the tunes remain split. Additionally, we calibrated the newly installed Electron Scanner by measuring the undeflected electron beam, the Twiss parameters, and establishing a benchmark with the wire scanner emittance station. In conclusion, this dissertation constitutes a significant advancement to the overall knowledge of equal tune resonances in circular particle accelerators, especially the effect on the beam profiles.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4754</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5774&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4754</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5774</articleid>
+<submission-date>2017-02-21T06:12:24-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9721507</context-key>
+<submission-path>utk_graddiss/4754</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Geoffrey L. Greene</value>
+</field>
+<field name="advisor2" type="string">
+<value>Sarah M. Cousineau, Jeffrey A. Holmes, Soren P. Sorensen, Charles S. Feigerle</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

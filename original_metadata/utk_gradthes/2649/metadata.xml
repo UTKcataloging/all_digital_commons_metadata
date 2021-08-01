@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Automated Finite Element Analysis Framework for the Probabilistic Evaluation of Composite Lamina Properties</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jweigan2@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Weigand</lname>
+<fname>Jonathan</fname>
+<mname>Phillips</mname>
+</author>
+</authors>
+<keywords>
+<keyword>composites</keyword>
+<keyword>representative volume element</keyword>
+<keyword>micromechanics</keyword>
+<keyword>lamina</keyword>
+<keyword>finite element analysis</keyword>
+<keyword>fiber reinforced composites</keyword>
+</keywords>
+<disciplines><discipline>Civil Engineering</discipline>
+<discipline>Mechanics of Materials</discipline>
+<discipline>Structural Engineering</discipline>
+<discipline>Structural Materials</discipline>
+<discipline>Structures and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis outlines the development of computational modeling tools used to predict the elastic properties of composite lamina from representative volume elements (RVE) using numerical methods. The homogenization approach involves the use of Gauss’s Theorem to simply the average volumetric strain integral into a surface integral containing which is defined by surface displacements and their direction. Simulations of RVEs under specific loading conditions (longitudinal tension or shear and transverse tension or shear) are then performed in the software package ABAQUS to obtain the surface displacements. It was found that obtaining quality meshes and applying periodic boundary conditions for each RVE was very user and time-intensive, thus, modeling tools were developed to automate the modeling process. The homogenized composite lamina properties are obtained using C++ code to generate models, batch scripts to run successive simulations in ABAQUS, and C++ code to extract surface displacements from the output data and calculate the final properties. The model generation code contains many user-controllable features such as constituent material properties, fiber volume fraction, mesh density, and type of applied boundary conditions. The modeling tools are then applied in a sensitivity study modeling a unit cell to identify which constituent properties have the largest impact on out-of-plane lamina properties. The framework is then extended to model lamina RVEs consisting of two different fiber materials. The location and percent composition of the two different fiber materials are varied to analyze the effect on out-of-plane lamina properties and identify optimal material combination.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2649</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3421&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2649</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3421</articleid>
+<submission-date>2013-10-01T22:56:10-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3421/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4656202</context-key>
+<submission-path>utk_gradthes/2649</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stephanie C. TerMaath</value>
+</field>
+<field name="advisor2" type="string">
+<value>Edwin G. Burdette, Richard Bennett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

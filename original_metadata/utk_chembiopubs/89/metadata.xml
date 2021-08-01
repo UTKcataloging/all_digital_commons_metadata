@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On Algebraic Properties of Extreme Pathways in Metabolic Networks</title>
+<publication-date>2010-02-21T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Jevremovic</lname>
+<fname>Dimitrije</fname>
+</author>
+<author>
+<email>ctrinh@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Trinh</lname>
+<fname>Cong</fname>
+<mname>T</mname>
+</author>
+<author>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Srienc</lname>
+<fname>Friedrich</fname>
+</author>
+<author>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Boley</lname>
+<fname>Daniel</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Metabolic pathway analysis</subject-area>
+</subject-areas>
+<disciplines><discipline>Biochemical and Biomolecular Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We give a concise development of some of the major algebraic properties of extreme pathways (pathways that cannot be the result of combining other pathways) of metabolic networks, contrasting them to those of elementary flux modes (pathways involving a minimal set of reactions). In particular, we show that an extreme pathway can be recognized by a rank test as simple as the existing rank test for elementary flux modes, without computing all the modes. We make the observation that, unlike elementary flux modes, the property of being an extreme pathway depends on the presence or absence of reactions beyond those involved in the pathway itself. Hence, the property of being an extreme pathway is not a local property. As a consequence, we find that the set of all elementary flux modes for a network includes all the elementary flux modes for all its subnetworks, but that this property does not hold for the set of all extreme pathways.&lt;/p&gt;</abstract>
+<fpage>107</fpage>
+<lpage>119</lpage>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/89</coverpage-url>
+<label>89</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1089</articleid>
+<submission-date>2014-02-04T13:11:29-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>3779582</context-key>
+<submission-path>utk_chembiopubs/89</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Dimitrije Jevremovic, Cong T. Trinh, Friedrich Srienc, and Daniel Boley. (2010). Journal of Computational Biology. 17(2): 107-119. doi:10.1089/cmb.2009.0020.</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-02-21T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.ncbi.nlm.nih.gov/pubmed/20170399</value>
+</field>
+<field name="source_publication" type="string">
+<value>J Comp Biol</value>
+</field>
+</fields>
+</document>
+</documents>

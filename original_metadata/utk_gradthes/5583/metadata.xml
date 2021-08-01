@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A CMOS Sub-threshold W-2W Current mode Digital-to-Analog Converter</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sraby1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Raby</lname>
+<fname>Spencer</fname>
+</author>
+</authors>
+<keywords>
+<keyword>W-2W</keyword>
+<keyword>DAC</keyword>
+<keyword>sub-threshold</keyword>
+<keyword>binary weighted</keyword>
+<keyword>current mode</keyword>
+</keywords>
+<abstract>&lt;p&gt;A sub-threshold digital-to-analog converter (DAC) has been investigated to support an ultra-low power monolithic spectral analysis system based on G m -C biquadratic filter circuits with tunable center frequency and Q. The proposed DAC provides bias current to the G m -C circuits to tune filter characteristics. This thesis describes the DAC and difficulties associated with sub-threshold operation for a current-division based DAC architecture when pA-level resolution is needed. The proposed 12-bit current-mode DAC uses the MOSFET-only W-2W architecture and is designed for a 180-nm CMOS process. The DAC’s full- scale current is 100 nA and least significant bit (LSB) current is 25pA. The proposed DAC architecture is also segmented, having a 5-bit current steering unary DAC on the back-end to provide an additional current range from 100 nA to 500 nA. In addition to the challenge of fine current resolution, this research reviews device sizing considerations unique to sub-threshold current-mode DAC design.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5583</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7117&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5583</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7117</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409631</context-key>
+<submission-path>utk_gradthes/5583</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock Dr.</value>
+</field>
+<field name="advisor2" type="string">
+<value>Garrett Rose Dr., Nicole McFarlane Dr.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automatic Image Based Time Varying 3D Feature Extraction and Tracking</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Lu</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;3D time-varying data sets are complex. The intrinsics of those data cannot be readily comprehended by users solely based on visual investigation. Computational tools such as feature extraction and tracking are often necessary. Until now, most existing algorithms in this domain work effectively in the object space, relying on prior knowledge of the data. How to find a more flexible and efficient method which can perform automatically to implement extraction and tracking remains an attractive topic.&lt;/p&gt;
+&lt;p&gt;This thesis presents a new image-based method that extracts and tracks the 3D time- varying volume data sets. The innovation of the proposed approach is two-fold. First, all analyses are performed in the image space on volume rendered images without accessing the actual volume data itself. The image-based processing will help to both save storage space in the memory and reduce computation burden. Secondly, the new approach does not require any prior knowledge of the user-defined “feature” or a built model. All the parameters used by the algorithms are automatically determined by the system itself, thus flexibility and efficiency can be achieved at the same time.&lt;/p&gt;
+&lt;p&gt;The proposed image-based feature extraction and tracking system consists of four components: feature segmentation (or extraction), feature description (or shape analysis), classification, and feature tracking. Feature segmentation is to identify and label individual features from the image so that we can describe and track them separately. We combine both region-based and edge-based segmentation approaches to implement the extraction process. Feature description is to analyze each feature and derive a vector to describe the feature such that the subsequent tracking step does not have to rely on the entire feature extracted, but instead a much smaller and informative feature descriptor. Classification is to identify the corresponding features from two consecutive image frames along both the time and the spatial domain. Feature tracking is to study and model the evolution of features based on the correspondence computation result from classification stage. Experimental results show that the image-based feature extraction and tracking system provides high fidelity with great efficiency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1848</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3203&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1848</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3203</articleid>
+<submission-date>2013-09-13T07:58:30-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4583284</context-key>
+<submission-path>utk_gradthes/1848</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Michael J. Roberts</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

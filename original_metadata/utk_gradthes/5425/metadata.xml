@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A stochastic continuum damage model for dynamic fracture analysis of quasi-brittle materials using asynchronous Spacetime Discontinuous Galerkin (aSDG) method</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bbahmani@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bahmani</lname>
+<fname>Bahador</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The microstructural design has an essential effect on the fracture response of brittle materials. We present a stochastic bulk damage formulation to model dynamic brittle fracture. This model is compared with a similar interfacial model for homogeneous and heterogeneous materials. The damage models are rate-dependent, and the corresponding damage evolution includes delay effects. The evolution equation specifies the rate at which damage tends to its quasi-static limit. The relaxation time of the model introduces an intrinsic length scale for dynamic fracture and addresses the mesh sensitivity problem of earlier damage models with much less computational efforts. The ordinary differential form of the damage equation makes this remedy quite simple and enables capturing the loading rate sensitivity of strain-stress response. A stochastic field is defined for material cohesion and fracture strength to involve microstructure effects in the proposed formulations. The statistical fields are constructed through the Karhunen-Loeve (KL) method.An advanced asynchronous Spacetime Discontinuous Galerkin (aSDG) method is used to discretize the final system of coupled equations. Local and asynchronous solution process, linear complexity of the solution versus the number of elements, local recovery of balance properties, and high spatial and temporal orders of accuracy are some of the main advantages of the aSDG method.Several numerical examples are presented to demonstrate mesh insensitivity of the method and the effect of boundary conditions on dynamic fracture patterns. It is shown that inhomogeneity greatly differentiates fracture patterns from those of a homogeneous rock, including the location of zones with maximum damage. Moreover, as the correlation length of the random field decreases, fracture patterns resemble angled-cracks observed in compressive rock fracture. The final results show that a stochastic bulk damage model produces more realistic results in comparison with a homogenizes model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5425</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6833&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5425</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6833</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528556</context-key>
+<submission-path>utk_gradthes/5425</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Reza Abedi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stephanie TerMaath, Timothy Truster</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

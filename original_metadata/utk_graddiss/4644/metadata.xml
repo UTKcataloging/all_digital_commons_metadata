@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Characterization of a Plate Fuel Hotspot Model in COMSOL</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mricha44@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Richards</lname>
+<fname>Michael</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Aluminum clad plate fuel is common to many high performance water cooled research reactors, including the High Flux Isotope Reactor (HFIR) at ORNL. Fuel manufacturing defects associated with fuel segregation and incomplete bonding of the cladding to the fuel material currently limit the performance of HFIR. A high resolution multi-physics (HRMP) simulation of concurrent fuel segregation and incomplete bonding of fuel cladding is developed in this dissertation. The simulation development begins with a review of legacy modeling of the fuel segregation and cladding non-bond, and then proceeds to identify improvements possible in the HRMP framework. A contact conductance model is selected for the incomplete bonding of cladding to fuel, advancing previous models. A verification of the COMSOL simulation platform used to construct the evaluation model is performed using the method of manufactured solutions, including assessments of the solid conduction modeling domain, the fluid coolant channel domain, and coupled fuel to coolant channel domains. Solution verification is performed with the least squares, grid convergence index approach, and indirect validation of the evaluation model is performed using data generated to establish thermal performance limits for the Advanced Neutron Source reactor. The verification and validation efforts are also extensions to previous work using COMSOL for HRMP modeling of HFIR, and establish numerical and modeling uncertainties. The evaluation model is then employed in a sensitivity assessment of 18 parameters in the evaluation model using Latin Hypercube sampling methods to establish a ranking of parameter importance in predicting four quantities of interest.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4644</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5890&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4644</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5890</articleid>
+<submission-date>2017-03-08T07:48:50-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9811210</context-key>
+<submission-path>utk_graddiss/4644</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur E. Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>G. Ivan Maldonado, Kivanc Ekici, Kwai L. Wong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

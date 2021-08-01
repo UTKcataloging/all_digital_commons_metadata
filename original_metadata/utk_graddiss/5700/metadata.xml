@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>CMOS Silicon Photomultiplier using PerimeterGated Single Photon Avalanche Diode</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mshawkat@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Shawkat</lname>
+<fname>Mst</fname>
+<mname>Shamim</mname>
+</author>
+</authors>
+<keywords>
+<keyword>silicon photmultipliers</keyword>
+<keyword>single photon avalanche diodes</keyword>
+<keyword>perimeter gated single photon avalanche diodes</keyword>
+<keyword>analog silicon photmultiplier</keyword>
+<keyword>digital silicon photmultiplier</keyword>
+<keyword>asynchronous address event representation</keyword>
+<keyword>CMOS</keyword>
+</keywords>
+<abstract>&lt;p&gt;Photomultiplier tubes (PMTs) are used as photo-sensors in many applications including the medical ﬁeld, nuclear science, and astrophysics. Since silicon photmultipliers(SiPMs) are relatively insusceptible to magnetic ﬁelds, compact, and require relativelylower bias voltages, they have been aroused interests and showing a great potentialas a substitute to photomultiplier tubes (PMTs). SiPM consists of a large array ofparallel diodes biased above breakdown with a series resistor. These diodes are knownas single photon avalanche diodes or SPADs. This dissertation uses SiPMs based ona new device Perimeter Gated SPADs or PGSPAD, fabricated in standard CMOS.The novel contributions of this work are as follows.1. The eﬀectiveness of the additional gate terminal to modulate the breakdownvoltage has been veriﬁed for the perimeter gated SPAD device fabricated in standard0.5 µm HV and 0.35 µm CMOS processes.2. PGSPAD noise has been experimentally characterized over a range oftemperatures with the variation of gate voltage for the ﬁrst time.3. A full chip CMOS analog SiPM using PGSPAD has been reported for the ﬁrsttime and fully characterized for noise, sensitivity, signal to noise ratio throughout thevisible spectral range, and thermal characterization for varying bias voltages.4. A CMOS digital SiPM with fully digital asynchronous address eventrepresentation (AER) readout has been demonstrated for the ﬁrst time to providehigh bandwidth with tunable noise performance using PGSPAD based pixels.5. Finally, a novel electrical model for the perimeter gated SPAD based siliconphotomultiplier (SiPM) detector has been developed to accurately simulate the static,dynamic, and stochastic noise behavior of the SiPM detector with the eﬀect ofadditional gate terminal.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5700</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7466&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5700</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7466</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419551</context-key>
+<submission-path>utk_graddiss/5700</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicole McFarlane</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Garrett Rose, Steven A. Ripp</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2022-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

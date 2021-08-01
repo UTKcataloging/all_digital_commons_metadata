@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic &lt;i&gt;In Vivo&lt;/i&gt; Skeletal Feature Tracking Via Fluoroscopy Using a Human Gait Model</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wander21@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Anderson</lname>
+<fname>William</fname>
+<mname>Patrick</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Robotics</keyword>
+<keyword>Medical Robotics</keyword>
+<keyword>Robotics Controls</keyword>
+<keyword>Visual Servo Tracking</keyword>
+<keyword>Human Gait Modeling</keyword>
+<keyword>Image Processing</keyword>
+</keywords>
+<disciplines><discipline>Applied Mechanics</discipline>
+<discipline>Biomechanical Engineering</discipline>
+<discipline>Electro-Mechanical Systems</discipline>
+<discipline>Mechanical Engineering</discipline>
+<discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;The Tracking Fluoroscope System II, a mobile robotic fluoroscopy platform, developed and built at the University of Tennessee, Knoxville, presently employs a pattern matching algorithm in order to identify and track a marker placed upon a subject’s knee joint of interest. The purpose of this research is to generate a new tracking algorithm based around the human gait cycle for prediction and improving the overall accuracy of joint tracking.&lt;/p&gt;
+&lt;p&gt;This research centers around processing the acquired x-ray images of the desired knee joint obtained during standard clinical operation in order to identify and track directly through the acquired image. Due to the inability for tracking through x-ray imaging during knee crossovers (when both knees enter and align within the x-ray image), a form of prediction is developed around the kinematics of human gait motion. This gait model is designed to consider the natural swinging motion of the knee during walking in order to predict path for the x-ray system to follow when active tracking is not possible. During the later stages of research, modifications were made in the setup and testing in order to accommodate changes put in place upon the research environment.&lt;/p&gt;
+&lt;p&gt;Individually, the processing of the x-ray images and the prediction ability of the gait model have shown decent success. The overall controlling algorithm which manages the tracking system has demonstrated some downfalls, however, which have been attributed to the modified setup of the testing. Therefore, while the final results of this research demonstrated some shortcomings, it has confirmed its usability in a real-time environment with the capability of tracking the complete joint implant, and the human gait model developed provides a means of accounting for the natural swing motion of the knee joints during leg motion. The end results provide evidence for a feasible system should it be possible to test and employ it in the scenario to which it was first intended, i.e. in conjunction with x-ray images.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4730</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5760&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4730</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5760</articleid>
+<submission-date>2017-02-15T09:45:14-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9692205</context-key>
+<submission-path>utk_graddiss/4730</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jindong Tan, D. Caleb Rucker, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

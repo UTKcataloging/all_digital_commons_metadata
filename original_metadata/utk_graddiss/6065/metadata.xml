@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Synchronized measurement data conditioning and real-time applications</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xdeng6@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Deng</lname>
+<fname>Xianda</fname>
+</author>
+</authors>
+<keywords>
+<keyword>PMU</keyword>
+<keyword>synchrophasor measurements</keyword>
+<keyword>real-time applications</keyword>
+<keyword>data conditioning</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Phasor measurement units (PMU), measuring voltage and current phasor with synchronized timestamps, is the fundamental component in wide-area monitoring systems (WAMS) and reveals complex dynamic behaviors of large power systems. The synchronized measurements collected from power grid may degrade due to many factors and impacts of the distorted synchronized measurement data are significant to WAMS. This dissertation focus on developing and improving applications with distorted synchronized measurements from power grid. The contributions of this dissertation are summarized below. In Chapter 2, synchronized frequency measurements of 13 power grids over the world, including both mainland and island systems, are retrieved from Frequency Monitoring Network (FNET/GridEye) and the statistical analysis of the typical power grids are presented. The probability functions of the power grid frequency based on the measurements are calculated and categorized. Developments of generation trip/load shedding and line outage events detection and localization based on high-density PMU measurements are investigated in Chapters 3 and 4 respectively. Four different types of abnormal synchronized measurements are identified from the PMU measurements of a power grid. The impacts of the abnormal synchronized measurements on generation trip/load shedding events detection and localization are evaluated. A line outage localization method based on power flow measurements is proposed to improve the accuracy of line outage events location estimation. A deep learning model is developed to detect abnormal synchronized measurements in Chapter 5. The performance of the model is evaluated with abnormal synchronized measurements from a power grid under normal operation status. Some types of abnormal synchronized measurements in the testing cases are recently observed and reported. An extensive study of hyper-parameters in the model is conducted and evaluation metrics of the model performance are presented. A non-contact synchronized measurements study using electric field strength is investigated in Chapter 6. The theoretical foundation and equation derivations are presented. The calculation process for a single circuit AC transmission line and a double circuit AC transmission line are derived. The derived method is implemented with Matlab and tested in simulation cases.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6065</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7449&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6065</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7449</articleid>
+<submission-date>2020-10-16T12:42:47-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7449/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19848900</context-key>
+<submission-path>utk_graddiss/6065</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Fangxing Li, Di Shi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;http://orcid.org/0000-0003-4252-5780&lt;/p&gt;</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Portions of this document were previously published in journal and conference papers&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

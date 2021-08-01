@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Access in Wide Area Networks of Heterogeneous Workstations</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Buckner</lname>
+<fname>Kim</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The accessibility of data in wide area networks can be difficult. This research shows the use of the Internet Backplane Protocol (IBP) along with a modified version of the C standard I/O library that can allow data to be easily accessible without having to make major modifications to legacy code. In fact if legacy programs only use standard input and output routines, they need only be recompiled to effect a homogeneous file system. It also demonstrates that this access is predictable enough to make decisions on what data to access and in what fashion that access is most effective.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1978</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3409&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1978</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3409</articleid>
+<submission-date>2013-09-20T12:21:27-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4609892</context-key>
+<submission-path>utk_graddiss/1978</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James S. Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bradley Vander Zanden, Jeffrey Becker, Micah Beck</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

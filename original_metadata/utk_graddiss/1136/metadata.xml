@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Evolution and Mechanics of Translational Control in Plants</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jvaughn7@utk.edu</email>
+<lname>Vaughn</lname>
+<fname>Justin</fname>
+<mname>N.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>comparative sequence analysis</keyword>
+<keyword>post-transcriptional</keyword>
+<keyword>polysome microarray</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Cell Biology</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Genetics</discipline>
+<discipline>Genomics</discipline>
+</disciplines><abstract>&lt;p&gt;The expression of numerous plant mRNAs is attenuated by RNA sequence elements located in the 5&#39; and 3&#39; untranslated regions (UTRs).  For example, in plants and many higher eukaryotes, roughly 35% of genes encode mRNAs that contain one or more upstream open reading frames (uORFs) in the 5&#39; UTR.  For this dissertation I have analyzed the pattern of conservation of such mRNA sequence elements. In the first set of studies, I have taken a comparative transcriptomics approach to address which RNA sequence elements are conserved between various families of angiosperm plants.  Such conservation indicates an element&#39;s fundamental importance to plant biology, points to pathways for which it is most vital, and suggests the mechanism by which it acts.  Conserved motifs were detected in 3% of genes.  These include di-purine repeat motifs, uORF-associated motifs, putative binding sites for PUMILIO-like RNA binding proteins, small RNA targets, and a wide range of other sequence motifs.  Due to the scanning process that precedes translation initiation, uORFs are often translated, thereby repressing initiation at the an mRNA&#39;s main ORF.  As one might predict, I found a clear bias against the AUG start codon within the 5&#39; untranslated region (5&#39; UTR) among all plants examined.  Further supporting this finding, comparative analysis indicates that, for ~42% of genes, AUGs and their resultant uORFs reduce carrier fitness. Interestingly, for at least 5% of genes, uORFs are not only tolerated, but enriched.  The remaining uORFs appear to be neutral.  Because of their tangible impact on plant biology, it is critical to differentiate how uORFs affect translation and how, in many cases, their inhibitory effects are neutralized.  In pursuit of this aim, I developed a computational model of the initiation process that uses five parameters to account for uORF presence.  In vivo translation efficiency data from uORF-containing reporter constructs were used to estimate the model&#39;s parameters in wild type Arabidopsis.  In addition, the model was applied to identify salient defects associated with a mutation in the subunit h of eukaryotic initiation factor 3 (eIF3h).  The model indicates that eIF3h, by supporting re-initation during uORF elongation, facilitates uORF tolerance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1136</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2235&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1136</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2235</articleid>
+<submission-date>2011-07-05T11:33:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2086713</context-key>
+<submission-path>utk_graddiss/1136</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Albrecht G. von Arnim</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel M. Roberts, Michael A. Gilchrist, Igor B. Jouline, Feng Chen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biochemistry and Cellular and Molecular Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>5UTR_motifs.pdf</archive-name>
+<upload-name>5UTR_motifs.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2235&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+<description>Alignments of 5&#39; UTR motifs</description>
+</file>
+<file>
+<archive-name>3UTR_motifs.pdf</archive-name>
+<upload-name>3UTR_motifs.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=2235&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+<description>Alignments of 3&#39; UTR motifs</description>
+</file>
+<file>
+<archive-name>PRE_categories.xls</archive-name>
+<upload-name>PRE_categories.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=2235&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

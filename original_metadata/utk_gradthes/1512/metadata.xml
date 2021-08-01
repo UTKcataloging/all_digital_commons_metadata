@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of a Complex-conjugate Shaper and Baseline Restorer for a Silicon-based Neutron Detector Front-end</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Britton</lname>
+<fname>Jonathan</fname>
+<mname>Lanier</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the design and implementation of a CMOS shaper with baseline restoration for use in the silicon-based neutron detector front-end to be used at the Spallation Neutron Source (SNS) at the Oak Ridge National Laboratory (ORNL). The system consists of a voltage-to-current (V-to-I) converter, a four-pole complex-conjugate semi-Gaussian current-input active filter, and a ground-sensing baseline restorer (BLR) operational transconductance amplifier (OTA). The first prototype chip &lt;em&gt;Patara &lt;/em&gt;has been fabricated in the TSMC 0.35-micron process, and experimental results show that proper functionality was achieved. The shaper, which is influenced by a real pole prior to the V-to-I converter, has poles at approximately 2 MHz and approximates a Gaussian output shape for an input pulse with rise time near 20 nanoseconds. The output signal has a full-width half-maximum (FWHM) of around 270 nanoseconds and a settling time of 0.6 microseconds, allowing for a 1- microsecond pulse-pair resolution. The shaper and baseline restorer have selectable polarity to accommodate input pulses of both polarities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1512</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2956&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1512</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2956</articleid>
+<submission-date>2013-07-30T11:57:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4361086</context-key>
+<submission-path>utk_gradthes/1512</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed K. Islam, M. Nance Ericson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

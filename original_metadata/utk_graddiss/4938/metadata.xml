@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and application of synchronized wide-area power grid measurement</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wyao3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yao</lname>
+<fname>Wenxuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>phasor measurement</keyword>
+<keyword>PMU</keyword>
+<keyword>wide area monitoring system</keyword>
+<keyword>GPS synchronization</keyword>
+</keywords>
+<abstract>&lt;p&gt;Phasor measurement units (PMUs) provide an innovative technology for real-time monitoring of the operational state of entire power systems and significantly improve power grid dynamic observability. This dissertation focuses on development and application of synchronized power grid measurements. The contributions of this dissertation are as followed:First, a novel method for successive approximation register analog to digital converter control in PMUs is developed to compensate for the sampling time error caused by the division remainder between the desirable sampling rate and the oscillator frequency. A variable sampling interval control method is presented by interlacing two integers under a proposed criterion. The frequency of the onboard oscillator is monitored in using the PPS from GPS.Second, the prevalence of GPS signal loss (GSL) on PMUs is first investigated using real PMU data. The correlation between GSL and time, spatial location, solar activity are explored via comprehensive statistical analysis. Furthermore, the impact of GSL on phasor measurement accuracy has been studied via experiments. Several potential solutions to mitigate the impact of GSL on PMUs are discussed and compared.Third, PMU integrated the novel sensors are presented. First, two innovative designs for non-contact PMUs presented. Compared with conventional synchrophasors, non-contact PMUs are more flexible and have lower costs. Moreover, to address nonlinear issues in conventional CT and PT, an optical sensor is used for signal acquisition in PMU. This is the first time the utilization of an optical sensor in PMUs has ever been reported.Fourth, the development of power grid phasor measurement function on an Android based mobile device is developed. The proposed device has the advantages of flexibility, easy installation, lower cost, data visualization and built-in communication channels, compared with conventional PMUs.Fifth, an identification method combining a wavelet-based signature extraction and artificial neural network based machine learning, is presented to identify the location of unsourced measurements. Experiments at multiple geographic scales are performed to validate the effectiveness of the proposed method using ambient frequency measurements. Identification accuracy is presented and the factors that affect identification performance are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4938</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6479&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4938</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6479</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415122</context-key>
+<submission-path>utk_graddiss/4938</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wei Gao, Mingzhou Jin, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

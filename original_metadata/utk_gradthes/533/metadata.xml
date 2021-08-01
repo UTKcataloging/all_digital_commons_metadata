@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accelerating the Stochastic Simulation Algorithm Using Emerging Architectures</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jenkins</lname>
+<fname>David</fname>
+<mname>Dewayne</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In order for scientists to learn more about molecular biology, it is imperative that they have the ability to construct and evaluate models. Model statistics consistent with the chemical master equation can be obtained using Gillespie&#39;s stochastic simulation algorithm (SSA). Due to the stochastic nature of the Monte Carlo simulations, large numbers of simulations must be run in order to get accurate statistics for the species populations and reactions. However, the algorithm tends to be computationally heavy and leads to long simulation runtimes for large systems. In this research, the performance of Gillespie&#39;s stochastic simulation algorithm is analyzed and optimized using a number of techniques and architectures. These techniques include parallelizing simulations using streaming SIMD extensions (SSE), message passing interface with multicore systems and computer cluters, and CUDA with NVIDIA graphics processing units. This research is an attempt to make using the SSA a better option for modeling biological and chemical systems. Through this work, it will be shown that accelerating the algorithm in both of the serial and SSE implementations proved to be beneficial, while the CUDA implementation had lower than expected results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/533</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1569&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>533</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1569</articleid>
+<submission-date>2010-02-26T07:27:15-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1175106</context-key>
+<submission-path>utk_gradthes/533</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Arel, Robert Harrison</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Stochastic and Optimal Distributed Control for Energy Optimization and Spatially Invariant Systems</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jdong@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Dong</lname>
+<fname>Jin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Energy optimization; distributed control; spatially invariant systems; stochastic control; HVAC systems; virtualized server; power efficient</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+</disciplines><abstract>&lt;p&gt;Improving energy efficiency and grid responsiveness of buildings requires sensing, computing and communication to enable stochastic decision-making and distributed operations. Optimal control synthesis plays a significant role in dealing with the complexity and uncertainty associated with the energy systems.&lt;/p&gt;
+&lt;p&gt;The dissertation studies general area of complex networked systems that consist of interconnected components and usually operate in uncertain environments. Specifically, the contents of this dissertation include tools using stochastic and optimal distributed control to overcome these challenges and improve the sustainability of electric energy systems.&lt;/p&gt;
+&lt;p&gt;The first tool is developed as a unifying stochastic control approach for improving energy efficiency while meeting probabilistic constraints. This algorithm is applied to demonstrate energy efficiency improvement in buildings and improving operational efficiency of virtualized web servers, respectively. Although all the optimization in this technique is in the form of convex optimization, it heavily relies on semidefinite programming (SP). A generic SP solver can handle only up to hundreds of variables. This being said, for a large scale system, the existing off-the-shelf algorithms may not be an appropriate tool for optimal control. Therefore, in the sequel I will exploit optimization in a distributed way.&lt;/p&gt;
+&lt;p&gt;The second tool is itself a concrete study which is optimal distributed control for spatially invariant systems. Spatially invariance means the dynamics of the system do not vary as we translate along some spatial axis. The optimal &lt;em&gt;H&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt; [H-2] decentralized control problem is solved by computing an orthogonal projection on a class of Youla parameters with a decentralized structure. Optimal &lt;em&gt;H∞&lt;/em&gt;&lt;em&gt; &lt;/em&gt;[H-infinity] performance is posed as a distance minimization in a general &lt;em&gt;L∞&lt;/em&gt;&lt;em&gt; &lt;/em&gt;[L-infinity] space from a vector function to a subspace with a mixed &lt;em&gt;L∞&lt;/em&gt;&lt;em&gt; &lt;/em&gt;and &lt;em&gt;H∞&lt;/em&gt;&lt;em&gt; &lt;/em&gt;space structure. In this framework, the dual and pre-dual formulations lead to finite dimensional convex optimizations which approximate the optimal solution within desired accuracy. Furthermore, a mixed &lt;em&gt;L&lt;/em&gt;&lt;sup&gt;2 &lt;/sup&gt;[L-2]&lt;em&gt; &lt;/em&gt;&lt;em&gt;/H∞ &lt;/em&gt;synthesis problem for spatially invariant systems as trade-offs between transient performance and robustness. Finally, we pursue to deal with a more general networked system, i.e. the Non-Markovian decentralized stochastic control problem, using stochastic maximum principle via Malliavin Calculus.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3908</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5213&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3908</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5213</articleid>
+<submission-date>2016-02-26T13:09:56-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8225444</context-key>
+<submission-path>utk_graddiss/3908</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik M. Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Jan Rosinski, Donatello Materassi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

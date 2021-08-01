@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Bayesian Approach to Aerial Localization of Radioactive Sources</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rwilker6@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wilkerson</lname>
+<fname>Robert</fname>
+<mname>Blake</mname>
+</author>
+</authors>
+<keywords>
+<keyword>gamma</keyword>
+<keyword>radiation</keyword>
+<keyword>search</keyword>
+<keyword>Bayes</keyword>
+<keyword>MCNP</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Securing nuclear material has become an important area for the safety of the U.S. and other countries. Within nuclear security, there is a potential to use orphaned or stolen radioactive sources to cause harm. As the amount of radioisotopes used by government and commercial businesses increases, the need to secure these sources becomes exponentially more difficult. It is well known that there have been several cases of lost, orphaned or stolen nuclear sources across the globe. There is a need for state-of-the-art radiation search methods to search for these potentially dangerous radioactive sources that could be misplaced. While there are several well established methods for ground-based source search, the options for using air-based detection systems are not as effective. This thesis describes the development and implementation of the Broad-Area Search Bayesian Processor (BASBP) algorithm. This program was created to effectively search for lost sources from an unmanned aerial detection system. This approach utilizes Bayes&#39; theory coupled to a MCNP weighting method to quickly estimate the location of possible radioactive sources. This Bayesian algorithm shows improvements in source localization for low-level source isotopes. BASBP has been shown to locate radioactive sources that are weaker than standard minimum detectable activities. It also shows promise for using other data to more effectively locate lost radioactive sources.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4273</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5494&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4273</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5494</articleid>
+<submission-date>2016-09-27T11:06:23-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9202497</context-key>
+<submission-path>utk_gradthes/4273</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Howard L. Hall</value>
+</field>
+<field name="advisor2" type="string">
+<value>John D. Auxier II, Lawrence H. Heilbronn</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;FOR OFFICIAL USE ONLY&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

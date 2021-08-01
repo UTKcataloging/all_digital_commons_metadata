@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards Adaptive and Grid-Transparent Adjoint-Based Design Optimization Frameworks</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>djeddi@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Djeddi</lname>
+<fname>Seyedreza</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computational Fluid Dynamics (CFD)</keyword>
+<keyword>Unstructured/Mixed Grids</keyword>
+<keyword>Design Optimization</keyword>
+<keyword>Adjoint Sensitivity Analysis</keyword>
+<keyword>Adaptive Grid Redistribution</keyword>
+<keyword>Convergence Acceleration</keyword>
+</keywords>
+<abstract>&lt;p&gt;With the growing environmental consciousness, the global perspective in energy production is shifting towards renewable resources. As recently reported by the Office of Energy Efficiency &amp; Renewable Energy at the U.S. Department of Energy, wind-generated electricity is the least expensive form of renewable power and is becoming one of the cheapest forms of electricity from any source. The aeromechanical design of wind turbines is a complex and multidisciplinary task which necessitates a high-fidelity flow solver as well as efficient design optimization tools. With the advances in computer technologies, Computational Fluid Dynamics (CFD) has established its role as a high-fidelity tool for aerodynamic design.In this dissertation, a grid-transparent unstructured two- and three-dimensional compressible Reynolds-Averaged Navier-Stokes (RANS) solver, named UNPAC, is developed. This solver is enhanced with an algebraic transition model that has proven to offer accurate flow separation and reattachment predictions for the transitional flows. For the unsteady time-periodic flows, a harmonic balance (HB) method is incorporated that couples the sub-time level solutions over a single period via a pseudo-spectral operator. Convergence to the steady-state solution is accelerated using a novel reduced-order-model (ROM) approach that can offer significant reductions in the number of iterations as well as CPU times for the explicit solver. The unstructured grid is adapted in both steady and HB cases using an r-adaptive mesh redistribution (AMR) technique that can efficiently cluster nodes around regions of large flow gradients.Additionally, a novel toolbox for sensitivity analysis based on the discrete adjoint method is developed in this work. The Fast automatic Differentiation using Operator-overloading Technique (FDOT) toolbox uses an iterative process to evaluate the sensitivities of the cost function with respect to the entire design space and requires only minimal modifications to the available solver. The FDOT toolbox is coupled with the UNPAC solver to offer fast and accurate gradient information. Ultimately, a wrapper program for the design optimization framework, UNPAC-DOF, has been developed. The nominal and adjoint flow solutions are directly incorporated into a gradient-based design optimization algorithm with the goal of improving designs in terms of minimized drag or maximized efficiency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5276</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6820&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5276</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6820</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342927</context-key>
+<submission-path>utk_graddiss/5276</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vasilios Alexiades, Jay Frankel, Majid Keyhani</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-3454-6525</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

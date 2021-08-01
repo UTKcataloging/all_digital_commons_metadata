@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multimodal Three Dimensional Scene Reconstruction, The Gaussian Fields Framework</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Boughorbel</lname>
+<fname>Fayçal</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The focus of this research is on building 3D representations of real world scenes and objects using different imaging sensors. Primarily range acquisition devices (such as laser scanners and stereo systems) that allow the recovery of 3D geometry, and multi-spectral image sequences including visual and thermal IR images that provide additional scene characteristics. The crucial technical challenge that we addressed is the automatic point-sets registration task. In this context our main contribution is the development of an optimization-based method at the core of which lies a unified criterion that solves simultaneously for the dense point correspondence and transformation recovery problems. The new criterion has a straightforward expression in terms of the datasets and the alignment parameters and was used primarily for 3D rigid registration of point-sets. However it proved also useful for feature-based multimodal image alignment. We derived our method from simple Boolean matching principles by approximation and relaxation. One of the main advantages of the proposed approach, as compared to the widely used class of Iterative Closest Point (ICP) algorithms, is convexity in the neighborhood of the registration parameters and continuous differentiability, allowing for the use of standard gradient-based optimization techniques. Physically the criterion is interpreted in terms of a Gaussian Force Field exerted by one point-set on the other. Such formulation proved useful for controlling and increasing the region of convergence, and hence allowing for more autonomy in correspondence tasks. Furthermore, the criterion can be computed with linear complexity using recently developed Fast Gauss Transform numerical techniques. In addition, we also introduced a new local feature descriptor that was derived from visual saliency principles and which enhanced significantly the performance of the registration algorithm. The resulting technique was subjected to a thorough experimental analysis that highlighted its strength and showed its limitations. Our current applications are in the field of 3D modeling for inspection, surveillance, and biometrics. However, since this matching framework can be applied to any type of data, that can be represented as N-dimensional point-sets, the scope of the method is shown to reach many more pattern analysis applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1804</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3222&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1804</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3222</articleid>
+<submission-date>2013-08-14T11:12:53-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4435907</context-key>
+<submission-path>utk_graddiss/1804</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel B. Koch, Seong G. Kong, Hairong Qi, Jian Huang, Andreas Koschan, Besma Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

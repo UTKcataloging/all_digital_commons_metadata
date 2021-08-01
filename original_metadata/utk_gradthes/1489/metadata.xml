@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Class-E Inductive Powering Link with Backward Data Communications for Implantable Sensor Systems</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Adeeb</lname>
+<fname>Mohammad</fname>
+<mname>Ahsanul</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The design and implementation of a wireless power and data transfer system based on inductive coupling, having the potential to be used in numerous implantable bio-medical sensors and systems, is presented. The system consists of an external (primary) unit and an internal (secondary) unit. The external unit incorporates a high-efficiency switch-mode Class-E amplifier operating at ~200 kHz for driving the primary coil. The secondary unit consists of a parallel resonant coil followed by the power recovery circuitry. Means for backward data communication from the internal to the external unit over the same pair of coils has been realized using a simple FSK-based modulation scheme incorporated into the internal unit. FSK demodulation and associated filtering are integrated with the base inductive powering system. Prototype system test results indicate the inductive link efficiency can exceed 80% under optimum operating conditions with the overall power transfer efficiency of approximately 30%. The communication system is capable of transmitting up to 10kbps of data with the FSK carrier frequency (i.e., middle-frequency) being only 120kHz. The complete system functions reliably over an inter-coil distances exceeding 2.5cm with a 5V dc supply.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1489</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2931&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1489</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2931</articleid>
+<submission-date>2013-07-23T08:38:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4336843</context-key>
+<submission-path>utk_gradthes/1489</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, M. Nance Ericson, Jayne Wu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

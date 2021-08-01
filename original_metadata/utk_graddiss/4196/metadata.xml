@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transient Response Of A Packed Bed For Both Sensible And Latent Thermal Energy Storage</title>
+<publication-date>1986-03-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Ji</lname>
+<fname>Shi-Hong</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The present work was undertaken to provide a model which accurately predicts the performance of a packed bed energy storage system utilizing spherically encapsulated phase-change material (PCM). Two models were developed which are referred to as the first-order and second-order models. Both models involve modeling of the phase-change material as a conduction problem with both sensible and latent energy storage and include consideration of the temperature gradients in both phases. Both models include the solution of the energy equation for the fluid passing through the packed bed. In the second-order model, both the intra-particle conduction and the dispersion effects in the energy transporting fluid are considered, whereas in the first-order model only the intra-particle conduction effects are considered.&lt;/p&gt;
+&lt;p&gt;Numerical results obtained with both models have been compared with experimental results available in the published literature and with experimental data previously obtained at University of Tennessee. Of major importance to any computation is the treatment of the convective heat transfer coefficient between the fluid and the packed bed particles. It was determined that existing correlation equation for the heat transfer coefficient are quite suitable. Also, confirmation of the convective heat transfer coefficient between the capsules and the fluid can be accurately determined by matching the exiting fluid temperature variation with time at the exit obtained with the second-order model with that obtained by experiment. A specific feature of both models is the use of a physically correct treatment of the exiting fluid temperature boundary condition.&lt;/p&gt;
+&lt;p&gt;Both analytical models accommodate ·subcooling and superheating for PCM melting and freezing situations, respectively, as well as supercooling of the PCM in the computer simulation. The significance of subcooling or superheating depends upon the magnitude of the subcooling or superheating. For example, when using NA HPO . 12H O as the PCM, and a ratio of the length to the diameter of the bed larger than 1. 0. the neglecting of subcooling would result in an error in the total energy stored of about 1/2 percent for each degree of subcooling. Previously reported analyses in the literature do not include the effect of subcooling or superheating.&lt;/p&gt;
+&lt;p&gt;Both the first-order and second-order models of the present study can be used to predict the melting/freezing time, the melting/freezing front location in the packed bed, and the temperature history of both the transporting fluid and the PCM in the bed. For the case of small Peclet numbers, comparison with experiment indicates that the first-order model results in significantly greater error than does the second-order model; it does, however, provide an adequate approximation for the latent heat storage in the bed. For Peclet number greater than 200, the difference between the results from the two models is typically less than 10%. The use of the first-order model requires only about one-fourth as much computer time as does the second-order model. The second-order model is shown to provide very accurate results when compared with experimental data in the published literature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4196</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5750&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4196</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5750</articleid>
+<submission-date>2017-02-13T09:13:38-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9676513</context-key>
+<submission-path>utk_graddiss/4196</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald R. Pitts</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeffrey W. Hodgson, Robert J. Krane, Joseph J. Perona</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1986-03-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1986-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Process Mass Spectrometric Parameterization of Butene Isomer Mixtures</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Joyce</lname>
+<fname>Eloise</fname>
+<mname>Marie</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;Process mass spectrometry was used for the simultaneous quantitation of hydrocarbon mixtures with either six or four components. The four component hydrocarbon mixture contains isomers to increase the complexity of the mixture spectrum. The differences in relative intensities of pure component electron ionization mass spectra provided a basis for quantitation. Quantitation accuracy and precision were found to decrease as the spectral similarities among the components increased.&lt;/p&gt;
+&lt;p&gt;Selection of which ions to monitor (parameterization) was critical to optimize the analysis accuracy, precision, and speed for all mixtures tested. An empirical parameterization algorithm based on comparison of pure reference spectra of mixture components was developed for ion selection. A parameterization which monitors all the masses was used as a basis for comparison. The empirical algorithm parameterization gave analysis accuracy and precision statistically equal to the all-mass parameterization. Empirical algorithm square matrices (each component is assigned a single ion) were compared to the square matrices that were determined by the software provided with the mass spectrometer.&lt;/p&gt;
+&lt;p&gt;The six component hydrocarbon mixture which contained methane, ethane, propane, propene, isobutane, and isobutene had an r&lt;sup&gt;2&lt;/sup&gt; value of 0.99920 ± 0.00007, an average correlation coefficient value () of 0.43% ± 0.051, and a root mean squared error (E&lt;sub&gt;RMS&lt;/sub&gt;) of 0.43 when analyzing all masses in the spectra. Using the empirical algorithm and selecting 35% of the masses in the spectra, the accuracy and precision are statistically similar with r&lt;sup&gt;2&lt;/sup&gt; = 0.99913 ± 0.00001,  = 0.49% ± 0.59, and E&lt;sub&gt;RMS&lt;/sub&gt; = 0.47. A more complex mixture consisting of the four butene isomers also gave similar results. When analyzing all of the masses in the butene isomers spectra the figures of merit were r&lt;sup&gt;2&lt;/sup&gt; = 0.986 ± 0.007,  = 5.54% ± 6.66, and E&lt;sub&gt;RMS&lt;/sub&gt; = 1.86. When using the empirical algorithm and selecting 26% of the masses in the spectra, that accuracy and precision were statistically similar with r&lt;sup&gt;2&lt;/sup&gt; = 0.983 ± 0.008,  = 6.20% ± 7.38, and E&lt;sub&gt;RMS&lt;/sub&gt; = 2.03. As shown, the empirical algorithm successfully chooses a portion of the mass spectra with excellent precision and accuracy while decreasing analysis time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/152</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1184&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>152</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1184</articleid>
+<submission-date>2010-02-09T12:19:39-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1137905</context-key>
+<submission-path>utk_gradthes/152</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kelsey D. Cook</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank Vogt, Robert Compton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/JoyceEloise.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

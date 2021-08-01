@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Reactive Molecular Dynamics Study of the Thermal Decomposition of Perfluorodimethyl Ether</title>
+<publication-date>2009-04-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jiang</lname>
+<fname>Bangwu</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Selvan</lname>
+<fname>Myvizhi</fname>
+<mname>Esai</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Edwards</lname>
+<fname>Brian</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Classical reactive molecular dynamics (RMD) simulation is used to model the thermal decomposition of perfluorodimethyl ether (CF3OCF3), which is relevant as a simple molecule containing the necessary architectural elements to study the chemical stability of perfluoropolyether lubricants. The RMD algorithm employs nonreactive interaction potentials for the reactants and products. The reactivity is implemented through a coarse-grained simulation algorithm, incorporating elements from both the quantum and macroscopic descriptions of the reaction. The RMD scheme maps the quantum mechanically determined transition state onto a set of geometric triggers. When a configuration matching those triggers is found in the RMD simulation, the reaction instantaneously occurs. A brief, local equilibration process stabilizes the configuration, and the simulation continues. Using two geometric triggers, the RMD simulation can describe quantitatively the temperature dependence of the thermal decomposition of CF3OCF3, when compared to the quantum mechanical standard.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/3</coverpage-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1003</articleid>
+<submission-date>2010-05-19T05:29:16-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1319024</context-key>
+<submission-path>utk_chembiopubs/3</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Jiang, Bangwu; Selvan, Myvizhi Esai; Keffer, David J.; and Edwards, Brian J. (2009). &quot;A Reactive Molecular Dynamics Study of the Thermal Decomposition of Perfluorodimethyl Ether&quot; Chemical and Biomolecular Engineering Publications and Other Works.
+http://trace.tennessee.edu/utk_chembiopubs/3</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-19T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-04-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://pubs.acs.org/doi/abs/10.1021/jp811151m?prevSearch=%255Bauthor%253A%2Bkeffer%255D&amp;searchHistoryKey=</value>
+</field>
+</fields>
+</document>
+</documents>

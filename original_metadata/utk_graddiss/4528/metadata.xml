@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Generalized Multigroup Method</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Attieh</lname>
+<fname>Ibrahim</fname>
+<mname>Khalil</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Treatment of energy in the solution of the transport equation has been dominated by the multigroup method (MG).  The multigroup method has the advantages of being simple and mathematically robust.  However, it suffers from two disadvantages.  When the multigroup transport equation is solved to find the group flux coefficients, the assumed spectrum becomes discontinuous at the energy boundaries, and the assumed spectrum maintains its original shape within the group.  These characteristics are in contradiction with actual spectrum behavior.  These disadvantages reduce the accuracy of the multigroup method, requiring a greater number of energy groups to converge to a solution with the desired accuracy.&lt;/p&gt;
+&lt;p&gt;These deficiencies are caused by the use of histogram basis functions to define group membership.  These basis functions are orthogonal to each other and have only one degree of freedom.  Hence, the calculated group flux coefficients shift the spectrum vertically to give the optimal balance between the sources and sinks in the transport problem.&lt;/p&gt;
+&lt;p&gt;To mitigate these inefficiencies of the multigroup method, a generalized multigroup method is proposed.  In this method, an arbitrary set of basis functions is defined.  By utilizing more appropriate basis functions, the spectrum is able to adapt within each energy group and be continuous at the boundaries.  Improvement in the calculation of the spectrum will result in a more accurate solution of the equation.&lt;/p&gt;
+&lt;p&gt;In addition to defining the generalized multigroup method, this research also implements the hat basis function to allow the spectrum to adapt linearly within each energy group and be continuous at the boundaries.  The hat basis function implementation is called the Linear Multigroup Method (LMG).&lt;/p&gt;
+&lt;p&gt;The LMG is then tested using two gamma ray spectrum calculation problems in an infinite oxygen medium.  The results of these sample problems for the LMG are compared to the conventional MG method.  This comparison shows that the LMG is superior to the MG in energy regions in which the flux spectrum is continuous, but less so for regions of discontinuous spectrum (e.g., near the 511 keV pair production spike or near discrete source energies).  To deal with these special cases a hybrid LMG/MG method is developed and shown to give more accurate results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4528</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6237&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4528</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6237</articleid>
+<submission-date>2017-08-29T10:40:23-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10676338</context-key>
+<submission-path>utk_graddiss/4528</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ronald E. Pevey</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Uhrig, Lawrence Townsend, Ohannes Karakashian</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

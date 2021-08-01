@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Physics-Based Analytical Compact Model, TCAD Simulation, and Empirical SPICE Models of GaN Devices for Power Applications</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fgarcia@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Garcia</lname>
+<fname>Frances</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The demand for high performance power electronics in consumer electronics, electric vehicle, aerospace, renewable energy is increasing and Si devices are failing to meet the demands of higher voltage, higher current, and high switching frequency efficiency.Wide bandgap devices, SiC and GaN, offer an alternative solution since they can operate at higher temperatures. GaN in particular is only recently being developed commercially and has a higher mobility, saturation velocity, electric breakdown field, and bandgap. GaN experiences spontaneous and piezoelectric polarization which is exploited in the high electron mobility transistor (HEMT) topology by creating a two dimensional electron gas (2DEG) that forms naturally without the need for doping or voltage bias. This presents a problem for power electronics circuits since power devices should be enhancement-mode or normally-off for control and safety reasons. There are various topologies proposed to convert the device into a normally-off device. One such topology is the Gate Injection Transistor (GIT) whose operational effects has not been sufficiently investigated and much less modeled.The GIT device is investigated via a TCAD Sentaurus simulation to understand the effects of various parameters unique to the GIT. Based on the TCAD simulation and model, an analytical compact model can be developed for a quick and more intuitive understanding of the GIT behavior. Finally, two commercial GaN devices, one a GIT and the other a HEMT, are empirically modeled in a SPICE simulator.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5342</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6752&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5342</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6752</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343021</context-key>
+<submission-path>utk_gradthes/5342</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Nicole McFarlane</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

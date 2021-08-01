@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Implementation of Multi-phase Species Transport into VERA-CS for Molten Salt Reactor Analysis</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Taylor</lname>
+<fname>Robert</fname>
+<mname>Zachary</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Molten salt reactor</keyword>
+<keyword>VERA</keyword>
+<keyword>species transport</keyword>
+<keyword>gas sparging</keyword>
+</keywords>
+<abstract>&lt;p&gt;Molten salt reactors (MSRs) are a class of next generation nuclear reactors that have received recent industrial and research interest. In this manuscript, a generalized multi-phase species transport solver was derived and implemented into the Virtual Environment for Reactor Applications (VERA) computing suite, with the purpose to extend this tool to analyze liquid fueled MSRs, in which fission products (FPs) are generated and transported throughout the primary system.In order to test the accurate functionality of species transport, a number of simplified test problems were developed. These &quot;unit tests&quot; are meant to demonstrate the capability and accuracy of the utilized solution methods. Of the FPs discussed, xenon is of particular interest and impact to reactor operation. The steady-state and transient distribution of 135Xe is analyzed in many of the unit tests. Finally, a simpliflied test case of the Molten Salt Reactor Experiment (MSRE) is analyzed to demonstrate the systematic effects of boundary conditions and solution parameters. The goal of this thesis is to derive and implement a set of equations which will accurately model the spatial distribution of FPs in MSRs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5456</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6864&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5456</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6864</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528591</context-key>
+<submission-path>utk_gradthes/5456</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert M. Counce</value>
+</field>
+<field name="advisor2" type="string">
+<value>G. Ivan Maldonado, Manolis Doxastakis</value>
+</field>
+<field name="comments" type="string">
+<value>Some results in this report were previously published in the 2018 summer American Nuclear Society conference.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

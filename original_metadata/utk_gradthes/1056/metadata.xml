@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Residential Attic Ventilation In A Hot And Humid Climate: Effects Of Increased Ventilation On Thermal Performance And Moisture Control</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>satherto@utk.edu</email>
+<lname>Atherton</lname>
+<fname>Stanley Arthur</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Attic Ventilation</keyword>
+<keyword>Residential Engineering</keyword>
+<keyword>Radiant Barrier</keyword>
+<keyword>Attic Condensation</keyword>
+<keyword>Above Sheathing Ventilation</keyword>
+<keyword>Soffit and Ridge Ventilation</keyword>
+</keywords>
+<disciplines><discipline>Other Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The reality of the effect of natural ventilation in a residential attic cavity has been the topic of many debates and scholarly reports since the 1930’s. The purpose of ventilating an attic cavity is to prevent collection of condensate on the structural surfaces, and to create a thermal buffer between the conditioned space and the ambient air. The current standards are not specific to climate zone, despite the fact that each climate zone may require ventilation for very different reasons.&lt;/p&gt;
+&lt;p&gt;To address the issue of ventilation effects in a hot and humid climate, a Natural Exposure Testing facility was constructed in Charleston, South Carolina in 2008. This multi-cavity in-situ facility is equipped with seven separate attic bays, featuring a wide variety of construction materials for performance comparison. Yearly performance comparison data has been examined for key observations on the effect of ventilation, which comprises approximately half of this report.&lt;/p&gt;
+&lt;p&gt;Furthermore, an industry-standard attic performance prediction tool was benchmarked to the field data and is shown to be accurate for predicting diurnal performance of the NET facility. A battery of simulations were run for diurnal air exchange rates, the results of which are compared to gas tracer analysis tests performed during the Summer of 2011.&lt;/p&gt;
+&lt;p&gt;A parametric study involving various attic ventilation area ratios was performed using the benchmarked prediction tool to show the effect of varying ventilation area ratios on the thermal and moisture-control capabilities of attics with standard construction, Above Sheathing Ventilation, and Radiant Barrier systems.&lt;/p&gt;
+&lt;p&gt;The results of this study are based on the analysis of field data, benchmarked simulations, and parametric study on ventilation ratio effectiveness. Ventilation variation is shown to have only a minor effect on the moisture control and thermal performance of residential attic cavities. In comparison, attics equipped with radiant barrier foil or above sheathing ventilation provide a greater range of control over thermal and moisture infiltration.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1056</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2224&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1056</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2224</articleid>
+<submission-date>2011-11-17T08:11:17-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2354661</context-key>
+<submission-path>utk_gradthes/1056</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Williiam A. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rao Arimilli, James Conklin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>AtticSim_ASV_Version_IV_DPMACRO.for</archive-name>
+<upload-name>AtticSim_ASV_Version_IV_DPMACRO.for</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2224&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/x-fortran</mime-type>
+</file>
+<file>
+<archive-name>AtticSim_Execute.bat</archive-name>
+<upload-name>AtticSim_Execute.bat</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=2224&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+</file>
+<file>
+<archive-name>AtticSim_Output.bas</archive-name>
+<upload-name>AtticSim_Output.bas</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=2224&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+</file>
+<file>
+<archive-name>BoundaryCondition_Creator.bas</archive-name>
+<upload-name>BoundaryCondition_Creator.bas</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=2224&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+</file>
+<file>
+<archive-name>Clean_Convert.bas</archive-name>
+<upload-name>Clean_Convert.bas</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=2224&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+</file>
+<file>
+<archive-name>Raw_Complier.bas</archive-name>
+<upload-name>Raw_Complier.bas</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=2224&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+</file>
+<file>
+<archive-name>T_RH_Calibration.pdf</archive-name>
+<upload-name>T_RH_Calibration.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=6&amp;amp;article=2224&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

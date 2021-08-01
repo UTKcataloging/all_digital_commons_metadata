@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Active Harmonic Elimination in Multilevel Converters</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Du</lname>
+<fname>Zhong</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The modulation technique for multilevel converters is a key issue for multilevel converter control. The traditional pulse width modulation (PWM), space vector PWM, and space vector control methods do not completely eliminate specified harmonics. In addition, space vector PWM and space vector control method cannot be applied to multilevel converters with unequal DC voltages. The carrier phase shifting method for traditional PWM method also requires equal DC voltages. The number of harmonics that can be eliminated by the selective harmonic elimination method is restricted by the number of unknowns in the harmonic equations and available solutions.&lt;/p&gt;
+&lt;p&gt;For these reasons, this thesis develops a new modulation control method which is referred to as the active harmonic elimination method to conquer some disadvantages for the existing methods. The active harmonic elimination method contributes to the existing methods because it not only generates the desired fundamental frequency voltage, but also completely eliminates any number of harmonics without the restriction of the number of unknowns in the harmonic equations and available solutions for the harmonic equations. Also the active harmonic elimination method can be applied to both equal DC voltage cases and unequal DC voltage cases. Another contribution of the active harmonic elimination method is that it simplifies the optimal system performance searching by making a tradeoff between switching frequency and harmonic distortion.&lt;/p&gt;
+&lt;p&gt;Experiments on an 11-level multilevel converter validate the active harmonic elimination method for multilevel converters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1944</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3375&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1944</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3375</articleid>
+<submission-date>2013-09-19T10:12:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4601590</context-key>
+<submission-path>utk_graddiss/1944</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>John N. Chiasson, Jack S. Lawler, Suzanne Lenhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

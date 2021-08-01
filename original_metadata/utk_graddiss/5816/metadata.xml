@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Toward More Predictive Models by Leveraging Multimodal Data</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ssriniv3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Srinivasan</lname>
+<fname>Sudarshan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Multimodal</keyword>
+<keyword>machine learning</keyword>
+<keyword>structured</keyword>
+<keyword>unstructured</keyword>
+</keywords>
+<abstract>&lt;p&gt;Data is often composed of structured and unstructured data. Both forms of data have information that can be exploited by machine learning models to increase their prediction performance on a task. However, integrating the features from both these data forms is a hard, complicated task. This is all the more true for models which operate on time-constraints. Time-constrained models are machine learning models that work on input where time causality has to be maintained such as predicting something in the future based on past data. Most previous work does not have a dedicated pipeline that is generalizable to different tasks and domains, especially under time-constraints. In this work, we present a systematic, domain-agnostic pipeline for integrating features from structured and unstructured data while maintaining time causality for building models. We focus on the healthcare and consumer market domain and perform experiments, preprocess data, and build models to demonstrate the generalizability of the pipeline. More specifically, we focus on the task of identifying patients who are at risk of an imminent ICU admission. We use our pipeline to solve this task and show how augmenting unstructured data with structured data improves model performance. We found that by combining structured and unstructured data we can get a performance improvement of up to 8.5%&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5816</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7582&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5816</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7582</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522204</context-key>
+<submission-path>utk_graddiss/5816</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Edmon Begoli, Amir Sadovnik, Anahita Khojandi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

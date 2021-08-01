@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterization of a 12-bit pipeline analog to digital converter</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Ghezawi</lname>
+<fname>Saeed</fname>
+<mname>Ramzi</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Electrical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;This thesis presents the characterization of the 12-bit pipeline analog-to-digital converter (ADC) designed by Mark Hale, Ph.D. graduate from the University of Tennessee. An overview of the pipeline ADC architecture is discussed first, and then the specifics of the testing procedure and results are detailed. The differential nonlinearity (DNL), integral nonlinearity (INL), DC offset error, and gain error for the pipeline ADC are the DC characteristics of interest. The DC characterization was performed in order to analyze the linearity of the ADC output over the analog input range. Additionally, the DNL and INL results were used to determine if the ADC exhibited undesirable effects, such as missed codes. The characterization was performed at room temperature using differential sinusoidal inputs. Labview was utilized to efficiently gather the digital output levels of the ADC, and Matlab was employed to compute the characteristics of the tested ADC. During the testing process several difficulties were encountered. Characterization results were negatively impacted by the presence of noise both at the output of the sample-and-hold and on the supply rails. Through iterative testing, the results improved. However, the effective number of bits for the tested ADC did not attain the desired 12-bits.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5701</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7323&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5701</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7323</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467449</context-key>
+<submission-path>utk_gradthes/5701</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

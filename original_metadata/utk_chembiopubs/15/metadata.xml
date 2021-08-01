@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Structure and Dynamics of a Benzenedithiol Monolayer on a Au(111) Surface</title>
+<publication-date>2003-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Leng</lname>
+<fname>Yongsheng</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Cummings</lname>
+<fname>Peter</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We use the universal force field (UFF) developed by Rappé et al. (Rappé, A. K.; Casewit, C. J.; Colwell, K. S.; Goddard, W. A.; Skiff, W. M. J. Am. Chem. Soc. 1992, 114, 10024) and the specific classical potentials developed from ab initio calculations for Au−benzenedithiol (BDT) molecule interaction to perform molecular dynamics (MD) simulations of a BDT monolayer on an extended Au(111) surface. The simulation system consists of 100 BDT molecules and three rigid Au layers in a simulation box that is rhombic in the plane of the Au surface. A multiple time scale algorithm, the double-reversible reference system propagator algorithm (double RESPA) based on the Nosé−Hoover dynamics scheme, and the Ewald summation with a boundary correction term for the treatment of long-range electrostatic interactions in a 2-D slab have been incorporated into the simulation technique. We investigate the local bonding properties of Au−BDT contacts and molecular orientation distributions of BDT molecules. These results show that whereas different basis sets from ab initio calculations may generate different local bonding geometric parameters (the bond length, etc.) the packing structures of BDT molecules maintain approximately the same well-ordered herringbone structure with small peak differences in the probability distributions of global geometric parameters. The methodology developed here opens an avenue for classical simulations of a metal−molecule−metal complex in molecular electronics devices.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/15</coverpage-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1015</articleid>
+<submission-date>2010-05-19T08:35:18-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1319202</context-key>
+<submission-path>utk_chembiopubs/15</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Leng, Y., Keffer, D.J.,  &amp;  Cummings, P.T. (2003) Structure and Dynamics of a Benzenedithiol Monolayer on a Au(111) Surface. 
+The Journal of Physical Chemistr, 107(43), 11940-11950. http://pubs.acs.org/doi/abs/10.1021/jp034405s</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-19T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://pubs.acs.org/doi/abs/10.1021/jp034405s</value>
+</field>
+</fields>
+</document>
+</documents>

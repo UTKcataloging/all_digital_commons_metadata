@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Biological Knowledge Discovery Through Mining Multiple Sources of High-Throughput Data</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Yu</fname>
+</author>
+</authors>
+<disciplines><discipline>Life Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;As we are moving into the post-genomic era, various high-throughput experimental techniques have been developed to characterize biological systems at the genome scale. The high-throughput data are becoming fundamentally important resources to shed new insights on system-level understanding of the ‘&lt;em&gt;organization’&lt;/em&gt; and ‘&lt;em&gt;dynamics’&lt;/em&gt; of molecules (e.g. genes and proteins), relationships between them, interaction cascades, pathways, modules and various networks (i.e. regulation, co-expression and metabolism). This dissertation focuses on developing computational tools to facilitate the process of translating the ever-growing volumes of high-throughput data into significant biological knowledge on protein functions, pathways and modules.&lt;/p&gt;
+&lt;p&gt;Although high-throughput data provide a global picture of biological systems about the underlying mechanisms, the details are often noisy. Integration of heterogeneous data that characterize cellular systems from different aspects (i.e. gene expression and protein-protein interactions) can lead to the comprehensive and coherent discoveries of biological insights. We developed a Bayesian probability framework to predict function for unannotated proteins in yeast through integrating protein binary interaction data, protein complex data and microarray gene expression data. We also extended the computational framework to infer biological pathway in an automated and systematical fashion.&lt;/p&gt;
+&lt;p&gt;Besides bottom-up approaches moving from protein functions to pathways, we also applied top-down approaches to model cellular networks, that is, we started from the architecture of a cellular network to identify functional modules. We applied the k-core algorithm to decompose protein interaction and microarray gene co-expression networks, which provides strong support for modularity principles of networks’ structure and function. Dynamic functional modules and protein complexes have been identified by clustering the network constructed from multiple sources of high-throughput data, shedding insights into understanding the organization and dynamics of a living cell.&lt;/p&gt;
+&lt;p&gt;We also proposed a consensus approach to model biological pathway by combining different computational tools and integrating multiple sources of high-throughput data. In the future, with the explosion in the quantity and diversity of high-throughput data, it is vital to develop methodologies and innovative tools in bioinformatics to model biological systems and explore biological knowledge in an iterative fashion.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1972</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3403&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1972</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3403</articleid>
+<submission-date>2013-09-20T11:20:09-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4609214</context-key>
+<submission-path>utk_graddiss/1972</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dong Xu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeff Becker, Loren Hauser, Elizabeth Howell, Ying Xu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Philosophy</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

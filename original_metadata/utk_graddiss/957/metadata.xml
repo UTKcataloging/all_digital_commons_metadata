@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Discrete Element Method (DEM) Analyses for Hot-Mix Asphalt (HMA) Mixture Compaction</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jchen27@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Jingsong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Discrete Element Method (DEM)</keyword>
+<keyword>Hot-Mix Asphalt (HMA) Mixture</keyword>
+<keyword>Superpave Gyratory Compaction (SGC)</keyword>
+<keyword>Vibratory Compaction Method</keyword>
+<keyword>Linear Kneading Compaction</keyword>
+<keyword>Air Voids Distribution</keyword>
+</keywords>
+<disciplines><discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Asphalt mixture compaction is an important procedure of asphalt mixture construction and can significantly affect the performance of asphalt pavement. Many laboratory compaction methods (or devices), have been developed to study the asphalt mixture compaction. Nevertheless, the whole process from the selection of aggregate to laboratory compaction is still time-consuming and requires significant human and material resources. In order to better understand asphalt mixture compaction, some researchers began to use finite element method (FEM) to study and analyze mixture compaction. However, FEM is a continuum approach and lacks the ability to take into account the slippage and interlocking of aggregates during compaction. Discrete Element Method (DEM) is a discontinuum analysis method, which can simulate the deformation process of joint systems or discrete particle assembly under quasi-static and dynamic condition. Therefore, it can overcome the shortcomings of FEM and is a more effective tool than FEM to simulate asphalt mixture compaction.&lt;/p&gt;
+&lt;p&gt;In this study, an open source 3D DEM code implemented with the C++ programming language was modified and applied to simulate the compaction of hot-mix asphalt (HMA). A viscoelastic contact model was developed in the DEM code and was verified through comparison with well established analytical solutions. The input parameters of the newly developed contact model were obtained through nonlinear regression analysis of dynamic modulus test results. Two commonly used compaction methods (Superpave gyratory compaction and asphalt vibratory compaction) and one linear kneading compaction based on APA machine were simulated using the DEM code, and the DEM compaction models were verified through the comparison between the DEM predicted results and the laboratory measured test results. The air voids distribution within the asphalt specimens was also analyzed by post processing virtual DEM compaction digital specimens and the level of heterogeneity of the air void distribution within the specimens in the vertical and lateral directions was studied.&lt;/p&gt;
+&lt;p&gt;The DEM simulation results in this study were in a relatively good agreement with the experimental data and previous research results, which demonstrates that the DEM is a feasible method to simulate asphalt mixture compaction under different loading conditions and, with further research, it could be a potentially helpful tool for asphalt mix design by reducing the number of physical compactions in the laboratory.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/957</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2102&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>957</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2102</articleid>
+<submission-date>2011-03-16T13:01:27-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2102/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1881029</context-key>
+<submission-path>utk_graddiss/957</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Baoshan Huang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Eric C. Drumm, Richard M. Bennett, Qiuhong Zhao, Xiang Shu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

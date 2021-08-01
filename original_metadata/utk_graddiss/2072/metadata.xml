@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Fault Detection in an Upflow Anaerobic Sludge Blanket Reactor: Comparisons of Biogas Production and Physicochemical Quantities</title>
+<publication-date>2001-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pinto</lname>
+<fname>Alexandra</fname>
+<mname>Maria Almeida Carvalho</mname>
+</author>
+</authors>
+<disciplines><discipline>Other Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A system capable of rapidly detecting toxic loads entering high-rate anaerobic reactors would greatly enhance their reliability, and could thereby increase their  commercial acceptance. A high-rate anaerobic wastewater treatment process, called the failure-causing load detector (FCLD), consisting of a small (4-liter) upflow anaerobic sludge blanket (UASB) reactor having a short (10-min) hydraulic retention time (HRT), was used as a biosensor to rapidly detect potential problems with the influent wastewater. Sensors were used to monitor biogas production in the reactor, as well as pH, conductivity, and turbidity in the effluent from the reactor. The FCLD system was tested using the following failure-causing loads: organic overload, sodium toxic load (using NaCl), sodium hypochlorite (NaOCl, bleach), milk, sodium hydroxide (NaOH), and hydrochloric acid (HCl). Two different classifiers were implemented to identify the type of failure-causing load based upon the sensor outputs. Each classifier was tested using data collected during experiments with the FCLD system. The first classifier was a crisp classifier: it classified the failure-causing loads based on pH, conductivity, and turbidity, and was generated based on graph theory definitions. The second classifier was fuzzy logic based: it used a fuzzy inference system (FIS) to classify the failure-causing loads.&lt;/p&gt;
+&lt;p&gt;Biogas flow rate data under normal operating conditions was analyzed over ranges based on mean ± 1, ± 2, and ± 3 standard deviations, and was shown to be normally distributed. When using interval 2 (mean ± 2 sd), only 4 % of false positives (biogas alteration detection before addition of toxicant) were obtained, and it had 64 % of false negatives (no alteration detection after addition of toxicant). However, 5 of the 9 failure-causing loads tests could still be detected using this interval. Due to variability in the biogas measurement and because classification could be performed using only pH, conductivity and turbidity as inputs, biogas was disregarded as an input for both classification processes. Even without biogas as an input for the classifiers, the FCLD reactor still was needed as part of the system because other monitored parameters (e.g. pH) in the effluent line are modified not only by changes in composition of the influent wastewater, but also from imbalances of by-products of the anaerobic digestion. The graph theory based classifier did not show false positives, and it reached 3.7 % correct classification 10 min after addition of the failure-causing load (test time), increasing to 48 % 15 min after test time, and reaching 100 % 20 min after test time. There were no false positives for FIS based classifier, and correct classification occurred with 7.4 % at 10 min after test time, 59 % 15 min after test time, increasing to 96 % 20 min after test time, and it reached 100 % correct classification 25 min after test time. Results from both classifiers showed that the FIS based classifier has more misclassifications (125 % more) than the graph theory based classifier. Response time was checked for biogas detection and for both classifiers. Biogas detection was 5 min faster than the classifiers for the loads that could be detected. One improvement for both classifiers would be the inclusion of biogas as an input, which would accelerate the detection of the failure-causing loads that cause significant change in biogas production.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2072</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3509&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2072</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3509</articleid>
+<submission-date>2013-09-27T07:28:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4638802</context-key>
+<submission-path>utk_graddiss/2072</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>D. Raj Raman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert T. Burns, J. Wesley Hines, Lester O. Pordesimo, Luther R. Wilhelm</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

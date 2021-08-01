@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accelerated Quantum-to-Macro Scale Simulations with Machine Learning and Parallel Replica Dynamics for Mass and Thermal Transport</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Wang</lname>
+<fname>Jiaqi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>quantum-to-macro scale simulations machine learning</keyword>
+<keyword>parallel replica dynamics</keyword>
+<keyword>mass and thermal transport</keyword>
+</keywords>
+<abstract>&lt;p&gt;Mass and thermal transport significantly affect the performance of engineering systems. Since various parameters in transport can be systematically controlled and investigated, multiscale simulations have been employed as powerful tools for transport analyses. Among them, quantum-scale ab initio molecular dynamics (AIMD), atomic-scale classical molecular dynamics (CMD), and macro-scale finite element method (FEM) simulations, can provide comprehensive system analysis and design by addressing electronic structures, atomic dynamics, and engineering-scale properties, respectively. However, each approach has its own limitations to overcome for more accurate analyses of mass and thermal transport. Specifically, AIMD calculation is too expensive to produce sufficient atomic data for accurate analysis due to complicated force field evaluation. Besides AIMD, CMD can also require significant resources to examine the slow transport processes. Moreover, efficient identification of reliable interatomic potential has always been a major challenge for CMD. For FEM, effective processing of large volume of data and identification of accurate material properties for simulations are imperatives. Aiming to overcome the limitations of those simulation methodologies, novel simulation and data processing algorithms with acceleration approaches have been proposed. Firstly, the feasibility of accelerating atomic data production in AIMD is demonstrated through recurrent neural network (RNN). The RNN training and prediction is found about one order of magnitude faster than the ground-truth AIMD. Secondly, parallel replica dynamics is implemented with CMD for investigating the deformation and transformation and diffusion properties of θ′−Al2Cu precipitate in aluminum (Al) matrix for up to 133 ns with reasonable computational resources. Thirdly, machine learning (ML) technique is employed for rapid developments of interatomic potentials. A comprehensive Buckingham potential of Al is successfully developed, which can excellently reproduce the structural, mechanical, and thermodynamic properties. Lastly, ML technique with FEM analysis is successfully employed for quick prediction of microscopic thermal transport properties and identification of the effect of various microstructures on thermal transport of Al-based alloy. The successful implementation and further improvement of the proposed acceleration and data processing methodologies will advance the mass and thermal transport research with improved efficiency and accuracy, and ultimately contribute to the innovation of various engineering systems and processes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5903</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7669&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5903</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7669</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527839</context-key>
+<submission-path>utk_graddiss/5903</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seungha Shin</value>
+</field>
+<field name="advisor2" type="string">
+<value>David J. Keffer, Hairong Qi, Kenneth D. Kihm</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

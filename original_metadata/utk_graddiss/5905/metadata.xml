@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Calibration and Validation of Gyroscope Inclusive Youth Sojourn Models</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>phibbing@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hibbing</lname>
+<fname>Paul</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Physical Activity</keyword>
+<keyword>Accelerometer</keyword>
+<keyword>Gyroscope</keyword>
+<keyword>Sensor Fusion</keyword>
+<keyword>Change Point Detection</keyword>
+</keywords>
+<abstract>&lt;p&gt;Youth Sojourn models are sensor-based physical activity (PA) assessment methods that are used to predict sedentary behavior (SB), light PA (LPA), and moderate-to-vigorous PA (MVPA). The existing models are accelerometer-based and rely on non-statistical segmentation. Improvements may be possible through the incorporation of gyroscope data and statistical change point detection. PURPOSE: To calibrate and validate new youth Sojourn models (i.e., Sojrecall and Sojprecision) that incorporate gyroscope data and change point detection. METHODS: Subsets of two data sets were used, one from a study conducted in a semi-structured laboratory setting (n = 86), and the other from a study conducted in free-living environments with an independent sample (n = 31). Throughout both studies, participants wore ActiGraph GT9X devices (each containing an accelerometer and gyroscope) on the hip and both wrists. Energy expenditure was also assessed (via indirect calorimetry), and direct observation was performed to document activity and postural transitions. The latter data streams were used to obtain criterion values for the timing of activity transitions, as well as intensity (SB, LPA, and MVPA). Predictions from Sojrecall and Sojprecision and the original accelerometer-based youth Sojourn models (Sojoriginal) were then compared to the criterion values, in terms of segmentation and intensity classification. RESULTS: When replicating the original youth Sojourn calibration with gyroscope data instead of accelerometer data, all gyroscope-based components outperformed their accelerometer-based counterparts. For segmentation of laboratory data, Sojrecall, Sojprecision, and Sojoriginal all had peak mean aggregated performance of 56.8%-64.2% (across all models and attachment sites). However, for the free-living data the values were lower for Sojrecall and Sojprecision (34.5%-46.3%) than Sojoriginal (53.2%-53.6 %). For intensity classification across all attachment sites, Sojrecall and Sojprecision had mean percent correct classification of 71.2%-77.6% (laboratory data) and 57.5%-71.3% (free-living data), whereas Sojoriginal had mean percent correct classification of 56.9%-69.5% (laboratory data) and 28.4%-52.7% (free-living data). CONCLUSION: Change point detection was not effective for segmentation, but gyroscope data led to improved intensity classification. Future work should emphasize development of models that capitalize on the unique strengths of accelerometer and gyroscope data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5905</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7671&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5905</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7671</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527841</context-key>
+<submission-path>utk_graddiss/5905</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Scott E. Crouter</value>
+</field>
+<field name="advisor2" type="string">
+<value>David R. Bassett Jr., Dawn P. Coe, Haileab Hilafu</value>
+</field>
+<field name="comments" type="string">
+<value>The work in this dissertation was funded under NIH R01HD083431.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Kinesiology and Sport Studies</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2026-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

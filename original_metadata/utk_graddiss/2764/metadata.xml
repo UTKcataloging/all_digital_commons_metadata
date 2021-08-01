@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Studies of Economics and Stability with Variable Generation and Controllable Load</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hhuang11@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Huang</lname>
+<fname>Hao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Controllable load dispatch</keyword>
+<keyword>elastic load</keyword>
+<keyword>interval mathematics</keyword>
+<keyword>Monte Carlo simulation</keyword>
+<keyword>Electricity market</keyword>
+<keyword>generator bidding</keyword>
+<keyword>genetic algorithm</keyword>
+<keyword>locational marginal pricing (LMP)</keyword>
+<keyword>Nash Equilibrium</keyword>
+<keyword>oligopoly</keyword>
+<keyword>transmission constraint</keyword>
+<keyword>uncertainty</keyword>
+<keyword>wind power</keyword>
+<keyword>AGC</keyword>
+<keyword>frequency sensitive load</keyword>
+<keyword>load control</keyword>
+<keyword>frequency drop</keyword>
+<keyword>sensitivity analysis</keyword>
+<keyword>system frequency response</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This work probes several aspects of the renewable resources and controllable loads. The investigation includes the impact of wind power in bidding process in a deregulated power market, the effect of load damping elements on power system frequency stability and security, and impact of controllable load on system operation from the viewpoint of economic volatility and physical security.&lt;/p&gt;
+&lt;p&gt;In the first part, new bidding models are developed under two schemes for wind generation to analyze the competition among generation companies (GENCOs) with transmission constraints considered. The proposed method employs the supply function equilibrium (SFE) to model a GENCO’s bidding strategy. The bidding process is solved as a bi-level optimization problem. An intelligent search based on Genetic Algorithm (GA) and Monte Carlo simulation (MCS) is applied to obtain the solution. This model also considers the probabilistic variability of wind output.&lt;/p&gt;
+&lt;p&gt;In the second part, the effect of frequency-sensitive load on system frequency using typical system frequency response (SFR) model is investigated. Theoretic analysis based on transfer functions shows that the frequency deviation under a variable load-damping coefficient is relatively small and bounded when the power system is essentially stable; while the frequency deviation can be accelerated when the power system is unstable after disturbance. For the stable case, the largest frequency dip under a perturbation and the corresponding critical time can be derived by inverse Laplace transformation using a full model considering effect of load-damping coefficient. Further, the error in evaluating the load-damping coefficient gives the largest impact on frequency deviation right at the time when the largest frequency dip occurs.&lt;/p&gt;
+&lt;p&gt;In the last part, a new demand response model is presented. It models system economic dispatch as a feedback control process and introduces a flexible and adjustable load cost as a controlled signal to adjust load response. Compared to the conventional “one time use” static load dispatch model, this dynamic feedback demand response model can adjust load to desired level in finite discrete time steps. In addition, MCS and interval mathematics are applied to describing uncertainty of an individual end-user’s response to an ISO’s expected dispatch.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2764</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3706&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2764</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3706</articleid>
+<submission-date>2013-10-09T20:00:18-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3706/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4691404</context-key>
+<submission-path>utk_graddiss/2764</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Yilu Liu, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

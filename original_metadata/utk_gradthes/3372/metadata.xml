@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling of Debonding and Crack Propagation in Fibrous Composites Using a Discontinuous Galerkin Approach</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>whicks6@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hicks</lname>
+<fname>Wesley</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Composites</keyword>
+<keyword>Discontinuous Galerkin</keyword>
+<keyword>Debonding</keyword>
+<keyword>Finite Element Method</keyword>
+</keywords>
+<disciplines><discipline>Structural Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A recently proposed Discontinuous Galerkin (DG) method for modeling debonding and fracture within the context of the finite element method is investigated for problems relating to fiber reinforced composites, namely fiber-matrix interfacial debonding which progresses to matrix fracture. The results are then compared against an existing intrinsic cohesive zone method and a hybrid Discontinuous Galerkin method. The results show that the method can eliminate the problem of artificial compliance that is associated with intrinsic cohesive zone models. Eliminating this stiffness has the positive effect of removing user-defined numerical parameters that are not actually present in the physical system. A key contribution of this work is the demonstration that the DG elements can be inserted between all solid elements in the model, allowing general crack propagation without imposing a predefined surface and without compromising numerical stability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3372</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4658&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3372</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4658</articleid>
+<submission-date>2015-02-27T13:56:48-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4658/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6745547</context-key>
+<submission-path>utk_gradthes/3372</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy J. Truster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daykar Penumadu, Zhongguo John Ma</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

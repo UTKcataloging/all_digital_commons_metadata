@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Real-time Traffic Flow Detection and Prediction Algorithm: Data-Driven Analyses on Spatio-Temporal Traffic Dynamics</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bbae1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bae</lname>
+<fname>Bumjoon</fname>
+</author>
+</authors>
+<keywords>
+<keyword>traffic operation</keyword>
+<keyword>traffic flow</keyword>
+<keyword>traffic speed</keyword>
+<keyword>congestion</keyword>
+<keyword>detection</keyword>
+<keyword>prediction</keyword>
+</keywords>
+<abstract>&lt;p&gt;Traffic flows over time and space. This spatio-temporal dependency of traffic flow should be considered and used to enhance the performance of real-time traffic detection and prediction capabilities. This characteristic has been widely studied and various applications have been developed and enhanced. During the last decade, great attention has been paid to the increases in the number of traffic data sources, the amount of data, and the data-driven analysis methods. There is still room to improve the traffic detection and prediction capabilities through studies on the emerging resources. To this end, this dissertation presents a series of studies on real-time traffic operation for highway facilities focusing on detection and prediction.First, a spatio-temporal traffic data imputation approach was studied to exploit multi-source data. Different types of kriging methods were evaluated to utilize the spatio-temporal characteristic of traffic data with respect to two factors, including missing patterns and use of secondary data. Second, a short-term traffic speed prediction algorithm was proposed that provides accurate prediction results and is scalable for a large road network analysis in real time. The proposed algorithm consists of a data dimension reduction module and a nonparametric multivariate time-series analysis module. Third, a real-time traffic queue detection algorithm was developed based on traffic fundamentals combined with a statistical pattern recognition procedure. This algorithm was designed to detect dynamic queueing conditions in a spatio-temporal domain rather than detect a queue and congestion directly from traffic flow variables. The algorithm was evaluated by using various real congested traffic flow data. Lastly, gray areas in a decision-making process based on quantifiable measures were addressed to cope with uncertainties in modeling outputs. For intersection control type selection, the gray areas were identified and visualized.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4840</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6380&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4840</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6380</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276556</context-key>
+<submission-path>utk_graddiss/4840</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hamparsum Bozdogan, Christopher Cherry, Hyun Kim</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using Artificial Intelligence Methods to Predict Doses From Large Solar Particle Events in Space</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Nichols</lname>
+<fname>Theodore</fname>
+<mname>Franklin</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Space exploration presents mankind with an opportunity to investigate and discover the nature of our solar system, galaxy, perhaps even the universe.  The accomplishment of space exploration will only be achieved if the multitude of problems inherent in space travel are solved.  One such problem is protecting humans from radiation.  The astronauts are able to protect themselves by surrounding themselves with a radiation shield.  For the radiation shield to be effective, the astronauts must have advanced warning of incoming radiation in order to seek shelter in a timely manner.&lt;/p&gt;
+&lt;p&gt;The parameterization of a time-dose profile from an SPE reveals that a non-linear 3 parameter Wiebull curve fits the data very well.  Neural networks excel at predicting non-linear functions and their processing in a time period that is much shorter than traditional algorithms used to solve non-linear relationships.  Locally weighted regression (LWR), is able to handle non-linear events by performing linear regression on a region locally to the query.  Both methods are able to forecast the maximum potentially absorbed dose from a SPE.  Currently only the neural network approach has been expanded to forecast the entire dose-profile of a SPE.&lt;/p&gt;
+&lt;p&gt;The neural networks are able to produce reasonable forecasts within 10 hours from the start of a SPE.  The dose received in the first 8 hours is on average around 5 cGy which is not consider a significant health risk to the Astronauts.  The error in the prediction of all three wiebull parameters is normally reduced to around 10% within the first 10 hours of an event.&lt;/p&gt;
+&lt;p&gt;The LWR is also able to predict the maximum received dose before a dangerous level of radiation would reach the space craft.  On average though, the received dose was around 10 cGy and the time into the event before an accurate forecast is made was longer than when using the neural networks.&lt;/p&gt;
+&lt;p&gt;The neural networks are able to forecast the dose-time profile in a timely fashion.  The forecasts occur before a significant dose would have time to reach the astronauts in a near Earth situation.  This is accomplished using a sliding time delayed neural network technique.  In the same time frame the LWR technique is unable to produce forecasts that are as accurate as the neural networks.  However, the forecasts using the LWR are within a reasonable amount of time to provide adequate warning and the method tends to always converge to the correct maximum received dose from a particular SPE.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4577</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6069&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4577</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6069</articleid>
+<submission-date>2017-04-24T06:03:27-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10064915</context-key>
+<submission-path>utk_gradthes/4577</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence W. Townsend</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

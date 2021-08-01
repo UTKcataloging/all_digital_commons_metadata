@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Implementation of a Forward Solution Hip Mathematical Model to Determine In Vivo Mechanics and Predict Hip Separation</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mlacour@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>LaCour</lname>
+<fname>Michael</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Total Hip Arthroplasty</keyword>
+<keyword>Forward Solution Modeling</keyword>
+<keyword>Hip Biomechanics</keyword>
+<keyword>Hip Instability</keyword>
+<keyword>Orthopaedics</keyword>
+</keywords>
+<disciplines><discipline>Biomechanics and Biotransport</discipline>
+</disciplines><abstract>&lt;p&gt;Osteoarthritis, signified by excessive wear of joint cartilage, is most common in hip, knee, and spinal joints [1]. Current treatment for extreme osteoarthritis is total joint arthroplasty, where the damaged bone and cartilage are removed and replaced by artificial bone representations separated by artificial cartilage representations. While this treatment does generally improve patient quality of life, current joint replacement systems unfortunately still yield atypically high forces, premature component wear, and abnormal kinematics compared to native joints [2] [3] [4] [5].&lt;/p&gt;
+&lt;p&gt;For total hip arthroplasty, one common complication is in vivo separation and dislocation of the femoral head within the acetabular cup [6] [7]. Determining a successful solution to this issue revolves around developing progressive new implant designs, establishing the least destructive surgical methods, and determining and executing ideal intraoperative component alignments. However, ethical issues and extravagant expenses prevent surgeons and implant companies from experimenting with unknown or risky concepts. Fortunately, an alternative approach of developing and utilizing mathematical models is available, providing a solution to these issues. A forward dynamics mathematical model of the hip allows users to virtually insert a hip implant into a hypothetical patient and observe the results. This will allow design companies to implant new, innovative designs or incorporate untested surgical procedures on the “patient” without the risk of harm or failure, ultimately progressing towards a solution to eliminate postoperative hip instability.&lt;/p&gt;
+&lt;p&gt;The objectives of this dissertation are to develop a fully functional forward solution mathematical model of the hip that allows for a comparison between various implant designs and a determination of factors leading to in vivo hip separation, instability, and edge loading. Specifically, this includes: development of a forward solution mathematical model of the hip that incorporates detailed articulating surface geometry and patient-specific kinematics; customization of the model to accept multiple implant designs and predict occurrences of hip separation, instability, and edge-loading; implementation of the model to conduct detailed simulations to compare various implant designs and determine ideal component alignment zones; and design of a graphical user interface to merge the model with intraoperative alignment tools, yielding intraoperative predictions of postoperative mechanics and stability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4636</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6063&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4636</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6063</articleid>
+<submission-date>2017-05-03T12:51:08-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10114395</context-key>
+<submission-path>utk_graddiss/4636</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Richard D. Komistek</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohamed Mahfouz, William Hamel, Lee Martin, Adrija Sharma</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>2017_LaCourDissertation_SupplementalAppendices.pdf</archive-name>
+<upload-name>2017_LaCourDissertation_SupplementalAppendices.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=6063&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+<description>Supplemental Document</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

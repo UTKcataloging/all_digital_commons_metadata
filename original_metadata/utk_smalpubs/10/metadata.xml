@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MetabR: an R script for linear model analysis of quantitative metabolomic data</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Ernest</lname>
+<fname>Ben</fname>
+</author>
+<author>
+<lname>Gooding</lname>
+<fname>Jessica</fname>
+<mname>R</mname>
+</author>
+<author>
+<lname>Campagna</lname>
+<fname>Shawn</fname>
+<mname>R</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Saxton</lname>
+<fname>Arnold</fname>
+<mname>M</mname>
+</author>
+<author>
+<lname>Voy</lname>
+<fname>Brynn</fname>
+<mname>H</mname>
+</author>
+</authors>
+<disciplines><discipline>Veterinary Medicine</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Metabolomics is an emerging high-throughput approach to systems biology, but data analysis tools are lacking compared to other systems level disciplines such as transcriptomics and proteomics. Metabolomic data analysis requires a normalization step to remove systematic effects of confounding variables on metabolite measurements. Current tools may not correctly normalize every metabolite when the relationships between each metabolite quantity and fixed-effect confounding variables are different, or for the effects of random-effect confounding variables. Linear mixed models, an established methodology in the microarray literature, offer a standardized and flexible approach for removing the effects of fixed- and random-effect confounding variables from metabolomic data.  &lt;h4&gt;Findings&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Here we present a simple menu-driven program, “MetabR”, designed to aid researchers with no programming background in statistical analysis of metabolomic data. Written in the open-source statistical programming language R, MetabR implements linear mixed models to normalize metabolomic data and analysis of variance (ANOVA) to test treatment differences. MetabR exports normalized data, checks statistical model assumptions, identifies differentially abundant metabolites, and produces output files to help with data interpretation. Example data are provided to illustrate normalization for common confounding variables and to demonstrate the utility of the MetabR program.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We developed MetabR as a simple and user-friendly tool for implementing linear mixed model-based normalization and statistical analysis of targeted metabolomic data, which helps to fill a lack of available data analysis tools in this field. The program, user guide, example data, and any future news or updates related to the program may be found at &lt;a href=&quot;http://metabr.r-forge.r-project.org/&quot;&gt;http://metabr.r-forge.r-project.org/&lt;/a&gt; &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://metabr.r-forge.r-project.org/&amp;refdoi=10.1186/1756-0500-5-596&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_smalpubs/10</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1009&amp;amp;context=utk_smalpubs&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1009</articleid>
+<submission-date>2014-01-03T09:33:44-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Small Animal Clinical Sciences</publication-title>
+<context-key>4951799</context-key>
+<submission-path>utk_smalpubs/10</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article has been funded by the University of Tennessee&#39;s &lt;a href=&quot;http://www.lib.utk.edu/scholar/open-access/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>BMC Research Notes 2012, 5:596  doi:10.1186/1756-0500-5-596</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-01-03T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>BMC Research Notes</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Toward Polarization Encoding Measurement-Device-Independent Quantum Key Distribution in Free-Space</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jgarcia1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Garcia</lname>
+<fname>Jeffrey</fname>
+<mname>Ivan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Quantum</keyword>
+<keyword>key</keyword>
+<keyword>distribution</keyword>
+<keyword>measurement-device</keyword>
+<keyword>independent</keyword>
+<keyword>polarization</keyword>
+</keywords>
+<abstract>&lt;p&gt;Quantum Key Distribution (QKD) allows two trusted parties the ability to exchange a secret cryptographic key with unconditional security guaranteed by the fundamental laws of quantum mechanics. The transmission and measurement of sequences of quantum bits, or qubits, between two parties is the underlying mechanism in QKD. Security proofs, theoretically assume ideal single-photon sources and perfect single-photon detectors.In practice, imperfections in the state preparation of qubits or those in single-photon detectors may be exploited to expose security loopholes. A relatively new protocol, Measurement-Device-Independent QKD (MDI-QKD), has been proposed which is immune to detector side-channel attacks, thus eliminating the need to have trusted single-photon detectors. However, in MDI-QKD near-perfect state preparation by the two parties is required to prove security in postprocessing.This thesis outlines a proof-of-principle demonstration of polarization-encoded MDI-QKD using attenuated weak coherent pulses and investigate imperfections to the state preparation of qubits from certain parameters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5085</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6492&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5085</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6492</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414846</context-key>
+<submission-path>utk_gradthes/5085</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>George Siopsis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Raphael C. Pooser, Bing Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational discovery of new efflux pump inhibitors that target AcrA of the Escherichia coli AcrAB-TolC efflux pump</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>agreen69@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Green</lname>
+<fname>Adam</fname>
+</author>
+</authors>
+<keywords>
+<keyword>antibiotic resistance</keyword>
+<keyword>drug discovery</keyword>
+<keyword>efflux pumps</keyword>
+<keyword>virtual screening</keyword>
+<keyword>MD simulations</keyword>
+</keywords>
+<abstract>&lt;p&gt;Antibiotics are compounds that kill or slow the growth of bacteria to treat numerous bacterial infections. No new class of antibiotic has been identified in the past thirty years despite the increased use of current antibiotics around the world. The increased use of current antibiotics has contributed to bacterial species becoming resistant to multiple antibiotics. Bacteria possess multiple resistance mechanisms such as inactivating enzymes, mutation of the antibiotic’s target, the permeability of the outer membrane, and the overexpression of efflux pumps. Efflux pumps bind antibiotics and eject them from the bacteria. In Escherichia coli (E. coli), the most studied efflux pump is referred to as AcrAB-TolC. Antibiotics bind AcrB triggering a series of conformational changes that expel the drug from the cell. AcrAB-TolC is a tripartite machinery that spans the inner and outer membrane of E. coli. AcrA is a periplasmic adaptor that links together AcrB in the inner membrane with TolC in the outer membrane. Efflux pump inhibitors (EPIs) have been developed that interact with AcrB and thus potentiate the activity of specific antibiotics. The inhibitors act by competitive inhibition. Other mechanisms of inhibition such as blocking drug export through TolC have not been found to function in vivo. In this work, we have identified new inhibitors that bind AcrA, inhibit efflux, and potentiate specific antibiotics. We have identified the inhibitors using multiple homology models of AcrA. For each homology model, we ran molecular dynamics (MD) simulations and extracted conformations using RMSD clustering. Ligands were predicted to bind by using the extracted conformations from each homology model with the program AutoDock VinaMPI. For two of the inhibitors, referred to as NSC60339 (SLU-258) and clorobiocin, we used AutoDock VinaMPI and a binding site identification program called FTMap to identify and subsequently validate possible binding sites on AcrA using tryptophan fluorescence spectroscopy. Finally, we used the identified binding sites in conjunction with physico-chemical descriptors to further identify new efflux pump inhibitors that potentiate novobiocin, erythromycin, and bind AcrA with a new chemical scaffold for efflux pump inhibitors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5725</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7491&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5725</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7491</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419587</context-key>
+<submission-path>utk_graddiss/5725</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jerry Parks, Nitin Jain, Tongye Shen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization of Scintillator based Radiation Portal Monitors</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>murffer@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Urffer</lname>
+<fname>Matthew</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Alternative neutron detection technologies are needed to replace the current He- 3 based Radiation Portal Monitors (RPM) which are employed to detect special nuclear material that may be entering the United States illicitly. Replacement technologies must fulfill the following criteria established by the Department of Homeland Security (DHS): 1) a neutron detection efficiency, 2) a gamma insensitivity, and 3) the performance of the detector should not suffer in the presence of a strong gamma field. Polymeric films containing Li-6 ranging from 15 to 300 microns have the ability to fulfill these criteria if suitably utilized. For a typical detector material the design involves maximizing the neutron-gamma discrimination, maximizing the physical detector configuration in order to ensure optimal use of the incident neutron spectra, and ensuring that the scintillation light generated can be collected.&lt;/p&gt;
+&lt;p&gt;A technique for using a pulse height discriminator for rejecting gamma interactions has been developed for polymeric films, and it was determined that films ranging from 15 microns to 300 microns thick will satisfy the DHS criteria. The basis of this technique is attributed to the relative ranges of the secondary electrons of the Compton scattered electrons from the gamma interactions, compared to the ranges of the electrons from the reaction products of a neutron absorption. Detailed Monte Carlo simulations indicate that a desired film thickness is from 50 to 150 microns.&lt;/p&gt;
+&lt;p&gt;A replacement portal monitor has been designed for layered polymeric films that effectively utilizes enriched Li-6 in the detector material using a genetic algorithm to optimize the spacing between the layers, while cylindrical designs could also be employed. If two photomultiplier tubes are placed on two fishtail light guides mounted on the top and bottom of the detector cabinet, eight percent of the optical photons generated in a ten percent loaded polystyrene film can be collected, which would be sufficient to create a voltage signal.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2622</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3787&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2622</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3787</articleid>
+<submission-date>2013-10-14T09:55:29-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4704336</context-key>
+<submission-path>utk_graddiss/2622</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence H. Heilbronn, Dayaker Penumadu, Ronald E. Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

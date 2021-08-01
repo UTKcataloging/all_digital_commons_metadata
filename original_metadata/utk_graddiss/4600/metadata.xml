@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-Area Measurement-Driven Approaches for Power System Modeling and Analytics</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hliu24@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Liu</lname>
+<fname>Hesen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power System Modeling</keyword>
+<keyword>System Identification</keyword>
+<keyword>Big Data</keyword>
+<keyword>Wide-area Measurement</keyword>
+<keyword>Measurement Driven Approach</keyword>
+<keyword>Wide-area Oscillation Damping Control</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Other Computer Engineering</discipline>
+<discipline>Power and Energy</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents wide-area measurement-driven approaches for power system modeling and analytics. Accurate power system dynamic models are the very basis of power system analysis, control, and operation. Meanwhile, phasor measurement data provide first-hand knowledge of power system dynamic behaviors. The idea of building out innovative applications with synchrophasor data is promising.&lt;/p&gt;
+&lt;p&gt;Taking advantage of the real-time wide-area measurements, one of phasor measurements’ novel applications is to develop a synchrophasor-based auto-regressive with exogenous inputs (ARX) model that can be updated online to estimate or predict system dynamic responses.&lt;/p&gt;
+&lt;p&gt;Furthermore, since auto-regressive models are in a big family, the ARX model can be modified as other models for various purposes. A multi-input multi-output (MIMO) auto-regressive moving average with exogenous inputs (ARMAX) model is introduced to identify a low-order transfer function model of power systems for adaptive and coordinated damping control. With the increasing availability of wide-area measurements and the rapid development of system identification techniques, it is possible to identify an online measurement-based transfer function model that can be used to tune the oscillation damping controller. A demonstration on hardware testbed may illustrate the effectiveness of the proposed adaptive and coordinated damping controller.&lt;/p&gt;
+&lt;p&gt;In fact, measurement-driven approaches for power system modeling and analytics are also attractive to the power industry since a huge number of monitoring devices are deployed in substations and power plants. However, most current systems for collecting and monitoring data are isolated, thereby obstructing the integration of the various data into a holistic model. To improve the capability of utilizing big data and leverage wide-area measurement-driven approaches in the power industry, this dissertation also describes a comprehensive solution through building out an enterprise-level data platform based on the PI system to support data-driven applications and analytics. One of the applications is to identify transmission-line parameters using PMU data. The identification can obtain more accurate parameters than the current parameters in PSS®E and EMS after verifying the calculation results in EMS state estimation. In addition, based on temperature information from online asset monitoring, the impact of temperature change can be observed by the variance of transmission-line resistance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4600</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6020&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4600</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6020</articleid>
+<submission-date>2017-04-28T12:03:55-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10094051</context-key>
+<submission-path>utk_graddiss/4600</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Joshua S. Fu, Fangxing Li, Wei Gao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

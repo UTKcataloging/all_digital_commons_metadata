@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Taming and Leveraging Directionality and Blockage in Millimeter Wave Communications</title>
+<publication-date>2018-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbao2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bao</lname>
+<fname>Jingchao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>mmWave</keyword>
+<keyword>Wireless Communication</keyword>
+<keyword>Beam Tracking</keyword>
+<keyword>UAV</keyword>
+</keywords>
+<abstract>&lt;p&gt;To cope with the challenge for high-rate data transmission, Millimeter Wave(mmWave) is one potential solution. The short wavelength unlatched the era of directional mobile communication. The semi-optical communication requires revolutionary thinking. To assist the research and evaluate various algorithms, we build a motion-sensitive mmWave testbed with two degrees of freedom for environmental sensing and general wireless communication.The first part of this thesis contains two approaches to maintain the connection in mmWave mobile communication. The first one seeks to solve the beam tracking problem using motion sensor within the mobile device. A tracking algorithm is given and integrated into the tracking protocol. Detailed experiments and numerical simulations compared several compensation schemes with optical benchmark and demonstrated the efficiency of overhead reduction. The second strategy attempts to mitigate intermittent connections during roaming is multi-connectivity. Taking advantage of properties of rateless erasure code, a fountain code type multi-connectivity mechanism is proposed to increase the link reliability with simplified backhaul mechanism. The simulation demonstrates the efficiency and robustness of our system design with a multi-link channel record.The second topic in this thesis explores various techniques in blockage mitigation. A fast hear-beat like channel with heavy blockage loss is identified in the mmWave Unmanned Aerial Vehicle (UAV) communication experiment due to the propeller blockage. These blockage patterns are detected through Holm&#39;s procedure as a problem of multi-time series edge detection. To reduce the blockage effect, an adaptive modulation and coding scheme is designed. The simulation results show that it could greatly improve the throughput given appropriately predicted patterns. The last but not the least, the blockage of directional communication also appears as a blessing because the geometrical information and blockage event of ancillary signal paths can be utilized to predict the blockage timing for the current transmission path. A geometrical model and prediction algorithm are derived to resolve the blockage time and initiate active handovers. An experiment provides solid proof of multi-paths properties and the numeral simulation demonstrates the efficiency of the proposed algorithm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5263</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6807&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5263</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6807</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342847</context-key>
+<submission-path>utk_graddiss/5263</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik Djouadi, Aly E. Fathy, Xiaopeng Zhao</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Portions of this document were previously published in Conference --- 2018 IEEE International Conference Communications (ICC)， 2017 IEEE Military Communications Conference (MILCOM).&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

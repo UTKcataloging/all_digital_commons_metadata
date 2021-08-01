@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Versatile Three-Phase Power Electronics Converter based Real-time Load Emulators</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jwang50@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Jing</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Three-phase converter</keyword>
+<keyword>power system emulation</keyword>
+<keyword>hardware-in-the-loop</keyword>
+<keyword>induction motor modeling</keyword>
+<keyword>power system load</keyword>
+<keyword>numerical analysis</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation includes the methodology, implementation, validation, as well as real-time modeling of a load emulator for a reconfigurable grid emulation platform of hardware test-bed (HTB). This test-bed was proposed by Center of Ultra-wide-area Resilient Electric Energy Transmission Network (CURENT) at the University of Tennessee, at Knoxville in 2011, to address the transmission level system challenges posed by contemporary fast changing energy technologies.&lt;/p&gt;
+&lt;p&gt;Detailed HTB introduction, including design concept, fundamental units and hardware construction, is elaborated. In the development, current controlled three-phase power electronics converter based emulator unit is adopted to create desired power system loading conditions.&lt;/p&gt;
+&lt;p&gt;In the application, constant impedance, constant current and constant power (ZIP) load has been emulated to represent power system steady state load, with reference to voltage and frequency variations. Also, an induction motor represented dynamic load emulator is developed with a focus on grid-tied starting transient emulation. The technical challenges on the induction motor emulator’s hardware and software capabilities to represent the fast varying transient is encountered, analyzed and solved in the development process. They include: emulator hardware tracking bandwidth, real-time digital microprocessor calculation capability, credibility of motor emulator’s performance, and electromagnetic/electromechanical transient numerical accuracy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3478</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4686&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3478</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4686</articleid>
+<submission-date>2015-02-26T11:46:26-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6734533</context-key>
+<submission-path>utk_graddiss/3478</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Kevin Tomsovic, Yulong Xing</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

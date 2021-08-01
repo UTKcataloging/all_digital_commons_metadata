@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptive Discontinuous Galerkin Finite Element Methods</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>You</lname>
+<fname>Haihang</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The Discontinuous Galerkin Method is one variant of the Finite Element Methods for solving partial differential equations, which was first introduced by Reed and Hill in 1970’s [27]. Discontinuous GalerkinMethod (DGFEM) differs from the standard Galerkin FEMthat continuity constraints are not imposed on the inter-element boundaries. It results in a solution which is composed of totally piecewise discontinuous functions. The absence of continuity constraints on the inter-element boundaries implies that DG method has a great deal of flexibility at the cost of increasing the number of degrees of freedom. This flexibility is the source of many but not all of the advantages of the DGFEM method over the Continuous Galerkin (CGFEM) method that uses spaces of continuous piecewise polynomial functions and other ”less standard” methods such as nonconforming methods. As DGFEM method leads to bigger system to solve, theoretical and practical approaches to speed it up are our main focus in this dissertation. This research aims at designing and building an adaptive discontinuous Galerkin finite element method to solve partial differential equations with fast time for desired accuracy on modern architecture.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/86</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1116&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>86</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1116</articleid>
+<submission-date>2009-12-23T12:00:56-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098932</context-key>
+<submission-path>utk_graddiss/86</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ohannes Karakashian, James Plank, Michael Thomason, Shirley Moore</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

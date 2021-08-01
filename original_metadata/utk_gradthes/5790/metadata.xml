@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of a hypothetical source method for discretization of the Helmholtz equation</title>
+<publication-date>1993-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>French</lname>
+<fname>Jonathan</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This research examines the accuracy and benefits of a new discretization for linear field equations, with a particular focus on the Helmholtz equation. Instead of the typical Boundary Element Method (BEM) or integral methods, this technique uses local Green&#39;s functions to set up a block tri-diagonal system of equations. The Green&#39;s functions are computed with respect to local and hypothetical sources to generate an under-determined system of equations. Singular value decomposition (SYD) and pseudo-inversion is then applied to find the least-norm, least-squares local discretization. The local discretizations are then placed in a matrix along with appropriate boundary conditions to solve for the entire field implicitly. The results compare the new discretization with finite difference techniques, showing that the relative accuracy of the new discretization is several orders of magnitude better than the finite difference techniques for reduced frequency approaching the resonant frequency&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5790</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7468&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5790</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7468</articleid>
+<submission-date>2021-06-15T05:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23359266</context-key>
+<submission-path>utk_gradthes/5790</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John E. Caruthers</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>1993-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

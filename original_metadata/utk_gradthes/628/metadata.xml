@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Discovery of Pedigrees and Their Structures in Collections of STR DNA Specimens Using a Link Discovery Tool</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ahaun2@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Haun</lname>
+<fname>Alex</fname>
+<mname>Brian</mname>
+</author>
+</authors>
+<keywords>
+<keyword>DNA</keyword>
+<keyword>pedigree</keyword>
+<keyword>graph</keyword>
+<keyword>link discovery</keyword>
+<keyword>specimen</keyword>
+<keyword>likelihood ratio</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Other Genetics and Genomics</discipline>
+</disciplines><abstract>&lt;p&gt;In instances of mass fatality, such as plane crashes, natural disasters, or terrorist attacks, investigators may encounter hundreds or thousands of DNA specimens representing victims.  For example, during the January 2010 Haiti earthquake, entire communities were destroyed, resulting in the loss of thousands of lives.  With such a large number of victims the discovery of family pedigrees is possible, but often requires the manual application of analytical methods, which are tedious, time-consuming, and expensive.  The method presented in this thesis allows for automated pedigree discovery by extending Link Discovery Tool (LDT), a graph visualization tool designed for discovering linkages in large criminal networks.  The proposed algorithm takes advantage of spatial clustering of graphs of DNA specimens to discover pedigree structures in large collections of specimens, saving both time and money in the identification process.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/628</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1626&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>628</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1626</articleid>
+<submission-date>2010-03-24T21:30:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1244327</context-key>
+<submission-path>utk_gradthes/628</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. D. Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tsewei Wang, David Icove</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

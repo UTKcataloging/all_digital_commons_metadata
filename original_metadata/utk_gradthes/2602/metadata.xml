@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An On-Chip Transformer-Based Digital Isolator System</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cfandric@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fandrich</lname>
+<fname>Cory</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;An on-chip transformer-based digital isolator has been designed, fabricated, and tested. This isolation technique is designed to function between a low voltage microcontroller and a potentially high-voltage power control system. The isolator’s isolation capability is determined by two factors, the RMS blocking voltage strength and common-mode transient immunity. The integrated circuit solution is designed in a high-temperature capable SOI process.&lt;/p&gt;
+&lt;p&gt;The on-chip transformer size is minimized by utilizing high frequency voltage pulses. A small transformer and overall small chip footprint of the design are favorable for integration into a larger system. The isolator is a two chip solution, an isolated transmitter and receiver. The transformer’s primary and secondary coils are fabricated with chip metal interconnect. The transformer is located on the transmitter chip. The secondary coil of the transformer is electrically isolated from the transmitter circuitry by an insulating oxide layer and is wire bonded off the transmitter chip and onto the receiver chip.&lt;/p&gt;
+&lt;p&gt;The isolator chips have been fabricated and bonded directly to printed circuit boards. The isolator has been experimentally tested with an input frequency as high as 5 MHz, or 10 Mbps. The isolator functions up to 150°C. The isolation capability has been experimentally verified at 8 kV/μs common-mode rejection and at 700-V RMS voltage breakdown.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2602</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3560&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2602</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3560</articleid>
+<submission-date>2013-10-09T11:00:41-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3560/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4689146</context-key>
+<submission-path>utk_gradthes/2602</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Jeremy H. Holleman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

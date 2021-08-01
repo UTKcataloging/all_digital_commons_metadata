@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Measurement and Analysis of Pressure Profile for Nozzle Based Single Screw Extrusion Systems</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jaked@vols.utk.edu</email>
+<lname>Dvorak</lname>
+<fname>Jake</fname>
+</author>
+</authors>
+<keywords>
+<keyword>additive manufacturing</keyword>
+<keyword>single screw extrusion</keyword>
+<keyword>BAAM</keyword>
+<keyword>3d printing</keyword>
+<keyword>large scale</keyword>
+</keywords>
+<disciplines><discipline>Manufacturing</discipline>
+</disciplines><abstract>&lt;p&gt;Most large-scale material-extrusion (MatEx) AM systems utilize a single screw extruder. Simulating flow rate and operating pressures of extrusion systems is notoriously difficult without resorting to full finite element analysis due to the phase change and non-Newtonian nature of relevant polymers. This study characterized two machines of interest: a Big Area Additive Manufacturing (BAAM) system and a Randcastle Microtruder. A custom nozzle adapter was fabricated to gather pressure data within the nozzle and mimic the die design of the BAAM on the Microtruder system. Several theories were tested for overall machine output and max pressure. Feed and compression zone theories were added to generate a pressure map throughout the system. The data was related to theory to observe extrusion, screw, and machine issues. Overall, this work provides and tests theory for simulating single screw extruder output and pressure throughout the system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5837</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6955&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5837</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6955</articleid>
+<submission-date>2020-08-13T06:03:54-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/6955/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>18899273</context-key>
+<submission-path>utk_gradthes/5837</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Chad E. Duty</value>
+</field>
+<field name="advisor2" type="string">
+<value>Matthew A. Young, Chad E. Duty, Brett G. Compton</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;0000-0002-6098-9944&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

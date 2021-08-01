@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Studies in Rheology: Molecular Simulation and Theory</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baig</lname>
+<fname>Chunggi</fname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;With an enormous advance in the capability of computers during the last few&lt;br /&gt;decades, the computer simulation has become an important tool for scientific researches in many areas such as physics, chemistry, biology, and so on. In particular, moleculardynamics (MD) simulations have been proven to be of a great help in understanding the rheology of complex fluids from the fundamental microscopic viewpoint. There are two important standard flows in rheology: shear flow and elongational flow. While there exist suitable nonequilibrium MD (NEMD) algorithms of shear flows, such as the Lees-Edwards purely boundary-driven algorithm and the so-called SLLOD algorithm as a field-driven algorithm, a proper NEMD algorithm for elongational flow has been lacking. The main difficulty of simulating elongational flow lies in the limited simulation time available due to the contraction of one or two dimensions dictated by its&lt;br /&gt;kinematics. This problem, however, has been partially resolved by Kraynik and Reinelt’s ingenious discovery of the temporal and spatial periodicity of lattice vectors in planar elongational flow (PEF). Although there have been a few NEMD simulations of PEF using their idea, another serious defect has recently been reported when using the SLLOD algorithm in PEF: for adiabatic systems, the total linear momentum of the system in the contracting direction grows exponentially with time, which eventually leads to an aphysical phase transition.&lt;br /&gt;This problem has been completely resolved by using the so-called ‘proper-&lt;br /&gt;SLLOD’ or ‘p-SLLOD’ algorithm, whose development has been one of the main&lt;br /&gt;accomplishments of this study. The fundamental correctness of the p-SLLOD algorithm has been demonstrated quite thoroughly in this work through detailed theoretical analyses together with direct simulation results. Both theoretical and simulation works achieved in this research are expected to play a significant role in advancing the knowledge of rheology, as well as that of NEMD simulation itself for other types of flow in general. Another important achievement in this work is the demonstration of the possibility of predicting a liquid structure in nonequilibrium states by employing a concept of ‘hypothetical’ nonequilibrium potentials. The methodology developed in this work has been shown to have good potential for further developments in this field.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1687</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3213&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1687</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3213</articleid>
+<submission-date>2013-08-09T12:36:29-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4414658</context-key>
+<submission-path>utk_graddiss/1687</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hank D. Cochran</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian J. Edwards, David J. Keffer, Robert J. Hinde</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Intelligent Data Mining using Kernel Functions and Information Criteria</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Zhenqiu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Intelligent Data Mining; Kernel Functions; Regression Trees; Radial Basis Functions (RBFs); Support Vector Machines  (SVM); and Information Criteria</keyword>
+</keywords>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;Radial Basis Function (RBF) Neural Networks and Support Vector Machines (SVM) are two powerful kernel related intelligent data mining techniques. The current major problems with these methods are over-fitting and the existence of too many free parameters. The way to select the parameters can directly affect the generalization performance(test error) of theses models. Current practice in how to choose the model parameters is an art, rather than a science in this research area. Often, some parameters are predetermined, or randomly chosen. Other parameters are selected through repeated experiments that are time consuming, costly, and computationally very intensive. In this dissertation, we provide a two-stage analytical hybrid-training algorithm by building a bridge among regression tree, EM algorithm, and Radial Basis Function Neural Networks together. Information Complexity (ICOMP) criterion of Bozdogan along with other information based criteria are introduced and applied to control the model complexity, and to decide the optimal number of kernel functions. In the first stage of the hybrid, regression tree and EM algorithm are used to determine the kernel function parameters. In the second stage of the hybrid, the weights (coefficients) are calculated and information criteria are scored. Kernel Principal Component Analysis (KPCA) using EM algorithm for feature selection and data preprocessing is also introduced and studied. Adaptive Support Vector Machines (ASVM) and some efficient algorithms are given to deal with massive data&lt;/p&gt;
+&lt;p&gt;sets in support vector classifications. Versatility and efficiency of the new&lt;/p&gt;
+&lt;p&gt;proposed approaches are studied on real data sets and via Monte Carlo sim-&lt;/p&gt;
+&lt;p&gt;ulation experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2146</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3597&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2146</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3597</articleid>
+<submission-date>2013-10-03T12:11:58-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4664546</context-key>
+<submission-path>utk_graddiss/2146</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Halima Bensmail, Chanaka Edirisinghe, Kenneth C. Gilbert, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Path Creation by Continuous Flocking as an Example of a Morphogenetic Programming Language</title>
+<publication-date>2018-06-10T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>maclennan@utk.edu</email>
+<lname>MacLennan</lname>
+<fname>Bruce J</fname>
+</author>
+</authors>
+<keywords>
+<keyword>artificial morphogenesis</keyword>
+<keyword>continuous flocking</keyword>
+<keyword>morphgen</keyword>
+<keyword>morphogenetic engineering</keyword>
+<keyword>swarm robotics</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Computer Sciences</discipline>
+<discipline>Programming Languages and Compilers</discipline>
+</disciplines><abstract>&lt;p&gt;Artificial morphogenesis uses processes inspired by embryology to control massive swarms of robots to assemble complex physical structures. First, we use an example morphogenetic program to illustrate a prototype implementation of morphgen, a morphogenetic programming language. The syntax and semantics are described informally as illustrated by the example program, which is included in its entirety in an appendix. Another appendix includes a complete formal grammar for the current version of the language. Next, we describe the results of a series of experiments with the program, which simulates a continuous swarm of microscopic agents creating paths from an origin to a destination while avoiding obstacles. We present the effects of various parameters and of alternative ways of accomplishing particular purposes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/24</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1032&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>24</label>
+<document-type>report</document-type>
+<type>article</type>
+<articleid>1032</articleid>
+<submission-date>2018-06-11T14:58:43-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>12293853</context-key>
+<submission-path>utk_elecpubs/24</submission-path>
+<fields>
+<field name="publication_date" type="date">
+<value>2018-06-10T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

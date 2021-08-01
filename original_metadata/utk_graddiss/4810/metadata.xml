@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonlinear Control and Estimation of an Infammatory Immune Response</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>obara@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bara</lname>
+<fname>Ouassim</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Inflammatory response</keyword>
+<keyword>Immune response</keyword>
+<keyword>Optimal control</keyword>
+<keyword>model free control</keyword>
+<keyword>estimation</keyword>
+<keyword>identification</keyword>
+</keywords>
+<abstract>&lt;p&gt;The immune response is a complex mechanism that can be triggered by biological or physical stresses on the organism. However an excessive and dys-regulated inflammatory response may lead to sepsis, a critical state, promoting tissue damage, organ dysfunction or even death.The main objective in this dissertation is to derive a strategy consisting of manipulating pro and anti-inflammatory mediators in order to direct the state of a virtual patient to a healthy equilibrium, after some disturbance from health due to infection. Two key challenges need to be addressed in solving such a problem: estimating the unmeasurable states of the inflammatory model as well as the model&#39;s unknown rate parameters; and second, determining an appropriate strategy to effectively control the response.We initially study the nonlinear controllability, observability and identifiability of the inflammatory immune model. Then, we address the first challenge by comparing the performance of various nonlinear filters for state estimation in the presence of noise and incomplete information. For parameter estimation, a recently introduced approximate Markov chain Monte Carlo approach known as the Particle Metropolis- Hastings method is used. To control the highly nonlinear model, various model-based optimization approaches were investigated in which the control strategy is derived in terms of pro-inflammatory and anti-inflammatory response doses. Due to parameter variability and the difficult practical task of obtaining accurate state and parameter estimates in real time, a new model-free control methodology and its intelligent controllers is explored. The method does not rely on any precise modeling and the identification of each parameter of the inflammatory immune model is no longer needed for control design. The various methods are compared for performance to adequately control the responses in a diverse patient population as well as the clinical feasibility of the derived control protocol from the approach used.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4810</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6350&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4810</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6350</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276380</context-key>
+<submission-path>utk_graddiss/4810</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik M. Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy Day, Suzanne Lenhart, Donatello Materassi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

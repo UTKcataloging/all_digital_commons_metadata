@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extensions of Task-based Runtime for High Performance Dense Linear Algebra Applications</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ccao1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Cao</lname>
+<fname>Chongxiao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>High Performance Computing</keyword>
+<keyword>Resilience</keyword>
+<keyword>Runtime</keyword>
+<keyword>Fault Tolerance</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;On the road to exascale computing, the gap between hardware peak performance and application performance is increasing as system scale, chip density and inherent complexity of modern supercomputers are expanding. Even if we put aside the difficulty to express algorithmic parallelism and to efficiently execute applications at large scale, other open questions remain. The ever-growing scale of modern supercomputers induces a fast decline of the Mean Time To Failure. A generic, low-overhead, resilient extension becomes a desired aptitude for any programming paradigm. This dissertation addresses these two critical issues, designing an efficient unified linear algebra development environment using a task-based runtime, and extending a task-based runtime with fault tolerant capabilities to build a generic framework providing both soft and hard error resilience to task-based programming paradigm.&lt;/p&gt;
+&lt;p&gt;To bridge the gap between hardware peak performance and application perfor- mance, a unified programming model is designed to take advantage of a lightweight task-based runtime to manage the resource-specific workload, and to control the data ow and parallel execution of tasks. Under this unified development, linear algebra tasks are abstracted across different underlying heterogeneous resources, including multicore CPUs, GPUs and Intel Xeon Phi coprocessors. Performance portability is guaranteed and this programming model is adapted to a wide range of accelerators, supporting both shared and distributed-memory environments.&lt;/p&gt;
+&lt;p&gt;To solve the resilient challenges on large scale systems, fault tolerant mechanisms are designed for a task-based runtime to protect applications against both soft and hard errors. For soft errors, three additions to a task-based runtime are explored. The first recovers the application by re-executing minimum number of tasks, the second logs intermediary data between tasks to minimize the necessary re-execution, while the last one takes advantage of algorithmic properties to recover the data without re- execution. For hard errors, we propose two generic approaches, which augment the data logging mechanism for soft errors. The first utilizes non-volatile storage device to save logged data, while the second saves local logged data on a remote node to protect against node failure. Experimental results have confirmed that our soft and hard error fault tolerant mechanisms exhibit the expected correctness and efficiency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4448</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5868&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4448</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5868</articleid>
+<submission-date>2017-02-24T13:53:18-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9747558</context-key>
+<submission-path>utk_graddiss/4448</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Michael Berry, Yingkui Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

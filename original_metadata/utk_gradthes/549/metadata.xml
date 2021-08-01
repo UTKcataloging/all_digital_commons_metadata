@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of a Highly Constrained Test System for a 12-bit, 16-channel Wilkinson ADC</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zpannell@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pannell</lname>
+<fname>Zachary</fname>
+<mname>William</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Field Programmable Gate Array (FPGA)</keyword>
+<keyword>Printed Circuit Board (PCB)</keyword>
+<keyword>Cryogenic</keyword>
+<keyword>Space</keyword>
+<keyword>Dewar</keyword>
+<keyword>Analog to Digital Converter (ADC)</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;Outer space is a very harsh environment that can cause electronics to not operate as they were originally intended. Aside from the extreme amount of radiation found in space, temperatures can also change very dramatically in a relatively small time frame. In order to test electronics that will be used in this environment, they first need to be tested on Earth under replicated conditions. Vanderbilt University designed a dewar that allows devices to be tested at these extreme temperatures while being radiated. For this thesis, a test setup that met all of the dewar&#39;s constraints was designed that would allow a 12-bit, 16-channel analog-to-digital converter to be tested while inside.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/549</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1016&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>549</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1016</articleid>
+<submission-date>2009-11-20T09:34:25-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1069042</context-key>
+<submission-path>utk_gradthes/549</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeremy H. Holleman, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

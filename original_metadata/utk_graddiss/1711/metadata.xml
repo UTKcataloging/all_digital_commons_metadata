@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ENRICHMENT DETERMINATION OF URANIUM METAL IN SHIELDED CONFIGURATIONS WITHOUT CALIBRATION STANDARDS</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcrye@utk.edu</email>
+<lname>Crye</lname>
+<fname>Jason Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>enrichment</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The determination of the enrichment of uranium is required in many safeguards and security applications.  Typical methods to determine the enrichment rely on detecting the 186 keV gamma ray emitted by uranium-235.  In some applications the uranium is surrounded by external shields, and removal of the shields is undesirable.  In these situations, methods relying on the detection of 186 keV gamma rays fail because these gamma rays are shielded easily.&lt;/p&gt;
+&lt;p&gt;This research presents a novel method to estimate the enrichment of uranium metal when heavily shielded by high-&lt;em&gt;Z&lt;/em&gt; materials.  The method uses fast neutron tomography to estimate the geometry and materials inside the shielding.  With the geometry and materials information, the components suspected of being enriched uranium metal are modeled with different enrichments in Monte Carlo simulations.  For each modeled enrichment, a simulation predicts the time correlations expected from plastic scintillation detectors following interrogation of the uranium with a deuterium-tritium neutron generator.  The simulated time correlations that best match the measured time correlations are used to estimate the actual enrichment.&lt;/p&gt;
+&lt;p&gt;The method was demonstrated with measurements of a 93% enriched storage casting surrounded by different combinations of depleted uranium shields.  For each combination, the fast neutron imaging techniques provided reasonable estimates of the known geometry and materials.  Using the estimated geometry, the storage casting was modeled with several enrichments.  The comparison of the measured time correlations to the predicted ones for each shielding combination clearly shows that the enrichment of the casting is greater than 80%.  By comparing the total doubles measured to the total doubles predicted from the simulations, the estimated enrichment of the casting is between 82% and 95% for the shielding combinations considered.  Even though the worst estimate differs from the actual enrichment by 11%, the accuracy of the method is likely acceptable for many nonproliferation applications, including arms control and treaty verification where the goal may be simply to identify the presence of highly enriched uranium.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1711</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2423&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1711</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2423</articleid>
+<submission-date>2012-01-31T05:42:58-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2423/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2480960</context-key>
+<submission-path>utk_graddiss/1711</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Howard L. Hall</value>
+</field>
+<field name="advisor2" type="string">
+<value>John T. Mihalczo, Jason P. Hayward, Thomas Handler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>PoliMiPPv6.f90</archive-name>
+<upload-name>PoliMiPPv6.f90</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2423&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Processor for PoliMi Output</description>
+</file>
+<file>
+<archive-name>Cf_32ImagingDets_8FissDets_16DtPix_2012_02_20.dsd.txt</archive-name>
+<upload-name>Cf_32ImagingDets_8FissDets_16DtPix_2012_02_20.dsd.txt</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=2423&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Sample setup file for data acquisition system</description>
+</file>
+<file>
+<archive-name>Cf0001.i</archive-name>
+<upload-name>Cf0001.i</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=2423&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/x-fortran</mime-type>
+<description>Sample input file for PoliMiPPv6</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

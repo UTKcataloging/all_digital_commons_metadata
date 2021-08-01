@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Predicting Surface Heat Flux and Temperature via a Pulse-Echo Acoustic Transducer for Inverse Heat Conduction Applications</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kjiju@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Mathew</lname>
+<fname>Kevin</fname>
+<mname>Jiju</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Practical heat transfer situations rise where in-depth measurements must be used to predict a transient surface temperature or heat flux history. These occurrences are especially evident and necessary when a surface is exposed to a harsh thermal or chemical environment as the surface mounted sensor would most likely fail or lose its integrity over time. Unlike direct or forward problems, where the boundary condition is specified and the task is determining the temperature distribution, the reversed analysis produces numerous undesirable mathematical features. In particular, a well-posed process becomes ill-posed during this reversal. Any small error in the measurement leads to dramatic error amplification of the inverse prediction. This thesis describes an alternative measurement technique based on ultrasonic interferometry. Classically, in-depth thermocouples are used that require holes to be drilled into the sample. For the proposed sensor scenario, the sensor is mounted onto the back-side (passive side) of the sample and an ultrasonic pulse is released and timed (round-trip) in the sensor that produces the pulse. This time-of-flight measurement, using a pulse-echo arrangement, can be correlated to either surface temperature or heat flux. Regularization, a mathematical approach for stabilizing ill-posed problems, is introduced based on a future-time concept. In this approach, a family of predictions is produced based on the chosen regularization parameter. The most challenging problem associated with inverse problems is the identification of the optimal prediction. For the present study, a thermal phase plane is utilized to provide a qualitative view that explicitly shows instability and over-smoothing of the transient surface condition based on the regularization parameter. For a quantitative measure or metric, cross-correlation is described and its corresponding phase plane is used for estimating the optimal prediction, i.e., identification of the optimal regularization parameter. A numerical study is illustrated demonstrating the methodology and its accuracy for reconstructing the surface boundary condition.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5596</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7130&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5596</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7130</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539087</context-key>
+<submission-path>utk_gradthes/5596</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jay Frankel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Zhili Zhang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

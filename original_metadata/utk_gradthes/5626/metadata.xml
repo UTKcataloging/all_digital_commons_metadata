@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>2S Mobile Battery Charger with Integrated Cell Balancing</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qblalock@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Blalock</lname>
+<fname>Quillen</fname>
+<mname>Vaughn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Battery balancing</keyword>
+<keyword>battery charging</keyword>
+<keyword>integrated charger-balancer</keyword>
+<keyword>IC design</keyword>
+<keyword>flying capacitor multilevel converter</keyword>
+<keyword>2S batteries</keyword>
+</keywords>
+<abstract>&lt;p&gt;Mobile devices and other portable electronics require fast and efficient battery charging to meet the growing energy demands of modern technology. Charging time is reduced with higher charging current, but the current is limited by allowable on-chip power losses specified by thermal constraints for small area integrated circuits (ICs). As compared to a single-cell battery system requiring a given charging time, a two-battery series-connected (2S) cell configuration increases the overall voltage and thus reduces the necessary charging current to achieve the same charging time. Today, commercially available 2S battery chargers on the market currently consist of multi-chip solutions that manage charging, battery cell balancing, battery protection, and modulation control. Those chargers tend to be bulky because of multiple, independent ICs. In this work, a switched capacitor (SC) three-level boost converter is proposed as a single-chip integrated solution to provide simultaneous charging and active balancing for 2S battery topologies. The proposed charging circuit adopts the balancing functionality inherent to switched capacitor converter (SCC) techniques with two additional low-power transistors. Converter evaluation is performed across various input voltages, charging currents, and asymmetric battery voltages. The criteria for each operating scenario is a maximum on-chip loss of 1 W, 5-20 V range at the input, and up to 6.4 A charging current. State space modeling including converter parasitics developed for simulation analysis, and a hardware prototype built using GaN FETs enabled validation of the converter models. A proposed strategy for integration is also addressed as the converter’s charging and balancing capabilities are designed to meet or exceed the current market standard.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5626</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7160&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5626</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7160</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539138</context-key>
+<submission-path>utk_gradthes/5626</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hua Bai, Leon Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Grid Frequency Regulation Provided by High Power Motor Drives</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tshort4@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Short</lname>
+<fname>Taylor</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Induction motors make up a significant portion of the load on the power grid. The implementation of variable speeds drives (VSDs) with induction motors brings not only efficiency savings for the customers, but also possible benefits to the utility companies through demand response and other ancillary services. This project uses the HTB platform and PSCAD/EMTDC to develop, test, and utilize VSD connected industrial induction motors for industrial motor loads, such as fans, pump, and compressors. With the development of new power devices with wide bandgaps, such as SiC and GaN devices, active front end VSDs are growing in popularity. For this reason, an active front end topology is used for the simulation and emulation of the system. Controls are implemented in the VSD, including DC link voltage, inner and outer current loop, and grid frequency regulation. Two different control techniques were used for the grid frequency regulation— one on the WECC system and one on a microgrid system. The different techniques were developed based on the frequency characteristics on both systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5625</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7159&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5625</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7159</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539136</context-key>
+<submission-path>utk_gradthes/5625</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Fred Wang, Fangxing Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

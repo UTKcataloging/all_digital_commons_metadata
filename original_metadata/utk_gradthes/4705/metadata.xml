@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Effects of Distance, Antenna, and Channel on an Ultra Wide Band Location System, and Quantifying them to Increase Accuracy</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ncavopol@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Cavopol</lname>
+<fname>Nicholas</fname>
+<mname>Alexander</mname>
+</author>
+</authors>
+<keywords>
+<keyword>RTLS</keyword>
+<keyword>Ultra Wide Band</keyword>
+<keyword>Indoor Localization</keyword>
+<keyword>Accuracy Improvement</keyword>
+</keywords>
+<disciplines><discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Localization has been evolving rapidly over the last 20 years, especially in the wireless world. From the advent of GPS, as well as the personal smart phone, localization has become accessible to most of the developed world. From the ability to find ones’ smartphone using a computer, to being able to locate ones’ keys using radio frequencies, there are many ways that localization has entered our lives in the last few years, however most of these either do not have high accuracy, or are only accurate in an outside environment. For indoor tracking, new technologies have been developed to help bridge this gap, Ultra Wide Band (UWB) being one of the front runners.&lt;/p&gt;
+&lt;p&gt;UWB frequency spectrum has only been approved for public use by the FCC since 2002. The IEEE 802.15.4-2015 standard defines the narrowband ZigBee protocol and also includes a UWB physical layer. The UWB physical layer covers 3-10.6 GHz and includes 15 channels having differing center frequencies with bandwidths of 500 MHz or greater. As such, there is much less research, data, and analysis of these channels compared to other well established bands. When trying to increase the accuracy of a localization system, error sources must be addressed. In the case of UWB, these error sources are somewhat unknown. Through this thesis, we set up experiments to test the effects of range, antenna, and channel on both the shape and strength of the UWB pulse, as well as the effects on accuracy of 2D and 3D localization. Additionally, a software was developed and reviewed to optimize the placement of wireless receivers to maximize the accuracy of localization across the testing space. This thesis also reviews some of the current technologies associated with localization as well as their claimed accuracies, focusing on wireless technologies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4705</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5730&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4705</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5730</articleid>
+<submission-date>2017-01-13T13:42:45-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9547341</context-key>
+<submission-path>utk_gradthes/4705</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Kuhn, Mohamed R. Mahfouz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

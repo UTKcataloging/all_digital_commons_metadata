@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Effective precedence constrained scheduling in a make-to-order environment</title>
+<publication-date>2009-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xueping.li@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Xueping</fname>
+</author>
+<author>
+<lname>Wang</lname>
+<fname>Jiao</fname>
+</author>
+<author>
+<lname>Sawhney</lname>
+<fname>Rapinder</fname>
+</author>
+</authors>
+<keywords>
+<keyword>scheduling</keyword>
+<keyword>make-to-order assembly lines</keyword>
+<keyword>precendence constraints</keyword>
+<keyword>optimisation</keyword>
+<keyword>heuristic algorithm</keyword>
+<keyword>minimising makespan</keyword>
+<keyword>mathematical modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;The make-to-order assembly lines have gradually replaced the traditional mass production assembly lines. These assembly lines follow a &#39;make-to-order&#39; production policy, which are featured with a short production lead time, small number of working stations and highly skilled workers. In order to maximise the throughput under the resource (machine, labour and time) constraints, the problem of minimising makespan with general precedence constraints is addressed in this paper. A mathematical model of the problem is presented and a new heuristic, genetic job-oriented list scheduling (GJLS) is developed. Computational experiments indicate that the proposed algorithm outperforms the existing Graham&#39;s list scheduling (GLS).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/20</coverpage-url>
+<label>20</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1020</articleid>
+<submission-date>2010-08-31T11:23:34-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1490043</context-key>
+<submission-path>utk_indupubs/20</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Xueping Li, Jiao Wang and Rapinder Sawhney (2009), &quot;Effective precedence constrained scheduling in a make-to-order environment&quot;, &lt;em&gt;Int. J. of Advanced Operations Management (IJAOM)&lt;/em&gt;, Vol. 1, No. 4, pp. 331-350.</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-08-31T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.inderscience.com/search/index.php?action=record&amp;rec_id=31248&amp;prevQuery=&amp;ps=10&amp;m=or</value>
+</field>
+</fields>
+</document>
+</documents>

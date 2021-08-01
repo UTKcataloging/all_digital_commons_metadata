@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neurally Plausible Model of Robot Reaching Inspired by Infant Motor Babbling</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zmahoor@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Mahoor</lname>
+<fname>Zahra</fname>
+</author>
+</authors>
+<keywords>
+<keyword>motor babbling</keyword>
+<keyword>sensory-motor correlation</keyword>
+<keyword>robot reaching</keyword>
+<keyword>developmental robotics</keyword>
+<keyword>neural map</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this dissertation, we present an abstract model of infant reaching that is neurally-plausible. This model is grounded in embodied artificial intelligence, which emphasizes the importance of the sensorimotor interaction of an agent and the world. It includes both learning sensorimotor correlations through motor babbling and also arm motion planning using spreading activation. We introduce a mechanism called bundle formation as a way to generalize motions during the motor babbling stage.&lt;/p&gt;
+&lt;p&gt;We then offer a neural model for the abstract model, which is composed of three layers of neural maps with parallel structures representing the same sensorimotor space. The motor babbling period shapes the structure of the three neural maps as well as the connections within and between them; these connections encode trajectory bundles in the neural maps.&lt;/p&gt;
+&lt;p&gt;We then investigate an implementation of the neural model using a reaching task on a humanoid robot. Through a set of experiments, we were able to find the best way to implement different components of this model such as motor babbling, neural representation of sensorimotor space, dimension reduction, path planning, and path execution.&lt;/p&gt;
+&lt;p&gt;After the proper implementation had been found, we conducted another set of experiments to analyze the model and evaluate the planned motions. We evaluated unseen reaching motions using jerk, end effector error, and overshooting. In these experiments, we studied the effect of different dimensionalities of the reduced sensorimotor space, different bundle widths, and different bundle structures on the quality of arm motions.&lt;/p&gt;
+&lt;p&gt;We hypothesized a larger bundle width would allow the model to generalize better. The results confirmed that the larger bundles lead to a smaller error of end-effector position for testing targets. An experiment with the resolution of neural maps showed that a neural map with a coarse resolution produces less smooth motions compared to a neural map with a fine resolution. We also compared the unseen reaching motions under different dimensionalities of the reduced sensorimotor space. The results showed that a smaller dimension leads to less smooth and accurate movements.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4149</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5287&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4149</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5287</articleid>
+<submission-date>2016-05-23T12:57:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8637728</context-key>
+<submission-path>utk_graddiss/4149</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce MacLennan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniela Corbetta, Lynne Parker, James Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

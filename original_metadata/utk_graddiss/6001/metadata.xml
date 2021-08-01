@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data adaptive kernal discriminant analysis using information complexity criterion and genetic algorithm</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Park</lname>
+<fname>Dong-Ho</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Education</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation proposes a new hybrid approach which is computationally effective and easy-to-use for selecting the best subset of predictor variables in discriminant analysis under the assumption that data sets do not follow the normal distribution. Our approach incorporates the information-theoretic measure of complexity (ICOMP) criterion with the genetic algorithm and kernel density estimators in discriminant analysis. This approach enables researchers to find both the optimal bandwidth matrix for the kernel density estimate and the best model from several competing models, which was a severe obstacle for researchers to apply kernel density estimate for discriminant analysis. The proposed approach is applied to four real data sets and compared with linear discriminant analysis (LDA), quadratic discriminant analysis (QDA), and k-Nearest Neighbor Discriminant Analysis (k-NNDA). Based on our application, we can conclude that our proposed approach performs better than LDA and QDA and performs as well as k-NNDA with respect to classification error rates. With our approach we can do all-possible-subset selection of variables for high-dimensional data to determine the best predictors discriminating between the groups.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6001</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7934&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6001</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7934</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467673</context-key>
+<submission-path>utk_graddiss/6001</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan and Schuyler W. Huck</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Education</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Investigation into the use of a Mis-Tuned Rotor for Measurement of Pressure Distortion during Wind Tunnel Inlet Integration Tests</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Arnold</lname>
+<fname>Stephen</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>NSMS</keyword>
+<keyword>Blade Tip Timing</keyword>
+<keyword>Inlet Distortion</keyword>
+<keyword>Mistuned Rotor</keyword>
+<keyword>Inlet Integration Tests</keyword>
+<keyword>Turbine Engine</keyword>
+</keywords>
+<abstract>&lt;p&gt;During the development of modern aircraft, testing of sub scale models of the airframe is often done in wind tunnels to evaluate the effect that the aircraft inlet can have on the propulsion system. During these inlet integration test, special test equipment is required to vary the airflow through subscale inlet to represent an engine that varies from low to high thrust levels. A forty pressure probe array is also frequently used to characterize potential pressure defects in terms of extent (angular range of low pressure defect) and intensity. This thesis explores using a rotor with blades of different modal frequencies (mis-tuned rotor) to both vary the airflow through the inlet and measure the pressure distortion extent and intensity. The pressure distortion extent and intensity is determined by measuring blade vibrations using a Non-intrusive Stress Measurement System (NSMS). The blade vibrations are an input to an algorithm that evaluates the Fourier series composition of the circumferential pressure variation.An experimental rig with a mis-tuned rotor was developed to explore the new measurement device. Variations in blade vibratory amplitudes with varying pressure distortion levels were measured with the experimental rig, but blade excitation from other experimental rig features limited the usability of the test results. An effort was then undertaken to develop a model in the Simulink® environment that matched the experimental test rig results. This simulation did match the experiment rig results, and final evaluation of the proposed device was performed using the simulation alone.The measurement device as proposed in this thesis was limited to measuring pressure distortion with the desired uncertainty requirements at only one airflow. Recommendations are made to reconfigure the mis-tuned rotor to permit measuring pressure distortion at up to four different airflows. Recommendations are also made for advanced NSMS processing algorithms that will result in a reduction in the pressure measurement error.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5351</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6761&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5351</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6761</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343058</context-key>
+<submission-path>utk_gradthes/5351</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Reza Abedi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Greg Power, Montgomery Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

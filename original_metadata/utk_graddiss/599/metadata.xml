@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of statistical correlation and validation methods for construction of gene co-expression networks</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Duvvuru</lname>
+<fname>Suman</fname>
+</author>
+</authors>
+<disciplines><discipline>Life Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;High-throughput technologies such as microarrays have led to the rapid accumulation of large scale genomic data providing opportunities to systematically infer gene function and co-expression networks. Typical steps of co-expression network analysis using microarray data consist of estimation of pair-wise gene co-expression using some similarity measure, construction of co-expression networks, identification of clusters of co-expressed genes and post-cluster analyses such as cluster validation. This dissertation is primarily concerned with development and evaluation of approaches for the first and the last steps – estimation of gene co-expression matrices and validation of network clusters. Since clustering methods are not a focus, only a paraclique clustering algorithm will be used in this evaluation.&lt;/p&gt;
+&lt;p&gt;First, a novel Bayesian approach is presented for combining the Pearson correlation with prior biological information from Gene Ontology, yielding a biologically relevant estimate of gene co-expression. The addition of biological information by the Bayesian approach reduced noise in the paraclique gene clusters as indicated by high silhouette and increased homogeneity of clusters in terms of molecular function. Standard similarity measures including correlation coefficients from Pearson, Spearman, Kendall’s Tau, Shrinkage, Partial, and Mutual information, and Euclidean and Manhattan distance measures were evaluated. Based on quality metrics such as cluster homogeneity and stability with respect to ontological categories, clusters resulting from partial correlation and mutual information were more biologically relevant than those from any other correlation measures.&lt;/p&gt;
+&lt;p&gt;Second, statistical quality of clusters was evaluated using approaches based on permutation tests and Mantel correlation to identify significant and informative clusters that capture most of the covariance in the dataset. Third, the utility of statistical contrasts was studied for classification of temporal patterns of gene expression. Specifically, polynomial and Helmert contrast analyses were shown to provide a means of labeling the co-expressed gene sets because they showed similar temporal profiles.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/599</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1667&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>599</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1667</articleid>
+<submission-date>2010-02-23T11:57:32-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1165457</context-key>
+<submission-path>utk_graddiss/599</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arnold M. Saxton</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael A. Langston, Brynn H. Voy, Russell Zaretzki, Elissa J. Chesler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

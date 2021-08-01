@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards a Unification of Supercomputing, Molecular Dynamics Simulation and Experimental Neutron and X-ray Scattering Techniques</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>blindne1@utk.edu</email>
+<lname>Lindner</lname>
+<fname>Benjamin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cellulose</keyword>
+<keyword>Markov Model</keyword>
+<keyword>Massively Parallel</keyword>
+<keyword>Biomass</keyword>
+<keyword>Data Analysis</keyword>
+</keywords>
+<disciplines><discipline>Atomic, Molecular and Optical Physics</discipline>
+<discipline>Biophysics</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Structural Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Molecular dynamics simulation has become an essential tool for scientific discovery and investigation. The ability to evaluate every atomic coordinate for each time instant sets it apart from other methodologies, which can only access experimental observables as an outcome of the atomic coordinates. Here, the utility of molecular dynamics is illustrated by investigating the structure and dynamics of fundamental models of cellulose fibers. For that, a highly parallel code has been developed to compute static and dynamical scattering functions efficiently on modern supercomputing architectures. Using state of the art supercomputing facilities, molecular dynamics code and parallelization strategies, this work also provides insight into the relationship between cellulose crystallinity and cellulose-lignin aggregation by performing multi-million atom simulations. Finally, this work introduces concepts to augment the ability of molecular dynamics to interpret experimental observables with the help of Markov modeling, which allows for a convenient description of complex molecule dynamics as transitions between well defined conformations. The work presented here suggests that molecular dynamics will continue to evolve and integrate with experimental techniques, like neutron and X-ray scattering, and stochastic models, like Markov modeling, to yield unmatched descriptions of molecule dynamics and interpretations of experimental data, facilitated by the growing computational power available to scientists.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1589</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2765&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1589</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2765</articleid>
+<submission-date>2012-11-06T10:17:29-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3450035</context-key>
+<submission-path>utk_graddiss/1589</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy C. Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jerome Baudry, Hong Guo, Xiaolin Cheng, Tongye Shen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

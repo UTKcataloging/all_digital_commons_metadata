@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Taking Back the Internet: Defeating DDoS and Adverse Network Conditions via Reactive BGP Routing</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Smith</lname>
+<fname>Jared</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>DDoS</keyword>
+<keyword>security</keyword>
+<keyword>network security</keyword>
+<keyword>BGP</keyword>
+<keyword>distributed systems</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this work, we present Nyx, a system for mitigating Distributed Denial of Service (DDoS) attacks by routing critical traffic from known benign networks around links under attack from a massively distributed botnet. Nyx alters how Autonomous Systems (ASes) handle route selection and advertisement in the Border Gateway Protocol (BGP) in order to achieve isolation of critical traffic away from congested links onto alternative, less congested paths. Our system controls outbound paths through the normal process of BGP path selection, while return paths from critical ASes are controlled through the use of existing traffic engineering techniques. To prevent alternative paths from including attacked network links, Nyx employs strategic lying in a manner that is functional in the presence of RPKI. Our system only exposes the alternate path to the networks needed for forwarding and those networks&#39; customer cones, thus strategically reducing the number of ASes outside of the critical AS that receive the alternative path. By leaving the path taken by malicious traffic unchanged and limiting the amount of added traffic load placed on the alternate path, our system causes less than 10 ASes on average to be disturbed by our inbound traffic migration.Nyx is the first system that scalably and effectively mitigates transit-link DDoS attacks that cannot be handled by existing and costly traffic filtering or prioritization techniques. Unlike the prior state of the art, Nyx is highly deployable, requiring only minor changes to router policies at the deployer, and requires no assistance from external networks. Using our own Internet-scale simulator, we find that in more than 98% of cases our system can successfully migrate critical traffic off of the network segments under transit-link DDoS. In over 98% of cases, the alternate path provides some degree of relief over the original path. Finally, in over 70% of cases where Nyx can migrate critical traffic off attacked segments, the new path has sufficient capacity to handle the entire traffic load without congestion.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4994</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6401&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4994</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6401</articleid>
+<submission-date>2018-11-08T14:23:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13276620</context-key>
+<submission-path>utk_gradthes/4994</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Maxfield Joseph Schuchard</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Joseph Bryan Lyles, Audrius Mockus</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-3240-2405</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

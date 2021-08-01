@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accelerating Dense Linear Algebra  for GPUs, Multicores and Hybrid  Architectures: an Autotuned and  Algorithmic Approach</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rnath1@utk.edu</email>
+<lname>Nath</lname>
+<fname>Rajib Kumar</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Optimization</keyword>
+<keyword>GPUs</keyword>
+<keyword>Multicore</keyword>
+<keyword>Dense Linear Algebra</keyword>
+<keyword>BLAS</keyword>
+<keyword>Hybrid Architecture</keyword>
+</keywords>
+<abstract>&lt;p&gt;Dense linear algebra(DLA) is one of the most seven important kernels in&lt;/p&gt;
+&lt;p&gt;high performance computing. The introduction of new machines from vendors&lt;/p&gt;
+&lt;p&gt;provides us opportunities to optimize DLA libraries for the new machines&lt;/p&gt;
+&lt;p&gt;and thus exploit their power. Unfortunately the optimization phase is not&lt;/p&gt;
+&lt;p&gt;straightforward. The optimum code of a certain Basic Linear Algebra&lt;/p&gt;
+&lt;p&gt;Subprogram (BLAS) kernel, which is the core of DLA algorithms, in two&lt;/p&gt;
+&lt;p&gt;different machines with different semiconductor process can be different&lt;/p&gt;
+&lt;p&gt;even if they share the same features in terms of instruction set&lt;/p&gt;
+&lt;p&gt;architecture, memory hierarchy and clock speed. It has become a tradition&lt;/p&gt;
+&lt;p&gt;to optimize BLAS for new machines. Vendors maintain highly optimized BLAS&lt;/p&gt;
+&lt;p&gt;libraries targeting their CPUs. Unfortunately the existing BLAS for GPUs&lt;/p&gt;
+&lt;p&gt;is not highly optimized for DLA algorithms. In my research, I have&lt;/p&gt;
+&lt;p&gt;provided new algorithms for several important BLAS kernels for different&lt;/p&gt;
+&lt;p&gt;generation of GPUs and introduced a pointer redirecting approach to make&lt;/p&gt;
+&lt;p&gt;BLAS run faster in generic problem size. I have also presented an&lt;/p&gt;
+&lt;p&gt;auto-tuning approach to parameterize the developed BLAS algorithms and&lt;/p&gt;
+&lt;p&gt;select the best set of parameters for a given card.&lt;/p&gt;
+&lt;p&gt;The hardware trends have also brought up the need for updates on existing&lt;/p&gt;
+&lt;p&gt;legacy DLA software packages, such as the sequential LAPACK. To take&lt;/p&gt;
+&lt;p&gt;advantage of the new computational environment, successors of LAPACK must&lt;/p&gt;
+&lt;p&gt;incorporate algorithms of three main characteristics: high parallelism,&lt;/p&gt;
+&lt;p&gt;reduced communication, and heterogeneity-awareness. On multicore&lt;/p&gt;
+&lt;p&gt;architectures, Parallel Linear Algebra Software for Multicore&lt;/p&gt;
+&lt;p&gt;Architectures (PLASMA) has been developed to meet the challenges in&lt;/p&gt;
+&lt;p&gt;multicore. On the other extreme, Matrix Algebra on GPU and Multicore&lt;/p&gt;
+&lt;p&gt;Architectures (MAGMA) library demonstrated a hybridization approach that&lt;/p&gt;
+&lt;p&gt;indeed streamlined the development of high performance DLA for multicores&lt;/p&gt;
+&lt;p&gt;with GPU accelerators. The performance of these two libraries depend upon&lt;/p&gt;
+&lt;p&gt;right choice of parameters for a given problem size and given number of&lt;/p&gt;
+&lt;p&gt;cores and/or GPUs. In this work, the issue of automatically tuning these&lt;/p&gt;
+&lt;p&gt;two libraries is presented. A prune based empirical auto-tuning method has&lt;/p&gt;
+&lt;p&gt;been proposed for tuning PLASMA. Part of the tuning method for PLASMA was&lt;/p&gt;
+&lt;p&gt;considered to tune hybrid MAGMA library.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/734</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1794&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>734</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1794</articleid>
+<submission-date>2010-07-29T11:33:05-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1415343</context-key>
+<submission-path>utk_gradthes/734</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stanimire Z. Tomov, Lynne E. Parker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

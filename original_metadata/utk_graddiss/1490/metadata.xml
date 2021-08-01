@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Biological Simulations and Biologically Inspired Adaptive Systems</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eduenezg@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Duenez-Guzman</lname>
+<fname>Edgar</fname>
+<mname>Alfredo</mname>
+</author>
+</authors>
+<keywords>
+<keyword>simulation</keyword>
+<keyword>speciation</keyword>
+<keyword>heuristic optimization</keyword>
+<keyword>numerical integration</keyword>
+<keyword>coalitions</keyword>
+<keyword>evolutionary algorithms</keyword>
+</keywords>
+<disciplines><discipline>Evolution</discipline>
+<discipline>Numerical Analysis and Computation</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Many of the most challenging problems in modern science lie at the interface of several fields. To study these problems, there is a pressing need for trans-disciplinary research incorporating computational and mathematical models. This dissertation presents a selection of new computational and mathematical techniques applied to biological simulations and problem solving: (i) The dynamics of alliance formation in primates are studied using a continuous time individual-based model. It is observed that increasing the cognitive abilities of individuals stabilizes alliances in a phase transition-like manner. Moreover, with strong cultural transmission an egalitarian regime is established in a few generations. (ii) A putative case of hybrid speciation in three species of Heliconius butterflies is studied using a spatial, genetically explicit, individual-based simulation. Given the ecological and selective pressures observed, the hybrid origin of Heliconius heurippa is supported by the model. However, the coexistence of the parental species and the hybrid species is only transient in the simulation. (iii) Optimization and computational techniques were developed during the implementation of a model of adaptive radiation in Anolis lizards. An efficient and accurate numerical integration routine was developed and a parallel implementation was ran on Kraken, Cray’s XT5 supercomputer. These procedures improved the simulation’s running time by several orders of magnitude. (iv) Optimizations, both in execution time and memory usage, are proposed for some genetic operators extensively used in evolutionary algorithms and biological simulations. Speed-up ranging from two-fold to several orders of magnitude is achieved. A statistical analysis was conducted to ensure the reliability of the methods. (v) No-Free-Lunch (NFL) theorems are theoretical results concerning the performance of heuristic optimization algorithms. The characterization of function sets for which the Focused NFL theorem holds is shown. A generalization of NFL results to random algorithms is proven, as well as a new NFL theorem for random algorithms over arbitrary benchmarks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1490</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1352&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1490</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1352</articleid>
+<submission-date>2010-02-05T14:19:22-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1134390</context-key>
+<submission-path>utk_graddiss/1490</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael D. Vose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce MacLennan, Mongi Abidi, Sergey Gavrilets</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>dissertation.tex</archive-name>
+<upload-name>dissertation.tex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/x-tex</mime-type>
+<description>Source TeX file of main document</description>
+</file>
+<file>
+<archive-name>cug.tex</archive-name>
+<upload-name>cug.tex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/x-tex</mime-type>
+<description>Source TeX file of Chapter 4</description>
+</file>
+<file>
+<archive-name>allies.tex</archive-name>
+<upload-name>allies.tex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/x-tex</mime-type>
+<description>Source TeX file of Chapter 2</description>
+</file>
+<file>
+<archive-name>allies_SI2.tex</archive-name>
+<upload-name>allies_SI2.tex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/x-tex</mime-type>
+<description>Source TeX file of Chapter 2 (sup. info.)</description>
+</file>
+<file>
+<archive-name>approval.tex</archive-name>
+<upload-name>approval.tex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of the approval sheet</description>
+</file>
+<file>
+<archive-name>coal.bib</archive-name>
+<upload-name>coal.bib</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of coalitions bibliography</description>
+</file>
+<file>
+<archive-name>ecol_spec.bib</archive-name>
+<upload-name>ecol_spec.bib</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=6&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of ecological speciation bibliography</description>
+</file>
+<file>
+<archive-name>genetics.tex</archive-name>
+<upload-name>genetics.tex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=7&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/x-tex</mime-type>
+<description>Source TeX file of Chapter 5</description>
+</file>
+<file>
+<archive-name>heli.bib</archive-name>
+<upload-name>heli.bib</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=8&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of Heliconius bibliography</description>
+</file>
+<file>
+<archive-name>hybrids.tex</archive-name>
+<upload-name>hybrids.tex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=9&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/x-tex</mime-type>
+<description>Source TeX file of Chapter 3</description>
+</file>
+<file>
+<archive-name>kniga.bib</archive-name>
+<upload-name>kniga.bib</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=10&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of miscellaneous bibliography</description>
+</file>
+<file>
+<archive-name>mach.bib</archive-name>
+<upload-name>mach.bib</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=11&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of Machiavellian intelligence bibliography</description>
+</file>
+<file>
+<archive-name>nfl.bib</archive-name>
+<upload-name>nfl.bib</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=12&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of No-free-lunch and operators bibliography</description>
+</file>
+<file>
+<archive-name>sniche.bib</archive-name>
+<upload-name>sniche.bib</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=13&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Source TeX file of niche bibliography</description>
+</file>
+<file>
+<archive-name>Figures.zip</archive-name>
+<upload-name>Figures.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=14&amp;amp;article=1352&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Figures</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

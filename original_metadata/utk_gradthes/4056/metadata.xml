@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Integrated IGBT Active Gate Driver with Fast Feed-Forward Variable Current</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amchale@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>McHale</lname>
+<fname>Alexander</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The Insulated-Gate Bipolar Transistor (IGBT) is a hybrid of bipolar and MOSFET transistors. As a consequence, IGBTs can handle higher current typical of bipolar transistors with the ease of control typical of MOSFETs. These characteristics make IGBTs desirable for high power Switch Mode Power Supplies (SMPS). In high power systems such as these, devices must be very reliable, as device failures may result in safety hazards such as fires in addition to the failure of the system.&lt;/p&gt;
+&lt;p&gt;Conventional Gate Driver (CGD) circuits typically design for reliability in these systems by including a resistor between the gate driver and gate of the IGBT. This slows the switching waveforms, reducing stress on the IGBT while sacrificing efficiency. This solution is suboptimal, however, and as such Active Gate Drivers (AGD) have been designed to control voltage and current slopes through the IGBT by modulating the gate signal.&lt;/p&gt;
+&lt;p&gt;AGD circuits found on the market today consist of a combination of an CGD with external components to implement the variable current necessary for protection. This requires a large amount of area on a Printed Circuit Board (PCB), and thus can be costly. Therefore, it can be desirable to integrate the AGD functionality into an on-chip system.&lt;/p&gt;
+&lt;p&gt;In this thesis, an AGD is designed, fabricated and analyzed to show that IGBT gate voltage can be controlled in a manner capable of reducing overvoltage, as well as slowed when desired using an on-chip system. The current provided by this gate driver is controlled by feedback signals indicating the switching state of the device, as well as input bits that determine total output current.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4056</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5123&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4056</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5123</articleid>
+<submission-date>2016-02-26T12:08:12-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5123/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>8225386</context-key>
+<submission-path>utk_gradthes/4056</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Islam, Daniel Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Validation of Weak Form Thermal Analysis Algorithms Supporting Thermal Signature Generation</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>efreema4@utk.edu</email>
+<lname>Freeman</lname>
+<fname>Elton Lewis</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Algorithms</keyword>
+<keyword>Thermal Signature Generation</keyword>
+<keyword>Finite Elements</keyword>
+</keywords>
+<disciplines><discipline>Computer Engineering</discipline>
+<discipline>Engineering Physics</discipline>
+<discipline>Engineering Science and Materials</discipline>
+<discipline>Fluid Dynamics</discipline>
+<discipline>Mechanical Engineering</discipline>
+<discipline>Numerical Analysis and Computation</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Ordinary Differential Equations and Applied Dynamics</discipline>
+<discipline>Other Mathematics</discipline>
+<discipline>Partial Differential Equations</discipline>
+<discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Extremization of a weak form for the continuum energy conservation principle differential equation naturally implements fluid convection and radiation as flux Robin boundary conditions associated with unsteady heat transfer. Combining a spatial semi-discretization via finite element trial space basis functions with time-accurate integration generates a totally node-based algebraic statement for computing. Closure for gray body radiation is a newly derived node-based radiosity formulation generating piecewise discontinuous solutions, while that for natural-forced-mixed convection heat transfer is extracted from the literature. Algorithm performance, mathematically predicted by asymptotic convergence theory, is subsequently validated with data obtained in 24 hour diurnal field experiments for distinct thickness flat plates and a cube-shaped three dimensional object.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1377</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2550&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1377</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2550</articleid>
+<submission-date>2012-11-17T07:22:44-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3476355</context-key>
+<submission-path>utk_gradthes/1377</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Allen Jerome Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kwai Lam Wong, Jay I. Frankel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

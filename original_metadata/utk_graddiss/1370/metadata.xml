@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>UWB Pulse Radar for Human Imaging and Doppler Detection Applications</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ywang34@utk.edu</email>
+<lname>Wang</lname>
+<fname>Yazhou</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ultra-wideband</keyword>
+<keyword>pulse radar</keyword>
+<keyword>through-wall imaging</keyword>
+<keyword>Doppler detection</keyword>
+</keywords>
+<disciplines><discipline>Electromagnetics and Photonics</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;We were motivated to develop new technologies capable of identifying human life through walls. Our goal is to pinpoint multiple people at a time, which could pay dividends during military operations, disaster rescue efforts, or assisted-living. Such system requires the combination of two features in one platform: seeing-through wall localization and vital signs Doppler detection.&lt;/p&gt;
+&lt;p&gt;Ultra-wideband (UWB) radar technology has been used due to its distinct advantages, such as ultra-low power, fine imaging resolution, good penetrating through wall characteristics, and high performance in noisy environment. Not only being widely used in imaging systems and ground penetrating detection, UWB radar also targets Doppler sensing, precise positioning and tracking, communications and measurement, and etc.&lt;/p&gt;
+&lt;p&gt;A robust UWB pulse radar prototype has been developed and is presented here. The UWB pulse radar prototype integrates seeing-through imaging and Doppler detection features in one platform. Many challenges existing in implementing such a radar have been addressed extensively in this dissertation. Two Vivaldi antenna arrays have been designed and fabricated to cover 1.5-4.5 GHz and 1.5-10 GHz, respectively. A carrier-based pulse radar transceiver has been implemented to achieve a high dynamic range of 65dB. A 100 GSPS data acquisition module is prototyped using the off-the-shelf field-programmable gate array (FPGA) and analog-to-digital converter (ADC) based on a low cost solution: equivalent time sampling scheme. Ptolemy and transient simulation tools are used to accurately emulate the linear and nonlinear components in the comprehensive simulation platform, incorporated with electromagnetic theory to account for through wall effect and radar scattering.&lt;/p&gt;
+&lt;p&gt;Imaging and Doppler detection examples have been given to demonstrate that such a “Biometrics-at-a-glance” would have a great impact on the security, rescuing, and biomedical applications in the future.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1370</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2441&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1370</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2441</articleid>
+<submission-date>2012-02-28T13:33:21-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2441/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2583259</context-key>
+<submission-path>utk_graddiss/1370</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohamed Mahfouz, Gong Gu, Syed Islam, Marshall O. Pace</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

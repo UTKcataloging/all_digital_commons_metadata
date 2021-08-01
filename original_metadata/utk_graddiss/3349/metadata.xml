@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Simulation and Neuromuscular Control of Movement: Applications for Predictive Simulations of Balance Recovery</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>misagh@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mansouri Boroujeni</lname>
+<fname>Misagh</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Dynamic Simulation of human movement</keyword>
+<keyword>Neuromuscular control</keyword>
+<keyword>Rectus Femoris Transfer surgery in children with cerebral palsy</keyword>
+<keyword>balance recovery simulations</keyword>
+<keyword>predictive simulation of movement</keyword>
+<keyword>synthesizing human balance</keyword>
+</keywords>
+<disciplines><discipline>Biomechanical Engineering</discipline>
+<discipline>Controls and Control Theory</discipline>
+<discipline>Dynamics and Dynamical Systems</discipline>
+<discipline>Movement and Mind-Body Therapies</discipline>
+<discipline>Rehabilitation and Therapy</discipline>
+<discipline>Robotics</discipline>
+<discipline>Surgical Procedures, Operative</discipline>
+</disciplines><abstract>&lt;p&gt;Balance is among the most challenging tasks for patients with movement disorders. Study and treatment of these disorders could greatly benefit from combined software tools that offer better insights into neuromuscular biomechanics, and predictive capabilities for optimal surgical and rehabilitation treatment planning. A platform was created to combine musculoskeletal modeling, closed-loop forward dynamic simulation, optimization techniques, and neuromuscular control system design. Spinal (stretch-reflex) and supraspinal (operational space task-based) controllers were developed to test simulation-based hypotheses related to balance recovery and movement control. A corrective procedure (rectus femoris transfer surgery) was targeted for children experiencing stiff-knee gait and how this procedure may affect their balance recovery. Clinical movement analysis and simulation-based approaches were combined to understand the biomechanical consequences of this surgical procedure. The closed-loop controller was extended by merging approaches from robotics and biomechanics. A prioritized multi-task, support-consistent, task-based controller was implemented inside the simulation platform to synthesize human balance. The simulated results were validated with experimental data of healthy adults by defining surrogate response surfaces that represent the patients’ primary tasks (e.g., to keep their balance) as function of defined subtasks (e.g. swing leg positions or torso orientations). The potential of using this platform to study, predict functional outcomes and perhaps improve treatments for musculoskeletal conditions is exciting and valuable. This project not only integrates software tools, but also allows integration of neuroscientists, physiologists, biomechanists, and physical therapists to adopt, adapt, and generate new solutions for musculoskeletal conditions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3349</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4696&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3349</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4696</articleid>
+<submission-date>2015-02-26T15:17:00-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4696/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6735367</context-key>
+<submission-path>utk_graddiss/3349</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeffrey A. Reinbolt</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Eric R. Wade, Songning Zhang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

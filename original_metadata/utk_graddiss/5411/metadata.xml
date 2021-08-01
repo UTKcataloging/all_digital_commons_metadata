@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mixed Integer Programming Approaches to Novel Vehicle Routing Problems</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>trodrig5@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Rodriguez</lname>
+<fname>Tony</fname>
+<mname>Kent</mname>
+</author>
+</authors>
+<keywords>
+<keyword>integer programming</keyword>
+<keyword>vehicle routing</keyword>
+<keyword>snow plow optimization</keyword>
+<keyword>self driving vehicle routing</keyword>
+</keywords>
+<abstract>&lt;p&gt;This thesis explores two main topics. The first is how to incorporate data on meteorological forecasts, traffic patterns, and road network topology to utilize deicing resources more efficiently. Many municipalities throughout the United States find themselves unable to treat their road networks fully during winter snow events. Further, as the global climate continues to change, it is expected that both the number and severity of extreme winter weather events will increase for large portions of the US.We propose to use network flows, resource allocation, and vehicle routing mixed integer programming approaches to be able to incorporate all of these data in a winter road maintenance framework. We also show that solution approaches which have proved useful in network flows and vehicle routing problems can be adapted to construct high-quality solutions to this new problem quickly. These approaches are validated on both random and real-world instances using data from Knoxville, TN.In addition to showing that these approaches can be used to allocate resources effectively given a certain deicing budget, we also show that these same approaches can be used to help determine a resource budget given some allocation utility score. As before, we validate these approaches using random and real-world instances in Knoxville, TN.The second topic considered is formulating mixed integer programming models which can be used to route automated electric shuttles. We show that these models can also be used to determine fleet composition and optimal vehicle characteristics to accommodate various demand scenarios. We adapt popular vehicle routing solution techniques to these models, showing that these strategies continue to be relevant and robust. Lastly, we validate these techniques by looking at a case study in Greenville, SC, which recently received a grant from the Federal Highway Administration to deploy a fleet of automated electric shuttles in three neighborhoods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5411</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6947&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5411</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6947</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545432</context-key>
+<submission-path>utk_graddiss/5411</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James Ostrowski</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Kobza, Anahita Khojandi, Michael Langston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

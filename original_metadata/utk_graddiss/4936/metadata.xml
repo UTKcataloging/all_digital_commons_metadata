@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Decentralized and Fault-Tolerant Control of Power Systems with High Levels of Renewables</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mraoufat@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Raoufat</lname>
+<fname>Mohammad</fname>
+<mname>Ehsan</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Inter-area oscillations have been identified as a major problem faced by most power systems and stability of these oscillations are of vital concern due to the potential for equipment damage and resulting restrictions on available transmission capacity. In recent years, wide-area measurement systems (WAMSs) have been deployed that allow inter-area modes to be observed and identified.Power grids consist of interconnections of many subsystems which may interact with their neighbors and include several sensors and actuator arrays. Modern grids are spatially distributed and centralized strategies are computationally expensive and might be impractical in terms of hardware limitations such as communication speed. Hence, decentralized control strategies are more desirable.Recently, the use of HVDC links, FACTS devices and renewable sources for damping of inter-area oscillations have been discussed in the literature. However, very few such systems have been deployed in practice partly due to the high level of robustness and reliability requirements for any closed loop power system controls. For instance, weather dependent sources such as distributed winds have the ability to provide services only within a narrow range and might not always be available due to weather, maintenance or communication failures.Given this background, the motivation of this work is to ensure power grid resiliency and improve overall grid reliability. The first consideration is the design of optimal decentralized controllers where decisions are based on a subset of total information. The second consideration is to design controllers that incorporate actuator limitations to guarantee the stability and performance of the system. The third consideration is to build robust controllers to ensure resiliency to different actuator failures and availabilities. The fourth consideration is to design distributed, fault-tolerant and cooperative controllers to address above issues at the same time. Finally, stability problem of these controllers with intermittent information transmission is investigated.To validate the feasibility and demonstrate the design principles, a set of comprehensive case studies are conducted based on different power system models including 39-bus New England system and modified Western Electricity Coordinating Council (WECC) system with different operating points, renewable penetration and failures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4936</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6477&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4936</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6477</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415118</context-key>
+<submission-path>utk_graddiss/4936</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik M. Djouadi, Kevin l. Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

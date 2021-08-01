@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Collinearity in ecological niche modeling: Confusions and challenges</title>
+<publication-date>2019-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Arizona</institution>
+<lname>Feng</lname>
+<fname>Xiao</fname>
+</author>
+<author>
+<institution>Harvard University, MA</institution>
+<lname>Park</lname>
+<fname>Daniel</fname>
+<mname>S.</mname>
+</author>
+<author>
+<institution>Oklahoma State University</institution>
+<lname>Liang</lname>
+<fname>Ye</fname>
+</author>
+<author>
+<institution>Oklahoma State University</institution>
+<lname>Pandey</lname>
+<fname>Ranjit</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Papeş</lname>
+<fname>Monica</fname>
+</author>
+</authors>
+<coverpage-url>https://trace.tennessee.edu/utk_ecolpubs/86</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1087&amp;amp;context=utk_ecolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>86</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1087</articleid>
+<submission-date>2019-09-04T06:48:57-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Ecology and Evolutionary Biology</publication-title>
+<context-key>15258884</context-key>
+<submission-path>utk_ecolpubs/86</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Ecological niche models are widely used in ecology and biogeography. Maxent is one of the most frequently used niche modeling tools, and many studies have aimed to optimize its performance. However, scholars have conflicting views on the treatment of predictor collinearity in Maxent modeling. Despite this lack of consensus, quantitative examinations of the effects of collinearity on Maxent modeling, especially in model transfer scenarios, are lacking. To address this knowledge gap, here we quantify the effects of collinearity under different scenarios of Maxent model training and projection. We separately examine the effects of predictor collinearity, collinearity shifts between training and testing data, and environmental novelty on model performance. We demonstrate that excluding highly correlated predictor variables does not significantly influence model performance. However, we find that collinearity shift and environmental novelty have significant negative effects on the performance of model transfer. We thus conclude that (a) Maxent is robust to predictor collinearity in model training; (b) the strategy of excluding highly correlated variables has little impact because Maxent accounts for redundant variables; and (c) collinearity shift and environmental novelty can negatively affect Maxent model transferability. We therefore recommend to quantify and report collinearity shift and environmental novelty to better infer model accuracy when models are spatially and/or temporally transferred.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="doi" type="string">
+<value>https://doi.org/10.5281/zenodo.3352333</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Ecology and Evolution</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

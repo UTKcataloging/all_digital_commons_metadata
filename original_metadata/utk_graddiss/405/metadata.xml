@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Detail Enhancing Denoising of Digitized 3D Models from a Mobile Scanning System</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Grinstead</lname>
+<fname>Bradley</fname>
+<mname>I</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The acquisition process of digitizing a large-scale environment produces an enormous amount of raw geometry data. This data is corrupted by system noise, which leads to 3D surfaces that are not smooth and details that are distorted. Any scanning system has noise associate with the scanning hardware, both digital quantization errors and measurement inaccuracies, but a mobile scanning system has additional system noise introduced by the pose estimation of the hardware during data acquisition. The combined system noise generates data that is not handled well by existing noise reduction and smoothing techniques.&lt;/p&gt;
+&lt;p&gt;This research is focused on enhancing the 3D models acquired by mobile scanning systems used to digitize large-scale environments. These digitization systems combine a variety of sensors – including laser range scanners, video cameras, and pose estimation hardware – on a mobile platform for the quick acquisition of 3D models of real world environments. The data acquired by such systems are extremely noisy, often with significant details being on the same order of magnitude as the system noise. By utilizing a unique 3D signal analysis tool, a denoising algorithm was developed that identifies regions of detail and enhances their geometry, while removing the effects of noise on the overall model.&lt;/p&gt;
+&lt;p&gt;The developed algorithm can be useful for a variety of digitized 3D models, not just those involving mobile scanning systems. The challenges faced in this study were the automatic processing needs of the enhancement algorithm, and the need to fill a hole in the area of 3D model analysis in order to reduce the effect of system noise on the 3D models. In this context, our main contributions are the automation and integration of a data enhancement method not well known to the computer vision community, and the development of a novel 3D signal decomposition and analysis tool. The new technologies featured in this document are intuitive extensions of existing methods to new dimensionality and applications. The totality of the research has been applied towards detail enhancing denoising of scanned data from a mobile range scanning system, and results from both synthetic and real models are presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/405</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1466&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>405</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1466</articleid>
+<submission-date>2010-02-17T09:21:00-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1150261</context-key>
+<submission-path>utk_graddiss/405</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Andreas Koschan, David Page, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/GrinsteadBradley.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

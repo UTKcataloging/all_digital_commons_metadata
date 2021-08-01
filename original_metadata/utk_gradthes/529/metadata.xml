@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Identification and Quantification of Cotton Yield Monitor Errors</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Head</lname>
+<fname>Jason</fname>
+<mname>Clay</mname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Cotton yield monitors are an important part of a precision agriculture program and are becoming widely used by cotton producers for making management decisions. Members of the cotton industry have shown interest in using cotton yield monitors for collecting data from production scale variety yield trials (experiments that test yield performance for numerous varieties). Weighing boll buggies are the current industry standard for measuring yield in variety trials. This process is time consuming and requires extra equipment and labor. The ability to use a yield monitor for measuring yield would streamline variety trial harvesting. Recommendations for the Ag Leader cotton yield monitor state that the monitor should be recalibrated when harvesting a new variety. This poses a problem for collecting yield data from a variety trial due to the numerous calibrations that would be required. The primary objective of this research is to evaluate and enhance monitor performance in order to use it for collecting variety trial data. This will be done using different calibration techniques and post-processing models developed using measured gin turnout and environmental variables.&lt;/p&gt;
+&lt;p&gt;Data were collected in 2007 and 2008 at the Milan Research and Education Center in Milan, TN. Monitor weights were compared to boll buggy weights to determine variation between these two yield estimation techniques. This measured variation is defined as Yield Prediction Error (YPE). Before calibration, yield explained 44% of the variation in YPE. After post-calibration, moisture and yield explained 48% of the variation in YPE. Post-processing models were developed using these types of relationships but were unsuccessful as they introduced more variation into the data set. The relationship of YPE to moisture suggests that boll buggy weights should be adjusted to a common moisture content. The relationship of YPE to yield suggests that improvements could be made to the monitor. Post-processing the data using yield in the model was able to reduce the mean absolute error to 2.5% from 3.3% using only calibration C (recalibrating when weather or other events cause a multiple day stoppage in harvesting).&lt;/p&gt;
+&lt;p&gt;Tukey’s mean separation test was used for both yield measurement techniques to determine differences in variety trial results. In both 2007 and 2008, the variety trial results returned the same differences for both yield estimation techniques. This dataset supports that with proper calibration, the yield monitor can be used to collect yield data for cotton variety trials.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/529</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1565&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>529</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1565</articleid>
+<submission-date>2010-02-26T06:26:11-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1171904</context-key>
+<submission-path>utk_gradthes/529</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William E. Hart</value>
+</field>
+<field name="advisor2" type="string">
+<value>John B. Wilkerson, Arnold M. Saxton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering Technology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

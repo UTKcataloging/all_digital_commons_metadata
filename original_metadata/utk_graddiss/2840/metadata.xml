@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Methods and Algorithms for High Frequency Wave Scattering Problems in Homogeneous and Random Media</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>clorton@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lorton</lname>
+<fname>Cody</fname>
+<mname>Samuel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Wave Propagation</keyword>
+<keyword>Numerical Analysis</keyword>
+<keyword>PDE</keyword>
+<keyword>Discontinuous Galerkin</keyword>
+<keyword>Monte Carlo Method</keyword>
+<keyword>Schwarz Methods</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation consists of four integral parts with a unified objective of developing efficient numerical methods for high frequency time-harmonic wave equations defined on both homogeneous and random media. The first part investigates the generalized weak coercivity of the acoustic Helmholtz, elastic Helmholtz, and time-harmonic Maxwell wave operators. We prove that such a weak coercivity holds for these wave operators on a class of more general domains called generalized star-shape domains. As a by-product, solution estimates for the corresponding Helmholtz-type problems are obtained.&lt;/p&gt;
+&lt;p&gt;The second part of the dissertation develops an absolutely stable (i.e. stable in all mesh regimes) interior penalty discontinuous Galerkin (IP-DG) method for the elastic Helmholtz equations. A special mesh-dependent sesquilinear form is proposed and is shown to be weakly coercive in all mesh regimes. We prove that the proposed IP-DG method converges with optimal rate with respect to the mesh size. Numerical experiments are carried out to demonstrate the theoretical results and compare this method to the standard finite element method.&lt;/p&gt;
+&lt;p&gt;The third part of the dissertation develops a Monte Carlo interior penalty discontinuous Galerkin (MCIP-DG) method for the acoustic Helmholtz equation defined on weakly random media. We prove that the solution to the random Helmholtz problem has a multi-modes expansion (i.e., a power series in a medium- related small parameter). Using this multi-modes expansion an efficient and accurate numerical method for computing moments of the solution to the random Helmholtz problem is proposed. The proposed method is also shown to converge optimally. Numerical experiments are carried out to compare the new multi-modes MCIP-DG method to a classical Monte Carlo method.&lt;/p&gt;
+&lt;p&gt;The last part of the dissertation develops a theoretical framework for Schwarz pre- conditioning methods for general nonsymmetric and indefinite variational problems which are discretized by Galerkin-type discretization methods. Such a framework has been missing in the literature and is of great theoretical and practical importance for solving convection-diffusion equations and Helmholtz-type wave equations. Condition number estimates for the additive and hybrid Schwarz preconditioners are established under some structure assumptions. Numerical experiments are carried out to test the new framework.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2840</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4161&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2840</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4161</articleid>
+<submission-date>2014-05-12T10:54:31-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5570497</context-key>
+<submission-path>utk_graddiss/2840</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaobing H. Feng</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Ohannes A. Karakashian, Steven M. Wise</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

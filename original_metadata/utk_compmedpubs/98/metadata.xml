@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Socioeconomic determinants of geographic disparities in campylobacteriosis risk: a comparison of global and local modeling approaches</title>
+<publication-date>2012-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Weisent</lname>
+<fname>Jennifer</fname>
+</author>
+<author>
+<lname>Rohrbach</lname>
+<fname>Barton</fname>
+</author>
+<author>
+<lname>Dunn</lname>
+<fname>John</fname>
+<mname>R</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Odai</lname>
+<fname>Agricola</fname>
+</author>
+</authors>
+<disciplines><discipline>Veterinary Medicine</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Socioeconomic factors play a complex role in determining the risk of campylobacteriosis. Understanding the spatial interplay between these factors and disease risk can guide disease control programs. Historically, Poisson and negative binomial models have been used to investigate determinants of geographic disparities in risk. Spatial regression models, which allow modeling of spatial effects, have been used to improve these modeling efforts. Geographically weighted regression (GWR) takes this a step further by estimating local regression coefficients, thereby allowing estimations of associations that vary in space. These recent approaches increase our understanding of how geography influences the associations between determinants and disease. Therefore the objectives of this study were to: (i) identify socioeconomic determinants of the geographic disparities of campylobacteriosis risk (ii) investigate if regression coefficients for the associations between socioeconomic factors and campylobacteriosis risk demonstrate spatial variability and (iii) compare the performance of four modeling approaches: negative binomial, spatial lag, global and local Poisson GWR.  &lt;h4&gt;Methods&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Negative binomial, spatial lag, global and local Poisson GWR modeling techniques were used to investigate associations between socioeconomic factors and geographic disparities in campylobacteriosis risk. The best fitting models were identified and compared.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Two competing four variable models (Models 1 &amp; 2) were identified. Significant variables included race, unemployment rate, education attainment, urbanicity, and divorce rate. Local Poisson GWR had the best fit and showed evidence of spatially varying regression coefficients.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;The international significance of this work is that it highlights the inadequacy of global regression strategies that estimate one parameter per independent variable, and therefore mask the true relationships between dependent and independent variables. Since local GWR estimate a regression coefficient for each location, it reveals the geographic differences in the associations. This implies that a factor may be an important determinant in some locations and not others. Incorporating this into health planning ensures that a needs-based, rather than a “one-size-fits-all”, approach is used. Thus, adding local GWR to the epidemiologists’ toolbox would allow them to assess how the impacts of different determinants vary by geography. This knowledge is critical for resource allocation in disease control programs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_compmedpubs/98</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1097&amp;amp;context=utk_compmedpubs&amp;amp;unstamped=1</fulltext-url>
+<label>98</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1097</articleid>
+<submission-date>2014-01-03T15:07:34-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Biomedical and Diagnostic Sciences</publication-title>
+<context-key>4952542</context-key>
+<submission-path>utk_compmedpubs/98</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article has been funded by the University of Tennessee&#39;s &lt;a href=&quot;http://www.lib.utk.edu/scholar/open-access/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>International Journal of Health Geographics 2012, 11:45  doi:10.1186/1476-072X-11-45</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-01-03T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>International Journal of Health Geographics</value>
+</field>
+</fields>
+</document>
+</documents>

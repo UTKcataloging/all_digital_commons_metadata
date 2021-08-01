@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparing EMG- and Goniometer-Driven NMI Control For A Virtual Target Acquisition Task</title>
+<publication-date>2019-04-15T07:41:03-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nkowalsk@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Kowalski</lname>
+<fname>Nicole</fname>
+</author>
+<author>
+<email>dcrouch3@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Crouch</lname>
+<fname>Dustin</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Discrepancies between the estimated and intended movement can limit users’ control of neural-machine interfaces (NMIs) such as in myoelectric prostheses [1] and virtual interfaces [2]. A novel electromyography (EMG)-driven NMI controller based on a musculoskeletal model of the hand was previously developed and evaluated users’ control of a virtual hand during a real-time target acquisition task [3]. The objective of our study was to quantify movement estimation errors through use of an EMG-driven test and a Goniometer-driven test. During the target acquisition task, seven able-bodied subjects attempted to match and hold target postures for 2 seconds with a 2-degree-of-freedom (wrist and metacarpophalangeal (MCP) flexion/extension) virtual stick-figure hand. In different trials, subjects controlled the virtual hand using either EMG (measured with 4 sensors placed on the forearm) or joint angles (measured with electrogoniometers placed across the wrist and MCP joints). There was less error between the subjects’ actual and virtual hand joint angles and better overall task performance with joint angle control than with EMG control. This suggests that accuracy of movement estimates does influence real-time task performance for EMG-based NMI control. Future studies should identify error sources and improve movement estimation accuracy.&lt;/p&gt;
+&lt;p&gt;[1] D.L. Crouch, et al. &lt;em&gt;IEEE TNSRE, In Press.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[2] A. Ameri, et al. &lt;em&gt;Biomedical Signal Processing and Control&lt;/em&gt; 13 (2014) 8-14.&lt;/p&gt;
+&lt;p&gt;[3] D.L. Crouch, et al. &lt;em&gt;J. Neural Eng.&lt;/em&gt; 14 (2017) 036008.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_eureca/2019/engineering/1</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1231&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1231</articleid>
+<submission-date>2019-04-11T13:48:00-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>14236675</context-key>
+<submission-path>utk_eureca/2019/engineering/1</submission-path>
+<fields>
+<field name="college" type="string">
+<value>Tickle College of Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical, Aerospace, and Biomedical Engineering</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Dustin Crouch</value>
+</field>
+<field name="year" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

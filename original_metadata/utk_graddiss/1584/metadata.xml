@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Aspects of biomacromolecular dynamics at different scales</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dglass4@utk.edu</email>
+<lname>Glass</lname>
+<fname>Dennis Christian</fname>
+</author>
+</authors>
+<disciplines><discipline>Biophysics</discipline>
+<discipline>Structural Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Biological functions of biomacromolecules are often indispensably linked to their internal dynamics. To investigate the dynamic nature of biomolecules, molecular dynamics (MD) simulation offers unique advantages by providing high spatial and temporal resolution over orders of magnitude in time- and length scales. Here, simulations at two different scales are used to investigate different aspects of biomolecular dynamics. At the atomistic scale, the first study investigates the relationship between the axial methyl group order parameter and the corresponding entropy in protein side chains. Three classes of methyl group are characterized based on the methyl group’s “topological distance” from the backbone (that is the number of bonds between the methyl group axis and the closest backbone atom) even when direct effects of the topological distance are removed. This distinction implies that methyl groups at the same topological position share similar nonbonded environments. Furthermore, consideration of these classes of methyl group improves the accuracy of entropy-estimates based upon changes in order parameter. The second study investigates the deconstruction of crystalline cellulose, a problem relevant to bioenergy research. The large size of crystalline cellulose together with the associated long-time dynamics exceeds the capabilities of atomistic simulation. Thus, a residue-scale, coarse-grained model of cellulose is calculated using the REACH (Realistic Extension Algorithm via Covariance Hessian) method. The model is successfully validated against experiment using Young’s moduli and the velocity of sound. The coarse-grained analysis of the cellulose fibril suggests that the intrinsic dynamics facilitates deconstruction of the crystalline cellulose fibril from the hydrophobic surface. Both applications share the same concept of approach (that is, computational modeling and simulation at an appropriate scale), which reveals key insights into biomolecules by investigating their dynamic behavior.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1584</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2710&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1584</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2710</articleid>
+<submission-date>2012-09-24T11:48:25-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2710/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3346493</context-key>
+<submission-path>utk_graddiss/1584</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy C. Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jerome Baudry, Xaolin Cheng, Hong Guo, Tongye Shen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

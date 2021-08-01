@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modern Data Acquisition, System Design, and Analysis Techniques and their Impact on the Physics-based Understanding of Neutron Coincidence Counters used for International Safeguards (draft)</title>
+<publication-date>2019-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Moore</lname>
+<fname>Angela</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Neutron coincidence counting is a technique widely used in the field of international safeguards for the mass quantification of a fissioning item. It can exploit either passive or active interrogation techniques to assay a wide range of plutonium, uranium, and mixed oxide items present in nuclear facilities worldwide. Because neutrons are highly penetrating, and the time correlation between events provides an identifiable signature, when combined with gamma spectroscopy, it has been used for nondestructive assays of special nuclear material for decades. When neutron coincidence counting was first established, a few system designs emerged as standards for assaying common containers. Over successive decades, new systems were developed for a wider variety of inspection assays. Simultaneously, new system characterization procedures, data acquisition technologies, and performance optimizations were made. The International Atomic Energy Agency has been using many of these original counters for decades, despite the large technological growth in recent years. This is both a testament and an opportunity.&lt;/p&gt;
+&lt;p&gt;This dissertation explores several topics in which the performance of neutron coincidence counting systems is studied such that their behavior may be better understood from physical models, and their applications may be expanded to a greater field of interest. Using modern list mode data acquisition and analysis, procedures are developed, implemented, and exploited to expand the information obtained of both these systems and sources in question in a common measurement. System parameters such as coincidence time windows, dead time, efficiency, die-away time, and non-ideal double pulsing are explored in new ways that are not possible using traditional shift register logic. In addition, modern amplifier electronics are retrofitted in one model, the Uranium Neutron Coincidence Collar, to allow for a count rate-based source spatial response matrix to be measured, ultimately for the identification of diversion in a fresh fuel assembly. The testing, evaluation, and optimization of these electronics is described; they may serve as a more capable alternative to existing electronics used in IAEA systems. Finally, with a thorough understanding of the system characteristics and performance, neutron coincidence counters may be used to self-certify calibration sources with superior precision to national metrological laboratories.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5956</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7742&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5956</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7742</articleid>
+<submission-date>2021-01-24T14:18:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>21246609</context-key>
+<submission-path>utk_graddiss/5956</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason P. Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, Howard Hall, Lawrence Heilbronn, Stephen Croft</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

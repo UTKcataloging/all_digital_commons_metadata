@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the Bidirectional Vortex Engine Flowfield with Arbitrary Endwall Injection</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gakiki@utk.edu</email>
+<lname>Akiki</lname>
+<fname>Georges</fname>
+</author>
+</authors>
+<keywords>
+<keyword>bidirectional</keyword>
+<keyword>vortex</keyword>
+<keyword>exact solution</keyword>
+<keyword>rocket engine</keyword>
+</keywords>
+<abstract>&lt;p&gt;In an attempt to generalize previous models of the bidirectional vortex mean flow, a new solution is presented that can cope with arbitrary injections and outlet conditions. In the process, the steady, inviscid and axisymmetric equations of motions are reduced to one partial differential equation for the stream function, known as the Bragg-Hawthorne equation, which is solved exactly. The solution is shown to be highly dependent on the imposed boundary conditions: the mean flow changes according to the manner by which the fluid is injected or extracted from the vortex chamber. From the stream function, the velocity is obtained along with the vorticity and pressure distributions which are carefully derived and analyzed. The results are then compared to several inviscid models found in the literature. After determining an exact inviscid solution to the problem, viscous effects at the core are added to overcome the known singularity that arises at the centerline. The governing equations are hence revisited while keeping the viscous diffusion term in the tangential momentum equation. The core region, where viscous effects lead to the onset of a forced vortex, is rescaled using appropriate transformations. An asymptotic approximation is then applied to linearize and solve the resulting ODE for the tangential vi velocity. The inner viscous solution is then matched to the outer inviscid result using Prandtl’s Matching Principle. Finally, the viscous correction is passed onto the vorticity and pressure formulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/945</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2147&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>945</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2147</articleid>
+<submission-date>2011-08-02T10:58:45-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2128061</context-key>
+<submission-path>utk_gradthes/945</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph Majdalani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Trevor M. Moeller, Christian G. Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

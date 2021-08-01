@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>DETERMINING GRID SECURITY THROUGH DYNAMIC STABILITY ANALYSIS OF MAJOR CONTINGECIES AND INCREASED RENEWABLE PENETRATION</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sfabus@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Fabus</lname>
+<fname>Summer</fname>
+<mname>Francesca</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The challenge of ensuring grid security becomes more complex with the advancement of new technology and major events causing widespread damage in the system. Threats of cyber-attacks create permutations of possible contingencies that may have never been considered in typical operations and planning. Natural disasters have caused devastating effects, taking out entire power systems and leaving thousands of customers without service for extended periods. The integration of more renewables into the grid creates dynamic stability concerns due to the replacement of large, rotating machines. In these examples, security can be assessed by studying dynamic stability, while also considering the consequences of each contingency or modification in the system.Security has been analyzed in three separate projects using various systems. The first project is Multi-Timescale Integrated Dynamics and Scheduling for Solar (MIDAS). In this project, a machine learning tool was used to determine security criteria for frequency, transient, and small-signal stability of a power system integrated with renewables. Security assessment is a fundamental function for both short-term and long-term power system operation. The developed data-driven security assessment (DSA) criteria uses machine learning to determine when it is necessary to trigger dynamic simulation by linking traditional isolated dynamic simulation with long-term scheduling. In the second project, a model of Puerto Rico’s 2018 transmission system was created. Simulations of major contingencies were performed on the Puerto Rico system, including the trip of main transmission corridors along the path of destructive Hurricane Maria. In the future, higher renewable penetration in the Puerto Rico system is expected. Therefore, studies were run at high solar penetration levels to assess dynamic stability under these conditions. Lastly, a cybersecurity study of a large system was also performed. Several scenarios were analyzed to determine stability boundaries and effects of possible targeted attacks. The goal was to determine critical contingencies that would cause system collapse.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5411</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6819&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5411</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6819</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528540</context-key>
+<submission-path>utk_gradthes/5411</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Hector Pulgar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

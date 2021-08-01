@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Coulomb Corrections for Inclusive Electron Scattering Data</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcarro25@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Carroll</lname>
+<fname>Jay</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Experiment E89-008 was performed using the Continuous Electron Beam Accelerator Facility (CEBAF) at the Thomas Jefferson National Accelerator Facility in 1996. It measured inclusive electron scattering for D [deuterium], 12C [carbon 12], 56Fe [iron 56], and 197Au [gold 197]. Of those, the 12C, 56Fe, and 197Au data was analyzed in terms of F(y), which is a tool that was used to understand the momentum distribution of nucleons in the nucleus. However, the processing on this data was incomplete, and Coulomb corrections were never applied. These corrections are essential in finalizing and completing the processing of the E89-008 data. To apply these corrections, a suite of code that simulates cross sections using the XEM model was restored from a specific experimental version to fit the conditions imposed by the E89-008 data. Using this simulation, Coulomb corrections were finally applied to the E89-008 data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5433</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6841&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5433</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6841</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528565</context-key>
+<submission-path>utk_gradthes/5433</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nadia Fomin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Sean Lindsay, Miguel Madurga-Flores</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

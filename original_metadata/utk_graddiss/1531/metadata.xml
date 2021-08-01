@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploring Computational Chemistry on Emerging Architectures</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ddj@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jenkins</lname>
+<fname>David</fname>
+<mname>Dewayne</mname>
+</author>
+</authors>
+<keywords>
+<keyword>high performance computing</keyword>
+<keyword>computational science</keyword>
+<keyword>GPU</keyword>
+<keyword>CUDA</keyword>
+<keyword>Intel MIC</keyword>
+<keyword>supercomputers</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Other Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;Emerging architectures, such as next generation microprocessors, graphics processing units, and Intel MIC cards, are being used with increased popularity in high performance computing. Each of these architectures has advantages over previous generations of architectures including performance, programmability, and power efficiency. With the ever-increasing performance of these architectures, scientific computing applications are able to attack larger, more complicated problems. However, since applications perform differently on each of the architectures, it is difficult to determine the best tool for the job. This dissertation makes the following contributions to computer engineering and computational science. First, this work implements the computational chemistry variational path integral application, QSATS, on various architectures, ranging from microprocessors to GPUs to Intel MICs. Second, this work explores the use of analytical performance modeling to predict the runtime and scalability of the application on the architectures. This allows for a comparison of the architectures when determining which to use for a set of program input parameters. The models presented in this dissertation are accurate within 6%. This work combines novel approaches to this algorithm and exploration of the various architectural features to develop the application to perform at its peak. In addition, this expands the understanding of computational science applications and their implementation on emerging architectures while providing insight into the performance, scalability, and programmer productivity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1531</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2705&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1531</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2705</articleid>
+<submission-date>2012-09-18T11:06:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3330733</context-key>
+<submission-path>utk_graddiss/1531</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert J. Hinde, Robert J. Harrison, Itamar Arel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

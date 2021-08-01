@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improvements to the Predictive Capability of FCM Fuel Performance Modeling</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dschappe@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Schappel</lname>
+<fname>Daniel</fname>
+<mname>Philip</mname>
+</author>
+</authors>
+<keywords>
+<keyword>FCM</keyword>
+<keyword>TRISO</keyword>
+<keyword>thermo</keyword>
+<keyword>mechanical</keyword>
+<keyword>BISON</keyword>
+<keyword>fracture</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A proposed fuel type for improved accident performance in LWRs (Light Water Reactors) involves TRISO (Tristructural-Isotropic) particles embedded in a NITE (Nano Infiltrated Eutectic) silicon carbide matrix. TRISO fuel particles contain a spherical fuel kernel of about 500 to in excess of 800 microns in diameter. The kernel and buffer layer are then coated with three isotropic layers consisting of a dense inner pyrolytic carbon (IPyC), a silicon carbide (SiC) layer, and an outer pyrolytic carbon (OPyC) layer. These layers are about 40 microns thick. The TRISO particle packing fraction in the NITE-SiC matrix is expected to be about 40 vol percent.&lt;/p&gt;
+&lt;p&gt;The release of radioactivity into the coolant is dependent on the integrity of the silicon carbide layer of the TRISO particles and the NITE-SiC matrix. Currently BISON is a code being used to simulate the thermomechanical behavior of this fuel type. BISON, a code under development by Idaho National Laboratory, is built on the Multi-physics Object Oriented Simulation Environment (MOOSE). MOOSE is a massively parallel, finite element computational system that uses a Jacobian-free, Newton-Krylov (JFNK) method to solve coupled systems and non-linear partial differential equations.&lt;/p&gt;
+&lt;p&gt;Due to the anisotropic geometry of the FCM pellet, the capability to model a large and random arrangement of discrete TRISO particles was developed. Additional work has been performed to develop models for the fracture of the FCM materials and transport of silver and cesium. This combination allows sufficient predictive capability to perform preliminary analysis of FCM fuel performance.&lt;/p&gt;
+&lt;p&gt;TRISO FCM is predicted to perform well for linear powers less than 45 kW per meter in light water reactor environments and 15 kW per meter in high temperature gas reactors. The silicon carbide pellet is expected to limit the cesium inventory release to less than one percent in the first two days following a major accident.&lt;/p&gt;
+&lt;p&gt;Future work would focus on the coupling of PyC volume change and irradiation creep effects. Coupling these effects may prevent the large stresses predicted due to rapid volume expansion. An additional objective is to design and perform experiments that show the PyC behavior at high neutron fluence.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4646</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5992&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4646</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5992</articleid>
+<submission-date>2017-04-10T09:26:34-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5992/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9996978</context-key>
+<submission-path>utk_graddiss/4646</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian Wirth</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kurt Terrani, Ivan Maldonado, Timothy Truster</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

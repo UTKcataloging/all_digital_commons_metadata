@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Integrity Testing of Sapphire Optical Windows in a Cryogenic Pressure System</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mwill104@vols.utk.edu</email>
+<lname>Williamson</lname>
+<fname>Matthew</fname>
+<mname>David</mname>
+</author>
+</authors>
+<keywords>
+<keyword>orthohydrogen</keyword>
+<keyword>parahydrogen</keyword>
+<keyword>sapphire</keyword>
+<keyword>viewport</keyword>
+<keyword>raman</keyword>
+<keyword>spectroscopy</keyword>
+</keywords>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The performance of cryogenic liquid hydrogen neutron moderators at the Spallation Neutron Source (SNS) is significantly impacted by the ratio of orthohydrogen and parahydrogen present in the moderator vessels. High parahydrogen (&gt;99%) content is desirable for peak brightness and consistent neutronic performance. Liquid hydrogen will naturally stabilize to a high parahydrogen ratio, but the conversion requires 3-7 days to complete (the “satisfactory” parahydrogen level varies between various beamline instruments). Ortho-to-parahydrogen convertor modules will be installed in the Cryogenic Moderator System (CMS) process loops as part of the Proton Power Upgrade Project (PPUP) at SNS. These catalysts will drive a high parahydrogen ratio in minutes and will include &lt;em&gt;in situ&lt;/em&gt; diagnostics to provide real-time indication of parahydrogen content.&lt;/p&gt;
+&lt;p&gt;The preferred diagnostic system utilizes Raman laser spectroscopy via a sapphire optical viewport in the process piping. This arrangement provides a low-noise measurement, but guidance on the use of sapphire windows as a pressure boundary element is not provided in ASME B&amp;PVC Section VIII or B31.3 Pressurized Process Piping. ASME recommends testing of “novel applications” such as this to organizational safety standards.&lt;/p&gt;
+&lt;p&gt;This thesis describes the design and fabrication of a test article to permit integrity testing of multiple sapphire viewports at simultaneous pressure and temperature beyond operational parameters typical in the CMS. The test assembly permitted cyclical pressurization, cooling, and warmup of viewports to provide a benchtop simulation of multiple years of typical SNS annual operational cycles.&lt;/p&gt;
+&lt;p&gt;Ultimately the window test assembly endured 30 test cycles from ~280 K to ~15K at ~23 bar with no indication of failure. Analysis of viewport test results for 30 cycles will be presented, along with discussion of future work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5863</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7052&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5863</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7052</articleid>
+<submission-date>2020-09-30T08:33:43-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/7052/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>19617985</context-key>
+<submission-path>utk_gradthes/5863</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeffrey A. Reinbolt, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

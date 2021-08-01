@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A PC-Based Signal Validation System for Nuclear Power Plants</title>
+<publication-date>1994-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Erbay</lname>
+<fname>Ali</fname>
+<mname>Seyfettin</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The safe operation and efficient control of a nuclear power plant requires reliable information about the state of the process. Therefore the validity of sensors which measure the process variables is of great importance. Signal validation is the detection, isolation and characterization of faulty signals. Properly validated process signals are also beneficial from the standpoint of increased plant availability and reliability of operator actions.&lt;/p&gt;
+&lt;p&gt;In recent years, several methods have been developed for signal validation (SV). Some of these methods include generalized consistency checking (GCC) , process empirical modeling (PEM) for prediction, multi-dimensional process hypercube (PHC), univariate and multivariate autoregression modeling, and expert systems. The purpose of this research is to investigate the effectiveness of a few other techniques such as artificial neural networks (ANN) and extended Kalman filters for signal estimation during steady­ state as well as transient operating conditions. The new and improved signal validation modules were integrated into one computer program for easy access. The final decision about the validity of signals was made using a fuzzy logic algorithm.&lt;/p&gt;
+&lt;p&gt;The integrated system consist of the following modules:&lt;/p&gt;
+&lt;p&gt;Generalized Consistency Checking (GCC),&lt;/p&gt;
+&lt;p&gt;Process Empirical Modeling (PEM)&lt;/p&gt;
+&lt;p&gt;Artificial Neural Network (ANN) prediction, and&lt;/p&gt;
+&lt;p&gt;Kalman Filtering Technique (KFT).&lt;/p&gt;
+&lt;p&gt;These modules operate in parallel and the system architecture is flexible for adding or removing a SV module.&lt;/p&gt;
+&lt;p&gt;The integrated system utilizes modern graphical user interface (GUI) techniques for displaying and accessing information. Due to the popularity and the increase in computing power and the decrease in the cost of PC &#39;s, nuclear power plants are also incorporating PC&#39; s into their engineering divisions to access process data over local area networks (LAN). The software in this study was therefore developed on an IBM compatible PC operating under Microsoft Windows 3.™. Hypertext buttons, compatible with different aspects of Microsoft Windows 3.1™, were provided in parts of the GUI, for displaying the processed information and the results. The dynamic form of the empirical modeling and the Kalman filtering technique showed superior performance in signal validation.&lt;/p&gt;
+&lt;p&gt;The implementation details of the system were evaluated off-line, using steady-state and transient data from operating pressurized water reactor (PWR) nuclear power plants. The application of this new system was illustrated for a U-tube steam generator (UTSG) of a PWR nuclear power plant. A system executive was developed for controlling the functions of various modules, interfacing the input-output (I/O) with the environment, and for decision making. The use of new modules, improvement in the previous techniques, and the use of GUI have resulted in a robust and easily implementable signal validation system for power plants.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2583</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3902&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2583</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3902</articleid>
+<submission-date>2013-12-18T11:00:02-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4932195</context-key>
+<submission-path>utk_gradthes/2583</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Uhrig, Jack F. Wasserman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1994-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1994-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

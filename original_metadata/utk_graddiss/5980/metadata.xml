@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neurofuzzy control to address stochastic variation in actuated-coordinated systems at closely-spaced intersections</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Sun</lname>
+<fname>Xiaoli</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Civil engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation documents a method of addressing stochastic variation at closely-spaced signalized intersections using neurofuzzy control. Developed on the conventional actuated-coordinated control system, the neurofuzzy traffic signal control keeps the advantage of the conventional control system. Beyond this, the neurofuzzy signal control coordinates the coordinated phase with one of the non-coordinated phases with no reduction of the &quot;green band&quot; assigned to the coordination along the arterial, reduces variations of traffic signal times in the cycle caused by &quot;early return to green&quot;, hence, makes more sufficient utilization of green time at closely-spaced intersections. The neurofuzzy signal control system manages a non-coordinated movement in order to manage queue spillbacks and variations of signal timings.Specifically, the neurofuzzy controller establishes a &quot;secondary coordination&quot; between the upstream coordinated phase (through phase) and the downstream non-coordinated phase (left turn phase) based on real-time traffic demand. Under the fuzzy logic signal control, the traffic from the upstream intersection can arrive and join the queue at the downstream left turn lane and be served, and hence, less possibly be blocked on the downstream left turn lane. This &quot;secondary coordination&quot; favors left turn progression and, hence, reduces the queue spillbacks. The fuzzy logic method overcomes the natural disadvantage of currently widely used actuated-coordinated traffic signal control in that the fuzzy logic method could coordinate a coordinated movement with a non-coordinated movement. The experiment was conducted and evaluated using a simulation model created using the microscopic simulation program - VISSIM.The neurofuzzy control algorithm was coded with MATLAB which interacts with the traffic simulation model via VISSIM&#39;s COM interface. The membership functions in the neurofuzzy signal control system were calibrated using reinforcement learning to further the performance. Comparisons were made between the trained neurofuzzy control, the untrained neurofuzzy control, and the conventional actuated-coordinated control under five different traffic volumes. The simulation results indicated that the trained neurofuzzy signal control outperformed the other two for each traffic case. Comparing to the conventional actuated-coordinated control, the trained neurofuzzy signal control reduced the average delay by 7% and the average number of stops by 6% under the original traffic volume; as traffic volume increasing to 120%, the reductions doubled.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5980</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7913&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5980</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7913</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467591</context-key>
+<submission-path>utk_graddiss/5980</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Thomas Urbanik II</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

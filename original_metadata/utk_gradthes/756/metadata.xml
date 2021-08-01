@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cyber Profiling for Insider Threat Detection</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>audoeyop@utk.edu</email>
+<lname>Udoeyop</lname>
+<fname>Akaninyene</fname>
+<mname>Walter</mname>
+</author>
+</authors>
+<keywords>
+<keyword>insider threat</keyword>
+<keyword>cyber crime</keyword>
+<keyword>insider</keyword>
+<keyword>cyber security</keyword>
+<keyword>anomaly detection</keyword>
+<keyword>data breach</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Digital Communications and Networking</discipline>
+</disciplines><abstract>&lt;p&gt;Cyber attacks against companies and organizations can result in high impact losses that include damaged credibility, exposed vulnerability, and financial losses.  Until the 21st century, insiders were often overlooked as suspects for these attacks.  The 2010 CERT Cyber Security Watch Survey attributes 26 percent of cyber crimes to insiders.  Numerous real insider attack scenarios suggest that during, or directly before the attack, the insider begins to behave abnormally.  We introduce a method to detect abnormal behavior by profiling users.  We utilize the k-means and kernel density estimation algorithms to learn a user’s normal behavior and establish normal user profiles based on behavioral data.  We then compare user behavior against the normal profiles to identify abnormal patterns of behavior.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/756</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1709&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>756</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1709</articleid>
+<submission-date>2010-05-22T07:58:40-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1324615</context-key>
+<submission-path>utk_gradthes/756</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Arel, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

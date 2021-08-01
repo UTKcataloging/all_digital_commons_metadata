@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards Simulations of Binary Neutron Star Mergers and Core-Collapse Supernovae with GenASiS</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>reubendb@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Budiardja</lname>
+<fname>Reuben</fname>
+<mname>Donald</mname>
+</author>
+</authors>
+<keywords>
+<keyword>computational astrophysics</keyword>
+<keyword>supernovae</keyword>
+<keyword>neutron star merger</keyword>
+<keyword>numerical</keyword>
+<keyword>high performance computing</keyword>
+</keywords>
+<disciplines><discipline>Fluid Dynamics</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Stars, Interstellar Medium and the Galaxy</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation describes the current version of GenASiS and reports recent progress in its development. GenASiS is a new computational astrophysics code built for large-scale and multi-dimensional computer simulations of astrophysical phenomena, with primary emphasis on the simulations of neutron star mergers and core-collapse supernovae. Neutron star mergers are of high interest to the astrophysics community because they should be the prodigious source of gravitation waves and the most promising candidates for gravitational wave detection. Neutron star mergers are also thought to be associated with the production of short-duration, hard-spectral gamma-ray bursts, though the mechanism is not well understood. In contrast, core-collapse supernovae with massive progenitors are associated with long-duration, soft-spectral gamma-ray bursts, with the `collapsar&#39; hypothesis as the favored mechanism. Of equal interest is the mechanism of core-collapse supernovae themselves, which has been in the forefront of many research efforts for the better half of a century but remains a partially-solved mystery. In addition supernovae, and possibly neutron star mergers, are thought to be sites for the \emph{r}-process nucleosynthesis responsible for producing many of the heavy elements. Until we have a proper understanding of these events, we will have only a limited understanding of the origin of the elements. These questions provide some of the scientific motivations and guidelines for the development of GenASiS. In this document the equations and numerical scheme for Newtonian and relativistic magnetohydrodynamics are presented. A new FFT-based parallel solver for Poisson&#39;s equation in GenASiS are described. Adaptive mesh refinement in GenASiS, and a novel way to solve Poisson&#39;s equation on a mesh with refinement based on a multigrid algorithm, are also presented. Following these descriptions, results of simulations of neutron star mergers with GenASiS such as their evolution and the gravitational wave signals and spectra that they generate are shown. In the context of core-collapse supernovae, we explore the capacity of the stationary shock instability to generate magnetic fields starting from a weak, stationary, and radial magnetic field in an initially spherically symmetric fluid configuration that models the stalled shock in the post-bounce supernova environment. Our results show that the magnetic energy can be amplified by almost 4 orders of magnitude. The  amplification mechanisms for the magnetic fields are then explained.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/781</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1895&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>781</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1895</articleid>
+<submission-date>2010-07-21T10:59:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1403713</context-key>
+<submission-path>utk_graddiss/781</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Guidry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christian Y. Cardall, Soren Sorensen, George Siopsis, Jim Chambers</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>hydrostaticPolytropeMerger3D.mp4</archive-name>
+<upload-name>hydrostaticPolytropeMerger3D.mp4</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1895&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/mp4</mime-type>
+<description>hydrostaticPolytropeMerger3D.mp4</description>
+</file>
+<file>
+<archive-name>shockTube2D_L06.mp4</archive-name>
+<upload-name>shockTube2D_L06.mp4</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=1895&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/mp4</mime-type>
+<description>shockTube2D_L06.mp4</description>
+</file>
+<file>
+<archive-name>SASI_3DB12Am.mov</archive-name>
+<upload-name>SASI_3DB12Am.mov</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=1895&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/quicktime</mime-type>
+<description>SASI_3DB12Am.mov</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Essentially Analytical Theory Closure for Space Filtered Thermal-Incompressible Navier-Stokes Partial Differential Equation System on Bounded Domains</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mikhail@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sekachev</lname>
+<fname>Mikhail</fname>
+<mname>Alexandrovich</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Space filtered Navier-Stokes</keyword>
+<keyword>LES</keyword>
+<keyword>ADBC</keyword>
+<keyword>BCE</keyword>
+<keyword>Boundary conditions for LES</keyword>
+<keyword>CFD</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Computational Engineering</discipline>
+<discipline>Heat Transfer, Combustion</discipline>
+</disciplines><abstract>&lt;p&gt;Numerical simulation of turbulent flows is identified as one of the grand challenges in high-performance computing. The straight forward approach of solving the Navier-Stokes (NS) equations is termed Direct Numerical Simulation (DNS). In DNS the majority of computational effort is spent on resolving the smallest scales of turbulence, which makes this approach impractical for most industrial applications even on present-day supercomputers. A more feasible approach termed Large Eddy Simulation (LES) has evolved over the last five decades to facilitate turbulent flow predictions for reasonable Reynolds (Re) numbers and domain sizes. LES theory uses the concept of convolution with a spatial filter, which allows it to compute only the major scales of turbulence as determined by the diameter of the filter. The rest of the length scales are not resolved posing the so-called closure problem of LES. For bounded domains, besides the closure problem, an equally challenging issue of LES is that of prescribing the suitable boundary conditions for the resolved-scale state variables. Additional problems arise because the convolution operation does not generally commute with differentiation in the presence of boundaries.&lt;/p&gt;
+&lt;p&gt;This dissertation details derivation of an essentially analytical closure theory for the unsteady three-dimensional space filtered thermal-incompressible NS partial differential equation (PDE) system on bounded domains. This is accomplished by the union of rational LES theory, Galdi and Layton, with modified continuous Galerkin theory of Kolesnikov with specific focus on correct adaptation of a constant measure filter near the Dirichlet type boundary. The analytical closure theory state variable organization is guided by classic fluid mechanics perturbation theory. Derivation and implementation of suitable boundary conditions (BCs) as well as the boundary commutation error (BCE) integral is accomplished using the ideas of approximate deconvolution (AD) theory. Non-homogeneous BCs for the auxiliary problem of &lt;em&gt;ar&lt;/em&gt;LES theory are derived.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2479</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3062&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2479</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3062</articleid>
+<submission-date>2013-06-18T15:38:58-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4238059</context-key>
+<submission-path>utk_graddiss/2479</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Allen J. Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Ohannes Karakashian, Steven M. Wise, Kwai L. Wong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

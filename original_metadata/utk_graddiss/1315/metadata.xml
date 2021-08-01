@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Deep Machine Learning with Spatio-Temporal Inference</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tkarnowski@gmail.com</email>
+<lname>Karnowski</lname>
+<fname>Thomas</fname>
+<mname>Paul</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Machine Learning</keyword>
+<keyword>Image Processing</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Deep Machine Learning (DML) refers to methods which utilize hierarchies of more than one or two layers of computational elements to achieve learning. DML may draw upon biomemetic models, or may be simply biologically-inspired. Regardless, these architectures seek to employ hierarchical processing as means of mimicking the ability of the human brain to process a myriad of sensory data and make meaningful decisions based on this data.  In this dissertation we present a novel DML architecture which is biologically-inspired in that (1) all processing is performed hierarchically; (2) all processing units are identical; and (3) processing captures both spatial and temporal dependencies in the observations to organize and extract features suitable for supervised learning. We call this architecture Deep Spatio-Temporal Inference Network (DeSTIN). In this framework, patterns observed in pixel data at the lowest layer of the hierarchy are organized and fit to generalizations using decomposition algorithms. Subsequent spatial layers draw upon previous layers, their own temporal observations and beliefs, and the observations and beliefs of parent nodes to extract features suitable for supervised learning using standard classifiers such as feedforward neural networks.  Hence, DeSTIN is viewed as an unsupervised feature extraction scheme in the sense that rather than relying on human engineering to determine features for a particular problem, DeSTIN naturally constructs features of interest by representing salient regularities in the patterns observed.  Detailed discussion and analysis of the DeSTIN framework is provided, including focus on its key components of generalization through online clustering and temporal inference. We present a variety of implementation details, including static and dynamic learning formulations, and function approximation methods. Results on standardized datasets of handwritten digits as well as face and optic nerve detection are presented, illustrating the efficacy of the proposed approach.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1315</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2442&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1315</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2442</articleid>
+<submission-date>2012-02-29T09:26:54-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2587663</context-key>
+<submission-path>utk_graddiss/1315</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Xiaobeng Feng, Husheng Li, Michael J. Roberts</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-18T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>ftp://ftp.ornl.gov/outgoing/uP27nb9S2n7Z/ThomasKarnowskiDissertationDraft.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

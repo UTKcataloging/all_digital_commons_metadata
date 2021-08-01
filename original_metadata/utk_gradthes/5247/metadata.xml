@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of mobile agent framework in wireless sensor networks for multi-sensor collaborative processing</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Kuruganti</lname>
+<fname>Phani</fname>
+<mname>Teja</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Recent advances in processor, memory and radio technology have enabled production of tiny, low-power, low-cost sensor nodes capable of sensing, communication and computation. Although a single node is resource constrained with limited power, limited computation and limited communication bandwidth, these nodes deployed in large number form a new type of network called the wireless sensor network (WSN). One of the challenges brought by WSNs is an efficient computing paradigm to support the distributed nature of the applications built on these networks considering the resource limitations of the sensor nodes. Collaborative processing between multiple sensor nodes is essential to generate fault-tolerant, reliable information from the densely-spatial sensing phenomenon. The typical model used in distributed computing is the client/server model. However, this computing model is not appropriate in the context of sensor networks. This thesis develops an energy-efficient, scalable and real-time computing model for collaborative processing in sensor networks called the mobile agent computing paradigm. In this paradigm, instead of each sensor node sending data or result to a central server which is typical in the client/server model, the information processing code is moved to the nodes using mobile agents. These agents carry the execution code and migrate from one node to another integrating result at each node. This thesis develops the mobile agent framework on top of an energy-efficient routing protocol called directed diffusion. The mobile agent framework described has been mapped to collaborative target classification application. This application has been tested in three field demos conducted at Twentynine palms, CA; BAE Austin, TX; and BBN Waltham, MA.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5247</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6655&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5247</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6655</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847109</context-key>
+<submission-path>utk_gradthes/5247</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

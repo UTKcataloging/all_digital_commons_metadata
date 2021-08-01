@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Monte Carlo Simulation of Neutron Detectors</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stephan</lname>
+<fname>Andrew</fname>
+<mname>Curtis</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Neutron detectors are simulated using Monte Carlo methods in order to gain insight into how they work and optimize their performance.  Simulated results for a Micromegas neutron beam monitor using a custom computer code are compared with published experimental data to verify the accuracy of the simulation.  Different designs (e.g. neutron converter material, gas chamber width, gas pressure) are tested to assess their impact on detector performance.  It is determined that a &lt;sup&gt;10&lt;/sup&gt;B converter foil and 1 mm drift gap width work best for a neutron beam monitor.  The Micromegas neutron beam monitor neutronics are evaluated using the computer code MCNP.  An optimized set of design criteria are determined that minimize neutron scattering probability in the device.  In a best-case scenario, the thermal neutron scattering probability in the detector is 1.1*10&lt;sup&gt;-3&lt;/sup&gt;.  Lastly, composite neutron scintillators consisting of fluorescent dopant particles in a lithiated matrix material are simulated using a custom Monte Carlo code.  The effects of design parameters such as dopant particle size, dopant volumetric concentration, and dopant and matrix material densities on scintillator characteristics are quantified.  For ZnS:Ag particles in a lithiated glass matrix, it is found that dopant particle radii of 1 micron or less result in approximately Gaussian-shaped pulse height spectra and dopant particle radii of 5 microns or less result in practically all neutron absorption events producing scintillation light emission.  Self-absorption of scintillation light is not treated in the simulation.  Both the Micromegas and composite neutron scintillator simulations use the TRIM code as a heavy-charged particle transport engine.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2367</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3791&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2367</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3791</articleid>
+<submission-date>2013-10-15T09:14:32-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4713134</context-key>
+<submission-path>utk_graddiss/2367</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald Pevey, Lawrence Townsend, Thomas Thundat</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

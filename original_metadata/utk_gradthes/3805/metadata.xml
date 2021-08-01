@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Extruder Control for Polymer Printing in Big Area Additive Manufacturing</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aroschl1@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Roschli</lname>
+<fname>Alex</fname>
+<mname>Christopher</mname>
+</author>
+</authors>
+<keywords>
+<keyword>3d printing</keyword>
+<keyword>3d</keyword>
+<keyword>extruder</keyword>
+<keyword>BAAM</keyword>
+<keyword>additive</keyword>
+<keyword>manufacturing</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+</disciplines><abstract>&lt;p&gt;Big Area Additive Manufacturing (BAAM) is 3D Printing on a large scale and can be used to create structures on the scale of cars and houses. Scaling up 3D printing to BAAM size meant fundamentally altering the traditional fused deposition modeling process by switching from a filament to a pellet material feed. This meant switching from a stepper motor extruder to a servo driven screw extruder. While increasing the throughput of the system, this new extruder increases the overall complexity. Effective control of the system is paramount to the success of BAAM enabling it to effectively scale in speed in the way it scales in build size. If the extruder can be quickly and accurately controlled, then a dimensionally accurate part can be printed. This paper will focus on the control of a single screw polymer extruder with zone controlled heating. State space control methods will be applied to shape both acceleration and deceleration of the spindle during extrusion so that a consistent bead can be produced at variable speeds.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3805</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5089&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3805</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5089</articleid>
+<submission-date>2016-02-25T13:39:18-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8217620</context-key>
+<submission-path>utk_gradthes/3805</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed K. Islam, Brett G. Compton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

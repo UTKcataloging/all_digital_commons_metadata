@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Validation of a Cross Correlation Function Based Indirect Flow Measurement Technique</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xgao10@utk.edu</email>
+<lname>Gao</lname>
+<fname>Xiong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cross Correlation</keyword>
+<keyword>Flow measurement</keyword>
+<keyword>Signal to Noise Ratio</keyword>
+<keyword>CFD</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Nuclear Power Plants (NPPs) require the accurate measurement of mass flow rates. Advanced flow meters have been invented and widely applied in several current industries; however, the operation environment in nuclear power plants is especially harsh due to high temperature, high radiation and extremely corrosive conditions.. Several of the advanced reactor designs, such as liquid sodium pool reactors and integral small modular reactors, do not have conventional primary piping systems. These designs necessitate alternative methods to accurately measure primary flow.&lt;/p&gt;
+&lt;p&gt;Cross Correlation Function (CCF) flow estimation, which was proposed in the 1980s, can estimate the flow velocity indirectly without any specific instruments for flow measurement. Target flow rate is derived by the delay time between two sensors located close to each other along the flow direction. Temperature sensors are one of the general choices because they are reliable, economical and widely used in various industries. The delay time is inferred by applying the cross correlation function to the signals collected from two or more sensors. CCF flow estimation can be performed in any structure of the flow region, not limited to pipes.&lt;/p&gt;
+&lt;p&gt;One challenge for the CCF flow estimation is that the accuracy of the flow measurement is mainly determined by the inherent local process variation, which is small compared to the uncorrelated noise. To differentiate the process variations from the uncorrelated noise, this research implements periodic fluid injection of a different temperature before the sensors to amplify process variation. The feasibility and accuracy of this method have been investigated through both physical flow loop experiments and Computational Fluid Dynamics (CFD) simulations. The flow loop experiment was designed to verify the CCF flow estimation using water injection. Several parameters must be selected when designing the water injection CCF measurement system such as the distance between the water injection site and the sensors, the injection period, injection flow rate, and others. A series of tests were conducted to investigate whether these parameters were related to the accuracy of the CCF flow estimation, and what the optimized values for these parameters would be for different flow regimes. Then, a CFD simulation model was developed to verify the CCF flow estimation with the optimized configuration. The results obtained from the physical flow loop show that the CCF flow estimation with water injection provides better accuracy. Some parameters such as the injection period don’t affect the CCF flow estimation accuracy. Some parameters are crucial, like the distance between the sensors and the injection pipe, especially when the target flow rate is large. Furthermore, a CFD study is carried out to perform a grid search on the optimal location of the sensor pairs under different flow rate. From the perspective of the experiment and CFD simulation, this research developed a new improved CCF flow estimation and provided a guidance for the implementation under a variety of different target flow rate.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6165</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7388&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6165</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7388</articleid>
+<submission-date>2020-09-28T14:43:30-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7388/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19575133</context-key>
+<submission-path>utk_graddiss/6165</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie B. Coble, Belle R. Upadhyaya, Lane B. Carasik</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control of Two Models of Invasive Species</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rpettit@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Pettit</lname>
+<fname>Rebecca</fname>
+</author>
+</authors>
+<keywords>
+<keyword>invasive species</keyword>
+</keywords>
+<abstract>&lt;p&gt;Invasive species have been a growing problem throughout the world. Using mathematical modelling, we can better understand the dynamics of an invading species and how to apply management methods to reduce or halt the spread of the invaders. We use optimal control theory to develop the management strategies. We consider two types of models for invasive species.Using a partial differential equation model representing an invasive population in a river, we investigate controlling the water discharge rate as a management strategy. Our goal is to see how controlling the water discharge rate will affect the invasive population, and more specifically how water discharges may force the invasive population downstream. We prove the differentiability of the control-to-solution map, the control-to-objective functional map, and the existence of the adjoint solution which yields the characterization of the optimal control. We also prove the uniqueness of the optimal control. We run some numerical simulations in MATLAB in which parameters are varied to determine how far upstream the invasive population reaches. We also change the river&#39;s cross-sectional area from a constant to a function of space and then to a function of space and time, and investigate the impacts of this on the optimal control.A second model uses a system of discrete time equations to represent an invasive plant species. Our goal is to prevent the spread of the invasive species and remove them from the area of interest. We have three compartments or states: absent, undetected, and detected. The objective is to minimize the undetected and detected area while maximizing the absent area. To do this, we minimize the cost of managing this invasion by focusing on minimizing the undetected and detected areas using optimal control methods. We find the equilibrium for this system and check stability. We reformulate our system by changing the order of our controls since order of events in discrete models is important. We find the equilibrium for this reordered system. We do a stability analysis for our system using Latin Hypercube Sampling (LHS) and partial rank correlation coefficient (PRCC). Numerical results illustrate several optimal control scenarios.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5028</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6569&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5028</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6569</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415415</context-key>
+<submission-path>utk_graddiss/5028</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne M. Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy D. Day, Louis J. Gross, Tuoc Phan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

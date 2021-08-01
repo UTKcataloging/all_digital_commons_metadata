@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis, Segmentation and Prediction of Knee Cartilage using Statistical Shape Models</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jjohns94@gmail.com</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Joseph</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Cartilage</keyword>
+<keyword>osteoarthritis</keyword>
+<keyword>knee</keyword>
+<keyword>segmentation</keyword>
+<keyword>computer vision</keyword>
+</keywords>
+<disciplines><discipline>Biomechanics and Biotransport</discipline>
+<discipline>Biomedical</discipline>
+<discipline>Other Biomedical Engineering and Bioengineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Osteoarthritis (OA) of the knee is one of the leading causes of chronic disability (along with the hip). Due to rising healthcare costs associated with OA, it is important to fully understand the disease and how it progresses in the knee. One symptom of knee OA is the degeneration of cartilage in the articulating knee. The cartilage pad plays a major role in painting the biomechanical picture of the knee. This work attempts to quantify the cartilage thickness of healthy male and female knees using statistical shape models (SSMs) for a deep knee bend activity. Additionally, novel cartilage segmentation from magnetic resonance imaging (MRI) and estimation algorithms from computer tomography (CT) or x-rays are proposed to facilitate the efficient development and accurate analysis of future treatments related to the knee. Cartilage morphology results suggest distinct patterns of wear in varus, valgus, and neutral degenerative knees, and examination of contact regions during the deep knee bend activity further emphasizes these patterns. Segmentation results were achieved that were comparable if not of higher quality than existing state-of-the-art techniques for both femoral and tibial cartilage. Likewise, using the point correspondence properties of SSMs, estimation of articulating cartilage was effective in healthy and degenerative knees. In conclusion, this work provides novel, clinically relevant morphological data to compute segmentation and estimate new data in such a way to potentially contribute to improving results and efficiency in evaluation of the femorotibial cartilage layer.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2583</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3708&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2583</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3708</articleid>
+<submission-date>2013-10-10T06:45:45-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3708/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4691837</context-key>
+<submission-path>utk_graddiss/2583</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Hamel, Richard Komistek, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

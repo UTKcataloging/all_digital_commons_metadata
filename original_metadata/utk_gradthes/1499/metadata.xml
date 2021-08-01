@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Migration from Teleoperation to Autonomy via Modular Sensor and Mobility Bricks</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Barreto</lname>
+<fname>Roselyne</fname>
+<mname>Dalanda</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, the teleoperated communications of a Remotec ANDROS robot have been reverse engineered. This research has used the information acquired through the reverse engineering process to enhance the teleoperation and add intelligence to the initially automated robot. The main contribution of this thesis is the implementation of the mobility brick paradigm, which enables autonomous operations, using the commercial teleoperated ANDROS platform. The brick paradigm is a generalized architecture for a modular approach to robotics. This architecture and the contribution of this thesis are a paradigm shift from the proprietary commercial models that exist today. The modular system of sensor bricks integrates the transformed mobility platform and defines it as a mobility brick. In the wall following application implemented in this work, the mobile robotic system acquires intelligence using the range sensor brick. This application illustrates a way to alleviate the burden on the human operator and delegate certain tasks to the robot. Wall following is one among several examples of giving a degree of autonomy to an essentially teleoperated robot through the Sensor Brick System. Indeed once the proprietary robot has been altered into a mobility brick; the possibilities for autonomy are numerous and vary with different sensor bricks. The autonomous system implemented is not a fixed-application robot but rather a non-specific autonomy capable platform. Meanwhile the native controller and the computer-interfaced teleoperation are still available when necessary. Rather than trading off by switching from teleoperation to autonomy, this system provides the flexibility to switch between the two at the operator’s command. The contributions of this thesis reside in the reverse engineering of the original robot, its upgrade to a computer-interfaced teleoperated system, the mobility brick paradigm and the addition of autonomy capabilities. The application of a robot autonomously following a wall is subsequently implemented, tested and analyzed in this work. The analysis provides the programmer with information on controlling the robot and launching the autonomous function. The results are conclusive and open up the possibilities for a variety of autonomous applications for mobility platforms using modular sensor bricks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1499</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2941&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1499</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2941</articleid>
+<submission-date>2013-07-25T09:39:59-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4347076</context-key>
+<submission-path>utk_gradthes/1499</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>David  Page, Seong Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

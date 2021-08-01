@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Applications of Differential Inequalities to Persistence and Extinction Problems for Reaction-Diffusion Systems</title>
+<publication-date>1981-02-28T23:52:58-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Allen</lname>
+<fname>Linda</fname>
+<mname>Joy</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Systems of nonlinear reaction-diffusion equations representing models of competition, predation, and mutualism are presented and discussed. The models are divided into two categories, patch models and continuous models which can be represented by systems of ordinary differential equations or by systems of partial differential equations, respectively. Within each of these categories there are four types of diffusion mechanisms, random, biased, directed, and predator-prey diffusion. Conditions for system persistence and extinction are sought.&lt;/p&gt;
+&lt;p&gt;For the patch models, existence, uniqueness, positivity, and boundedness of solutions are discussed. Persistence of a nonnegative component u&lt;sub&gt;i&lt;/sub&gt; (t) means limsup/t→∞ u&lt;sub&gt;i &lt;/sub&gt;(t) &gt; 0 versus system persistence of nonnegative components u&lt;sub&gt;i&lt;/sub&gt; (t) which means limsup/t→∞ u&lt;sub&gt;i&lt;/sub&gt; (t) &gt; 0, i = 1,..., n , provided the solutions exist on [0, ∞) . Definitions of weak and strong persistence are also given. It is shown that complete system extinction (solutions tend to zero) can occur in the patch random diffusion model. However this is not possible in any of the other patch models. The persistence criteria for the logistic random diffusion model as well as the predator-prey diffusion model are completely determined. Numerous theorems are presented which give necessary conditions for weak and strong persistence.&lt;/p&gt;
+&lt;p&gt;For the continuous models, uniqueness, positivity, and boundedness of solutions are discussed for initial boundary value problems. Dirichlet or Neumann boundary conditions are prescribed on a bounded domain B. Persistence of a nonnegative component u&lt;sub&gt;i&lt;/sub&gt; (x, t) means limsup/t→∞ ∫&lt;sub&gt;B&lt;/sub&gt; u&lt;sub&gt;i&lt;/sub&gt; (x, t) dx &gt; 0 versus system persistence of nonnegative components u&lt;sub&gt;i&lt;/sub&gt; (x, t) which means limsup/t→∞ ∫&lt;sub&gt;B&lt;/sub&gt; u&lt;sub&gt;i &lt;/sub&gt;(x, t) dx &gt; 0, i = 1,..., n , provided solutions exist on B x [0, ∞) . Weak and strong persistence are defined also for this setting. Some of the same properties of solution behavior are established for the continuous reaction-diffusion systems as for the reaction systems without diffusion. The significance of the type of diffusion mechanism is illustrated by comparing numerical solutions to the logistic random, biased, and directed diffusion models. For the Neumann problem numerical solutions converge to the homogeneous equilibrium (spatially independent), but the rates of convergence differ depending on the type of diffusion. For the homogeneous Dirichlet problem numerical solutions to the random diffusion model tend to zero, however numerical solutions to both the biased and directed diffusion models tend to a positive heterogeneous equilibrium solution.&lt;/p&gt;
+&lt;p&gt;The main tool employed to determine the persistence and extinction criteria is differential inequalities. The Comparison Principle of ordinary differential equation theory and the Maximum Principle of partial differential equation theory are used to prove many of the persistence and extinction results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1495</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2892&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1495</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2892</articleid>
+<submission-date>2013-02-28T12:41:11-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3808272</context-key>
+<submission-path>utk_graddiss/1495</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Thomas G. Hallam</value>
+</field>
+<field name="advisor2" type="string">
+<value>H. H. Shugart, Charles E. Clark, Louis Gross, Gene Klaasen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1981-03-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1981-02-28T23:52:58-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

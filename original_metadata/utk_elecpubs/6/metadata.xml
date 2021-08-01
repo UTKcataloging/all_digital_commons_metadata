@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparative studies of high-throughput biological graphs</title>
+<publication-date>2011-08-05T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jreyles@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Reyles</lname>
+<fname>Jonathan</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Phillips</lname>
+<fname>Charles</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;The exponential growth of biological data has given rise to new and difficult challenges. Because large data is often dealt with, it is inefficient to infer from each individual characteristics of a given dataset. Bioinformaticists are developing quantitative techniques to analyze and interpret key data properties. Graph algorithms can provide powerful and intuitive insight on such properties &lt;a&gt;&lt;/a&gt;[&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/12/S7/A12#B1&quot;&gt;1&lt;/a&gt;]. Using this approach, we collect biological data from transcriptomic and protein-protein interaction (PPI) sources. These data can be represented as a correlation matrix, where the rows are the vertices and the columns are the edges. We will analyze these graphs, and describe their differing structural characteristics.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;  &lt;h3&gt;Materials and methods&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;We are using a high throughput method for graphical exploration of genomic and proteomic data. Experimental datasets are extracted from the public databases Biomart and Gene Expression Omnibus (GEO) &lt;a&gt;&lt;/a&gt;&lt;a&gt;&lt;/a&gt;[&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/12/S7/A12#B2&quot;&gt;2&lt;/a&gt;,&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/12/S7/A12#B3&quot;&gt;3&lt;/a&gt;]. R &lt;a&gt;&lt;/a&gt;[&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/12/S7/A12#B4&quot;&gt;4&lt;/a&gt;] and MATLAB are used to develop algorithms that compute and compare various structural characteristics. We specifically developed an in-house script used to output essential histograms and unweighted/weighted edges. We are currently developing protocols to analyze the comparison of transcriptomes and PPI sources.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;  &lt;h3&gt;Acknowledgements&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;We express gratitude towards Jay Snoddy and Michael Langston for the ideas that led us to pursue this bioinformatics investigation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/6</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1010&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1010</articleid>
+<submission-date>2013-07-11T08:03:49-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4304385</context-key>
+<submission-path>utk_elecpubs/6</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2011, 12 (Suppl 7): A12 doi:10.1186/1471-2105-12-S7-A12</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-05T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

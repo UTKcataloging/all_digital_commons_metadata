@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A parallel finite element algorithm for 3D incompressible flow in velocity-vorticity form</title>
+<publication-date>1995-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Wong</lname>
+<fname>Kwai</fname>
+<mname>Lambeck</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In the last decade, developments and advancement in computer technology, especially the availability of the massively parallel machine, have escalated the numerical treatment of complex fluid flow problems to a new height. Numerical simulation of incompressible viscous fluid flow, often associated with practical industrial and environmental situations, is receiving intense scrutiny to perform in the promising distributed parallel computing environment. On the other hand, the field of computational fluid dynamics continues to explore and exploit unified and versatile formulations, in contention with the notorious divergence-free velocity field constraint, for incompressible Navier-Stokes equations that encompass fluid flow in two- and threedimensions. The velocity-vorticity formulation for the incompressible Navier-Stokes equations is chosen with the full extent to resolve these issues. In the present dissertation, a new finite element implementation for two- and three-dimensional incompressible fluid flow is developed in the velocity-vorticity form. Pressure is eliminated analytically by taking the curl of the momentum equations, and vorticity is introduced as the active variable. The formulation consists of the three derived vorticity transport equations in conjunction with three velocity Poisson equations. Satisfaction of the continuity constraint is cast onto the specific treatment of the kinematic vorticity boundary condition for the no slip wall. A divergence-free solution is guaranteed with equal order finite element interpolation functions for all state variables.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6151</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=8139&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6151</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>8139</articleid>
+<submission-date>2021-06-15T05:18:03-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>23359376</context-key>
+<submission-path>utk_graddiss/6151</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>A. J. Baker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>1995-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

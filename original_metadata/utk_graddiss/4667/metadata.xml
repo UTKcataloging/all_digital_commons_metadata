@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Integrating Disparate Nuclear Data Sources for Improved Predictive Maintenance Modeling: Maintenance-Based Prognostics for Long-Term Equipment Operation</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zwelz@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Welz</lname>
+<fname>Zachary</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<keywords>
+<keyword>prognostics</keyword>
+<keyword>diagnostics</keyword>
+<keyword>maintenance</keyword>
+<keyword>repair</keyword>
+<keyword>reliability</keyword>
+<keyword>sustainability</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+<discipline>Risk Analysis</discipline>
+</disciplines><abstract>&lt;p&gt;The United States (US) nuclear industry is one of the most heavily regulated businesses in the world, creating a culture of world-class design, operation, and maintenance. In an article published on modern maintenance technologies, Terrence OHanlon (past Chief Asset Manager for Reliabilityweb.com) stated, “world class companies often devote up to 50 percent of their entire maintenance resources to condition based monitoring and the planned work that is required as a result of the findings” [1]. One would expect US nuclear power plants to constantly upgrade, improve, and expand their operations and maintenance departments and tactics. Since the early 1990s, US nuclear plant expenses due to operations and maintenance have increased by over 10% and were estimated at $20.62/MWhr (&gt;16 billion USD) in 2015 [2]. While costs are increasing, and supporting technologies are more readily available than ever, plants commonly rely on reactive and basic preventive maintenance techniques.&lt;/p&gt;
+&lt;p&gt;This dissertation investigates improved maintenance practices by establishing baseline performance capabilities only possible with advanced maintenance strategies. A method of extracting plant data to facilitate predictive modeling is introduced. This method utilizes information (condition data and maintenance data) from disparate sources within modern nuclear plants to extract failure cycles. These data sources will help transition plants from reactive to preventive maintenance through establishment of maintenance intervals, improvement of existing preventive maintenance intervals using better-quality failure cycle information, and/or transition from preventive to predictive maintenance. To extract this information, digital maintenance records are essential; therefore, a formal discussion of digital maintenance systems and related implementation standards is given. To support the need for maintenance data, a framework for utilization of failure cycles in predictive maintenance models is provided. Three different applications are examined, where maintenance dependent models are compared to traditional models to quantify the capacity for improvement in failure-time predictions.&lt;/p&gt;
+&lt;p&gt;This work shows that the utilization of process and maintenance data in prognostic modeling results in significantly improved failure predictions. This additional time to respond will help organizations avoid or plan for failures before they occur, which supports more effective maintenance and capital replacement policies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4667</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6182&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4667</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6182</articleid>
+<submission-date>2017-06-15T16:03:35-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10311554</context-key>
+<submission-path>utk_graddiss/4667</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard Wood, Belle R. Upadhyaya, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

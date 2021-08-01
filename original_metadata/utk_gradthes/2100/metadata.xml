@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On a Grid-Based Interface to a Special-Purpose Hardware Cluster</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lehrter</lname>
+<fname>Jeanne</fname>
+<mname>Marie</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Grid computing is an important and useful tool that enables resource sharing within a computational community. In the grid computing model, each node of the grid is a computational resource that may be used by applications residing on other nodes of the grid or on machines outside of the grid. To make grid computing more accessible to all users, the Innovative Computing Lab on campus at the University of Tennessee has produced a software package called NetSolve. NetSolve is a client-server application that defines interfaces for accessing and utilizing the software and hardware resources of the nodes in the grid community. A computational grid is currently being built on the University of Tennessee, Knoxville campus and is named the Scalable Intracampus Research Grid, or SInRG. This grid will have nodes located in different departments on campus, and each node will offer a special software or hardware resource. The SInRG node in the Electrical and Computer Engineering Department will offer special-purpose hardware in the form of reconfigurable computing boards. In this project, several functions were selected to be added to the SInRG node in the ECE department that can benefit from hardware acceleration and that would be useful to users. Then an interface was developed between the NetSolve grid software and each of these selected functions. Through these interfaces, users may access the special-purpose hardware that resides in this node and run their applications on this hardware in order to benefit from the hardware acceleration available.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2100</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3461&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2100</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3461</articleid>
+<submission-date>2013-10-03T13:28:48-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4665054</context-key>
+<submission-path>utk_gradthes/2100</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stacy Prowell, Greg Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

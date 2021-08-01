@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Methods of Disambiguating and De-anonymizing Authorship in Large Scale Operational Data</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>samreen@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Amreen</lname>
+<fname>Sadika</fname>
+</author>
+</authors>
+<keywords>
+<keyword>identity disambiguation</keyword>
+<keyword>supervised learning</keyword>
+<keyword>behavioral fingerprinting</keyword>
+</keywords>
+<abstract>&lt;p&gt;Operational data from software development, social networks and other domains are often contaminated with incorrect or missing values. Examples include misspelled or changed names, multiple emails belonging to the same person and user profiles that vary in different systems. Such digital traces are extensively used in research and practice to study collaborating communities of various kinds. To achieve a realistic representation of the networks that represent these communities, accurate identities are essential. In this work, we aim to identify, model, and correct identity errors in data from open-source software repositories, which include more than 23M developer IDs and nearly 1B Git commits (developer activity records). Our investigation into the nature and prevalence of identity errors in software activity data reveals that they are different and occur at much higher rates than other domains. Existing techniques relying on string comparisons can only disambiguate Synonyms, but not Homonyms, which are common in software activity traces. Therefore, we introduce measures of behavioral fingerprinting to improve the accuracy of Synonym resolution, and to disambiguate Homonyms. Fingerprints are constructed from the traces of developers’ activities, such as, the style of writing in commit messages, the patterns in files modified and projects participated in by developers, and the patterns related to the timing of the developers’ activity. Furthermore, to address the lack of training data necessary for the supervised learning approaches that are used in disambiguation, we design a specific active learning procedure that minimizes the manual effort necessary to create training data in the domain of developer identity matching. We extensively evaluate the proposed approach, using over 16,000 OpenStack developers in 1200 projects, against commercial and most recent research approaches, and further on recent research on a much larger sample of over 2,000,000 IDs. Results demonstrate that our method is significantly better than both the recent research and commercial methods. We also conduct experiments to demonstrate that such erroneous data have significant impact on developer networks. We hope that the proposed approach will expedite research progress in the domain of software engineering, especially in applications for which graphs of social networks are critical.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5453</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6989&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5453</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6989</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545494</context-key>
+<submission-path>utk_graddiss/5453</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Audris Mockus</value>
+</field>
+<field name="advisor2" type="string">
+<value>Russell Zaretzki, Bruce MacLennan, Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

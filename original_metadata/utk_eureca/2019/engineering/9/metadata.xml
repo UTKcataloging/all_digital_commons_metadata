@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>GRANT: Ground Roaming Autonomous Neuromorphic Targeter</title>
+<publication-date>2019-04-17T17:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>afoshie@vols.utk.edu</email>
+<lname>Foshie</lname>
+<fname>Adam Z</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Neuromorphic computing, or computing inspired by the cognitive processes of the brain, has garnered attention as the need for a more scalable, while also energy and space efficient, computational construct than the traditional Von Neumann based architectures has grown. Particularly, computing structures that perform complex tasks such as classification, anomaly detection, pattern recognition, and control automation are desired. Using the novel neuromorphic computing architecture developed by TENNLab (Laboratory of Tennesseans Exploring Neural Networks), DANNA2 (Dynamic Adaptive Neural Network Array 2), along with TENNLab&#39;s hardware/software co-design framework and evolutionary optimization for neuromorphic systems (EONS) as the training method, we present GRANT (Ground Roaming Autonomous Neuromorphic Targeter): a roaming, obstacle avoiding robot controlled by a spiking neural network. With an array of DANNA2 neuromorphic elements loaded onto a Pynq Z1 FPGA, GRANT uses LiDAR to read sensory input from its surroundings and uses this data as input to the neural network. The outputs from the neural network are processed and used to control the motors allowing GRANT to navigate its surroundings and avoid obstacles along the way. Future work will be the addition of more complex operations in the form of object identification and targeting.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_eureca/2019/engineering/9</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1281&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1281</articleid>
+<submission-date>2019-06-24T18:50:12-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>14801403</context-key>
+<submission-path>utk_eureca/2019/engineering/9</submission-path>
+<fields>
+<field name="college" type="string">
+<value>Tickle College of Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Electrical &amp; Computer Engineering</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Mark Dean</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-04-17T17:00:00-07:00</value>
+</field>
+<field name="year" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

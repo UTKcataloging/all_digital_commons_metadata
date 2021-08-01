@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Power Electronics Converter Interfaced Power System Emulation Platform Development and Research Demonstration</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zshuotin@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Shuoting</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;To provide a more realistic testing environment for power system studies and demonstrations, a hardware test-bed (HTB) platform has been developed by the CURENT at the University of Tennessee, Knoxville, to emulate power systems by programming interconnected three-phase voltage converters (VSCs) to behave like the intended power system components.In this dissertation, several platforms are developed to extend the HTB emulation capability, including a versatile power electronics converter based transmission line emulator, a hybrid emulation platform with the HTB and the real time digital simulator (RTDS), and a flexible modular multilevel converter (MMC) test-bed for HVDC applications.For the versatile power electronics converter based transmission line emulator, the algorithms for emulating transmission line lumped model, traveling wave model, transmission line with integrated compensation devices, and faults are proposed and implemented. A combined model is proposed to avoid the switching transients between the normal state and the fault state. Stability analysis is also conducted to locate the boundary conditions of emulating the transmission line stably.For the hybrid emulation with the HTB and the RTDS, two hybrid emulation interfaces are developed to emulate the subsystems of a large system in the HTB and RTDS separately and simultaneously to perform as a whole system. An interface model by combining two complementary ideal transformer model (ITM) interface algorithms are implemented to realize the hybrid emulation stably under different conditions. A time-delay correction method is proposed to compensate the interface time-delay to improve the hybrid emulation accuracy. An analysis of the hybrid emulation stability with two interfaces is also conducted to provide guidance on the interface algorithm selection.For the flexible MMC prototype development, a test-bed with 10 full-bridge submodules (SMs) in each arm and flexible topology, switching frequency, and passive component parameters reconfiguration capabilities is developed. A cost-effective method is also proposed and demonstrated to pre-charge the MMC by utilizing a low voltage dc source.In addition, the potential station transformer saturation issue of line-commutated converter (LCC) HVDC in hybrid ac/dc transmissions is evaluated. The dc fault impact on connected ac system stability is also evaluated by comparing with an equivalent ac fault.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5418</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6954&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5418</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6954</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545443</context-key>
+<submission-path>utk_graddiss/5418</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Fangxing Li, Mingzhou Jin</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0001-6722-7793</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

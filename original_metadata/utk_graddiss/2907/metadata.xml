@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High Density EMI Filter Design in High Power Three-Phase Motor Drive Systems</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jxue3@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xue</lname>
+<fname>Jing</fname>
+</author>
+</authors>
+<keywords>
+<keyword>EMI</keyword>
+<keyword>filter</keyword>
+<keyword>high density</keyword>
+<keyword>CM</keyword>
+<keyword>DM</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;High density EMI filter is important in the application of more-electric-aircraft (MEA). In this work, the author is focusing on several major aspects of EMI filter design that would influence the power density.&lt;/p&gt;
+&lt;p&gt;In Chapter 1, the feature of EMI study and conventional design methods are reviewed.&lt;/p&gt;
+&lt;p&gt;The interaction between the common-mode (CM) and differential-mode (DM) noise is one key factor introducing unnecessary weight to EMI filter design. In Chapter 2, the author explains the origin of the mixed-mode (MM) noise on the output side of three-phase motor drives. Experimental results have verified the existence of the MM noise in three-phase motor drives and its impact on power density. In Chapter 3, the noise mode transformation (NMT) in three-phase motor drives due to system impedance unbalance is discussed. Simulation and experimental results show that the NMT will cause EMI filter overdesign if not considered during the design stage.&lt;/p&gt;
+&lt;p&gt;In Chapter 4 the author discusses the possibility of adding a CM inductor at the motor front and chassis end to reduce CM EMI filter weight. Experimental results show that the motor-end filter is effective in attenuating low frequency noise and has the benefit of being light weight comparing with the traditional three-phase CM choke.&lt;/p&gt;
+&lt;p&gt;Cooling of the filter is of great importance in high power systems. In Chapter 5, a practical liquid-cooling design procedure for EMI filters in high power motor drives has been discussed. Potting and thermal modeling are analyzed. Thermal test results verify the effectiveness of the procedure. In Chapter 6, the author models the impedance impact of potting material and cooling cases on both CM and DM inductors. Experimental results match well with the developed models.&lt;/p&gt;
+&lt;p&gt;In Chapter 7, a comprehensive design procedure for high density EMI filter in high power motor drives has been proposed, based on the knowledge of previous chapters. As the verification of the procedure, a high density EMI filter is designed and tested in a 100 kW three-phase motor drive system for MEA application.&lt;/p&gt;
+&lt;p&gt;Conclusion and future work are summarized in Chapter 8.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2907</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4234&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2907</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4234</articleid>
+<submission-date>2014-06-20T11:54:20-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5710283</context-key>
+<submission-path>utk_graddiss/2907</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Daniel Costinett, Judy Day</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

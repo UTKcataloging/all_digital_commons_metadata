@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of an ISFET Sensor with Integration of an on-Chip Processor</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>saslanza@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Aslanzadeh</lname>
+<fname>Shaghayegh</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ISFET</keyword>
+<keyword>pH Sensor</keyword>
+<keyword>on-Chip Processor</keyword>
+<keyword>Readout Circuits</keyword>
+<keyword>Portable</keyword>
+<keyword>Biomedical</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Electrical and Computer Engineering</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Engineering</discipline>
+<discipline>Systems and Communications</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Portable sensors are used in many applications. Among them, pH sensors are suitable for quantifying and identifying various analytes in real-time and doing so non-invasively. The analytes may have environmental impact such as in water quality monitoring. The analytes may also have biological impact such as monitoring cell culture or remote patient health assessment. CMOS based sensors are compact and enable low power consumption suitable for these portable applications.&lt;/p&gt;
+&lt;p&gt;This work reports on the development of a portable CMOS based pH sensor. The contributions of this dissertation are as follows. First, a differential pH sensor, with two different sized electrodes that mitigates the need for time consuming and expensive post processing, was developed. The sensor was fabricated in a 0.5 µm CMOS technology and operated on 2 V supply with a power consumption and sensitivity of 12 µW and 42 mV/pH. Second, a voltage-clamped topology further lowered the required power supply and integrated a quasi-digital duty cycle based output signal that was proportional to the measured pH. The sensor was fabricated in a 0.18 µm CMOS technology and has a sensitivity of 40 mV/pH and area of 0.0036 mm2. The duty cycle was further digitized, using a counter, in a 0.5 µm CMOS technology. The sensors occupied 0.205 mm2 and consumed 206 µW. Finally, a portable pH sensing system was developed using a microcontroller to enable flexible post fabrication signal processing. The primary version was realized with an off-chip microprocessor. Further design miniaturization is explored through integration of both an on-chip MIPS and on-chip ARM microprocessor.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6160</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7352&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6160</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7352</articleid>
+<submission-date>2020-09-03T08:16:32-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19232696</context-key>
+<submission-path>utk_graddiss/6160</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicole McFarlane</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jayne Wu, Ahmedullah Aziz, Steven A. Ripp</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

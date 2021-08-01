@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hyperspectral Image Analysis through Unsupervised Deep Learning</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yqu3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Qu</lname>
+<fname>Ying</fname>
+</author>
+</authors>
+<keywords>
+<keyword>hyperspectral image</keyword>
+<keyword>spectral unmixing</keyword>
+<keyword>pansharpening</keyword>
+<keyword>anomaly detection</keyword>
+<keyword>autoencoder</keyword>
+<keyword>unsupervised deep learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;Hyperspectral image (HSI) analysis has become an active research area in computer vision field with a wide range of applications. However, in order to yield better recognition and analysis results, we need to address two challenging issues of HSI, &lt;i&gt;i.e.&lt;/i&gt;, the existence of mixed pixels and its significantly low spatial resolution (LR). In this dissertation, spectral unmixing (SU) and hyperspectral image super-resolution (HSI-SR) approaches are developed to address these two issues with advanced deep learning models in an unsupervised fashion. A specific application, anomaly detection, is also studied, to show the importance of SU.Although deep learning has achieved the state-of-the-art performance on supervised problems, its practice on unsupervised problems has not been fully developed. To address the problem of SU, an untied denoising autoencoder is proposed to decompose the HSI into endmembers and abundances with non-negative and abundance sum-to-one constraints. The denoising capacity is incorporated into the network with a sparsity constraint to boost the performance of endmember extraction and abundance estimation.Moreover, the first attempt is made to solve the problem of HSI-SR using an unsupervised encoder-decoder architecture by fusing the LR HSI with the high-resolution multispectral image (MSI). The architecture is composed of two encoder-decoder networks, coupled through a shared decoder, to preserve the rich spectral information from the HSI network. It encourages the representations from both modalities to follow a sparse Dirichlet distribution which naturally incorporates the two physical constraints of HSI and MSI. And the angular difference between representations are minimized to reduce the spectral distortion.Finally, a novel detection algorithm is proposed through spectral unmixing and dictionary based low-rank decomposition, where the dictionary is constructed with mean-shift clustering and the coefficients of the dictionary is encouraged to be low-rank. Experimental evaluations show significant improvement on the performance of anomaly detection conducted on the abundances (through SU).The effectiveness of the proposed approaches has been evaluated thoroughly by extensive experiments, to achieve the state-of-the-art results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4870</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6411&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4870</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6411</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13414899</context-key>
+<submission-path>utk_graddiss/4870</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Lynne E. Parker, Jindong Tan</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-4613-8625</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

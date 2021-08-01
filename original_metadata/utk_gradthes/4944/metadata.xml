@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of NFIRS Data for Sensitivity to Foreclosure and Other Select Features</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>alex@alexasbury.us</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Asbury</lname>
+<fname>Alexander</fname>
+<mname>Meadows</mname>
+</author>
+</authors>
+<keywords>
+<keyword>fire</keyword>
+<keyword>arson</keyword>
+<keyword>graph theory</keyword>
+</keywords>
+<disciplines><discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Arson is a grave threat to life and property. In the United States, fire information is collected and disseminated through the National Fire Incident Reporting System (NFIRS). Fire records obtained from NFIRS contain a full range of available information. This information includes the initial incident details in addition to investigative information regarding the cause of ignition and factors contributing to ignition. Combating the arson problem is accomplished in large part by understanding the motives and opportunities of those who commit arson. A common motive for arson is financial gain through insurance fraud. By connecting NFIRS data with mortgage and foreclosure information from RealtyTrac, insight into potential incidents of insurance fraud may be obtained.&lt;/p&gt;
+&lt;p&gt;Understanding the features that intentional fires have in common is necessary to assess the vulnerability of structures to intentional burning. One historically utilized method of predicting arson prone structures is linear discriminant analysis (LDA). LDA is a method of separating objects or events into two or more categories using a combination of features. Through feature analysis and selection, a discriminant function is proposed that incorporates foreclosure as an independent variable to classify fires as intentional or unintentional.&lt;/p&gt;
+&lt;p&gt;Additionally, graph theoretical algorithms for clustering are applied in support of the discovery of novel relationships between fires. In this thesis we leverage the paraclique algorithm, which has previously been applied to biological data, to help reveal latent associations within the NFIRS datasets.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4944</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5800&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4944</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5800</articleid>
+<submission-date>2017-02-23T22:03:50-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9742372</context-key>
+<submission-path>utk_gradthes/4944</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David J. Icove</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Michael A. Langston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Determination of Thermal Properties Using Embedded Thermocouples</title>
+<publication-date>2010-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nlister@utk.edu</email>
+<institution>UTSI</institution>
+<lname>Lister</lname>
+<fname>Nicholas Anthony</fname>
+</author>
+</authors>
+<keywords>
+<keyword>thermal properties</keyword>
+<keyword>transient</keyword>
+<keyword>Embedded</keyword>
+<keyword>Thermocouples</keyword>
+<keyword>Frankel</keyword>
+<keyword>slab</keyword>
+</keywords>
+<disciplines><discipline>Heat Transfer, Combustion</discipline>
+</disciplines><abstract>&lt;p&gt;The Purpose of this thesis is to experimentally demonstrate an inversion analysis technique, developed by Dr. Jay Frankel (UTK), that utilizes transient temperature data from probes embedded at known locations in a material.  This allows one to determine thermal properties (thermal diffusivity and thermal conductivity) of the material, surface temperature, and the surface heat flux as they change with time.  Dr. Frankel’s inversion method can be used to determine surface temperature and heat flux of a one-dimensional semi-infinite slab based on the transient data from one or two embedded probes, if the thermal conductivity and thermal diffusivity of the material are known.  Frankel’s theory suggests that the thermal properties of the material can be determined if transient data from two thermocouple (TC) probes at known locations and the heat flux at the surface are known.  This thesis investigates finding the thermal properties and surface temperature of materials using a two embedded thermocouple approach.  As an initial check to the inversion analysis, the theoretical temperature solution for a one-dimensional semi-infinite slab was used. This validated that the analysis could converge to the constant thermal properties for the theoretical material.  An experiment was run again to provide data for the materials copper and aluminum.  Using a real material is fundamentally different from using theoretical determined (analytical) data, because the thermal properties for a real material vary with temperature.  Since the inversion analysis converged to a constant solution for the theoretical temperatures, it was believed that the real material will converge to a solution.  However, it was seen that the thermal diffusivity for the real materials never converged to the expected value.  Although, when a constant handbook value for the thermal diffusivity is used to calculate the thermal conductivities from the experimental temperature data collected from the internal probes, the inversion analysis resulted in good agreement with experiment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/644</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1031&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>644</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1031</articleid>
+<submission-date>2010-01-04T09:51:10-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1031/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1101634</context-key>
+<submission-path>utk_gradthes/644</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy J. Schulz, Basil N. Antar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

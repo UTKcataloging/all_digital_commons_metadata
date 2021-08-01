@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Dynamical Systems Model and Adaptive Intervention Strategy for Stroke Rehabilitation</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fyuan6@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yuan</lname>
+<fname>Fengpei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Chronic stroke</keyword>
+<keyword>Stroke rehabilitation</keyword>
+<keyword>Upper-arm dynamics</keyword>
+<keyword>Limb choice</keyword>
+<keyword>Stroke rehabilitation</keyword>
+<keyword>Markov decision process</keyword>
+</keywords>
+<abstract>&lt;p&gt;Each year, approximately 795000 people experience stroke in the United States. After stroke onset, about 80% of patients suffer from hemiparesis, the weakness of face or limb on one side. These people outside clinical setting may develop learned nonuse, which may result in long-term limitation in the outcome of motor recovery. Interventions such as the Constraint Induced Movement Therapy has shown promise in reversing nonuse. However, many chronic individuals do not have access to such training programs. Therefore, some novel tools capable of continuous monitoring patients&#39; health status and furthermore providing appropriate interventions for patients in ambient setting is required to optimize stroke rehabilitation.Dynamical systems modeling combined with wearable technologies may allow to quantitatively describe nonuse evolution. We developed and validated a pendulum-based dynamical model using experimental and simulated motion data. Without direct access to internal torques, we proposed an inverse dynamics-based metric to quantify and compare motor performance between limbs. The primary outcome measure is RMSE between the simulated driving torque for experimental and reference motions. Using RMSEs, we defined a novel within-person comparison factor &lt;i&gt;w participant limb&lt;/i&gt; [&lt;i&gt;w&lt;/i&gt;], and compared it to the Fugl-Mayer Assessment score. Our dynamic model is capable of mimicking upper-extremity shoulder flexion dynamics. RMSE is sensitive to differences in motor performance between limbs for both groups. Finally, the factor &lt;i&gt;w participant limb&lt;/i&gt; [&lt;i&gt;w&lt;/i&gt;] is related to post-stroke severity. The arm dynamical model may have great potential for monitoring time-varying motor impairment using noninvasive sensing.Markov decision process (MDP) is a comparatively simple approach of simulation modelling. We implemented MDP to understand the primary factors behind human dynamic decision making on limb choice during rehabilitation. The model showed good performance in understanding the crucial motivators (or barriers) underlying patients&#39; behaviors. We found that a patient with higher motivation, greater perceived benefits of paretic-limb use, and milder motor impairment, would show a better adherence to using paretic limb in physical activity, which suggests that we may provide related interventions in clinical practice to promote a better recovery outcome. MDP modelling may be suggestive in designing cost-effective adaptive intervention for stroke rehabilitation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5409</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6817&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5409</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6817</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528537</context-key>
+<submission-path>utk_gradthes/5409</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Eric R. Wade</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeffrey A. Reinbolt, Xiaopeng Zhao</value>
+</field>
+<field name="comments" type="string">
+<value>(1) Portions of this document have been submitted to journal. We are waiting for the results.
+(2) Also, we&#39;re summarizing the work in Chapter 5 and 6 into a paper, which is planned to submit in this May.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

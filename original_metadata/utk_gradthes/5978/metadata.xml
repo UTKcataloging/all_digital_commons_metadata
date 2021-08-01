@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neural network partial least squares for instrument surveillance and calibration verification</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Rasmussen</lname>
+<fname>Brandon</fname>
+<mname>Peter</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Instrument surveillance and calibration verification (ISCV) systems are developed to monitor process sensors and produce correct values if the actual sensors are determined to be out of calibration, or have failed. The purpose of an ISCV system is to provide validated values to enable condition based calibrations of faulty sensors, to ensure the safety of a process by having validated process measurements, and to optimize process efficiencies by initiating control actions based on validated information. The use of ISCV systems is attractive to the nuclear power industry, where validated measurements will increase the confidence of operator&#39;s knowledge about the state of the process and reduce the probability of incorrect decisions based on unvalidvated process measurements. Additional benefits would be realized by limiting unnecessary calibrations through the setting up of a condition based calibration schedule, based on the sensor fault reporting of the ISCV system, rather than the more common periodic calibration schedule. An ISCV system has been developed and tested at Tennessee Valley Authority&#39;s coalfired plant in Kingston, Tennessee. Process data, collected over the course of a year and a half at the Kingston plant site, were used to develop the system. The embedded empirical model of the ISCV system utilizes the Neural Network Partial Least Squares (NNPLS) algorithm, the development and implementation of which is the focus of this thesis. The algorithm and its associated ISCV system have been extensively evaluated with successful results.                                                                                                                                                                                                                                                                                                                                                                    NNPLS is an extension of the more common partial least squares (PLS). Nonlinear capabilities are available in the NNPLS algorithm through the use of small neural networks, whereas the standard PLS algorithm is strictly a linear technique. Sensor faults and drifts are detected using the sequential probability ratio test, and alarms are initiated by an alarm logic heuristic. A set of graphical user interfaces have been created for the development of the NNPLS based ISCV models, and the subsequent monitoring of an appropriate set of signals either on-line or from historical data. These interfaces have been designed to transfer this technology to users without necessitating a theoretical understanding of the embedded modeling techniques. Results are presented for monitoring 51 process sensors. For these signals, the mean absolute percent prediction errors for 80% of the signals tested were less than 2%. Some sensors were more difficult to model and exhibited higher prediction errors, most often this can be related to a lack of sufficient correlations with the problematic signal. Drift detection performance of the system ranged between 2-5%. This indicates that drifting or failed sensors will be identified after the signal measurement and the ISCV systems prediction deviate by more than 2-5% of the signal mean. In an online test, the system properly identified a failed sensor reporting measurements at a level greater than 5% of its mean signal value.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5978</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7611&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5978</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7611</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467640</context-key>
+<submission-path>utk_gradthes/5978</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

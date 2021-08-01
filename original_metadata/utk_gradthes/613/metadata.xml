@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A High Voltage Charge-Coupled Device (CCD) Controller ASIC for the Large Synoptic Survey Telescope (LSST)</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rchun@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chun</lname>
+<fname>Ross</fname>
+<mname>F</mname>
+</author>
+</authors>
+<keywords>
+<keyword>sensor control chip</keyword>
+<keyword>SCC</keyword>
+<keyword>serial</keyword>
+<keyword>parallel</keyword>
+<keyword>driver</keyword>
+<keyword>CCD driver</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis will present the design, implementation, and testing of a high voltage Charge-Coupled Device (CCD) controller ASIC for the Large Synoptic Survey Telescope (LSST), which will be used to study dark energy and dark matter.  The LSST observatory, which includes a 3.2-gigapixel camera, will cover the entire sky every three nights by taking continuous 15-second exposures.  The CCD controller ASIC, or Sensor Control Chip (SCC), will provide five CCD driver channels that are capable of generating serial or parallel clock signals for the LSST’s imaging sensors during readout mode.  The SCC will also provide three programmable bias voltages for the CCDs along with eight supplementary programmable voltages and currents for the CCD’s output drain terminals.  Additionally, the controller ASIC includes eight control signals for a separate Analog Signal Processing Integrated Circuit (ASPIC) that is designed as the readout chip for LSST.  The SCC is designed to operate down to 153 K.  Fabricated in a commercially available 0.8-micron Bipolar-CMOS-DMOS Silicon-On-Insulator (BCD-SOI) process, the SCC has been verified to meet all design requirements.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/613</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1033&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>613</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1033</articleid>
+<submission-date>2010-01-04T23:07:00-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1033/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1102655</context-key>
+<submission-path>utk_gradthes/613</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton Jr., Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

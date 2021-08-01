@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Examination of the Validity of Nonequilibrium Molecular-dynamics Simulation Algorithms for Arbitrary Steady-state Flows</title>
+<publication-date>2005-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Edwards</lname>
+<fname>Brian</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baig</lname>
+<fname>Chunggi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Couette flow</keyword>
+<keyword>flow simulation</keyword>
+<keyword>molecular dynamics method</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Nonlinear-response theory of nonequilibrium molecular-dynamics simulation algorithms is considered under the imposition of an arbitrary steady-state flow field. It is demonstrated that the SLLOD and DOLLS algorithms cannot be used for general flows, although the SLLOD algorithm is rigorous for planar Couette flow. Following the same procedure used to establish SLLOD as the valid algorithm for planar Couette flow [ D. J. Evans and E. P. Morriss, Phys. Rev. A 30, 1528 (1984) ], it is demonstrated that the p-SLLOD algorithm is valid for arbitrary flows and produces the correct nonlinear response of the viscous pressure tensor.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/34</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1020&amp;amp;context=utk_chembiopubs&amp;amp;unstamped=1</fulltext-url>
+<label>34</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1020</articleid>
+<submission-date>2010-05-21T06:27:48-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1323125</context-key>
+<submission-path>utk_chembiopubs/34</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Copyright (2005) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Brian J. Edwards, Chunggi Baig, and David J. Keffer, J. (2005). An examination of the validity of nonequilibrium molecular-dynamics simulation algorithms for arbitrary steady-state flows.
+ Chem. Phys. 123 DOI:10.1063/1.2035079</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-21T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

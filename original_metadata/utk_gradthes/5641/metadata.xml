@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Capacitive Sensor for In-Pile Materials Monitoring</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tnaught1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Naughton</lname>
+<fname>Tyler</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Capacitance</keyword>
+<keyword>Displacement Sensor</keyword>
+<keyword>Capacitance Displacement Sensor</keyword>
+<keyword>and Irradiation Creep</keyword>
+</keywords>
+<abstract>&lt;p&gt;Advanced fuel compositions, such as accident tolerate fuels (ATF), are an active area of developing in the nuclear power industry. The long-term performance of these newly developed fuels is estimated through physics-based simulation models of irradiation-, temperature-, pressure-, etc.-induced material degradation. As these fuels are deployed in test reactors, measurement and characterization of the in situ evolution can be used to validate simulation models, giving more credibility to long-term predictions. Measurement of fuel swelling in the radial direction is of particular interest during irradiation experiments. Capacitive measurements have been investigated for axial dimensions in radiation environments, suggesting this measurement approach may be deployable for in-pile measurement of material changes with appropriate modifications to monitor radial changes. A capacitance-based displacement sensor was constructed and developed to provide a understanding of in situ fuel swelling measurements. Sensor responses were simulated using finite element mesh model (FEMM) and with AutoCAD Electromagnetic field simulator (EMS) for a variety of fuel pin swelling conditions. A copper sensor rod was constructed and used to validate the simulated models. This sensor is connected to an Analog Devices 7747 chip, which will record detected capacitance changes. Initial tests showed the measured capacitance signals proved to be a poor validation of the simulation models. For the capacitance signals showed to have significant drift in capacitance and lack of repeatability, which resulted in difficulties identifying differences between rod sizes at select times. Such issues are believed to have been caused by the low sample recording frequency and influence from external magnetic fields and improper fuel pin positioning. To counter these influences, the sampling rate was increased to 45.3 Hertz and the recording chip was placed inside of an aluminum box. Visual inspects and brief capacitance testing are done to ensure the fuel pin is kept within the proper positioning range. With these additions, the sensor is able to differentiate fuel pins up to a 5 millimeter difference.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5641</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7175&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5641</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7175</articleid>
+<submission-date>2020-12-11T13:30:06-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20540225</context-key>
+<submission-path>utk_gradthes/5641</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jamie Coble</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christian Petrie, Richard Wood, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

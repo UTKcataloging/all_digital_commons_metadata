@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Performance Analysis of a Rocket Based Combined Cycle (RBCC) Propulsion System for Single-Stage-To-Orbit Vehicle Applications</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nwilli31@utk.edu</email>
+<institution>UTSI</institution>
+<lname>Williams</lname>
+<fname>Nehemiah</fname>
+<mname>Joel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Combined Cycle Propulsion</keyword>
+<keyword>SSTO</keyword>
+<keyword>Integrated Rocket and Air-Breathing Engine</keyword>
+<keyword>Dual Mode Scramjet</keyword>
+<keyword>Ejector Rocket</keyword>
+</keywords>
+<disciplines><discipline>Aerospace Engineering</discipline>
+<discipline>Engineering</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Rocket-Based Combined Cycle (RBCC) engines combine the best performance characteristics of air-breathing systems such as ramjets and scramjets with rockets with the goal of increasing payload/structure and propellant performance and thus making LEO more readily accessible. The idea of using RBCC engines for Single-Stage-To-Orbit (SSTO) trans-atmospheric acceleration is not new, but has been known for decades. Unfortunately, the availability of detailed models of RBCC engines is scarce. This thesis addresses the issue through the construction of an analytical performance model of an ejector rocket in a dual combustion propulsion system (ERIDANUS) RBCC engine. This performance model along with an atmospheric model, created using MATLAB was designed to be a preliminary `proof-of-concept&#39; which provides details on the performance and behavior of an RBCC engine in the context of use during trans-atmospheric acceleration, and also to investigate the possibility of improving propellant performance above that of conventional rocket powered systems. ERIDANUS behaves as a thrust augmented rocket in low speed flight, as a ramjet in supersonic flight, a scramjet in hypersonic flight, and as a pure rocket near orbital speeds and altitudes.&lt;/p&gt;
+&lt;p&gt;A simulation of the ERIDANUS RBCC engine&#39;s flight through the atmosphere in the presence of changing atmospheric conditions was performed. The performance code solves one-dimensional compressible flow equations while using the stream thrust control volume method at each station component (e.g. diffuser, burner, and nozzle) in all modes of operation to analyze the performance of the ERIDANUS RBCC engine. Plots of the performance metrics of interest including specific impulse, specific thrust, thrust specific fuel consumption, and overall efficiency were produced. These plots are used as a gage to measure the behavior of the ERIDANUS propulsion system as it accelerates towards LEO. A mission averaged specific impulse of 1080 seconds was calculated from the ERIDANUS code, reducing the required propellant mass to 65%  of the gross lift off weight (GLOW), thus increasing the mass available for the payload and structure to 35% of the GLOW.&lt;/p&gt;
+&lt;p&gt;Validation of the ERIDANUS RBCC concept was performed by comparing it with other known RBCC propulsion models. Good correlation exists between the ERIDANUS model and the other models. This indicates that the ERIDANUS RBCC is a viable candidate propulsion system for a one-stage trans-atmospheric accelerator.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/842</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1754&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>842</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1754</articleid>
+<submission-date>2010-06-25T17:18:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1372384</context-key>
+<submission-path>utk_gradthes/842</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gary A. Flandro</value>
+</field>
+<field name="advisor2" type="string">
+<value>Trevor M. Moeller, Gregory A. Sedrick</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

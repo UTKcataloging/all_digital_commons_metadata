@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control Problems in PDE and ODE Systems</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Joshi</lname>
+<fname>Hem</fname>
+<mname>Raj</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation contains three separate optimal control problems involving partial differential equations (PDEs) or ordinary differential equations (ODEs). In each problem, an objective functional representing the goal of the control process is minimized. First, a system of ordinary differential equations which describe the interaction of Human Immunodeficiency Virus (HIV) and CD4+T-cells in the human immune system is studied. Two controls representing drug treatment strategies of this model are explored. Existence and uniqueness results for the optimal control pair are established. The optimality system is derived and then solved numerically using an iterative method with the Runge-Kutta fourth order scheme.&lt;/p&gt;
+&lt;p&gt;Second, an unknown coefficient of the interaction term of a parabolic system with a Neumann boundary condition in a multi-dimensional bounded domain is identified. The solution of this system represents the concentrations of predator and prey populations. Given partial (perhaps noisy) observations of the true solution in a subdomain, we seek to “identify” the coefficient of the interaction term using an optimal control problem technique. This method of solving this identification problem is based on Tikhonov’s regularization and the optimal control for a fixed regularization parameter represents the approximate solution of the inverse problem. The existence and uniqueness of the optimal control are established, and an optimality system is derived. As the regularization parameter goes to zero, the identification problem is solved, and an example illustrating how to find a solution numerically is presented.&lt;/p&gt;
+&lt;p&gt;Third, a problem involving optimal control of a convective velocity coefficient depending on space and time in a parabolic equation is treated. This work applies to a one dimensional fluid flow through a soil-packed tube in which a contaminant is initially distributed. The existence of an optimal control and an optimality system are derived. This problem requires more regularity on the control set which results in a PDE characterization of an optimal control.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2130</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3581&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2130</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3581</articleid>
+<submission-date>2013-10-03T08:35:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4662594</context-key>
+<submission-path>utk_graddiss/2130</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xiaobing Feng, G. Samuel Jordan, John D. Landes</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

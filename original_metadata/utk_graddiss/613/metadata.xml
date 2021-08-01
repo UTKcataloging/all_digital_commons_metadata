@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Analysis of Interior Permanent Magnet Synchronous Motor with Field Excitation Structure</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lee</lname>
+<fname>Seong</fname>
+<mname>Taek</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Throughout the years Hybrid Electric Vehicles (HEV) require an electric motor which has high power density, high efficiency, and wide constant power operating region as well as low manufacturing cost. For these purposes, a new Interior Permanent Magnet Synchronous Motor (IPMSM) with brushless field excitation (BFE) is designed and analyzed. This unique BFE structure is devised to control the amount of the air-gap flux for the purpose of achieving higher torque by increasing the air-gap flux at low speed and wider operating speed range by weakening the flux at high speed.&lt;/p&gt;
+&lt;p&gt;On the process of developing the new IPMSM, the following analysis results are presented. Firstly, a new analytical method of output torque calculations for IPMSM is shown. This method works well when using a 2-dimensional magnetic equivalent circuit of a machine by omitting the step of calculating the inductance values which are required for the calculation of the reluctance torque. Secondly, there is a research about the slanted air-gap shape. This structure is intended to maximize the ratio of the back-emf of a machine that is controllable by BFE as well as increase the output torque. The study of various slanted air-gap shapes suggests a new method to increase torque density of IPMSM. Lastly, the conventional two-axis IPMSM model is modified to include the cross saturation effect by adding the cross-coupled inductance terms for calculating the power factor and output torque in comparing different saturated conditions. The results suggest that the effect of cross-coupled inductance is increase when d-axis current is high on the negative direction.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/613</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1681&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>613</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1681</articleid>
+<submission-date>2010-02-23T13:57:40-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1166069</context-key>
+<submission-path>utk_graddiss/613</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing &quot;Fran&quot; Li, Kevin Tomsovic, Tsewei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

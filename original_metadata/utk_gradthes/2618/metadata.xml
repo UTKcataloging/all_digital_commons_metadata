@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Arm Inductance and Sub-module Capacitance Selection in Modular Multilevel Converter</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yli81@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Yalong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Modular multilevel converter</keyword>
+<keyword>Parameter design</keyword>
+<keyword>Arm Inductance</keyword>
+<keyword>Sub-module capacitance</keyword>
+<keyword>Circulating Current</keyword>
+<keyword>Voltage-balancing control</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Arm inductor and sub-module (SM) capacitor are two key components in the modular multilevel converter (MMC). Optimizing the selection of arm inductance and sub-module capacitance is thus critical for the converter design. This report aims at developing a selection principle for arm inductance and sub-module capacitance in MMC.&lt;/p&gt;
+&lt;p&gt;Arm inductors in MMC are used to limit the circulating current which flows within the converter. The switching frequency harmonic is found to be the dominant component in the circulating current when an active circulating current suppressing controller is implemented. The analytical relationship between the arm inductance and switching frequency circulating current is derived, based on which the arm inductance requirement is obtained by limiting the circulating current to meet the defined specifications. In some applications, the arm inductors can also be used to limit the overcurrent during a dc side short circuit fault. The relationship between the arm inductance and fault current is investigated, as well as its impact on arm inductance selection.&lt;/p&gt;
+&lt;p&gt;The sub-module capacitance in MMC is selected mainly based on the capacitor voltage fluctuation constrain. The voltage unbalance among sub-module capacitors is revealed to have a significant impact on the sub-module capacitance selection, as the unbalanced voltage would increase the total capacitor voltage fluctuation. The impact of sub-module capacitors’ unbalanced voltage on the total voltage fluctuation is evaluated. An analytical expression of the unbalanced voltage is derived; it can be used to calculate the maximum capacitor voltage fluctuation, and thus used for the sub-module capacitance selection.&lt;/p&gt;
+&lt;p&gt;A simulation has been carried out in the MATLAB, and the simulation results verify the theoretical analysis. A scaled-down MMC prototype has been built, and the experimental results validate part of the analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2618</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3060&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2618</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3060</articleid>
+<submission-date>2013-08-16T10:42:27-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3060/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4449583</context-key>
+<submission-path>utk_gradthes/2618</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Kai Sun</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

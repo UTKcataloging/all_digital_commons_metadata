@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Modeling of a Pressurized Water Reactor Plant for Diagnostics and Control</title>
+<publication-date>1990-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Naghedolfeizi</lname>
+<fname>Masoud</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A nonlinear model, based on lumped parameter approach, has been developed for computer simulation of a typical Westinghouse Pressurized Water Reactor (PWR) system. The model predicts dynamic behavior of system variables under steady-state and transient conditions. Nonlinear simulation has been applied to study the control systems of the PWR plant. This includes the design of proper actuator and control systems for reactor, steam generator, pressurizer, and turbine models. This model has also been used to identify the responses of plant variables to anomalies in the PWR subsystems at 85% power.&lt;/p&gt;
+&lt;p&gt;Linear models of the PWR primary loop components have been developed to compare linear simulation results with nonlinear simulation results. The results of this study are used to specify a region where a linear simulation can be utilized. A linear analysis has also been carried out to evaluate the performance of the reactor and steam generator models in the frequency domain.&lt;/p&gt;
+&lt;p&gt;The dynamic response characteristics derived from the overall plant model may be used to train diagnostic neural networks. This study will be useful in identifying plant variables that are sensitive to incipient anomalies in plant components.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2667</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4038&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2667</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4038</articleid>
+<submission-date>2014-03-18T12:24:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>5352476</context-key>
+<submission-path>utk_gradthes/2667</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>B. R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>R. E. Uhrig, L. F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1990-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1990-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

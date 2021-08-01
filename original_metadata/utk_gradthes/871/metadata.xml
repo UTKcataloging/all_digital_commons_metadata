@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Method For Determination of Complex Moduli Associated with Viscoelastic Material</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rgarner5@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Garner</lname>
+<fname>Russell</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Viscoelastic</keyword>
+<keyword>Rubber</keyword>
+<keyword>Modulus of Elasticity</keyword>
+<keyword>Loss Factor</keyword>
+<keyword>Damping</keyword>
+<keyword>Vibration</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+</disciplines><abstract>&lt;p&gt;The aerospace industry is utilizing low cost miniature inertial measurement units (IMUs) that employ Micro Electro-Mechanical Systems (MEMS) technology in an effort to reduce size, weight, and cost of systems.  A drawback of these MEMS devices is they are sensitive to vibration, shock and acoustic environments, which limits the usefulness of such devices in the severe environments imposed by many aerospace applications.  In an effort to reduce the vibration, shock and acoustic environments experienced by these MEMS devices, the desire to develop passive damping treatments to structural components used to mount these devices.  The damping treatments can be applied at the printed circuit board (PCB) level, the component level, the component interface, or at the airframe level.  The purpose is to reduce the overall environment and improve the usefulness and performance of the MEMS based sensors.&lt;/p&gt;
+&lt;p&gt;The primary technique to introduce damping into metallic parts and PCBs is to provide a viscoelastic coating or layer.  The ability to analyze structures with this configuration requires a thorough understanding of the dynamic properties.  Hooke’s law of elasticity is one of the most fundamental relationships governing dynamic properties.  Metals typically have a low damping coefficient, and Hooke’s law of elasticity represents a linear relationship between the ratio of stress and strain, known as the modulus of elasticity.  But for viscous materials the modulus of elasticity becomes a complex value since the stress and strain are not in phase.  The complex modulus of elasticity is a complex function of frequency.  The complex modulus can be established via frequency response function measurements of compliance, mobility, and accelerance, and the dimensions of the block of material under test.  At low frequencies (less than resonance of the block) the results are relatively straight forward, but at higher frequencies where resonances of the block occur the inertial forces begin to influence the FRF results. This thesis effort establishes techniques for measuring the complex moduli associated with viscoelastic materials, and presents methods and results from modulus tests conducted for this thesis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/871</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1933&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>871</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1933</articleid>
+<submission-date>2011-01-04T08:27:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1716867</context-key>
+<submission-path>utk_gradthes/871</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary A. Flandro, Monty Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

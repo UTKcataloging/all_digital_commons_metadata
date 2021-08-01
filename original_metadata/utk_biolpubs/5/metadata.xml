@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling SAGE tag formation and its effects on data interpretation within a Bayesian framework</title>
+<publication-date>2007-10-18T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mikeg@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gilchrist</lname>
+<fname>Michael</fname>
+<mname>A.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Qin</lname>
+<fname>Hong</fname>
+</author>
+<author>
+<email>rzaretzk@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zaretzki</lname>
+<fname>Russell</fname>
+</author>
+</authors>
+<disciplines><discipline>Bioinformatics</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Abstract&lt;/h3&gt; &lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Serial Analysis of Gene Expression (SAGE) is a high-throughput method for inferring mRNA expression levels from the experimentally generated sequence based tags. Standard analyses of SAGE data, however, ignore the fact that the probability of generating an observable tag varies across genes and between experiments. As a consequence, these analyses result in biased estimators and posterior probability intervals for gene expression levels in the transcriptome.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Using the yeast &lt;em&gt;Saccharomyces cerevisiae &lt;/em&gt;as an example, we introduce a new Bayesian method of data analysis which is based on a model of SAGE tag formation. Our approach incorporates the variation in the probability of tag formation into the interpretation of SAGE data and allows us to derive exact joint and approximate marginal posterior distributions for the mRNA frequency of genes detectable using SAGE. Our analysis of these distributions indicates that the frequency of a gene in the tag pool is influenced by its mRNA frequency, the cleavage efficiency of the anchoring enzyme (AE), and the number of informative and uninformative AE cleavage sites within its mRNA.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;With a mechanistic, model based approach for SAGE data analysis, we find that inter-genic variation in SAGE tag formation is large. However, this variation can be estimated and, importantly, accounted for using the methods we develop here. As a result, SAGE based estimates of mRNA frequencies can be adjusted to remove the bias introduced by the SAGE tag formation process.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biolpubs/5</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1004&amp;amp;context=utk_biolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1004</articleid>
+<submission-date>2013-07-11T09:39:58-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- General Biology</publication-title>
+<context-key>4305313</context-key>
+<submission-path>utk_biolpubs/5</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2007, 8:403 doi:10.1186/1471-2105-8-403</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-10-18T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

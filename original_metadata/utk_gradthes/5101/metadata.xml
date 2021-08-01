@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Analytics for Privacy in Smart Grids</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>abahour1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bahour</lname>
+<fname>Albraa</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Demand Response</keyword>
+<keyword>privacy</keyword>
+<keyword>smart grids</keyword>
+<keyword>optimization</keyword>
+<keyword>linear programming</keyword>
+<keyword>alarm processing</keyword>
+</keywords>
+<abstract>&lt;p&gt;The emergence of smart grids has allowed for integrating new technologies in the power grid, with information flowing across the system allowing for more efficient power delivery and event response. Demand response is a new technology enabled by smart grids, which is a program aiming to reduce or shift peak demand by varying the price of electricity or offering incentives for changing consumption habits.Despite demand response benefits, privacy advocates have raised concerns with information leakages allowed by the type of high-resolution data collected by smart meters, as it can reveal customer usage patterns and different parties can take advantage of that data. In this thesis, a utility vs. privacy framework is developed to maximize the utility of using smart meter data while also minimizing the privacy leakages from the smart meter.Two frameworks are developed, the first, a fault localization technique for radial distribution systems by using alarm processing through binary integer linear programming. The second, a power scheduling tool that uses renewables, a battery, and appliance scheduling to disguise the customer usage patterns by matching it to an average and the resulting collected data is not revealing of any characteristics the customer wants to hide.Fault localization was tested on two radial distribution systems, and locates the fault every time, with the variation in time till detection depending on system size, how the system is branched, fault location, and sampling rate. Power scheduling was tested using simulated home data, different scenarios are run by varying battery, solar, appliance, and privacy parameters, and results are compared for various sampling rates. Both frameworks were successful in hiding privacy leakages based their respective privacy metric.Future research on the fault localization could expand to find two faults simultaneously, along with implementing an emergency mode to find faults quicker in a sampling cycle. The power scheduling framework could expand to include thermostatically controlled load scheduling, by implementing deep learning algorithms on each home and factoring in variables such as historic data of weather, time of day, and day of week to determine how thermostatically controlled loads could fit into the scheduling problem.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5101</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6508&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5101</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6508</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414967</context-key>
+<submission-path>utk_gradthes/5101</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin L. Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Jinyuan Sun</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

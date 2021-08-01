@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>State Estimation for VSC-MTDC Power Systems Considering Droop Control and Operating Limits</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wfeng4@vols.utk.edu</email>
+<lname>Feng</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>bad data identification</keyword>
+<keyword>bound-constrained nonlinear least square (BCNLS)</keyword>
+<keyword>droop control</keyword>
+<keyword>Lagrangian relaxation</keyword>
+<keyword>operating limits</keyword>
+<keyword>sequential method (SM)</keyword>
+<keyword>state estimation (SE)</keyword>
+<keyword>unified method (UM)</keyword>
+<keyword>VSC-MTDC</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Power and Energy</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Power systems with voltage source converter-based multi-terminal DC (VSC-MTDC) have received great interest in both the academic and industrial worlds in recent years. The introduction of VSC-MTDC systems into the power system industry brings not only significant benefits but also severe challenges due to the complex structures, different operating behaviors, and dynamic features of VSC-MTDC. State estimation (SE), an important function in the Energy Management System (EMS) for real-time monitoring, has become a challenging issue for VSC-MTDC systems. The traditional approach to dealing with this problem only considers the quasi-steady status of a VSC and ignores its dynamic features. Therefore, an in-depth study is presented in this dissertation to propose a generalized, high-efficiency, and accurate SE method for VSC-MTDC systems.&lt;/p&gt;
+&lt;p&gt;First, a systematic and detailed comparison is presented between two conventional methods, the unified method (UM) and the sequential method (SM) in three aspects, including estimation accuracy, computing speed and robustness. Detailed simulations and in-depth analysis point out the most applicable situations of each method. Results indicate that the SM associated with fast decoupled state estimation (FDSE) has the best overall performance. Therefore, the SM-FDSE is selected as the main method to be improved for SE analysis.&lt;/p&gt;
+&lt;p&gt;Second, graph-based computation is leveraged to facilitate the computing speed of the SM-FDSE. By modeling the system as a graph with vertices and edges, advanced parallel techniques including node-based parallel computing (NPC) and hierarchical parallel computing (HPC) can be used to accelerate SE computation. In addition, in view of the topology of VSC-MTDC systems and the shortcomings of the conventional SM, improved methods are also proposed to gain better convergence speed without compromising accuracy.&lt;/p&gt;
+&lt;p&gt;Third, this dissertation presents an estimation of VSCs with various types of droop control. A new bound-constrained nonlinear least square (BCNLS) algorithm is utilized to estimate VSCs with two-stage droops. In addition, to avoid divergence in the iterative calculation, the Levenberg-Marquardt method is leveraged to adjust searching steps.&lt;/p&gt;
+&lt;p&gt;Finally, another dynamic feature of operating limits on VSCs is taken into consideration for SE analysis. The capability of fast adjustment and self-regulation of VSCs is modeled as the equality constraints on the SM and subsequently solved by using Lagrangian relaxation. Therefore, the operating limits can be correctly reflected in estimations. In addition, the proposed estimator is further enhanced with Hachtel’s Augmented Matrix method to take bad data identification into consideration. Lagrangian multipliers can subsequently be used to help eliminate gross errors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6164</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7422&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6164</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7422</articleid>
+<submission-date>2020-09-30T12:49:25-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7422/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19620905</context-key>
+<submission-path>utk_graddiss/6164</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Hector Pulgar, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

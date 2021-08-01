@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization of Metabolomics Data Processing with Applications Towards the Profiling of Microbial Consortia</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sdearth@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Dearth</lname>
+<fname>Stephen</fname>
+<mname>Patrick</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Untargeted metabolomics allows for detection of the thousands of biologically active, small molecules that are produced and consumed during cellular metabolism. The rapid advancement in analytical technologies, specifically mass spectrometry, has enabled high-throughput and rapid screening of metabolites with good sensitivity and quantitative ability for a variety of sample types. These data can yield information about the immediate state of a biological system that can be correlated to phenotype, making metabolomics an important tool in systems biology.&lt;/p&gt;
+&lt;p&gt;The conclusions drawn from these analyses are depended on the quality of the data. Variability from biological and instrumental sources limit the quantitative nature of metabolomics data where often small, but statistically significant, changes can affect the outcome of an analysis. A method for normalization is presented that assumes the ratios between metabolite intensities within samples remain constant regardless of sample amount, population composition, ionization efficiencies, or matrix effects. The method effectively reduced variability without the need for scaling metadata.&lt;/p&gt;
+&lt;p&gt;Metabolomics can be applicable to most system containing cellular activity. However, the field of soil ecology has been under explored with regards to the cellular metabolism of the associated microbial consortia. Several factors contribute towards making soils difficult to profile using conventional, high-throughput metabolomics techniques. Using several soils collected from under various land management regimes and a system when root fungal presence has been altered, a metabolomics method for sample extraction and analysis is successfully applied using a minimal amount of sample biomass. Up to sixty metabolites and approximately 16,000 spectral features were identified, providing the largest coverage of a soil system to date. Characterization of soil systems in this manner could present applications in soil health and productivity.&lt;/p&gt;
+&lt;p&gt;Metabolomics techniques are also applied to profile another consortia of microorganisms: the gut microbiomes of genetically similar mice. Mice from different vendors demonstrated differing susceptibility to malarial infection. Metabolomics results revealed differentially expressed features that may contribute to shaping infection resistance or be applicable towards developing a therapy. Additionally, the results highlight reproducibility concerns of experimentation or replication of results using substrains of genetically similar mice from multiple vendors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4092</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5367&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4092</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5367</articleid>
+<submission-date>2016-06-17T13:40:21-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8745754</context-key>
+<submission-path>utk_graddiss/4092</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shawn R. Campagna</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael D. Best, Michael J. Sepaniak, Alison Buchan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

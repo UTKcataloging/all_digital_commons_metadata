@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Gene Classification using Nonnegative Matrix Factorization on Biomedical Literature</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Heinrich</lname>
+<fname>Kevin</fname>
+<mname>Erich</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Understanding functional gene relationships is a challenging problem for biological applications. High-throughput technologies such as DNA microarrays have inundated biologists with a wealth of information, however, processing that information remains problematic. To help with this problem, researchers have begun applying text mining techniques to the biological literature. This work extends previous work based on Latent Semantic Indexing (LSI) by examining Nonnegative Matrix Factorization (NMF). Whereas LSI incorporates the singular value decomposition (SVD) to approximate data in a dense, mixed-sign space, NMF produces a parts-based factorization that is directly interpretable. This space can, in theory, be used to augment existing ontologies and annotations by identifying themes within the literature. Of course, performing NMF does not come without a price—namely, the large number of parameters. This work attempts to analyze the effects of some of the NMF parameters on both convergence and labeling accuracy. Since there is a dearth of automated label evaluation techniques as well as “gold standard” hierarchies, a method to produce “correct” trees is proposed as well as a technique to label trees and to evaluate those labels.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4189</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5741&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4189</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5741</articleid>
+<submission-date>2017-02-07T09:51:26-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9640533</context-key>
+<submission-path>utk_graddiss/4189</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ramin Homayouni, Jens Gregor, Michael Thomason</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

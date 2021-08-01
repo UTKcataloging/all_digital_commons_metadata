@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Impedance Matching and PSpice&lt;sup&gt;R&lt;/sup&gt; Simulation of One Atmosphere Uniform Glow Discharge Plasma (OAUGDP™) Reactor/Actuator Systems</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Zhiyu</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis addresses two important issues relevant to One Atmosphere Uniform Glow Discharge Plasma (OAUGDP™) reactors and actuators ¾ impedance matching and PSpice&lt;sup&gt;R&lt;/sup&gt; simulation.&lt;/p&gt;
+&lt;p&gt;An OAUGDP™ reactor/actuator with the plasma energized can be modeled as a capacitor in parallel with a resistor. In addition, the non-ideality of the transformer between the RF power supply and the plasma reactor/actuator introduces an imaginary component in its impedance. Thus, the load of the RF power supply, as seen by its output terminals, is highly reactive. An impedance mismatch resulting from the absence of a matching network will cause a large reflected power from the plasma reactor back to the power supply that does not contribute to plasma formation, but requires an expensive, over-rated power supply. All the impedance matching networks in the existing literature are for much higher RF or microwave plasma applications at low pressures, and they cannot readily be adapted to OAUGDP™ applications, which are normally operated at lower frequencies and higher voltages. In this thesis, the design, theory, and experimental performance of two types of low RF impedance matching circuits are presented, that match OAUGDP™ reactors/actuators to their power supplies.&lt;/p&gt;
+&lt;p&gt;This thesis also considers PSpice&lt;sup&gt;R&lt;/sup&gt; simulation of the electrical characteristics of OAUGDP™ reactor/actuator systems. An OAUGDP™reactor/actuator system normally includes a power supply, a transformer, an impedance matching network, and the plasma reactor/actuator. The principal task in simulation is to develop a comprehensive PSpice&lt;sup&gt;R&lt;/sup&gt; model for the plasma discharge in an OAUGDP™ reactor/actuator. In an OAUGDP™, at least one electrode is covered with a dielectric, which can be modeled as a capacitor, as can the gap containing the plasma. The plasma discharge itself is modeled as a voltagecontrolled current source that is switched on when the voltage across the gap exceeds the plasma initiation voltage. The output current follows a power law of the applied voltage, an observed phenomenological characteristic of the voltage-current behavior of normal glow discharges. Simulation results agree qualitatively and quantitatively with experimental data from actual reactors/actuators. In addition to simulation of the plasma discharge in OAUGDP™ reactors/actuators, the modeling of the whole OAUGDP™ reactor/actuator system including a non-ideal transformer and impedance matching network can help engineers to improve the design of actual OAUGDP™ reactor/actuator systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/269</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1302&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>269</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1302</articleid>
+<submission-date>2010-02-11T07:26:26-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1140566</context-key>
+<submission-path>utk_gradthes/269</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Reece Roth</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Peter Ping-Yi Tsai</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/ChenZhiyu.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

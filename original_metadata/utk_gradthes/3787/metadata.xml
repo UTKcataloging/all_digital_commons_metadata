@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-signal Accelerated Degradation Testing of Rolling Ball Bearings Through Radial Overload</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amazzoli@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mazzolini</lname>
+<fname>Anna</fname>
+<mname>Marie</mname>
+</author>
+</authors>
+<keywords>
+<keyword>prognostics</keyword>
+<keyword>condition monitoring</keyword>
+<keyword>bearings</keyword>
+<keyword>maintenance</keyword>
+<keyword>diagnostics</keyword>
+<keyword>fault detection</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Bearings are essential components in rotating machinery found in abundance in nuclear power plants. Bearing failure in nuclear power plants can lead to increased operations and maintenance costs and even plant trips. When developing maintenance procedures, it is ideal to minimize costs and equipment downtime while maximizing safety. Reactive, or run-to-failure, maintenance minimizes maintenance costs at the expense of operation costs and safety. Preventative, or time-based, maintenance maximizes safety and minimizes operation costs at the expense of equipment downtime and maintenance costs. Predictive, or condition-based, maintenance attempts to optimize overall costs while maintaining system safety and reducing downtown.&lt;/p&gt;
+&lt;p&gt;Predictive maintenance uses online equipment condition assessment and remaining useful life (RUL) predictions to schedule inspection and maintenance actions. The development of methods for early and accurate RUL predictions for bearings has the potential to transform maintenance planning in the nuclear power industry, reducing operation and maintenance costs while maintaining or improving overall system safety, reliability, and economics.&lt;/p&gt;
+&lt;p&gt;In order to develop robust RUL models, examples of run-to-failure data are needed. Using data collected during accelerated degradation tests has the advantages of being easily controlled and of providing ample data over relatively a short test period. A testbed has been designed and constructed that incites bearing failure through the application of a radial load. Several parameters are monitored continuously and online, including motor current, shaft rotational speed, acoustics and bearing vibration and temperature. Bearing maintenance in nuclear power plants to date has relied on vibration data analysis performed at defined inspection intervals. By including several process signals in the testbed design, recommendations are made for online monitoring of bearings in nuclear power plants that would augment, or perhaps replace, the current maintenance scheme with gains in safety, economics, and system reliability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3787</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5140&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3787</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5140</articleid>
+<submission-date>2016-02-26T19:27:25-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8227798</context-key>
+<submission-path>utk_gradthes/3787</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jamie B. Coble</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Guillermo I. Maldonado</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

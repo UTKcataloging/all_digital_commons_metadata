@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of Nozzle Contours for the PWT 16-Ft Transonic Wind Tunnel</title>
+<publication-date>1992-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Milam</lname>
+<fname>William</fname>
+<mname>Everett</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The nozzle contours of the Tunnel 16T nozzle were designed in the early 1950&#39;s and, for the most part, were calculated by hand. In addition, corrections have been made to the contours through the use of an influence coefficient correction technique in an attempt to remove small flow irregularities. This correction technique is not based on aerodynamic theory, and, as a result the corrected contours are not necessarily aerodynamically correct. A second problem stems from the fact that the application of the nozzle corrections results in nozzle contours that do not change in a monotonic manner. There are some jacks that reverse in direction of travel while increasing in Mach number contour. This is not desirable from a control algorithm standpoint.&lt;/p&gt;
+&lt;p&gt;New nozzle contours have been designed from Mach 1.1 to Mach 1.6 in increments of Mach 0.1. The contours were determined using the method of characteristics design code developed at AEDC by J. C. Sivells. The nozzle contours form a monotonic family of contours, in that, there are no nozzle wall reversals while traveling from the lowest Mach number to the highest. The new contours were optimized to the maximum extent possible in the location of the nozzle throat and inflection point with respect to jack attachment points. Comparisons between the ideal contours and the jack supported contours show that there is very little difference in the contour shapes. This fact leads to the conclusion that the resulting flow quality of the new contours should be quite good.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4202</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5649&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4202</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5649</articleid>
+<submission-date>2016-11-02T09:42:58-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9334561</context-key>
+<submission-path>utk_gradthes/4202</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>R. A. Crawford</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy J. Shcultz, Ahmad D. Vakili</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1992-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1992-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Experimental, Theoretical, and Device Application Development of Nanoscale Focused Electron-Beam-Induced Deposition</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Randolph</lname>
+<fname>Steven</fname>
+<mname>Jeffrey</mname>
+</author>
+</authors>
+<disciplines><discipline>Materials Science and Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;To elucidate the effects of beam heating in electron beam-induced deposition (EBID), a Monte-Carlo electron-solid interaction model has been employed to calculate the energy deposition profiles in bulk and nanostructured SiO&lt;sub&gt;2&lt;/sub&gt;.  Using these profiles, a finite element model was used to predict the nanostructure tip temperatures for standard experimental EBID conditions.  Depending on the beam energy, beam current, and nanostructure geometry, the heat generated can be substantial.  This heat source can subsequently limit the EBID growth by thermally reducing the mean stay time of the precursor gas.  Temperature dependent EBID growth experiments qualitatively verified the results of the electron beam-heating model.  Additionally, experimental trends for the growth rate as a function of deposition time supported the conclusion that electron beam-induced heating can play a major role in limiting the EBID growth rate of SiO&lt;sub&gt;2&lt;/sub&gt; nanostructures.&lt;/p&gt;
+&lt;p&gt;In an EBID application development, two approaches to maskless, direct-write lithography using electron beam-induced deposition (EBID) to produce ultra-thin masking layers were investigated.  A single layer process used directly written SiO&lt;sub&gt;x&lt;/sub&gt; features deposited from a tetraethoxysilane (TEOS) precursor vapor as a masking layer for amorphous silicon thin films.  A bilayer process implemented a secondary masking layer consisting of standard photoresist into which a pattern—directly written by EBID tungsten from WF&lt;sub&gt;6&lt;/sub&gt; precursor—was transferred.  The single layer process was found to be extremely sensitive to the etch selectivity of the plasma etch.  As a result, patterns were successfully transferred into silicon, but only to a minimal depth.  In the bilayer process, EBID tungsten was written onto photoresist and the pattern transferred by means of an oxygen plasma dry development.  A brief refractory descum plasma etch was implemented to remove the peripheral tungsten contamination prior to the development process.  Conditions were developed to reduce the spatial spread of electrons in the photoresist layer and obtain minimal linewidths, which enabled patterning of ~ 35 nm lines.&lt;/p&gt;
+&lt;p&gt;Additionally, an EBID-based technique for field emitter repair was applied to the Digital Electrostatically focused e-beam Array Lithography (DEAL) parallel electron beam lithography configuration.  Damaged or missing carbon nanofiber (CNF) emitters are very common in these prototype devices, so there is a need for a deterministic repair process.  Relatively carbon-free, high aspect ratio tungsten nanofibers were deposited from a WF&lt;sub&gt;6&lt;/sub&gt; precursor in a gated cathode and a damaged triode (DEAL) device.  The I-V response of the devices during vacuum FE testing indicated stable, cold field emission from the EBID cathodes.  The field emission threshold voltage was shown to decrease from -130 V to -90 V after a short initiation period.  Finally, lithography was performed using the repaired device to write a series of lines in PMMA with variable focus voltage.  Successful focusing of the beam with increased focus voltage was evident in the patterned and developed PMMA.  The I-V and lithography results were comparable to CNF-based DEAL devices indicating a successful repair technique.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2333</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3846&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2333</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3846</articleid>
+<submission-date>2013-10-17T12:10:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4733726</context-key>
+<submission-path>utk_graddiss/2333</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Philip D. Rack</value>
+</field>
+<field name="advisor2" type="string">
+<value>David C. Joy, Anthony J. Pedraza, Michael L. Simpson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Materials Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

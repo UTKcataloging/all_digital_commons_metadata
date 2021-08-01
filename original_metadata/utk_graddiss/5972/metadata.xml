@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A kernelized genetic algorithm decision tree with information criteria</title>
+<publication-date>2008-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Lanning</lname>
+<fname>James</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>business administration</keyword>
+<keyword>decision trees</keyword>
+<keyword>machine learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;Decision trees are one of the most widely used data mining models with a long history in machine learning, statistics, and pattern recognition. A main advantage of the decision trees is that the resulting data partitioning model can be easily understood by both the data analyst and customer. This is in comparison to some more powerful kernel related models such as Radial Basis Function (RBF) Networks and Support Vector Machines. In recent literature, the decision tree has been used as part of a two-step training algorithm for RBF networks. However, the primary function of the decision tree is not model visualization but dividing the input data into initial potential radial basis spaces. In this dissertation, the kernel trick using Mercer&#39;s condition is applied during the splitting of the input data through the guidance of a decision tree. This allows the algorithm to search for the best split using the projected feature space information while remaining in the current data space. The decision tree will capture the information of the linear split in the projected feature space and present the corresponding non-linear split of the input data space. Using a genetic search algorithm, Bozdogan&#39;s Information Complexity criterion (ICOMP) performs as a fitness function to determine the best splits, control model complexity, subset input variables, and decide the optimal choice of kernel function. The decision tree is then applied to radial basis function networks in the areas of regression, nominal classification, and ordinal prediction.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5972</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7905&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5972</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7905</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467581</context-key>
+<submission-path>utk_graddiss/5972</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Low-Order Multiphysics Coupling Techniques for Nuclear Reactor Applications</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ewalk@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Walker</lname>
+<fname>Erik</fname>
+<mname>Daniel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>JFNK</keyword>
+<keyword>CMFD</keyword>
+<keyword>Multiphysics</keyword>
+<keyword>Coupling</keyword>
+<keyword>MPACT</keyword>
+<keyword>CASL</keyword>
+</keywords>
+<abstract>&lt;p&gt;The accurate modeling and simulation of nuclear reactor designs depends greatly on the ability to couple differing sets of physics together. Current coupling techniques most often use a fixed-point, or Picard, iteration scheme in which each set of physics is solved separately, and the resulting solutions are passed between each solver. In the work presented here, two different coupling techniques are investigated: a Jacobian-Free Newton-Krylov (JFNK) approach and a new methodology called Coarse Mesh Finite Difference Coupling (CMFD-Coupling). What both of these techniques have in common is that they are applied to the low-order CMFD system of equations. This allows for the multiphysics feedback effects to be captured on the low-order system without having to perform a neutron transport solve.The JFNK and CMFD-Coupling approaches were implemented in the MPACT (Michigan Parallel Analysis based on Characteristic Tracing) neutron transport code, which is being developed for the Consortium for Advanced Simulation of Light Water Reactors (CASL). These methods were tested on a wide range of practical reactor physics problems, from a 2D pin cell to a massively parallel 3D full core problem. Initially, JFNK was implemented only as an eigenvalue solver without any feedback enabled. However this led to greatly increased runtimes without any obvious benefit. When multiphysics problems were investigated with both JFNK and CMFD-Coupling, it was concluded that CMFD-Coupling outperformed JFNK in terms of both accuracy and runtime for every problem. When applied to large full core problems with multiple sources of strong feedback enabled, CMFD-Coupling reduced the overall number of transport sweeps required for convergence.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4855</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6395&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4855</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6395</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276606</context-key>
+<submission-path>utk_graddiss/4855</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jess C. Gehin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Collins, G. Ivan Maldonado, Ronald Pevey, Benjamin Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

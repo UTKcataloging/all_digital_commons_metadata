@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>NSMS probe recorder design and development</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Crews</lname>
+<fname>Daniel</fname>
+<mname>S.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Electrical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;The real-time Non-Contact Stress Measurement System (NSMS) currently used at AEDC calculates the vibration of rotating blades by capturing the time of arrival for each blade. The time of arrival is determined by a triggering circuit that is activated when the signal from the engine probe crosses a predetermined threshold. In its current configuration, the NSMS system only saves post-processed data. A system that records the raw signals from the probes was developed to allow reprocessing the data whenever necessary. The probe recorder system consists of analog-to-digital conversion hardware to capture the signals, data storage for the files, and digital-to-analog hardware to replay the signals. The system accommodates a maximum of 32 channels, a maximum sampling rate of 20 MHz, and a total bandwidth of up to 160 megabytes per second. Sixteen-bit resolution is used in digitizing the analog waveforms to minimize quantization errors.The incoming data is transferred using FPDP, capable of 160 MB/sec, and PCI-X, capable of 528 MB/sec. Large amounts of high speed (3200 MB/sec) random access memory coupled with two dual-core processors were included for data transfer buffering and program execution. As the final destination, a RAID array connected to a PCI Express interface was implemented for 240 MB/sec data storage. Laboratory tests were conducted on the system to verify performance. The RAID array exceeded expectations for disk writing but reduced bandwidth was observed for read operations. The relationship between the input analog signals and the reproduced waveforms was checked and, except for one case, performed identically to the simulated system transfer function. Long duration tests were performed to verify data transfers at the maximum settings and proved that the system could operate continuously without data loss.Due to the large amounts of data, a brief study of offline compression techniques was conducted. Lossy compression was investigated but was not implemented at this time due to unwanted distortion and loss of critical data. Lossless compression using WinZip was implemented as a compromise between ideal compression ratios and data retention expectations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5702</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7324&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5702</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7324</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467451</context-key>
+<submission-path>utk_gradthes/5702</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce W. Bomar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

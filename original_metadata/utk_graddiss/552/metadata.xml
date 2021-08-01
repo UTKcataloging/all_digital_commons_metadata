@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MRF Stereo Matching with Statistical Estimation of Parameters</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Huq</lname>
+<fname>Mohammad</fname>
+<mname>Shafikul</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;For about the last ten years, stereo matching in computer vision has been treated as a combinatorial optimization problem. Assuming that the points in stereo images form a Markov Random Field (MRF), a variety of combinatorial optimization algorithms has been developed to optimize their underlying cost functions. In many of these algorithms, the MRF parameters of the cost functions have often been manually tuned or heuristically determined for achieving good performance results. Recently, several algorithms for statistical, hence, automatic estimation of the parameters have been published. Overall, these algorithms perform well in labeling, but they lack in performance for handling discontinuity in labeling along the surface borders.&lt;/p&gt;
+&lt;p&gt;In this dissertation, we develop an algorithm for optimization of the cost function with automatic estimation of the MRF parameters – the data and smoothness parameters. Both the parameters are estimated statistically and applied in the cost function with support of adaptive neighborhood defined based on color similarity. With the proposed algorithm, discontinuity handling with higher consistency than of the existing algorithms is achieved along surface borders. The data parameters are pre-estimated from one of the stereo images by applying a hypothesis, called noise equivalence hypothesis, to eliminate interdependency between the estimations of the data and smoothness parameters. The smoothness parameters are estimated applying a combination of maximum likelihood and disparity gradient constraint, to eliminate nested inference for the estimation. The parameters for handling discontinuities in data and smoothness are defined statistically as well. We model cost functions to match the images symmetrically for improved matching performance and also to detect occlusions. Finally, we fill the occlusions in the disparity map by applying several existing and proposed algorithms and show that our best proposed segmentation based least squares algorithm performs better than the existing algorithms.&lt;/p&gt;
+&lt;p&gt;We conduct experiments with the proposed algorithm on publicly available ground truth test datasets provided by the Middlebury College. Experiments show that results better than the existing algorithms’ are delivered by the proposed algorithm having the MRF parameters estimated automatically. In addition, applying the parameter estimation technique in existing stereo matching algorithm, we observe significant improvement in computational time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/552</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1619&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>552</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1619</articleid>
+<submission-date>2010-02-22T11:48:01-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1162319</context-key>
+<submission-path>utk_graddiss/552</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul B. Crilly, Seddik M. Djouadi, Frank M. Guess, Andreas Koschan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/HuqMohammadShafikul.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

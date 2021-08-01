@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Economic Forecasting with Many Predictors</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fmeng1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Meng</lname>
+<fname>Fanning</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Forecasting</keyword>
+<keyword>Quantile Regression</keyword>
+<keyword>MIDAS</keyword>
+<keyword>LASSO</keyword>
+<keyword>Feature-selection</keyword>
+</keywords>
+<disciplines><discipline>Econometrics</discipline>
+<discipline>International Economics</discipline>
+<discipline>Macroeconomics</discipline>
+<discipline>Management Information Systems</discipline>
+<discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;The dissertation is focused on the analysis of economic forecasting with a large number of predictors.&lt;/p&gt;
+&lt;p&gt;The first chapter develops a novel forecasting method that minimizes the effects of weak predictors and estimation errors on the accuracy of equity premium forecasts. The proposed method is based on an averaging scheme applied to quantiles conditional on predictors selected by LASSO. The resulting forecasts outperform the historical average, and other existing models, by statistically and economically meaningful margins.&lt;/p&gt;
+&lt;p&gt;In the second chapter, we find that incorporating distributional and high-frequency information into a forecasting model can produce substantial accuracy gains. Distributional information is included through a quantile combination approach, but estimation of quantile regressions with mixed-frequency data leads to a parameter proliferation problem. We consider extensions of the MIDAS and soft (hard) thresholding methods towards quantile regression. Our empirical study on GDP growth rate reveals a strong predictability gain when high-frequency and distributional information are adequately incorporated into the same forecasting model.&lt;/p&gt;
+&lt;p&gt;The third chapter analyzes the wage effects of college enrollment for returning adults based on the NLSY79 data. To improve the estimation efficiency, we apply the double-selection model among time-varying features and individual fixed effects. The empirical results on hourly wage predictions show evidences towards the superiority of double-selection model over a fixed-effect model. Based on the double-selection model, we find significant and positive returns on years of college enrollment for the returning adults. On average, one more year&#39;s college enrollment can increase hourly wage of returning adults by $1.12, an estimate that is about 7.7% higher than that from the fixed-effect model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4483</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5583&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4483</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5583</articleid>
+<submission-date>2016-10-07T07:42:57-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9242880</context-key>
+<submission-path>utk_graddiss/4483</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Luiz R. Lima</value>
+</field>
+<field name="advisor2" type="string">
+<value>Celeste Carruthers, Eric Kelley, Georg Schaur, Christian Vossler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Economics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

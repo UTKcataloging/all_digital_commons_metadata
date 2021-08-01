@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Decomposition of High-Order FIR Filters and Minimum-Phase Filter Design</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Su</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this study, the implementation of high-order FIR filter decomposition and minimum-phase filter design is investigated. One method is presented for decomposing arbitrary linear-phase FIR filters with distinct roots into the cascade of first-order, second-order and fourth-order subfilters. The other method is described for transforming nonrecursive filters with even-order, equal-ripple attenuation in the pass-band, stop-band and linear-phase into those with minimum-phase and half the degree, and again with equal-ripple attenuation in the pass-band and stop-band. The technique consists of quick and accurate polynomial root finding of the &lt;em&gt;z &lt;/em&gt;-domain filter transfer function by searching a finite region in the complex &lt;em&gt;z-&lt;/em&gt;plane, and separating the zeros in the complex &lt;em&gt;z &lt;/em&gt;-domain. In FIR filter decomposition, the search of roots to determine the subfilter impulse response coefficients is restricted to distinct roots in four regions in the complex &lt;em&gt;z &lt;/em&gt;-plane: on the real axis, on the unit circle, inside the unit circle and at (1, 0) or (-1, 0). In minimum-phase filter design, the search of roots is restricted in two categories: on the unit circle and inside the unit circle. In both methods, we used Lang’s root finding program to get the zeros of the FIR filter.&lt;/p&gt;
+&lt;p&gt;Arbitrary FIR filters were designed and decomposed for all possible orders of subfilters. FIR filters with even-order, zero-phase and equal-ripple were designed and generated the half degree minimum-phase filters. Both methods have been tested on FIR filters with orders ranging to over 500 and have proven effective in decomposing filters to the cascade realization and designing minimum-phase filters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2177</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3557&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2177</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3557</articleid>
+<submission-date>2013-10-09T10:32:39-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4688997</context-key>
+<submission-path>utk_gradthes/2177</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>L. Montgomery Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce Bomar, Bruce Whitehead</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

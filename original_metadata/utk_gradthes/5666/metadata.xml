@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluating scenarios using a spatially-explicit agent-based model in order to recover pheasant populations and determine biomass harvest strategies</title>
+<publication-date>2019-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jkreig@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Kreig</lname>
+<fname>Jasmine</fname>
+<mname>Asha</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Ring-necked pheasants &lt;em&gt;(Phasianus colchicus),&lt;/em&gt; while a non-native species in North America, is a popular game species. Many mid-western states, including Iowa, depend on the revenue that hunting tourism generates. Thus, there are programs to ensure pheasant populations do not decline, the most ubiquitous being Conservation Reserve Programs (CRP). By enrolling land in CRP, farmers remove that land from traditional agricultural production and receive rental payment. Additionally, farmers plant crops that simulate pheasant habitat, which can be harvested as biomass feedstock. In this study, we build a spatially-explicit agent-based model (ABM) to simulate dynamics associated with pheasants, hunters, and tractors on a typical Iowa field with CRP land. We evaluate the model’s ability to realistically represent dynamics of agents and their interactions. The ABM simulates pheasant population trends over time, under varied sex-ratio probabilities, and exhibits reasonable habitat-use by pheasants. We compare two scenarios (S2, S3) that differ in spatial and temporal rules for tractors and hunters to investigate the effect such constraints have on pheasant populations and harvested biomass. S3 (harvest outward spiral, mow once between August 1 - 15) had approximately 10,000 tons/km&lt;sup&gt;2&lt;/sup&gt; more biomass harvested than S2 (harvest inward spiral, two-cut system), though a portion of this difference can be attributed to model assumptions and must be further investigated. However, double the number of roosters were killed by hunters in S2 (strip hunting, 93 day season) compared with S3 (radial hunting, 42 day season). Proportionally, roosters were killed at the same rate, indicating that spatial constraints on hunters have less impact on the number of roosters killed compared to length of the hunting season. Accidental rooster death by tractor was also tracked in each scenario (S2 - 220, S3 - 52), and these deaths may be lower in S3 because tractors are mowing after hens have finished using the area to rear broods. In comparison, mowing occurs in S2 while hens are nesting. Overall, these results are promising and planned future work should provide valuable insight into the effect spatiotemporal harvesting constraints have on pheasants and biomass.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5666</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7202&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5666</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7202</articleid>
+<submission-date>2021-01-24T14:00:05-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>21246546</context-key>
+<submission-path>utk_gradthes/5666</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Henriette I. Jager, Monica Papes</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;http://orcid.org/0000-0002-2976-0949&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

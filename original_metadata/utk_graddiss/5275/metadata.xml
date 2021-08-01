@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>sCAM: An Untethered Insertable Laparoscopic Surgical Camera Robot</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Li</lname>
+<fname>Ning</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Medical robotics</keyword>
+<keyword>Minimally invasive surgery</keyword>
+<keyword>Laparoscopic surgery</keyword>
+<keyword>Insertable laparoscopic camera</keyword>
+<keyword>Robotic-assisted surgery</keyword>
+</keywords>
+<abstract>&lt;p&gt;Fully insertable robotic imaging devices represent a promising future of minimally invasive laparoscopic vision. Emerging research efforts in this field have resulted in several proof-of-concept prototypes. One common drawback of these designs derives from their clumsy tethering wires which not only cause operational interference but also reduce camera mobility. Meanwhile, these insertable laparoscopic cameras are manipulated without any pose information or haptic feedback, which results in open loop motion control and raises concerns about surgical safety caused by inappropriate use of force.This dissertation proposes, implements, and validates an untethered insertable laparoscopic surgical camera (sCAM) robot. Contributions presented in this work include: (1) feasibility of an untethered fully insertable laparoscopic surgical camera, (2) camera-tissue interaction characterization and force sensing, (3) pose estimation, visualization, and feedback with sCAM, and (4) robotic-assisted closed-loop laparoscopic camera control. Borrowing the principle of spherical motors, camera anchoring and actuation are achieved through transabdominal magnetic coupling in a stator-rotor manner. To avoid the tethering wires, laparoscopic vision and control communication are realized with dedicated wireless links based on onboard power. A non-invasive indirect approach is proposed to provide real-time camera-tissue interaction force measurement, which, assisted by camera-tissue interaction modeling, predicts stress distribution over the tissue surface. Meanwhile, the camera pose is remotely estimated and visualized using complementary filtering based on onboard motion sensing. Facilitated by the force measurement and pose estimation, robotic-assisted closed-loop control has been realized in a double-loop control scheme with shared autonomy between surgeons and the robotic controller.The sCAM has brought robotic laparoscopic imaging one step further toward less invasiveness and more dexterity. Initial ex vivo test results have verified functions of the implemented sCAM design and the proposed force measurement and pose estimation approaches, demonstrating the technical feasibility of a tetherless insertable laparoscopic camera. Robotic-assisted control has shown its potential to free surgeons from low-level intricate camera manipulation workload and improve precision and intuitiveness in laparoscopic imaging.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5275</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6819&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5275</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6819</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342917</context-key>
+<submission-path>utk_graddiss/5275</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jindong Tan</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Hairong Qi, Eric R. Wade</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journals or conference proceedings.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

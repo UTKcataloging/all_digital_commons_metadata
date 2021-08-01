@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Flexible, Highly Integrated, Low Power pH Readout</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>syuan1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yuan</lname>
+<fname>Song</fname>
+</author>
+</authors>
+<keywords>
+<keyword>low power</keyword>
+<keyword>pH measurement</keyword>
+<keyword>integrated circuit</keyword>
+</keywords>
+<abstract>&lt;p&gt;Medical devices are widely employed in everyday life as wearable and implantable technologies make more and more technological breakthroughs. Implantable biosensors can be implanted into the human body for monitoring of relevant physiological parameters, such as pH value, glucose, lactate, CO&lt;sub&gt;2&lt;/sub&gt; [carbon dioxide], etc. For these applications the implantable unit needs a whole functional set of blocks such as micro- or nano-sensors, sensor signal processing and data generation units, wireless data transmitters etc., which require a well-designed implantable unit.Microelectronics technology with biosensors has caused more and more interest from both academic and industrial areas. With the advancement of microelectronics and microfabrication, it makes possible to fabricate a complete solution on an integrated chip with miniaturized size and low power consumption.This work presents a monolithic pH measurement system with power conditioning system for supply power derived from harvested energy. The proposed system includes a low-power, high linearity pH readout circuits with wide pH values (0-14) and a power conditioning unit based on low drop-out (LDO) voltage regulator. The readout circuit provides square-wave output with frequency being highly linear corresponding to the input pH values. To overcome the process variations, a simple calibration method is employed in the design which makes the output frequency stay constant over process, supply voltage and temperature variations. The prototype circuit is designed and fabricated in a standard 0.13-μm [micro-meter] CMOS process and shows good linearity to cover the entire pH value range from 0-14 while the voltage regulator provides a stable supply voltage for the system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4935</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6476&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4935</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6476</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415116</context-key>
+<submission-path>utk_graddiss/4935</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Joshua S. Fu, Nicole McFarlane</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-1493-6323</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

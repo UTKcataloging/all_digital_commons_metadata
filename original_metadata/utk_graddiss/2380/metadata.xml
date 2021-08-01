@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Detecting Changes in Global Dynamics with Principal Curves and Information Theory</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rajput</lname>
+<fname>Sandeep</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Chaos</keyword>
+<keyword>clustering</keyword>
+<keyword>fault diagnosis</keyword>
+<keyword>information theory</keyword>
+<keyword>monitoring</keyword>
+<keyword>mutual information</keyword>
+<keyword>nonlinear dynamics</keyword>
+<keyword>principal curves</keyword>
+<keyword>process control</keyword>
+<keyword>symbolization</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Two approaches to characterize global dynamics are developed in this dissertation. In particular, the concern is with nonlinear and chaotic time series obtained from physical systems. The objective is to identify the features that adequately characterize a time series, and can consequently be used for fault diagnosis and process monitoring, and for improved control.&lt;/p&gt;
+&lt;p&gt;This study has two parts. The first part is concerned with obtaining a skeletal description of the data using Cluster-linked principal curves (CLPC). A CLPC is a non-parametric hypercurve that passes through the center of the data cloud, and is obtained through the iterative Expectation-Maximization (E-M) principle. The data points are then projected on the curve to yield a distribution of arc lengths along it. It is argued that if some conditions are met, the arc length distribution uniquely characterizes the dynamics. This is demonstrated by testing for stationarity and reversibility based on the arc length distributions.&lt;/p&gt;
+&lt;p&gt;The second part explores the use of mutual information vector to characterize a system. The mutual information vector formed via symbolization is reduced in dimensionality and subjected to K-means clustering algorithm in order to examine stationarity and to compare different processes.&lt;/p&gt;
+&lt;p&gt;The computations required to implement the techniques for online monitoring and fault diagnosis are reasonable enough to be carried out in real time. For illustration purposes time series measurements from a liquid-filled column with an electrified capillary and a fluidized bed are employed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2380</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3723&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2380</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3723</articleid>
+<submission-date>2013-10-10T11:27:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4693305</context-key>
+<submission-path>utk_graddiss/2380</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Duane D. Bruns</value>
+</field>
+<field name="advisor2" type="string">
+<value>C. Stuart Daw, John R. Collier, Charles F. Moore, Frank M. Guess, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

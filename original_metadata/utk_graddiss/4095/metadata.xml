@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parametric Instability and Vibration Suppression of Planetary Gear Transmissions Supported on Boundary Struts</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pguan1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Guan</lname>
+<fname>Peng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>parametric instability</keyword>
+<keyword>planetary gear transmission</keyword>
+<keyword>vibration suppression</keyword>
+<keyword>active vibration control</keyword>
+<keyword>rotordynamics</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation explores the effects of discrete boundary strut properties on stability and vibration of the planetary gear transmission (PGT) driveline systems. Also, a robust output feedback control law is developed to actively control the PGT system vibrations. To better obtain boundary strut properties, a light-weight boundary strut design was developed for two popular boundary strut configurations by considering yield stress, buckling, and local buckling constraints. To facilitate analysis and development of the active control law, a comprehensive analytical PGT driveline system with elastic ring model, including gyroscopic effect and rotating-frame damping, is developed. The equation of motion of the PGT driveline system is a periodically time-varying system, Floquet theory is utilized to solve the equations and determine the system stability numerically. After investigating the effects of boundary strut properties on the stability behaviors of the PGT driveline system over the operating speed range, a stability-based ring gear rim thickness design strategy is developed to accelerate the rim thickness design procedure. In this research, both passive and active vibration suppression methods are discussed. Harmonic balance method is used to solve the steady-state vibration responses of the PGT driveline system. For the study of passive vibration suppression for the PGT system excited by the interaction between moving planets, flexible ring gear, and the discrete boundary struts, the effects of boundary strut properties on maximum ring stress, planet bearing force, and tooth mesh force vibrations are investigated over the operating speed range. The analysis shows that by properly tuning the boundary strut properties, such as number, stiffness, and damping, some vibrations can be suppressed passively, and the worst case scenario would be when the number of boundary struts equals to the number of planets. Finally, a robust active output feedback control law is developed based on a reduced-order stationary elastic ring gear model with sensors installed. The steady-state performance of the active controllers designed based on different numbers of sensors is compared and discussed. The results show that with enough sensors, the active controller can effectively suppress the vibrations transmitted through boundary struts to the helicopter frame.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4095</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5315&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4095</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5315</articleid>
+<submission-date>2016-06-14T16:05:17-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8728237</context-key>
+<submission-path>utk_graddiss/4095</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hans DeSmidt</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. A. M. Boulet, Xiaopeng Zhao, Seddik M. Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

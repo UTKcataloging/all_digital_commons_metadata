@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>NFU-Enabled FASTA: moving bioinformatics applications onto wide area networks</title>
+<publication-date>2007-11-26T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Baylor University</institution>
+<lname>Baker</lname>
+<fname>Erich</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>Baylor University</institution>
+<lname>Lin</lname>
+<fname>Guan</fname>
+<mname>N.</mname>
+</author>
+<author>
+<email>hliu4@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Huadong</fname>
+</author>
+<author>
+<institution>Baylor University</institution>
+<lname>Kosuri</lname>
+<fname>Ravi</fname>
+</author>
+</authors>
+<disciplines><discipline>Bioinformatics</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Abstract&lt;/h3&gt; &lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Advances in Internet technologies have allowed life science researchers to reach beyond the lab-centric research paradigm to create distributed collaborations. Of the existing technologies that support distributed collaborations, there are currently none that simultaneously support data storage and computation as a shared network resource, enabling computational burden to be wholly removed from participating clients. Software using computation-enable logistical networking components of the Internet Backplane Protocol provides a suitable means to accomplish these tasks. Here, we demonstrate software that enables this approach by distributing both the FASTA algorithm and appropriate data sets within the framework of a wide area network.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;For large datasets, computation-enabled logistical networks provide a significant reduction in FASTA algorithm running time over local and non-distributed logistical networking frameworks. We also find that genome-scale sizes of the stored data are easily adaptable to logistical networks.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Network function unit-enabled Internet Backplane Protocol effectively distributes FASTA algorithm computation over large data sets stored within the scaleable network. In situations where computation is subject to parallel solution over very large data sets, this approach provides a means to allow distributed collaborators access to a shared storage resource capable of storing the large volumes of data equated with modern life science. In addition, it provides a computation framework that removes the burden of computation from the client and places it within the network.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biolpubs/3</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1002&amp;amp;context=utk_biolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1002</articleid>
+<submission-date>2013-07-11T08:36:24-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- General Biology</publication-title>
+<context-key>4304624</context-key>
+<submission-path>utk_biolpubs/3</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Source Code for Biology and Medicine 2007, 2:8 doi:10.1186/1751-0473-2-8</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-11-26T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dividing and Conquering Meshes within the NIST Fire Dynamics Simulator (FDS) on Multicore Computing Systems</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>starman@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Collins</lname>
+<fname>Donald</fname>
+<mname>Charles</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Smokeview</keyword>
+<keyword>FDS</keyword>
+<keyword>SMV</keyword>
+<keyword>Fire Protection Engineering</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Hardware Systems</discipline>
+<discipline>Other Engineering</discipline>
+<discipline>Risk Analysis</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The National Institute for Standards and Technology (NIST) Fire Dynamics Simulator (FDS) provides a computational fluid dynamics model of a fire, which can be visualized by using NIST Smokeview (SMV). Users must create a configuration file (*.fds) that describes the environment and other characteristics of the fire scene so that the FDS software can produce the output file (*.smv) needed for visualization.The processing can be computationally intensive, often taking between several minutes and several hours to complete. In many cases, a user will create a file that is not optimized for a multicore computing system. By dividing meshes within the fds file, the author was able to substantially reduce the computing time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3573</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4916&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3573</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4916</articleid>
+<submission-date>2015-10-08T22:38:04-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4916/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>7698081</context-key>
+<submission-path>utk_gradthes/3573</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David J Icove</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Mark E. Dean</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

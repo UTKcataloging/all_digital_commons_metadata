@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonlinear Model Reduction Based on Manifold Learning with Application to the Burgers&#39; Equation</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cwinste2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Winstead</lname>
+<fname>Christopher</fname>
+<mname>Joel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Diffusion Maps</keyword>
+<keyword>Laplacian Eigenmaps</keyword>
+<keyword>POD</keyword>
+<keyword>Reduced Order Modelling</keyword>
+<keyword>Burgers Equation</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Real-time applications of control require the ability to accurately and efficiently model the observed physical phenomenon in order to formulate control decisions. Complex flow interactions may require the modelling of millions of states making the problem computationally intractable. Model order reduction aims to reduce this computational burden while still retaining accuracy as compared to the full order model. Nonlinear dimension reduction methods such as Local Linear Embedding, Diffusion Maps, and Laplacian Eigenmaps are implemented on a series of solution snapshots of the one dimensional Burgers’ equation to generate a set of basis functions to be used in Galerkin projections.&lt;/p&gt;
+&lt;p&gt;The new basis functions are shown to compare favorably to their proper orthogonal decomposition counterparts across different time domains and with different levels of nonlinearity in the system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4789</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5535&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4789</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5535</articleid>
+<submission-date>2016-10-06T15:12:01-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9241853</context-key>
+<submission-path>utk_gradthes/4789</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Jim Nutaro</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

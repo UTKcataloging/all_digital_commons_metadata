@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Data Driven Multiple Observer and Causal Graph Approach for Fault Diagnosis of Nuclear Power Plant Sensors and Field Devices</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhao</lname>
+<fname>Ke</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Data driven multiple observer and causal graph approach to fault detection and isolation is developed for nuclear power plant sensors and actuators. It can be integrated into the advanced instrumentation and control system for the next generation nuclear power plants.&lt;/p&gt;
+&lt;p&gt;The developed approach is based on analytical redundancy principle of fault diagnosis. Some analytical models are built to generate the residuals between measured values and expected values. Any significant residuals are used for fault detection and the residual patterns are analyzed for fault isolation.&lt;/p&gt;
+&lt;p&gt;Advanced data driven modeling methods such as Principal Component Analysis and Adaptive Network Fuzzy Inference System are used to achieve on-line accurate and consistent models. As compared with most current data-driven modeling, it is emphasized that the best choice of model structure should be obtained from physical study on a system.&lt;/p&gt;
+&lt;p&gt;Multiple observer approach realizes strong fault isolation through designing appropriate residual structures. Even if one of the residuals is corrupted, the approach is able to indicate an unknown fault instead of a misleading fault. Multiple observers are designed through making full use of the redundant relationships implied in a process when predicting one variable.&lt;/p&gt;
+&lt;p&gt;Data-driven causal graph is developed as a generic approach to fault diagnosis for nuclear power plants where limited fault information is available. It has the potential of combining the reasoning capability of qualitative diagnostic method and the strength of quantitative diagnostic method in fault resolution. A data-driven causal graph consists of individual nodes representing plant variables connected with adaptive quantitative models. With the causal graph, fault detection is fulfilled by monitoring the residual of each model. Fault isolation is achieved by testing the possible assumptions involved in each model. Conservatism is implied in the approach since a faulty sensor or a fault actuator signal is isolated only when their reconstructions can fully explain all the abnormal behavior of the system.&lt;/p&gt;
+&lt;p&gt;The developed approaches have been applied to nuclear steam generator system of a pressurized water reactor and a simulation code has been developed to show its performance. The results show that both single and dual sensor faults and actuator faults can be detected and isolated correctly independent of fault magnitudes and initial power level during early fault transient.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2071</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3434&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2071</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3434</articleid>
+<submission-date>2013-10-03T07:49:05-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4662358</context-key>
+<submission-path>utk_gradthes/2071</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

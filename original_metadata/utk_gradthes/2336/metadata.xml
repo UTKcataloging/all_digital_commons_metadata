@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Interpolation of Spatial Surfaces and Inferring Subsurface Transitions Using Electrical Conductivity</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wilson</lname>
+<fname>Robert</fname>
+<mname>Claborne</mname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Precision agriculture techniques are becoming more popular within the agriculture community as producers demand more return from an ever-decreasing amount of farmland. Increased environmental regulations are forcing farmers to reduce the input of fertilizers and agrochemicals on their crops. Innovative techniques in precision agriculture are enhancing traditional decision-making processes by offering multiple layers of data for a production field. It is difficult to determine the complex interactions that exist between factors affecting crop growth and the resultant management decisions. Strategies in precision agriculture attempt to modify customary practices in order to address the known variability of field conditions. This case study evaluated some of the tools used to create spatial data maps and the relationship of those maps to various soil properties. Electromagnetic induction (EMI) and ground-penetrating radar (GPR) were used to examine the similarities and differences among spatial and temporal variations of soil water content, soil texture, and bulk soil electrical conductivity (ECa) on a large research watershed in southwestern Tennessee. A protocol was developed that identifies spatial variations in ECa patterns using geographical information system (GIS) maps. Soil cores were collected in areas of contrasting conductivity, which were identified by temporal ECa maps. Repeated spatial measurements of ECa, starting near field capacity and then progressing through the draining and drying process, supplied visually shifting patterns that correspond to dynamic soil moisture variations and subsurface morphology transitions. iv After several seasons of acquiring data for other studies, it was noted that spatial ECa patterns remained somewhat similar across data gathering events, shifting only in relative amplitude in relation to seasonal moisture levels. The overall ECa patterns remained somewhat similar, regardless of field moisture conditions. Soil morphology was considered constant over the data acquisition period, with subsurface moisture variations being the major influence in differing ECa maps during the same period. Follow-up soil coring analysis supported this assumption in this case study. The interpolation of spatial ECa maps creates a continuous surface that contains values at unsampled locations. Inverse distance weighted (IDW), ordinary kriging (OK), and radial basis function (RBF) were examined as potential interpolation algorithms. Data were gathered to investigate the influences of short-term conductivity shifts over the data collection period, as well as from travel route patterns and instrument orientation. Using root-mean-squared error (RMSE) to quantify the transformation accuracy of ECa maps, a data collection method and an appropriate geostatistical model were determined for this particular case study. Analysis showed that a bidirectional travel path produced the highest quality map, as transformation inaccuracies were reduced when measurements were obtained in a manner by which all measurements were temporally contiguous. A skilled application of ordinary kriging (OK) also increased map quality in comparison to the inverse distance weighted (IDW) and radial basis function (RBF) interpolation methods. Due to variability in our data, we are not able to recommend the use of a single interpolation algorithm for all data gathering scenarios.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2336</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3699&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2336</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3699</articleid>
+<submission-date>2013-10-15T11:55:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4716569</context-key>
+<submission-path>utk_gradthes/2336</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert S. Freeland</value>
+</field>
+<field name="advisor2" type="string">
+<value>William E. Hart, John B. Wilkerson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering Technology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

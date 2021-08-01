@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Beta-Delayed Neutron Data and Models for SCALE</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ktalley5@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Talley</lname>
+<fname>Kemper</fname>
+<mname>Dyar</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neutron Emission</keyword>
+<keyword>Beta Decay</keyword>
+<keyword>Nuclear Physics</keyword>
+<keyword>Reactor Physics</keyword>
+<keyword>Nuclear Data</keyword>
+<keyword>SCALE</keyword>
+</keywords>
+<disciplines><discipline>Nuclear</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Recent advancements in experimental and theoretical nuclear physics have yielded new data and models that more accurately describe the decay of fission products compared to historical data currently used for many applications. This work examines the effect of the adopting the Effective Density Model theory for beta-delayed neutron emission probability on calculations of delayed-neutron production and fission product nuclide concentrations after fission bursts as well as the total delayed neutron fraction in comparison with the Keepin 6-group model. We use ORIGEN within the SCALE code package for these calculations. We show quantitative changes to the isotopic concentrations for fallout nuclides and delayed neutron production after fission bursts on the order of a few percent. We also show that the changes are larger at small times for short lived fission products, and that corrections to the cumulative fission product yields has an impact upon the total delayed neutron fraction for &lt;sup&gt;235&lt;/sup&gt;U [Uranium 235]. The effect of modeling the β&lt;sub&gt;2n&lt;/sub&gt; [beta delayed double neutron emission] decay mode is also studied but no significant changes from the single beta-delayed neutron emission is currently seen.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4170</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5377&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4170</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5377</articleid>
+<submission-date>2016-06-17T17:42:53-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8747538</context-key>
+<submission-path>utk_graddiss/4170</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark L Williams</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert K. Grzywacz, Larry Townsend, Thomas Handler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Accelerating_a_Metropolis_Random_Walk_and_Immersion_Method_Saddle_Point_Algorithms_in_Multidimensional_Nuclear_Potential_Energy_Spaces.pdf</archive-name>
+<upload-name>Accelerating_a_Metropolis_Random_Walk_and_Immersion_Method_Saddle_Point_Algorithms_in_Multidimensional_Nuclear_Potential_Energy_Spaces.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=5377&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+<description>Accelerating a Metropolis Random Walk and Immersion-Method Saddle-Point Algorithms in Multidimensional Nuclear Potential-Energy Spaces</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

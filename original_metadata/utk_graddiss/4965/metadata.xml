@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Integration of Maintenance Decisions and Flow Shop Scheduling</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jseif@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Seif</lname>
+<fname>Javad</fname>
+</author>
+</authors>
+<keywords>
+<keyword>flow shop scheduling</keyword>
+<keyword>maintenance planning</keyword>
+<keyword>simulation optimization</keyword>
+<keyword>mixed-integer programming</keyword>
+<keyword>stochastic programming</keyword>
+<keyword>multi-objective optimization</keyword>
+</keywords>
+<abstract>&lt;p&gt;In the conventional production and service scheduling problems, it is assumed that the machines can continuously process the jobs and the information is complete and certain. However, in practice the machines must stop for preventive or corrective maintenance, and the information available to the planners can be both incomplete and uncertain. In this dissertation, the integration of maintenance decisions and production scheduling is studied in a permutation flow shop setting. Several variations of the problem are modeled as (stochastic) mixed-integer programs. In these models, some technical nuances are considered that increase the practicality of the models: having various types of maintenance, combining maintenance activities, and the impact of maintenance on the processing times of the production jobs. The solution methodologies involve studying the solution space of the problems, genetic algorithms, stochastic optimization, multi-objective optimization, and extensive computational experiments. The application of the problems and managerial implications are demonstrated through a case study in the earthmoving operations in construction projects.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4965</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6506&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4965</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6506</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415194</context-key>
+<submission-path>utk_graddiss/4965</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Andrew J. Yu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Reza Abedi, Oleg Shylo, James L. Simonton</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/https://orcid.org/0000-0002-1592-2740</value>
+</field>
+<field name="comments" type="string">
+<value>This is a multi-part dissertations. Contents of Chapters 1 and 2 are previously published in &quot;Computers and Industrial Engineering&quot; and &quot;International Journal of Production Research,&quot; respectively. A version of Chapter 3 is under review in the &quot;European Journal of Operational Research.&quot;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

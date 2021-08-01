@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multiple Resolution Nonparametric Classifiers</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Beck</lname>
+<fname>David</fname>
+<mname>Laurence</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Bayesian discriminant functions provide optimal classification decision boundaries in the sense of minimizing the average error rate. An operational assumption is that the probability density functions for the individual classes are either known &lt;em&gt;a priori &lt;/em&gt;or can be estimated from the data through the use of estimating techniques. The use of Parzen- windows is a popular and theoretically sound choice for such estimation. However, while the minimal average error rate can be achieved when combining Bayes Rule with Parzen-window density estimation, the latter is computationally costly to the point where it may lead to unacceptable run-time performance. We present the Multiple Resolution Nonparametric (MRN) classifier as a new approach for significantly reducing the computational cost of using Parzen-window density estimates without sacrificing the virtues of Bayesian discriminant functions. Performance is evaluated against a standard Parzen-window classifier on several common datasets.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1503</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2945&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1503</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2945</articleid>
+<submission-date>2013-07-26T11:42:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4352092</context-key>
+<submission-path>utk_gradthes/1503</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Michael Thomason</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

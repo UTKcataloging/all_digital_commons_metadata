@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Evaluation of the Cascaded H-Bridge Multilevel Inverter Topology For Direct-Drive Synchronous Wind Farm Applications</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Callison</lname>
+<fname>Gerald</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A key driver in the recent success of wind has been engineering advances that have lead to improved economics. Many of these advances have centered on power electronic converters, which feature a rectifier that converts the uncontrolled alternating current output of a wind generator to direct current, and an inverter, which converts that direct current back to a controlled alternating current synchronized with the power grid to which the wind generator is connected. Most of the inverters on today’s market use the full-bridge topology, which features six power electronic switches per wind turbine. The purpose of this thesis is to investigate if the cascaded H-bridge multilevel inverter offers benefit in terms of improved economics. Potential advantages of the cascaded H-bridge inverter include reduced switch count, improved converter efficiency, and simplified interconnection to the utility. Potential drawbacks include an increase in required power electronic switch ratings and a reduced ability to withstand transient wind conditions. This thesis concludes that certain control schemes can address performance under transient wind (and thus power production) conditions and that improvements in converter efficiency and reduction in switch counts are offset by increased switch requirements. Therefore, any benefit to justify the use of the cascaded H-bridge inverter in wind farms will arise from a simplified point of common connection to the utility.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1521</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2967&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1521</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2967</articleid>
+<submission-date>2013-07-31T12:08:36-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4368798</context-key>
+<submission-path>utk_gradthes/1521</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack S. Lawler, Fangxiang Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

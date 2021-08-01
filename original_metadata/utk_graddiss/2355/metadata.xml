@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Exploratory Data Analysis Approach for Land Use-Transportation Interaction: The Design and Implementation of Transland Spatio-Temporal Data Model</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xin</lname>
+<fname>Xiaohong</fname>
+</author>
+</authors>
+<disciplines><discipline>Geography</discipline>
+</disciplines><abstract>&lt;p&gt;Land use and transportation interaction is a complex and dynamic process.  Many models have been used to study this interaction during the last several decades.  Empirical studies suggest that land use and transportation patterns can be highly variable between geographic areas and at different spatial and temporal scales.  Identifying these changes presents a major challenge.  When we recognize that long-term changes could be affected by other factors such as population growth, economic development, and policy decisions, the challenge becomes even more overwhelming.  Most existing land use and transportation interaction models are based on some prior theories and use mathematical or simulation approaches to study the problem.  However, the literature also suggests that little consensus regarding the conclusions can be drawn from empirical studies that apply these models.  There is a clear research need to develop alternative methods that will allow us to examine the land use and transportation patterns in more flexible ways and to help us identify potential improvements to the existing models.&lt;/p&gt;
+&lt;p&gt;This dissertation presents a spatio-temporal data model that offers exploratory data analysis capabilities to interactively examine the land use and transportation interaction at use-specified spatial and temporal scales.  The spatio-temporal patterns and the summary statistics derived from this interactive exploratory analysis process can be used to help us evaluate the hypotheses and modify the structures used in the existing models.  The results also can suggest additional analyses for a better understanding of land use and transportation interaction.  This dissertation first introduces a conceptual framework for the spatio-temporal data model.  Then, based on a systematic method for explorations of various data sets relevant to land use and transportation interaction, this dissertation details procedures of designing and implementing the spatio-temporal data model.  Finally, the dissertation describes procedures of creating tools for generating the proposed spatio-temporal data model from existing snapshot GIS data sets and illustrate its use by means of exploratory data analysis.&lt;/p&gt;
+&lt;p&gt;Use of the spatio-temporal data model in this dissertation study makes it feasible to analyze spatio-temporal interaction patterns in a more effective and efficient way than the conventional snapshot GIS approach.  Extending Sinton’s measurement framework into a spatio-temporal conceptual interaction framework, on the other hand, provides a systematic means of exploring land use and transportation interaction.  Preliminary experiments of data collected for Dade County (Miami), Florida suggest that the spatio-temporal exploratory data analysis implemented for this dissertation can help transportation planners identify and visualize interaction patterns of land use and transportation by controlling the spatial, attribute, and temporal components.  Although the identified interaction patterns do not necessarily lead to rules that can be applied to different areas, they do provide useful information for transportation modelers to re-evaluate the current model structure to validate the existing model parameters&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2355</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3805&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2355</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3805</articleid>
+<submission-date>2013-10-15T12:37:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4717221</context-key>
+<submission-path>utk_graddiss/2355</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce A. Ralston, Chanaka Edirisinghe, Cheng Liu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>XinXiaohong.zip</archive-name>
+<upload-name>XinXiaohong.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=3805&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

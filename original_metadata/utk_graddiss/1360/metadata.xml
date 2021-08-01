@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Liquid Jet Experiments and Simulations for a Verification and Validation Study</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ltschaep@utk.edu</email>
+<lname>Tschaepe</lname>
+<fname>Lee Paul</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ultrasonic</keyword>
+<keyword>CFD</keyword>
+<keyword>jet</keyword>
+<keyword>verification</keyword>
+<keyword>validation</keyword>
+<keyword>parallel</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The velocity field for two vertical parallel water jets impinging into a large stationary volume of water is mapped using ultrasonic interrogation. Thermal mapping of the vertical parallel water jets at high Reynolds numbers has been performed. The velocity data and associated statistics are related to the measurement volume and the ultrasonic Doppler measurement technique. The data are also compared to the literature for twin jets. The interaction of parallel jets is of interest to liquid metal reactor design. Liquid metal fast reactor (LMFR) coolant enters the bottom of the fuel bundles and exits through the top of the bundles. The power levels are not uniform in the bundles, leading to variation in bundle exit flow temperatures. The flow from the fuel bundles must mix thoroughly in the upper plenum of the reactor, prior to exiting through the hot leg of the reactor. Otherwise temperature variations in the hot leg flow can lead to unacceptable thermal stresses. The thermal-fluid phenomena controlling the mixing from twin jets examined here are similar to those controlling mixing of exit flows from the fuel bundles. Consequently, data from the parallel jet geometry are useful to validate Computational Fluid Dynamic (CFD) codes used for liquid metal reactor design. The water tests provide the opportunity to refine experimental technique, and to qualify the ultrasound instrument prior to deployment in liquid metal experiments. The framework for the validation of proposed LMFR CFD simulations is developed. A literature review of jet theory and the state of CFD verification and validation is performed. Following the literature review, CFD scoping studies are performed to aid the placement of instrumentation, data acquisition planning, and the design of the water test facility. The water test facility was then constructed and ultrasonic velocity measurements were performed to characterize the jet time averaged velocity field and local velocity variation statistics. Mathematical transformation between ultrasonic velocity measurements and CFD predictions are established. The ultrasonic velocity data from this project will be corroborated with optical particle tracking data later in the project. This work is funded by a research grant from the NEUP under DOE.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1360</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2453&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1360</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2453</articleid>
+<submission-date>2012-03-02T16:06:57-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2622280</context-key>
+<submission-path>utk_graddiss/1360</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur E. Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence H. Heilbronn, Belle R. Upadhyaya, Robert W. McAmis, Basil N. Antar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>NEUP_TwinJet_Thermal_Data.zip</archive-name>
+<upload-name>NEUP_TwinJet_Thermal_Data.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2453&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Attached are raw experimental data files and supplemental explanations of the experiments.</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

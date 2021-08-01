@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bit Loading and Peak Average Power Reduction Techniques for Adaptive Orthogonal Frequency Division Multiplexing Systems</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shahri</lname>
+<fname>Jaideep</fname>
+<mname>Rajan</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In a frequency-selective channel a large number of resolvable multipaths are present which lead to the fading of the signal. Orthogonal frequency division multiplexing (OFDM) is well-known to be effective against multipath distortion. It is a multicarrier communication scheme, in which the bandwidth of the channel is divided into subcarriers and data symbols are modulated and transmitted on each subcarrier simultaneously. By inserting guard time that is longer than the delay spread of the channel, an OFDM system is able to mitigate intersymbol interference (ISI).&lt;/p&gt;
+&lt;p&gt;Significant improvement in performance is achieved by adaptively loading the bits on the subcarriers based on the channel state information from the receiver. Imperfect channel state information (CSI) arises from noise at the receiver and also due to the time delay in providing the information to the transmitter for the next data transmission.&lt;/p&gt;
+&lt;p&gt;This thesis presents an investigation into the different adaptive techniques for loading the data bits on the subcarriers. The choice of the loading technique is application specific. The spectral efficiency and the bit error rate (BER) performance of adaptive OFDM as well as the implementation complexity of the different loading algorithms is studied by varying any one of the parameters, data rate or BER or total transmit power subject to the constraints on the other two. A novel bit loading algorithm based on comparing the SNR with the threshold in order to minimize the BER is proposed and its performance for different data rates is plotted.&lt;/p&gt;
+&lt;p&gt;Finally, this thesis presents a method for reducing the large peak to average power ratio (PAPR) problem with OFDM which arises when the sinusoidal signals of the subcarriers add constructively. The clipping and the probabilistic approaches were studied. The probabilistic technique shows comparatively better BER performance as well as reduced PAPR ratio but is more complex to implement.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2200</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3584&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2200</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3584</articleid>
+<submission-date>2013-10-10T07:51:11-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4691944</context-key>
+<submission-path>utk_gradthes/2200</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mostofa K. Howlader</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Daniel B. Koch</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

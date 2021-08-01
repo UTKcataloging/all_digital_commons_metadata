@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Real-time Traffic State Assessment using Multi-source Data</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yliu140@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Liu</lname>
+<fname>Yuandong</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The normal flow of traffic is impeded by abnormal events and the impacts of the events extend over time and space. In recent years, with the rapid growth of multi-source data, traffic researchers seek to leverage those data to identify the spatial-temporal dynamics of traffic flow and proactively manage abnormal traffic conditions. However, the characteristics of data collected by different techniques have not been fully understood. To this end, this study presents a series of studies to provide insight to data from different sources and to dynamically detect real-time traffic states utilizing those data. Speed is one of the three traffic fundamental parameters in traffic flow theory that describe traffic flow states. While the speed collection techniques evolve over the past decades, the average speed calculation method has not been updated. The first section of this study pointed out the traditional harmonic mean-based average speed calculation method can produce erroneous results for probe-based data. A new speed calculation method based on the fundamental definition was proposed instead. The second section evaluated the spatial-temporal accuracy of a different type of crowdsourced data - crowdsourced user reports and revealed Waze user behavior. Based on the evaluation results, a traffic detection system was developed to support the dynamic detection of incidents and traffic queues. A critical problem with current automatic incident detection algorithms (AIDs) which limits their application in practice is their heavy calibration requirements. The third section solved this problem by proposing a selfevaluation module that determines the occurrence of traffic incidents and serves as an autocalibration procedure. Following the incident detection, the fourth section proposed a clustering algorithm to detect the spatial-temporal movements of congestion by clustering crowdsource reports. This study contributes to the understanding of fundamental parameters and expands the knowledge of multi-source data. It has implications for future speed, flow, and density calculation with data collection technique advancements. Additionally, the proposed dynamic algorithms allow the system to run automatically with minimum human intervention thus promote the intelligence of the traffic operation system. The algorithms not only apply to incident and queue detection but also apply to a variety of detection systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5821</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7587&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5821</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7587</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522211</context-key>
+<submission-path>utk_graddiss/5821</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Candace Brakewood, Christopher Cherry, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

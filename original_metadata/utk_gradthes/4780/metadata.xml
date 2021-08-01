@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the Role of Genetic Algorithms in the Pattern Recognition Task of Classification</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>isherman@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Sherman</lname>
+<fname>Isaac</fname>
+<mname>Ben</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Genetic Algorithms</keyword>
+<keyword>Classification</keyword>
+<keyword>Evolutionary Computation</keyword>
+<keyword>Pattern Recognition</keyword>
+<keyword>Machine Learning</keyword>
+<keyword>Bio-Inspired Computation</keyword>
+</keywords>
+<disciplines><discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation we ask, formulate an apparatus for answering, and answer the following three questions: Where do Genetic Algorithms fit in the greater scheme of pattern recognition? Given primitive mechanics, can Genetic Algorithms match or exceed the performance of theoretically-based methods? Can we build a generic universal Genetic Algorithm for classification? To answer these questions, we develop a genetic algorithm which optimizes MATLAB classifiers and a variable length genetic algorithm which does classification based entirely on boolean logic. We test these algorithms on disparate datasets rooted in cellular biology, music theory, and medicine. We then get results from these and compare their confusion matrices. For those unfamiliar with Genetic Algorithms, we include a primer on the subject in chapter 1, and include a literature review and our motivations. In Chapter 2, we discuss the development of the algorithms necessary as well as explore other features necessitated by their existence. In Chapter 3, we share and discuss our results and conclusions. Finally, in Chapter 4, we discuss future directions for the corpus we have developed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4780</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6052&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4780</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6052</articleid>
+<submission-date>2017-04-19T10:12:32-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10041483</context-key>
+<submission-path>utk_gradthes/4780</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce MacLennan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Catherine Schuman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

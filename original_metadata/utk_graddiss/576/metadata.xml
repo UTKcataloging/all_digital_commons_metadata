@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Correction and Optimized Contrast Enhancement of Multi-Line CCD Images</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Zhiyu</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses automated correction and optimized contrast enhancement of multi-line CCD images for inspection and surveillance applications, focusing on three topics: multi-line CCD imaging systems setup, automated correction of multi-line CCD images, and automatic optimized image contrast enhancement.&lt;/p&gt;
+&lt;p&gt;generation, low cost, etc. However, due to the physical separation of line CCD sensors for the red (R), green (G), blue (B) color channel, the color images acquired by multi-line CCD cameras intrinsically exhibit a color misalignment defect, which is expressed as that the edges of objects in the scene are separated by a certain number of pixels in the R, G, B color planes in the scan direction. This defect, if not corrected properly, can severely degrade the quality of multi-line CCD images and hence the applications of multi-line CCD cameras. We developed an algorithm to automatically correct the color misalignment problem in multi-line CCD images.&lt;/p&gt;
+&lt;p&gt;generation, low cost, etc. However, due to the physical separation of line CCD sensors for the red (R), green (G), blue (B) color channel, the color images acquired by multi-line CCD cameras intrinsically exhibit a color misalignment defect, which is expressed as that the edges of objects in the scene are separated by a certain number of pixels in the R, G, B color planes in the scan direction. This defect, if not corrected properly, can severely degrade the quality of multi-line CCD images and hence the applications of multi-line CCD cameras. We developed an algorithm to automatically correct the color misalignment problem in multi-line CCD images.&lt;/p&gt;
+&lt;p&gt;Contrast enhancement plays an important role in image processing applications. Conventional contrast enhancement techniques either often fail to produce satisfactory results for a broad variety of low-contrast images, or cannot be automatically applied to different images, because their processing parameters must be specified manually to produce a satisfactory result for a given image. However, the GLG technique doesn’t have the above drawbacks. The basic procedure of GLG is to first group the histogram components of a low-contrast image into a proper number of bins according to a new image contrast measure developed in this research, Average Pixel Distance on Grayscale (APDG); then remap these bins evenly over the grayscale, and finally ungroup the previously grouped gray-levels. Accordingly, this new technique is named gray-level grouping (GLG). GLG and its variations not only produce results superior to competing contrast enhancement techniques, but are also fully automatic in most circumstances, and are applicable to a broad variety of images.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/576</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1645&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>576</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1645</articleid>
+<submission-date>2010-02-23T10:26:25-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1164846</context-key>
+<submission-path>utk_graddiss/576</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul B. Crilly, Hairong Qi, Frank M. Guess, Andreas Koschan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

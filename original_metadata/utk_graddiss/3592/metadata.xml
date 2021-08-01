@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ARITHMETIC LOGIC UNIT ARCHITECTURES WITH DYNAMICALLY DEFINED PRECISION</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gliang@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liang</lname>
+<fname>Getao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Dynamic Precision</keyword>
+<keyword>Floating-Point</keyword>
+<keyword>ALU</keyword>
+<keyword>SIMD</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Digital Circuits</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Modern central processing units (CPUs) employ arithmetic logic units (ALUs) that support statically defined precisions, often adhering to industry standards. Although CPU manufacturers highly optimize their ALUs, industry standard precisions embody accuracy and performance compromises for general purpose deployment. Hence, optimizing ALU precision holds great potential for improving speed and energy efficiency. Previous research on multiple precision ALUs focused on predefined, static precisions. Little previous work addressed ALU architectures with customized, dynamically defined precision. This dissertation presents approaches for developing dynamic precision ALU architectures for both fixed-point and floating-point to enable better performance, energy efficiency, and numeric accuracy. These new architectures enable dynamically defined precision, including support for vectorization. The new architectures also prevent performance and energy loss due to applying unnecessarily high precision on computations, which often happens with statically defined standard precisions. The new ALU architectures support different precisions through the use of configurable sub-blocks, with this dissertation including demonstration implementations for floating point adder, multiply, and fused multiply-add (FMA) circuits with 4-bit sub-blocks. For these circuits, the dynamic precision ALU speed is nearly the same as traditional ALU approaches, although the dynamic precision ALU is nearly twice as large.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3592</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5006&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3592</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5006</articleid>
+<submission-date>2015-10-08T08:39:12-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7693628</context-key>
+<submission-path>utk_graddiss/3592</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeremy Holleman, Qing Cao, Joshua Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

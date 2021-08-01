@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Comparative Study of the Gas Turbine Simulation Program (GSP) 11 and GasTurb 11 on Their Respective Simulations for a Single-Spool Turbojet</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rsung@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sung</lname>
+<fname>Rayne</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Propulsion</keyword>
+<keyword>Turbojet Engine</keyword>
+<keyword>Thermodynamics</keyword>
+</keywords>
+<disciplines><discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;GasTurb 11 and the Gas Turbine Simulation Program (GSP) 11 are two commercially available gas turbine simulation programs used by industrial professionals and academic researchers throughout the world. The two programs use a pseudo-perfect gas assumption in their calculations, where the specific heat is taken as a function of temperature and gas composition but not pressure. This assumption allows the two programs to make more realistic calculations of gas turbine engine performance. This is in contrast to the ideal and perfect gas assumptions used in classroom calculations. In addition, GasTurb 11 and GSP 11 both utilize component maps, comprised from test data, to model off-design turbojet component behavior. This is different from the referencing technique where off-design performance is calculated based on the ratio of off-design to on-design conditions. This thesis presents a comparative study of the two simulation programs with the traditional ideal-perfect gas calculations and the referencing technique. The scope of the thesis is limited to the turbojet without afterburners.&lt;/p&gt;
+&lt;p&gt;The main focus is on comparing the simulated thrusts and the corresponding fuel flow rates needed to maintain full throttle for different flight conditions. The ratio of fuel flow rate to thrust is by definition the thrust-specific fuel consumption and it is also compared. The thrust-specific fuel consumption is a measurement of the fuel economy of the turbojet engine. The on-design comparisons show that the ideal-perfect gas calculations tend to underestimate the turbojet engine performance as compared to GasTurb 11 and GSP 11. It is also evident that the lower the efficiency of the turbojet components, the greater the discrepancy. With the off-design calculations at a fixed flight Mach number and varying altitudes, the ideal-perfect gas calculations report a more aggressive decrease for thrust and fuel flow rate. At a fixed altitude and varying Mach number, on the other hand, the ideal-perfect gas calculations report a more aggressive increase in thrust and fuel flow rate as compared to GasTurb 11 and GSP 11.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2466</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2897&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2466</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2897</articleid>
+<submission-date>2013-06-21T16:56:11-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4251841</context-key>
+<submission-path>utk_gradthes/2466</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Milt Davis, Basil Antar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

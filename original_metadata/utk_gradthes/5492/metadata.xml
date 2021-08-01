@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improving Manufacturing Data Quality with Data Fusion and Advanced Algorithms for Improved Total Data Quality Management</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>djuriga@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Juriga</lname>
+<fname>David</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Big data</keyword>
+<keyword>Industry 4.0</keyword>
+<keyword>machine learning</keyword>
+<keyword>quality control</keyword>
+<keyword>data quality improvement</keyword>
+<keyword>data fusion</keyword>
+</keywords>
+<abstract>&lt;p&gt;Data mining and predictive analytics in the sustainable-biomaterials industries is currently not feasible given the lack of organization and management of the database structures. The advent of artificial intelligence, data mining, robotics, etc., has become a standard for successful business endeavors and is known as the ‘Fourth Industrial Revolution’ or ‘Industry 4.0’ in Europe. Data quality improvement through real-time multi-layer data fusion across interconnected networks and statistical quality assessment may improve the usefulness of databases maintained by these industries. Relational databases with a high degree of quality may be the gateway for predictive modeling and enhanced business analytics.	Data quality is a key issue in the sustainable bio-materials industry. Untreated data from multiple databases (e.g., sensor data and destructive test data) are generally not in the right structure to perform advanced analytics. Some inherent problems of data from sensors that are stored in data warehouses at millisecond intervals include missing values, duplicate records, sensor failure data (data out of feasible range), outliers, etc. These inherent problems of the untreated data represent information loss and mute predictive analytics. The goal of this data science focused research was to create a continuous real-time software algorithm for data cleaning that automatically aligns, fuses, and assesses data quality for missing fields and potential outliers. The program automatically reduces the variable size, imputes missing values, and predicts the destructive test data for every record in a database. Improved data quality was assessed using 10-fold cross-validation and the normalized root mean square error of prediction (NRMSEP) statistic. 	The impact of outliers and missing data were tested on a simulated dataset with 201 variations of outlier percentages ranging from 0-90% and missing data percentages ranging from 0-90%.  The software program was also validated on a real dataset from the wood composites industry. One result of the research was that the number of sensors needed for accurate predictions are highly dependent on the correlation between independent variables and dependent variables. Overall, the data cleaning software program significantly decreased the NRMSEP ranging from 64% to 12% of quality control variables for key destructive test values (e.g., internal bond, water absorption and modulus of rupture).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5492</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6965&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5492</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6965</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914267</context-key>
+<submission-path>utk_gradthes/5492</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Alexander Petutschnig, Bogdan Bichescu, Terry Liles</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Forestry</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

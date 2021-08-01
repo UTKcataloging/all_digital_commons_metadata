@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Genetic Algorithm for the Vehicle Routing Problem</title>
+<publication-date>1993-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wester</lname>
+<fname>Vickie</fname>
+<mname>Dawn</mname>
+</author>
+</authors>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this research was to develop a version of a genetic algorithm (GA ) which would provide near optimal solutions for Vehicle Routing Problems (VRP) with both time and weight constraints. The genetic algorithm used for the experimentation was adapted from a GA which had been developed by James Bean at the University of Michigan to solve machine scheduling problems. The VRP data sets used in this research were obtained from the literature. Various aspects of the GA were experimented with in order to develop a version which would perform consistently well for all the data sets. The results of the final version of the genetic algorithm were then compared to the results presented in the original papers.&lt;/p&gt;
+&lt;p&gt;The results from this research indicated that the genetic algorithm seems to perform relatively well for smaller problems with 50 or fewer customers. However, the results seem to become progressively worse as the problem becomes larger.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4850</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6358&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4850</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6358</articleid>
+<submission-date>2017-12-06T13:44:55-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>11208747</context-key>
+<submission-path>utk_gradthes/4850</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles E. Noon</value>
+</field>
+<field name="advisor2" type="string">
+<value>ARRAY(0x7f6ff7b01c98)</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1993-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1993-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

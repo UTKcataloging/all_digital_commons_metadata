@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Flow and Transport in Unsaturated Porous Media: Fractal Modeling, Analytical Solutions and Experimentation</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cihan</lname>
+<fname>Abdullah</fname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation consists of five parts, each describing a specific topic of unsaturated flow and transport. The first three parts describe the development of soil hydraulic function models with the effects of partial drainage by using fractal and probabilistic approaches. During drainage of a porous medium, both the pore size distribution and the connectivity of pores determine the drained pore volume as function of suction. New analytical expressions were presented for the water retention (part 1), intrinsic permeability (part 2), and relative permeability (part 3) functions. Predictions based on the analytical models are compared with estimates of the intrinsic permeability (&lt;em&gt;k&lt;/em&gt;) derived from lattice Boltzmann method (LBM) simulations of saturated flow in virtual representations of classical (deterministic) and randomized Menger Sponges. Overall, the analytically predicted &lt;em&gt;k&lt;/em&gt; values matched the &lt;em&gt;k&lt;/em&gt; values from the LBM simulations with less than 14% error for deterministic sponges with minimum pore sizes ranging from 1/3&lt;sup&gt;1&lt;/sup&gt; to 1/3&lt;sup&gt;4&lt;/sup&gt;. We presented a new approach that allows the prediction of relative permeability by direct use of measured water retention data without fitting. This new discrete model describes the drained pore space and permeability at different suctions incorporating the effect of both pore size distribution and connectivity among water-filled pores. We tested the performance of the new model by comparing its predictions of relative permeability to those of van Genuchten-Mualem (VG-M). Overall, the new method (RMSE=0.175, LRMSE=1.101) predicted the measured relative permeability data better than the VG-M model (RMSE=0.216, LRMSE=2.381). Part 4 presents analytical solutions of the advective solute transport in a macropore with simultaneous diffusion into an unbounded soil matrix. We obtained three sets of exact and approximate solutions for various boundary and initial conditions. Part 5 presents a moisture moment method to estimate unsaturated soil hydraulic properties. By analyzing the change in forces of two load cells that suspend either end of a soil column and the inlet water pressure, the unsaturated hydraulic conductivity and water retention functions are obtained. We applied the method to a sandy silt loam and the analyses show the method is promising.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/338</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1395&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>338</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1395</articleid>
+<submission-date>2010-02-12T10:49:45-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1142888</context-key>
+<submission-path>utk_graddiss/338</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John S. Tyner</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ed Perfect, Jaehoon Lee, Randall W. Gentry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/CihanAbdullah.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

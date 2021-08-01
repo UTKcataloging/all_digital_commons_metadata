@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Model Selection Techniques for Kernel-Based Regression Analysis Using Information Complexity Measure and Genetic Algorithms</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Rui</fname>
+</author>
+</authors>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+</disciplines><abstract>&lt;p&gt;In statistical modeling, an overparameterized model leads to poor generalization on unseen data points. This issue requires a model selection technique that appropriately chooses the form, the parameters of the proposed model and the independent variables retained for the modeling. Model selection is particularly important for linear and nonlinear statistical models, which can be easily overfitted.&lt;/p&gt;
+&lt;p&gt;Recently, support vector machines (SVMs), also known as kernel-based methods, have drawn much attention as the next generation of nonlinear modeling techniques. The model selection issues for SVMs include the selection of the kernel, the corresponding parameters and the optimal subset of independent variables. In the current literature, &lt;em&gt;k&lt;/em&gt;-fold cross-validation is the widely utilized model selection method for SVMs by the machine learning researchers. However, cross-validation is computationally intensive since one has to fit the model &lt;em&gt;k&lt;/em&gt; times.&lt;/p&gt;
+&lt;p&gt;This dissertation introduces the use of a model selection criterion based on information complexity (ICOMP) measure for kernel-based regression analysis and its applications. ICOMP penalizes both the lack-of-fit and the complexity of the model to choose the optimal model with good generalization properties. ICOMP provides a simple index for each model and does not require any validation data. It is computationally efficient and it has been successfully applied to various linear model selection problems. In this dissertation, we introduce ICOMP to the nonlinear kernel-based modeling areas. Specifically, this dissertation proposes ICOMP and its various forms in the area of kernel ridge regression; kernel partial least squares regression; kernel principal component analysis; kernel principal component regression; relevance vector regression; relevance vector logistic regression and classification problems. The model selection tasks achieved by our proposed criterion include choosing the form of the kernel function, the parameters of the kernel function, the ridge parameter, the number of latent variables, the number of principal components and the optimal subset of input variables in a simultaneous fashion for intelligent data mining.&lt;/p&gt;
+&lt;p&gt;The performance of the proposed model selection method is tested on simulation bench- mark data sets as well as real data sets. The predictive performance of the proposed model selection criteria are comparable to and even better than cross-validation, which is too costly to compute and not efficient.&lt;/p&gt;
+&lt;p&gt;This dissertation combines the Genetic Algorithm with ICOMP in variable subsetting, which significantly decreases the computational time as compared to the exhaustive search of all possible subsets. GA procedure is shown to be robust and performs well in our repeated simulation examples.&lt;/p&gt;
+&lt;p&gt;Therefore, this dissertation provides researchers an alternative computationally efficient model selection approach for data analysis using kernel methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/197</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1243&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>197</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1243</articleid>
+<submission-date>2010-02-01T10:36:12-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127576</context-key>
+<submission-path>utk_graddiss/197</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mary Leitnaker, Myong K. Jeong, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/ZhangRui.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

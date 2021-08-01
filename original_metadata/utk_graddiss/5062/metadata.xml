@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neutron Detection and Imaging Development of Lithium Indium Diselenide for Applications in Solid-State Devices</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eherrera@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Herrera</lname>
+<fname>Elan</fname>
+<mname>Hunter</mname>
+</author>
+</authors>
+<keywords>
+<keyword>lithium indium diselenide</keyword>
+<keyword>neutron detection</keyword>
+<keyword>neutron imaging</keyword>
+<keyword>radiography</keyword>
+<keyword>semiconductor detector</keyword>
+</keywords>
+<abstract>&lt;p&gt;This work demonstrates the neutron sensitivity of single crystal lithium indium diselenide (LiInSe&lt;sub&gt;2&lt;/sub&gt; or LISe [lithium indium diselenide]). The study aimed to design and characterize a neutron imaging system capable of achieving spatial resolution less than 50 μm [micrometer], operating as a first of its kind direct conversion semiconductor neutron detector. Early detection experiments utilized lithium-6 indium diselenide, enriched to 95% in &lt;sup&gt;6&lt;/sup&gt;Li [lithium-6], following the experimental investigation of enriched chalcopyrites for semiconductor detection. In this work, lithium indium diselenide (LISe) interchangeably refers to its isotopically enriched complement (&lt;sup&gt;6&lt;/sup&gt;LiInSe&lt;sub&gt;2&lt;/sub&gt; or &lt;sup&gt;6&lt;/sup&gt;LISe [lithium-6 indium diselenide]). The primary detection mechanism follows the &lt;sup&gt;6Li(n, α)&lt;sup&gt;3&lt;/sup&gt;H [lithium-6, neutron, alpha, hydrogen-3] reaction, with a Q-value of 4.78MeV. The proof-of-concept detector consisted of a single LISe crystal patterned with thin film gold contacts on opposite surfaces. After showing a semiconductor response to both alpha particles (α’s) and mixed neutron spectrum, the technology was extended to a 4×4 pixel detector using square pixels of 500 μm size and 550 μm pitch. Using the super-sampling technique, this system successfully resolved features of 300 μm, roughly half the pixel pitch, in a cold neutron beam. Concurrently in the study, higher optical quality LISe sensors demonstrated a scintillation response to neutron exposure. An array of scintillating LISe sensors achieved a resolution of 34 μm, calculated via modulation transfer function (MTF), and were used to reconstruct a neutron computed tomography (nCT) of a small biological sample. Bolstering these results, a semiconducting LISe sensor was patterned with the 55 μm pitch pattern, derived from the 256×256 channel Timepix. The Timepix coupled LISe imager (LISePix) completed the groundwork for the detector as a high-resolution neutron imager, surpassing the design goal with a published spatial resolution limit of 34 μm (full width at half maximum (FWHM) of 111 μm) for LISe. This project has demonstrated the first application of direct conversion semiconductors for neutron detection and imaging, while qualifying a viable neutron detection material for solid-state devices. The LISePix imaging technology offers a low-cost, low-power, compact neutron detection platform comparable to state-of-the-art neutron imaging technologies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5062</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6603&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5062</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6603</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415480</context-key>
+<submission-path>utk_graddiss/5062</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Eric D. Lukosi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mongi Al Abidi, Hassina Z. Bilheux, Jamie B. Coble, Jason P. Hayward</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-3819-0757</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

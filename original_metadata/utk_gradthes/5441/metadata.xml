@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A CNN-LSTM for predicting mortality in the ICU</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mkhan26@uthsc.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Khan</lname>
+<fname>Mohammad</fname>
+<mname>Hashir</mname>
+</author>
+</authors>
+<keywords>
+<keyword>deep learning</keyword>
+<keyword>neural networks</keyword>
+<keyword>mortality prediction</keyword>
+<keyword>text classification</keyword>
+</keywords>
+<abstract>&lt;p&gt;An accurate predicted mortality is crucial to healthcare as it provides an empirical risk estimate for prognostic decision making, patient stratification and hospital benchmarking. Current prediction methods in practice are severity of disease scoring systems that usually involve a fixed set of admission attributes and summarized physiological data. These systems are prone to bias and require substantial manual effort which necessitates an updated approach which can account for most shortcomings. Clinical observation notes allow for recording highly subjective data on the patient that can possibly facilitate higher discrimination. Moreover, deep learning models can automatically extract and select features without human input.This thesis investigates the potential of a combination of a deep learning model and notes for predicting mortality with a higher accuracy. A custom architecture, called CNN-LSTM, is conceptualized for mapping multiple notes compiled in a hospital stay to a mortality outcome. It employs both convolutional and recurrent layers with the former capturing semantic relationships in individual notes independently and the latter capturing temporal relationships between concurrent notes in a hospital stay. This approach is compared to three severity of disease scoring systems with a case study on the MIMIC-III dataset. Experiments are set up to assess the CNN-LSTM for predicting mortality using only the notes from the first 24, 12 and 48 hours of a patient stay. The model is trained using K-fold cross-validation with k=5 and the mortality probability calculated by the three severity scores on the held-out set is used as the baseline. It is found that the CNN-LSTM outperforms the baseline on all experiments which serves as a proof-of-concept of how notes and deep learning can better outcome prediction.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5441</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6849&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5441</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6849</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528573</context-key>
+<submission-path>utk_gradthes/5441</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

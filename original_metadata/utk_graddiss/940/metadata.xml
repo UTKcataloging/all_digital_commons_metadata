@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A MULTI-COMMODITY NETWORK FLOW APPROACH FOR SEQUENCING REFINED PRODUCTS IN PIPELINE SYSTEMS</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>racostaa@utk.edu</email>
+<lname>Acosta Amado</lname>
+<fname>Rolando</fname>
+<mname>José</mname>
+</author>
+</authors>
+<keywords>
+<keyword>distribution of refined products</keyword>
+<keyword>1-0 multi commodity network flows</keyword>
+<keyword>branch and bound</keyword>
+</keywords>
+<disciplines><discipline>Operational Research</discipline>
+</disciplines><abstract>&lt;p&gt;In the oil industry, there is a special class of pipelines used for the transportation of refined products. The problem of sequencing the inputs to be pumped through this type of pipeline seeks to generate the optimal sequence of batches of products and their destination as well as the amount of product to be pumped such that the total operational cost of the system, or another operational objective, is optimized while satisfying the product demands according to the requirements set by the customers. This dissertation introduces a new modeling approach and proposes a solution methodology for this problem capable of dealing with the topology of all the scenarios reported in the literature so far.&lt;/p&gt;
+&lt;p&gt;The system representation is based on a 1-0 multi commodity network flow formulation that models the dynamics of the system, including aspects such as conservation of product flow constraints at the depots, travel time of products from the refinery to their depot destination and what happens upstream and downstream the line whenever a product is being received at a given depot while another one is being injected into the line at the refinery. It is assumed that the products are already available at the refinery and their demand at each depot is deterministic and known beforehand. The model provides the sequence, the amounts, the destination and the trazability of the shipped batches of different products from their sources to their destinations during the entire horizon planning period while seeking the optimization of pumping and inventory holding costs satisfying the time window constraints.&lt;/p&gt;
+&lt;p&gt;A survey for the available literature is presented. Given the problem structure, a decomposition based solution procedure is explored with the intention of exploiting the network structure using the network simplex method. A branch and bound algorithm that exploits the dynamics of the system assigning priorities for branching to a selected set of variables is proposed and its computational results for the solution, obtained via GAMS/CPLEX, of the formulation for random instances of the problem of different sizes are presented. Future research directions on this field are proposed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/940</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2041&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>940</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2041</articleid>
+<submission-date>2010-11-30T16:00:37-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1666421</context-key>
+<submission-path>utk_graddiss/940</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Alberto Garcia</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chanaka Edirisinghe, Xiaoyan Zhu, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

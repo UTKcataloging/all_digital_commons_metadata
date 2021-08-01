@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Measuring Coexisting Densities from a Two-Phase Molecular Dynamics Simulation by Voronoi Tessellations</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fern</lname>
+<fname>Jared</fname>
+<mname>T.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Steele</lname>
+<fname>William</fname>
+<mname>V.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A new algorithm is presented that allows for the determination of bulk liquid and vapor densities from a two-phase Molecular Dynamics (2φMD) simulation. This new method does not use any arbitrary cutoffs for phase definitions; rather it uses single-phase simulations as a self-consistency check. The method does not use any spatial bins for generating histograms of local properties, thereby avoiding the statistical issues associated with bins. Finally, it allows one to approach very close to the critical point. The new method utilizes Voronoi tessellations to determine the molecular volume of every point at every instance in a molecular dynamics simulation. Since the molecular volume is calculated throughout the simulation, statistical parameters such as the average molecular volume and average molecular variance are easy to obtain. To define the phases, the normalized variance of the molecular volume from 1φMD and 2φMD is used as a self-consistency check. The new method gives new insight into the nature of the near-subcritical fluid. The critical properties from this analysis are T&lt;sub&gt;c&lt;/sub&gt; = 1.293 and ρ&lt;sub&gt;c&lt;/sub&gt; = 0.313. Direct simulation of the two-phase system was performed up to a temperature of 1.292. The results show excellent agreement to experimental results and Gibbs Ensemble Monte Carlo for coexisting densities. We see that well below the critical temperature, some particles are neither liquid nor vapor. These interfacial particles are primarily, but not exclusively, concentrated at the bulk interface. However, as we approach the critical point, some particles are considered both liquid and vapor. These interfacial particles are distributed through the system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/11</coverpage-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1011</articleid>
+<submission-date>2010-05-19T08:11:43-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1319170</context-key>
+<submission-path>utk_chembiopubs/11</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Copyright (2007) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Fern Jared T., Keffer David J., Steele William V. (2007). Measuring Coexisting Densities from a Two-Phase Molecular Dynamics Simulation by Voronoi Tessellations. The Journal of Physical Chemistry B,  111 (13), 3469-3475</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-19T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://pubs.acs.org/doi/abs/10.1021/jp0674470?prevSearch=%255Bauthor%253A%2Bkeffer%255D&amp;searchHistoryKey=</value>
+</field>
+</fields>
+</document>
+</documents>

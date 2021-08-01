@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scalable Techniques for Fault Tolerant High Performance Computing</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Zizhong</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;As the number of processors in today’s parallel systems continues to grow, the mean-time-to-failure of these systems is becoming significantly shorter than the execu- tion time of many parallel applications. It is increasingly important for large parallel applications to be able to continue to execute in spite of the failure of some components in the system. Today’s long running scientific applications typically tolerate failures by checkpoint/restart in which all process states of an application are saved into stable storage periodically. However, as the number of processors in a system increases, the amount of data that need to be saved into stable storage increases linearly. Therefore, the classical checkpoint/restart approach has a potential scalability problem for large parallel systems.&lt;/p&gt;
+&lt;p&gt;In this research, we explore scalable techniques to tolerate a small number of process failures in large scale parallel computing. The goal of this research is to develop scalable fault tolerance techniques to help to make future high performance computing appli- cations self-adaptive and fault survivable. The fundamental challenge in this research is scalability. To approach this challenge, this research (1) extended existing diskless checkpointing techniques to enable them to better scale in large scale high performance computing systems; (2) designed checkpoint-free fault tolerance techniques for linear al- gebra computations to survive process failures without checkpoint or rollback recovery; (3) developed coding approaches and novel erasure correcting codes to help applications to survive multiple simultaneous process failures. The fault tolerance schemes we introduce in this dissertation are scalable in the sense that the overhead to tolerate a failure of a fixed number of processes does not increase as the number of total processes in a parallel system increases.&lt;/p&gt;
+&lt;p&gt;Two prototype examples have been developed to demonstrate the effectiveness of our techniques. In the first example, we developed a fault survivable conjugate gradi- ent solver that is able to survive multiple simultaneous process failures with negligible overhead. In the second example, we incorporated our checkpoint-free fault tolerance technique into the ScaLAPACK/PBLAS matrix-matrix multiplication code to evaluate the overhead, survivability, and scalability. Theoretical analysis indicates that, to sur- vive a fixed number of process failures, the fault tolerance overhead (without recovery) for matrix-matrix multiplication decreases to zero as the total number of processes (as- suming a fixed amount of data per process) increases to infinity. Experimental results demonstrate that the checkpoint-free fault tolerance technique introduces surprisingly low overhead even when the total number of processes used in the application is small.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1654</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3173&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1654</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3173</articleid>
+<submission-date>2013-08-01T10:40:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4374173</context-key>
+<submission-path>utk_graddiss/1654</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Shriley Moore, Ohannes Karakashian</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

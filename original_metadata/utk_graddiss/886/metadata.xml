@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Pin-Wise Loading Optimization and Lattice–to-Core Coupling for Isotopic Management in Light Water Reactors</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hhernand@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hernandez Noyola</lname>
+<fname>Hermilo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Minor Actinides Recycling</keyword>
+<keyword>Light Water Reactors</keyword>
+<keyword>Lattice optimization</keyword>
+<keyword>Simulated Annealing</keyword>
+<keyword>Lattice to core coupling</keyword>
+<keyword>Nuclear Reactor Physics</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A generalized software capability has been developed for the pin-wise loading optimization of light water reactor (LWR) fuel lattices with the enhanced flexibility of control variables that characterize heterogeneous or blended target pins loaded with non-standard compositions, such as minor actinides (MAs). Furthermore, this study has developed the software coupling to evaluate the performance of optimized lattices outside their reflective boundary conditions and within the realistic three-dimensional core-wide environment of a LWR.&lt;/p&gt;
+&lt;p&gt;The illustration of the methodologies and software tools developed helps provide a deeper understanding of the behavior of optimized lattices within a full core environment. The practical applications include the evaluation of the recycling (destruction) of “undesirable” minor actinides from spent nuclear fuel such as Am-241 in a thermal reactor environment, as well as the timely study of planting Np-237 (blended NpO2 + UO2) targets in the guide tubes of typical commercial pressurized water reactor (PWR) bundles for the production of Pu-238, a highly “desirable” radioisotope used as a heat source in radioisotope thermoelectric generators (RTGs).  Both of these applications creatively stretch the potential utility of existing commercial nuclear reactors into areas historically reserved to research or hypothetical next-generation facilities.&lt;/p&gt;
+&lt;p&gt;In an optimization sense, control variables include the loadings and placements of materials; U-235, burnable absorbers, and MAs (Am-241 or Np-237), while the objective functions are either the destruction (minimization) of Am-241 or the production (maximization) of Pu-238.  The constraints include the standard reactivity and thermal operational margins of a commercial nuclear reactor.  Aspects of the optimization, lattice-to-core coupling, and tools herein developed were tested in a concurrent study (Galloway, 2010) in which heterogeneous lattices developed by this study were coupled to three-dimensional boiling water reactor (BWR) core simulations and showed incineration rates of Am-241 targets of around 90%.  This study focused primarily upon PWR demonstrations, whereby a benchmarked reference equilibrium core was used as a test bed for MA-spiked lattices and was shown to satisfy standard PWR reactivity and thermal operational margins while exhibiting consistently high destruction rates of Am-241 and Np to Pu conversion rates of approximately 30% for the production of Pu-238.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/886</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1957&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>886</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1957</articleid>
+<submission-date>2010-08-17T11:53:43-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1452833</context-key>
+<submission-path>utk_graddiss/886</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin T. Clarno, Thomas Papenbrock, Lawrence H. Heilbronn</value>
+</field>
+<field name="comments" type="string">
+<value>An original lattice to core coupling technique based in the feedback information of loading pin-by-pin optimized bundles loaded with minor actinides in a core wide environment for light water reactors.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

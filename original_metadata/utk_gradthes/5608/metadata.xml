@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fission Gas Behavior in Nuclear Fuels</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aalfadhi@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Alani</lname>
+<fname>Abdullah</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The purpose of this thesis is to provide an overview of fission gas behavior in nuclear fuels, specifically Xe and Kr gas bubble evolution in UO2. This is important due to the fact that the diffusion of these noble gases and their precipitation directly affect fuel swelling and gas release to the fuel rod plenum, which impacts fuel performance. The mechanisms of how fission gas bubbles are formed in the fuel and fission gas release are discussed in three stages—Xe and Kr diffusion and trapping by intra-granular bubbles, followed by bubble nucleation and coalescence on grain faces, and finally the escape/release of fission gas through the interconnected grain boundaries. Intra-granular fission gas bubble evolution is investigated in this research, to provide a better understanding of their behavior in order to eventually devise a more accurate model that better agrees with experimental data. The proposed approach to construct a new model includes using the Xolotl-Fission code, which serves as a solver for reaction-diffusion equations and incorporates atomistic mechanisms. The parameters used in Xolotl are based on previous studies that are thoroughly investigated in the background section of the thesis. Some of the experiments mentioned in the literature review, such as temperature sensitivity analysis and annealing experiments, are replicated using Xolotl. The results are then compared to the experimental data and then provide feedback for the development and improvement of Xolotl or, if accurate, confirm the results of the experiments. Current results show that calculations obtained utilizing Xolotl underestimate the average number density of bubbles, while overestimating the average radius of bubbles compared to literature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5608</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7142&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5608</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7142</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539108</context-key>
+<submission-path>utk_gradthes/5608</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian Wirth</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Heilbronn, G. Ivan Maldonado, Steven Zinkle</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

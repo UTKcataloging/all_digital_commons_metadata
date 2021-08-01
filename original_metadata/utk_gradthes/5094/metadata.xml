@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ANALYSIS OF TRANSITIONAL SHOCKWAVE BOUNDARY LAYER INTERACTIONS USING ADVANCED RANS-BASED MODELING</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>btester@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Tester</lname>
+<fname>Bradley</fname>
+<mname>Wayne</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In this work, a series of Reynolds averaged Navier-Stokes (RANS)-based computational fluid dynamics (CFD) simulations are presented to investigate the upstream region of a laminar-turbulent transitional shockwave boundary layer interaction. RANS and delayed detached eddy simulation (DDES) methods are employed using the Spalart-Allmaras (SA) turbulence model in conjunction with a quadratic constitutive relation (QCR), with and without the amplification factor transport transition model. Neither fully turbulent (SA-QCR) nor transitional (SA-QCR-AFT) RANS simulations met machine-zero-level because the simulations displayed unsteadiness inherit to the solution. Initial DDES simulations displayed the oscillatory behavior present in experimental data but, upon further inspection, found disturbances propagating from an upstream overset boundary. DDES simulations using a modified grid system did not exhibit any oscillatory behavior but provided further detail within the separation region. All the CFD simulations showed good agreement with experimental data, but SA-QCR cases did not predict an upstream-influence shock. The RANS simulations under-predicted the UI shock location while the DDES simulations over-predicted the separation shock and triple-point height locations in comparison to experimental data. A single large vortex in the upstream region is captured by the RANS simulations while two vortices are present in the DDES simulations. Analysis of the flowfield consists of velocity profiles, surface pressure measurements, and surface skin frictions to locate regions of separation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5094</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6501&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5094</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6501</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414875</context-key>
+<submission-path>utk_gradthes/5094</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James G. Coder</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Ryan S. Glasby, John D. Schmisseur</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

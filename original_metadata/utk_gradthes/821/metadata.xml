@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Concept for Next Generation Phasor Measurement: A Low-Cost, Self-Contained, and Wireless Design</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>milleraloha@yahoo.com</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Miller</lname>
+<fname>Brian</fname>
+<mname>Ray</mname>
+</author>
+</authors>
+<keywords>
+<keyword>phasor</keyword>
+<keyword>PMU</keyword>
+<keyword>power</keyword>
+<keyword>smart grid</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Phasor measurement is a growth technology in the power grid industry.  With new funding, grid reliability concerns, and power capacity margin motivating a smart grid transformation, phasor measurement and smart metering are taking center stage as the implementation methods for grid intelligence.  This thesis proposes a novel concept for designing a next generation phasor measurement unit.&lt;/p&gt;
+&lt;p&gt;The present generation phasor measurement unit relies upon venerable existing current and voltage transducer technology that is expensive, bulky, and not well suited to the modern age of digital and computerized control signals.  Also, the rising proliferation of installed phasor measurement units will soon result in data overload and huge obligations for network bandwidth and processing centers.  This brute-force approach is ill-advised.  Forward thinking is required to foresee the future grid, its fundamental operation, and its sensor controller needs.  A reasonably safe assumption is a future grid containing sensors numbering in the thousands or millions.  This number of sensors cannot transmit raw data over the network without requiring enormous network capacity and data center processing power.&lt;/p&gt;
+&lt;p&gt;This thesis proposes a novel concept—combining existing technologies such as improved current transducers and wireless precision time protocols to design a next generation phasor measurement unit.  The unit is entirely self-contained.  It requires no external connections due to inclusion of high performance transducers, processor, wireless radio, and even energy harvesting components.  With easy, safe, and low cost installation, proliferation of thousands or millions of sensors becomes feasible.  Also, with a scalable sensor network containing thousands or millions of parallel distributed processors, data reduction and processing within the network relieves the need for high bandwidth data transmission or supercomputing data centers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/821</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1911&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>821</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1911</articleid>
+<submission-date>2010-11-19T07:34:06-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1649603</context-key>
+<submission-path>utk_gradthes/821</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Yilu Liu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

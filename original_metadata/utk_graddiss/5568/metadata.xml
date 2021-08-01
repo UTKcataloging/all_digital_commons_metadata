@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modern Power System Dynamic Performance Improvement through Big Data Analysis</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>withdrawn</state>
+<authors>
+<author>
+<email>ywang139@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Wang</lname>
+<fname>Yajun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power system dynamics</keyword>
+<keyword>big data analysis</keyword>
+<keyword>inertia distribution</keyword>
+<keyword>energy storage system</keyword>
+<keyword>power system stability</keyword>
+</keywords>
+<abstract>&lt;p&gt;Higher penetration of Renewable Energy (RE) is causing generation uncertainty and reduction of system inertia for the modern power system. This phenomenon brings more challenges on the power system dynamic behavior, especially the frequency oscillation and excursion, voltage and transient stability problems. This dissertation work extracts the most useful information from the power system features and improves the system dynamic behavior by big data analysis through three aspects: inertia distribution estimation, actuator placement, and operational studies.First of all, a pioneer work for finding the physical location of COI in the system and creating accurate and useful inertia distribution map is presented. Theoretical proof and dynamic simulation validation have been provided to support the proposed method for inertia distribution estimation based on measurement PMU data. Estimation results are obtained for a radial system, a meshed system, IEEE 39 bus-test system, the Chilean system, and a real utility system in the US. Then, this work provided two control actuator placement strategy using measurement data samples and machine learning algorithms. The first strategy is for the system with single oscillation mode. Control actuators should be placed at the bus that are far away from the COI bus. This rule increased damping ratio of eamples systems up to 14\% and hugely reduced the computational complexity from the simulation results of the Chilean system. The second rule is created for system with multiple dynamic problems. General and effective guidance for planners is obtained for IEEE 39-bus system and IEEE 118-bus system using machine learning algorithms by finding the relationship between system most significant features and system dynamic performance. Lastly, it studied the real-time voltage security assessment and key link identification in cascading failure analysis. A proposed deep-learning framework has Achieved the highest accuracy and lower computational time for real-time security analysis. In addition, key links are identified through distance matrix calculation and probability tree generation using 400,000 data samples from the Western Electricity Coordinating Council (WECC) system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5568</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7214&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5568</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7214</articleid>
+<submission-date>2020-08-13T18:48:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911437</context-key>
+<withdrawn>2020-08-16</withdrawn>
+<submission-path>utk_graddiss/5568</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Héctor Pulgar-Painemal</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Hairong Qi, Russell Zaretzki</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-8430-9210</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

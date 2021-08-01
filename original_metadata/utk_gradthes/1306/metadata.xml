@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analog Testing, Characterization, and Low-Order Model Extraction using LabVIEW Automation</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbrantl9@utk.edu</email>
+<lname>Brantley</lname>
+<fname>Jeremy</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Labview</keyword>
+<keyword>Characterization</keyword>
+<keyword>Model Extraction</keyword>
+<keyword>Automation</keyword>
+</keywords>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Testing circuits is a hands-on, time intensive process; it is also one of the most important steps in a design cycle. The most well designed circuit is only an academic exercise if it does not work in real life. The time and cost associated with bench level testing pales in comparison to testing for extreme environments. Testing in extreme heat, cold or radiation introduces a large set of challenges that are rarely encountered in standard bench level testing. The two most pronounced problems are the inaccessibility of the devices under test and time constraints, both short and protracted. Due to the physical properties of devices and circuits there is a short window in which all testing must be conducted for each incremental step during extreme environment tests. This time requirement does not present a significant challenge when testing a single circuit or device, but the cost associated with this testing is enough to encourage a more efficient method.&lt;/p&gt;
+&lt;p&gt;The primary goal of this work is to reduce the time required to perform tests through the use of automation and parallel test schemes. The automation software chosen for this project was LabVIEW. LabVIEW is a graphical based programming language with an extensive library of functions for interfacing with test instrumentation. Due to the graphical nature of this language, display of measurement data is essentially a byproduct of the program. This allowed for confirmation of proper operation and immediate rectification if a problem was discovered.&lt;/p&gt;
+&lt;p&gt;This paper will cover the key parameters of common devices and circuits, methods for extracting these parameters from other prevailing effect, and methods for automating these tests through the use of computer based tools such as LabVIEW.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1306</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2422&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1306</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2422</articleid>
+<submission-date>2012-06-19T20:58:25-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2422/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>3007474</context-key>
+<submission-path>utk_gradthes/1306</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kamrul Islam, Charles Britton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

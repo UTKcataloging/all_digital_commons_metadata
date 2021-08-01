@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Latent Semantic Indexing of PubMed abstracts for identification of transcription factor candidates from microarray derived gene sets</title>
+<publication-date>2011-10-18T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Memphis</institution>
+<lname>Roy</lname>
+<fname>Sujoy</fname>
+</author>
+<author>
+<institution>Computable Genomix</institution>
+<lname>Heinrich</lname>
+<fname>Kevin</fname>
+</author>
+<author>
+<institution>University of Memphis</institution>
+<lname>Phan</lname>
+<fname>Vinhthuy</fname>
+</author>
+<author>
+<email>berry@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Berry</lname>
+<fname>Michael</fname>
+<mname>W.</mname>
+</author>
+<author>
+<institution>University of Memphis</institution>
+<lname>Homayouni</lname>
+<fname>Ramin</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Identification of transcription factors (TFs) responsible for modulation of differentially expressed genes is a key step in deducing gene regulatory pathways. Most current methods identify TFs by searching for presence of DNA binding motifs in the promoter regions of co-regulated genes. However, this strategy may not always be useful as presence of a motif does not necessarily imply a regulatory role. Conversely, motif presence may not be required for a TF to regulate a set of genes. Therefore, it is imperative to include functional (biochemical and molecular) associations, such as those found in the biomedical literature, into algorithms for identification of putative regulatory TFs that might be explicitly or implicitly linked to the genes under investigation.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;In this study, we present a Latent Semantic Indexing (LSI) based text mining approach for identification and ranking of putative regulatory TFs from microarray derived differentially expressed genes (DEGs). Two LSI models were built using different term weighting schemes to devise pair-wise similarities between 21,027 mouse genes annotated in the Entrez Gene repository. Amongst these genes, 433 were designated TFs in the TRANSFAC database. The LSI derived TF-to-gene similarities were used to calculate TF literature enrichment p-values and rank the TFs for a given set of genes. We evaluated our approach using five different publicly available microarray datasets focusing on TFs &lt;em&gt;Rel&lt;/em&gt;, &lt;em&gt;Stat6&lt;/em&gt;, &lt;em&gt;Ddit3&lt;/em&gt;, &lt;em&gt;Stat5&lt;/em&gt; and &lt;em&gt;Nfic&lt;/em&gt;. In addition, for each of the datasets, we constructed gold standard TFs known to be functionally relevant to the study in question. Receiver Operating Characteristics (ROC) curves showed that the log-entropy LSI model outperformed the &lt;em&gt;tf&lt;/em&gt;-normal LSI model and a benchmark co-occurrence based method for four out of five datasets, as well as motif searching approaches, in identifying putative TFs.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Our results suggest that our LSI based text mining approach can complement existing approaches used in systems biology research to decipher gene regulatory networks by providing putative lists of ranked TFs that might be explicitly or implicitly associated with sets of DEGs derived from microarray experiments. In addition, unlike motif searching approaches, LSI based approaches can reveal TFs that may indirectly regulate genes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/5</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1008&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1008</articleid>
+<submission-date>2013-07-10T14:30:12-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4302740</context-key>
+<submission-path>utk_elecpubs/5</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2011, 12(Suppl 10):S19 doi:10.1186/1471-2105-12-S10-S19</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-10T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-10-18T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

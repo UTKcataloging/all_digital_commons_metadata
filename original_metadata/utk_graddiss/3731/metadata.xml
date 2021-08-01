@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bayesian-based Methods for Transitioning Between Prognostic Estimates to Leverage Available Data</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>anam@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nam</lname>
+<fname>Alan</fname>
+<mname>Y.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>lifecycle</keyword>
+<keyword>prognostics</keyword>
+<keyword>Bayes</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The availability of failure data directly impacts the empirical prognostic models that can be built. In turn, these models impact the accuracy and uncertainty of remaining useful life (RUL) estimates of systems and components. While ideally a large amount of data of previous failure modes can be collected, the difficulty in obtaining such data can present a significant hurdle. To alleviate the constraints of limited data, Bayesian-based methods of transitioning between different prognostic models were developed. This updating scheme leverages existing data in order to create a unified estimate.&lt;/p&gt;
+&lt;p&gt;Two novel methods of transitioning are proposed to augment existing prognostic models. The first is the RUL update. This method combines two or more RUL distributions into a posterior RUL using Bayes formula. The RUL regression transition can be used with the general path model (GPM). The GPM uses linear regression to extrapolate to future states of a degrading system. The use of transitions are variations on this regression theme. The RUL regression model is a weighted total least squares regression model that accounts for observation errors in both the RUL and degradation threshold uncertainties.&lt;/p&gt;
+&lt;p&gt;A third method, while not a transition, improves the basic GPM. The coefficient update applies Bayes rule on the linear regression coefficient estimates using a prior population of coefficients.&lt;/p&gt;
+&lt;p&gt;These three methods were validated on two datasets: a simulated set of 24 signals and data from a heat exchanger test bed. The best models were found to decrease the root mean squared error by 76% and 39%. The use of any transition lowered the prediction errors over the lifecycle of each test case.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3731</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5012&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3731</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5012</articleid>
+<submission-date>2015-10-08T13:21:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7696490</context-key>
+<submission-path>utk_graddiss/3731</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie Coble, Belle Upadhyaya, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

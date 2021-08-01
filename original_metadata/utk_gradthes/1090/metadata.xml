@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Thermocouple Temperature Measurements for Twin Jet Thermal Mixing</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>speters8@utk.edu</email>
+<lname>Peters</lname>
+<fname>Spero Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>NEUP</keyword>
+<keyword>twin jet mixing</keyword>
+<keyword>jet thermal mixing</keyword>
+<keyword>thermocouple measurements</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+<discipline>Other Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Thermocouples are commonly used devices for temperature measurement.  This study concerns the implementation of thermocouples to collect thermal mixing data in an environment in which two parallel water jets are mixing.  The measurements are taken with the purpose of modeling the jet mixing region so that Computational Fluid Dynamics (CFD) models can be validated against the test data.  This thesis covers the design, construction, implementation and evaluation of a thermocouple system for immersion in a water environment to measure the thermal mixing of twin jets.&lt;/p&gt;
+&lt;p&gt;The measurement system being used is a thermocouple rake whose design and fabrication is covered.  Thermocouple single effects tests, providing conclusions on time response, calibration, and signal filtering are included as well.  The implantation of the thermocouple rake in a water test environment is discussed in detail such that the experimental process can be repeated.  The rake is used to provide thermal data taken along the jet centerline, which is post processed, and presented.  Conclusions are drawn based upon average temperature profiles and time based temperature data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1090</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2229&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1090</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2229</articleid>
+<submission-date>2011-11-18T06:46:14-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2357832</context-key>
+<submission-path>utk_gradthes/1090</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur E. Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle R. Upadhyaya, Lawrence H. Heilbronn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>NEUP_TwinJet_Thermal_Data.zip</archive-name>
+<upload-name>NEUP_TwinJet_Thermal_Data.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2229&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>NEUP twin jet data, excel and .csv files, each directory has a notes file relating describing  the data acquisition details</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

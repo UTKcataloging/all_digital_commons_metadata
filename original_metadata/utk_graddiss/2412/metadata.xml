@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mitigation of Catastrophic Interference in Neural Networks and Ensembles using a Fixed Expansion Layer</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rcoop@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Coop</lname>
+<fname>Robert</fname>
+<mname>Austin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>machine learning</keyword>
+<keyword>neural network</keyword>
+<keyword>catastrophic interference</keyword>
+<keyword>non-stationary</keyword>
+<keyword>concept drift</keyword>
+</keywords>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Catastrophic forgetting (also known in the literature as catastrophic interference) is the phenomenon by which learning systems exhibit a severe exponential loss of learned information when exposed to relatively small amounts of new training data. This loss of information is not caused by constraints due to the lack of resources available to the learning system, but rather is caused by representational overlap within the learning system and by side-effects of the training methods used. Catastrophic forgetting in auto-associative pattern recognition is a well-studied attribute of most parameterized supervised learning systems. A variation of this phenomenon, in the context of feedforward neural networks, arises when non-stationary inputs lead to loss of previously learned mappings. The majority of the schemes proposed in the literature for mitigating catastrophic forgetting are not data-driven, but rather rely on storage of prior representations of the learning system. We introduce the Fixed Expansion Layer (FEL) feedforward neural network that embeds an expansion layer which sparsely encodes the information contained within the hidden layer, in order to help mitigate forgetting of prior learned representations. The fixed expansion layer approach is generally applicable to feedforward neural networks, as demonstrated by the application of the FEL technique to a recurrent neural network algorithm built on top of a standard feedforward neural network. Additionally, we investigate a novel framework for training ensembles of FEL networks, based on exploiting an information-theoretic measure of diversity between FEL learners, to further control undesired plasticity. The proposed methodology is demonstrated on a several tasks, clearly emphasizing its advantages over existing techniques. The architecture proposed can be applied to address a range of computational intelligence tasks, including classification problems, regression problems and system control.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2412</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2917&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2412</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2917</articleid>
+<submission-date>2013-03-01T16:07:37-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3820748</context-key>
+<submission-path>utk_graddiss/2412</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Jeremy Holleman, Joe Wilck</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

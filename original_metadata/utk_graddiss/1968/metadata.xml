@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scheduling Algorithms for Scalable High-Performance Packet Switching Architectures</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Xike</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Packet switching fabrics constitute a fundamental building block of all Internet routers. As a core technology, the switching engine is responsible for enabling multiple input (ingress) ports to be dynamically linked to output (egress) ports, thereby allowing packets to effectively traverse the router. Scheduling algorithms, which play a key role in switching fabrics, determine the dynamic configurations of the input-output matchings. The ever growing need for additional bandwidth and more sophisticated service provisioning in next- generation networks necessitates the introduction of scalable packet scheduling solutions that go beyond legacy schemes.&lt;/p&gt;
+&lt;p&gt;Switch architectures can be coarsely classified into two categories, in accordance with the queuing mechanism they employ. In input-queued (IQ) architectures arriving packets are buffered at the ingress ports, awaiting to traverse the switch. In output-queued (OQ) architectures, arriving packets are immediately transferred to their corresponding egress ports at which they are buffered until their departure time. Scheduling algorithms for these two families of architectures vary significantly, yet they share the goals of maximizing throughput while minimizing the delay experienced by the packets.&lt;/p&gt;
+&lt;p&gt;This dissertation presents novel architectures and algorithms pertaining to both IQ and OQ switch designs. In the context of IQ switches, due to the increase in link rates directly resulting in a decrease of packet duration times, packet-by-packet switching is no longer considered a pragmatic approach for designing scalable systems. To address this challenge, this dissertation advocates the utilization of frame-based algorithms that relax the timing constraints imposed on scheduling algorithms while retaining key performance characteristics. The algorithms are studied via theoretical stability analysis and evaluated by means of statistical simulations. In the context of OQ switching, an efficient memory management algorithm that alleviates some of the principal limitations of OQ designs is presented and studied.&lt;/p&gt;
+&lt;p&gt;In an effort to introduce pragmatic solutions to the challenges associated with high- capacity packet switches, the focus of this work is to guarantee performance and scalability while utilizing off-the-shelf components that can be easily combined with custom hardware circuitry. We conclude by showing that the developed architectures and algorithms provide solid cost-efficient foundations for supporting next-generation Internet switches and routers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1968</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3399&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1968</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3399</articleid>
+<submission-date>2013-09-20T10:40:04-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4609013</context-key>
+<submission-path>utk_graddiss/1968</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Elhanany</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Hairong Qi, Michael Thomason</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

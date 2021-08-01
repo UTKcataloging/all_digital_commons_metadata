@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization of Healthcare Delivery System under Uncertainty: Schedule Elective Surgery in an Ambulatory Surgical Center and Schedule Appointment in an Outpatient Clinic</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zhaoxia.zhao@gmail.com</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhao</lname>
+<fname>Zhaoxia</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Surgery Scheduling</keyword>
+<keyword>Appointment Scheduling</keyword>
+<keyword>Constraint Programming</keyword>
+<keyword>Stochastic Programming</keyword>
+<keyword>Markov Decision Process</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Operational Research</discipline>
+</disciplines><abstract>&lt;p&gt;This work investigates two types of scheduling problems in the healthcare industry. One is the elective surgery scheduling problem in an ambulatory center, and the other is the appointment scheduling problem in an outpatient clinic.&lt;/p&gt;
+&lt;p&gt;The ambulatory surgical center is usually equipped with an intake area, several operating rooms (ORs), and a recovery area. The set of surgeries to be scheduled are known in advance. Besides the surgery itself, the sequence-dependent setup time and the surgery recovery are also considered when making the scheduling decision. The scheduling decisions depend on the availability of the ORs, surgeons, and the recovery beds. The objective is to minimize the total cost by making decision in three aspects, number of ORs to open, surgery assignment to ORs, and surgery sequence in each OR. The problem is solved in two steps. In the first step, we propose a constraint programming model and a mixed integer programming model to solve a deterministic version of the problem. In the second step, we consider the variability of the surgery and recovery durations when making scheduling decisions and build a two stage stochastic programming model and solve it by an L-shaped algorithm.&lt;/p&gt;
+&lt;p&gt;The stochastic nature of the outpatient clinic appointment scheduling system, caused by demands, patient arrivals, and service duration, makes it difficult to develop an optimal schedule policy. Once an appointment request is received, decision makers determine whether to accept the appointment and put it into a slot or reject it. Patients may cancel their scheduled appointment or simply not show up. The no-show and cancellation probability of the patients are modeled as the functions of the indirect waiting time of the patients. The performance measure is to maximize the expected net rewards, i.e., the revenue of seeing patients minus the cost of patients&#39; indirect and direct waiting as well as the physician&#39;s overtime. We build a Markov Decision Process model and proposed a backward induction algorithm to obtain the optimal policy. The optimal policy is tested on random instances and compared with other heuristic policies. The backward induction algorithm and the heuristic methods are programmed in Matlab.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2879</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4175&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2879</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4175</articleid>
+<submission-date>2014-05-22T11:10:53-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5613034</context-key>
+<submission-path>utk_graddiss/2879</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li, Xiaoyan Zhu</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Ostrowski, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

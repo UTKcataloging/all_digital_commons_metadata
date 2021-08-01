@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parametric and Non-Parametric Regression Tree Models of the Strength Properties of Engineered Wood Panels Using Real-time Industrial Data</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Young</lname>
+<fname>Timothy</fname>
+<mname>Mark</mname>
+</author>
+</authors>
+<disciplines><discipline>Environmental Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The forest products industry is undergoing unprecedented change from international competition, increasing fiber costs, rising energy prices and falling product prices. Competitive businesses have the key ability to adapt quickly to change through improved knowledge. Among adaptations to change are better product development, improved process efficiency and superior product quality. This dissertation is directly related to improving the knowledge of forest products manufacturers by investigating data mining (DM) methods that improve the ability to quantify causality of sources of variation. A contemporary DM method related to decision theory is decision trees (DTs). DTs are designed for heterogeneous data and are highly resistant to irrelevant regressors. The tree structures of DTs are also easy to interpret.&lt;/p&gt;
+&lt;p&gt;The research hypothesis of this dissertation is that there is no significant difference in the explanatory or predictive capabilities of multiple linear regression (MLR) models, parametric regression trees (RTs) and non-parametric quantile RTs. To test this hypothesis 1,335 statistical models are developed. Box Cox transforms of Y are considered. Models are developed for the internal bond (IB) of medium density fiberboard (MDF) and the IB (and Parallel EI) of oriented strand board (OSB) from automatically fused data of destructive test data and real-time production line sensor data.&lt;/p&gt;
+&lt;p&gt;Models with good predictability of the validation data set are possible for MDF IB when using traditional MLR methods with short record lengths without Box Cox transforms. Significant regressors (α &lt; 0.01) for MDF MLR models are related to overall pressing time and press pre-position time settings.&lt;/p&gt;
+&lt;p&gt;Parametric and non-parametric RT models without Box Cox transforms outperform the predictability of MLR models. For MDF IB, process variables related to overall pressing time, press position times and core fiber moisture are significant (α &lt; 0.01). RT models with Box Cox transforms of OSB IB improve predictability for record lengths less than 100. Significant regressors (α &lt; 0.01) of OSB IB are related to pressing times and core layer moisture. Significant regressors (α &lt; 0.01) of OSB Parallel EI are related to forming speed and pressing times. There is evidence from the extensive investigation of 1,335 models to support the alternative research hypothesis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/211</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1258&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>211</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1258</articleid>
+<submission-date>2010-02-01T11:55:38-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127857</context-key>
+<submission-path>utk_graddiss/211</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy G. Rials, Frank M. Guess</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald G. Hodges, J. Larry Wilson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Natural Resources</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/YoungTim.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

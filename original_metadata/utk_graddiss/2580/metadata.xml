@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Shape Optimization of Turbomachinery Blades Using an Adjoint Harmonic Balance Method</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hhuang9@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Huang</lname>
+<fname>Huang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>high-dimensional harmonic balance</keyword>
+<keyword>discrete adjoint method</keyword>
+<keyword>turbomachinery aeroelastics</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Systems Engineering and Multidisciplinary Design Optimization</discipline>
+</disciplines><abstract>&lt;p&gt;The high-dimensional harmonic balance (HDHB) method has recently become popular in the field of periodic unsteady flow prediction due to its accuracy and high efficiency. In the present dissertation research, two and three-dimensional parallelized computational fluid dynamic (CFD) codes based on the HDHB method are developed and validated for unsteady turbulent flows. It is found that the stability condition for an explicit solver is highly dependent on the reduced grid frequency, a non-dimensional parameter that depends on the grid size, characteristic wave speed, and the highest frequency retained in the harmonic balance solver. Furthermore, for certain moderately and highly nonlinear problems, the pseudo-spectral operator used in the HDHB method is found to introduce aliasing errors, which may lead to nonlinear instabilites or non-physical solutions. As a remedy, a temporal spectral viscosity operator is proposed for de-aliasing purpose so as to stabilize HDHB solver. The proposed method is validated for a simple nonlinear Duffing oscillator case and laminar vortex shedding over an oscillating circular cylinder at Re=500. Another focus of this research is the design optimization of the turbomachinery blades for unsteady flows. The &#39;&#39;steady state&#39;&#39; nature of the HDHB technique makes it very-well suited for an adjoint sensitivity analysis mainly due to the fact that the storage requirements are greatly reduced. To date, the investigators have used the adjoint technique mainly for steady shape optimization. To the author&#39;s best knowledge, the technique has not been applied for unsteady design optimization of turbomachinery blades. In this dissertation, a discrete adjoint HDHB method is employed for unsteady turbomachinery shape optimization. With the help of the automatic differentiation (AD) tool, TAPENADE, the development time for an optimization solver can be reduced substantially. Both inverse design and optimization problems are considered to validate the optimization solver.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2580</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3033&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2580</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3033</articleid>
+<submission-date>2013-06-05T10:08:45-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4200216</context-key>
+<submission-path>utk_graddiss/2580</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rao V. Armilli, Jay I. Frankel, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

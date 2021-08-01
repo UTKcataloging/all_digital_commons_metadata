@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Minimal-density, RAID-6 Codes: An Approach for w = 9</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bburke@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Burke</lname>
+<fname>Bryan</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>raid-6</keyword>
+<keyword>erasure code</keyword>
+<keyword>mds</keyword>
+</keywords>
+<disciplines><discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;RAID-6 erasure codes provide vital data integrity in modern storage systems. There is a class of RAID-6 codes called “Minimal Density Codes,” which have desirable performance properties. These codes are parameterized by a “word size,” w, and constructions of these codes are known when w and w + 1 are prime numbers. However, there are obvious gaps for which there is no theory. An exhaustive search was used to fill in the important gap when w = 8, which is highly applicable to real-world systems, since it is a power of 2. This paper extends that approach to address the next theoretical hole at w = 9 by expanding upon the techniques used for w = 8 and adding customizations to allow for parallel processing.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2705</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4025&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2705</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4025</articleid>
+<submission-date>2014-03-02T23:54:57-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>5250178</context-key>
+<submission-path>utk_gradthes/2705</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James S. Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Bradley T. Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

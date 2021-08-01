@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Validation of a Modified Parallel Compressor Model for Prediction on the Effects of Inlet Swirl and Pressure Distortion on Compressor Performance and Operability</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcoughen@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Coughenour</lname>
+<fname>Joshua</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Engine inlet distortion, more specifically inlet swirl, has created much angst and proved just how little of a true understanding engineers today have of the true effect inlet swirl has on engine performance. Engineers have attempted to developed procedures and computer codes to detect, predict, and mitigate the performance degrading effects of inlet distortion. Inlet distortion has been the hot topic in recent years due to the large amount of flow angularity inlet swirl can produce at the face of the engine compressor.&lt;/p&gt;
+&lt;p&gt;While inlet distortion work over the past years has proved to be beneficial to the engine development community there are still variables and engine performance degradation attributes needing further exploration. Pressure distortion accompanied with inlet swirl has proved to be an area of interest. Since inlet swirl results in flow angularity at the engine face, potentially resulting in a pressure rise, being able to predict swirl with pressure distortion together can provide a better understanding of just how much overall distortion could be present at the engine face, subsequently affect compressor and engine performance. Previous modeling and simulation (M&amp;S) efforts to predict the effect inlet swirl can have on fan and compressor performance have come a long way, yet still leave many unknowns. This study, of a one-dimensional parallel compressor model called DYNTECC (Dynamic Turbine Engine Compressor Code), was used to analyze the effects of inlet swirl and pressure distortion on fan and performance operability of the Honeywell F109 turbofan engine. This thesis documents the work done to compare the DYNTECC predictions, that included both swirl and pressure distortion, to DYNTECC data sets that were solely based on swirl distortion to further understand the effects single and combined distortion sources have on the F109 engine.&lt;/p&gt;
+&lt;p&gt;It can be concluded that, while pressure distortion present at the fan face of a F109 engine does degrade engine performance, there is minimal impact when pressure distortion is the only source of inlet distortion present. The 1.6% difference from the 15% pressure distortion, no swirl case is the largest difference for all conditions tested in this thesis, except for the 15⁰ twin-swirl with 15% pressure distortion case which has an 1.8% difference. This confirms, in most cases in which pressure distortion is paired with swirl distortion in the F109 engine, the swirl distortion is the main contributor to engine performance degradation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3760</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5106&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3760</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5106</articleid>
+<submission-date>2016-02-26T07:03:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8222288</context-key>
+<submission-path>utk_gradthes/3760</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Milton Davis, William Baker</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Approved for public release.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

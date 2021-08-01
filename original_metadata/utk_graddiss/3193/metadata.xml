@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Stability of Particle-Mean Flow Interactions in Solid and Hybrid Rockets</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>trevor-elliott@utc.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Elliott</lname>
+<fname>Trevor</fname>
+<mname>Sterling</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Two-Phase Flow</keyword>
+<keyword>Stability of SRM with Particles</keyword>
+<keyword>Particle-Mean Flow Interactions</keyword>
+<keyword>SRM with Particle Entrainment</keyword>
+<keyword>Hybrid Rocket with Particles</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Combustion instabilities associated with rocket motors as a result of unsteady components in the combustion chamber flow have been known to cause pressure oscillations. These pressure oscillations can result in changes to flight characteristics and vibrations translated to the rocket or payload. The unsteady components are comprised of two subcomponents, the vortico-acoustic fluctuations and the hydrodynamic fluctuations. As the vortico-acoustic fluctuations have been investigated in an exhaustive manner this work will focus on the hydrodynamic fluctuations. It has been known that the addition of particles increases specific impulse due to the resulting increase in combustion temperature and mass flow. They also aid in the suppression of fluctuations in the flow field due to added density. However, the drag effects on the gaseous phase slow the gaseous exit velocity reducing the specific impulse.&lt;/p&gt;
+&lt;p&gt;This work aims to study gaseous flow with particle entrainment within the biglobal framework in an effort to quantify the effects of particles in such flows and what parameters can be varied to optimize stable flow in this configuration. To do so, the linearized Navier-Stokes equations are utilized with the Stokes drag equation for particles. Applying the biglobal ansatz results in a system of equations that can be solved using an eigensolver to yield the entire spectrum of eigenvalues simultaneously. The obtained solutions are compared with previous numerical and experimental results. In summary, the presented work advances the biglobal framework to include particle entrainment. Furthermore, previous one-dimensional treatments are now extended to include effects along the cross-section of rocket motors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3193</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4132&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3193</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4132</articleid>
+<submission-date>2014-04-14T17:06:04-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4132/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5481046</context-key>
+<submission-path>utk_graddiss/3193</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph C. Majdalani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy J. Schulz, Christian G. Parigger, Phuriwat Anusonti-Inthra</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

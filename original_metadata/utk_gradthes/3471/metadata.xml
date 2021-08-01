@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>CMOS Gate Drive IC With Embedded Cross Talk Suppression Circuitry For Power Electronic Applications</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jdix1@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Dix</lname>
+<fname>Jeffery</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Gate Driver</keyword>
+<keyword>IC</keyword>
+<keyword>Cross Talk</keyword>
+<keyword>Power Electronics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Electric Vehicle (EV) propulsion systems are typically driven by three phase-leg motor drives, which consist of a pair of power devices. Each one of these power devices must be driven by a gate driver chip to operate efficiently. The proposed gate driver solution considers driving SiC devices and has been developed to increase the efficiency of such devices, which requires new gate driver solutions that can properly handle the high switching speeds of these devices. The higher switching speeds seen in SiC devices have brought forth a new problem: cross-talk. Cross-talk can be seen in the false switching of the partner device of a phase-leg as the driven device is being switched. Therefore, crosstalk suppression circuitry must be considered when developing a new gate driver solution. The proposed gate driver includes embedded cross talk suppression. The new gate driver topology will be presented and will show the cross talk suppression operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3471</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4644&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3471</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4644</articleid>
+<submission-date>2015-02-27T11:50:11-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4644/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6743624</context-key>
+<submission-path>utk_gradthes/3471</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeremy Holleman, Daniel J. Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An application of artificial intelligence and neural networks to in-core fuel management</title>
+<publication-date>1991-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Al-Gutifan</lname>
+<fname>Faisal</fname>
+<mname>Husni</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This research demonstrates the feasibility of using neural backpropagation networks to perform neutronic calculations in a pressurized water reactor. The LEOPARD (Lifetime Evaluating Operations Pertinent to the Analysis of Reactor Design) code is used to generate data for training four (4) different models to relate the infinite multiplication factor, K-INF, of a fuel assembly at the end of a burnup step to the assembly local parameters. The RPM (Reload Power Mapping) code is used to generate training and testing data for three (3) different models to relate relative power distribution of fuel assemblies to the infinite multiplication factor of each assembly. Testing LEOPARD models has shown that it is not possible to utilize a general fuel assembly network to relate K-INF to the assembly domain parameters, rather a different network should be designed for each assembly type. Of the RPM models tested, the patterned network has resulted in the most accurate predictions of relative power distribution. An expert system is also designed using OPS5 to assist in the determination of core reload patterns. A computer code is written using Microsoft Excel to provide an interface between the operator and the neural network code, to construct an interaction between RPM and the user, and to develop a manual fuel shuffling capability using a graphical interface.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5771</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7449&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5771</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7449</articleid>
+<submission-date>2021-06-15T05:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23359242</context-key>
+<submission-path>utk_gradthes/5771</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>1991-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

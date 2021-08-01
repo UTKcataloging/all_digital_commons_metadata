@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Control of Power Converters for High Power-Quality Interface with Utility and Aviation Grids</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Liu</lname>
+<fname>Bo</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Power electronics as a subject integrating power devices, electric and electronic circuits, control, and thermal and mechanic design, requires not only knowledge and engineering insight for each subarea, but also understanding of interface issues when incorporating these different areas into high performance converter design.Addressing these fundamental questions, the dissertation studies design and control issues in three types of power converters applied in low-frequency high-power transmission, medium-frequency converter emulated grid, and high-frequency high-density aviation grid, respectively, with the focus on discovering, understanding, and mitigating interface issues to improve power quality and converter performance, and to reduce the noise emission.For hybrid ac/dc power transmission,• Analyze the interface transformer saturation issue between ac and dc power flow under line unbalances.• Proposed both passive transformer design and active hybrid-line-impedance-conditioner to suppress this issue.For transmission line emulator,• Propose general transmission line emulation schemes with extension capability.• Analyze and actively suppress the effects of sensing/sampling bias and PWM ripple on emulation considering interfaced grid impedance.• Analyze the stability issue caused by interaction of the emulator and its interfaced impedance. A criterion that determines the stability and impedance boundary of the emulator is proposed.For aircraft battery charger,• Investigate architectures for dual-input and dual-output battery charger, and a three-level integrated topology using GaN devices is proposed to achieve high density.• Identify and analyze the mechanisms and impacts of high switching frequency, &lt;i&gt;di/dt, dv/dt&lt;/i&gt; on sensing and power quality control; mitigate solutions are proposed.• Model and compensate the distortion due to charging transition of device junction capacitances in three-level converters.• Find the previously overlooked device junction capacitance of the nonactive devices in three-level converters, and analyze the impacts on switching loss, device stress, and current distortion. A loss calculation method is proposed using the data from the conventional double pulse tester.• Establish fundamental knowledge on performance degradation of EMI filters. The impacts and mechanisms of both inductive and capacitive coupling on different filter structures are understood. Characterization methodology including measuring, modeling, and prediction of filter insertion loss is proposed. Mitigation solutions are proposed to reduce inter-component coupling and self-parasitics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5313</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6857&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5313</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6857</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14343114</context-key>
+<submission-path>utk_graddiss/5313</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel Costinett, Forrest M. Hoffman, Leon M. Tolbert</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0001-5110-4887</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

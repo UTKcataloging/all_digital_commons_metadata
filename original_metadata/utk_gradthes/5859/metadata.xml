@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Camera-Based Remote Photoplethysmography for Estimation of Heart Rate using Single Board Computers</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bsweely@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Sweely</lname>
+<fname>Benjamin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>heart rate</keyword>
+<keyword>camera</keyword>
+<keyword>remote</keyword>
+<keyword>photoplethysmology</keyword>
+<keyword>computer vision</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of this project was to develop a wireless, noncontact monitoring system that measures multiple physiological parameters in human faces from a distance using a camera. Compared to traditional sensors, this monitoring system does not use wires or adhesives, providing a safer, more user-friendly application. The goal of the monitoring systems was to estimate heart rate (HR). The current practices of measuring HR involve collecting electrocardiogram (ECG) signals from adhesive electrodes placed on various parts of the body and using a pulse oximeter (PO) typically placed on the ear lobe or finger. We were able to successfully create 2 monitoring systems and compare their results to the PO. Both monitoring systems are low-cost at less than $200. Neither system has been shown to exist in literature thus making them novel implementations. After analysis, we found the estimated HR from one of the systems to be not significantly different from the PO readings. In conclusion, we were able to estimate HR from a distance using a camera-based system which can have many useful applications, potentially in the Neonatal ICU and in other home health settings.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5859</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6954&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5859</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6954</articleid>
+<submission-date>2020-08-06T10:23:25-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/6954/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>18809718</context-key>
+<submission-path>utk_gradthes/5859</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaopeng Zhao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xiaopeng Zhao, Tami H. Wyatt, Jeffrey A. Reinbolt</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

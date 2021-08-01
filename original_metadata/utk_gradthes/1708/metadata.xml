@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>FPGA Logic Design for Analog-to-Digital-Converter Hardware Utilizing High Speed Serial Data Links</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jones</lname>
+<fname>Joshua</fname>
+<mname>Brandon</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Computer Assisted Dynamic Data Monitoring and Analysis System (CADDMAS) used by the aeropropulsion test cells at Arnold Engineering Development Center (AEDC) processes a large amount of high bandwidth accelerometer and strain gage data. Data from each sensor must be digitized before being processed by software running on networked computers. This thesis describes some of the original analog-to- digital converter (ADC) hardware used by the CADDMAS as well as some of its limitations. More up-to-date ADC hardware was designed to be used in the CADDMAS to enhance capabilities required by the aeropropulsion test cells. These new capabilities included an increase in maximum sample rate for the CADDMAS, a Universal Serial Bus (USB) 2.0 interface for easy connection to the computer, the latest Field Programmable Gate Arrays (FPGAs) for controlling the data acquisition, and a packet based data transmission scheme to reduce redundant data transfers into the computer. This thesis describes, in detail, the development and checkout of the FPGA logic for the new ADC hardware needed to obtain these enhanced capabilities. A simple software program was also developed to validate the correct operation of the new ADC hardware and to demonstrate to a commercial software vendor how to incorporate support for the ADC hardware into their software. Upon completion of the designs, a maximum data transfer rate of 96.15 Megabytes per second (MBps) was obtained using a PCI interface card and 18.45 MBps was obtained from the USB 2.0 interface.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1708</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3056&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1708</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3056</articleid>
+<submission-date>2013-08-12T13:48:13-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4425188</context-key>
+<submission-path>utk_gradthes/1708</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce W. Bomar</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. Montgomery Smith, Bruce W. Whitehead</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

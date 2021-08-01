@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scalable High-Speed Communications for Neuromorphic Systems</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ayoung48@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Young</lname>
+<fname>Aaron</fname>
+<mname>Reed</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neuromorphic</keyword>
+<keyword>Computer Architecture</keyword>
+<keyword>Communication</keyword>
+<keyword>High-Speed</keyword>
+<keyword>Aurora</keyword>
+<keyword>FPGA</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Computer Engineering</discipline>
+<discipline>Digital Communications and Networking</discipline>
+<discipline>Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Field-programmable gate arrays (FPGA), application-specific integrated circuits (ASIC), and other chip/multi-chip level implementations can be used to implement Dynamic Adaptive Neural Network Arrays (DANNA). In some applications, DANNA interfaces with a traditional computing system to provide neural network configuration information, provide network input, process network outputs, and monitor the state of the network. The present host-to-DANNA network communication setup uses a Cypress USB 3.0 peripheral controller (FX3) to enable host-to-array communication over USB 3.0. This communications setup has to run commands in batches and does not have enough bandwidth to meet the maximum throughput requirements of the DANNA device, resulting in output packet loss. Also, the FX3 is unable to scale to support larger single-chip or multi-chip configurations. To alleviate communication limitations and to expand scalability, a new communications solution is presented which takes advantage of the GTX/GTH high-speed serial transceivers found on Xilinx FPGAs. A Xilinx VC707 evaluation kit is used to prototype the new communications board. The high-speed transceivers are used to communicate to the host computer via PCIe and to communicate to the DANNA arrays with the link layer protocol Aurora. The new communications board is able to outperform the FX3, reducing the latency in the communication and increasing the throughput of data. This new communications setup will be used to further DANNA research by allowing the DANNA arrays to scale to larger sizes and for multiple DANNA arrays to be connected to a single communication board.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4916</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6212&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4916</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6212</articleid>
+<submission-date>2017-06-15T13:56:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10310692</context-key>
+<submission-path>utk_gradthes/4916</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark E. Dean</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

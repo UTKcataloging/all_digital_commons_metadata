@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of an Underwater Video and GPS Mapping System for the Exploration of Streambed Aquatic Populations</title>
+<publication-date>2013-03-18T17:30:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wbarbou1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Barbour</lname>
+<fname>William</fname>
+</author>
+</authors>
+<disciplines><discipline>Animal Sciences</discipline>
+<discipline>Aquaculture and Fisheries</discipline>
+<discipline>Bioresource and Agricultural Engineering</discipline>
+<discipline>Environmental Engineering</discipline>
+<discipline>Marine Biology</discipline>
+</disciplines><abstract>&lt;p&gt;This design project was initiated due to the need for an underwater video mapping system optimized for exploration along the streambed or riverbed and under rocks. Such a system would be used for population mapping of fish and other aquatic species. The system also needed to incorporate global positioning system data with the visual data. The current prototype successfully fulfills the requirements for underwater practicality and visual and GPS data collection. It incorporates a compact waterproof camera with Sony lens, two Fenix high-intensity waterproof flashlights for illumination, a handheld DVR for recording video, and a Garmin 60CSx GPS unit. The two data streams are collected constantly and merged such that GPS data at a frequency of one hertz synchronizes seamlessly with the video stream. Initial testing has shown success with the current prototype; video quality is sufficient for identification of species and GPS data shows the location at which the video was taken with sufficient precision. Testing has been done on the Hiwassee River concerning Hellbender salamanders and numerous fish and crawfish species have been identified using the system on the Little Tennessee River. Using GPS and video, aquatic species numbers, locations, and habitat can be determined and mapped in ArcGIS.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2013/agsciences/1</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1020&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1020</articleid>
+<submission-date>2013-04-01T10:31:56-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>3978481</context-key>
+<submission-path>utk_eureca/2013/agsciences/1</submission-path>
+<fields>
+<field name="college" type="string">
+<value>Agricultural Sciences and Natural Resources</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering and Soil Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-18T17:30:00-07:00</value>
+</field>
+<field name="year" type="date">
+<value>2013-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

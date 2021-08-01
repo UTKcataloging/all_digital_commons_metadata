@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enhancing Mobile Capacity through Generic and Efficient Resource Sharing</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yli118@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Li</lname>
+<fname>Yong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>mobile computing</keyword>
+<keyword>mobile cloud computing</keyword>
+<keyword>software systems</keyword>
+<keyword>wearable computing</keyword>
+<keyword>mobile operating system</keyword>
+</keywords>
+<abstract>&lt;p&gt;Mobile computing devices are becoming indispensable in every aspect of human life, but diverse hardware limits make current mobile devices far from ideal for satisfying the performance requirements of modern mobile applications and being used anytime, anywhere. Mobile Cloud Computing (MCC) could be a viable solution to bypass these limits which enhances the mobile capacity through cooperative resource sharing, but is challenging due to the heterogeneity of mobile devices in both hardware and software aspects. Traditional schemes either restrict to share a specific type of hardware resource within individual applications, which requires tremendous reprogramming efforts; or disregard the runtime execution pattern and transmit too much unnecessary data, resulting in bandwidth and energy waste.To address the aforementioned challenges, we present three novel designs of resource sharing frameworks which utilize the various system resources from a remote or personal cloud to enhance the mobile capacity in a generic and efficient manner. First, we propose a novel method-level offloading methodology to run the mobile computational workload on the remote cloud CPU. Minimized data transmission is achieved during such offloading by identifying and selectively migrating the memory contexts which are necessary to the method execution. Second, we present a systematic framework to maximize the mobile performance of graphics rendering with the remote cloud GPU, during which the redundant pixels across consecutive frames are reused to reduce the transmitted frame data. Last, we propose to exploit the unified mobile OS services and generically interconnect heterogeneous mobile devices towards a personal mobile cloud, which complement and flexibly share mobile peripherals (e.g., sensors, camera) with each other.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5307</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6851&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5307</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6851</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14343083</context-key>
+<submission-path>utk_graddiss/5307</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Wei Gao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael R. Jantz, Hairong Qi, Wenjun Zhou</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-4891-5707</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in:
+IEEE International Conference on Computer Communications 2015
+IEEE International Conference on Computer Communications 2017</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

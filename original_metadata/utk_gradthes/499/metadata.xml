@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of A Low-power Precision Op Amp with Ping-pong Autozero Architecture</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xi</lname>
+<fname>Pengfei</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Precision op amps are widely used in instrumentation, automotive, and industrial applications. This thesis presents the design and characterization of a low-power precision operational amplifier that uses “ping-pong” autozero architecture for automatic offset correction. The op amp is designed for extreme environment applications, operating across a wide temperature range (minus 180 degree Celsius to plus 120 degree Celsius) with low offset, low drift and low power consumption. This design has been fabricated in a SiGe BiCMOS 0.5-micron process and the measured results demonstrate that the op amp is fully functional and achieves less than 40 microvolt input-referred offset voltage with 0.1 microvolt per degree offset voltage drift and 1 microwatt power consumption.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/499</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1535&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>499</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1535</articleid>
+<submission-date>2010-02-22T11:30:24-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1162137</context-key>
+<submission-path>utk_gradthes/499</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Islam, Ethan Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/XiPengfei.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

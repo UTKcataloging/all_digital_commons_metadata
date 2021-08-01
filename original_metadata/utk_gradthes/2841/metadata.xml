@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Digital-to-Analog Converter Interface for Computer Assisted Biologically Inspired Systems</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>npoore2@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Poore</lname>
+<fname>Nicholas</fname>
+<mname>Conley</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Analog Systems</keyword>
+<keyword>Neural Networks</keyword>
+<keyword>Neuromorphic</keyword>
+<keyword>Multi-Dimensional Systems</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;In today&#39;s integrated circuit technology, system interfaces play an important role of enabling fast, reliable data communications. A key feature of this work is the exploration and development of ultra-low power data converters. Data converters are present in some form in almost all mixed-signal systems; in particular, digital-to-analog converters present the opportunity for digitally controlled analog signal sources. Such signal sources are used in a variety of applications such as neuromorphic systems and analog signal processing. Multi-dimensional systems, such as biologically inspired neuromorphic systems, require vectors of analog signals. To use a microprocessor to control these analog systems, we must ultimately convert the digital control signal to an analog control signal and deliver it to the system. Integrating such capabilities of a converter on chip can yield significant power and chip area constraints. Special attention is paid to the power efficiency of the data converter, the data converter design discussed in this thesis yields the lowest power consumption to date. The need for a converter with these properties leads us to the concept of a scalable array of power-efficient digital-to-analog converters; the channels of which are time-domain multiplexed so that chip-area is minimized while preserving performance. To take further advantage of microprocessor capabilities, an analog-to- digital design is proposed to return the analog system&#39;s outputs to the microprocessor in a digital form.&lt;/p&gt;
+&lt;p&gt;A current-steering digital-to-analog converter was chosen as a candidate for the conversion process because of its natural speed and voltage-to-current translation properties. This choice is nevertheless unusual, because current-steering digital- to-analog converters have a reputation for high performance with high power consumption. A time domain multiplexing scheme is presented such that a digital data set of any size is synchronously multiplexed through a finite array of converters, minimizing the total area and power consumption. I demonstrate the suitability of current-steering digital-to-analog converters for ultra low-power operation with a proof-of-concept design in a widely available 130 nm CMOS technology. In statistical simulation, the proposed digital-to-analog converter was capable of 8-bit, 100 kSps operation while consuming 231 nW of power from a 1 V supply.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2841</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4117&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2841</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4117</articleid>
+<submission-date>2014-06-16T14:32:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>5692166</context-key>
+<submission-path>utk_gradthes/2841</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremiah Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, John D. Birdwell</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

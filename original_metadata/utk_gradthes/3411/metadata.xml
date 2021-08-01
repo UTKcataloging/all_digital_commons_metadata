@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Impact of Fuel Rod Coatings on Reactor Performance and Safety</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>istewar1@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stewart</lname>
+<fname>Ian</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nuclear engineering</keyword>
+<keyword>nuclear fuel</keyword>
+<keyword>accident tolerant fuel</keyword>
+<keyword>ceramic film</keyword>
+<keyword>ceramic coating on clad</keyword>
+</keywords>
+<disciplines><discipline>Ceramic Materials</discipline>
+<discipline>Engineering</discipline>
+<discipline>Engineering Science and Materials</discipline>
+<discipline>Materials Science and Engineering</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This study evaluates the use of a ceramic coating on the Zr-alloy cladding within a PWR using four ceramic compounds of 5 and 10 micron thicknesses: ZrO2, TiAlN, Ti2AlC, and Ti3AlC2. The film’s impact is assessed for variation on: reactivity, fuel cycle length, maximum temperature, film’s roughness, and transient conditions. The reactivity is analyzed using the following methods: change in the multiplication factor (k) each film introduces to the system using the ABH method, and Monte Carlo software (MCNP). Both methods are in good agreement, yielding less than half a percent change from a reference, no-film fuel pin. In order from lowest impact to highest impact on reactivity, the films are as follows for 10 micron thickness: ZrO2 (0.06%), TiAlN (0.20%), Ti3AlC2 (0.21%), and Ti2AlC (0.25%). This change directly impacts the fuel cycle length of the fuel. A linear reactivity model is used to approximate the loss in fuel cycle length and final burnup for a reference cycle of 300 days and 50 MWd/kg, respectively. The estimated loss in days is less than a day for all 5-micron films and less than 3 days for all 10 micron films (highest: 2.25 days, Ti2AlC) with all burnup calculations around 48.50 MWd/kg for all films. The impact the film yields on the temperature of the fuel pin is calculated using the one-dimensional thermal resistance circuit for each region (fuel, gap, clad, film, and moderator). The films’ thermal conductivity will directly impact this calculation, yet for the thin ceramic films, the percent change from a reference fuel is less 1% for all films at both thicknesses (largest change, lowest thermal conductivity: ZrO2). The roughness of the films currently being deposited is around 10 microinch Ra. This value is used with two perturbations, 5 microinches and 15 microinches, to evaluate the impact on the heat transfer coefficient and the induced friction-loss (pressure). For all roughness values the heat transfer coefficient stays well within typical PWR values while inducing a smaller pressure drop along the channel (compared to Zr-alloy clad). The thermal analysis is used to simulate a transient by varying the linear power density and the coolant flow rate. These two parameters are varied at different rates to impose a momentary mismatch in the system. In all simulations, the film reacts almost identical of that of the Zr-alloy clad reference model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3411</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4701&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3411</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4701</articleid>
+<submission-date>2015-03-24T09:20:07-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4701/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6890417</context-key>
+<submission-path>utk_gradthes/3411</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian Wirth, Ronald Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

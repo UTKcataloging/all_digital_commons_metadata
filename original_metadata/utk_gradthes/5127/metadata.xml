@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design Space Evaluation for Resonant and Hard-charged Switched Capacitor Converters</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jgamble6@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Gamble</lname>
+<fname>Jordan</fname>
+<mname>Alexander</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;USB Power Delivery enables a fixed ratio converter to operate over a wider range of output voltages by varying the input voltage. Of the DC/DC step-down converters powered from this type of USB, the hard-charged Switched Capacitor circuit is of interest to industry for its potential high power density. However implementation can be limited by circuit efficiency. In fully resonant mode, the efficiency can be improved while also enabling current regulation. This expands the possible applications into battery chargers and eliminates the need for a two-stage converter.In this work, the trade-off in power loss and area between the hard-charged and fully resonant switched capacitor circuit is explored using a technique that remains agnostic to inductor technology. The loss model for each converter is presented as well as discussion on the restrained design space due to parasitics in the passive components. The results are validated experimentally using GaN-based prototype converters and the respective design spaces are analyzed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5127</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6534&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5127</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6534</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415046</context-key>
+<submission-path>utk_gradthes/5127</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel J. Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Leon M. Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

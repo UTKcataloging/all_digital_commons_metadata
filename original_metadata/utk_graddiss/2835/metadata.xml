@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Spatial Dynamic Models for Fishery Management and Waterborne Disease Control</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mkelly14@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kelly</lname>
+<fname>Michael</fname>
+<mname>Robert</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>optimal control theory</keyword>
+<keyword>mathematical ecology</keyword>
+<keyword>differential equations</keyword>
+<keyword>natural resource management</keyword>
+<keyword>cholera</keyword>
+</keywords>
+<disciplines><discipline>Applied Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;As the human population continues to grow, there is a need for better management of our natural resources in order for our planet to be able to produce enough to sustain us. One important resource we must consider is marine fish populations. We use the tool of optimal control to investigate harvesting strategies for maximizing yield of a fish population in a heterogeneous, finite domain. We determine whether these solutions include no-take marine reserves as part of the optimal solution. The fishery stock is modeled using a nonlinear, parabolic partial differential equation with logistic growth, movement by diffusion and advection, and with Robin boundary conditions. The objective for the problem is to find the harvest rate that maximizes the discounted yield. Optimal harvesting strategies are found numerically.&lt;/p&gt;
+&lt;p&gt;Infectious diseases are another area of concern for the human population. Recently, questions have been raised as to the importance of spatial features on disease spread and how movement patterns affect management strategies. The role of spatial arrangements in a metapopulation on the spread and management strategies of a cholera epidemic is investigated. We consider how the movement of individuals and water affects the optimal vaccination strategy. For each metapopulation, the model has an Susceptible-Infected-Recovered (SIR) system of differential equations coupled with an equation modeling the concentration of Vibrio cholerae in an aquatic reservoir. The model is used to compare spatial arrangements and varying scenarios to draw conclusions on how to effectively manage outbreaks. The work is motivated by the recent cholera outbreak in Haiti.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2835</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4190&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2835</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4190</articleid>
+<submission-date>2014-06-07T13:54:48-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5668590</context-key>
+<submission-path>utk_graddiss/2835</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lou Gross, Yulong Xing, Tuoc Phan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

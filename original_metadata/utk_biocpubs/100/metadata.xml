@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling aerotaxis band formation in Azospirillum brasilense</title>
+<publication-date>2019-05-17T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Elmas</lname>
+<fname>Mustafa</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Alexiades</lname>
+<fname>Vasilios</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>O&#39;Neal</lname>
+<fname>Lindsey</fname>
+</author>
+<author>
+<email>galexan2@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Alexandre</lname>
+<fname>Gladys</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Chemotaxis</keyword>
+<keyword>Aerotaxis</keyword>
+<keyword>Band formation</keyword>
+<keyword>Azospirillum brasilense</keyword>
+<keyword>Mathematical modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;Background&lt;/p&gt;
+&lt;p&gt;Bacterial chemotaxis, the ability of motile bacteria to navigate gradients of chemicals, plays key roles in the establishment of various plant-microbe associations, including those that benefit plant growth and crop productivity. The motile soil bacterium &lt;em&gt;Azospirillum brasilense&lt;/em&gt; colonizes the rhizosphere and promotes the growth of diverse plants across a range of environments. Aerotaxis, or the ability to navigate oxygen gradients, is a widespread behavior in bacteria. It is one of the strongest behavioral responses in &lt;em&gt;A. brasilense&lt;/em&gt; and it is essential for successful colonization of the root surface. Oxygen is one of the limiting nutrients in the rhizosphere where density and activity of organisms are greatest. The aerotaxis response of &lt;em&gt;A. brasilense&lt;/em&gt; is also characterized by high precision with motile cells able to detect narrow regions in a gradient where the oxygen concentration is low enough to support their microaerobic lifestyle and metabolism.&lt;/p&gt;
+&lt;p&gt;Results&lt;/p&gt;
+&lt;p&gt;Here, we present a mathematical model for aerotaxis band formation that captures most critical features of aerotaxis in &lt;em&gt;A. brasilense&lt;/em&gt;. Remarkably, this model recapitulates experimental observations of the formation of a stable aerotactic band within 2 minutes of exposure to the air gradient that were not captured in previous modeling efforts. Using experimentally determined parameters, the mathematical model reproduced an aerotactic band at a distance from the meniscus and with a width that matched the experimental observation.&lt;/p&gt;
+&lt;p&gt;Conclusion&lt;/p&gt;
+&lt;p&gt;Including experimentally determined parameter values allowed us to validate a mathematical model for aerotactic band formation in spatial gradients that recapitulates the spatiotemporal stability of the band and its position in the gradient as well as its overall width. This validated model also allowed us to capture the range of oxygen concentrations the bacteria prefer during aerotaxis, and to estimate the effect of parameter values (e.g. oxygen consumption rate), both of which are difficult to obtain in experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biocpubs/100</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1110&amp;amp;context=utk_biocpubs&amp;amp;unstamped=1</fulltext-url>
+<label>100</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1110</articleid>
+<submission-date>2019-07-31T04:06:42-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Biochemistry, Cellular and Molecular Biology</publication-title>
+<context-key>15026051</context-key>
+<submission-path>utk_biocpubs/100</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Mustafa Elmas, Vasilios Alexiades, Lindsey O’Neal, and Gladys Alexandre. &quot;Modeling aerotaxis band formation in
+Azospirillum brasilense.&quot; BMC Microbiology (2019) 19:101 https://doi.org/10.1186/s12866-019-1468-9.</value>
+</field>
+<field name="doi" type="string">
+<value>10.1186/s12866-019-1468-9</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-17T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>BMC Microbiology</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Rethinking the Delivery Architecture of Data-Intensive Visualization</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Raji</lname>
+<fname>Mohammad</fname>
+</author>
+</authors>
+<keywords>
+<keyword>data-visualization</keyword>
+<keyword>visualization systems</keyword>
+<keyword>web applications</keyword>
+</keywords>
+<abstract>&lt;p&gt;The web has transformed the way people create and consume information. However, data-intensive science applications have rarely been able to take full benefits of the web ecosystem so far. Analysis and visualization have remained close to large datasets on large servers and desktops, because of the vast resources that data-intensive applications require. This hampers the accessibility and on-demand availability of data-intensive science. In this work, I propose a novel architecture for the delivery of interactive, data-intensive visualization to the web ecosystem. The proposed architecture, codenamed Fabric, follows the idea of keeping the server-side oblivious of application logic as a set of scalable microservices that 1) manage data and 2) compute data products. Disconnected from application logic, the services allow interactive data-intensive visualization be simultaneously accessible to many users. Meanwhile, the client-side of this architecture perceives visualization applications as an interaction-in image-out black box with the sole responsibility of keeping track of application state and mapping interactions into well-defined and structured visualization requests. Fabric essentially provides a separation of concern that decouples the otherwise tightly coupled client and server seen in traditional data applications. Initial results show that as a result of this, Fabric enables high scalability of audience, scientific reproducibility, and improves control and protection of data products.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5957</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7743&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5957</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7743</articleid>
+<submission-date>2021-01-24T14:18:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>21246610</context-key>
+<submission-path>utk_graddiss/5957</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Mark Dean, Audris Mockus, Russell Zaretzki</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0001-8891-3071</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

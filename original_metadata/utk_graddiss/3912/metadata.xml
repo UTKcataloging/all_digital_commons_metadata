@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bi-Level Optimization Considering Uncertainties of Wind Power and Demand Response</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xfang2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Fang</lname>
+<fname>Xin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power systems</keyword>
+<keyword>wind power</keyword>
+<keyword>demand response</keyword>
+<keyword>electricity market</keyword>
+<keyword>reactive power planning</keyword>
+<keyword>strategic bidding</keyword>
+<keyword>energy storage</keyword>
+<keyword>financial transmission right.</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Recently, world-wide power systems have been undergone a paradigm change with increasing penetration of renewable energy. The renewable energy is clean with low operation cost while subject to significant variability and uncertainty. Therefore, integration of renewables presents various challenges in power systems. Meanwhile, to offset the uncertainty from renewables, demand response (DR) has gained considerable research interests because of DR’s flexibility to mitigate the uncertainty from renewables. In this dissertation, various power system problems using bi-level optimization are investigated considering the uncertainties from wind power and demand response.&lt;/p&gt;
+&lt;p&gt;In power system planning, reactive power planning (RPP) under high-penetration wind power is studied in this dissertation. To properly model wind power uncertainty, a multi-scenario framework based on alternating current optimal power flow (ACOPF) considering the voltage stability constraint under the worst wind scenario and transmission N-1 contingency is developed. The objective of RPP in this work is to minimize the VAR investment and the expected generation cost. Benders decomposition is used to solve this model with an upper level problem for VAR allocation optimization and generation cost minimization as a lower problem.&lt;/p&gt;
+&lt;p&gt;Then, several problems related wind power and demand response uncertainties under power market operation are investigated. These include: an efficient and effective method to calculate the LMP intervals under wind uncertainty is proposed; the load serving entities’ strategic bidding through a coupon-based demand response (CBDR) with which a load serving entity (LSE) may participate in the electricity market as strategic bidders by offering CBDR programs to customers; the impact of financial transmission right (FTR) with CBDR programs is also studied from the perspective of LSEs; and the stragegic scheduling of energy storages owned by LSEs considering the impact of charging and discharging on the bus LMP. In these problems, a bi-level optimization framework is presented with various objective functions representing different problems as the upper level problems and the ISO’s economic dispatch (ED) as the lower level problem. The bi-level model is addressed with mathematic program with equilibrium constraints (MPEC) model and mixed-integer linear programming (MILP), which can be easily solved with the available optimization software tool.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3912</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5120&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3912</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5120</articleid>
+<submission-date>2016-02-15T14:55:50-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8151198</context-key>
+<submission-path>utk_graddiss/3912</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Kai Sun, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

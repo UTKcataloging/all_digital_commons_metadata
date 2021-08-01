@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Variational and Partial Differential Equation Models for Color Image Denoising and Their Numerical Approximations using Finite Element Methods</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Yoon</lname>
+<fname>Miun</fname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Image processing has been a traditional engineering field, which has a broad range of applications in science, engineering and industry. Not long ago, statistical and ad hoc methods had been main tools for studying and analyzing image processing problems. In the past decade, a new approach based on variational and partial differential equation (PDE) methods has emerged as a more powerful approach. Compared with old approaches, variational and PDE methods have remarkable advantages in both theory and computation. It allows to directly handle and process visually important geometric features such as gradients, tangents and curvatures, and to model visually meaningful dynamic process such as linear and nonlinear diffusions. Computationally, it can greatly benefit from the existing wealthy numerical methods for PDEs.&lt;/p&gt;
+&lt;p&gt;Mathematically, a (digital) greyscale image is often described by a matrix and each entry of the matrix represents a pixel value of the image and the size of the matrix indicates the resolution of the image. A (digital) color image is a digital image that includes color information for each pixel. For visually acceptable results, it is necessary (and almost sufficient) to provide three color channels for each pixel, which are interpreted as coordinates in some color space. The RGB (Red, Green, Blue) color space is commonly used in computer displays. Mathematically, a RGB color image is described by a stack of three matrices so that each color pixel value of the RGB color image is represented by a three-dimensional vector consisting values from the RGB channels. The brightness and chromaticity (or polar) decomposition of a color image means to write the three-dimensional color vector as the product of its length, which is called the brightness, and its direction, which is defined as the chromaticity. As a result, the chromaticity must lie on the unit sphere &lt;strong&gt;S&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt; in &lt;strong&gt;R&lt;sup&gt;3&lt;/sup&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The primary objectives of this thesis are to present and to implement a class of variational and PDE models and methods for color image denoising based on the brightness and chromaticity decomposition. For a given noisy digital image, we propose to use the well-known Total Variation (TV) model to denoise its brightness and to use a generalized&lt;em&gt; p&lt;/em&gt;-harmonic map model to denoise its chromaticity. We derive the Euler-Lagrange equations for these models and formulate the gradient descent method (in the name of gradient flows) for computing the solutions of these equations. We then formulate finite element schemes for approximating the gradient flows and implement these schemes on computers using Matlab® and Comsol Multiphysics® software packages. Finally, we propose some generalizations of the p-harmonic map model, and numerically compare these models with the well-known channel-by-channel model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1847</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3202&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1847</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3202</articleid>
+<submission-date>2013-09-12T13:50:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4580996</context-key>
+<submission-path>utk_gradthes/1847</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaobing Feng</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Collins, Suzanne Lenhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

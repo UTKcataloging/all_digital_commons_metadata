@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling And Development Of A MEMS Device For Pyroelectric Energy Scavenging</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>to.salwamostafa@gmail.com</email>
+<lname>Mostafa</lname>
+<fname>Salwa</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MEMS</keyword>
+<keyword>Pyroelectric</keyword>
+<keyword>Energy scavenging</keyword>
+<keyword>Modeling</keyword>
+</keywords>
+<disciplines><discipline>Electronic Devices and Semiconductor Manufacturing</discipline>
+<discipline>Mechanics of Materials</discipline>
+<discipline>Nanotechnology Fabrication</discipline>
+</disciplines><abstract>&lt;p&gt;As the world faces an energy crisis with depleting fossil fuel reserves, alternate energy sources are being researched ever more seriously. In addition to renewable energy sources, energy recycling and energy scavenging technologies are also gaining importance. Technologies are being developed to scavenge energy from ambient sources such as vibration, radio frequency and low grade waste heat, etc. Waste heat is the most common form of wasted energy and is the greatest potential source of energy scavenging.&lt;/p&gt;
+&lt;p&gt;Pyroelectricity is the property of some materials to change the surface charge distribution with the change in temperature. These materials produce current as temperature varies in them and can be utilized to convert thermal energy to electrical energy. In this work a novel approach to vary temperature in pyroelectric material to convert energy has been investigated.&lt;/p&gt;
+&lt;p&gt;Microelectromechanical Systems or MEMS is the new technology trend that takes advantage of unique physical properties at micro scale to create mechanical systems with electrical interface using available microelectronic fabrication techniques. MEMS can accomplish functionalities that are otherwise impossible or inefficient with macroscale technologies. The energy harvesting device modeled and developed for this work takes full benefit of MEMS technology to cycle temperature in an embedded pyroelectric material to convert thermal energy from low grade waste heat to electrical energy. Use of MEMS enables improved performance and efficiency and overcomes problems plaguing previous attempts at pyroelectric energy conversion. A Numerical model provides accurate prediction of MEMS performance and sets design criteria, while physics based analytical model simplifies design steps. A SPICE model of the MEMS device incorporates electrical conversion and enables electrical interfacing for current extraction and energy storage. Experimental results provide practical implementation steps towards of the modeled device. Under ideal condition the proposed device promises to generate energy density of 400 W/L.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1208</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2245&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1208</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2245</articleid>
+<submission-date>2011-07-13T10:03:26-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2245/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2098807</context-key>
+<submission-path>utk_graddiss/1208</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Jayne Wu, Michael J. Sepaniak</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Self_Oscillation.mph</archive-name>
+<upload-name>Self_Oscillation.mph</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2245&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>COMSOL Model</description>
+</file>
+<file>
+<archive-name>multilayer_cantilever.m</archive-name>
+<upload-name>multilayer_cantilever.m</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=2245&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Analytical Model for multilayer cantilever (MATLAB File)</description>
+</file>
+<file>
+<archive-name>thermomechanical_t.m</archive-name>
+<upload-name>thermomechanical_t.m</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=2245&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>Analytical model for temporal response (MATLAB File)</description>
+</file>
+<file>
+<archive-name>6_flat_oscillating_cantilever.wmv</archive-name>
+<upload-name>6_flat_oscillating_cantilever.wmv</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=2245&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-ms-asf</mime-type>
+<description>VIdeo of oscillating cantilever (Windows Audio/video )</description>
+</file>
+<file>
+<archive-name>7_resonating_flat_cantilever.wmv</archive-name>
+<upload-name>7_resonating_flat_cantilever.wmv</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=2245&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-ms-asf</mime-type>
+<description>VIdeo of self-oscillating cantielver</description>
+</file>
+<file>
+<archive-name>ATM_Cooling.wmv</archive-name>
+<upload-name>ATM_Cooling.wmv</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=2245&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-ms-asf</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling, Analysis, and Control of a Mobile Robot for &lt;i&gt;In Vivo&lt;/i&gt; Fluoroscopy of Human Joints during Natural Movements</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>myoung41@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Young</lname>
+<fname>Matthew</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Robotics</keyword>
+<keyword>Fluoroscopy</keyword>
+<keyword>Biomedical</keyword>
+<keyword>Coupled</keyword>
+<keyword>Control</keyword>
+</keywords>
+<disciplines><discipline>Bioimaging and Biomedical Optics</discipline>
+<discipline>Controls and Control Theory</discipline>
+<discipline>Electro-Mechanical Systems</discipline>
+<discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, the modeling, analysis and control of a multi-degree of freedom (mdof) robotic fluoroscope was investigated. A prototype robotic fluoroscope exists, and consists of a 3 dof mobile platform with two 2 dof Cartesian manipulators mounted symmetrically on opposite sides of the platform. One Cartesian manipulator positions the x-ray generator and the other Cartesian manipulator positions the x-ray imaging device. The robotic fluoroscope is used to x-ray skeletal joints of interest of human subjects performing natural movement activities. In order to collect the data, the Cartesian manipulators must keep the x-ray generation and imaging devices accurately aligned while dynamically tracking the desired skeletal joint of interest. In addition to the joint tracking, this also requires the robotic platform to move along with the subject, allowing the manipulators to operate within their ranges of motion.&lt;/p&gt;
+&lt;p&gt;A comprehensive dynamic model of the robotic fluoroscope prototype was created, incorporating the dynamic coupling of the system. Empirical data collected from an RGB-D camera were used to create a human kinematic model that can be used to simulate the joint of interest target dynamics. This model was incorporated into a computer simulation that was validated by comparing the simulation results with actual prototype experiments using the same human kinematic model inputs. The computer simulation was used in a comprehensive dynamic analysis of the prototype and in the development and evaluation of sensing, control, and signal processing approaches that optimize the subject and joint tracking performance characteristics.&lt;/p&gt;
+&lt;p&gt;The modeling and simulation results were used to develop real-time control strategies, including decoupling techniques that reduce tracking error on the prototype. For a normal walking activity, the joint tracking error was less than 20 mm, and the subject tracking error was less than 140 mm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2746</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3969&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2746</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3969</articleid>
+<submission-date>2014-02-03T17:09:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5059326</context-key>
+<submission-path>utk_graddiss/2746</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary V. Smith, Xiaopeng Zhao, Seddik M. Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

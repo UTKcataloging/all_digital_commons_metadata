@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of Microfluidic Platforms for Studies of Cellular Organization in &lt;i&gt;Escherichia Coli&lt;/i&gt;</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ajenni10@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jennings</lname>
+<fname>Anna</fname>
+<mname>Dawn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>microfluidics</keyword>
+<keyword>bacterial growth</keyword>
+<keyword>lab-on-a-chip</keyword>
+<keyword>agarose</keyword>
+<keyword>PDMS</keyword>
+<keyword>e.coli</keyword>
+</keywords>
+<disciplines><discipline>Biological and Chemical Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Traditionally, bacteria cells have been imaged on agarose pads allowing them to grow in steady conditions for only a few doubling times. To understand the cellular organization in bacteria, tools are needed that allow the observation of log-phase cells for many generations. In recent years, several microfluidic platforms have been designed that allow microscopic imaging of bacteria for over one hundred generations. One of the most promising approaches has been the so-called mother machine design where bacteria grow in small dead-end channels all connected to a large main channel, which is used to flow fresh nutrients to the cells and to dispose of excess cells and waste. The mother machine chips are made of PDMS (polydimethylsiloxane) and are easy to assemble and usable over long periods of time. However, the cell loading process is time consuming, the chips do not enable high resolution phase contrast imaging, and as has turned out, there is a nutrient gradient in the pockets meaning that cells further from the main channel experience nutrient deprivation. Here, we investigate two extensions to mother machine platform to overcome these shortcomings. The first platform, which we refer to as the flow through chip, allows the liquid to flow over all the cells in the pockets through a small connector and thereby decreasing the nutrient gradient. This platform also significantly decreases the loading time of cells. However, the fabrication of the connector size needs to be resolved so the cells cannot push through, which has happened in the largest connector size, 0.4µm [micrometer]. The second platform follows the original mother machine design but is made of agarose. This chip produces good quality phase contrast images of cells since the index of refraction of agarose is like that of water. Also, the diffusion of nutrients is more consistent throughout agarose which helps decrease the nutrient gradient. However, the cell loading and assembly is much more cumbersome and does not allow for the analysis of lots of cells. Once the assembly process is more repeatable, the agarose based design will be extremely valuable in imaging cells for many generations in log-phase growth.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4711</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5613&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4711</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5613</articleid>
+<submission-date>2016-10-28T09:48:54-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5613/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>9319167</context-key>
+<submission-path>utk_gradthes/4711</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jaan Mannik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rachel P. McCord, Christine Nattrass</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of Adjoint Flux Calculation for Detector Response Estimation in Typical PWR Conditions</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>shende25@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Henderson</lname>
+<fname>Shane</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Detector Response</keyword>
+<keyword>Nuclear</keyword>
+</keywords>
+<abstract>&lt;p&gt;Reactor power is sensed by ex-core instrumentation by measuring the core neutron leakage. The measured magnitude of this leakage is sensitive to the conditions in which the reactor is operating. By being able to accurately estimate the neutron flux which will reach the detector position we can accurately estimate the power level and power distribution for a variety of operating conditions. The analysis presented here seeks to establish a minimum parameter set for solving an adjoint reactor problem at given conditions which can then be used to estimate the response using the forward solution at a different set of conditions. This type of estimation can be utilized for determining detector placement, detector design, and detector calibration procedures. Further extensions can be utilized in establishing conservative criteria for core protective actions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5497</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6970&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5497</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6970</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914277</context-key>
+<submission-path>utk_gradthes/5497</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald Pevey</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-2300-2423</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

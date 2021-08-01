@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Enhanced Dynamic Slope Scaling Procedure with Tahu Scheme for Fixed Charge Network Flow Problems</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Pan</lname>
+<fname>Xinyan</fname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, a heuristic algorithm for solving large scale fixed charge network problems (FCNFP) based on the dynamic slope scaling procedure (DSSP) and tabu search strategies is presented. The proposed heuristic (the enhanced DSSP) integrates the DSSP with the classical short-term memory intensification and long-term memory diversification mechanism in the tabu search to improve the performance of the pure DSSP. With the feature of dynamically evolving memory, the enhanced DSSP evaluates the solutions in the search history and it iteratively adjusts the linear factors of the LP approximations of the FCNFP to produce promising search neighborhoods for good quality solutions. Comprehensive numerical experiments are included in this thesis, ranging from sparse to dense network problems generated randomly. The computational results of the pure DSSP, the enhanced DSSP and branch and bound (B&amp;B) are compared in terms of solution quality and CPU time. The enhanced DSSP approach has higher solution quality than the pure DSSP and much less computation time than B&amp;B.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4682</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6295&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4682</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6295</articleid>
+<submission-date>2017-08-16T07:00:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10608037</context-key>
+<submission-path>utk_gradthes/4682</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dukwon Kim</value>
+</field>
+<field name="advisor2" type="string">
+<value>ARRAY(0x7f6ff7efed98)</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

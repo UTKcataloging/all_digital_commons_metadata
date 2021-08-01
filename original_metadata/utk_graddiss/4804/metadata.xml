@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Efficient Algorithms for Solving Facility Problems with Disruptions</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kzhang7@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Kaike</fname>
+</author>
+</authors>
+<keywords>
+<keyword>reliable facility location</keyword>
+<keyword>facility disruptions</keyword>
+<keyword>fortification</keyword>
+<keyword>cutting plane algorithm</keyword>
+<keyword>robust optimization</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study investigates facility location problems in the presence of facility disruptions. Two types of problems are investigated. Firstly, we study a facility location problem considering random disruptions. Secondly, we study a facility fortification problem considering disruptions caused by random failures and intelligent attacks.We first study a reliable facility location problem in which facilities are faced with the risk of random disruptions. In the literature, reliable facility location models and solution methods have been proposed under different assumptions of the disruption distribution. In most of these models, the disruption distribution is assumed to be completely known, that is, the disruptions are known to be uncorrelated or to follow a certain distribution. In practice, we may have only limited information about the distribution. In this work, we propose a robust reliable facility location model that considers the worst-case distribution with incomplete information. Because the model imposes fewer distributional assumptions, it includes several important reliable facility location problems as special cases. We propose an effective cutting plane algorithm based on the supermodularity of the problem. For the case in which the distribution is completely known, we develop a heuristic algorithm called multi-start tabu search to solve very large instances.In the second part of the work, we study an r-interdiction median problem with fortification that simultaneously considers two types of disruption risks: random disruptions that happen probabilistically and disruptions caused by intentional attacks. The problem is to determine the allocation of limited facility fortification resources to an existing network. The problem is modeled as a bi-level programming model that generalizes the r-interdiction median problem with probabilistic fortification. The lower level problem, that is, the interdiction problem, is a challenging high-degree non-linear model. In the literature, only the enumeration method is applied to solve a special case of the problem. By exploring the special structure property of the problem, we propose an exact cutting plane method for the problem. For the fortification problem, an effective logic based Benders decomposition algorithm is proposed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4804</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6344&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4804</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6344</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276348</context-key>
+<submission-path>utk_graddiss/4804</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bogdan Bichescu, Mingzhou Jin, John E. Kobza</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

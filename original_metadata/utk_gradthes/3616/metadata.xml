@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of Fuel Flow Measurement Uncertainty in a Turbine Engine Test Cell</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pwrigh15@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wright</lname>
+<fname>Paul</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>measurement uncertainty</keyword>
+<keyword>fuel flow</keyword>
+</keywords>
+<disciplines><discipline>Other Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The evaluation of measurement uncertainty is an essential part of measurement and data analysis. Measurement uncertainty is itself a measure of the “goodness” of the measured data and helps the analyst to make decisions based on the data. In the turbine engine testing world, accurate measurement of fuel flow is critical. Specific fuel consumption is a combination of thrust and fuel flow and is used to calculate the allowable payload and range of an aircraft as well as the cruising speed. Naturally, test customers (engine manufacturers, aircraft designers, and operators) are very sensitive to the accuracy of fuel flow measurement. This thesis presents a statistically defensible methodology for determining the uncertainty of fuel flow measurement in a turbine engine test cell.&lt;/p&gt;
+&lt;p&gt;Fuel flow in most turbine engine test applications is measured using a volumetric turbine flowmeter. The mass flow rate of the fuel flow is calculated using the SAE ARP 4990 standard. The ARP 4990 method of fuel flow calculation is complicated and involves many parameters. An analysis of the influence coefficients for each of the input parameters was performed and found that four main parameters have a significant impact on fuel flow uncertainty: flowmeter frequency, flowmeter calibration, fuel operating temperature, and relative density at a chosen reference temperature. A method was developed for deriving a statistically defensible estimate of the uncertainty for each of the elemental error sources. The elemental uncertainties were then propagated to the result using both the Taylor’s Series method and the Monte Carlo method, which yielded nearly identical results.&lt;/p&gt;
+&lt;p&gt;The method presented herein will aid in the evaluation of fuel flow uncertainty at AEDC. Compared to historical practices, this method results in a significant reduction in total fuel flow uncertainty and a much higher degree of statistical defensibility.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3616</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4920&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3616</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4920</articleid>
+<submission-date>2015-10-09T06:50:35-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7698658</context-key>
+<submission-path>utk_gradthes/3616</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Simonton, Ahmad Vikili</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

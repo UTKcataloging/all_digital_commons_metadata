@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Formulation and Assessment of a Customizable Procedure for Pavement Distress Index</title>
+<publication-date>2000-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Zongren</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A customizable procedure for the formulation of Pavement Distress Index (PDI) based on human rating behavior is presented in this dissertation. This procedure formulates PDI as the maximum PDI value in a user-defined scale minus the Total Deduct Value (TDV), which is the sum of the product of each individual Deduct-Value (DV) and its corresponding weight. These weights, defined as a function of corresponding DV-percentages, i.e. individual DV over TDV, are identified using data simulated according to the studies by Sun and Yao (1991) and PAVER, a Pavement Management System (PMS) developed by the U. S. Army Corps of Engineers. Because these functions, called weight-curves captured from the two independent studies are quite similar, the rating behavior of pavement experts can be concluded to be reasonably stable, and therefore PDI may be formulated by fixing the weight-curve and customizing individual DVs only.&lt;/p&gt;
+&lt;p&gt;Non-linear programming techniques are employed in this study. DVs for userdefined distresses are determined when the total squared sum of the difference between user-rated PDI and that computed by the proposed formulation for a series of samples is minimized. Initially, simulated data from PAVER was used to establish and illustrate this procedure. Field data was later on used for validation purposes. The proposed methodology caters to user-defined PDI scales and distress definitions, and determines DVs for user-defined distresses so that the user-rated PDIs can be reproduced when similar pavement conditions happen. This procedure simplified the iterative PDI formulation process to the automated customization of deduct-values, it would thus greatly facilitate the formulation of a PDI for agencies that are implementing a PMS.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2033</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3469&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2033</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3469</articleid>
+<submission-date>2013-09-25T08:12:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4626274</context-key>
+<submission-path>utk_graddiss/2033</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael D. Vose, Robert E. Ford, Stephen Richards</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2000-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

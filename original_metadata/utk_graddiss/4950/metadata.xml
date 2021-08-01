@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Semantic Unsupervised Learning Approach to Word Sense Disambiguation</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dmartin3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Martin</lname>
+<fname>Dian</fname>
+<mname>I.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Word Sense Disambiguation</keyword>
+<keyword>Natural Language Processing</keyword>
+<keyword>Unsupervised Learning</keyword>
+<keyword>Latent Semantic Analysis</keyword>
+<keyword>Text Analytics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Word Sense Disambiguation (WSD) is the identification of the particular meaning for a word based on the context of its usage. WSD is a complex task that is an important component of language processing and information analysis systems in several fields. The best current methods for WSD rely on human input and are limited to a finite set of words. Complicating matters further, language is dynamic and over time usage changes and new words are introduced. Static definitions created by previously defined analyses become outdated or are inadequate to deal with current usage. Fully automated methods are needed both for sense discovery and for distinguishing the sense being used for a word in context to efficiently realize the benefits of WSD across a broader spectrum of language. Latent Semantic Analysis (LSA) is a powerful automated unsupervised learning system that has not been widely applied in this area. The research described in this proposal will apply advanced LSA techniques in a novel way to the WSD tasks of sense discovery and distinguishing senses in use.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4950</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6491&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4950</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6491</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415153</context-key>
+<submission-path>utk_graddiss/4950</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Audris Mockus, Kevin J. Reilly, Bradley T. Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

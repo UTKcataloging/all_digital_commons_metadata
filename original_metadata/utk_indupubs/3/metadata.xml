@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Risk-averse Reliability Optimization in Electronic Product Design Considering Component and Non-component Failures</title>
+<publication-date>2008-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Jin</lname>
+<fname>Tongdan</fname>
+</author>
+<author>
+<email>hliao@email.arizona.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liao</lname>
+<fname>Haitao</fname>
+</author>
+<author>
+<lname>Wang</lname>
+<fname>Peng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>electronic product</keyword>
+<keyword>component failure</keyword>
+<keyword>non-component failure</keyword>
+<keyword>reliability optimisation</keyword>
+<keyword>genetic algorithm</keyword>
+<keyword>mean-time-between-failures</keyword>
+<keyword>MTBF</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Reliability prediction assists manufacturers to eliminate product failures in the development stage and also allocate engineering resources to implement corrective actions after product shipment. This paper proposes a practical reliability prediction model for estimating failure rates of printed-circuit-boards during the development stage. Unlike traditional reliability prediction models focusing only on component failures, the new method further considers non-component failures due to design, software, manufacturing and process. Component failure rates are estimated based on either historical data or baseline failure rates adjusted by operating conditions. Triangular distributions are used to model non-component failure rates. Finally, an optimisation problem is formulated in order to minimise the upper bound of the failure rate under cost constraints. A genetic algorithm is used to search the optimal solution. The optimisation method is demonstrated by the design of a DC/analogue instrument board used in the automatic test equipment in semiconductor industry.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/3</coverpage-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1004</articleid>
+<submission-date>2010-04-23T10:59:43-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1286334</context-key>
+<submission-path>utk_indupubs/3</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-04-23T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.inderscience.com/browse/index.php?journalID=36&amp;year=2008&amp;vol=5&amp;issue=1/2</value>
+</field>
+</fields>
+</document>
+</documents>

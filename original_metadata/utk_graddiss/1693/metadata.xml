@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Control of Solar Photovoltaic (PhV) Power Generation In  Grid-connected and Islanded Microgrids</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sadhikar@utk.edu</email>
+<lname>Adhikari</lname>
+<fname>Sarina</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Solar Photovoltaic generation</keyword>
+<keyword>controls</keyword>
+<keyword>microgrids</keyword>
+<keyword>inverter</keyword>
+<keyword>converter</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;With the ever increasing electricity demand, fast depletion of fossil fuel and the growing trend towards renewable energy resources, the integration of green distributed energy resources (DERs) such as solar photovoltaic (PhV) generation and wind power in the utility grid is gaining high popularity in the present years. The capability of these modular generators needs to be harnessed properly in order to achieve the maximum benefit out of such integrated systems. Most DERs are connected to the utility grid or microgrids with the help of power electronics interface. They are capable of producing both active and reactive power with the proper control of the inverter interface.&lt;/p&gt;
+&lt;p&gt;This dissertation focuses on examination of the capability of the renewable energy based DERs, such as solar PhV array and battery energy storage system (BESS) in providing voltage support in grid connected low-voltage microgrids and both voltage and frequency support in islanded microgrids. In addition, active and reactive (a.k.a. nonactive) power control capability of the PhV generators to supply the local loads assigned by the microgrid central operator in grid connected mode is also investigated. The control methods are developed by using a Proportional and Integral (PI) controller. A new method of Maximum Power Point Tracking (MPPT) of solar array including the MPPT at solar PhV array side and a new control method of transferring this MPP power to the inverter side insuring the DC voltage stability by using the concept of power balance at various conversion stages is proposed and studied. The dissertation also proposes a new coordinated control method for voltage and frequency regulation of microgrid with solar PhV generator operating at MPP and backed up by battery energy storage systems. A coordinated active and reactive power control for solar PhV generator with MPPT control and battery storage is also proposed and investigated. Various case studies are presented to validate the proposed methods. The simulation results clearly prove the effectiveness of the proposed control methods&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1693</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2954&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1693</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2954</articleid>
+<submission-date>2013-04-02T20:10:13-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2954/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3987063</context-key>
+<submission-path>utk_graddiss/1693</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Yilu Liu, Yanfei Gao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

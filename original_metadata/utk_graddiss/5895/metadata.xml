@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mechanics and Design of Stiffness-Modified Continuum Robots and Endoscopic Instruments</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>koliverb@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Oliver Butler</lname>
+<fname>Kaitlin</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This dissertation contributes to the growing literature on continuum robot modeling, design, and application.&lt;/p&gt;
+&lt;p&gt;Chapter 2 addresses tendon robots, beginning by deriving analytical models of robot deflection due to external loads in terms of load location, tendon stiffness, backbone stiffness, and tendon routing. These formulas clarify relationships between robot design and loaded deflection; they show that moving the tendon termination point closer to the robot centerline vastly improves stiffness. For robotic control and large deflections, it develops a Cosserat-rod-based model that uses tendon displacement inputs and accounts for factors such as tendon slack and stretch. Simulations demonstrate significant advantages in robot stiffness with tendon displacement control vs. tension control. These models are validated experimentally.&lt;/p&gt;
+&lt;p&gt;Chapter 3 introduces Notched-Tube Continuum Robots (NTCRs), a novel continuum actuation paradigm. The chapter derives a kinetostatics model and explores the design space of NTCRs with a design process for achieving desired planar shapes. Prototypes of varying cross sections, materials, and geometries were created with this process and used to experimentally validate a varying-curvature kinematics model, with generally good agreement. The design scheme is then extended to intake a desired tip pose and validated in simulation. The chapter ends by discussing implementation and offers practical advice for those seeking to utilize NTCRs.&lt;/p&gt;
+&lt;p&gt;Chapter 4 details the design and evaluation of an at-scale, NTCR-based tool for use in minimally invasive surgery via flexible endoscopes. Endoscopic instruments vii must be compliant in bending but axially and torsionally stiff, motivating the development of a model that analytically relates the anisotropic stiffness of a symmetrically notched tube to its notch parameters. This enables notch designs that attain specified axial, torsional, and bending rigidities. For the tool, colorectal lesion removal determines the rigidity targets. Two versions of the instrument are prototyped, both with a passive, flexible transmission and an NTCR tip. The study evaluates the tip output response for base inputs of rotation, translation, and actuation when deployed through a mock colonoscope channel, demonstrating that the concept is effective. The design and evaluation methodologies utilized here are adaptable for tool development for other endotherapies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5895</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7661&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5895</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7661</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527822</context-key>
+<submission-path>utk_graddiss/5895</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Rucker</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Hamel, Jessica Burgner-Kahrs, Brett Compton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2026-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

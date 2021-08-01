@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Distributed Sensor Network Data Fusion for Nuclear Security Applications</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>istewar1@vols.utk.edu</email>
+<lname>Stewart</lname>
+<fname>Ian</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Radiation Detection</keyword>
+<keyword>Bayesian Statistics</keyword>
+<keyword>Data Fusion</keyword>
+<keyword>Sensor Network</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Detecting, locating, and interdicting radiological materials out of regulatory control or that pose a threat to the general public remains a high national security priority. Conventional methods employed a radiation detection system to detect radiological materials and alert the appropriate authorities for interdiction procedures. More recently, the concept of operations has focused to deploying multiple radiation detection systems to detect and track radiological materials, providing more detail to aid end-users during the interdiction process. The research proposed in this document utilizes data from a distributed sensor network to detect and track radiation anomalies through a network. The primary original contributions of the proposed research focus on creating data fusion techniques between contextual sensors radiation sensors using a Bayesian framework. The Bayesian framework utilizes extracted features from multiple modalities to populate a feature vector to provide more detail regarding the detected anomaly. Utilizing the extracted features from each sensor modality positioned at a node in the network, additional information is inferred, (e.g., source activity, direction, velocity, or time-to-next node), which is sourced to increase downstream sensors’ sensitivities. Using the Bayesian framework on sensor data collected from a distributed sensor network on the Oak Ridge National Laboratory reservation, two configurations were analyzed: radiation-only sensor configuration and multimodal sensor configuration. The radiation-only approach is employed to demonstrate how features extracted from the radiation data and metadata can be utilized to detect and track anomalies. The radiation-only sensor configuration also provides a metric of comparison to quantify any improvements additional contextual sensors provide. The multimodal approach expands upon this architecture by fusing the extracted features from the LIDAR and video data to enhance the ability to track the radioactive materials. Using multiple sensor improved the ability to track the anomalies and correlate signals across the sensor network by as much as 33%. In all anomalous events analyzed within this work, the classification confidence for the &lt;em&gt;same anomaly&lt;/em&gt; was enhanced by fusing the LIDAR and video data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6190</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7100&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6190</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7100</articleid>
+<submission-date>2020-07-21T08:47:20-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7100/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18602726</context-key>
+<submission-path>utk_graddiss/6190</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Howard L. Hall</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jason P. Hayward, Lawrence H. Heilbronn, Daniel E. Archer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

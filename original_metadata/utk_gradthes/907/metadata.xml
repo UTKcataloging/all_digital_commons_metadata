@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>DEVELOPMENT AND ANALYSIS OF ONBOARD TRANSLUNAR INJECTION TARGETING ALGORITHMS</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>preed5@utk.edu</email>
+<lname>Reed</lname>
+<fname>Phillippe</fname>
+<mname>Lyles Winters</mname>
+</author>
+</authors>
+<keywords>
+<keyword>astrodynamics</keyword>
+<keyword>orbital mechanics</keyword>
+<keyword>translunar injection burn</keyword>
+<keyword>moon missions</keyword>
+<keyword>predictor corrector</keyword>
+<keyword>perilune</keyword>
+</keywords>
+<disciplines><discipline>Astrodynamics</discipline>
+<discipline>Dynamics and Dynamical Systems</discipline>
+<discipline>Dynamic Systems</discipline>
+<discipline>Navigation, Guidance, Control and Dynamics</discipline>
+<discipline>Non-linear Dynamics</discipline>
+<discipline>Numerical Analysis and Computation</discipline>
+<discipline>Ordinary Differential Equations and Applied Dynamics</discipline>
+<discipline>Space Vehicles</discipline>
+</disciplines><abstract>&lt;p&gt;Several targeting algorithms are developed and analyzed for possible future use onboard a spacecraft. Each targeter is designed to determine the appropriate propulsive burn for translunar injection to obtain desired orbital parameters upon arrival at the moon. Primary design objectives are to minimize the computational requirements for each algorithm but also to ensure reasonable accuracy, so that the algorithm’s errors do not force the craft to conduct large mid-course corrections. Several levels of accuracy for dynamical models are explored, the convergence range and speed of each algorithm are compared, and the possible benefits of the Broyden and trust-region targeters are evaluated. These targeters provide a proof of concept for the feasibility of a translunar injection targeting algorithm. Anticipating some future improvements, these algorithms could serve as a viable alternative to uploading ground-based targeting solutions and bypass the problems of delays and disruptions in communication, enabling the craft to conduct a translunar injection burn autonomously.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/907</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1981&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>907</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1981</articleid>
+<submission-date>2011-04-03T18:06:55-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1981/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1916507</context-key>
+<submission-path>utk_gradthes/907</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Evans Lyne</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

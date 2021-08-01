@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of an incipient fault detection and isolation method for the steam generator system of a nuclear power plant</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Lu</lname>
+<fname>Baofu</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;For a complex system such as a nuclear power plant, safe and efficient control operation requires reliable and timely information about the state of the process. Therefore, fault detection and isolation (FDI), aiming at finding abnormal sensors and field devices at early stages of degradation, is very important in monitoring the status and improving the overall productivity of nuclear power plants. Many FDI techniques have been developed in recent years. They generally involve the use of data-driven modeling, multivariate statistical analysis, stochastic estimation methods (such as the Kalman filter), applied artificial intelligence methods, and others. Most of the approaches focus on the fault detection at the device level. A large-scale system, such as a power plant, consists of distributed control loops with interaction among system level devices. This thesis considers the effect of inherent control loop feedback at the system level, nonlinear characteristics of power plant components, and fault detection and isolation both at steady state and during transient operations. The independent research presented in this thesis addresses these issues . with application to the steam generator system of a typical PWR. The new FDI algorithm is able to diagnose not only abnormal sensors and actuators, but also process anomalies under both static and transient conditions. The integrated FDI algorithm developed in this study is divided into model prediction residual generation modules and residual analysis modules. Static and temporal system characterization has been developed using the Group Method of Data Handling (GMDH) modeling method to extract information from plant measurements. The residuals from GMDH modules are analyzed using the principal component analysis (PCA) for fault classification, along with a nearest neighbor approach. Simple rules are generated to understand the behavior of process variables and control functions during normal and faulty device operations. A large database of steam generator (SG) operation has been created using a full-scope PWR simulation code developed by the North Carolina State University (NCSU). The performance of the FDI method and the associated algorithms is evaluated using test data from operation at several different power levels. Multiple model prediction residual analysis techniques have been implemented in order to increase the robustness of sensor and field device fault isolation. These include a rule-based system, directional analysis of residuals using the PCA, and nearest neighbor pattern classification. The confidence level is quantified as a function of the correspondence between the postulated fault types and the test cases.                                                                                                                                                                                                                                                                                                                                The FDI system has also been successfully implemented for monitoring other subsystem components such as the feed pump. Even though this demonstration is limited in scope, it illustrates the potential application of the developed techniques to include a larger system boundary. An independent MATLAB-based graphical user interface (GUI) module has been developed to demonstrate the implementation of FDI algorithms during static and transient FDI conditions. This demonstration provides the implementation of the FDI system in an interactive fashion. The FDI modules developed in this thesis can potentially be incorporated into current or future nuclear power plants for on-line monitoring and for making decisions about the maintenance and/or replacement of critical devices.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5955</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7588&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5955</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7588</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467617</context-key>
+<submission-path>utk_gradthes/5955</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Acoustic monitoring of wildlife in inaccessible areas and automatic detection of bird songs from continuous recordings</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ehockman@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hockman</lname>
+<fname>Emily</fname>
+<mname>Vera</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Bird song</keyword>
+<keyword>automatic detection</keyword>
+</keywords>
+<abstract>&lt;p&gt;The use of new technology for wildlife monitoring comes with both possible benefits and challenges. Unmanned aerial vehicles (UAVs) and automatic recording units (ARUs) can allow researchers to automatically record videos, photographs, and audio recordings of animals in unusual or inaccessible locations. However, new acoustic monitoring techniques require innovative methods to extract and utilize data from acoustic recordings. In this project we developed novel technology to record bird songs in inaccessible areas and demonstrated a useful method for extracting and classifying songs from continuous recordings. The autonomous aerial acoustic recording system (AAARS) was a UAV developed at the University of Tennessee capable of generating high-quality WAV recordings of bird songs in a variety of landscapes. The AAARS was completely silent in flight controlled by a ground-based computer monitoring station. I developed a model to convert the AAARS GPS-based flight path into a microphone exposure surface to relate species-specific acoustic signals recorded to area of microphone coverage. The vocalizations per unit area per unit time for a given focal species could then be used as an index of relative abundance or as an input in density estimation. Once collected, extraction and classification of birdsongs from acoustic recordings remains a major technological challenge. I used quadratic discrimination analysis to differentiate between inter- and intra-specific bird songs using up to sixteen acoustic measurements on human-extracted signals from audio spectrograms of five focal songbird species. Measurement-based classification was successful at separating the five species apart with only ≤5% classification error. I then used a template-matching model to extract target birdsongs from continuous field recordings and investigated the efficiency of different analytical options for classification of five focal songbird species. Decision trees, neural networks, and quadratic discriminant analysis all produced similar classification results. The means to optimize the analytical approach varied by species. I concluded that a species-specific approach should be used to accurately extract and classify songs from continuous recordings.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4874</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6415&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4874</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6415</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13414913</context-key>
+<submission-path>utk_graddiss/4874</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David A. Buehler</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard A. Fischer, Todd M. Freeberg, John B. Wilkerson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Natural Resources</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

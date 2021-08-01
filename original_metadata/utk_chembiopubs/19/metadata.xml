@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploiting Single-File Motion in One-Dimensional Nanoporous Materials for Hydrocarbon Separation</title>
+<publication-date>2003-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Adhangale</lname>
+<fname>Parag</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Nanoporous materials; Single-file motion; Molecular dynamics; Adsorption; AlPO4-5; Methane; Ethane</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The mobility of fluids adsorbed in nanoporous materials is a strong function of the size, shape, and dimensionality of the porous network. Nowhere is this dependence demonstrated more drastically than by fluids adsorbed in one-dimensional (cylinder-like) nanopores. It has been demonstrated theoretically, computationally, and experimentally that the mobility of a fluid adsorbed in one-dimensional nanopores varies with adsorbate size not only quantitatively (over several orders of magnitude) but also qualitatively.1-4[1], [2], [3], [4]] When the pore size is small enough to prohibit passing of individual fluid molecules in the pore, the ordinary diffusion (where the mean square displacement is proportional to the observation time, and the proportionality constant is the diffusion coefficient) gives way to single-file motion (where the mean square displacement is proportional to the square root of the observation time, and the proportionality constant no longer has units of diffusivity). This difference in qualitative modes of motion results in a drastic quantitative difference in mobility; the single-file mode is much slower.&lt;/p&gt;
+&lt;p&gt;Using molecular dynamics simulations of methane and ethane in the one-dimensional molecular sieve, AlPO&lt;sub&gt;4&lt;/sub&gt;-5, this work demonstrates that the transition from ordinary diffusion to single-file motion can be exploited to effect a kinetic separation. In this case, methane molecules are small enough to pass each other in the pores of AlPO&lt;sub&gt;4&lt;/sub&gt;-5. The ethane molecules are too large to pass and undergo single-file motion. When a mixture of these two fluids is adsorbed in AlPO&lt;sub&gt;4&lt;/sub&gt;-5, the methane can still pass ethane and retains its fast, ordinary mode of diffusion. Thus, by careful selection of the adsorbent, we create an environment where these two fluids, with roughly the same bulk diffusivities, exhibit mobilities differing by several orders of magnitude.&lt;/p&gt;
+&lt;p&gt;This transport phenomenon has no bulk analog; it is a novel characteristic of fluids confined in nanoscale channels.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/19</coverpage-url>
+<label>19</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1035</articleid>
+<submission-date>2010-05-21T08:11:11-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1323382</context-key>
+<submission-path>utk_chembiopubs/19</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Adhangale, P. &amp; Keffer, D. (2003). Exploiting Single-File Motion in One-Dimensional Nanoporous Materials for Hydrocarbon Separation. Separation Science and Technology, 38(5), 977-998. doi:10.1081/SS-120018119</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-21T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.informaworld.com/smpp/content~db=all~content=a713732552~frm=titlelink?words=keffer</value>
+</field>
+</fields>
+</document>
+</documents>

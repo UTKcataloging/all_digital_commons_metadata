@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improving Ozone SIP Modeling in Complex Terrain at a Fine Grid Resolution</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kim01@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kim</lname>
+<fname>Yunhee</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ozone SIPs</keyword>
+<keyword>CMAQ</keyword>
+<keyword>PBL</keyword>
+<keyword>LSMs</keyword>
+<keyword>RRFs</keyword>
+</keywords>
+<disciplines><discipline>Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Meteorological variables such as temperature, wind speed, wind directions, and Planetary Boundary Layer (PBL) heights have critical implications for air quality simulations. Sensitivity simulations with five different PBL schemes associated with three different Land Surface Models (LSMs) were conducted to examine the impact of meteorological variables on the predicted ozone concentrations using the Community Multiscale Air Quality (CMAQ) version 4.5 with local perspective.  Additionally, the nudging analysis for winds was adopted with three different coefficients to improve the wind fields in the complex terrain at 4-km grid resolution. The simulations focused on complex terrain having valley and mountain areas for ozone SIPs (State Implementation Plans).  The ETA M-Y (Mellor-Yamada) and G-S (Gayno-Seaman) PBL schemes were identified as favorite options and promote O3 formation causing the higher temperature, slower winds, and lower mixing height among sensitivity simulations in the area of study.&lt;/p&gt;
+&lt;p&gt;It was found that PX simulation did not always give optimal meteorological and CMAQ model performances at mountain sites.  The results of nudging analysis for winds with three different increased coefficients’ values (2.5, 4.5, and 6.0 x 10-4 per second) over seven sensitivity simulations show that the meteorological model performance was enhanced due to improved wind fields, indicating the FDDA (Four Dimensional Data Assimilation) nudging analysis can improve model performance considerably at 4-km grid resolution.  Specifically, the sensitivity simulations with the coefficient value (6.0 x 10–4) yielded more substantial improvements than with the other values (2.5 and 4.5 x 10-4).  Hence, choosing the nudging coefficient of 6.0 x 10-4 per second for winds in MM5 may be the best choice to improve wind fields as an input, as well as, better model performance of CMAQ in the complex terrain area.&lt;/p&gt;
+&lt;p&gt;The sensitivity of RRFs (Relative Response Factors) to the PBL scheme may be considerably significant with about 1-3 ppb in difference in determining whether the attainment test is passed or failed.  Finally, a finer grid resolution was necessary to evaluate and access of CMAQ results for giving a detailed representation of meteorological and chemical processes in the regulatory modeling.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/714</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1693&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>714</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1693</articleid>
+<submission-date>2010-02-23T15:03:01-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1693/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1166239</context-key>
+<submission-path>utk_graddiss/714</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Terry L. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Joshua S. Fu, Wayne T. Davis, Bruse Ralston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

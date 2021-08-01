@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Track Prediction for Border Security Using a Discrete Kalman Filter</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jhicker2@utk.edu</email>
+<lname>Hickerson</lname>
+<fname>Jonathan</fname>
+<mname>William</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Kalman Multisensor Tracking</keyword>
+</keywords>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Border security systems are a critical component in the prevention of the transnational trafficking of unlawful goods. For economic, environmental, and public safety related reasons, it is obviously desirable to prevent the transfer of materials such as illicit drugs, nuclear material, and unlawfully present individuals across borders; however, the deployment of trafficking countermeasures is a daunting task, wrought with unique challenges, such as unfamiliar terrain, long distances, and a potentially harsh environment.&lt;/p&gt;
+&lt;p&gt;The purpose of this thesis is to suggest a method to combine three different types of sensor systems to accurately track an individual as he crosses a field of these sensors as well as to accurately predict the path that the individual will take beyond the scope of these sensors. Such a system could be used protect a border from trafficking by enabling the interception of those that would try to cross unauthorized.&lt;/p&gt;
+&lt;p&gt;The combination of the data from these sensors is accomplished using a modified Kalman filter and algorithms used in other multisensor tracking systems. While the field of multisensory tracking has been explored fairly extensively, these algorithms have not been applied to the sensors available for this research.&lt;/p&gt;
+&lt;p&gt;After the theoretical application of these algorithms is discussed, experimental data is presented to clarify the benefits and disadvantages of applying this paradigm to this set of sensors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1292</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2424&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1292</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2424</articleid>
+<submission-date>2012-06-20T13:58:51-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2424/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>3010406</context-key>
+<submission-path>utk_gradthes/1292</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Qing Cao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne E. Parker, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

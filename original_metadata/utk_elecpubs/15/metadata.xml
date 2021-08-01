@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparison of threshold selection methods for microarray gene co-expression matrices</title>
+<publication-date>2009-12-02T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>boratebr@mail.nih.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Borate</lname>
+<fname>Bhavesh</fname>
+<mname>R.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Chesler</lname>
+<fname>Elissa</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>langston@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>asaxton@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Saxton</lname>
+<fname>Arnold</fname>
+<mname>M.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Voy</lname>
+<fname>Brynn</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Abstract&lt;/h3&gt;  &lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Network and clustering analyses of microarray co-expression correlation data often require application of a threshold to discard small correlations, thus reducing computational demands and decreasing the number of uninformative correlations. This study investigated threshold selection in the context of combinatorial network analysis of transcriptome data.  &lt;h4&gt;Findings&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Six conceptually diverse methods - based on number of maximal cliques, correlation of control spots with expressed genes, top 1% of correlations, spectral graph clustering, Bonferroni correction of p-values, and statistical power - were used to estimate a correlation threshold for three time-series microarray datasets. The validity of thresholds was tested by comparison to thresholds derived from Gene Ontology information. Stability and reliability of the best methods were evaluated with block bootstrapping.&lt;/p&gt;
+&lt;p&gt;Two threshold methods, number of maximal cliques and spectral graph, used information in the correlation matrix structure and performed well in terms of stability. Comparison to Gene Ontology found thresholds from number of maximal cliques extracted from a co-expression matrix were the most biologically valid. Approaches to improve both methods were suggested.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Threshold selection approaches based on network structure of gene relationships gave thresholds with greater relevance to curated biological relationships than approaches based on statistical pair-wise relationships.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/15</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1019&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1019</articleid>
+<submission-date>2013-07-15T09:03:08-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4312617</context-key>
+<submission-path>utk_elecpubs/15</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Research Notes 2009, 2:240 doi:10.1186/1756-0500-2-240</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-02T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-cycle Boiling Water Reactor Fuel Cycle Optimization</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kottinge@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ottinger</lname>
+<fname>Keith</fname>
+<mname>Everette</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nuclear fuel cycle</keyword>
+<keyword>optimization</keyword>
+<keyword>control rod pattern</keyword>
+<keyword>parallel simulated annealing</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A multi-cycle nuclear fuel cycle optimization code, BWROPT (Boiling Water Reactor OPTimization), has been developed. BWROPT uses the Parallel Simulated Annealing (PSA) algorithm to solve the coupled out-of-core and in-core optimization problems. There are two depletion methods used for the in-core optimization: the Haling depletion and a Control Rod Pattern (CRP) search. The result of this optimization is the optimum new fuel inventory and the core loading pattern for the first cycle considered in the optimization. Several changes were made to the optimization algorithm with respect to other nuclear fuel cycle optimization codes that use PSA. Instead of using constant sampling probabilities for the solution perturbation types throughout the optimization, as is usually done, the sampling probabilities can be varied to get a better solution and/or decrease runtime. Also, the new fuel types available for use can be sorted into an array based on any parameter so that each parameter can be incremented or decremented. In addition several evaluations were performed to test the CRP search option.&lt;/p&gt;
+&lt;p&gt;Using the variable sampling probabilities was found to produce slightly better results in less time than the standard method of having constant sampling probabilities. Performing ordered and random sampling of the new fuel types using the new fuel type array was found to yield slightly better solutions on average than random sampling alone, but with a somewhat higher runtime. Using variable length Markov chains for optimizations in which a CRP search is performed for the first cycle and the Haling depletion is used for the remaining cycles was found to increase CPU utilization by 33%. Starting the CRP search with the CRP determined for the previous solution was found to be better than starting the CRP search with all of the rods fully withdrawn. Using the CRP search in an optimization was slow and produced inferior results compared to using the Haling depletion, indicating the need for more work in this area.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2720</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3629&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2720</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3629</articleid>
+<submission-date>2013-10-07T13:25:48-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4676996</context-key>
+<submission-path>utk_graddiss/2720</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Arthur E. Ruggles, Ronald E. Pevey, James A. Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

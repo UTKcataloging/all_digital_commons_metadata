@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Advanced Statistical Methods for Atomic-Level Quantification of Multi-Component Alloys</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aspannau@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Spannaus</lname>
+<fname>Adam</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Topological Data Analysis</keyword>
+<keyword>Bayesian Inference</keyword>
+<keyword>High-Entropy Alloys</keyword>
+<keyword>Machine Learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;This thesis comprises a collection of papers whose common theme is data analysis of high entropy alloys. The experimental technique used to view these alloys at the nano-scale produces a dataset that, while comprised of approximately 10^7 atoms, is corrupted by observational noise and sparsity. Our goal is to developstatistical methods to quantify the atomic structure of these materials. Understanding the atomic structure of these materials involves three parts: 1. Determining the crystal structure of the material 2. Finding the optimal transformation onto a reference structure 3. Finding the optimal matching between structures and the lattice constantFrom identifying these elements, we may map a noisy and sparse representation of an HEA onto its reference structure and determine the probabilities of different elemental types that are immediately adjacent, i.e., first neighbors, or are one-level removed and are second neighbors. Having these elemental descriptors of a material, researchers may then develop interaction potentials for molecular dynamics simulations, and make accurate predictions about these novel metallic alloys.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5889</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7655&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5889</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7655</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527814</context-key>
+<submission-path>utk_graddiss/5889</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasileios Maroulas</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xiaobing Feng, David Keffer, Kody Law, Tim Schulze</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2521-3657</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Prediction of Host-Microbe Interactions from Community High-Throughput Sequencing Data</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jstough@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Stough</lname>
+<fname>Joshua</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Metatranscriptomics</keyword>
+<keyword>microbial ecology</keyword>
+<keyword>host-microbe interactions</keyword>
+<keyword>viruses</keyword>
+<keyword>microbiome</keyword>
+<keyword>systems biology</keyword>
+</keywords>
+<abstract>&lt;p&gt;Microbial ecology is a diverse field, with a broad range of taxa, habitats, and trophic structures studied. Many of the major areas of research were developed independently, each with their own unique methods and standards, and their own questions and focus. This has changed in recent decades with the widespread implementation of culture-independent techniques, which exploit mechanisms shared by all life, regardless of habitat. In particular, high-throughput sequencing of environmentally isolated DNA and RNA has done much to expand our knowledge of the planet’s microbial diversity and has allowed us to explore the complex interplay between community members. Additionally, metatranscriptomic data can be used to parse relationships between individual members of the community, allowing researchers to propose hypotheses that can be tested in a laboratory or field setting. However, use of this technology is still relatively young, and there is a considerable need for broader consideration of its pitfalls, as well as the development of novel approaches that allow those without a computational background or with fewer resources to navigate its challenges and reap its rewards. To address these needs, we have developed targeted computational approaches that simplify next-generation sequencing datasets to a more manageable size, and we have used these techniques to address specific questions in environmental ecosystems. In a dataset sequenced for the purpose of identifying ecological factors that drive &lt;i&gt;Microcystis aeruginosa&lt;/i&gt; to dominate cyanobacterial harmful algal blooms worldwide, we used a targeted approach to predict replication and lysogenic dormancy in bacteriophage. We used RNA-seq data to characterize viral diversity in the &lt;i&gt;Sphagnum&lt;/i&gt; peat bog microbiome, identifying a wealth of novel viruses and proposing several host-virus pairs. We were able to assemble and describe the genome of a freshwater giant virus as well as that of a virophage that may infect it, and we used our techniques to describe its activity in publicly available datasets. Lastly, we have extended our efforts into the realm of medicine where we showed the influence exerted by the mouse gut microbiome on the host immune response to malaria, identifying several genes that may play a key role in reducing disease severity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4838</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6378&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4838</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6378</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276547</context-key>
+<submission-path>utk_graddiss/4838</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven W. Wilhelm</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jill A. Mikucki, Andrew D. Steen, Erik R. Zinser</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Microbiology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

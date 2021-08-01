@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Power System Frequency Measurement Based Data Analytics and Situational Awareness</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lwu24@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Wu</lname>
+<fname>Ling</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This dissertation presents several measurement-based research from power system wide-area dynamics data analytics to real-time situational awareness application development. All the research are grounded on the power system phasor measurements provided by wide-area Frequency Monitoring Network (FNET/GridEye), which collects the Global Positioning System (GPS) signal synchronized power system phasor measurements at distribution networks. The synchronized frequency measurement at FNET/GridEye enables real-time monitoring of bulk power systems (BPSs) and allows the dynamics interpretation of power system disturbances. Research on both the dynamic and ambient frequency measurements are conducted in this dissertation.The dynamics refer to the frequency measurement when the system is experiencing sudden contingencies. This dissertation focuses on two types of contingency: generation trip and oscillation and conducts both data analytics and corresponding real-time applications. Historical generation trip events in North America are analyzed in purpose to develop a frequency measurement based indicator of power systems low inertia events. Then the frequency response study is extended to bulk power systems worldwide to derive its association with system capacity size. As an essential parameter involved in the frequency response, the magnitude of the power imbalances is estimated based on multiple linear regression for improved accuracy. With respect to situational awareness, a real-time FNET/GridEye generation trip detection tool is developed for PMU use at power utilities and ISOs, which overcomes several challenges brought by different data situations.Regarding the oscillation dynamics, statistical analysis is accomplished on power system inter-area oscillations demonstrating the yearly trend of low-frequency oscillations and the association with system load. A novel real-time application is developed to detect power systems sustained oscillation in large area. The application would significantly facilitate the power grid situational awareness enhancement and system resiliency improvement.Furthermore, an additional project is executed on the ambient frequency measurement at FNET/GridEye. This project discloses the correlation between power system frequency and the electric clock time drift. In practice, this technique serves to track the time drifts in traffic signal systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4897</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6438&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4897</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6438</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13414983</context-key>
+<submission-path>utk_graddiss/4897</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee D. Han, Fangxing Li, Hairong Qi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-3626-2486</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

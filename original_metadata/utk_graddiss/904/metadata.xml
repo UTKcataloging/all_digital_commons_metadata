@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-Modular Integral Pressurized Water Reactor Control and Operational Reconfiguration for a Flow Control Loop</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sperillo@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Perillo</lname>
+<fname>Sergio Ricardo</fname>
+<mname>Pereira</mname>
+</author>
+</authors>
+<keywords>
+<keyword>IRIS reactor</keyword>
+<keyword>Fault Detection and Isolation</keyword>
+<keyword>Multi-modular reactor</keyword>
+<keyword>SMRs</keyword>
+<keyword>Flow Control</keyword>
+<keyword>Control Reconfiguration</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+<discipline>Nuclear Engineering</discipline>
+<discipline>Operational Research</discipline>
+<discipline>Power and Energy</discipline>
+<discipline>Signal Processing</discipline>
+<discipline>Systems Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation focused on the IRIS design since this will likely be one of the designs of choice for future deployment in the U.S and developing countries. With a net 335 MWe output IRIS novel design falls in the “medium” size category and it is a potential candidate for the so called modular reactors, which may be appropriate for base load electricity generation, especially in regions with smaller electricity grids, but especially well suited for more specialized non-electrical energy applications such as district heating and process steam for desalination. The first objective of this dissertation is to evaluate and quantify the performance of a Nuclear Power Plant (NPP) comprised of two IRIS reactor modules operating simultaneously with a common steam header, which in turn is connected to a single turbine, resulting in a steam-mixing control problem with respect to “load-following” scenarios, such as varying load during the day or reduced consumption during the weekend. To solve this problem a single-module IRIS SIMULINK model previously developed by another researcher is modified to include a second module and was used to quantify the responses from both modules. In order to develop research related to instrumentation and control, and equipment and sensor monitoring, the second objective is to build a two-tank multivariate loop in the Nuclear Engineering Department at the University of Tennessee. This loop provides the framework necessary to investigate and test control strategies and fault detection in sensors, equipment and actuators. The third objective is to experimentally develop and demonstrate a fault-tolerant control strategy using this loop. Using six correlated variables in a single-tank configuration, five inferential models and one Auto-Associative Kernel Regression (AAKR) model were developed to detect faults in process sensors. Once detected the faulty measurements were successfully substituted with prediction values, which would provide the necessary flexibility and time to find the source of discrepancy and resolve it, such as in an operating power plant. Finally, using the same empirical models, an actuator failure was simulated and once detected the control was automatically transferred and reconfigured from one tank to another, providing survivability to the system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/904</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1993&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>904</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1993</articleid>
+<submission-date>2010-10-27T12:31:56-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1620698</context-key>
+<submission-path>utk_graddiss/904</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Laurence F. Miller, Mary G. Leitnaker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

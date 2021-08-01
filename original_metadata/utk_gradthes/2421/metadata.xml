@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Generation of Simulink Models for Enumeration Hybrid Automata</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dheise@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Heise</lname>
+<fname>David Aaron</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MATLAB</keyword>
+<keyword>Simulink</keyword>
+<keyword>Hybrid Automata</keyword>
+<keyword>Specification</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+<discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An enumeration hybrid automaton has been shown in principle to be ready for automated transformation into a Simulink implementation. This paper describes a strategy for and a demonstration of automated construction. This is accomplished by designing a data model which represents EHA data and providing a mapping from EHA data points to Simulink blocks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2421</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2896&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2421</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2896</articleid>
+<submission-date>2013-06-21T16:09:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4251825</context-key>
+<submission-path>utk_gradthes/2421</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Thomason</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Stacy J. Prowell</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

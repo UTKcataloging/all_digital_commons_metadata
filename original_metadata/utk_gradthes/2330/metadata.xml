@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Low Power CMOS Microluminometer and Transmitter for Bioluminescent Bioreporter Integrated Circuit (BBIC)</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Mo</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis is a study of the design of a low power CMOS microluminometer and transmitter for bioluminescent bioreporter integrated circuit (BBIC). A BBIC sensor chip with lower consumption was fabricated in the 0.35μm CMOS process. This design was an improvement over a previous BBIC [1]. The previous BBIC was designed using a different CMOS process (0.5μm) and a different CAD tool (Magic). This thesis work involves redesign of the chip in 0.35μm CMOS process using Cadence design tool with improvement for power dissipation. Larger resisters are used instead of several small resisters, which were placed between power supply and ground and consumed too much power in the previous chip [1]. Also, the bias currents for several amplifiers were reduced to decrease the power consumption even further. The chip was tested under normal light condition and it was verified that the device implemented the basic functions of a sensor. The power consumption has been reduced to 3.5% of the previous chip [1], which is not because of the feature size change. Some test results of the photodiode and signal processing circuit are given. The transmitter system was designed using CAD tools Cadence following previous work [2]. The power amplifier was added to the transmitter to give larger signal out of the circuit. The simulation was run in Cadence. Appendixes show all the net list files for the sensor chip and transmitter circuit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2330</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3705&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2330</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3705</articleid>
+<submission-date>2013-10-15T13:26:33-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4717896</context-key>
+<submission-path>utk_gradthes/2330</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Donald W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

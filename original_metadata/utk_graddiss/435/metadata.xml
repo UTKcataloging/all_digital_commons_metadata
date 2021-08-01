@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Analysis of Screening Experiments Assuming Effect Sparsity</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Edwards</lname>
+<fname>David</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+</disciplines><abstract>&lt;p&gt;Many initial experiments for industrial and engineering applications employ screening designs to determine which of possibly many factors are significant. These screening designs are usually a highly fractionated factorial or a Plackett-Burman design that focus on main effects and provide limited information for interactions. To help simplify the analysis of these experiments, it is customary to assume that only a few of the effects are actually important; this assumption is known as ‘effect sparsity’. This dissertation will explore both design and analysis aspects of screening experiments assuming effect sparsity.&lt;/p&gt;
+&lt;p&gt;In 1989, Russell Lenth proposed a method for analyzing unreplicated factorials that has become popular due to its simplicity and satisfactory power relative to alternative methods. We propose and illustrate the use of p-values, estimated by simulation, for Lenth t-statistics. This approach is recommended for its versatility. Whereas tabulated critical values are restricted to the case of uncorrelated estimates, we illustrate the use of p-values for both orthogonal and nonorthogonal designs. For cases where there is limited replication, we suggest computing t-statistics and p-values using an estimator that combines the pure error mean square with a modified Lenth’s pseudo standard error.&lt;/p&gt;
+&lt;p&gt;Supersaturated designs (SSDs) are designs that examine more factors than runs available. SSDs were introduced to handle situations in which a large number of factors are of interest but runs are expensive or time-consuming. We begin by assessing the null model performance of SSDs when using all-subsets and forward selection regression. The propensity for model selection criteria to overfit is highlighted. We subsequently propose a strategy for analyzing SSDs that combines all-subsets regression and permutation tests. The methods are illustrated for several examples.&lt;/p&gt;
+&lt;p&gt;In contrast to the usual sequential nature of response surface methods (RSM), recent literature has proposed both screening and response surface exploration using only one three-level design. This approach is named “one-step RSM”. We discuss and illustrate two shortcomings of the current one-step RSM designs and analysis. Subsequently, we propose a new class of three-level designs and an analysis strategy unique to these designs that will address these shortcomings and aid the user in being appropriately advised as to factor importance. We illustrate the designs and analysis with simulated and real data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/435</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1496&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>435</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1496</articleid>
+<submission-date>2010-02-17T11:04:29-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1150965</context-key>
+<submission-path>utk_graddiss/435</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert W. Mee</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mary G. Leitnaker, Russell L. Zaretzki, Myong K. Jeong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/August2008Dissertations/EdwardsDavid.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

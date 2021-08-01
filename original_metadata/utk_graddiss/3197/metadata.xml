@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hi-Fidelity Simulation of the Self-Assembly and Dynamics of Colloids and Polymeric Solutions with Long Range Interactions</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mmalekza@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Malekzadeh Moghani</lname>
+<fname>Mahdy</fname>
+</author>
+</authors>
+<keywords>
+<keyword>polymer</keyword>
+<keyword>colloids</keyword>
+<keyword>Janus particles</keyword>
+<keyword>Brownian dynamics</keyword>
+</keywords>
+<disciplines><discipline>Atomic, Molecular and Optical Physics</discipline>
+<discipline>Biological and Chemical Physics</discipline>
+<discipline>Statistical, Nonlinear, and Soft Matter Physics</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Modeling the equilibrium properties and dynamic response of the colloidal and polymeric solutions provides valuable insight into numerous biological and industrial processes and facilitates development of novel technologies. To this end, the centerpiece of this research is to incorporate the long range electrostatic or hydrodynamic interactions via computationally efficient algorithms and to investigate the effect of these interactions on the self-assembly of colloidal particles and dynamic properties of polymeric solutions. Specifically, self-assembly of a new class of materials, namely bipolar Janus nano-particles, is investigated via molecular dynamic simulation in order to establish the relationship between individual particle characteristics, such as surface charge density, particle size, etc., and the final structure formation. Furthermore, the importance of incorporating the long range electrostatic interaction in achieving the corresponding final morphology is discussed.&lt;/p&gt;
+&lt;p&gt;The dynamic properties of polymeric solutions are investigated via two parallel pathways. In the first approach, force-extension behavior of the flexible polyelectrolytes is probed via fine-grained Brownian dynamics simulation of the bead-rod model. The presented model accurately incorporates the excluded volume interaction in order to capture the effect of salt concentration on the force-extension response of polyelectrolyte chain as observed in the single chain experiments. It is shown that accurate incorporation of the excluded volume effect on a long chain of more than 500 Kuhn segments is necessary to reach the universal scaling both for equilibrium properties and force-extension response. Next, a new force law is extracted using a novel discrete Pade approximant from the constant-force ensemble result of the bead-rod model. The new force law is implemented in the coarse-grained meso-scale bead-spring model with hydrodynamic interactions in order to investigate the dynamics of flexible macromolecules in the athermal solvent.&lt;/p&gt;
+&lt;p&gt;In the second approach the computational cost of the long range hydrodynamic interaction in dilute solution of polymeric chains with constrains is reduced via development of a new computational technique based on the conjugate gradient and Krylov subspace methods. Moreover, an algorithm for estimating the contribution of various forces to the transient polymeric stress tensor is introduced and employed in order to investigate transient dynamics of the solution of the flexible polymeric chains.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3197</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3086&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3197</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3086</articleid>
+<submission-date>2013-06-21T01:08:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4249343</context-key>
+<submission-path>utk_graddiss/3197</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bamin Khomami</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian J. Edwards, Stephen J. Paddison, Dibyendu Mukherjee</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

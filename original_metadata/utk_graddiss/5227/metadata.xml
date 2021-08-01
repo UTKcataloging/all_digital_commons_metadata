@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Learning Models for Discrete Optimization</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hshams@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Shams</lname>
+<fname>Hesam</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Discrete Optimization</keyword>
+<keyword>Learning Model</keyword>
+<keyword>Optimization Solver</keyword>
+<keyword>Tabu Search Algorithm</keyword>
+<keyword>Probability Dominance</keyword>
+<keyword>Analysis of Algorithms</keyword>
+</keywords>
+<abstract>&lt;p&gt;We consider a class of optimization approaches that incorporate machine learning models into the algorithm structure. Our focus is on the algorithms that can learn the patterns in the search space in order to boost computational performance. The idea is to design optimization techniques that allow for computationally efficient tuning a priori. The final objective of this work is to provide efficient solvers that can be tuned for optimal performance in serial and parallel environments.This dissertation provides a novel machine learning model based on logistic regression and describes an implementation for scheduling problems. We incorporate the proposed learning model into a well-known optimization algorithm, tabu search, and demonstrate the potential of the underlying ideas. The dissertation also establishes a new framework for comparing optimization algorithms. This framework provides a comparison of algorithms that is statistically meaningful and intuitive. Using this framework, we demonstrate that the inclusion of the logistic regression model into the tabu search method provides significant boost of its performance. Finally, we study the parallel implementation of the algorithm and evaluate the algorithm performance when more connections between threads exist.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5227</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6771&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5227</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6771</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342566</context-key>
+<submission-path>utk_graddiss/5227</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Oleg Shylo</value>
+</field>
+<field name="advisor2" type="string">
+<value>Anahita Khojandi, Michael Langston, James Ostrowski</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2340-5161</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

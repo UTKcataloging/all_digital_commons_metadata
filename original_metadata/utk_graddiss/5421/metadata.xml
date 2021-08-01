@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control Strategies in Ecosystem-Based Fishery Models</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mdemir@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Demir</lname>
+<fname>Mahir</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This dissertation considers the use of food chain models coupled with optimal control theory as a new approach for the problem of implementing ecosystem-based fishery management (EBFM) strategies. We consider the Black Sea anchovy on the southern part of the Black Sea as a case study of the implementation of EBFM. Because of the availability of temporal data, we build our first food chain model using ordinary differential equations to describe the anchovy dynamics, and then build our second food chain model using partial differential equations to include spatial features of the anchovy dynamics. In the study, we use the harvest rate of the anchovy fishery as our control that corresponds to number of fishing fleets.In the first model, the Black Sea anchovy stock was coupled with a prey and a predator species, using a system of nonlinear differential equations. The objective for the problem is to find the ecosystem-based optimal harvesting strategy that maximizes the discounted net value of the anchovy population with seasonal harvesting. In our numerical simulations, we obtained more profitable harvesting strategies for the southern part of the Black Sea, and also obtained much better structure for the related food web in terms of population biomasses via the optimal control strategy. Furthermore, we discussed the benefits of using food chain models in fishery management, and derived a schedule for ecosystem-based fishery management of the Black Sea anchovy.In the second model, a spatial food chain model on a bounded domain coupled with optimal control theory examined ecosystem-based harvesting strategies. Our system of nonlinear partial differential equations (PDEs) has logistic growth, movement by diffusion and advection, and Neumann boundary conditions. Numerical simulations were completed to illustrate several scenarios.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5421</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6957&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5421</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6957</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545448</context-key>
+<submission-path>utk_graddiss/5421</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart Louis J. Gross</value>
+</field>
+<field name="advisor2" type="string">
+<value>Louis J. Gross, Judy Day, Tuoc Phan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

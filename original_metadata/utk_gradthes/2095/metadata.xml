@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Ground-Based Remote Sensing System with Modulated Illumination for Diagnosing Nitrogen Status in Cotton</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Whitten</lname>
+<fname>Christopher</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Cotton production efficiency has the potential to increase through accurate variable rate application of fertilizer. The ability to variably apply fertilizer already exists. However, an accurate real-time system capable of diagnosing fertilizer deficiencies has yet to be implemented. A ground-based remote sensing system with modulated illumination has been developed for diagnosing nitrogen status in cotton plants. Development of the system was in part based on recommendations from previous research conducted at The University of Tennessee. The prototyped system consists of a multi-spectral sensing unit, a data acquisition and processing unit, and a graphical user interface. The multi-spectral sensing unit utilizes a discriminating artificial illumination source to eliminate error associated with the use of sunlight. Solar angle and atmospheric filtering contribute to variability in light intensity. Narrow spectrum ultra bright LEDs (blue, green, red, and infrared) with peak wavelengths of 466, 540, 644, and 880 nm were used. Modulated light at a frequency of 18.9 kHz was focused into a scanning beam and reflected from the plant canopy. Reflected light from the plant canopy was converted to voltage signals representing reflected light intensity at each waveband. A band pass filter was implemented to pass only the signal due to the modulated light source. The data acquisition and processing system was developed for control of the multi-spectral sensing unit and reliable data collection and processing. The prototyped system was tested on DP451 BRR cotton with four different N application rates. Based on a nitrate analysis, three nitrogen status classifications were identified: low, medium, and high. Analysis of spectral data collected revealed reflected light energy in the red region produced the highest linear correlation with N status (r = –0.7285).&lt;/p&gt;
+&lt;p&gt;A feed forward neural network was trained to predict nitrogen status based on the four spectral measurements taken with the prototyped system. System performance was evaluated based on its ability to correctly classify N status. Results indicate that the system is capable of diagnosing nitrogen status in cotton with a high degree of accuracy. Using dynamically (≈1 mi/hr) acquired data, prediction accuracies as high as 91% were achieved when 50% of data was used for training and 50% used for testing. Accuracy decreased slightly to 90% when 25% of the data was used for training and 75% used for testing. Utilizing neural networks, the prototyped system outperformed the conventional NDVI and other linear techniques. The system has shown great potential in diagnosing N status in cotton under controlled field conditions. Future testing should be performed to evaluate the system for multiple varieties, growing seasons, and other variables known to contribute to plant health variability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2095</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3457&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2095</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3457</articleid>
+<submission-date>2013-10-03T12:10:24-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4664510</context-key>
+<submission-path>utk_gradthes/2095</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John B. Wilkerson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Luther R. Wilhelm, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Productivity Analysis and Use of Sequence-Based Specification in a Web-Development Environment</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Sparks</lname>
+<fname>Carla</fname>
+<mname>Renee</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This study evaluates the productivity of a software team in a web-development company and assesses the effects of the sequence-based specifications process on productivity and software accuracy in this environment. This study compares two software projects completed at GoTrain Corporation in 2001 and 2002. GoTrain is an application service provider and delivers environmental, safety and health (ES&amp;H) training courses to a variety of clients through an Internet-based learning management system (LMS), called the Academy.&lt;/p&gt;
+&lt;p&gt;GoTrain was established in 1999 through the merger of two small companies – a training services organization and a web design group. Because neither of the parent companies specialized in software development, the new GoTrain programming team began creating the first Academy applications without the structure of a formal software process. This study evaluates the productivity of the GoTrain programming team at the time formal software processes were introduced into the development environment.&lt;/p&gt;
+&lt;p&gt;The first project evaluated was an upgrade of the GoTrain Academy to provide Spanish support for the end-used and was performed using the Microsoft Solutions Framework ™ (MSF) Process Model. The second project was an upgrade to the Academy software to support new employee training, enhanced reporting functionality, and improved administrative features. For this project, the MSF Process Model was again used but with sequence-based specification applied to selected Academy features during the design phase. Sequence-based specification is typically used in Cleanroom software engineering to create consistent and complete product requirements through enumeration of system inputs. Focusing on active server pages (ASPs), productivity analyses were based on the total lines of code (LOC) generated during the project and the number of hours required to create the code. The count of errors discovered during testing and the hours required for rework after the Academy release were used to evaluate the accuracy and correctness of the software.&lt;/p&gt;
+&lt;p&gt;A productivity increase is seen between the first and second projects. The second project had higher LOC per man-hour than the first, which is likely a result of the software team becoming more experienced with the software process, developing cohesion among the team members, and improving communication among the project group. The files utilizing the sequence-based specification process in the second project had similar LOC and man-hour values as other files modified during this development effort. Files utilizing sequence-based specification required no modification after the versioned release of the Academy, whereas 68% of the files, similar in LOC and man-hours, created using existing specification processes required modification and re-deployment following the initial release.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4794</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6313&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4794</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6313</articleid>
+<submission-date>2017-08-23T10:19:51-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10647822</context-key>
+<submission-path>utk_gradthes/4794</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tomas E. Potok</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jesse Poore, Stacy Prowell</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

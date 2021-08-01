@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>EVALUATION OF GEOMETRIC SCALE EFFECTS FOR SCRAMJET ISOLATORS</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jperez1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Perez</lname>
+<fname>Jaime Enrique</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Scaling</keyword>
+<keyword>Isolator</keyword>
+<keyword>Scramjet</keyword>
+<keyword>Hypersonic</keyword>
+<keyword>Combustor</keyword>
+<keyword>Inlet</keyword>
+<keyword>CFD</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;A numerical analysis was conducted to study the effects of geometrically scaling scramjet inlet-combustor isolators. Three-dimensional fully viscous numerical simulation of the flow inside constant area rectangular ducts, with a downstream back pressure condition, was analyzed using the SolidWorks Flow Simulation software. The baseline, or 1X, isolator configuration has a 1” x 2.67” cross section and 20” length. This baseline configuration was scaled up based on the 1X configuration mass flow to 10X  and 100X configurations, with ten and one hundred times the mass flow rate, respectively. The isolator aspect ratio of 2.67 was held constant for all configurations. To provide for code validation, the Flow Simulation program was first used to analyze a converging-diverging channel and a wind tunnel nozzle. The channel case was compared with analytical theory and showed good agreement. The nozzle case was compared with AFRL experimental data and showed good agreement with the entrance and exit conditions (Pi0= 40 psia, Ti0= 530ºR, Pe= 18.86 psia, Te= 456ºR, respectively). While the boundary layer thickness remained constant, the boundary layer thickness with respect to the isolator height decreased as the scale increased. For all the isolator simulations, a shock train was expected to form inside the duct. However, the flow simulation failed to generate this flow pattern, due to improper sizing of the isolator and combustor for a 3-D model or having a low pressure ratio of 2.38. Instead, a single normal shock wave was established at the same relative location within the length of each duct, approximately 80% of the duct length from the isolator entrance. The shape of the shock changed as the scale increased from a normal shock wave, to a bifurcated shock wave, and to a normal shock train, respectively for the 1X, 10X, and 100X models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/739</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1765&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>739</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1765</articleid>
+<submission-date>2010-07-15T17:43:33-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1765/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1396680</context-key>
+<submission-path>utk_gradthes/739</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Stephen Corda</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter U. Solies, Frank G. Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

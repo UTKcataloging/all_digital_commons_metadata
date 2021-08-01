@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Application of the Universal Verification Methodology</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rma@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Ma</lname>
+<fname>Rui</fname>
+</author>
+</authors>
+<keywords>
+<keyword>UVM</keyword>
+<keyword>testbench</keyword>
+<keyword>DMA</keyword>
+<keyword>simulation</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;The Universal Verification Methodology (UVM) package is an open-source SystemVerilog library, which is used to set up a class-based hierarchical testbench. UVM testbenches improve the reusability of Verilog testbenches. Direct Memory Access (DMA) plays an important role in modern computer architecture. When using DMA to transfer data between a host machine and field-programmable gate array (FPGA) accelerator, a modularized DMA core on the FPGA frees the host side Central Processing Unit(CPU) during the transfer, helps to save FPGA resources, and enhances performance. Verifying the functionality of a DMA core is essential before mapping it to the FPGA. In this thesis, we tested an open source DMA core with UVM (Universal Verification Methodology). Bus agents and interface modules are designed for input and output signals of the DMA Design Under Test (DUT). We constructed a Register Level Abstraction (RLA) model to allow both front-door access and back-door access to the register files in the DUT. We designed the sequences, scoreboards, and tests with features to allow reuse. The overall testbench structure is defined by a base-type test. Different tests then extend the base-type test and use type overriding with the UVM configuration database to use different scoreboards and sequences accordingly. With scoreboard and coverage groups, the testbench monitors the correctness of the behavior of the DMA DUT, as well as the functional coverage of all tests. We performed the simulations with the Questa simulator. Several bugs in the open-source DMA core were found and corrected.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4054</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5221&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4054</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5221</articleid>
+<submission-date>2016-06-15T22:34:27-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8737995</context-key>
+<submission-path>utk_gradthes/4054</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Kamrul Islam, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fault Diagnosis Via Univariate Frequency Analysis Monitoring: A Novel Technique Applied to a Simulated Integrated Drive Generator</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bbaile10@utk.edu</email>
+<lname>Bailey</lname>
+<fname>Brian Keith</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Fault Detection and Diagnosis</keyword>
+<keyword>Supervised Processes</keyword>
+<keyword>On-line Monitoring</keyword>
+</keywords>
+<disciplines><discipline>Other Aerospace Engineering</discipline>
+<discipline>Other Chemical Engineering</discipline>
+<discipline>Process Control and Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this research was to develop a fault detection and diagnostic method that would be able to detect and isolate seeded faults in data that was generated from a simulated integrated drive generator.  The approach to the solution for this problem is summarized below.&lt;/p&gt;
+&lt;p&gt;A novel approach for the detection and diagnoses of an anomaly due the occurrence of a fault within a system has been developed.  This innovative technique uses specific characteristics of the frequency spectrum of a univariate signal to monitor system health for abnormal behavior due to previously characterized component failure.&lt;/p&gt;
+&lt;p&gt;A fault detection and diagnostic scheme was developed that used dual heteroassociative kernel regression models.  The first of these empirical models estimates selected features from the analytical redundant spectrum characteristic profile of the exciter current using power demand, a stressor, placed on the system as input query.  The predicted spectrum features were compared to the actual characteristic features, which resulted in the generation of a residual signal.  This signal was then analyzed in order to determine if they were the result of normal system disturbances or a predefined fault.  If a fault was detected, the residual signal was passed to the second model, which isolated, and given enough information, identified the specific component of components causing the anomaly.&lt;/p&gt;
+&lt;p&gt;Two case studies are presented to illustrate the capability to detect, isolate, and identify a system anomaly. As demonstrated, the monitoring of the frequency spectrum of a single variable can provide adequate indication of equipment health.  With the availability of the appropriate data, as in the first case, it is possible for the development of three-layer detection and diagnostic systems that provides fault detection, isolation, and identification.  A three-layer detection and diagnostic system is essential in the development of more advance health monitoring and prognostic systems. Despite some shortcomings in the simulated data made available for this work, this method is believed to be applicable to data that more realistically captures real-world relationships, including sensor noise and faults that grow with time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1129</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2185&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1129</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2185</articleid>
+<submission-date>2011-09-30T12:38:34-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2185/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2268754</context-key>
+<submission-path>utk_gradthes/1129</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles F.  Moore, David J. Keffer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

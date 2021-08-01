@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A New Fully Implicit in Time Two-Dimensional Inverse Heat Conduction Method</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Elkins</lname>
+<fname>Bryan</fname>
+<mname>S</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A new combination of methods used to solve the transient, two-dimensional inverse heat conduction problem (IHCP) is presented in this thesis. A simple implicit in time with space marching approach is used in combination with digital filtering for regularization. Results are presented for both one-dimensional and two-dimensional problems. As much as 10% measurement error is added to the data to simulate experimental results.&lt;/p&gt;
+&lt;p&gt;One-dimensional results with “perfect” data suggested that refining the spatial and temporal meshes improved the accuracy of the inverse solution. However, the nodal Fourier number was found to have no effect on accuracy. Further investigation into the effect of the Fourier number on the inverse solution led to the discovery of a precisely defined stability criterion, which is presented for the one-dimensional problem.&lt;/p&gt;
+&lt;p&gt;The digital filter was proven to be a highly effective regularization method for both the one-dimensional and two-dimensional cases. The Gauss low pass filter employed a cutoff frequency as the regularization parameter, which has an exact definition with physical significance. No trial and error method of choosing a regularization parameter was necessary. Temperature and heat flux data were given at the sensor sites, noise was added to the data, filtered, and used as input data to the inverse code. The prediction error resulting from the use of “perfect” data suggested a bias (over-prediction). With this bias removed from the noisy, filtered results, the inverse solution was accurate to 2% for the 1D case and 3% for the 2D case. The dramatic reduction of error through an inverse process was striking, since the inverse problem is well-known to magnify measurement errors.&lt;/p&gt;
+&lt;p&gt;An additional case using only one line of temperature data and no heat flux data was used as alternate approach to the inverse problem. The new strategy relies on a recently developed integral relationship between the heating rate and the heat flux, which is valid on the half-space. The relationship allows for the heat flux to be found at the sensor site using only temperature and heating rate data. This data could be experimentally obtained using one line of thermocouples combined with numerical differentiation to obtain the heating rate; no heat flux gauges or second series of thermocouples are necessary. This thesis is the first to take advantage of heat flux – heating rate relationship. Results from this method with a measurement error of 5% predicted a surface heat flux error of only 5%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/355</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1389&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>355</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1389</articleid>
+<submission-date>2010-02-15T10:34:01-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1145756</context-key>
+<submission-path>utk_gradthes/355</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Majid Keyhani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay Frankel, Rao Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/ElkinsBryanScott.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Heuristic Solution For Separated Manufacturing Process</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rff497@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Davis</lname>
+<fname>James</fname>
+<mname>Dee</mname>
+</author>
+</authors>
+<keywords>
+<keyword>lean</keyword>
+<keyword>manufacturing</keyword>
+<keyword>assembly</keyword>
+<keyword>scheduling</keyword>
+<keyword>container</keyword>
+<keyword>downtime</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Downtime is a major issue for manufactures. Downtime may occur from breakdowns, quality issues, lack of manpower, lack of materials, or in this case a lack of storage containers. A manufacturing system was studied that consists of an injection machine that supplies two assembly lines. The injection machine suffered from frequent downtime from lack of containers. The process was analyzed for root cause of downtime. After analysis of the system it was found that the injection process had high variability in production quantity and quality. The scheduling scheme called for production until all available containers were full regardless of actual demand. This created times when Injection would have to wait for Assembly to empty containers thus causing downtime. A production model was developed to compare different scheduling schemes for cost effectiveness. An economic order quantity based schedule was found to have least cost.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3576</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4940&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3576</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4940</articleid>
+<submission-date>2015-10-20T10:39:30-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7744312</context-key>
+<submission-path>utk_gradthes/3576</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James L. Simonton</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andrew Yu, Janice Tolk</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

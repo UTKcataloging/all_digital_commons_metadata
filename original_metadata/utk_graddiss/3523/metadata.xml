@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accuracy and Reliability Improvement of Wide-Area Power Grid Monitoring</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lzhan@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhan</lname>
+<fname>Lingwei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Phasor Measurement Unit</keyword>
+<keyword>phasor measurement</keyword>
+<keyword>frequency measurement</keyword>
+<keyword>synchrophasor measurement</keyword>
+<keyword>Frequency Disturbance Recorder</keyword>
+<keyword>Universal Grid Analyzer</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Phasor Measurement Unit (PMU) is one of the key elements of wide area measurement systems (WAMS) in advanced power system monitoring, protection, and control applications. Frequency Disturbance Recorder (FDR) developed by the Power IT Laboratory at the University of Tennessee, is a low-cost and single-phase PMU used at the distribution level.&lt;/p&gt;
+&lt;p&gt;Traditional PMUs use GPS as the only timing source. They will stop working when GPS signal is lost or unstable. Two alternative GPS independent timing sources including eLoran and Chip Scale Atomic Clock were tested for long-term reliability and short-term accuracy to study the application of the two methods in synchrophasor measurement area.&lt;/p&gt;
+&lt;p&gt;Phasor measurement accuracy is of great concern for power grid researchers and operators. The hardware and software measurement algorithm of the FDRs were analyzed to study the error sources. The hardware of the FDRs was upgraded based on the analysis to improve measurement accuracy. Further, two different phasor measurement algorithms that are based on discrete Fourier Transform (DFT) and signal model will be introduced, respectively. The aim is to improve the phasor measurement accuracy under different steady-state and dynamic conditions as well as in a real power grid environment at the distribution level. Moreover, to better evaluate the measurement accuracy of PMUs, a PMU testing system was built. A calibration method that can compensate the time delay of the PMU testing system was proposed, and the testing results were compared to NIST to verify the accuracy of the PMU testing system after calibration.&lt;/p&gt;
+&lt;p&gt;At last, a concept of “Universal Grid Analyzer” (UGA) was proposed and a prototype was built. The UGA has improved phasor measurement accuracy thanks to the proposed adaptive high-accuracy synchronous sampling algorithm and high-precision ADC. Meanwhile, the UGA can also function as a synchronized power quality analyzer that has harmonics measurement, voltage sag and swell detection functions. Moreover, the noise analysis function of the UGA that can help the analysis of phasor measurement accuracy in a real power grid environment was developed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3523</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4372&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3523</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4372</articleid>
+<submission-date>2014-10-09T07:51:18-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4372/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6221439</context-key>
+<submission-path>utk_graddiss/3523</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Wei Gao, Chien-fei Chen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

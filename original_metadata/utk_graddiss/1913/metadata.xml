@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Influence of Environmental Factors on the Temperature of the Radiosonde Thermistor</title>
+<publication-date>1989-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Luers</lname>
+<fname>James</fname>
+<mname>K.</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A technique was developed to calculate the radiosonde temperature error as a function of altitude under different environmental conditions. The environmental conditions analyzed include the surface (or cloud) temperature, the atmospheric gaseous constinuents, the aerosol and thermodynamic structure of the atmosphere, the solar elevation angle, the solar albedo, the rise rate of the balloon, and the atmospheric density.&lt;/p&gt;
+&lt;p&gt;The heat balance equations for the thermistor and lead wires were derived and a sensitivity analysis performed to establish the significance of each heating term. The Air Force LOWTRAN 6 code was used to model the solar and infrared irradiation of the thermistor in terms of the environmental parameters. LOWTRAN 6 output was then used to generate the radiation input to the heat balance equations of the thermistor and lead wires. The temperature error of the radiosonde was derived by solving these heat balance equations.&lt;/p&gt;
+&lt;p&gt;This technique for calculating the radiosonde temperature error was validated by comparing with data from flights of experimental radiosondes containing the Standard NWS radiosonde thermistor and three other thermistors with different radiative coatings. Each coating exhibited a different solar absorptance and infrared emission property which allowed the direct calculation of the radiosonde temperature error. The experimental measurements were compared with that predicted by the modeling technique. Comparisons were made between eight flights; four at night, three daylight, and one twilight, which occurred during all seasons of the year and under various surface conditions. The comparisons showed good agreement. For the flights analyzed the temperature error at nighttime was small below 20 Km, and increased negatively above this altitude. At 30 Km the error generally exceeded -1° K. During the daytime the temperature was positive and sometimes took on its maximum value as low as 20 Km. At altitudes near 30 Km and above the error often decreased due to influences of an increasing atmospheric temperature. Results from this study suggest that the radiosonde temperature error is likely to differ at different latitudes and solar elevation angles because of differing radiative fluxes to the thermistor and because of differing atmospheric temperature profiles.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1913</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3342&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1913</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3342</articleid>
+<submission-date>2013-09-16T11:58:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4590532</context-key>
+<submission-path>utk_graddiss/1913</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Walter Frost</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Turner, R. L. Young, K. R. Kimball, John E. Carothers</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1989-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1989-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

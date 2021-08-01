@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Methodology for Solving the Equations Arising in Nonlinear Parameter Identification Problems: Application to Induction Machines</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Kaiyu</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents a method that can be used to identify the parameters of a class of systems whose regressor models are nonlinear in the parameters. The technique is based on classical elimination theory, and it guarantees that the solution for the parameters which minimize a least-squares criterion can be found in a finite number of steps. The proposed methodology begins with an input-output linear overparameterized model whose parameters are rationally related. After making appropriate substitutions that account for the overparameterization, the problem is transformed into a &lt;em&gt;nonlinear &lt;/em&gt;least-squares problem that is not overparameterized. The extrema equations are computed, and a nonlinear transformation is carried out to convert them to polynomial equations in the unknown parameters. It is then show how these polynomial equations can be solved using elimination theory using resultants. The optimization problem reduces to a numerical computation of the roots of a polynomial in a single variable.&lt;/p&gt;
+&lt;p&gt;This nonlinear least-squares method is applied to the identification of the parameters of an induction motor. A major difficulty with the induction motor is that the rotor’s state variables are not available measurements so that the system identification model cannot be made linear in the parameters without overparameterizing the model. Previous work in the literature has avoided this issue by making simplifying assumptions such as a “slowly varying speed”. Here, no such simplifying assumptions are made. This method is implemented online to continuously update the parameter values. Experimental results are presented to verify this method.&lt;/p&gt;
+&lt;p&gt;The application of this nonlinear least-squares method can be extended to many research areas such as the parameter identification for Hammerstein models. In principle, as long as the regressor model is such that the system parameters are rationally related, the proposed method is applicable.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2321</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3868&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2321</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3868</articleid>
+<submission-date>2013-10-18T11:07:13-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4739018</context-key>
+<submission-path>utk_graddiss/2321</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Chiasson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, J. Douglas Birdwell, Tim Schulze</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On cyclotomic primality tests</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>boucher@math.utk.edu</email>
+<lname>Boucher</lname>
+<fname>Thomas Francis</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Gauss sums</keyword>
+<keyword>cyclotomic fields</keyword>
+<keyword>primality testing</keyword>
+</keywords>
+<disciplines><discipline>Number Theory</discipline>
+</disciplines><abstract>&lt;p&gt;In 1980, L. Adleman, C. Pomerance, and R. Rumely invented the first cyclotomicprimality test, and shortly after, in 1981, a simplified and more efficient versionwas presented by H.W. Lenstra for the Bourbaki Seminar. Later, in 2008, ReneSchoof presented an updated version of Lenstra&#39;s primality test. This thesis presents adetailed description of the cyclotomic primality test as described by Schoof, along withsuggestions for implementation. The cornerstone of the test is a prime congruencerelation similar to Fermat&#39;s \little theorem&quot; that involves Gauss or Jacobi sumscalculated over cyclotomic fields. The algorithm runs in very nearly polynomial time.This primality test is currently one of the most computationally efficient tests and isused by default for primality proving by the open source mathematics systems Sageand PARI/GP. It can quickly test numbers with thousands of decimal digits.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/949</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2151&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>949</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2151</articleid>
+<submission-date>2011-08-03T13:00:22-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2131028</context-key>
+<submission-path>utk_gradthes/949</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Luis R. A. Finotti</value>
+</field>
+<field name="advisor2" type="string">
+<value>David F. Anderson, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Topics in Graph Algorithms: Structural Results and Algorithmic Techniques, with Applications</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Abu Khzam</lname>
+<fname>Faisal</fname>
+<mname>Nabih</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Coping with computational intractability has inspired the development of a variety of algorithmic techniques. The main challenge has usually been the design of polynomial time algorithms for NP-complete problems in a way that guarantees some, often worst-case, satisfactory performance when compared to exact (optimal) solutions. We mainly study some emergent techniques that help to bridge the gap between computational intractability and practicality. We present results that lead to better exact and approximation algorithms and better implementations. The problems considered in this dissertation share much in common structurally, and have applications in several scientific domains, including circuit design, network reliability, and bioinformatics. We begin by considering the relationship between graph coloring and the immersion order, a well-quasi-order defined on the set of finite graphs. We establish several (structural) results and discuss their potential algorithmic consequences. We discuss graph metrics such as treewidth and pathwidth. Treewidth is well studied, mainly because many problems that are NP-hard in general have polynomial time algorithms when restricted to graphs of bounded treewidth. Pathwidth has many applications ranging from circuit layout to natural language processing. We present a linear time algorithm to approximate the pathwidth of planar graphs that have a fixed disk dimension. We consider the face cover problem, which has potential applications in facilities location and logistics. Being fixed-parameter tractable, we develop an algorithm that solves it in time O(5k + n2) where k is the input parameter. This is a notable improvement over the previous best known algorithm, which runs in O(8kn). In addition to the structural and algorithmic results, this text tries to illustrate the practicality of fixed-parameter algorithms. This is achieved by implementing some algorithms for the vertex cover problem, and conducting experiments on real data sets. Our experiments advocate the viewpoint that, for many practical purposes, exact solutions of some NP-complete problems are affordable.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1954</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3385&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1954</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3385</articleid>
+<submission-date>2013-09-19T12:39:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4602316</context-key>
+<submission-path>utk_graddiss/1954</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bradley Vander Zanden, Bruce MacLennan, Jens Gregor, Don W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

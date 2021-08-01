@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Machining System for Turning Nonaxisymmetric Surfaces</title>
+<publication-date>1983-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Douglass</lname>
+<fname>Spivey</fname>
+<mname>Stevens</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;Aspheric reflecting surfaces possessing extremely high surface finish and contour accuracy are often demanded by the optics industry. Such reflectors have also been required in high energy gas laser systems used to trigger thermonuclear reactions in experiments connected with advanced electric power generation.&lt;/p&gt;
+&lt;p&gt;Historically, production of optical pieces of the quality described required many repetitions of selective hand-lapping, polishing and measuring. In the past ten years production of these pieces has been enhanced by machining with diamond cutting tools on precision numerically controlled (NC) turning machines. These machines are capable of generating axisymmetric surfaces competitive in quality to those produced by conventional means without the expensive hand-work. This experiment describes the design and testing of a prototype system for machining an off-axis parabolic sector by on-axis turning. The prototype system utilized an auxiliary slide. which carried the cutting tool. The slide was supported by captive air bearings and was driven by a linear motor.&lt;/p&gt;
+&lt;p&gt;A transformation was performed on the parabola to describe the auxiliary slide motion in coordinates centered in the off-axis sector. A Fourier expansion resulted in a scheme which permits the slide position commands to be generated in real time. The use by the signal generator of position information from the base machine transverse slide along with zero position and tachometer signals from the spindle insured synchronization between all motions.&lt;/p&gt;
+&lt;p&gt;A test part was machined with the prototype system. The contour accuracy of the test part was measured between -.0005 and +.0009 inch. Surface finish varied from 7 microinches RMS near the part center to approximately 60 microinches near the outer edge.&lt;/p&gt;
+&lt;p&gt;Two important factors contributed to the workpiece inaccuracy. An electrical noise level equivalent to 15 to 20 microinches of vibration detracted from the surface finish and denied the use of a diamond cutting tool. A structural resonance in the linear motor prevented the use of higher position loop gain which resulted in increased following error. The system did serve as a proof-of-principle, however, and also produced a workpiece requiring less handwork than would have been required conventionally.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4723</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6327&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4723</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6327</articleid>
+<submission-date>2018-01-29T12:51:55-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>11440934</context-key>
+<submission-path>utk_graddiss/4723</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Walter L. Green</value>
+</field>
+<field name="advisor2" type="string">
+<value>William T. Snyder, J. M. Bailey, Thomas G. Carley, Carl J. Remenyik</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1983-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1983-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Standard CMOS Compatible Bandgap Voltage Reference with Post-Process Digitally Tunable Temperature Coefficient</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Caylor</lname>
+<fname>Sam</fname>
+<mname>D</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An essential element of most robust analog/mixed-signal systems is a stable and precise bandgap voltage reference (BGR). CMOS compatible BGR circuits are generally limited by variability in output drift over temperature due to process variations. In this work a CMOS BGR is developed that provides simple, digitally-controlled post-process (i.e., post fabrication) trimming. The trimming is achieved through MOSFET switches used to adjust a current gain factor for the thermal voltage referenced current within the BGR circuit. This current is proportional to absolute temperature (PTAT). The PTAT current is injected into a series connected resistor and diode to ultimately provide an output voltage. The output voltage&#39;s temperature coefficient is correlated to the current gain factor applied to the internally generated PTAT current. Thus, the BGR circuit&#39;s temperature coefficient (and therefore drift) is adjusted or tuned using a digital input word to control switch settings and therefore the PTAT current. By providing post-process trimming, chip-to-chip and wafer-to-wafter variations can be minimized through simple digitally controlled tuning. This trimming capability also extends the BGR to broad temperature range applications. A complete CMOS-compatible post-process trimmable BGR implementation is described and measurement results are provided. Design considerations to enhance the circuit&#39;s tolerance to radiation induced single-event transients are also addressed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/344</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1378&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>344</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1378</articleid>
+<submission-date>2010-02-15T09:44:39-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1145631</context-key>
+<submission-path>utk_gradthes/344</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed K. Islam, M. N. Ericson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/CaylorSam.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

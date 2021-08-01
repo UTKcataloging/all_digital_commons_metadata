@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Model Reduction Techniques for Fluid Dynamical Flow Based PDE Control Problems</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Foster</lname>
+<fname>Jason</fname>
+<mname>Harold</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis deals with the practical and theoretical implications of model reduction for aerodynamical flow based control problems. Various aspects of model reduction are discussed that apply to Partial Differential Equation (PDE) based models in general. Specifically, the Proper Orthogonal Decomposition (POD) of a high dimension system is discussed as well as frequency domain identification methods are discussed for initial model creation. Projections on the POD basis give a Galerkin model. Then, the methods of balanced truncation and Hankel optimal norm reduction are applied to the Galerkin model. A state space model is formed by a Galerkin projection of the governing equations and initial conditions onto the POD basis. Further, the weak Galerkin model is simulated with white noise to produce inputs to the Eigensystem Realization Algorithm (ERA). This method estimates a system that accurately reproduces the output of the POD based model. Then, balanced truncation is used to show that model reduction is still effective on ERA produced approximated systems. Finally a method of finding empirical controllability and observability Gramians for the approximated system is introduced. After the empirical Gramians are approximately balanced, the necessary transformation matrix can be applied back to the original system. This empirically balanced realization can then be truncated to further reduce the system model size while retaining the most important system dynamics. The effectiveness of the empirically balanced realization for the linearized model is compared with the balanced truncation of the linearized Galerkin model. Finally, conclusions about the relative effectiveness of the model reduction techniques are made and some possible future research directions are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/129</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1161&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>129</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1161</articleid>
+<submission-date>2010-02-09T09:38:55-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1137350</context-key>
+<submission-path>utk_gradthes/129</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik M. Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Douglas Birdwell, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/FosterJason.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

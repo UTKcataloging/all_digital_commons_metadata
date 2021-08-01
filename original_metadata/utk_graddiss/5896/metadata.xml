@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Correlation-based Analytics in Big Data</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nhamidia@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hamidian</lname>
+<fname>Nooshin</fname>
+<suffix>Hamidian</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>Correlation</keyword>
+<keyword>product bundling</keyword>
+<keyword>association analysis</keyword>
+<keyword>adverse drug reaction</keyword>
+<keyword>capacity planning</keyword>
+<keyword>production planning</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this study, we aim to investigate the application of correlation-based analytics in three main areas including marketing, healthcare, and manufacturing through three separate, but inherently related studies, and utilize data analytics and optimization methods to develop novel solutions or improve the currently available methods.First, we demonstrate the significance of items correlation in a product bundling problem. We address a product bundling problem from a data-driven perspective and model bundling utility from a retailer with a wide range of items perspective (such as Walmart, Kroger, Amazon, and so on so forth.) Utilizing the utility model, we mathematically show under which conditions, bundling is not profitable in a form of few Theories and Lemmas. Applying the mathematically proven Theories and Lemmas, we develop a pruning algorithm to solve problems with a wide range of products. We use Dunnhumby dataset to illustrate effectiveness and efficiency of our algorithm. In this study, we illustrate the significance of items correlation and price-sensitivity in specifying profitable bundles.Second, we study correlation between drugs and Adverse Drug Reaction (ADR) to detect groups of patients who are at risk of ADRs. we focus on the application of detecting adverse drug reactions that may not be visible at the global level, and we need to identify local segments in which the association between drugs and adverse reactions are strong. Accordingly, not only we detect the association between drugs and ADRs, but also we specify the groups of patients who are at risk of ADRs. To effectively measure the association between drugs and ADRs per patient group in data-intensive applications, we develop a pruning algorithm. We apply our algorithm on two datasets including FDA Adverse Events Reporting System and Vaccine Adverse Events Reporting System. Lastly, we illustrate the importance of considering products&#39; correlation in flexibility and production planning. We estimate products&#39; demand as a function of products&#39; price and supply with respect to products correlation. We model the problem of flexibility and capacity planning for four flexibility strategies including volume flexibility, product flexibility, volume and product flexibility, and no flexibility. We investigate conditions under which each flexibility strategy is efficient. We develop a two-stage stochastic programming model to optimally detect a flexibility strategy, capacity of facilities, and production quantities. We calibrate the model and conduct sensitivity analysis to show the impact of correlation, price-sensitivity, price change, and demand variation in production revenue.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5896</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7662&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5896</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7662</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527823</context-key>
+<submission-path>utk_graddiss/5896</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder Sawhney Dr.</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wenjun Zhou Dr., Anahita Khojandi Dr., Oleg Shylo Dr.</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/Nooshin Hamidian</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

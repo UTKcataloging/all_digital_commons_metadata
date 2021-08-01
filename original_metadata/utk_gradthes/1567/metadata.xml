@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards a Universal Multi-Standard RF Receiver</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Han</lname>
+<fname>Yongping</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Future wireless communication market calls for the need of an extreme compact wireless device that can easily access to all the available services at any time and at any location with minimum power consumption and cost. The key is to find a multi-standard wireless receiver that can cover all the service specifications while keeping redundant components to minimum. Reconfigurable concept is right fit the need. In this thesis, a fully integrated universal multi-standard receiver using low-cost CMOS technology has been proposed based on the survey for different wireless receiver specifications and optimum architectures. Tunable receiver building blocks such as filters, LNAs, Mixers, VCOs, gain blocks are the main factor to approach this novel receiver. In order to realize frequency agility, low cost as well as low power consumption, a good switch is a must. In this thesis, MEMS switches are preferred rather than active switches or active tuning elements based on their performance comparisons. In the feasibility study, as an example, first, a reconfigurable LNA and a reconfigurable oscillator using hard wires as switches have been developed, and then a LNA and an oscillator have been designed using a MEMS switch. The effect of hard-wire connection and MEMS to the circuits has been evaluated. No performance degradation has been found when using hard-wire connections, while some has been observed when using MEMS. However, MEMS could be integrated with other circuits on the same die if it could be built on low resistive silicon substrate without performance degradation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1567</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3017&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1567</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3017</articleid>
+<submission-date>2013-08-07T13:33:28-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4403271</context-key>
+<submission-path>utk_gradthes/1567</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Samir El-Ghazaly, Syed Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

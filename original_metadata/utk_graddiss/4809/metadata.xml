@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Resolving Nonlinear Inverse Heat Conduction Problem by the Property Transformed Calibration Integral Equation Method Utilizing Novel Sequential and Phase Plane Strategies for Optimization</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hchen28@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Chen</lname>
+<fname>Hongchu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Nonlinear inverse heat conduction problem</keyword>
+<keyword>Calibration integral equation method</keyword>
+<keyword>Space marching method</keyword>
+<keyword>Phase plane and cross-correlation analyses</keyword>
+</keywords>
+<abstract>&lt;p&gt;A systematic “parameter free” calibration integral equation method is proposed for estimating the surface temperature and surface heat flux in the context of one-dimensional, transient, nonlinear inverse heat conduction problems. The calibration integral equation method can be formulated in terms of various probes arrangements. Temperature-dependent thermophysical properties and probe locations are not specified a priori but are implicitly accounted through the calibration campaigns. The final mathematical formulations involve Volterra integral equations of the first kind for the unknown surface temperature or surface heat flux. A first kind Chebyshev expansion possessing undetermined coefficients is applied for approximating the introduced property transform function. The undetermined expansion coefficients associated with the Chebyshev expansion are then estimated through calibration tests with known surface thermal conditions and probe responses. A time sequential testing procedure is illustrated and demonstrated for the model building process leading to the optimal truncation for the Chebyshev expansion. A future-time method is applied for stabilizing the ill-posed first kind Volterra integral equations. Phase plane and cross-correlation analyses are employed for estimating the optimal regularization parameter (i.e., the future-time parameter) from a spectrum of chosen values. The feasibility and robustness of the proposed approach are verified by numerical simulations. The effectiveness of using phase plane and cross-correlation analyses as a statistical tool for estimating optimal regularization parameters is also verified in the “parameter required” space marching method. This additional study demonstrates the universal nature of phase plane and cross-correlation analyses for estimating the optimal regularization parameter necessary for alternative numerical implementations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4809</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6349&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4809</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6349</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276374</context-key>
+<submission-path>utk_graddiss/4809</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jay I. Frankel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Majid Keyhani, Fangxing Li, Zhili Zhang</value>
+</field>
+<field name="comments" type="string">
+<value>- Chapter 2 of the dissertation was published in the Journal: Numerical Heat Transfer, Part B: Fundamentals
+- Chapter 3 of the dissertation has been submitted to the Journal: ZAMM-Journal of Applied Mathematics and Mechanics and is currently under review
+- Chapter 4 of the dissertation has been submitted to the Journal: International Journal of Heat and Mass Transfer and is currently under review
+- Chapter 5 of the dissertation is to be submitted to the Journal: Applied Mathematical Modelling</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

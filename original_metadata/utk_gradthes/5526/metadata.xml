@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Semi-Empirical Modeling and Implementation of Hybrid K-Edge Densitometry for Pyroprocessing Applications</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Cooper</lname>
+<fname>Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MCNP</keyword>
+<keyword>KED</keyword>
+<keyword>XRF</keyword>
+<keyword>Pyroprocessing</keyword>
+<keyword>HKED</keyword>
+<keyword>Safeguards</keyword>
+</keywords>
+<abstract>&lt;p&gt;The United States is currently looking at options for handling of spent nuclear fuel.Currently, there are ≈ 70, 000 metric tons of spent fuel in storage in the US alone.Pyroprocessing is a possible method for spent nuclear fuel reprocessing which was provento work at Argonne National Laboratory. This masters thesis showcases a method forempirically modeling hybrid k-edge densitometry, one of the numerous possible safeguardsneeded for a reprocessing facility. This is accomplished by using MCNP to perform 54sets of 2-stage simulations for KED and XRF, respectively. The end results are empiricallinear functions for the magnitude of the k-edge drop of uranium and plutonium, as wellas empirical functions for the XRF peaks for uranium and plutonium. These two empiricalfunctions are functions of uranium concentration and plutonium to uranium mass fractionratio, respectively.The semi-empirical functions are then implemented into the Sandia National LaboratorySeparation and Safeguards Performance Model EChem (SSPM Echem) Simulink model.The SSPM is a Simulink model which can use modular safeguards functions for methodssuch as HKED, passive gamma, and passive neutron detection. These types of safeguardsmodules help to evaluate how much the standard error of inventory difference (SEID) isaffected by additional safeguards, providing a quantifiable value. The empirical functionsas well as multiple representative figures and tables are presented, showcasing the ability ofthe Simulink module to correctly predict the KED drops as well as the XRF peaks. Theultimate goal is to combine the KED and XRF into HKED measurements to get a value forthe mass fraction of plutonium in salt. Plots showcasing the differences between the HKEDmodule output and SSPM’s internal mass tracking are shown.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5526</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6999&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5526</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6999</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914327</context-key>
+<submission-path>utk_gradthes/5526</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven Skutnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie Coble, Lawrence Heilbronn</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2735-2829</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

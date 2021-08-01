@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Biochemical Reactions Instigating Vision – Parameter Sensitivity Analysis</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tchoua</lname>
+<fname>Sophonie</fname>
+<mname>Ketcha</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this work is to investigate the sensitivity of parameters involved in a cascade of biochemical reactions occurring in photoreceptor cells in the retina of the eye. This cascade constitutes the first stage of the elaborate process of vision, by which light captured in a photoreceptor generates an electrical signal. It is this signal that travels to the brain enabling vision.&lt;/p&gt;
+&lt;p&gt;Sensitivity on parameters was performed on an ODE model of the biochemical cascade using two methods. One method used SimLab, a statistical sensitivity analysis program. We found that there are at most five important parameters out of the sixteen that affect the production of activated phosphodiesterase (PDE* ) and the photoreceptor (electrical current) response (&lt;em&gt;RR&lt;/em&gt; ). Another method performed was to vary each of the sixteen parameters separately over a range and observe the effect on PDE* ; this method also produced five most influential parameters essential to the production of PDE* . While the parameter rankings differed from one method to the other, the five parameters found using partial differential analysis of our ODE model agree with the parameters obtained via SimLab.&lt;/p&gt;
+&lt;p&gt;The second aspect of our problem involved looking at the effect of the variations of parameters on the time at which PDE* and &lt;em&gt;RR&lt;/em&gt; attain their maximum values. Only three of the parameters highly affecting variations of PDE* were also found to influence the time-of-peak values.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/493</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1530&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>493</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1530</articleid>
+<submission-date>2010-02-22T10:48:05-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1161834</context-key>
+<submission-path>utk_gradthes/493</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasilios Alexiades</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Collins, Steven Wise</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/TchouaSophonieKetcha.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

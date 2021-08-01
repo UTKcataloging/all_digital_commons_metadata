@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reliability Analysis of Oriented Strand Board’s Strength with a Simulation Study of the Median Censored Method for Estimating of Lower Percentile Strength</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Yang</fname>
+</author>
+</authors>
+<disciplines><discipline>Statistics and Probability</discipline>
+</disciplines><abstract>&lt;p&gt;Oriented Strand Board (OSB), an engineered wood product, has gained increased market acceptance as a construction material. Because of its growing market, the product’s manufacturing and performance have become the focus of much research. Internal Bond (IB) and Parallel and Perpendicular Elasticity Indices (EI), are important strength metrics of OSB and are analyzed in this thesis using statistical reliability methods. The data for this thesis consists of 529 destructive tests of OSB panels. They were tested from July 2005 to January 2006. These OSB panels came from a modern OSB manufacture in the Southeastern United States with the wood furnish being primarily Southern Pine (Pinus spp.). The 529 records are for 7/16” thickness OSB strength, which is rated for roof sheathing (i.e., 7/16” RS). Descriptive statistics of IB and EI are summarized including mean, median, standard deviation, Interquartile range, skewness etc. Visual tools such as histograms and box plots are utilized to identify outliers and improve the understanding of the data. Survival plots or Kaplan-Meier curves are important methods for conducting nonparametric analyses of life (or strength) reliability data and are used in this thesis to estimate the strength survival function of the IB and EI of OSB. Probability Plots and Information Criteria are used to determine the best underlying distribution or probability density function. The OSB data used in this thesis fit the lognormal distribution best for both IB and EI. One outlier is excluded for the IB data and six outliers are excluded for the EI data. Estimation of lower percentiles is very important for quality assurance. In many reliability studies, there is great interest in estimating the lower percentiles of life or strength. In OSB, the lower percentiles of strength may result in catastrophic failures during installation of OSB panels. Catastrophic failure of 7/16” RS OSB, which is used primarily for residential construction of roofs, may result in severe injury or death of construction workers. The liability and risk to OSB manufacturers from severe injury or death to construction workers from an OSB panel failure during construction can result in extreme loss of market share and significant financial losses. In reliability data, “multiple failure modes” is common. Simulated data of mixed distribution of the two two-parameter Weibull distribution is produced to mimic the multiple failure modes for the reliability data A forced median censored method is adopted to estimate lower percentiles of the simulated data. Results of the simulation indicate that the estimated lower percentiles median censored method is relatively close to the true parametric percentiles when compared to not using the median censored method. I conclude that the median censoring method is a useful tool for improving estimation of the lower percentiles for OSB panel failure.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/245</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1277&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>245</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1277</articleid>
+<submission-date>2010-02-10T10:58:18-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1139268</context-key>
+<submission-path>utk_gradthes/245</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy M. Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank Guess, Ramón León</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/WangYang.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

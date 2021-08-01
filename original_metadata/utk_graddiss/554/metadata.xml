@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multivariate Mixed Data Mining with Gifi System using Genetic Algorithm and Information Complexity</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Katragadda</lname>
+<fname>Suman</fname>
+</author>
+</authors>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+</disciplines><abstract>&lt;p&gt;Statistical analysis is very much dependent on the quality and type of a data set. There are three types of data - continuous, categorical and mixed. Of these three types, statistical modeling on a mixed data had been a challenging job for a long time. This is due to the fact that most of the traditional statistical techniques are defined either for purely continuous data or for purely categorical data but not mixed data. In reality, most of the data sets are neither continuous nor categorical in a pure sense but are in mixed form which makes the statistical analysis quite difficult. For instance, in the medical sector where classification of the data is very important, presence of many categorical and continuous predictors results in a poor model. In the insurance and finance sectors, lots of categorical and continuous data are collected on customers for targeted marketing, detection of suspicious insurance claims, actuarial modeling, risk analysis, modeling of financial derivatives, detection of profitable zones etc.&lt;/p&gt;
+&lt;p&gt;In this work, we bring together several relatively new developments in statistical model selection and data mining. In this work, we address two problems. The first problem is to determine the optimal number of mixtures from a multivariate Bernoulli distributed data using genetic algorithm and Bozdogan&#39;s information complexity, ICOMP. We show that the results of the maximum likelihood values are not just sufficient in determining the optimal number of mixtures. We also address the issue of high dimensional binary data using a genetic algorithm to determine the optimal predictors. Finally, we show the results of our algorithm on a simulated and two real data sets.&lt;/p&gt;
+&lt;p&gt;The second problem is to discovering interesting patterns from a complicated mixed data set. Since mixed data are a combination of continuous and categorical variables, we trans- form the non linear categorical variables to a linear scale by a mechanism called Gifi transformation, [Gifi, 1989]. Once the non linear variables are transformed to a linear scale (Euclidean space), we apply several classical multivariate techniques on the transformed continuous data to identify the unusual patterns. The advantage with this transformation is that it has a one-to-one mapping mechanism. Hence, the transformed set of continuous value(s) in the Gifi space can be remapped to a unique set of categorical value(s) in the original space. Once the data is transformed to the Gifi space, we implement various statistical techniques to identify interesting patterns. We also address the problem of high dimensional data using genetic algorithm for variable selection and Bozdogan&#39;s information complexity (ICOMP) as our fitness function.&lt;/p&gt;
+&lt;p&gt;We present details of our newly-developed Matlab toolbox, called &lt;em&gt;Gifi System&lt;/em&gt;, that implements everything presented, and can readily be extended to add new functionality. Finally, results on both simulated and real world data sets are presented and discussed.&lt;/p&gt;
+&lt;p&gt;Keywords: &lt;em&gt;Gifi, homals, regression, multivariate logistic regression, fraud detection, medical diagnostics, supervised classification, unsupervised classification, variable selection, high dimensional data mining, stock market trading, detection of suspicious insurance claim estimates.&lt;/em&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/554</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1621&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>554</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1621</articleid>
+<submission-date>2010-02-22T12:02:40-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1162378</context-key>
+<submission-path>utk_graddiss/554</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mary Leitnaker, Russell Zaretski, Mohammed Mohsin, Adam Petrie</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/KatragaddaSuman.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

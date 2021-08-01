@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Heat Flux Model Validation Utilizing Convolutional Neural Networks and Sub-surface Thermocouples for NSTX-U</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tlooby@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Looby</lname>
+<fname>Thomas</fname>
+<mname>Patrick</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nuclear fusion</keyword>
+<keyword>neural networks</keyword>
+<keyword>heat flux</keyword>
+<keyword>nstx</keyword>
+<keyword>tokamak</keyword>
+<keyword>machine learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;A proof of concept convolutional neural network (CNN) has been developed to assist in operating tokamaks outside of existing empirical scalings for the heat flux width, λ&lt;sub&gt;q&lt;/sub&gt; [lambda-q]. NSTX-U has designed new plasma facing components (PFCs) to withstand increased halo current forces as well as elevated heat fluxes driven by increased poloidal field and neutral beam power compared to NSTX. Larger graphite tiles are castellated to 2.5 cm [centimenter] x 2.5 cm [centimeter] to reduce bending stresses. Maintaining PFCs below engineering limits will be an important consideration for operation of NSTX-U. Sub-surface thermocouples will be utilized to demonstrate validation of the heat load model, using the castellated designs to quantify the shot-integrated energy deposited in the NSTX-U divertor. A Convolutional Neural Network (CNN) has been trained using ANSYS simulations of PFC response to a variety of time-varying heat flux profiles. The CNN accepts time evolving thermocouple data and various 0-D engineering parameters and outputs heat flux model parameters, such as the poloidal field scaling of the heat flux width, λ&lt;sub&gt;q&lt;/sub&gt; [lambda-q]. The CNN enables high accuracy validation of the heat flux model despite a limited number of simulated NSTX-U shots, noise, and systematic errors in the thermocouple data. This application of machine learning to nuclear fusion diagnostics provides an alternative method to traditional analytical solution inversion, and may be ported over to other diagnostics in the future.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5349</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6759&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5349</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6759</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343044</context-key>
+<submission-path>utk_gradthes/5349</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David Donovan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Maik Lang, Matthew Reinke</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

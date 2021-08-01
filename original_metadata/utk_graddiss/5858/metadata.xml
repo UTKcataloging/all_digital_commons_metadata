@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Application of big data in transportation safety analysis using statistical and deep learning methods</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rarvin@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Arvin</lname>
+<fname>Ramin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Big Data</keyword>
+<keyword>Statistical Analysis</keyword>
+<keyword>Deep learning</keyword>
+<keyword>Microscopic behavior</keyword>
+<keyword>Transportation Safety</keyword>
+</keywords>
+<abstract>&lt;p&gt;The emergence of new sensors and data sources provides large scale high-resolution big data from instantaneous vehicular movements, driver decision and states, surrounding environment, roadway characteristics, weather condition, etc. Such a big data can be served to expand our understanding regarding the current state of the transportation and help us to proactively evaluate and monitor the system performance. The key idea behind this dissertation is to identify the moments and locations where drivers are exhibiting different behavior comparing to the normal behavior. The concept of driving volatility is utilized which quantifies deviation from normal driving in terms of variations in speed, acceleration/deceleration, and vehicular jerk. This idea is utilized to explore the association of volatility in different hierarchies of transportation system, i.e.: 1) Instance level; 2) Event level; 3) Driver level; 4) Intersection level; and 5) Network level. In summary, the main contribution of this dissertation is exploring the association of variations in driving behavior in terms of driving volatility at different levels by harnessing big data generated from emerging data sources under real-world condition, which is applicable to the intelligent transportation systems and smart cities. By analyzing real-world crashes/near-crashes and predicting occurrence of extreme event, proactive warnings and feedback can be generated to warn drivers and adjacent vehicles regarding potential hazard. Furthermore, the results of this study help agencies to proactively monitor and evaluate safety performance of the network and identify locations where crashes are waiting to happen. The main objective of this dissertation is to integrate big data generated from emerging sources into safety analysis by considering different levels in the system. To this end, several data sources including Connected Vehicles data (with more than 2.2 billion seconds of observations), naturalistic driving data (with more than 2 million seconds of observations from vehicular kinematics and driver behavior), conventional data on roadway factors and crash data are integrated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5858</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7624&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5858</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7624</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527766</context-key>
+<submission-path>utk_graddiss/5858</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Asad J. Khattak</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hamparsum Bozdogan, Hairong Qi, Candace Brakewood</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0001-7805-3362</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

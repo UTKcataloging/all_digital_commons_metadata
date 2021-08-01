@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Electronic Excitations in YTiO3 using TDDFT and electronic structure using a multiresolution framework</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wthornto@utk.edu</email>
+<lname>Thornton</lname>
+<fname>William Scott</fname>
+</author>
+</authors>
+<keywords>
+<keyword>TDDFT</keyword>
+<keyword>DFT</keyword>
+<keyword>multiresolution</keyword>
+<keyword>wavelet</keyword>
+<keyword>YTiO3</keyword>
+<keyword>Wannier</keyword>
+</keywords>
+<disciplines><discipline>Condensed Matter Physics</discipline>
+<discipline>Numerical Analysis and Computation</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;We performed ab initio studies of the electronic excitation spectra of the ferro- magnetic, Mott-insulator YTiO3 using density functional theory (DFT) and time- dependent density functional theory (TDDFT). In the ground state description, we included a Hubbard U to account for the strong correlations present within the d states on the cation. The excitation spectra was calculated using TDDFT linear response formalism in both the optical limit and the limit of large wavevector transfer. In order to identify the local d-d transitions in the response, we also computed the density response of YTiO3 using a novel technique where the basis included Wannier functions generated for the Ti and Y sites. Also, we describe the first implementation of the all-electron Kohn-Sham density functional equations in a periodic system using multi-wavelets and fast integral equations using MADNESS (multiresolution adaptive numerical environment for scientific simulation; http://code.google.com/p/m-a-d-n- e-s-s). This implementation is highlighted by the real space lattice sums involved in the application of the Coulomb and bound state Helmlholtz integral operators.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1134</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2250&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1134</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2250</articleid>
+<submission-date>2011-07-20T11:22:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2109352</context-key>
+<submission-path>utk_graddiss/1134</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adolfo G. Eguiluz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert J. Harrison, Hanno H. Weitering, Elbio R. Dagotto</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

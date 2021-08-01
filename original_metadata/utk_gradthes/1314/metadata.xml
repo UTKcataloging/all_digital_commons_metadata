@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Validation Study of the AMP Nuclear Fuel Performance Code</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aphill26@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Phillippe</lname>
+<fname>Aaron</fname>
+<mname>Martin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Halden</keyword>
+<keyword>IFA</keyword>
+<keyword>IFPE</keyword>
+<keyword>FRAPCON</keyword>
+<keyword>NEAMS</keyword>
+<keyword>MultiPhysics</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Advanced Multi-Physics (AMP) Fuel Performance Code is a fully coupled, 3-dimensional (3D) code currently in development at the Oak Ridge National Laboratory (ORNL) for the purposes of advanced fuel performance evaluation and simulation. The purpose of this study was to investigate and examine the capabilities of AMP, as developed so far, in thermo-mechanical evaluations of experimental benchmark data. The IFA-432 and IFA-597 datasets from the Nuclear Energy Agency’s (NEA) International Fuel Performance Experiments (IFPE) database were examined, and a code-to-code comparison made against FRAPCON-3.4, a one dimensional (1D) code used by the Nuclear Regulatory Commission (NRC) for fuel licensing. AMP was found to predict centerline temperatures consistent with the experimental measurements and the FRAPCON code, in range and behavior for the initial irradiation steps of the datasets. This was in spite of lacking implementation of all the physics inherent to nuclear fuel. The results of this study show that AMP has the promise of more accurate and robust fuel evaluations as the development of the code progresses.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1314</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2423&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1314</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2423</articleid>
+<submission-date>2012-06-20T06:19:46-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3007749</context-key>
+<submission-path>utk_gradthes/1314</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Guillermo, I, Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin T. Clarno, Lawrence H. Heilbronn</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Final Version&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>DATA.zip</archive-name>
+<upload-name>DATA.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2423&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>File contains I/O for AMP and FRAPCON simulations</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

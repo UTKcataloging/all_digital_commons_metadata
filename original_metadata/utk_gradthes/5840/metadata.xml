@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Theory Problem Description Parser</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tmn678@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hurst</lname>
+<fname>Gary</fname>
+<mname>Brent</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information Theory</keyword>
+<keyword>Parser</keyword>
+<keyword>Erasure Coding</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Data corruption and data loss create huge problems when they occur, so naturally safeguards are usually in place to recover lost data. This often involves allowing less space for data in order to allow space for an encoding that can be used to recover any data that might be lost. The question arises, then, about how to most efficiently implement these safeguards with respect to storage, network bandwidth, or some linear combination of those two things. This work has two main goals for the information theory community: to produce an intuitive-to-use problem description parser that facilitates research in the area, and to demonstrate the parser’s utility.&lt;/p&gt;
+&lt;p&gt;To these ends, I completed three objectives: First, I hardened an existing problem description parser to sanitize input. Then, after that code was released open-source to the community, I rewrote the parser using C++, making it more efficient and more agreeable to a Python-based workflow. Once this new parser had also been open-sourced, I wrote a program to generate problem description files to show how to use the parser and how useful it can be. This paper will give an account of the results of those three objectives.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5840</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7042&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5840</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7042</articleid>
+<submission-date>2020-09-29T12:29:38-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>19591726</context-key>
+<submission-path>utk_gradthes/5840</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James S. Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Chao Tian, Michael R. Jantz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

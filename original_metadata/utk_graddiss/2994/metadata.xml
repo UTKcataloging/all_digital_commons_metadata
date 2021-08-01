@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effect of Particle Dynamics on Turbulence Measurements with the Laser Doppler Velocimeter</title>
+<publication-date>1986-06-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nichols</lname>
+<fname>Robert</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The laser velocimeter (LV) is currently being used by many researchers to nonintrusively obtain velocity data in complex flow fields. The LV measures the velocity of small particles entrained in the flow field of interest. The fluid velocity and turbulent velocity correlations are then inferred from statistical analysis of these particle velocity measurements under the assumption that the particles exactly reproduce the motion of the fluid. This assumption needs careful evaluation since it is fundamental to the application of the LV.&lt;/p&gt;
+&lt;p&gt;The particle equation of motion was carefully analyzed to determine what form is required for evaluating the turbulence response of the small, light particles of interest to velocimetry. The importance of including the Basset history integral was noted. The effects of corrections to the Stokes drag term to extend the particle equation of the motion beyond the Stokes flow regime was discussed. A computer code was developed to numerically solve the Lagranian particle equation of motion.&lt;/p&gt;
+&lt;p&gt;The effects of a particle size distribution present in a flow field with sufficient mean velocity gradients to cause particle lag on LV data were evaluated. The response of the individual particle sizes will lead to an over prediction of the turbulence intensities and also affect the Reynolds shear measurement. A &quot;rule of thumb&quot; for particle selection for accurate mean flow measurements in flows with velocity gradients is presented.&lt;/p&gt;
+&lt;p&gt;A numerical model for evaluating seed particle requirements for accurate turbulence measurements with the LV has been developed. A Monte Carlo turbulence model was developed which included an elementary description of the internal structure of an eddy. The model was applied to two simple turbulent flows, grid generated turbulence and a subsonic axisymmetric jet, to evaluate particle response and to establish particle size for accurate LV measurements in these flows. Large monodisperse particles were found to cause the turbulence quantities to be underestimated, leading to a requirement for very small particles for meaningful turbulence measurements with the LV. &quot;Rule of thumb&quot; criteria for particle size selection are developed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2994</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4489&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2994</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4489</articleid>
+<submission-date>2014-10-29T08:57:50-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6301772</context-key>
+<submission-path>utk_graddiss/2994</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Frank G. Collins</value>
+</field>
+<field name="advisor2" type="string">
+<value>K. C. Reddy, Walter Frost, Carroll Peters, Trevor Moulden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1986-06-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1986-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

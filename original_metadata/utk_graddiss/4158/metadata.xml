@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Large Scale Brownian Dynamics Simulation of Dilute and Semidilute Polymeric Solutions</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>asaadat@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Saadat</lname>
+<fname>Amir</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Stochastic Simulations</keyword>
+<keyword>Mesoscopic Modeling</keyword>
+<keyword>Extensional Rheology</keyword>
+<keyword>DNA Dynamics</keyword>
+<keyword>BDpack</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+<discipline>Computational Engineering</discipline>
+<discipline>Fluid Dynamics</discipline>
+<discipline>Statistical, Nonlinear, and Soft Matter Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Excluded Volume (EV) and Hydrodynamic Interactions (HI) play a central role in static and dynamic properties of macromolecules in solution under equilibrium and nonequilibrium settings. The computational cost of incorporating HI in mesoscale Brownian dynamics (BD) simulations, particularly in the semidilute regime has motivated significant research aimed at development of high-fidelity and efficient techniques.&lt;/p&gt;
+&lt;p&gt;In this study, I have developed several algorithms for the mesoscale bead-spring representation of a macromolecular solution in dilute and semidilute regimes. The Krylov subspace method enables fast calculation of single chain dynamics with simulation time scaling of &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;N&lt;/em&gt;&lt;sub&gt;b&lt;sup&gt;2&lt;/sup&gt;&lt;/sub&gt;) [order &lt;em&gt;N&lt;/em&gt; subscript b squared], where &lt;em&gt;N&lt;sub&gt;b&lt;/sub&gt;&lt;/em&gt; is the number of beads in the chain. For simulations of multichain systems, a matrix-free approach is implemented which leads to &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;N&lt;/em&gt;log&lt;em&gt;N)&lt;/em&gt; scaling of simulation time, where &lt;em&gt;N&lt;/em&gt; is the number of beads in the periodic box.&lt;/p&gt;
+&lt;p&gt;The Krylov and predictor-corrector schemes are used to study the behavior of dilute solutions of high molecular weight flexible macromolecules, and in particular Polystyrene (PS). The influence of HI and EV on the extensional hardening of the macromolecular solutions is considered. It is demonstrated that the combination of HI and successive fine-graining results in a remarkable prediction of rheological properties of solutions containing 1.95, 3.9, and 10.2 million molecular weight PS.&lt;/p&gt;
+&lt;p&gt;Further, a bead-spring model is developed to overcome the deficiencies of the current mesoscale worm-like chain models, i.e., to accurately describe the correlation along the backbone, segmental length, and the force-extension behavior even at the limit of 1 Kuhn step per spring. The new model is utilized to examine the relaxation and stretching behavior of linear and comb DNA molecules. The BD computational results are in good agreement with single molecule visualization experiments in a cross-slot device (planar extensional flow).&lt;/p&gt;
+&lt;p&gt;For interacting multichain systems, the fidelity of the matrix-free algorithm is demonstrated by evaluating the asymptotic value of center of mass diffusivity at low concentrations and the radius of gyration as a function of number of beads in θ [theta] and good solvent conditions. Our results are consistent with blob theory, which is commonly used to describe the concentration dependence of polymer solution properties.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4158</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5564&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4158</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5564</articleid>
+<submission-date>2016-10-05T20:31:10-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9237532</context-key>
+<submission-path>utk_graddiss/4158</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bamin Khomami</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian J. Edwards, Adriana Moreo, Steven M. Abel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

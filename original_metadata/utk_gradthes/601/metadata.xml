@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MPI-based Parallel Solution of Sparse Linear Systems Using Chio&#39;s Condensation Algorithm and Test Data from Power Flow Analysis</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee Kn</institution>
+<lname>Armistead</lname>
+<fname>Robert</fname>
+<mname>Bernard</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Solving sparse systems of linear equations permeates power system analysis. Newton-Raphson, decoupled, and fast decoupled algorithms all require the repeated solving of sparse systems of linear equations in order to capture the steady state operational conditions of the power system under test. Solving these systems of equations is usually done using LU Factorization which has an order of complexity O(n3) where n represents the number of equations in the system. The Chio’s condensation algorithm is an alternative approach, which in general has a complexity of O(n4). However, it has a straightforward formulation that can be easily implemented in a parallel computing architecture. Previous research has not investigated the application of the Chio’s algorithm under sparse matrix, which is typical for power system analysis. This thesis presents a MPI-based parallel solution of sparse linear systems using Chio’s condensation algorithm and realistic test data from power flow analysis. Different sparse matrix techniques are discussed, and a reordering scheme is applied to further improve the efficiency for solving the sparse linear system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/601</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1686&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>601</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1686</articleid>
+<submission-date>2010-04-28T13:03:44-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1290946</context-key>
+<submission-path>utk_gradthes/601</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing &quot;Fran&quot; Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Kevin Tomsovic</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

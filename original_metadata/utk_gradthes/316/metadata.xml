@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mathematical Modeling of Reverse Flow Oxidation Catalysts</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Raghavan</lname>
+<fname>Barath</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A theoretical model and a computer simulation on methane (CH4) reduction in a simulated natural gas exhaust mixture are performed for a Reverse-Flow Oxidation Catalyst. This theoretical model is to predict the conversion of methane flowing through an oxidation catalyst with periodic reversal of flow direction. The model developed for this purpose is a transient, 1-Dimensional plug flow model with gas phase reactions and surface reactions. The derivation of the model resulted in the mole balance equation and the energy balance equation for the gas phase and the solid phase. The momentum equation for this model is neglected as it is assumed that there is no pressure drop across the catalyst.&lt;/p&gt;
+&lt;p&gt;A FORTRAN code was developed to simulate the forward flow and the reverse flow of the gas species through the catalyst. This code can have a symmetrical or an asymmetrical switching according to the user. It also gives an option of running the code either in the forward direction or with periodic switching to analyze the effect of switching. With this code, the optimum switching time for the maximum conversion of methane was found. The effect of various parameters such as the length of the catalyst, the concentration of the gas species, pre-exponential term and the activation energy was also analyzed.&lt;/p&gt;
+&lt;p&gt;The results show that the optimum switching frequency is 25 seconds for all space velocities for a 10 cm long catalyst with 2000 ppm of inlet methane. The increase in the conversion of methane when compared to the unidirectional flow was found to be 47% at 450&lt;sup&gt;o&lt;/sup&gt;C for a gas hourly space velocity of 50,000 hr&lt;sup&gt;-1&lt;/sup&gt;. It was also found that, at 450&lt;sup&gt;o&lt;/sup&gt;C for a gas hourly space velocity of 50,000 hr&lt;sup&gt;-1&lt;/sup&gt;, the pre-exponential factor and the length of the catalyst had negligible effect on the conversion of methane. The activation energy and the inlet concentration had a significant effect on the methane conversion which is discussed in further chapters. It was also found that symmetric switching had increased solid temperature profile and methane conversion efficiency when compared to the asymmetric switching frequency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/316</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1349&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>316</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1349</articleid>
+<submission-date>2010-02-11T13:12:22-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1141327</context-key>
+<submission-path>utk_gradthes/316</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ke Nguyen</value>
+</field>
+<field name="advisor2" type="string">
+<value>David K. Irick, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/Theses/RaghavanBarath.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

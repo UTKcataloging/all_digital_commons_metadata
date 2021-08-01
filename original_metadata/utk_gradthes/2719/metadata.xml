@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improved Forensic Medical Device Security through Eating Detection</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nhenry2@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Henry</lname>
+<fname>Nathan</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Bowel Sounds</keyword>
+<keyword>Pattern Recognition</keyword>
+<keyword>Insulin Pump</keyword>
+<keyword>Security</keyword>
+<keyword>Medical Device</keyword>
+<keyword>Safety</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Other Computer Engineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Patients are increasingly reliant on implantable medical device systems today. For patients with diabetes, an implantable insulin pump system or artificial pancreas can greatly improve quality of life. As with any device, these devices can and do suffer from software and hardware issues, often reported as a safety event. For a forensic investigator, a safety event is indistinguishable from a potential security event. In this thesis, we show a new sensor system that can be transparently integrated into existing and future electronic diabetes therapy systems while providing additional forensic data to help distinguish between safety and security events. We demonstrate three bowel sound detection methods, the best of which has an 84.26% bowel sound classification accuracy. We provide additional contextual information by using detected bowel sounds to detect when a patient begins to eat. We achieved 100% eating detection accuracy in a laboratory environment. From the eating data, an algorithm or forensic investigator can identify potential malfeasance in a test subject.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2719</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3662&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2719</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3662</articleid>
+<submission-date>2013-10-11T18:21:45-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3662/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4701313</context-key>
+<submission-path>utk_gradthes/2719</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicole McFarlane, Nathaniel R. Paul</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

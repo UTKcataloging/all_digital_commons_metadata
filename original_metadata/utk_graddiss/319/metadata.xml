@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Generic Prognostic Framework for Remaining Useful Life Prediction of Complex Engineering Systems</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Usynin</lname>
+<fname>Alexander</fname>
+<mname>V.</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Prognostics and Health Management (PHM) is a general term that encompasses methods used to evaluate system health, predict the onset of failure, and mitigate the risks associated with the degraded behavior. Multitudes of health monitoring techniques facilitating the detection and classification of the onset of failure have been developed for commercial and military applications. PHM system designers are currently focused on developing prognostic techniques and integrating diagnostic/prognostic approaches at the system level. This dissertation introduces a prognostic framework, which integrates several methodologies that are necessary for the general application of PHM to a variety of systems. A method is developed to represent the multidimensional system health status in the form of a scalar quantity called a health indicator. This method is able to indicate the effectiveness of the health indicator in terms of how well or how poorly the health indicator can distinguish healthy and faulty system exemplars. A usefulness criterion was developed which allows the practitioner to evaluate the practicability of using a particular prognostic model along with observed degradation evidence data. The criterion of usefulness is based on comparing the model uncertainty imposed primarily by imperfectness of degradation evidence data against the uncertainty associated with the time-to-failure prediction based on average reliability characteristics of the system. This dissertation identifies the major contributors to prognostic uncertainty and analyzes their effects. Further study of two important contributions resulted in the development of uncertainty management techniques to improve PHM performance. An analysis of uncertainty effects attributed to the random nature of the critical degradation threshold, , was performed. An analysis of uncertainty effects attributed to the presence of unobservable failure mechanisms affecting the system degradation process along with observable failure mechanisms was performed. A method was developed to reduce the effects of uncertainty on a prognostic model. This dissertation provides a method to incorporate prognostic information into optimization techniques aimed at finding an optimal control policy for equipment performing in an uncertain environment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/319</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1374&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>319</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1374</articleid>
+<submission-date>2010-02-08T11:14:55-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1136023</context-key>
+<submission-path>utk_graddiss/319</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Laurence F. Miller, Belle R. Upadhyaya, Lynne E. Parker, Aleksey M. Urmanov</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/UsyninAlexander.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

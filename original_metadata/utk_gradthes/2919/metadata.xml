@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Development of an Inventory Control Procedure for Low Usage Maintenance Spare Parts</title>
+<publication-date>1972-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Whitaker</lname>
+<fname>Asa</fname>
+<mname>L.</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This analysis was made in an attempt to establish an inventory control procedure which would be applicable for low wage maintenance spare parts. Spare parts inventories are unique in industry since they are maintained as insurance stock to provide protection against the inability to procure a part readily when it is needed for a repair.· Due to this characteristic, the demand for these items is low and unpredictable; therefore, classical inventory models are not applicable. More sophisticated approaches have been developed to take these characteristics into account; however, these approaches require assumptions to be made which may not hold true when applying these concepts in everyday operations.&lt;/p&gt;
+&lt;p&gt;In an effort to gain understanding of the inventory process a simulation model was developed to parallel the inventory cycle as it is operated on a daily basis. In order to develop a realistic simulation model the physical attributes of the system and their interactions were established and provisions were made for evaluating the effect of various control parameters on these characteristics. By simulating the inventory cycle over an extended period of time the model provided an opportunity to introduce various inventory control points at predetermined usage rates. Consequently, the effect of these various control points on the inventory level, reorder cycle, and stockout frequency could be studied at each level of annual usage selected.&lt;/p&gt;
+&lt;p&gt;The classical total variable cost equation was used to convert the results of the simulation into information which takes into account the cost factors of the inventory cycle. Using the values obtained from the simulation an economic evaluation was made for each set of fixed attributes in order to determine the most economical control point for each level of annual usage and lead time range. As could be expected, many combinations of unit cost and stockout cost are possible for inclusion in the total variable cost equation; however, in keeping with the characteristics of the majority of items in these inventories, these costs were limited to five hundred dollars each.&lt;/p&gt;
+&lt;p&gt;The data from the economic evaluations was consolidated and arranged in graphical form in order to use the data as a tool for decision making . By determining the expected annual usage, lead time, unit cost, and probably stockout cost, the user can quickly determine the max-min control point which is the most economical for that set of variables. In addition to the graphical representation, the logic represented in the graphs was incorporated into a computerized inventory control system where it has been used success fully for several months.&lt;/p&gt;
+&lt;p&gt;Although this analysis does not represent an exacting scientific approach to this type of inventory problem, experience indicates that near optimization has been achieved through proper application of the procedure.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2919</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4315&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2919</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4315</articleid>
+<submission-date>2014-10-31T12:08:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6313790</context-key>
+<submission-path>utk_gradthes/2919</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>D.H. Hutchinson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Harold W. Henry, M. Goodman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1972-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1972-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of High Power Density Three-Level Inverter for Aircraft Application</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rchen14@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Chen</lname>
+<fname>Ruirui</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;For more electric transportation applications, power density of the power electronic converters becomes the key issue because of the limited space and carrier capability. This dissertation studies three-level converter in aircraft application. The research focuses on design of high power density three-level inverter emphasizing on passive reduction through novel modulation and control, paralleling and interleaving strategy, filter modeling and design optimization.First, understanding harmonic characteristics in a power converter is critical for passive design and reduction. Harmonic calculation models of three-level neutral point clamped inverter with space vector modulation are developed. The impact of interleaving angle on dc and ac side harmonics and EMI harmonics is comprehensively studied considering multiple impact factors and optimal interleaving angle ranges to reduce these harmonics is derived.Second, low frequency circulating currents need to be suppressed in paralleled inverters. To increase inverter system power density, a space vector modulation is proposed for paralleled three-level inverters to reduce common-mode voltage and switching loss in addition to suppress the low frequency circulating current.Third, high frequency circulating currents are suppressed by coupled inductors in parallel interleaved inverters. To reduce the coupled inductor size and weight, carrier based PWM method to achieve minimum flux for coupled inductor in interleaved three-level inverters is proposed. Fourth, to reduce the required EMI filter, one approach is reducing EMI noise. The inverter and filter topology for common-mode noise reduction in three-level inverter is investigated. Fourth-leg topology is applied to three-level inverter for common-mode noise reduction. An impedance balancing circuit filter topology is proposed to reduce both dc and ac side common-mode noise for motor drive system.Fifth, to reduce the required EMI filter, another approach is filter design optimization. Spectrum concept is introduced for CM inductor saturation analysis and design optimization. CM inductor flux density model is developed and multiple impact factors are investigated. An improved CM filter design procedure is proposed to avoid over-design or under-design of CM inductor.Last, design and demonstration of a 1 MW three-level inverter with cryogenic cooling is presented which provides guidance for high power three-level inverter design and cryogenic power converter design.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5926</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7692&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5926</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7692</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527873</context-key>
+<submission-path>utk_graddiss/5926</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Daniel Costinett, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

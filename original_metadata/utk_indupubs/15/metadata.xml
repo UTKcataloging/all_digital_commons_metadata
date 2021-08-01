@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reliability Prediction and Test Plan Based on An Accelerated Degradation Rate Model</title>
+<publication-date>2004-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hliao@email.arizona.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liao</lname>
+<fname>Haitao</fname>
+</author>
+<author>
+<institution>Rutgers University - New Brunswick/Piscataway</institution>
+<lname>Elsayed</lname>
+<fname>E.</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>accelerated degradation testing; degradation rate; geometric Brownian motion; optimum testing plan; reliability estimate; reliability testing; reliability prediction</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Accelerated Degradation Testing (ADT) is a viable alternative to accelerated life testing with censoring to estimate reliability without waiting for actual failures to occur. However, the estimation accuracy relies greatly on both precise representation of covariates&#39; impacts on degradation behaviour and a carefully designed ADT plan. In this paper, an ADT model, called Accelerated Geometric Brownian Motion Degradation Rate (AGBMDR) model, is proposed by modelling degradation rate in order to explain covariates&#39; effects and inherent degradation rate variation precisely. Based on baseline parameter estimates of the model through a pilot ADT experiment, a local optimum ADT plan is developed to refine estimation accuracy of interests. The objective considered is to minimise the generalised variance (GV) of parameter estimates. A numerical example is provided to demonstrate the reliability inference procedure and the optimum ADT design methodology. The result shows that the optimum ADT plan leads to a more efficient experiment than the traditional ADT plan in terms of relative efficiency criterion.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/15</coverpage-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1015</articleid>
+<submission-date>2010-04-30T10:30:00-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1293977</context-key>
+<submission-path>utk_indupubs/15</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-04-30T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.inderscience.com/search/index.php?action=record&amp;rec_id=4998&amp;prevQuery=&amp;ps=10&amp;m=or</value>
+</field>
+</fields>
+</document>
+</documents>

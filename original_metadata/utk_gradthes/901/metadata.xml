@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of a High-Voltage, Differential Drive Bradbury-Nielsen Gate Amplifier with Ultra-High Slew Rate and Input Isolation</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>komoumi@utk.edu</email>
+<lname>Omoumi</lname>
+<fname>Kevin</fname>
+<mname>Christopher</mname>
+</author>
+</authors>
+<keywords>
+<keyword>High-voltage Amplifier</keyword>
+<keyword>Input Isolation</keyword>
+<keyword>Bradbury-Nielsen Gate</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Electronic Devices and Semiconductor Manufacturing</discipline>
+<discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;To isolate and study various components of a nuclear reaction, elaborate equipment must be developed to aid in this process. This thesis presents the design and implementation of an ultra-high slew rate Bradbury-Nielsen gate driver circuit with high-voltage input isolation. This design will be used in a multi-pass time-of-flight isomer spectrometer and separator application integrated into an overall instrument called the Oak Ridge Isomer Spectrometer and Separator (ORISS). The output drive signals of this circuit are transmitted through a vacuum feed-through system to supply the necessary signals to the Bradbury-Nielsen gate contained within the vacuum. A differential driving signal with a 100-V magnitude and switching times on the order of nanoseconds is presented in this design. The “on time” of this signal is comparable to the amount of time required for it to transition states, creating complex design constraints. The implementation of this design is based on a 4-layer printed circuit board and the use of commercial off-the-shelf (COTS) components.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/901</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1937&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>901</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1937</articleid>
+<submission-date>2011-01-05T10:17:18-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1937/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1718399</context-key>
+<submission-path>utk_gradthes/901</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed K. Islam, Leon M. Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

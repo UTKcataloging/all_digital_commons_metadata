@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploiting Cross Domain Relationships for Target Recognition</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wwang34@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cross Domain</keyword>
+<keyword>Action Recognition</keyword>
+<keyword>Person Re-Identification</keyword>
+<keyword>Multiple Event Analysis</keyword>
+<keyword>Dictionary Learning</keyword>
+<keyword>Random Forest</keyword>
+</keywords>
+<disciplines><discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Cross domain recognition extracts knowledge from one domain to recognize samples from another domain of interest. The key to solving problems under this umbrella is to find out the latent connections between different domains. In this dissertation, three different cross domain recognition problems are studied by exploiting the relationships between different domains explicitly according to the specific real problems.&lt;/p&gt;
+&lt;p&gt;First, the problem of cross view action recognition is studied. The same action might seem quite different when observed from different viewpoints. Thus, how to use the training samples from a given camera view and perform recognition in another new view is the key point. In this work, reconstructable paths between different views are built to mirror labeled actions from one source view into one another target view for learning an adaptable classifier. The path learning takes advantage of the joint dictionary learning techniques with exploiting hidden information in the seemingly useless samples, making the recognition performance robust and effective.&lt;/p&gt;
+&lt;p&gt;Second, the problem of person re-identification is studied, which tries to match pedestrian images in non-overlapping camera views based on appearance features. In this work, we propose to learn a random kernel forest to discriminatively assign a specific distance metric to each pair of local patches from the two images in matching. The forest is composed by multiple decision trees, which are designed to partition the overall space of local patch-pairs into substantial subspaces, where a simple but effective local metric kernel can be defined to minimize the distance of true matches.&lt;/p&gt;
+&lt;p&gt;Third, the problem of multi-event detection and recognition in smart grid is studied. The signal of multi-event might not be a straightforward combination of some single-event signals because of the correlation among devices. In this work, a concept of ``root-pattern&#39;&#39; is proposed that can be extracted from a collection of single-event signals, but also transferable to analyse the constituent components of multi-cascading-event signals based on an over-complete dictionary, which is designed according to the ``root-patterns&#39;&#39; with temporal information subtly embedded.&lt;/p&gt;
+&lt;p&gt;The correctness and effectiveness of the proposed approaches have been evaluated by extensive experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3617</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5011&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3617</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5011</articleid>
+<submission-date>2015-10-08T12:46:55-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7694861</context-key>
+<submission-path>utk_graddiss/3617</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Mark Dean, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Plug-in hybrid electric vehicle emissions impacts on control strategy and fuel economy</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Smith</lname>
+<fname>David</fname>
+<mname>Estes</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Mechanical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;Plug-in hybrid electric vehicle (PHEV) technologies have the potential for considerable petroleum consumption reductions, at the expense of increased tailpipe emissions due to multiple &quot;cold&quot; start events and improper use of the engine for PHEV specific operation. PHEVs operate predominantly as electric vehicles (EVs) with intermittent assist from the engine during high power demands. As a consequence, the engine can be subjected to multiple cold start events. These cold start events have a significant impact on the tailpipe emissions due to degraded catalyst performance and starting the engine under less than ideal conditions. On current hybrid electric vehicles (HEVs), the first cold start of the engine dictates whether or not the vehicle will pass federal emissions tests. PHEV operation compounds this problem due to infrequent, multiple engine cold starts.The dissertation research focuses on the design of a vehicle supervisory control system for a pre-transmission parallel PHEV powertrain architecture. Energy management strategies are evaluated and implemented in a virtual environment for preliminary assessment of petroleum displacement benefits and rudimentary drivability issues. This baseline vehicle supervisory control strategy, developed as a result of this assessment, is implemented and tested on actual hardware in a controlled laboratory environment over a baseline test cycle. Engine cold start events are aggressively addressed in the development of this control system, which lead to enhanced pre-warming and energy-based engine warming algorithms that provide substantial reductions in tailpipe emissions over the baseline supervisory control strategy.The flexibility of the PHEV powertrain allows for decreased emissions during any engine starting event through powertrain &quot;torque shaping&quot; algorithms that eliminate high engine torque transients during these periods. The results of the dissertation research show that PHEVs do have the potential for substantial reductions in fuel consumption, while remaining environmentally friendly. Tailpipe emissions from a representative PHEV test platform have been reduced to acceptable levels through the development and refinement of vehicle supervisory control methods only. Impacts on fuel consumption are minimal for the emissions reduction techniques that are implemented, while in some cases, substantial fuel consumption reductions are observed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6028</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7961&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6028</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7961</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467782</context-key>
+<submission-path>utk_graddiss/6028</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David K. Irick</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

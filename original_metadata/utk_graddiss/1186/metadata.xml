@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide Baseline Stereo Image Rectification and Matching</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>whao@utk.edu</email>
+<lname>Hao</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>stereo matching</keyword>
+<keyword>image rectification</keyword>
+<keyword>wide baseline</keyword>
+<keyword>computer vision</keyword>
+<keyword>feature matching</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Perception of depth information is central to three-dimensional (3D) vision problems. Stereopsis is an important passive vision technique for depth perception. Wide baseline stereo is a challenging problem that attracts much interest recently from both the theoretical and application perspectives. In this research we approach the problem of wide baseline stereo using the geometric and structural constraints within feature sets.&lt;/p&gt;
+&lt;p&gt;The major contribution of this dissertation is that we proposed and implemented a more efficient paradigm to handle the challenges introduced by perspective distortion in wide baseline stereo, compared to the state-of-the-art. To facilitate the paradigm, a new feature-matching algorithm that extends the state-of-the-art matching methods to larger baseline cases is proposed. The proposed matching algorithm takes advantage of both the local feature descriptor and the structure pattern of the feature set, and enhances the matching results in the case of large viewpoint change.&lt;/p&gt;
+&lt;p&gt;In addition, an innovative rectification for uncalibrated images is proposed to make wide baseline stereo dense matching possible.  We noticed that present rectification methods did not take into account the need for shape adjustment. By introducing the geometric constraints of the pattern of the feature points, we propose a rectification method that maximizes the structure congruency based on Delaunay triangulation nets and thus avoid some existing problems of other methods.&lt;/p&gt;
+&lt;p&gt;The rectified stereo images can then be used to generate a dense depth map of the scene. The task is much simplified compared to some existing method because the 2D searching problem is reduced to 1D searching.&lt;/p&gt;
+&lt;p&gt;To validate the proposed methods, real world images are applied to test the performance and comparisons to the state-of-the-art methods are provided. The performance of the dense matching with respect to the changing baseline is also studied.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1186</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2349&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1186</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2349</articleid>
+<submission-date>2011-10-19T13:35:09-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2349/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2303409</context-key>
+<submission-path>utk_graddiss/1186</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Ohannes Karakashian, Andreas Koschan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

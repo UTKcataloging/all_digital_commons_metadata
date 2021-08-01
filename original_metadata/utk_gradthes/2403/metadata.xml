@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparison of Methods for Estimating Stochastic Volatility</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcolli42@utk.edu</email>
+<lname>Collins</lname>
+<fname>John Parnell</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Particle Filter</keyword>
+<keyword>Gibbs Sampling</keyword>
+<keyword>Kalman Filter</keyword>
+</keywords>
+<disciplines><discipline>Other Applied Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Understanding the ever changing stock market has long been of interest to both academic and financial institutions. The early attempts to model the dynamics treated the volatility or sensitivity of the price change to random effects as constant. However, in matching the model to real data it was realized that the volatility was actually a random variable, and thus began efforts to determine methods for estimating the stochastic volatility from experimental data.&lt;/p&gt;
+&lt;p&gt;In this thesis, we develop and compare three different computational statistical filtering methods for estimating the volatility: The Kalman Filter, the Gibbs Sampler, and the Particle Filter. These methods are applied to a discrete time version of the log-volatility dynamic model and the results are compared based on their performance on synthetic data sets, where dynamics are nonlinear.&lt;/p&gt;
+&lt;p&gt;All the methods struggled to provide accurate estimates, but in comparison, the Gibbs Sampler provided the most accurate estimates, with Particle Filtering providing the least accurate results. Therefore, further investigation on the topic should take place.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2403</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2882&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2403</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2882</articleid>
+<submission-date>2013-06-21T10:52:18-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4250390</context-key>
+<submission-path>utk_gradthes/2403</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasileios Maroulas</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jan Rosinski, Fernando Schwartz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

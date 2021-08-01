@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Absorbing Boundary Conditions for Molecular Dynamics and Multiscale Modeling</title>
+<publication-date>2007-10-24T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Namilae</lname>
+<fname>S.</fname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Nicholson</lname>
+<fname>D.</fname>
+<mname>M.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Nukala</lname>
+<fname>P.K.</fname>
+<mname>V.V.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gao</lname>
+<fname>C.</fname>
+<mname>Y.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Osetsky</lname>
+<fname>Y.</fname>
+<mname>N.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We present an application of differential equation based local absorbing boundary conditions to molecular dynamics. The absorbing boundary conditions result in the absorbtion of the majority of waves incident perpendicular to the bounding surface. We demonstrate that boundary conditions developed for the wave equation can be applied to molecular dynamics. Comparisons with damping material boundary conditions are discussed. The concept is extended to the formulation of an atomistic-continuum multiscale scheme with handshaking between the regions based on absorbing boundary conditions. The multiscale model is effective in minimizing spurious reflections at the interface.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/44</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1061&amp;amp;context=utk_chembiopubs&amp;amp;unstamped=1</fulltext-url>
+<label>44</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1061</articleid>
+<submission-date>2010-05-26T08:16:11-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1331280</context-key>
+<submission-path>utk_chembiopubs/44</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Copyright (2007) by the American Physical Society.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Namilae, S.  and Nicholson, D. M. and Nukala, P. K. V. V. and Gao, C. Y. and Osetsky, Y. N. and Keffer, D. J. (2007). Absorbing boundary conditions for molecular dynamics and multiscale modeling.Phys. Rev. B. 76, p.144111
+DOI:10.1103/PhysRevB.76.144111</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-26T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-10-24T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

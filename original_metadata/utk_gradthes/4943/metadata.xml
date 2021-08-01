@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Developing Leading and Lagging Indicators to Enhance Equipment Reliability in a Lean System</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dagarama@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Agara Mallesh</lname>
+<fname>Dhanush</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Maintenance</keyword>
+<keyword>Reliability</keyword>
+<keyword>Failure Prediction</keyword>
+<keyword>Indicator Development</keyword>
+<keyword>Indicator Selection</keyword>
+<keyword>Machine Learning</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Industrial Engineering</discipline>
+<discipline>Statistical Models</discipline>
+</disciplines><abstract>&lt;p&gt;With increasing complexity in equipment, the failure rates are becoming a critical metric due to the unplanned maintenance in a production environment. Unplanned maintenance in manufacturing process is created issues with downtimes and decreasing the reliability of equipment. Failures in equipment have resulted in the loss of revenue to organizations encouraging maintenance practitioners to analyze ways to change unplanned to planned maintenance. Efficient failure prediction models are being developed to learn about the failures in advance. With this information, failures predicted can reduce the downtimes in the system and improve the throughput.&lt;/p&gt;
+&lt;p&gt;The goal of this thesis is to predict failure in centrifugal pumps using various machine learning models like random forest, stochastic gradient boosting, and extreme gradient boosting. For accurate prediction, historical sensor measurements were modified into leading and lagging indicators which explained the failure patterns in the equipment were developed. The best subset of indicators was selected by filtering using random forest and utilized in the developed model. Finally, the models give a probability of failure before the failure occurs. Appropriate evaluation metrics were used to obtain the accurate model. The proposed methodology was illustrated with two case studies: first, to the centrifugal pump asset performance data provided by Meridium, Inc. and second, the data collected from aircraft turbine engine provided in the NASA prognostics data repository. The automated methodology was shown to develop and identify appropriate failure leading and lagging indicators in both cases and facilitate machine learning model development.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4943</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5529&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4943</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5529</articleid>
+<submission-date>2016-10-06T07:17:11-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9238769</context-key>
+<submission-path>utk_gradthes/4943</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Magnetic Actuated Fully Insertable Robotic Camera System for Single Incision Laparoscopic Surgery</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xliu57@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Xiaolong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Surgical Robot</keyword>
+<keyword>Medical Device</keyword>
+<keyword>Magnetic Device</keyword>
+<keyword>Single Incision Laparoscopic Surgery</keyword>
+<keyword>Laparoscopic camera</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Hardware Systems</discipline>
+<discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;Minimally Invasive Surgery (MIS) is a common surgical procedure which makes tiny incisions in the patients anatomy, inserting surgical instruments and using laparoscopic cameras to guide the procedure. Compared with traditional open surgery, MIS allows surgeons to perform complex surgeries with reduced trauma to the muscles and soft tissues, less intraoperative hemorrhaging and postoperative pain, and faster recovery time. Surgeons rely heavily on laparoscopic cameras for hand-eye coordination and control during a procedure. However, the use of a standard laparoscopic camera, achieved by pushing long sticks into a dedicated small opening, involves multiple incisions for the surgical instruments. Recently, single incision laparoscopic surgery (SILS) and natural orifice translumenal endoscopic surgery (NOTES) have been introduced to reduce or even eliminate the number of incisions. However, the shared use of a single incision or a natural orifice for both surgical instruments and laparoscopic cameras further reduces dexterity in manipulating instruments and laparoscopic cameras with low efficient visual feedback.&lt;/p&gt;
+&lt;p&gt;In this dissertation, an innovative actuation mechanism design is proposed for laparoscopic cameras that can be navigated, anchored and orientated wirelessly with a single rigid body to improve surgical procedures, especially for SILS. This design eliminates the need for an articulated design and the integrated motors to significantly reduce the size of the camera. The design features a unified mechanism for anchoring, navigating, and rotating a fully insertable camera by externally generated rotational magnetic field. The key component and innovation of the robotic camera is the magnetic driving unit, which is referred to as a rotor, driven externally by a specially designed magnetic stator. The rotor, with permanent magnets (PMs) embedded in a capsulated camera, can be magnetically coupled to a stator placed externally against or close to a dermal surface. The external stator, which consists of PMs and coils, generates 3D rotational magnetic field that thereby produces torque to rotate the rotor for desired camera orientation, and force to serve as an anchoring system that keeps the camera steady during a surgical procedure. Experimental assessments have been implemented to evaluate the performance of the camera system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3507</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4868&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3507</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4868</articleid>
+<submission-date>2015-06-09T13:21:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7196430</context-key>
+<submission-path>utk_graddiss/3507</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jindong Tan</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Andy Sarles, Nicole McFarlane</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

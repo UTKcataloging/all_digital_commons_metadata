@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SiC Band Gap Voltage Reference for Space Applications</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>crober33@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Roberts</lname>
+<fname>Charles</fname>
+<mname>Kenneth</mname>
+</author>
+</authors>
+<keywords>
+<keyword>SiC</keyword>
+<keyword>Band Gap Voltage Reference</keyword>
+<keyword>ASIC</keyword>
+<keyword>Kuijk Topology</keyword>
+<keyword>Analog</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;Electronics for space applications can experience wide temperature swings depending on orientation towards stars and duty cycle of propulsion systems. Energy on satellites primarily comes from radiological thermal generators and / or solar panels. This requires space electronic applications to be energy efficient and have high temperature tolerance. As a result, space electronic systems use high efficiency SMPS [switching mode power supplies].&lt;/p&gt;
+&lt;p&gt;Currently, there exists SiC [silicon carbide] based electronics that is state of the art for high temperature applications. Commercial manufacturers at this time produce SiC Power MOSFETs [Metal Oxide Semiconductor Field Effect Transistors], which are the switching element of the SMPS. Although many commercial silicon SMPS controller IC’s [Integrated Circuits] are available on the market at this time, there are no SiC SMPS controller IC’s. The scope of this research project was sponsored by NASA which required the design, fabrication, and testing of a single module SiC SMPS controller. A subcomponent of the SMPS design was a BGR [bandgap voltage reference] for the controller. This thesis will cover the theoretical basis of the BGR, the development methods and challenges in the design of a SiC BGR; utilizing a commercial SiC process as a major constraint in the designs. These constraints were partially tackled by using topologies and techniques from the early days of n channel MOSFET based electronics established in the1970’s. The basis of design was models provided by the owner of the process. The BGR was designed with Kuijk BGR topology. These devices are currently being produced in the microelectronics foundry facility since the simulation analysis results have provided promising theoretical data depicting a simulated temperature stability of 16.5 ppm /℃ from 25-160 ℃.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3802</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5096&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3802</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5096</articleid>
+<submission-date>2016-02-25T17:37:25-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8218999</context-key>
+<submission-path>utk_gradthes/3802</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Islam, Nicole MCFarlane</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

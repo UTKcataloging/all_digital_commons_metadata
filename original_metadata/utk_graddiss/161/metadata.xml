@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Protein Threading for Genome-Scale Structural Analysis</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ellrott</lname>
+<fname>Kyle</fname>
+<mname>P</mname>
+</author>
+</authors>
+<disciplines><discipline>Biochemistry, Biophysics, and Structural Biology</discipline>
+<discipline>Life Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Protein structure prediction is a necessary tool in the field of bioinformatic analysis. It is a non-trivial process that can add a great deal of information to a genome annotation. This dissertation deals with protein structure prediction through the technique of protein fold recognition and outlines several strategies for the improvement of protein threading techniques. In order to improve protein threading performance, this dissertation begins with an outline of sequence/structure alignment energy functions. A technique called Violated Inequality Minimization is used to quickly adapt to the changing energy landscape as new energy functions are added. To continue the improvement of alignment accuracy and fold recognition, new formulations of energy functions are used for the creation of the sequence/structure alignment. These energies include a formulation of a gap penalty which is dependent on sequence characteristics different from the traditional constant penalty. Another proposed energy is dependent on conserved structural patterns found during threading. These structural patterns have been employed to refine the sequence/structure alignment in my research. The section on Linear Programming Algorithm for protein structure alignment deals with the optimization of an alignment using additional residue-pair energy functions. In the original version of the model, all cores had to be aligned to the target sequence. Our research outlines an expansion of the original threading model which allows for a more flexible alignment by allowing core deletions. Aside from improvements in fold recognition and alignment accuracy, there is also a need to ensure that these techniques can scale for the computational demands of genome level structure prediction. A heuristic decision making processes has been designed to automate the classification and preparation of proteins for prediction. A graph analysis has been applied to the integration of different tools involved in the pipeline. Analysis of the data dependency graph allows for automatic parallelization of genome structure prediction. These different contributions help to improve the overall performance of protein threading and help distribute computations across a large set of computers to help make genome scale protein structure prediction practically feasible.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/161</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1208&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>161</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1208</articleid>
+<submission-date>2010-01-29T08:41:21-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1125290</context-key>
+<submission-path>utk_graddiss/161</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ying Xu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert L. Hettich, Victor Olman, Hong Guo, Elizabeth Howell</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/EllrottKyle.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

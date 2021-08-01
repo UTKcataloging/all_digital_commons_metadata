@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A DELAYED PARITY GENERATION CODE FOR ACCELERATING DATA WRITE IN ERASURE CODED STORAGE SYSTEMS</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mousavi@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Mousavicheshmehkaboodi</lname>
+<fname>Sara</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;We propose delayed parity generation as a method to improve the write speed in erasure-coded storage systems. In the proposed approach, only some of the parities in the erasure codes are generated at the time of data write (data commit), and the other parities are not generated, transported, or written in the system until system load is lighter. This allows faster data write, at the expense of a small sacrifice in the reliability of the data during a short period between the time of the initial data write and when the full set of parities is produced. Although the delayed parity generation procedure is anticipated to be performed during time of light system load, it is still important to reduce data traffic and disk IO as much as possible when doing so. For this purpose, we first identify the fundamental limits of this approach through a connection to the well-known multicast network coding problem, then provide an explicit and low-complexity code construction. The problem we consider is closely related to the regenerating code problem. However, our proposed code is much simpler and has a much smaller subpacketization factor than regenerating codes. Our result shows that blindly adopting regenerating codes in this setting is unnecessary and wasteful. Experimental results confirm that to obtain the improved write speed, the proposed code does not significantly increase computation burden.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5002</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6409&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5002</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6409</articleid>
+<submission-date>2018-11-08T14:23:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13276647</context-key>
+<submission-path>utk_gradthes/5002</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Chao Tian</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, James S. Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

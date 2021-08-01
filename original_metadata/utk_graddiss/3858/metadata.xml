@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>3D Multi-Scale Behavior of Granular Materials using Experimental and Numerical Techniques</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>adruckre@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Druckrey</lname>
+<fname>Andrew</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>experimental granular micro-mechanics</keyword>
+<keyword>synchrotron micro-computed tomography</keyword>
+<keyword>particle fracture</keyword>
+<keyword>particle kinematics</keyword>
+<keyword>fabric</keyword>
+</keywords>
+<disciplines><discipline>Geotechnical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Constitutive modeling of granular material behavior has generally been based on global response of laboratory-size specimens or larger models with little understanding of the fundamental mechanics that drive the global response. Many studies have acknowledged the importance of micro-scale and meso-scale mechanics on the constitutive behavior of granular materials. However, much knowledge is still missing to develop and improve robust micromechanical constitutive models. The research in this dissertation contributes to this knowledge gap for many potential applications using novel experimental techniques to investigate the three-dimensional (3D) behavior of granular materials. Critical micromechanics measurements at multiple scales are investigated by combining 3D synchrotron micro-computed tomography (SMT), 3D image analysis, and finite element analysis (FEA).&lt;/p&gt;
+&lt;p&gt;At the single particle level (micro-scale), particle fracture was examined at strain rates of 0.2 mm/min and 2 m/s using quasi-static unconfined compression, unconfined mini-Kolsky bar, and x-ray imaging techniques. Surface reconstructions of particles were generated and exported to Abaqus FEA software, where quasi-static and higher rate loading curves and crack propagation were simulated with good accuracy. Stress concentrations in oddly shaped particles during FEA simulations resulted in more realistic fracture stresses than theoretical models. A nonlinear multivariable statistical model was developed to predict force required to fracture individual particles with known internal structure and loading geometry.&lt;/p&gt;
+&lt;p&gt;At the meso-scale, 3D SMT imaging during in-situ triaxial testing of granular materials were used to identify particle morphology, contacts, kinematics and interparticle behavior. Micro shear bands (MSB) were exposed during pre-peak stress using a new relative particle displacement concept developed in this dissertation. MSB for spherical particles (glass beads) had larger thickness (3d&lt;sub&gt;50&lt;/sub&gt; to 5d&lt;sub&gt;50&lt;/sub&gt;) than that of angular sands (such as F35 Ottawa sand, MSB thickness of 1d&lt;sub&gt;50&lt;/sub&gt; to 3d&lt;sub&gt;50&lt;/sub&gt;). Particle morphology also plays a significant role in the onset and growth of shear bands and global fabric evolution of granular materials. More spherical particles typically exhibit more homogeneous internal anisotropy. Fabric of particles within the shear band (at higher densities and confining pressures) exhibits a peak and decrease into steady-state. Also, experimental fabric produces more accurate strength and deformation predictions in constitutive models that incorporate fabric evolution.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3858</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5350&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3858</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5350</articleid>
+<submission-date>2016-06-17T09:32:58-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8745389</context-key>
+<submission-path>utk_graddiss/3858</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Khalid A. Alshibli</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dayaker Penumadu, Angel Palomino, Eric C. Drumm</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

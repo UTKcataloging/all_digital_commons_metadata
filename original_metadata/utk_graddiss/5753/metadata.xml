@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Secure Embedded Computer Design using Emerging Technologies</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Majumder</lname>
+<fname>Md</fname>
+<mname>Badruddoja</mname>
+</author>
+</authors>
+<keywords>
+<keyword>RISC-V</keyword>
+<keyword>RRAM</keyword>
+<keyword>Chaos</keyword>
+<keyword>Side channel power analysis</keyword>
+<keyword>Security</keyword>
+<keyword>Memory Integrity</keyword>
+</keywords>
+<abstract>&lt;p&gt;Security is one of the major design criteria for modern computing system. Computing systems are becoming more compact and connected day by day. Due to the large scale connectivity, various security threats are causing failure to  confidentiality, integrity, availability and many other basic security criteria. On the other hand, the compact devices used in the embedded computing systems can hardly afford resource hungry security techniques. As improvements in conventional technologies has almost come to a saturation, many emerging technologies are drawing researcher&#39;s attention in this regard. This work proposes design techniques using emerging technologies in order to find more comprehensive security solutions for embedded computing system. Two major part of conventional Von-Neuman or Harvard architectures are memory and processing unit which requires individual attention for security against various threats. Chaotic oscillator based logic and RRAM based memory design are explored in this work to mitigate different existing security vulnerabilities with significantly lower overhead. Proposed design techniques are applied in a RISC-V microarchitecture to ensure memory integrity and enhance the security against unauthorized code execution and instruction reverse-engineering based on side channel power attack. Security of the proposed design techniques are found to be at the desired level while consuming a very low overhead as compared to existing mitigation techniques against the same set of vulnerabilities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5753</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7519&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5753</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7519</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419637</context-key>
+<submission-path>utk_graddiss/5753</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Garrett Rose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicole McFarlane, Jinyuan Sun, Hoon Hwangbo</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-4295-9853</value>
+</field>
+<field name="comments" type="string">
+<value>Part of this document were previously published in IEEE Transaction on VLSI, Hardware Oriented Security and Trust (HOST&#39;17), Asian Hardware Oriented Security and Trust (AsianHOST&#39;16), Great Lake Symposium on VLSI (GLSVLSI&#39;19).</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

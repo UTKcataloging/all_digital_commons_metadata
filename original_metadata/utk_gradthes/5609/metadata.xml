@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vital Sign Detection Using Millimeter Wave Radars</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>koleksak@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Oleksak</lname>
+<fname>Kellen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Radar</keyword>
+<keyword>Mmwave</keyword>
+<keyword>Vital Signs</keyword>
+<keyword>FMCW</keyword>
+<keyword>MIMO</keyword>
+</keywords>
+<abstract>&lt;p&gt;Using 60GHz and 77GHz frequency modulation continuous wave (FMCW) radars, multiple signal processing techniques have been applied on subject data to accurately extract vital signs remotely. In particular, phase based, parametric estimation and time varying window methods have been used with the addition of multiple input multiple output (MIMO) diversity channel combining to detect respiratory rates and heart rates of subjects with high condence. The vital sign detection acquisition times and accuracy previously demonstrated in state of the art microwave radar systems at lower frequencies are compared in this work. Results from a single subject at varying distances will be presented and compared to other relevant contact measurement results. The ability and limitations of using the techniques on a real-time system is of paramount importance and will be demonstrated using a Texas Instruments mmwave vital sign detection chip.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5609</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7143&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5609</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7143</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539109</context-key>
+<submission-path>utk_gradthes/5609</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

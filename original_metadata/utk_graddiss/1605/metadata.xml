@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ATEC: The Aerodyanmic Turbine Engine Code for the Analysis of Transient and Dynamic Gas Turbine Engine System Operations</title>
+<publication-date>1995-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Garrard</lname>
+<fname>Glenn</fname>
+<mname>Douglas</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A new one-dimensional, time dependent aerothermodynamic mathematical model and computer simulation of the gas turbine engine has been developed and is introduced herein. The Aerodynamic Turbine Engine Code (ATEC) simulates the operation of the gas turbine engine by solving conservation equations, expressed as one dimensional, time dependent Euler equations, with turbomachinery source terms. By incorporating both implicit and explicit equation solvers, transient simulations of the gas turbine engine can be conducted efficiently while maintaining the capability of simulating dynamic events such as compressor stall. ATEC can also be used to address dynamic events or steady-state processes to model both on- and off-design engine operation.&lt;/p&gt;
+&lt;p&gt;The dissertation is presented in seven chapters. The first chapter introduces the gas turbine engine and discusses its operation. Out of this discussion falls the reason for striving for a mathematical model and computer simulation of the gas turbine engine. Previous efforts at providing a mathematical model and computer simulation of the gas turbine engine are summarized in the second chapter, with particular focus given to their contribution to the advancement of the state-of-the-art in gas turbine engine modeling. It is shown that the current state-of-the-art is advanced by the development of the ATEC model and simulation. The third chapter of the dissertation provides an overview of the mathematical approach taken within ATEC. The general philosophy of the ATEC mathematical model is discussed, and the method of solving the governing equations using both an explicit and implicit equation solver is presented. The third chapter of the dissertation also describes the various component mathematical models which provide the turbomachinery source terms to the Euler equations. The fourth chapter of the dissertation provides operational verification of the ATEC simulation. The various component models are exercised for representative test cases to demonstrate the functionality of each model and the results provided by the models are appropriate. The fifth chapter of the dissertation presents the results of calibration efforts. It is here that the ATEC simulation results are compared to pertinent data sets. It is shown that with the proper tuning of the various component models, simulation results can be obtained that match the engine test data over the entire engine system to within three percent during a transient event. During a dynamic event, it is shown that ATEC will predict the overall frequency magnitude of the engine response. The ATEC simulation was also shown to match the overall trends of a engine start sequence. The dissertation concludes with two chapters that summarize the previous five chapters and present recommendations for future efforts.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1605</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2989&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1605</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2989</articleid>
+<submission-date>2013-05-10T12:06:53-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4125822</context-key>
+<submission-path>utk_graddiss/1605</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Roy J. Schulz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Milton W. Davis, Frank S. Collins, Roger Crawford, Baril Amin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1995-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1995-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

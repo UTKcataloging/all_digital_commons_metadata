@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Digital integration for monitoring acceleration signals</title>
+<publication-date>2008-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Rose</lname>
+<fname>Charles</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Electrical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;When testing turbine engines at Arnold Engineering Development Center (AEDC), vibration measurements are some of the most critical data taken. The present vibration monitoring system (VMS) consists of a charge producing accelerometer sensor, a charge amplifier, and a recording and analysis system. Currently the charge amplifier and the recording and analysis system are located in a data conditioning room which is approximately 150 feet from the accelerometer. If the signal processing equipment were moved closer to the test cell near the accelerometer, the fidelity of the acquired data could be greatly improved. An ideal system for this purpose would acquire acceleration data, digitize it, and send a digital data stream to a recording and analysis system outside the test cell. This type of system would minimize noise pickup and eliminate much of the hardware used in the current analog system. The digitizing hardware needed for a new system currently is available but a digital integrating filter is needed to produce velocity and displacement data. This thesis will study 8 candidate digital integrator designs to replace the analog integrator. These digital integrators will be compared to the ideal integrator by their mean square error. Actual accelerometer test data have been processed with the candidate digital filters for comparison to the mathematically correct solution of the integral. The thesis also describes the development of a digital filter to remove all DC offset for stability purposes. The combined digital filters will allow for the completion of the digital VMS and represent a significant increase in accuracy over the analog charge amplifier.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5700</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7322&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5700</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7322</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467448</context-key>
+<submission-path>utk_gradthes/5700</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>L. Montgomery Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

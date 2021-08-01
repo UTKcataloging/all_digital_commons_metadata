@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SYSTEM STUDIES OF FISSION-FUSION HYBRID MOLTEN SALT REACTORS</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rwoolley@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Woolley</lname>
+<fname>Robert</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Molten Salt Reactor</keyword>
+<keyword>Hybrid. Fusion</keyword>
+<keyword>Fission</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This work proposes and evaluates a Fission-Fusion Hybrid Molten Salt Reactor (FFHMSR), combining two subsystems, a deuterium + tritium (DT) fusion reactor surrounded by a neutron-absorbing Fusion Blanket (FB) and a critical Molten Salt fission Reactor (MSR). The molten salt, which contains dissolved actinides, circulates at a high rate between them.&lt;/p&gt;
+&lt;p&gt;As envisioned the MSR exhibits the large Conversion Ratio of graphite moderated reactors having small fissile and large fertile inventories. DT fusion neutrons irradiating actinides in the molten salt release additional neutrons which increase isotope conversion and fission. Actinide fuel is continually added while fission products are continually removed so the system&#39;s operation never requires refueling interruptions.&lt;/p&gt;
+&lt;p&gt;The choice of molten salt as a eutectic mixture of the fluorides of lithium, sodium, and actinide fuel is explained by eliminating other options.&lt;/p&gt;
+&lt;p&gt;System behavior is explored through simulations invoking modules from the Scale 6.1 code package. Modules include ORIGEN which simulates evolution over time of an isotope inventory and others for neutronics transport, criticality and cross section weighting. The simulation automatically adjusts the ratio of fission to fusion power to maintain MSR criticality, implemented through FORTRAN codes and associated files developed as part of this work.&lt;/p&gt;
+&lt;p&gt;Simulations showed actinide inventories stabilizing to steady levels while fresh actinide fuel from feedstocks of Spent Nuclear Fuel or uranium-238 or thorium-232 continued to be added and fissioned. Required fusion was less than 1% of total power and adequate tritium breeding was obtained. The non-removal strategy was also tried with long-lived fission products (FPs) with the mixed results that some inventories stabilized while others did not.&lt;/p&gt;
+&lt;p&gt;FFHMSR benefits of consuming all actinides and some long-lived FPs are that waste issues are ameliorated while available fission energy is increased by two orders of magnitude. Proliferation resistance is enhanced by the absence of fuel reprocessing and related transportation, by low fissile inventories and by denaturing all fissile by nonfissile isotopes. Safety is enhanced by liquid fuel characteristics allowing emergency draining of fuel to a passively cooled safe location while also providing a stronger negative power coefficient than feasible with solid fuel.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2628</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3111&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2628</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3111</articleid>
+<submission-date>2013-06-21T22:58:53-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3111/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4252266</context-key>
+<submission-path>utk_graddiss/2628</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald E. Pevey, Arthur E. Ruggles, Robert M. Counce</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Multi-echelon Inventory System with Supplier Selection and Order Allocation under Stochastic Demand</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>Guocong@utk.edu</email>
+<lname>Guo</lname>
+<fname>Cong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Supply chain management</keyword>
+<keyword>Supplier selection</keyword>
+<keyword>Multi-echelon inventory system</keyword>
+</keywords>
+<disciplines><discipline>Operational Research</discipline>
+</disciplines><abstract>&lt;p&gt;This article addresses the development of an integrated supplier selection and inventory control problems in supply chain management by developing a mathematical model for a multi-echelon system. In particular, a buyer firm that consists of one warehouse and &lt;em&gt;N&lt;/em&gt; identical retailers wants to procure a type of product from a group of potential suppliers, which may require different price, ordering cost, lead time and have restriction on minimum and maximum total order size, to satisfy the stochastic demand. A continuous review system that implements the order quantity, reorder point (&lt;em&gt;Q&lt;/em&gt;, &lt;em&gt;R&lt;/em&gt;) inventory policy is considered in the model. The objective of the model is to select suppliers and to determine the optimal inventory policy that coordinates stock level between each echelon of the system while properly allocating orders among selected suppliers to maximize the expected profit. The model has been solved by decomposing the mixed integer nonlinear programming model into two sub-models. Numerical experiments are conducted to evaluate the model and some managerial insights are obtained by performing some sensitivity analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2419</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2928&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2419</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2928</articleid>
+<submission-date>2013-07-19T08:50:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4330294</context-key>
+<submission-path>utk_gradthes/2419</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Ostrowski, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

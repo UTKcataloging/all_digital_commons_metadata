@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterization and Utilization of 600 V GaN GITs for 4.5 kW Single Phase Inverter Design</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pwillifo@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Williford</lname>
+<fname>Paige</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Superior properties allow for faster switching and higher power density converters. However, the fast switching capability of GaN, while theoretically beneficial to converter design, presents several challenges due to the presence of printed circuit board (PCB) and device parasitics. Therefore, it is imperative that the results of device characterization reflect actual device behavior in order to adequately model the device for converter design. This thesis focuses on characterization and utilization of 600 V/30 A Gallium Nitride gate injection transistors, or GaN GITs. The experimental data from static and dynamic characterization was used to maximize the performance of the devices in each phase leg of a 4.5 kW, single-phase, full-bridge inverter. The impact of PCB and device parasitics on switching behavior was also investigated, and a trade-off study of switching loss, overshoot voltage, and dead time loss is presented. Device packaging is also of interest regarding the design of high-frequency devices. This thesis compares the impact of two package designs for the GIT device by designing two separate inverters with the same specifications utilizing the different packages. Finally, due to the lower critical energy of the GaN HEMT during a short circuit, this thesis studies the short-circuit robustness of the devices. The performance of a unique gate sensing protection scheme is compared between two different packages, and the impact of the gate drive and protection circuit design parameters on performance is evaluated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5669</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7205&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5669</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7205</articleid>
+<submission-date>2021-01-24T14:00:05-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>21246549</context-key>
+<submission-path>utk_gradthes/5669</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Daniel Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

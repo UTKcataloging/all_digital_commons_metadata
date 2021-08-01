@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Crosslayer Routing Protocol (XLRP) for Wireless Sensor Networks</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gunasekaran</lname>
+<fname>Raghul</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The advent of wireless sensor networks with emphasis on the information being routed, rather than routing information has redefined networking from that of conventional wireless networked systems.  Demanding that need for contnt based routing techniques and development of low cost network modules, built to operate in large numbers in a networked fashion with limited resources and capabilities.  The unique characteristics of wireless sensor networks have the applicability and effectiveness of conventional algorithms defined for wireless ad-hoc networks, leading to the design and development of protocols specific to wireless sensor network.  Many network layer protocols have been proposed for wireless sensor networks, identifying and addressing factors influencing network layer design, this thesis defines a cross layer routing protocol (XLRP) for sensor networks.  The submitted work is suggestive of a network layer design with knowledge of application layer information and efficient utilization of physical layer capabilities onboard the sensor modules.  Network layer decisions are made based on the quantity of information (size of the data) that needs to be routed and accordingly transmitter power leels are switched as an energy efficient routing strategy.  The proposed routing protocol switches radio states based on the received signal strength (RSSI) acquiring only relevant information and piggybacks information in data packets for reduced controlled information exchange.  The proposed algorithm has been implemented in Network Simulator (NS2) and the effectiveness of the protocol has been proved in comparison with diffusion paradigm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/285</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1318&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>285</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1318</articleid>
+<submission-date>2010-02-11T08:47:56-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1140690</context-key>
+<submission-path>utk_gradthes/285</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dayakar Penumadu, Itamar Elhanany</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/Theses/GunasekaranRaghul.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

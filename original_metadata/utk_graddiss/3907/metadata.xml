@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Conditional Computation in Deep and Recurrent Neural Networks</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>adavis72@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Davis</lname>
+<fname>Andrew</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<keywords>
+<keyword>neural networks</keyword>
+<keyword>conditional computation</keyword>
+<keyword>deep learning</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;Recently, deep learning models such as convolutional and recurrent neural networks have displaced state-of-the-art techniques in a variety of application domains. While the computationally heavy process of training is usually conducted on powerful graphics processing units (GPUs) distributed in large computing clusters, the resulting models can still be somewhat heavy, making deployment in resource- constrained environments potentially problematic. In this work, we build upon the idea of conditional computation, where the model is given the capability to learn how to avoid computing parts of the graph. This allows for models where the number of parameters (and in a sense, the model’s capacity to learn) can grow at a faster rate than the computation that is required to propagate information through the graph. In this work, we apply conditional computation to feed forward and recurrent neural networks. In the feed forward case, we demonstrate a technique that trades off accuracy for potential computational benefits, and in the recurrent case, we demonstrate techniques that yield practical speed benefits on a language modeling task. Given the rapidly expanding domain of problems where deep learning proves useful, the work presented here can help enable the future scalability requirements of deploying trained models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3907</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5323&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3907</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5323</articleid>
+<submission-date>2016-06-15T15:04:26-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8737181</context-key>
+<submission-path>utk_graddiss/3907</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie Coble, Jens Gregor, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

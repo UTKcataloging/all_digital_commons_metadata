@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High-sensitivity spectral fluorescence lifetime imaging for resolving spectroscopically overlapping species</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcrawf25@utk.edu</email>
+<institution>University of Tennessee Space Institute</institution>
+<lname>Crawford</lname>
+<fname>Justin</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<keywords>
+<keyword>spectral fluorescence lifetime imaging</keyword>
+<keyword>maximum likelihood</keyword>
+<keyword>confocal microscopy</keyword>
+<keyword>interference filters</keyword>
+<keyword>spectroscopically overlapping fluorophores</keyword>
+<keyword>single-photon avalanche detector</keyword>
+</keywords>
+<disciplines><discipline>Biological and Chemical Physics</discipline>
+<discipline>Optics</discipline>
+</disciplines><abstract>&lt;p&gt;The capability to resolve the contributions from spectroscopically overlapping fluorophores has enabled significant breakthroughs in cellular imaging. However, commercial microscopes for this purpose use analog light detection with least squares curve-fitting analysis and improvements in sensitivity are needed. To this end, a microscope has been constructed with high throughput and single-photon detection capability. The fluorescence is separated through use of a prism spectrometer or a series of dichroic mirrors into four spectral bands and detected using four single-photon avalanche diode (SPAD) detectors, which provide high-quantum efficiency in the red spectral region. The detectors are connected to a time-correlated single photon counting module to provide sub-nanosecond temporal resolution for distinguishing fluorophores with different fluorescence lifetimes. Maximum-likelihood (ML) methods have been developed for analyzing the temporally and spectrally resolved photon count data from the SPADs to find the contributions from different fluorescent species and from background. Commercially available SPADs exhibit a count-rate dependent time shift in the impulse response function, and hence the instrument incorporates custom modified SPADs with improved timing stability. Nevertheless, there is still some time shift, and hence the ML-analysis has been extended to include this as an adjustable parameter for each individual SPAD. Monte Carlo simulations have also been developed to enable studies of the number of photons needed to resolve specific fluorophores.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1004&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1004</articleid>
+<submission-date>2009-10-05T11:12:17-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1004/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1026671</context-key>
+<submission-path>utk_gradthes/3</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lloyd M. Davis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Horace W. Crater, Christian G. Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics and Astronomy</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

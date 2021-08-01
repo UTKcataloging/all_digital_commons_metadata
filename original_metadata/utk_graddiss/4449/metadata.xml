@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Impedance-Based Stability Analysis and Controller Design of Three-Phase Inverter-Based Ac Systems</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wcao2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Cao</lname>
+<fname>Wenchao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Three-phase inverter</keyword>
+<keyword>Stability</keyword>
+<keyword>Impedance-based analysis</keyword>
+<keyword>Nyquist stability criterion</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Three-phase voltage-source power inverters are widely used for energy conversion in three-phase ac systems, such as renewable energy systems and microgrids. These three-phase inverter-based ac systems may suffer from small-signal instability issues due to the dynamic interactions among inverters and passive components in the systems. It is crucial for system integrators to analyze the system stability and design the inverter controller parameters during system planning and maintenance periods to guarantee stable system operation. The impedance-based approach can analyze the stability of source-load systems, by applying the Nyquist stability criterion or the generalized Nyquist stability criterion (GNC) to the impedance ratio of the source and load impedances. This dissertation investigates the impedance-based methods for stability analysis and inverter controller design of three-phase inverter-based multi-bus ac systems.&lt;/p&gt;
+&lt;p&gt;Improved sequence impedance and &lt;em&gt;d-q&lt;/em&gt; impedance models of both three-phase voltage-controlled inverters and current-controlled inverters are developed. A simple method for sequence impedance measurement of three-phase inverters is developed by using another inverter as the measurement unit, connected in a paralleled structure with common-dc and common-ac sides.&lt;/p&gt;
+&lt;p&gt;For three-phase radial-line renewable systems with multiple current-controlled inverters, an impedance-based sufficient stability criterion is proposed in the &lt;em&gt;d-q&lt;/em&gt; frame, without the need for pole calculation of the return-ratio matrices. An inverter controller parameter design method is developed based on the phase margin information obtained from the stability analysis.&lt;/p&gt;
+&lt;p&gt;For general three-phase multi-bus ac power systems consisting of both voltage-controlled inverters and current-controlled inverters, several impedance-based stability analysis methods and inverter controller parameter design approaches are further proposed, based on the sequence impedances, the &lt;em&gt;d-q&lt;/em&gt; impedances and the measured terminal characteristics, to avoid the unstable harmonic resonance, the low-frequency oscillation and the oscillation of the fundamental frequency, respectively. All these proposed stability analysis methods enable the system stability assessment without the need for the internal control information of inverters.&lt;/p&gt;
+&lt;p&gt;Moreover, an impedance-based adaptive control strategy of inverters with online resonance detection and passivity or phase compensation is proposed for stable integration of both voltage-controlled inverters and current-controlled inverters into unknown grid-connected or islanded systems with other existing inverters in operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4449</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5606&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4449</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5606</articleid>
+<submission-date>2016-10-07T15:37:46-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9245923</context-key>
+<submission-path>utk_graddiss/4449</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Kevin Tomsovic, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

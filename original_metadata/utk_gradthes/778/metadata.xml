@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Secured Data Protocol for the Trusted Truck(R) System</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sbulusu@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bulusu</lname>
+<fname>Srinivasa Anuradha</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Data Protocol</keyword>
+<keyword>Trusted Truck</keyword>
+<keyword>Cryptography</keyword>
+</keywords>
+<disciplines><discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Security has become one of the major concerns in the Intelligent Transportation Systems (ITS). The Trusted Truck(R) System, provides an efficient wireless communication mechanism for safe exchange of messages between the moving vehicles (trucks) and the roadside inspection stations. The vehicles and the station are equipped with processing units but with different computational capabilities. To make this Trusted Truck(R)  system more secure, this thesis proposes a secured data protocol which ensures data integrity, message authentication and non-repudiation. The uniqueness of the protocol is: it is cost-effective, resource-efficient and embeds itself into the Trusted Truck (R)  environment without demanding any additional infrastructure. The protocol also balances the computational load between the vehicle and station by incorporating an innovative key transport mechanism. Digital signatures and encryption techniques are used for authentication and data condentiality. Cryptography algorithms along with optimization methods are used for the digital signatures. The computational time for the algorithms are analyzed. Combining all these techniques, an efficient secured data protocol is developed and implemented successfully.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/778</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1863&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>778</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1863</articleid>
+<submission-date>2010-10-12T08:45:33-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1601471</context-key>
+<submission-path>utk_gradthes/778</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Arazi, Gregory Peterson, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

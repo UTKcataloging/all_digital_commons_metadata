@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Online Multi-Stage Deep Architectures for Feature Extraction and Object Recognition</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>derek@utk.edu</email>
+<lname>Rose</lname>
+<fname>Derek</fname>
+<mname>Christopher</mname>
+</author>
+</authors>
+<keywords>
+<keyword>machine learning</keyword>
+<keyword>image recognition</keyword>
+<keyword>deep learning</keyword>
+<keyword>clustering</keyword>
+<keyword>high-dimensional features</keyword>
+<keyword>feature pooling</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Other Computer Engineering</discipline>
+<discipline>Other Statistics and Probability</discipline>
+</disciplines><abstract>&lt;p&gt;Multi-stage visual architectures have recently found success in achieving high classification accuracies over image datasets with large variations in pose, lighting, and scale. Inspired by techniques currently at the forefront of deep learning, such architectures are typically composed of one or more layers of preprocessing, feature encoding, and pooling to extract features from raw images. Training these components traditionally relies on large sets of patches that are extracted from a potentially large image dataset. In this context, high-dimensional feature space representations are often helpful for obtaining the best classification performances and providing a higher degree of invariance to object transformations. Large datasets with high-dimensional features complicate the implementation of visual architectures in memory constrained environments. This dissertation constructs online learning replacements for the components within a multi-stage architecture and demonstrates that the proposed replacements (namely fuzzy competitive clustering, an incremental covariance estimator, and multi-layer neural network) can offer performance competitive with their offline batch counterparts while providing a reduced memory footprint. The online nature of this solution allows for the development of a method for adjusting parameters within the architecture via stochastic gradient descent. Testing over multiple datasets shows the potential benefits of this methodology when appropriate priors on the initial parameters are unknown. Alternatives to batch based decompositions for a whitening preprocessing stage which take advantage of natural image statistics and allow simple dictionary learners to work well in the problem domain are also explored. Expansions of the architecture using additional pooling statistics and multiple layers are presented and indicate that larger codebook sizes are not the only step forward to higher classification accuracies. Experimental results from these expansions further indicate the important role of sparsity and appropriate encodings within multi-stage visual feature extraction architectures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2473</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2918&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2473</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2918</articleid>
+<submission-date>2013-03-01T20:48:30-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3821912</context-key>
+<submission-path>utk_graddiss/2473</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Husheng Li, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

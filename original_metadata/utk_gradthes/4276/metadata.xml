@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Design and Computational Validation of a Mach 3 Wind Tunnel Nozzle Contour</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>scaskey@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Adams</lname>
+<fname>Sarah</fname>
+<mname>Elizabeth</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Nozzle</keyword>
+<keyword>Contour</keyword>
+<keyword>Wind Tunnel</keyword>
+<keyword>Method of Characteristics</keyword>
+<keyword>Supersonic</keyword>
+<keyword>Compressible Flow</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of this effort was to design and validate a Mach 3 wind tunnel nozzle contour. The nozzle will be used for an existing facility, replacing a Mach 2.3 nozzle. The nozzle contour was design using the widely-distributed CONTUR code developed by Sivells. The program uses a combination of analytical solutions and the method of characteristics in order to calculate a nozzle contour. A nozzle contour adhering to the existing geometry requirements was achieved through an iterative process. The flowfield of the finalized nozzle contour was solved using ANSYS fluent. The solution results were analyzed for flow uniformity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4276</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5250&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4276</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5250</articleid>
+<submission-date>2016-06-17T14:29:38-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5250/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>8747208</context-key>
+<submission-path>utk_gradthes/4276</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steve Brooks, John Schmisseur</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

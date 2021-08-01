@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Clustering Method Based on Nonnegative Matrix Factorization for Text Mining</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Shahnaz</lname>
+<fname>Farial</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This study presents a methodology for automatically identifying and clustering semantic features or topics in a heterogeneous text collection. The methodology involves encoding the text data using a low rank nonnegative matrix factorization algorithm to retain natural data nonnegativity, thereby eliminating the need to use subtractive basis vector and encoding calculations present in other techniques such as principal component analysis for semantic feature abstraction. Existing techniques for nonnegative matrix factorization are reviewed and a new hybrid technique for nonnegative matrix factorization is proposed. Performance evaluations of the proposed method is conducted on a few benchmark text collections used in standard topic detection studies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4795</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6312&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4795</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6312</articleid>
+<submission-date>2017-08-23T10:13:58-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10647707</context-key>
+<submission-path>utk_gradthes/4795</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Samuel Jordan, Robert Ward</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

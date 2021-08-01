@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of an Active Stereo Vision 3D Scene Reconstruction System Based on the Linear Position Sensor Module</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Morris</lname>
+<fname>Julie</fname>
+<mname>Anne</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Active vision systems and passive vision systems currently exist for three-dimensional (3D) scene reconstruction. Active systems use a laser that interacts with the scene. Passive systems implement stereo vision, using two cameras and geometry to reconstruct the scene. Each type of system has advantages and disadvantages in resolution, speed, and scene depth. It may be possible to combine the advantages of both systems as well as new hardware technologies such as position sensitive devices (PSDs) and field programmable gate arrays (FPGAs) to create a real-time, mid-range 3D scene reconstruction system.&lt;/p&gt;
+&lt;p&gt;Active systems usually reconstruct long-range scenes so that a measurable amount of time can pass for the laser to travel to the scene and back. Passive systems usually reconstruct close-range scenes but must overcome the correspondence problem. If PSDs are placed in a stereo vision configuration and a laser is directed at the scene, the correspondence problem can be eliminated. The laser can scan the entire scene as the PSDs continually pick up points, and the scene can be reconstructed. By eliminating the correspondence problem, much of the computation time of stereo vision is removed, allowing larger scenes, possibly at mid-range, to be modeled.&lt;/p&gt;
+&lt;p&gt;To give good resolution at a real-time frame rate, points would have to be recorded very quickly. PSDs are analog devices that give the position of a light spot and have very fast response times. The cameras in the system can be replaced by PSDs to help achieve real- time refresh rates and better resolution. A contribution of this thesis is to design a 3D scene reconstruction system by placing two PSDs in a stereo vision configuration and to use FPGAs to perform calculations to achieve real-time frame rates of mid-range scenes.&lt;/p&gt;
+&lt;p&gt;The linear position sensor module (LPSM) made by Noah Corp is based on a PSD and outputs a position in terms of voltage. The LPSM is characterized for this application by testing it with different power lasers while also varying environment variables such as background light, scene type, and scene distance. It is determined that the LPSM is sensitive to red wavelength lasers. When the laser is reflected off of diffuse surfaces, the laser must output at least 500 mW to be picked up by the LPSM and the scene must be within 15 inches, or the power intensity will not meet the intensity requirements of the LPSM. The establishment of these performance boundaries is a contribution of the thesis along with characterizing and testing the LPSM as a vision sensor in the proposed scene reconstruction system.&lt;/p&gt;
+&lt;p&gt;Once performance boundaries are set, the LPSM is used to model calibrated objects. LPSM sensitivity to power intensity changes seems to cause considerable error. The change in power appears to be a function of depth due to the dispersion of the laser beam. The model is improved by using a correction factor to find the position of the light spot. Using a better-focused laser may improve the results. Another option is to place two PSDs in the same configuration and test to see whether the intensity problem is intrinsic to all PSDs or if the problem is unique to the LPSM.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1744</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3094&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1744</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3094</articleid>
+<submission-date>2013-08-22T12:37:28-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4484312</context-key>
+<submission-path>utk_gradthes/1744</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>M. A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>D. Page, B. Blalock, D. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

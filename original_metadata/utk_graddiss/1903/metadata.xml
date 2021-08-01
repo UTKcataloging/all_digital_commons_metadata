@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High Performance Control of a Transmission Based Servo Actuator System</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhou</lname>
+<fname>Renbin</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;High performance actuation is a key factor in the industrial robot area. The transmission based servo actuator system (TBA) is a new type of robot actuator with a brushless DC servo motor and a three speed discrete variable transmission (DVT). The proposed TBA design can match the performance of a typical hydraulic actuator with compact size and weight.&lt;/p&gt;
+&lt;p&gt;The TBA is a typical hybrid dynamic system consisting of three continuous dynamic systems and a discrete state controller. This dissertation addresses the fundamental problems associated with the TBA system control from a hybrid system point of view.&lt;/p&gt;
+&lt;p&gt;A detailed dynamic model of the TBA is developed. Due to the complexity of the TBA system, an exact model is unwieldy for control design and analysis purposes. In this research, the TBA system is simplified into a hybrid system with three second order linear time invariant systems, on which all the controls are developed.Dynamic stability of the TBA is critical for its function as a servoactuator. For a hybrid system, the stability problem has much broader range of issues than a purely continuous system.&lt;/p&gt;
+&lt;p&gt;In general, the plant stability and the subsystem stability are independent. For example, a hybrid system with stable subsystems can be unstable for certain switch sequences; on the other hand, a hybrid system with unstable subsystems can be stabilized by proper switch signals. In this dissertation, a sufficient condition is established for stability of the TBA system. It is proven that the hybrid system is stable under asynchronous switching if there exists a common Lyapunov function for all subsystems. It is proven that the TBA subsystems can have a common Lypunov function by designing appropriate feedback controller. The feedback controller to stabilize the TBA can be transformed into a PID equivalent controller because the subsystems are second order linear time invariant systems (LTI). The PID controller was then implemented and high performance in terms of position error and transient suppression has been achieved. The discrete state controller should be stable, which means that its output should be consistent if the hybrid system is subjected to disturbances. A common phenomenon is that the state changes back and forth very frequently near the switch boundary, which is referred to as transition instability. This research proposes a switch strategy consisting of two boundaries to achieve the transition stability, and it is proved that the proposed switch strategy is transition stable.&lt;/p&gt;
+&lt;p&gt;An optimal controller is designed and difficulties associated with implementation are generated.&lt;/p&gt;
+&lt;p&gt;Based on the proposed control methods, a multithread real time control software has been developed to achieve a deterministic control loop sampling. The control software is developed in C/C++ under Real Time Application Interface (RTAI), which provides a real time programming environment in a normal Linux operating system.&lt;/p&gt;
+&lt;p&gt;With the proposed controller and a prototype TBA test system, TBA stability and control performance was demonstrated and evaluated. The following results were observed:  &lt;ol&gt; &lt;li&gt;Steady state error of 0.005 degrees at the emulated robust manipulator shoulder pitch joint&lt;/li&gt; &lt;li&gt;Control loop sampling period of 1 millisecond with negligible delay&lt;/li&gt; &lt;li&gt;Transient disturbances associated with the gear shifting of ~20% in most cases.&lt;/li&gt; &lt;li&gt;The methods and applications used in this dissertation can be extended to a large range of hybrid dynamic systems in terms of control system design, analysis and implementation.&lt;/li&gt; &lt;/ol&gt;&lt;/p&gt;
+&lt;p&gt;This research contributes to the literature and research knowledge base in the following ways:  &lt;ol&gt; &lt;li&gt;Exploration and solution of the control problems of TBA’s in the hybrid system control context.&lt;/li&gt; &lt;li&gt;Expansion of the fundamental understanding of the practical control issues of TBA’s.&lt;/li&gt; &lt;li&gt;Analysis, design, and implementation of a real time TBA control system, and identification of the most suitable control strategy for the TBA.&lt;/li&gt; &lt;li&gt;The development of analysis and control methods that can be extended to a much broader range of hybrid dynamic systems.&lt;/li&gt; &lt;/ol&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1903</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3331&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1903</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3331</articleid>
+<submission-date>2013-09-13T08:44:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4583469</context-key>
+<submission-path>utk_graddiss/1903</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vijay S. Chellaboina, John Chiasson, Seddik M. Djouadi, Lynne E. Parker, Gary V. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

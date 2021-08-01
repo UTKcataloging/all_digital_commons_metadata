@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mutual Coupling Considerations in the Development of Multi-feed Antenna Systems</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lee</lname>
+<fname>Sung-Woo</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In the design of any multi-port network with more than one antenna, mutual coupling between these different ports must be accounted for. In an effort to investigate and control these mutual coupling effects, we have selected three structures to be thoroughly analyzed. Furthermore, they have been fabricated and tested to develop relevant design guides for these selected structures to have minimal mutual coupling effects.&lt;/p&gt;
+&lt;p&gt;These selected structures included a feed network for a multi-port antenna, a dual feedhorn for a large reflector antenna, as well as a set of Multi- Input Multi-Output (MIMO) laptop antennas. In the first study, we analyzed a 30- port radial splitter that can be used for an in-phase feeding of a 30-high power transmitter. Our objectives here have been geared towards estimating the mutual coupling between the 30 ports and exploring the port and alignment failure analysis, its graceful degradation results, and relevant efficiency performance for such high power multi-port network will be presented.&lt;/p&gt;
+&lt;p&gt;In the second study, we investigated the mutual coupling of a multifeedhorn structure of a large reflector antenna in order to allow multi-beam radiation or reception. This high gain antenna utilizes integrated feeds with precise physical tight spacing and could suffer from strong inter-coupling. Mutual coupling effects here include input match deterioration, beam width broadening, and cross-polarization degradation due to the proximity coupling of these various feeds. Our study derived accurate feed location expressions as well as methods to improve the decoupling between the feeds that have been implemented. These results will be discussed.&lt;/p&gt;
+&lt;p&gt;For the third study, we carried out extensive investigates into the mutual coupling effects amidst wireless laptop antennas for a MIMO system implementation. For a laptop use, it is required to determine the best location, optimum spacing, and orientations of these antennas in order to achieve the maximum benefits of the system’s diversity. First, we studied the coupling between two antennas as a function of their spacing, types, and orientations. Subsequently, we extended the study to a controlled multi-antenna system for a MIMO implementation. Design rules for such implementation have been derived and will be discussed in detail.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/395</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1456&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>395</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1456</articleid>
+<submission-date>2010-02-17T08:42:12-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1150183</context-key>
+<submission-path>utk_graddiss/395</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul B. Crilly, Marshall O. Pace, Myong K. Jeong, Yoon W. Kang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/LeeSungWoo.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

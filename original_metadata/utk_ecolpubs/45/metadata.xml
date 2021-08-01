@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Alternative forms for genomic clines</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fitzpatrick</lname>
+<fname>Benjamin</fname>
+<mname>M</mname>
+</author>
+</authors>
+<disciplines><discipline>Ecology and Evolutionary Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Understanding factors regulating hybrid fitness and gene exchange is a major research challenge for evolutionary biology. Genomic cline analysis has been used to evaluate alternative patterns of introgression, but only two models have been used widely and the approach has generally lacked a hypothesis testing framework for distinguishing effects of selection and drift. I propose two alternative cline models, implement multivariate outlier detection to identify markers associated with hybrid fitness, and simulate hybrid zone dynamics to evaluate the signatures of different modes of selection. Analysis of simulated data shows that previous approaches are prone to false positives (multinomial regression) or relatively insensitive to outlier loci affected by selection (Barton&#39;s concordance). The new, theory-based logit-logistic cline model is generally best at detecting loci affecting hybrid fitness. Although some generalizations can be made about different modes of selection, there is no one-to-one correspondence between pattern and process. These new methods will enhance our ability to extract important information about the genetics of reproductive isolation and hybrid fitness. However, much remains to be done to relate statistical patterns to particular evolutionary processes. The methods described here are implemented in a freely available package “HIest” for the R statistical software (CRAN; &lt;a href=&quot;http://cran.r-project.org/&quot; title=&quot;Link to external resource: http://cran.r-project.org/&quot;&gt;http://cran.r-project.org/&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;DOI: 10.1002/ece3.609&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_ecolpubs/45</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1045&amp;amp;context=utk_ecolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>45</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1045</articleid>
+<submission-date>2014-01-10T08:41:06-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Ecology and Evolutionary Biology</publication-title>
+<context-key>4979246</context-key>
+<submission-path>utk_ecolpubs/45</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article has been funded by the University of Tennessee&#39;s &lt;a href=&quot;http://www.lib.utk.edu/scholar/open-access/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Ecology and Evolution, Volume 3, Issue 7, pages 1951–1966, July 2013</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-01-10T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

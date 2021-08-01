@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On-line Structural Integrity Monitoring and Defect Diagnosis of Steam Generators Using Analysis of Guided Acoustic Waves</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lu</lname>
+<fname>Baofu</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Integrity monitoring and flaw diagnostics of flat beams and tubular structures was investigated in this research using guided acoustic signals. The primary objective was to study the feasibility of using imbedded sensors for monitoring steam generator and heat exchanger tubing. A piezo-sensor suite was deployed to activate and collect Lamb wave signals that propagate along metallic specimens. The dispersion curves of Lamb waves along plate and tubular structures were generated through numerical analysis. Several advanced techniques were explored to extract representative features from acoustic time series. Among them, the Hilbert-Huang transform (HHT) is a recently developed technique for the analysis of non-linear and transient signals. A moving window method was introduced to generate the local peak characters from acoustic time series, and a zooming window technique was developed to localize the structural flaws.&lt;/p&gt;
+&lt;p&gt;The dissertation presents the background of the analysis of acoustic signals acquired from piezo-electric transducers for structural defect monitoring. A comparison of the use of time-frequency techniques, including the Hilbert-Huang transform, is presented. It also presents the theoretical study of Lamb wave propagation in flat beams and tubular structures, and the need for mode separation in order to effectively perform defect diagnosis. The results of an extensive experimental study of detection, location, and isolation of structural defects in flat aluminum beams and brass tubes are presented.&lt;/p&gt;
+&lt;p&gt;The time-frequency analysis and pattern recognition techniques were combined for classifying structural defects in brass tubes. Several types of flaws in brass tubes were tested, both in the air and in water. The techniques also proved to be effective under background/process noise. A detailed theoretical analysis of Lamb wave propagation was performed and simulations were carried out using the finite element software system &lt;em&gt;ABAQUS.&lt;/em&gt; This analytical study confirmed the behavior of the acoustic signals acquired from the experimental studies.&lt;/p&gt;
+&lt;p&gt;The results of this research showed the feasibility of on-line detection of small structural flaws by the use of transient and nonlinear acoustic signal analysis, and its implementation by the proper design of a piezo-electric transducer suite. The techniques developed in this research would be applicable to civil structures and aerospace structures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2231</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3715&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2231</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3715</articleid>
+<submission-date>2013-10-10T09:18:39-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4692385</context-key>
+<submission-path>utk_graddiss/2231</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Lawrence W. Townsend, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

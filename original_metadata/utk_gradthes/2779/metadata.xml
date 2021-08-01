@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Verification of the Shift Monte Carlo Code Using the C5G7 and CASL Benchmark Problems</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nsly@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sly</lname>
+<fname>Nicholas</fname>
+<mname>Cameron</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Verification</keyword>
+<keyword>Monte Carlo</keyword>
+<keyword>Scaling Study</keyword>
+<keyword>C5G7</keyword>
+<keyword>Shift</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;While Monte Carlo simulation has been recognized as a powerful numerical method for use in radiation transport, it has required a mixture of methods development and hardware advancement to meet these expectations in practical applications. In an effort to continue this advancement for uses of Monte Carlo simulation in ever larger capacities, Oak Ridge National Laboratory is developing the Shift hybrid deterministic/Monte Carlo code to be massively-parallel for use on parallel computing systems of all sizes. As part of this development, verification of the Monte Carlo parts of the code is needed to confirm that the current version of the code is operating properly, by matching the results of similar, currently available codes, as well as allowing for testing of the code in the future, to ensure that subsequent code changes and the implementation of new capabilities don’t adversely affect the results. This research starts that verification using some basic reactor criticality benchmarks. The Shift code has been shown to agree within three standard deviations with MCNP and KENO, two of the most widely used Monte Carlo criticality codes. Also investigated was the efficiency of the Shift code as it currently stands, scaling with the number of processors the code is run on as well as the number of particles being simulated. The code was found to scale well, as long as there are enough particles to make the transport take significantly more time than the inter-cycle communication between compute nodes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2779</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4060&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2779</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4060</articleid>
+<submission-date>2014-04-14T11:33:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>5478932</context-key>
+<submission-path>utk_gradthes/2779</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Guillermo I. Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence H. Heilbronn, Ronald E. Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

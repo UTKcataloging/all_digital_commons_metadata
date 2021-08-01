@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enhancing User Queries in Scientific Visualization with Distribution Information</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Christopher</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Scientific visualization is concerned with the graphical portrayal of data. Using symbols, color, and natural perceptual cues, humans gain insight into collections of raw numbers that may not be as efficiently processed in non-graphical formats. For simple data, visualization may require only a simple mapping between numeric values and a color scale. But modern scientific, economic, and social data is far from simple. Multiple variables, duration of time, fine resolutions, and wide sampling have yielded data sets of unprecedented complexity. The mapping between such data and its visual appearance is difficult to define. The works described here attempt to make defining this mapping more manageable to users of visualization software.&lt;/p&gt;
+&lt;p&gt;We describe three tools to assist users in finding features of interest in familiar, probabilistic terms. The first tool is an expressive query language in which the user can describe features using criteria based on the frequency distribution of values in local neighborhoods. The query language is closely integrated with the visualization to provide meaningful insight into the matching data and feedback to guide modification of query parameters. The second tool targets the investigation of high-dimensional aspatial data. A common technique called &lt;em&gt;parallel coordinates&lt;/em&gt; is extended to three dimensions in order to make relationships between variables more apparent. A semiautomatic method of finding compelling viewpoints of the data in 3-D space is introduced. The user defines what features are compelling in terms of a view’s image space distribution of color and depth values. Lastly, we describe a novel frequency histogram called a &lt;em&gt;periograph&lt;/em&gt; for displaying cyclic temporal data. Through periographs, users inspect seasonal trends and their variations through time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/48</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1076&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>48</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1076</articleid>
+<submission-date>2009-12-22T08:14:09-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1096500</context-key>
+<submission-path>utk_graddiss/48</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Thomason, Bradley Vander Zanden, Shih-Lung Shaw</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

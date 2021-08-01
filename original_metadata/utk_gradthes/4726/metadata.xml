@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Practical Methods for Optimizing Equipment Maintenance Strategies Using an Analytic Hierarchy Process and Prognostic Algorithms</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gbosco@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bosco</lname>
+<fname>Gregory</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Analytic Hierarchy Process</keyword>
+<keyword>Optimizing Equipment Maintenance</keyword>
+<keyword>Prognostic Algorithms</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Many large organizations report limited success using Condition Based Maintenance (CbM). This work explains some of the causes for limited success, and recommends practical methods that enable the benefits of CbM. The backbone of CbM is a Prognostics and Health Management (PHM) system. Use of PHM alone does not ensure success; it needs to be integrated into enterprise level processes and culture, and aligned with customer expectations. To integrate PHM, this work recommends a novel life cycle framework, expanding the concept of maintenance into several levels beginning with an overarching maintenance strategy and subordinate policies, tactics, and PHM analytical methods. During the design and in-service phases of the equipment’s life, an organization must prove that a maintenance policy satisfies specific safety and technical requirements, business practices, and is supported by the logistic and resourcing plan to satisfy end-user needs and expectations. These factors often compete with each other because they are designed and considered separately, and serve disparate customers. This work recommends using the Analytic Hierarchy Process (AHP) as a practical method for consolidating input from stakeholders and quantifying the most preferred maintenance policy. AHP forces simultaneous consideration of all factors, resolving conflicts in the trade-space of the decision process. When used within the recommended life cycle framework, it is a vehicle for justifying the decision to transition from generalized high-level concepts down to specific lower-level actions. This work demonstrates AHP using degradation data, prognostic algorithms, cost data, and stakeholder input to select the most preferred maintenance policy for a paint coating system. It concludes the following for this particular system: A proactive maintenance policy is most preferred, and a predictive (CbM) policy is more preferred than predeterminative (time-directed) and corrective policies. A General Path prognostic Model with Bayesian updating (GPM) provides the most accurate prediction of the Remaining Useful Life (RUL). Long periods between inspections and use of categorical variables in inspection reports severely limit the accuracy in predicting the RUL. In summary, this work recommends using the proposed life cycle model, AHP, PHM, a GPM model, and embedded sensors to improve the success of a CbM policy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4726</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5793&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4726</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5793</articleid>
+<submission-date>2017-02-23T14:27:42-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5793/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>9741032</context-key>
+<submission-path>utk_gradthes/4726</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jamie B. Coble</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle Upadhyaya, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Driven Quickest Detection in Networks and Its Applications in Spectrum Sensing</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>withdrawn</state>
+<authors>
+<author>
+<email>ywang79@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Wang</lname>
+<fname>Yifan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Quickest Detection</keyword>
+<keyword>Spectrum Sensing</keyword>
+<keyword>Cognitive Radio</keyword>
+<keyword>mmWave</keyword>
+<keyword>Belief Propagation</keyword>
+<keyword>Universal Change Detection</keyword>
+</keywords>
+<abstract>&lt;p&gt;Cognitive radio is one of the enabling technologies considered for the next generation communication systems for many mission-critical applications. In modern cognitive ratio systems, the spectrum is becoming increasingly crowded and expensive; thus spectrum sensing becomes more important than ever before. In this dissertation, the study is focused on data driven quickest detection applied to energy detection based spectrum sensing. Firstly, a framework that integrates quickest detection and belief propagation is applied to the cooperative spectrum sensing where the primary user (PU) activities are heterogeneous in the space and dynamic in the time. The performance of the proposed scheme is analyzed mathematically. Using numerical simulations, detection performance measured by false alarm rate and average detection delay is obtained for different setups. Numerical simulations have demonstrated the validity of the proposed technique.Secondly, we propose a universal quickest change detection scheme based on density ratio estimation for spectrum sensing by detecting the sudden change of spectrum (e.g., the emergence of PU), where neither the pre-change nor post-change distribution (even the distribution forms) is known to secondary users (SUs), thus achieving robustness to complex spectrum environment, where SUs have no prior information about the measurement distributions. The validity of the proposed schemes has been shown by numerical simulations.Finally, we extend the detection of change in spectrum to millimeter-wave environment.  As millimeter-wave is becoming part of the physical layer standard in the next-generation cellular network, it also brings about many questions and challenges. Not all the existing theories and methods for traditional wireless communication can apply directly to millimeter-wave communication because of the adoption of directional antenna and the high frequency band used. We propose a data-driven spectrum change sensing technique based on mean recurrence time to efficiently detect the PU activities which is tolerant of small fluctuations. The proposed spectrum sensing works well without a priori knowledge of the sensed signal, and doesn&#39;t take assumption of independent and identically distributed random variables. It can also serve as a general framework for detection in other areas. The experimental results validate the proposed detection framework.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5506</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7152&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5506</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7152</articleid>
+<submission-date>2020-08-13T18:48:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911353</context-key>
+<withdrawn>2020-08-16</withdrawn>
+<submission-path>utk_graddiss/5506</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Arun Padakandla, Xueping Li</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2170-714X</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journal and conferences.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

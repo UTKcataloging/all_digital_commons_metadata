@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Finite element investigation of steady and unsteady quasi one-dimensional gas dynamic flows with wall friction and heat transfer</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Negrete</lname>
+<fname>Nefi</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This study developed and validated a finite element procedure to investigate both steady and unsteady gas dynamic flows. Variable cross-sectional area, wall friction, and heat transfer within the duct affect compressible flows. Closed form solutions exist for steady flows determined by only one of these effects at a time. A quasi one dimensional algorithm was refined to combine all of these effects into multiple simulations. Moreover, the effects of an unsteady back pressure were also investigated and compared to the steady results. The back pressure was varied sinusoidally. The convergent divergent nozzle used had an outlet to throat ratio of 1.5 and a friction coefficient f = 0.005 (or f = 0.02) depending on how the coefficient is defined. The steady results indicated that for this type of nozzle, friction effects could be neglected while the effects of heat transfer significantly affected the flow. For specific magnitudes of heating, the normal shock found in the diverging nozzle disappeared and the flow became subsonic throughout the nozzle. An important question was how the flow reacts to a periodic unsteady back pressure. The exit speed, density, and temperature had the same fundamental frequency than the pressure although the unsteady flow was positioned behind the steady due to inertia.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5970</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7603&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5970</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7603</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467632</context-key>
+<submission-path>utk_gradthes/5970</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joe Iannelli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

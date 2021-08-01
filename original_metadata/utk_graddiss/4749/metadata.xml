@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Wide Area Hierarchical Voltage Control for Systems with High Wind Penetration and an HVDC Overlay</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ylu16@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lu</lname>
+<fname>Yidan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Hierarchical Voltage Control</keyword>
+<keyword>HVDC Overlay</keyword>
+<keyword>Pilot Bus Scheme</keyword>
+<keyword>Wind Penetration</keyword>
+<keyword>WECC</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The modern power grid is undergoing a dramatic revolution. On the generation side, renewable resources are replacing fossil fuel in powering the system. On the transmission side, an AC-DC hybrid network has become increasingly popular to help reduce the transportation cost of electricity. Wind power, as one of the environmental friendly renewable resources, has taken a larger and larger share of the generation market. Due to the remote locations of wind plants, an HVDC overlay turns out to be attractive for transporting wind energy due to its superiority in long distance transmission of electricity.&lt;/p&gt;
+&lt;p&gt;While reducing environmental concern, the increasing utilization of wind energy forces the power system to operate under a tighter operating margin. The limited reactive capability of wind turbines is insufficient to provide adequate voltage support under stressed system conditions. Moreover, the volatility of wind further aggravates the problem as it brings uncertainty to the available reactive resources and can cause undesirable voltage behavior in the system. The power electronics of the HVDC overlay may also destabilize the gird under abnormal voltage conditions. Such limitations of wind generation have undermined system security and made the power grid more vulnerable to disturbances.&lt;/p&gt;
+&lt;p&gt;This dissertation proposes a Hierarchical Voltage Control (HVC) methodology to optimize the reactive reserve of a power system with high levels of wind penetration. The proposed control architecture consists of three layers. A tertiary Optimal Power Flow computes references for pilot bus voltages. Secondary voltage scheduling adjusts primary control variables to achieve the desired set points. The three levels of the proposed HVC scheme coordinate to optimize the voltage profile of the system and enhance system security. The proposed HVC is tested on an equivalent Western Electricity Coordinated Council (WECC) system modified by a multi-terminal HVDC overlay. The effectiveness of the proposed HVC is validated under a wide range of operating conditions. The capability to manage a future AC/DC hybrid network is studied to allow even higher levels of wind.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4749</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6140&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4749</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6140</articleid>
+<submission-date>2017-06-13T20:29:18-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10296752</context-key>
+<submission-path>utk_graddiss/4749</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Fangxing Li, Suzanne Lenhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

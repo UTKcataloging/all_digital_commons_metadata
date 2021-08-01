@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MONTE CALRO CHARACTERIZATION OF THE NUCLEAR RADIATION EMITTED BY THE SURFACE OF THE MOON</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fzaman@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zaman</lname>
+<fname>Fahad</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;With neither a significant magnetic field nor an atmosphere, the Moon is exposed to a harsh radiation environment containing the galactic cosmic rays (GCRs) and the solar energetic particles (SEPs). When these particles strike the lunar surface, they create cascades of secondaries and eject “albedo” particles. The lunar albedo radiation consists of the scattered primary particles and secondaries created by the primary particles’ interactions. This dissertation uses MCNP6, a general-purpose Monte Carlo transport code that is widely used in the nuclear physics and engineering communities, to study the behavior of the albedo particles coming off the lunar surface, primarily protons, neutrons, electrons, positrons, gamma rays, deuterons, tritium ions, helium-3 ions, and alpha particles, by generating the energy and angular distributions of each albedo species. The maximum depth reached by any particle leading to the creation of an albedo particle is also calculated as a function of albedo particle energy and emission angle. Also, to characterize the elemental composition of the lunar regolith, variations in albedo production are studied in hypothetical scenarios with increased abundances of hydrogen, oxygen, sodium, magnesium, aluminum, silicon, calcium, titanium, manganese, and iron. The results obtained from MCNP6 are compared to two transport codes frequently used in space radiation applications: PHITS and HETC-HEDS. Finally, the generated spectra are applied to the Cosmic Ray Telescope for the Effects of Radiation (CRaTER) instrument aboard the Lunar Reconnaissance Orbiter (LRO), which has been monitoring the lunar radiation environment since its launch in 2009, to characterize the observed albedo proton population as a function of spacecraft altitude and orientation, and to compare the measured absorbed doses to the ones modeled by MCNP6. The contribution of each albedo species to the total absorbed dose is also calculated to better understand the effects of lunar albedo radiation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5810</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7576&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5810</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7576</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522191</context-key>
+<submission-path>utk_graddiss/5810</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence Townsend</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Heilbronn, Jason Hayward, Thomas Handler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Informing Safety Analysis and Transient Testing for the Transformational Challenge Reactor</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rkile@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Kile</lname>
+<fname>Robert</fname>
+<mname>Forrester</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The Transformational Challenge Reactor (TCR) aims to demonstrate the capabilities of advanced manufacturing and data analytics to revolutionize the nuclear design and manufacturing process by deploying a nuclear reactor with conventionally manufactured fuel embedded in additively manufactured structural core material. This thesis provides important analyses to support the design and licensing case for TCR. The thesis first examines the applicability of the systems codes TRACE and RELAP5-3D to TCR transient analysis. Then, RELAP models are used to examine the transient response of two candidate core designs. Next, models for reactivity insertion accidents (RIAs) are used to generate boundary conditions for transient testing and thermomechanical analysis of TCR fuel elements, and finally, the uncertainty quantification code RAVEN is used to quantify the impact of several design parameters on RIA progression at hot zero power (HZP) and hot full power (HFP).Comparison of results from TRACE and RELAP showed good agreement in both codes’ abilities to predict system behavior, but RELAP calcluations were closer to analytical predictions. Models for a uranium dioxide (UO2) and tristructural isotropic (TRISO) core at multiple power levels each undergoing a pressurized loss of forced cooling accident showed greater temperature margins for the TRISO core at all power levels. Using this information and other scoping analyses, the TCR design team selected a power level of 3 MW and a TRISO-based core design. Once the candidate core design was selected, RELAP models were constructed representing an RIA at HZP and HFP to provide boundary conditions to inform testing of TCR fuel at the Transient Reactor Test Facility. Finally, RAVEN was applied to vary RIA parameters in TCR to understand the impact on figures of merit-like peak power, fuel and coolant temperature, and energy deposition. This sensitivity study found that the inserted reactivity worth was the most important parameter controlling all figures of merit, but for insertion up to 1.5 dollars ($), no failure of TCR fuel is expected. For constant reactivity insertions, the magnitude of the Doppler coefficient was found to have the greatest impact on all figures of merit under most circumstances.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5647</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7181&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5647</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7181</articleid>
+<submission-date>2020-12-11T13:30:06-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20540237</context-key>
+<submission-path>utk_gradthes/5647</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicholas R. Brown</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie Coble, Lawrence Heilbronn, Aaron Wysocki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

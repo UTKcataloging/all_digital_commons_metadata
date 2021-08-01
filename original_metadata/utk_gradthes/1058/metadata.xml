@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Quasi-One-Dimensional Flow for Use in Real-Time Facility Simulations</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bboylsto@utk.edu</email>
+<lname>Boylston</lname>
+<fname>Brett</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>quasi-one-dimensional flow</keyword>
+<keyword>facility simulation</keyword>
+<keyword>real-time</keyword>
+<keyword>control volume</keyword>
+<keyword>simulink</keyword>
+<keyword>AEDC</keyword>
+</keywords>
+<abstract>&lt;p&gt;Simulations have been, and continue to play, an important role at the Arnold Engineering Development Center as an aid in control system development and operator training.  These models were just simple lumped-parameter methods.  Since their initial inception, over ten years ago, little work has been done to increase the fidelity of the models.  The processing power of the computer hardware used by the simulations has increased dramatically during this time and this left an opening for improvements to the models adopted in the simulation.    To fill this void a quasi-one-dimensional control volume has been developed to run in real-time.  The new control volume accounts for changes in area, transient effects, friction and other minor pressure losses, and localized heat transfer.  All of which were previously unaccounted for.   This new capability was compared against known analytical solutions and applied to an example flow system that demonstrates the new features.  The result is a control volume that can be used in wind tunnel, or in other industrial process, simulations to provide a more realistic model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1058</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1865&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1058</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1865</articleid>
+<submission-date>2010-10-12T20:24:46-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1865/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1602409</context-key>
+<submission-path>utk_gradthes/1058</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor H. Moulden</value>
+</field>
+<field name="advisor2" type="string">
+<value>Basil N. Antar, Ralph R. Jones</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

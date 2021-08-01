@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the Statics, Dynamics, and Stability of Continuum Robots: Model Formulations and Efficient Computational Schemes</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jtill@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Till</lname>
+<fname>John</fname>
+<mname>Daniel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Robotics</keyword>
+<keyword>Continuum Mechanics</keyword>
+<keyword>Continuum Robots</keyword>
+<keyword>Partial Differential Equations</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation presents advances in continuum-robotic mathematical-modeling techniques. Specifically, problems of statics, dynamics, and stability are studied for robots with slender elastic links. The general procedure within each topic is to develop a continuous theory describing robot behavior, develop a discretization strategy to enable simulation and control, and to validate simulation predictions against experimental results.Chapter 1 introduces the basic concept of continuum robotics and reviews progress in the field. It also introduces the mathematical modeling used to describe continuum robots and explains some notation used throughout the dissertation.The derivation of Cosserat rod statics, the coupling of rods to form a parallel continuum robot (PCR), and solution of the kinematics problem are reviewed in Chapter 2. With this foundation, soft real-time teleoperation of a PCR is demonstrated and a miniature prototype robot with a grasper is controlled.Chapter 3 reviews the derivation of Cosserat rod dynamics and presents a discretization strategy having several desirable features, such as generality, accuracy, and potential for good computational efficiency. The discretized rod model is validated experimentally using high speed camera footage of a cantilevered rod. The discretization strategy is then applied to simulate continuum robot dynamics for several classes of robot, including PCRs, tendon-driven robots, fluidic actuators, and concentric tube robots.In Chapter 4, the stability of a PCR is analyzed using optimal control theory. Conditions of stability are gradually developed starting from a single planar rod and finally arriving at a stability test for parallel continuum robots. The approach is experimentally validated using a camera tracking system.Chapter 5 provides closing discussion and proposes potential future work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5379</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6915&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5379</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6915</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545390</context-key>
+<submission-path>utk_graddiss/5379</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Caleb Rucker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Reza Abedi, Michael Berry, William R. Hamel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

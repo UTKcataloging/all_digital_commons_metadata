@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analytical Modeling and Simulation of SiGe MOS Gate HEMT</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Alam</lname>
+<fname>Mohmmad</fname>
+<mname>Tanvir</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents work on analytical modeling and simulation of SiGe MOS gate HEMT. A modified model for the threshold voltage of the MOS-gate HEMT is presented. An expression to calculate accurately minimum gate voltage VGmin of p-channel MOS-gate HEMT is derived. Using the modified expressions, VTHp and VGmin are calculated. Current-voltage characteristics, transconductance and cutoff frequency are calculated and plotted using the modified model and the results are compared with the results obtained from an existing model. The effects of different device and material parameter variation on VTHp and VGmin are also investigated.&lt;br /&gt;An analytical temperature model for the MOS-gate HEMT is proposed. The temperature variation of threshold voltage, current-voltage characteristics and transconductance are simulated using the analytical model.&lt;br /&gt;A model for a delta-doped MOS-gate HEMT is proposed which is valid for any width of the delta-doped layer. Effects of different device parameters on VTHp and Vtl have been investigated using this model.&lt;br /&gt;In addition, device simulator MediciTM has been used to simulate the delta-doped and regular-doped MOS-gate HEMTs. The results obtained from the MediciTM simulations are compared to some of the results obtained from the analytical model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1575</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3025&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1575</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3025</articleid>
+<submission-date>2013-08-08T13:08:38-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4408890</context-key>
+<submission-path>utk_gradthes/1575</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Benjamin J. Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

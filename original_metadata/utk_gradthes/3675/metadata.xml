@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Target Classification in Wireless Sensor Networks</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sun</lname>
+<fname>Ying</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Information exploitation schemes with high-accuracy and low computational cost play an important role in Wireless Sensor Networks (WSNs). This thesis studies the problem of target classification in WSNs. Specifically, due to the resource constraints and dynamic nature of WSNs, we focus on the design of the energy-efficient solutionwith high accuracy for target classification in WSNs.&lt;/p&gt;
+&lt;p&gt;Feature extraction and classification are two intertwined components in pattern recognition. Our hypothesis is that for each type of target, there exists an optimal set of features in conjunction with a specific classifier, which can yield the best performance in terms of classification accuracy using least amount of computation, measured by the number of features used. Our objective is to find such an optimal combination of features and classifiers. Our study is in the context of applications deployed in a wireless sensor network (WSN) environment, composed of large number of small-size sensors with their own processing, sensing and networking capabilities powered by onboard battery supply. Due to the extremely limited resources on each sensor platform, the decision making is prune to fault, making sensor fusion a necessity.&lt;/p&gt;
+&lt;p&gt;We present a concept, referred to as &lt;em&gt;dynamic &lt;/em&gt;target classification in WSNs. The main idea is to dynamically select the optimal combination of features and classifiers based on the &quot;probability&quot; that the target to be classified might belong to a certain category. We use two data sets to validate our hypothesis and derive the optimal combination sets by minimizing a cost function.&lt;/p&gt;
+&lt;p&gt;We apply the proposed algorithm to a scenario of collaborative target classification among a group of sensors which are selected using information based sensor selection rule in WSNs. Experimental results show that our approach can significantly reduce the computational time while at the same time, achieve better classification accuracy without using any fusion algorithm, compared with traditional classification approaches, making it a viable solution in practice.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3675</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5039&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3675</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5039</articleid>
+<submission-date>2016-02-11T12:03:26-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8133047</context-key>
+<submission-path>utk_gradthes/3675</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Elhanany, Cheng Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Increasing Accuracy of Simulation Modeling via a Dynamic Modeling Approach</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pvenkate@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Venkateswara Rao</lname>
+<fname>Prasanna Rao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Process Simulation</keyword>
+<keyword>Transportation</keyword>
+<keyword>Expert System</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Simulating processes is a valuable tool which provides in-depth knowledge about overall performance of a system and caters valuable insight on improving processes. Current simulation models are developed and run based on the existing business and operations conditions at the time during which the simulation model is developed. Therefore a simulation run over one year will be based on operational and business conditions defined at the beginning of the run. The results of the simulation therefore are unrealistic, as the actual process will be going through dynamic changes during that given year. In essence the simulation model does not have the intelligence to modify itself based on the events occurring within the model.&lt;/p&gt;
+&lt;p&gt;The paper presents a dynamic simulation modeling methodology which will reduce the variation between the simulation model results and actual system performance. The methodology will be based on developing a list of critical events in the simulation model that requires a decision. An expert system is created that allows a decision to be made for the critical event and then changes the simulation parameters. A dynamic simulation model is presented that updates itself based on the dynamics of the actual system to reflect correctly the impact of organization restructuring to overall organizational performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/906</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2025&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>906</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2025</articleid>
+<submission-date>2011-04-20T13:29:49-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2025/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1948979</context-key>
+<submission-path>utk_gradthes/906</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Xiaoyan Zhu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

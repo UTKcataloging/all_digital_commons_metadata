@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fault Diagnosis and Failure Prognostics of Lithium-ion Battery based on Least Squares Support Vector Machine and Memory Particle Filter Framework</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mlskaafi@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lskaafi</lname>
+<fname>Mohammed</fname>
+<mname>Ali</mname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Other Operations Research, Systems Engineering and Industrial Engineering</discipline>
+<discipline>Risk Analysis</discipline>
+</disciplines><abstract>&lt;p&gt;123456A novel data driven approach is developed for fault diagnosis and remaining useful life (RUL) prognostics for lithium-ion batteries using Least Square Support Vector Machine (LS-SVM) and Memory-Particle Filter (M-PF). Unlike traditional data-driven models for capacity fault diagnosis and failure prognosis, which require multidimensional physical characteristics, the proposed algorithm uses only two variables: Energy Efficiency (EE), and Work Temperature. The aim of this novel framework is to improve the accuracy of incipient and abrupt faults diagnosis and failure prognosis. First, the LSSVM is used to generate residual signal based on capacity fade trends of the Li-ion batteries. Second, adaptive threshold model is developed based on several factors including input, output model error, disturbance, and drift parameter. The adaptive threshold is used to tackle the shortcoming of a fixed threshold. Third, the M-PF is proposed as the new method for failure prognostic to determine Remaining Useful Life (RUL). The M-PF is based on the assumption of the availability of real-time observation and historical data, where the historical failure data can be used instead of the physical failure model within the particle filter. The feasibility of the framework is validated using Li-ion battery prognostic data obtained from the National Aeronautic and Space Administration (NASA) Ames Prognostic Center of Excellence (PCoE). The experimental results show the following: (1) fewer data dimensions for the input data are required compared to traditional empirical models; (2) the proposed diagnostic approach provides an effective way of diagnosing Li-ion battery fault; (3) the proposed prognostic approach can predict the RUL of Li-ion batteries with small error, and has high prediction accuracy; and, (4) the proposed prognostic approach shows that historical failure data can be used instead of a physical failure model in the particle filter.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3594</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4972&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3594</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4972</articleid>
+<submission-date>2015-08-13T19:15:50-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7461474</context-key>
+<submission-path>utk_graddiss/3594</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>John E. Kobza, James L. Simonton, Jamie Coble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

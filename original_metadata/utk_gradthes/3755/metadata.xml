@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improved Modeling of Atmospheric Entry for Meteors with Nose Radii Between 5cm and 10m</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbrisby@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Brisby</lname>
+<fname>Jakob</fname>
+<mname>Dale</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Hypersonic</keyword>
+<keyword>convection</keyword>
+<keyword>meteoroid</keyword>
+<keyword>radiative</keyword>
+<keyword>heating</keyword>
+<keyword>entry</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Aeronautical Vehicles</discipline>
+<discipline>Astrodynamics</discipline>
+<discipline>Heat Transfer, Combustion</discipline>
+<discipline>Space Vehicles</discipline>
+</disciplines><abstract>&lt;p&gt;Atmospheric entry studies typically look closely at the peak heating rate that a body encounters during its trajectory. This is an extremely important phenomenon to study because it allows engineers to determine if a trajectory is possible with given materials and craft design specifications. It also allows designers to choose what type of method will be used for mitigating the enormous heat fluxes during entry. In general, it is accepted that during the super-sonic flight regime the body will continue to be heated and an ablative heat shield often is used to deal with these heating processes. The theory outlined in this research is that with a certain set of parameters: entry velocity, nose radius, entry angle, and body characteristics, there should exist some trajectories where the entry body will begin to transfer its heat into the gas that lies between the body and the shock wave formed. To study this, a code that has been used for previous studies was adapted to look at bodies with a range of nose radii of 5cm to 10m. These trajectories were vetted against POST, a NASA developed trajectory calculator, and were determined to produce accurate flight path and velocity calculations. The heating models were also updated with curve fitted data for radiative heating and the addition of convective heating. Modifications were made to allow calculation of stagnation temperature during the late phases of the trajectory. This will allow future researchers to determine more accurately, the phase of meteor entry trajectories during which convective cooling may an important phenomenon.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3755</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4905&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3755</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4905</articleid>
+<submission-date>2015-10-07T20:37:21-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7692462</context-key>
+<submission-path>utk_gradthes/3755</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James E. Lyne</value>
+</field>
+<field name="advisor2" type="string">
+<value>Trevor M. Moeller, Zhili Zhang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

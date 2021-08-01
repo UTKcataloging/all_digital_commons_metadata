@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Device Modeling and Circuit Design of Neuromorphic Memory Structures</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>samer1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Amer</lname>
+<fname>Sherif</fname>
+</author>
+</authors>
+<keywords>
+<keyword>memristor</keyword>
+<keyword>RRAM</keyword>
+<keyword>IMT</keyword>
+<keyword>neuromorphic</keyword>
+</keywords>
+<abstract>&lt;p&gt;The downscaling of CMOS technology and the benefits gleaned thereof have made it the cornerstone of the semiconductor industry for many years. As the technology reaches its fundamental physical limits, however, CMOS is expected to run out of steam instigating the exploration of new nanoelectronic devices. Memristors have emerged as promising candidates for future computing paradigms, specifically, memory arrays and neuromorphic circuits. Towards this end, this dissertation will explore the use of two memristive devices, namely, Transition Metal Oxide (TMO) devices and Insulator Metal Transition (IMT) devices in constructing neuromorphic circuits. A compact model for TMO devices is first proposed and verified against experimental data. The proposed model, unlike most of the other models present in the literature, leverages the instantaneous resistance of the device as the state variable which facilitates parameter extraction. In addition, a model for the forming voltage of TMO devices is developed and verified against experimental data and Monte Carlo simulations. Impact of the device geometry and material characteristics of the TMO device on the forming voltage is investigated and techniques for reducing the forming voltage are proposed. The use of TMOs in syanptic arrays is then explored and a multi-driver write scheme is proposed that improves their performance. The proposed technique enhances voltage delivery across the selected cells via suppressing the effective line resistance and leakage current paths, thus, improving the performance of the crossbar array. An IMT compact model is also developed and verified against experiemntal data and electro-thermal device simulations. The proposed model describes the device as a memristive system with the temperature being the state variable, thus, capturing the temperature dependent resistive switching of the IMT device in a compact form suitable for SPICE implementation. An IMT based Integrate-And-Fire neuron is then proposed. The IMT neuron leverages the temperature dynamics of the device to deliver the functionality of the neuron. The proposed IMT neuron is more compact than its CMOS counterparts as it alleviates the need for complex CMOS circuitry. Impact of the IMT device parameters on the neuron&#39;s performance is then studied and design considerations are provided.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5698</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7344&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5698</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7344</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911766</context-key>
+<submission-path>utk_graddiss/5698</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Garrett Rose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Garrett Rose, Benjamin J. Blalock, Nicole McFarlane, Andy Sarles</value>
+</field>
+<field name="comments" type="string">
+<value>Portions if this document where previously published in journals and conferences</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

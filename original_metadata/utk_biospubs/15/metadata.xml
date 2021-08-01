@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Poultry Farm Security Gate: Autonomous Vehicle Recognition System</title>
+<publication-date>2020-05-28T09:05:23-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>knelms3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Nelms</lname>
+<fname>Kaitlyn</fname>
+<mname>M</mname>
+</author>
+<author>
+<email>maramorr@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Morris</lname>
+<fname>Mary</fname>
+<mname>A</mname>
+</author>
+</authors>
+<disciplines><discipline>Bioresource and Agricultural Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This project addresses the lack of security on access roads to broiler poultry farms in Tennessee by creating a system that autonomously recognizes vehicles as they approach the farm property. Many of these farms lack gates with proper security, making them vulnerable to vandalism and risking their biosecurity. Allowing all feed trucks entry to the farms is a vital requirement of the design in order to avoid interrupting operations on the farm. To address this issue, this project utilizes a combination of automated license plate reading software and light detection and ranging sensors (LiDAR) to autonomously recognize a vehicle and determine if it should be allowed access to the poultry farm. This is accomplished by taking a picture of the license plate of an approaching vehicle, reading the characters on the license plate, and comparing it to a database of license plates with associated permissions to the farm. If the vehicle’s license plate is in the database, the system will signal the gate to either open or remain closed accordingly. If the vehicle’s license plate is not in the database or it is not recognized, the system will determine if it will be given entry based on data collected from the LiDAR sensors. Two LiDAR sensors are utilized in the system. One LiDAR is used to count the vehicle&#39;s axles as they pass through, and the second is used to find the height of the vehicle as it passes through. This information can be used to determine if a vehicle is a large truck. Specifically, if the measured vehicle height and number of axles are representative of a feed truck approaching the farm, the system will automatically allow it access. If the system doesn’t recognize the vehicle, whether or not it is determined to be a large truck by the LiDAR sensors, the system will save a picture and the license plate number of the vehicle for the farm producer to review and add to the database for future uses. Overall, this system will improve poultry farm security while remaining autonomous and unobtrusive to daily farm operations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biospubs/15</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1020&amp;amp;context=utk_biospubs&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>poster</document-type>
+<type>article</type>
+<articleid>1020</articleid>
+<submission-date>2020-04-10T17:28:31-07:00</submission-date>
+<publication-title>Biosystems Engineering and Soil Science Publications and Other Works</publication-title>
+<context-key>17335006</context-key>
+<submission-path>utk_biospubs/15</submission-path>
+</document>
+</documents>

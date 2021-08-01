@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Innovative Approach to Johnson Noise Thermometry by Means of Spectral Estimation</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nbull@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bull</lname>
+<fname>Nora</fname>
+<mname>Dianne</mname>
+</author>
+</authors>
+<keywords>
+<keyword>spectral estimation</keyword>
+<keyword>probability density function</keyword>
+<keyword>power spectral density</keyword>
+<keyword>electromagnetic interference</keyword>
+<keyword>EMI removal</keyword>
+<keyword>Johnson Noise thermometry</keyword>
+</keywords>
+<disciplines><discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Instrumentation in a nuclear power plant is critical in monitoring the stability and safety levels of a reactor. Temperature is a key measurement performed on the core of a reactor to control the power output and sustain a safe thermal margin. If there is a dramatic change in temperature, failure is likely to follow if action is not taken to cool the system. Traditionally, to measure the temperature of a reactor, several resistance temperature detectors are placed in predefined locations on the system. Resistance temperature detectors (RTD) are typically platinum coiled wire wrapped around a ceramic cylinder and encased in a metal sheath. Due to the harsh environment of nuclear reactors, the RTDs degrade and their resistance measurements drift over time. This drift in resistance can be misunderstood as a drift in reactor temperature. In the past, the RTDs would be serviced every few years either through calibration or replacement. To service the RTDs the reactor is shut down and a person is sent into a dangerous environment. Utilizing Johnson Noise Thermometry (JNT) will reduce the occurrences of service needed for RTDs and provide a high- accuracy temperature measurement. JNT is a first order fundamental expression of temperature invulnerable to drift in the RTD’s physical condition. The signal processing behind JNT is presented in the following document. Spectral Estimation methods are utilized in order to remove electromagnetic interference (EMI) from the JNT measurement. These methods are unique to this dissertation. The EMI estimation method is modeled and simulation results are presented. The modeling of the EMI estimation involves locating EMI, analysis of EMI effects, and removal without bias. Finally, results from numerical and experimental verification are presented. The research presented here is important to furthering the future of the nuclear industry for several reasons. With this technology applied to existing systems reactor shut-down time can be decreased, technicians limit their exposure to dangerous radiation zones, and financial support for lengthy shut-downs is saved. The instrumentation community will benefit through the innovation of signal processing for very small signal versus noise interference.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3897</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5261&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3897</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5261</articleid>
+<submission-date>2016-04-18T11:45:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8489801</context-key>
+<submission-path>utk_graddiss/3897</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie Coble, Benjamin Blalock, Charles Britton, Milton Ericson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

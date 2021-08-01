@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of Gate-Controlled DC Electrokinetic Micropumps</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mruetusatorn</lname>
+<fname>Prachya</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Lab-on-chip (LOC) devices have received considerable attention in research and development for automated, high-throughput biological and chemical analysis. While much progress has been accomplished; however, fluid flow control still needs improvement and reminds one of the significant challenges for the future practical LOC devices. This thesis explores the application of electroosmosis (EO) technique and field effect flow control (FEFC) technology for micropumps, an important microfluidic component of LOC systems.&lt;/p&gt;
+&lt;p&gt;In this work, electroosmosis method was employed to electro-kinetically move the working fluid under a longitudinal electric field, and the FEFC technique was also utilized to manipulate the Electroosmotic Flow (EOF) through applying a normal electric field to influence the surface charge at the fluid-microchannel wall interface for an independent control over the EOF. Major accomplishments in this thesis are, study on channel geometry effect with no gate control component, and a single microchannel with gate control component.&lt;/p&gt;
+&lt;p&gt;A number of micropumps with different channel geometries were fabricated using soft lithography technique. PDMS prepolymer served as a top wall and both side walls of the microchannel, with a glass slide as the bottom (in the case of gate control, Indium Tin Oxide glass slides were used). On the gate control region, through adjusting the secondary electric field over the gate, FEFC can locally manipulate EOF. It helps produce a range of flow rates, enhance flow rates, and control flow direction. Moreover, micropumps were interfaced with another microchannel section for sample delivery.&lt;/p&gt;
+&lt;p&gt;To improve the microfluidic device, electro-fluid flow models were developed to describe and predict electric field distribution, velocity field distribution, flow direction, and FEFC phenomena using Finite Element Analysis tool (FEMLAB). The simulation results agreed well with experimental results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/413</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1446&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>413</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1446</articleid>
+<submission-date>2010-02-16T11:53:50-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1148230</context-key>
+<submission-path>utk_gradthes/413</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jayne Wu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohamed Mahfouz, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/MruetusatornPrachya.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hardware-Efficient Scalable Reinforcement Learning Systems</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennesse - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Zhenzhen</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+<discipline>Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Reinforcement Learning (RL) is a machine learning discipline in which an agent learns by interacting with its environment. In this paradigm, the agent is required to perceive its state and take actions accordingly. Upon taking each action, a numerical reward is provided by the environment. The goal of the agent is thus to maximize the aggregate rewards it receives over time. Over the past two decades, a large variety of algorithms have been proposed to select actions in order to explore the environment and gradually construct an e¤ective strategy that maximizes the rewards. These RL techniques have been successfully applied to numerous real-world, complex applications including board games and motor control tasks.&lt;/p&gt;
+&lt;p&gt;Almost all RL algorithms involve the estimation of a value function, which indicates how good it is for the agent to be in a given state, in terms of the total expected reward in the long run. Alternatively, the value function may re‡ect on the impact of taking a particular action at a given state. The most fundamental approach for constructing such a value function consists of updating a table that contains a value for each state (or each state-action pair). However, this approach is impractical for large scale problems, in which the state and/or action spaces are large. In order to deal with such problems, it is necessary to exploit the generalization capabilities of non-linear function approximators, such as arti…cial neural networks.&lt;/p&gt;
+&lt;p&gt;This dissertation focuses on practical methodologies for solving reinforcement learning problems with large state and/or action spaces. In particular, the work addresses scenarios in which an agent does not have full knowledge of its state, but rather receives partial information about its environment via sensory-based observations. In order to address such intricate problems, novel solutions for both tabular and function-approximation based RL frameworks are proposed. A resource-efficient recurrent neural network algorithm is presented, which exploits adaptive step-size techniques to improve learning characteristics. Moreover, a consolidated actor-critic network is introduced, which omits the modeling redundancy found in typical actor-critic systems. Pivotal concerns are the scalability and speed of the learning algorithms, for which we devise architectures that map efficiently to hardware. As a result, a high degree of parallelism can be achieved. Simulation results that correspond to relevant testbench problems clearly demonstrate the solid performance attributes of the proposed solutions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/233</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1283&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>233</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1283</articleid>
+<submission-date>2010-02-03T14:45:51-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1131293</context-key>
+<submission-path>utk_graddiss/233</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Elhanany</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ethan Farquhar, Hairong Qi, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/LiuZhenzhen.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

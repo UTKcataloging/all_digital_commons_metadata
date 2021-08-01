@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comprehensive Cross Section Database Development for Generalized Three Dimensional Radiation Transport Codes</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Miller</lname>
+<fname>Thomas</fname>
+<mname>Martin</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;To correctly specify the composition and spectra of heavy ion radiation fields, such as those encountered in space radiation protection studies, as they are transported through shielding, accurate values of the total, elastic scattering, and reaction cross sections, spectral distributions and angular distributions of all emitted particles (nucleons, light ions and heavy ions) from the nuclear interactions of propagating high energy heavy ion (HZE) particles with target nuclei are required. For space radiation protection studies, this means that double-differential (energy and angle) isotope production cross sections must be known for all stable nuclear isotopes with mass numbers from 1 to about 60 colliding with any target nucleus at energies from tens of MeV per nucleon up to several GeV per nucleon. With this cross section database, transport codes would be able to transport nearly any radiation field that man or machine might be exposed to in space or otherwise. This database is the first high speed comprehensive database suitable for three dimensional radiation transport. Once the comprehensive database was completed, it was incorporated into HETC to create a generalized, three dimensional radiation transport code, HETC-HEDS for space applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4834</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6339&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4834</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6339</articleid>
+<submission-date>2017-09-28T06:56:05-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10827310</context-key>
+<submission-path>utk_gradthes/4834</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence W. Townsend</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald E. Pevey, Arthur E. Ruggles, Thomas Handler</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Disc included with dissertation.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>evntgen.f</archive-name>
+<upload-name>evntgen.f</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=6339&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/x-fortran</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

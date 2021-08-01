@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ARC FLASH IN SINGLE-PHASE ELECTRICAL SYSTEMS</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jwade36@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wade</lname>
+<fname>John</fname>
+<mname>Francis</mname>
+</author>
+</authors>
+<keywords>
+<keyword>arc blast</keyword>
+<keyword>incident heat</keyword>
+<keyword>residential</keyword>
+</keywords>
+<disciplines><discipline>Fire Science and Firefighting</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Arc flash and blast are hazards unique to electrical installations. Such events can start fires, destroy equipment, and severely injure or kill workers. NFPA 70E and IEEE 1584 are defining standards for arc flash hazard analysis used during system design, construction, and maintenance. Both focus on three-phase faults for calculations since three-phase power distribution is predominant in utility and industrial applications. However, discussion of arc flash in single-phase systems prevalent in residential and commercial facilities is excluded. Single-phase faults can also occur in a variety of industrial and utility circumstances.&lt;/p&gt;
+&lt;p&gt;This dissertation explores historic background and treatment of arc flash and foundation phenomena, considers IEEE results as published in the 1584-2018 standard, and documents the author&#39;s work with single-phase arc flash.&lt;/p&gt;
+&lt;p&gt;Experiments were performed at the Schneider Electric facility, High Power Lab #3 in Cedar Rapids, Iowa in June and September 2020. This facility provided a test article; a full suite of voltage, current, and temperature instrumentation; high-speed video recording; and interface for a blast pressure transducer provided by the principal investigator. Test plan development used a template provided by Schneider. Scenarios were peer-reviewed in advance.&lt;/p&gt;
+&lt;p&gt;Experimental work revealed very low levels of heat released for most single-phase arc fault events at 434 volts and below though there was still blast, flash, and splatter of molten wire residue. In contrast, single-phase events at 460 volts and above produced sustained arcs, orders of magnitude more heat, and dangerously high levels of blast pressure.&lt;/p&gt;
+&lt;p&gt;Conclusions drawn are that low energy single-phase systems may be at low or very low risk of yielding arc flash burn-related injuries resulting from accidental short circuits. However, single-phase faults in systems with open circuit voltage at 460 volts or greater can produce significant levels of incident heat energy, flash, and blast pressure even at moderate levels of available fault current.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6096</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7349&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6096</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7349</articleid>
+<submission-date>2020-08-24T17:56:45-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7349/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19110427</context-key>
+<submission-path>utk_graddiss/6096</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David J. Icove</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Benjamin J. Blalock, James Evans Lyne, Vytenis Babrauskas</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;0000-0002-6493-5070&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Series_1_Oscillogram_PDFs.zip</archive-name>
+<upload-name>Series_1_Oscillogram_PDFs.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>June experiments - Series 1</description>
+</file>
+<file>
+<archive-name>Series_1_Calorimeter_Data_Files.zip</archive-name>
+<upload-name>Series_1_Calorimeter_Data_Files.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>June experiments - Series 1</description>
+</file>
+<file>
+<archive-name>Snapshots.zip</archive-name>
+<upload-name>Snapshots.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Snapshot photographs</description>
+</file>
+<file>
+<archive-name>Analysis_spreadsheets.zip</archive-name>
+<upload-name>Analysis_spreadsheets.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Excel spreadsheet files</description>
+</file>
+<file>
+<archive-name>Calibration_Certs_selected.zip</archive-name>
+<upload-name>Calibration_Certs_selected.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Test cell calibration certificates</description>
+</file>
+<file>
+<archive-name>Series_2_Oscillogram_PDFs.zip</archive-name>
+<upload-name>Series_2_Oscillogram_PDFs.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=7&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>September experiments - Series 2</description>
+</file>
+<file>
+<archive-name>Series_2_Calorimeter_Data_Files.zip</archive-name>
+<upload-name>Series_2_Calorimeter_Data_Files.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=8&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>September experiments - Series 2</description>
+</file>
+<file>
+<archive-name>High_Speed_Video___Test_Series_1.zip</archive-name>
+<upload-name>High_Speed_Video___Test_Series_1.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=9&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>High Speed Videos - Test series 1</description>
+</file>
+<file>
+<archive-name>High_Speed_Video___Test_Series_2.zip</archive-name>
+<upload-name>High_Speed_Video___Test_Series_2.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=10&amp;amp;article=7349&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>High Speed Videos - Test series 2</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

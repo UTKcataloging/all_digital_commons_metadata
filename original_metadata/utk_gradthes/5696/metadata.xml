@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Preprocessing of microarray data and analysis and comparison techniques for the resulting graph structures</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Scharff</lname>
+<fname>Jon</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer science</keyword>
+</keywords>
+<abstract>&lt;p&gt;During our collaborations with scientists interested in high-throughput analysis of biological data, we have made much progress and facilitated some interesting findings using our clique-finding tools. However, we have also uncovered ways in which we can make our tools more efficient but have yet to write the programs to perform these tasks. Part of the problem is time constraints: in order to be useful to us, an application must be quite flexible and run efficiently. Programming such a tool is no small task, so we have resorted to scripting solutions that are geared to the specific task at hand. The first aim of this work is to produce a tool that is usable by both us and our collaborators to meet our common data processing needs. Also during our collaborations, we have been tasked with finding new ways to help find potentially interesting data among a large amount of information that would be prohibitive to analyze by hand. One of our current tools is one that can take a graph and return all the maximal cliques, which, using real data, can be done in a reasonable amount of time. However, the list of maximal cliques itself is usually long and impractical to analyze by hand. Thus, we have needed to come up with new ways to sleuth out those genes and cliques that may be of most interest from a list of millions of cliques. The second aim of this work is to describe new methods that we have been using to achieve this.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5696</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7318&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5696</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7318</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467444</context-key>
+<submission-path>utk_gradthes/5696</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

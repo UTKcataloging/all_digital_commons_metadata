@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scalable Hardware Efficient Deep Spatio-Temporal Inference Networks</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>syoung22@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Young</lname>
+<fname>Steven</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>deep learning</keyword>
+<keyword>analog computing</keyword>
+<keyword>DeSTIN</keyword>
+<keyword>recurrent clustering</keyword>
+<keyword>supervised clustering</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Deep machine learning (DML) is a promising field of research that has enjoyed much success in recent years. Two of the predominant deep learning architectures studied in the literature are Convolutional Neural Networks (CNNs) and Deep Belief Networks (DBNs). Both have been successfully applied to many standard benchmarks with a primary focus on machine vision and speech processing domains.&lt;/p&gt;
+&lt;p&gt;Many real-world applications involve time-varying signals and, consequently, necessitate models that efficiently represent both temporal and spatial attributes. However, neither DBNs nor CNNs are designed to naturally capture temporal dependencies in observed data, often resulting in the inadequate transformation of spatio-temporal signals into wide spatial structures. It is argued that deep machine learning without proper temporal representation mechanisms is unable to extract meaningful information from many time-varying natural signals.&lt;/p&gt;
+&lt;p&gt;Another clear emerging need is in growing deep learning architectures with the size of the problem at hand, suggesting that such architectures should map well to custom hardware platforms. The latter oer much better performance than that achievable using CPUs or even GPUs. Analog computation is a unique potential solution to the scalability challenge offering the benefits of low power consumption and smaller physical size when compared to digital implementations. However, these benefits come with the consequence of inaccurate computations and noise.&lt;/p&gt;
+&lt;p&gt;This work presents an enhanced formulation of DeSTIN - a Deep Spatio-Temporal Inference Network (DeSTIN) that is inherently designed to capture both spatial and temporal dependencies in the data provided. The regular structure of DeSTIN, its computational requirements, and local connectivity render it hardware-efficient and highly scalable. Implementation of DeSTIN using analog computation is studied in detail, where the architectural robustness to various distortions in its signals is demonstrated. To the best of our knowledge, this is the first time custom analog hardware has been developed for deep machine learning. Key enhancements to previous formulations of DeSTIN are discussed in detail and results on standard benchmarks are presented. This work helps pave the way for advancing deep learning to address some of the long-standing challenges in machine learning.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3210</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4385&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3210</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4385</articleid>
+<submission-date>2014-10-09T20:13:10-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6224792</context-key>
+<submission-path>utk_graddiss/3210</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Jeremy Holleman, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Virtual Modeling and Verification of Air-Ride Truck Seat using Multibody Dynamics for Whole Body Vibration Evaluation</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shende</lname>
+<fname>Devdutt</fname>
+<mname>Nandkishore</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;To aid the tuning and optimization of the truck seat design to specific trucks and road profiles during the design phase, this study presents the development and validation of a virtual seat model. This study also assess the utility of the model for whole body vibrations evaluation.&lt;/p&gt;
+&lt;p&gt;The virtual dynamic seat model was developed in MSC. ADAMS/VIEW. The critical elements like the suspension mechanism, the airspring, dampers and seat cushion were modeled using tested data. To validate the performance of the virtual model, prototype tests were performed using the MTS 6-axis simulator. The modeling process was targeted to achieve a good correlation between measured and simulated data around the 5Hz frequency zone.&lt;/p&gt;
+&lt;p&gt;For validation of the complete system, three test sessions were carried out. The first session collected the vibration data for validating the simulator model and the suitability of the data processing methods used. The second, collected the force-displacement data for the airspring modeling. The third test session involved the testing of the entire seat and simulator system.&lt;/p&gt;
+&lt;p&gt;Validation of the virtual model is based on comparison of the tested and simulated data. The results are presented for steady-state sinusoidal inputs in the range 1,5 and 8Hz and also random inputs of 0.5-20Hz. Analysis of the whole body vibration evaluation parameters like peaks, crest factor, rms, rmq (root-mean-quad), VDV (vibration dose value) and eVDV (estimated VDV) is also included.&lt;/p&gt;
+&lt;p&gt;The results obtained in this study indicate that the virtual model is able to reproduce the vibration behavior of the prototype fairly accurately in the 5Hz target region. With higher frequencies, the results shown that the model is not able to capture the nonlinearities observed in the prototype’s response. The model, however, did exhibit its ability to predict the behavioral trends in the seat response which can prove to be very beneficial for seat design. Based on the level of agreement between the tested and simulated values for the whole body vibration parameters, the use of this model for whole body vibration evaluations looks promising.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/232</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1264&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>232</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1264</articleid>
+<submission-date>2010-02-10T10:36:05-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1139178</context-key>
+<submission-path>utk_gradthes/232</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Wasserman</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. A. M. Boulet, John D. Landes</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/ShendeDevdutt.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

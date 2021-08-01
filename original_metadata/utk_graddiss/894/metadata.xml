@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptive Voltage Control Methods using Distributed Energy Resources</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hli26@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Huijuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ancillary services</keyword>
+<keyword>distributed energy resources</keyword>
+<keyword>inverter control</keyword>
+<keyword>reactive power</keyword>
+<keyword>voltage control</keyword>
+<keyword>distributed generators</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Distributed energy resources (DE) with power electronics interfaces and logic control using local measurements are capable of providing reactive power related to ancillary system services. In particular, local voltage regulation has drawn much attention in regards to power system reliability and voltage stability, especially from past major cascading outages. This dissertation addresses the challenges of controlling the DEs to regulate the local voltage in distribution systems.&lt;/p&gt;
+&lt;p&gt;First, an adaptive voltage control method has been proposed to dynamically modify the control parameters of a single DE to respond to system changes such that the ideal response can be achieved. Theoretical analysis shows that a corresponding formulation of the dynamic control parameters exists; hence, the adaptive control method is theoretically solid. Also, the field experiment test results at the Distributed Energy Communications and Controls (DECC) Laboratory in single DE regulation case confirm the effectiveness of this method.&lt;/p&gt;
+&lt;p&gt;Then, control methods have been discussed in the case of multiple DEs regulating voltages considering the availability of communications among all the DEs. When communications are readily available, a method is proposed to directly calculate the needed adaptive change of the DE control parameters in order to achieve the ideal response. When there is no communication available, an approach to adaptively and incrementally adjust the control parameters based on the local voltage changes is proposed. Since the impact from other DEs is implicitly considered in this approach, multiple DEs can collectively regulate voltages closely following the ideal response curve. Simulation results show that each method, with or without communications, can satisfy the fast response requirement for operational use without causing oscillation, inefficiency or system equipment interference, although the case with communication can perform even faster and more accurate.&lt;/p&gt;
+&lt;p&gt;Since the proposed adaptive voltage regulation method in the case of multiple DEs without communication, has a high tolerance to real-time data shortage and can still provide good enough performance, it is more suitable for broad utility applications. The approach of multiple DEs with communication can be considered as a high-end solution, which gives faster and more precise results at a higher cost&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/894</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2003&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>894</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2003</articleid>
+<submission-date>2010-11-08T19:14:30-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2003/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1635144</context-key>
+<submission-path>utk_graddiss/894</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Yilu Liu, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

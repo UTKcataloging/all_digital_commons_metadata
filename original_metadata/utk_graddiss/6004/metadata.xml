@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Low-power switched capacitor voltage reference</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Chen</lname>
+<fname>Suheng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Electrical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;Low-power analog design represents a developing technological trend as it emerges from a rather limited range of applications to a much wider arena affecting mainstream market segments. It especially affects portable electronics with respect to battery life, performance, and physical size. Meanwhile, low-power analog design enables technologies such as sensor networks and RFID. Research opportunities abound to exploit the potential of low power analog design, apply low-power to established fields, and explore new applications. The goal of this effort is to design a low-power reference circuit that delivers an accurate reference with very minimal power consumption. The circuit and device level low-power design techniques are suitable for a wide range of applications. To meet this goal, switched capacitor bandgap architecture was chosen. It is the most suitable for developing a systematic, and groundup, low-power design approach. In addition, the low-power analog cell library developed would facilitate building a more complex low-power system. A low-power switched capacitor bandgap was designed, fabricated, and fully tested. The bandgap generates a stable 0.6-V reference voltage, in both the discrete-time and continuous-time domain. The system was thoroughly tested and individual building blocks were characterized. The reference voltage is temperature stable, with less than a 100 ppm/°C drift, over a --60 dB power supply rejection, and below a 1 [Mu]A total supply current (excluding optional track-and-hold). Besides using it as a voltage reference, potential applications are also described using derivatives of this switched capacitor bandgap, specifically supply supervisory and on-chip thermal regulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6004</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7937&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6004</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7937</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467681</context-key>
+<submission-path>utk_graddiss/6004</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Complexity and Causality Analysis of Scalp EEG for Detection of Cognitive Deficits</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jmcbrid4@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>McBride</lname>
+<fname>Joseph</fname>
+<mname>Curtis</mname>
+</author>
+</authors>
+<keywords>
+<keyword>EEG</keyword>
+<keyword>causality</keyword>
+<keyword>complexity</keyword>
+<keyword>mild cognitive impairment</keyword>
+<keyword>Alzheimer&#39;s disease</keyword>
+<keyword>traumatic brain injury</keyword>
+</keywords>
+<disciplines><discipline>Bioelectrical and Neuroengineering</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation explores the potential of scalp electroencephalography (EEG) for the detection and evaluation of neurological deficits due to moderate/severe traumatic brain injury (TBI), mild cognitive impairment (MCI), and early Alzheimer’s disease (AD). Neurological disorders often cannot be accurately diagnosed without the use of advanced imaging modalities such as computed tomography (CT), magnetic resonance imaging (MRI), and positron emission tomography (PET). Non-quantitative task-based examinations are also used. None of these techniques, however, are typically performed in the primary care setting. Furthermore, the time and expense involved often deters physicians from performing them, leading to potential worse prognoses for patients.&lt;/p&gt;
+&lt;p&gt;If feasible, screening for cognitive deficits using scalp EEG would provide a fast, inexpensive, and less invasive alternative for evaluation of TBI post injury and detection of MCI and early AD. In this work various measures of EEG complexity and causality are explored as means of detecting cognitive deficits. Complexity measures include eventrelated Tsallis entropy, multiscale entropy, inter-regional transfer entropy delays, and regional variation in common spectral features, and graphical analysis of EEG inter-channel coherence. Causality analysis based on nonlinear state space reconstruction is explored in case studies of intensive care unit (ICU) signal reconstruction and detection of cognitive deficits via EEG reconstruction models. Significant contributions in this work include: (1) innovative entropy-based methods for analyzing event-related EEG data; (2) recommendations regarding differences in MCI/AD of common spectral and complexity features for different scalp regions and protocol conditions; (3) development of novel artificial neural network techniques for multivariate signal reconstruction; and (4) novel EEG biomarkers for detection of dementia.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2713</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3992&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2713</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3992</articleid>
+<submission-date>2014-02-16T08:54:41-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3992/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5136972</context-key>
+<submission-path>utk_graddiss/2713</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaopeng Zhao</value>
+</field>
+<field name="advisor2" type="string">
+<value>J.A.M. Boulet, Jeffrey Reinbolt, William Hamel, Adam Petrie, Kristin King</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

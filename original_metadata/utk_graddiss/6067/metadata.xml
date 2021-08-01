@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling User-Affected Software Properties for Open Source Software Supply Chains</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tdey2@vols.utk.edu</email>
+<lname>Dey</lname>
+<fname>Tapajit</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Empirical Software Engineering</keyword>
+<keyword>Open Source Software</keyword>
+<keyword>Software Users</keyword>
+<keyword>Predictive Models</keyword>
+<keyword>Software Engineering</keyword>
+</keywords>
+<disciplines><discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Background: Open Source Software development community relies heavily on users of the software and contributors outside of the core developers to produce top-quality software and provide long-term support. However, the relationship between a software and its contributors in terms of exactly how they are related through dependencies and how the users of a software affect many of its properties are not very well understood.&lt;/p&gt;
+&lt;p&gt;Aim: My research covers a number of aspects related to answering the overarching question of modeling the software properties affected by users and the supply chain structure of software ecosystems, viz. 1) Understanding how software usage affect its perceived quality; 2) Estimating the effects of indirect usage (e.g. dependent packages) on software popularity; 3) Investigating the patch submission and issue creation patterns of external contributors; 4) Examining how the patch acceptance probability is related to the contributors&#39; characteristics. 5) A related topic, the identification of bots that commit code, aimed at improving the accuracy of these and other similar studies was also investigated.&lt;/p&gt;
+&lt;p&gt;Methodology: Most of the Research Questions are addressed by studying the NPM ecosystem, with data from various sources like the World of Code, GHTorrent, and the GiHub API. Different supervised and unsupervised machine learning models, including Regression, Random Forest, Bayesian Networks, and clustering, were used to answer appropriate questions.&lt;/p&gt;
+&lt;p&gt;Results: 1) Software usage affects its perceived quality even after accounting for code complexity measures. 2) The number of dependents and dependencies of a software were observed to be able to predict the change in its popularity with good accuracy. 3) Users interact (contribute issues or patches) primarily with their direct dependencies, and rarely with transitive dependencies. 4) A user&#39;s earlier interaction with the repository to which they are contributing a patch, and their familiarity with related topics were important predictors impacting the chance of a pull request getting accepted. 5) Developed BIMAN, a systematic methodology for identifying bots.&lt;/p&gt;
+&lt;p&gt;Conclusion: Different aspects of how users and their characteristics affect different software properties were analyzed, which should lead to a better understanding of the complex interaction between software developers and users/ contributors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6067</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7345&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6067</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7345</articleid>
+<submission-date>2020-08-17T09:20:04-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18964589</context-key>
+<submission-path>utk_graddiss/6067</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Audris Mockus</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Austin Henley, Russell Zaretzki</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;0000-0002-1379-8539&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

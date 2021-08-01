@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improving the Analysis of T Cell Movement</title>
+<publication-date>2018-05-16T14:56:57-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>vzenkov@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zenkov</lname>
+<fname>Viktor</fname>
+</author>
+</authors>
+<disciplines><discipline>Microbiology</discipline>
+</disciplines><abstract>&lt;p&gt;Vaccine-induced T cells play an important role in combating malaria by eliminating infection in the liver stage. However, as millions of hepatocytes inhabit a mouse liver and only some are infected, how T cells locate the infection site and eliminate infection remains poorly understood. Are T cells moving intentionally toward parasites, or randomly successful? To answer this, I used timed position data of malaria-specific T cells, non-specific control T cells, and a parasite, obtained from experiments in a mouse liver; I performed analyses with the null hypothesis that T cells move randomly. I used two metrics, based on distances from the parasite and turning angles. The tests performed with these metrics did not suggest the same conclusions. Investigating this inconsistency, I calculated the probability of a cell getting closer to the parasite as viewed from the distance metric, which turned out less than the assumed 50 percent. With this discovery, I improved the null hypothesis&#39; distribution. Applying this improvement to the original tests, the distance metric&#39;s test results more resembled the angle metric&#39;s. This development regarding the definition of random movement gets us one step closer to accurately analyzing cell position data and understanding T cell movement.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2018/engineering/1</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1209&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1209</articleid>
+<submission-date>2018-05-05T12:32:21-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>12078183</context-key>
+<submission-path>utk_eureca/2018/engineering/1</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering and Computer Science</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Vitaly Ganusov</value>
+</field>
+<field name="year" type="date">
+<value>2018-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

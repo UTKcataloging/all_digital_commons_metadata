@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sketchmate: A digital drawing tool for the splay tree data structure</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Orsega</lname>
+<fname>Michael</fname>
+<mname>Cajetan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer science</keyword>
+</keywords>
+<abstract>&lt;p&gt;When discussing complex concepts, people often draw pictures to provide concrete representations of these ideas. Instructors use images to reinforce information when teaching abstract concepts. Computer programs can be used to help present these ideas and provide added benefits. This dissertation explores the creation of such a computer program and the lessons learned during the development process. We chose to focus on the splay tree data structure and report the many details we learned during development. Our findings are useful for others creating teaching tools in other domains. Currently there are a variety of existing programs for splay tree instruction, however, these tools lack functionality. We designed Sketchmate to add more functionality and present it as two different programs: an instructor version and a student version.The instructor&#39;s version gives users the ability to create specific tree configurations and provides a history mechanism to revert the tree to a previous state. The student version presents two different types of splay-tree exercises. One type allows students to manipulate individual nodes through drag and drop operations. The second exercise type allows students to click buttons to demonstrate higher level operations. Both versions employ a novel algorithm to lay out tree nodes to maximize screen space. Additionally, both make use of smooth animation between the algorithm steps, providing context for the user. We conducted a series of experiments with each version to measure the usefulness and ease of use for Sketchmate. Results from tests with the instructor&#39;s tool suggest users can prepare and demonstrate more examples using Sketchmate and those examples are more accurate than with pencil and paper.Experiments with the student&#39;s tool suggest students working example problems enjoy using Sketchmate more than pencil and paper. Also, students using Sketchmate with feedback complete their exercises quicker and still perform just as well on follow up quizzes, suggesting that they learned just as much, with less time spent with the material. These results form the basis for concluding that Sketchmate should prove useful as a possible learning tool for teaching splay trees, both for instructors during algorithm presentation and for students working exercises.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5989</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7922&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5989</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7922</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467619</context-key>
+<submission-path>utk_graddiss/5989</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bradley T. Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

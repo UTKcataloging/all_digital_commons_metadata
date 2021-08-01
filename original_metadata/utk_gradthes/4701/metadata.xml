@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Design of Medium Access Control (MAC) Protocols for Energy Efficient and QoS Provision in Wireless Sensor Networks</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Liu</lname>
+<fname>Yang</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis work focuses on innovative design of media access control (MAC) protocols in wireless sensor networks (WNSs). The characteristics of the WSN inquire that the network service design considers both energy efficiency and the associated application requirement. However, most existing protocols address only the issue of energy efficiency.&lt;/p&gt;
+&lt;p&gt;In this thesis, a MAC protocol has been proposed (referred to as Q-MAC) that not only minimized the energy consumption in multi-hop WSNs, but also provides Quality of Service (QoS) by differentiating network services based on priority levels prescribed by different applications. The priority levels reflect the state of system resources including residual energy and queue occupancies. Q-MAC contains both intra- and inter- node arbitration mechanisms. The intra-node packet scheduling employs a multiple queuing architectures, and applies a scheduling scheme consisting of packet classification and weighted arbitration. We introduce the &lt;em&gt;Power Conservation MACAW (PC-MACAW)&lt;/em&gt;, a power-aware scheduling mechanism which, together with the &lt;em&gt;Loosely Prioritized Random Access (LPRA)&lt;/em&gt; algorithm, govern the inter-node scheduling. Performance evaluation are conducted between Q-MAC and S-MAC with respect to two performance metrics: energy consumption and average latency. Simulation results indicate Q-MAC achieves comparable performance to that of S-MAC in non-prioritized traffic scenarios. When packets with different priorities are introduced, Q-MAC yields noticeable average latency differentiations between the classes of service, while preserving the same degree of energy consumption as that of S-MAC.&lt;/p&gt;
+&lt;p&gt;Since the high density nature of WSN may introduce heavy traffic load and thus consume large amount of energy for communication, another MAC protocol, referred to as the Deployment-oriented MAC (D-MAC)has been further proposed. D-MAC minimalizes both sensing and communication redundancy by putting majority of redundant nodes into the sleep state. The idea is to establish a sensing and communication backbone covering the whole sensing field with the least sensing and communication redundancy. In specific, we use equal-size rectangular cells to partition the sensing field and chose the size of each cell in a way such that regardless of the actual location within the cell, a node can always sense the whole cell and communicate with all the nodes in neighboring cells. Once the sensing field has been partitioned using these cells, a localized Location-aware Selection Algorithm (LSA) is carried out to pick up only one node within each cell to be active for a fixed amount of period. This selection is energy-oriented, only nodes with a maximum energy will be on and the rest of nodes will be put into the sleep state once the selection process is over. To balance the energy consumption, the selection algorithm is periodically conducted until all the nodes are out of power. Simulation results indicated that D-MAC saves around 80% energy compared to that of S-MAC and Q-MAC, while maintaining 99% coverage. D-MAC is also superior to S-MAC and Q-MAC in terms of average latency. However, the use of GPS in D-MAC in identifying the nodes within the same cell, would cause extra cost and complexity for the design of sensor nodes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4701</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6276&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4701</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6276</articleid>
+<submission-date>2017-08-16T05:13:22-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10607747</context-key>
+<submission-path>utk_gradthes/4701</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Elhanany, Gregory Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

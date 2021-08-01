@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Simulation of Mass Transport and Energy Transfer in the Microbial Fuel Cell System</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sou@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ou</lname>
+<fname>Shiqi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computational analysis</keyword>
+<keyword>Microbial fuel cell</keyword>
+<keyword>Energy transfer</keyword>
+<keyword>Biofilm</keyword>
+<keyword>Electrochemical</keyword>
+<keyword>Buffer system</keyword>
+</keywords>
+<disciplines><discipline>Catalysis and Reaction Engineering</discipline>
+<discipline>Energy Systems</discipline>
+<discipline>Numerical Analysis and Computation</discipline>
+<discipline>Transport Phenomena</discipline>
+</disciplines><abstract>&lt;p&gt;This doctoral dissertation introduces the research in the computational modeling and simulation for the microbial fuel cell (MFC) system which is a bio-electrochemical system that drives a current by using bacteria and mimicking bacterial interactions found in nature. The numerical methods, research approaches and simulation comparison with the experiments in the microbial fuel cells are described; the analysis and evaluation for the model methods and results that I have achieved are presented in this dissertation.&lt;/p&gt;
+&lt;p&gt;The development of the renewable energy has been a hot topic, and scientists have been focusing on the microbial fuel cell, which is an environmentally-friendly and promising technology. The MFC full cell is a complex system which has different reactions, coupled with mass and electrons transport in bulk liquid. Therefore, this research contains interdisciplinary fields. The methods will be adopted includes: (1) numerical methods (finite volume method/finite difference method/ parallel computation/ multiple step times etc.); (2) computational fluid dynamics method (diffusion equation, Nernst-Planck equation etc.); (3) experimental electrochemical analysis methods; (4) the biological treatment process (biofilm growth, anaerobic/aerobic bacteria etc.). The uniqueness of this work: (1) a comprehensive computational bioelectrochemical fuel cell models was firstly constructed in the research; (2) the primary physical phenomena have been systematically analyzed in both steady and transient states; (3) The simulation evaluated the MFC system which are hardly obtained directly in the experiments. The computational work in MFC modeling achieved four goals: (1) Characterized the primary factors which affect the MFC performance and used them to describe a complex microbial fuel cell model; (2) Derived a series of appropriate electrochemical /biological /chemical reactions equations for the analysis of the mechanics in MFC; (3) Applied computational methods in the model construction and built a series of sub-models for the MFC system; (4) Simulated the models and compared with the experimental results, gave the analysis for the MFC phenomena which are used for optimizing the design of the MFC system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3598</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4986&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3598</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4986</articleid>
+<submission-date>2015-09-29T06:10:03-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4986/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7652763</context-key>
+<submission-path>utk_graddiss/3598</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Matthew M. Mench</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Feng-Yuan Zhang, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

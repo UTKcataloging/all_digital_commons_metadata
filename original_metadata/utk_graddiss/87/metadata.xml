@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Novel Frequency Based Current-to-Digital Converter with Programmable Dynamic Range</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yu</lname>
+<fname>Xiaoyan</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;This work describes a novel frequency based Current to Digital converter, which would be fully realizable on a single chip.&lt;/p&gt;
+&lt;p&gt;Biological systems make use of delay line techniques to compute many things critical to the life of an animal. Seeking to build up such a system, we are adapting the auditory localization circuit found in barn owls to detect and compute the magnitude of an input current.&lt;/p&gt;
+&lt;p&gt;The increasing drive to produce ultra low-power circuits necessitates the use of very small currents. Frequently these currents need to accurately measured, but current solutions typically involve off-chip measurements. These are usually slow, and moving a current off chip increases noise to the system. Moving a system such as this completely on chip will allow for precise measurement and control of bias currents, and it will allow for better compensation of some common transistor mismatch issues.&lt;/p&gt;
+&lt;p&gt;This project affords an extremely low power (100s nW) converter technology that is also very space efficient. The converter is completely asynchronous which yields ultra-low power standby operation [1].&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/87</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1117&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>87</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1117</articleid>
+<submission-date>2009-12-23T12:09:37-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098949</context-key>
+<submission-path>utk_graddiss/87</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ethan Farquhar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ben Blalock, Syed Islam, Suzanne Lenhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

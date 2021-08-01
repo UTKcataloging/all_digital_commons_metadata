@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Questing for the Grail: Core Collapse Supernova Simulations With  Boltzmann Neutrino Transport</title>
+<publication-date>2000-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Messer</lname>
+<fname>Otis</fname>
+<mname>Earl</mname>
+</author>
+</authors>
+<disciplines><discipline>Physics</discipline>
+</disciplines><abstract>&lt;p&gt;The importance of exact neutrino transport in spherically symmetric core collapse supernova simulations is explored in this dissertation. The primary tool for these studies is the neutrino radiation hydrodynamics code AGILE-BOLTZTRAN (Mezzacappa &amp; Bruenn 1993a,b,c; Mezzacappa &amp; Messer 1998; Liebendörfer 2000). AGILE-BOLTZTRAN couples the solution of the Boltzmann equation for all three flavors of neutrinos and antineutrinos to a one-dimensional, implicit, adaptive grid hydrodynamics code. Emission, absorption, and scattering of neutrinos from nucleons and nuclei, neutrino-electron scattering, and pair production and annihilation are included as neutrino-matter couplings. Details of the code are described, including the equations solved and their finite difference representations. The radiation transport algorithm is also subjected to a suite of test problems.&lt;/p&gt;
+&lt;p&gt;Marked differences in neutrino observables computed with AGILE-BOLTZTRAN compared to a sophisticated approximate method (MGFLD) are seen in stationary state transport simulations in typical postbounce environments. Neutrino heating rates are seen to differ by as much as a factor of two between the transport methods. These differences are the result of small changes in neutrino RMS energies, coupled to larger differences in neutrino luminosity and isotropy.&lt;/p&gt;
+&lt;p&gt;Collapse simulations comparing two 15&lt;em&gt;M&lt;/em&gt;&lt;sub&gt;⊙&lt;/sub&gt;progenitor models with small differences in initial Y&lt;sub&gt;e&lt;/sub&gt;(Woosley &amp; Weaver 1995; Heger et al. 2000) exhibit no differences in Y&lt;sub&gt;e &lt;/sub&gt;at bounce, and, consequently, no difference in homologous core mass or postbounce evolution.&lt;/p&gt;
+&lt;p&gt;Simulations of core collapse, rebound, and shock propogation for 15&lt;em&gt;M&lt;/em&gt;&lt;sub&gt;⊙&lt;/sub&gt;and 20&lt;em&gt;M&lt;/em&gt;&lt;sub&gt;⊙&lt;/sub&gt;progenitor models of Nomoto &amp; Hashimoto (1988) fail to produce explosions. In both cases, the shock stalls at ≈ 200 km, then recedes for several hundred milliseconds. The covergence of all the dynamic results highlights the need for further studies of a wide range of models and the need for improved microphysics in AGILE-BOLTZTRAN. There exists a continued need for exact neutrino transport simulations in order to unequivocally establish the nature of the supernova explosion mechanism and to obtain accurate neutrino data for nucleosynthesis calculations and neutrino signature predictions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2018</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3452&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2018</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3452</articleid>
+<submission-date>2013-09-24T10:26:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4617783</context-key>
+<submission-path>utk_graddiss/2018</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Anthony Mezzacappa</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Strayer, Michael Guidry, Jack Dongarra</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2000-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

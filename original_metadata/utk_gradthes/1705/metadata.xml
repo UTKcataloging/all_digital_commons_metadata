@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Development of a Capacitance-Based Biotelemetry System for Implantable Applications</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Calum</fname>
+<mname>John</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Most modern biomedical implants implement some form of communications link between the implant and the outside world. This biotelemetry link has many requirements such as data bandwidth and power consumption. Designing an appropriate link that meets these requirements is one of the most significant engineering challenges associated with these implants. Communications methods that are currently used for this link include standard Radio Frequency (RF) approaches, inductively coupled approaches, and load modulation approaches. This thesis describes the development of a unique capacitance-based biotelemetry system for implantable applications. This system consists of two distinct parts: the implanted transmitter and the external body-mounted receiver. The prototype transmitter is based on a custom Application Specific Integrated Circuit (ASIC) fabricated using the AMI 1.5µ process. This ASIC encodes and transmits predetermined data packets by driving two electrodes in a slew-controlled manner, all contained within a biocompatible material. The receiver consists of charge-sensitive amplifier front end using a discriminator to distinguish individual bits. A Field Programmable Gate Array (FPGA) decodes the transmitted data and relays it to a PC- based LabVIEW interface. Test results using a saline-based human tissue model are presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1705</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3053&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1705</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3053</articleid>
+<submission-date>2013-08-12T12:38:44-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4424687</context-key>
+<submission-path>utk_gradthes/1705</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, M. Nance Ericson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

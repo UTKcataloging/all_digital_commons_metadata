@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Genetic Algorithm Based Design and Optimization Methodology of a 3D Printed Power Module Packaging</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>twu11@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Wu</lname>
+<fname>Tong</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Power electronics design is an interdisciplinary research. Enhancing power density became more and more critical to the converter system-level design. Within a power electronics converter, two major components, i.e. cooling system and passive components, dominate overall power density. As stated in Liebig&#39;s barrel theory, the overall performance of a power converter is limited by the &quot;shortest board&quot;. For a high-power density converter design, considerations should not only focus on the electrical domain but also on the packaging design, including thermal domain, parasitic domain, semiconductor property, reliability and other aspects.Design of power module packaging is the key to achieve the high-power density goal since it covers most of the interdisciplinary design domains. As an integration solution, it provides the physical containment of multiple semiconductor devices, with pre-layout sintered on substrates, covered by electrical encapsulation and mounted on the cooling system. Impacts brought by the power semiconductor technology, especially with the use of wide band gap power devices have shown significant improvements in power density. Ideally, features such as higher switching frequency, the higher operating temperature could lead to a more volumetrically efficient module design. However, the conventional packaging design methods are not keeping the pace with the semiconductor development and posing challenges for new technology realization.In this dissertation, the multi-objective optimization algorithm based on genetic algorithm (GA) is constructed. Finite element analysis (FEA) based evaluation is embedded in the algorithm through the co-simulation interface to ensure the accuracy. Three major targets, i.e. thermal performance, parasitic inductance and operating points, are being optimized. While the GA generates a population of design candidates in each iteration, a sequence of evaluations is proceeded and assign the fitness value to each candidate. With an approach that follows the rule &quot;survival of the fittest&quot;, this optimization process evolves automatically based on the &quot;learned&quot; design strategies of the previous generations. This process can converge within a short time and leads to a superior performance compared to the conventional design power modules. Due to the potential complexity of the optimized result, 3D printing with complexity free property is used for constructing prototypes packaging.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5255</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6799&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5255</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6799</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342751</context-key>
+<submission-path>utk_graddiss/5255</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Burak Ozpineci</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel Costinett, Leon. M. Tolbert, Andrew. A. Wereszczak</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

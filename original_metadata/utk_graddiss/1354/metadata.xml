@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Novel Imaging System for Automatic Real-Time 3D Patient-Specific Knee Model Reconstruction Using Ultrasound RF Data</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rtadross@utk.edu</email>
+<lname>Tadross</lname>
+<fname>Rimon</fname>
+<mname>Adel Messiha</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Ultrasound</keyword>
+<keyword>Knee</keyword>
+<keyword>Reconstruction</keyword>
+<keyword>Bone Morphing</keyword>
+<keyword>RF Data</keyword>
+<keyword>Injection</keyword>
+</keywords>
+<disciplines><discipline>Bioimaging and Biomedical Optics</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Systems and Integrative Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation introduces a novel imaging method and system for automatic real-time 3D patient-specific knee model reconstruction using ultrasound RF data. The developed method uses ultrasound to transcutaneously digitize a point cloud representing the bone’s surface. This point cloud is then used to reconstruct 3D bone model using deformable models method.&lt;/p&gt;
+&lt;p&gt;In this work, three systems were developed for 3D knee bone model reconstruction using ultrasound RF data. The first system uses tracked single-element ultrasound transducer, and was experimented on 12 knee phantoms. An average reconstruction accuracy of 0.98 mm was obtained. The second system was developed using an ultrasound machine which provide real-time access to the ultrasound RF data, and was experimented on 2 cadaveric distal femurs, and proximal tibia. An average reconstruction accuracy of 0.976 mm was achieved. The third system was developed as an extension of the second system, and was used for clinical study of the developed system further assess its accuracy and repeatability. A knee scanning protocol was developed to scan the different articular surfaces of the knee bones to reconstruct 3D model of the bone without the need for bone-implanted motion tracking reference probes. The clinical study was performed on 6 volunteers’ knees. Average reconstruction accuracy of 0.88 mm was achieved with 93.5% repeatability.&lt;/p&gt;
+&lt;p&gt;Three extensions to the developed system were investigated for future work. The first extension is 3D knee injection guidance system. A prototype for the 3D injection guidance system was developed to demonstrate the feasibility of the idea. The second extension in a knee kinematics tracking system using A-mode ultrasound. A simulation framework was developed to study the feasibility of the idea, and to find the best number of single-element ultrasound transducers and their spatial distribution that yield the highest kinematics tracking accuracy. The third extension is 3D cartilage model reconstruction. A preliminary method for cartilage echo detection from ultrasound RF data was developed, and experimented on the distal femur scans of one of the clinical study’s volunteers to reconstruct a 3D point cloud for the cartilage.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1354</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2541&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1354</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2541</articleid>
+<submission-date>2012-04-11T07:03:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2755609</context-key>
+<submission-path>utk_graddiss/1354</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard D. Komistek, William R. Hamel, Aly E. Fathy, and Ray C. Wasielewski (Courtesy Member)</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

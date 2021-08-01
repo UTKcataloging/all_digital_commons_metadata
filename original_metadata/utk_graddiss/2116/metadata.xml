@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High-Temperature, High-Resolution A/D Conversion Using 2nd- and 4th-Order Cascaded ΣΔ Modulation in 3.3-V 0.5μm SOS-CMOS</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ericson</lname>
+<fname>M.</fname>
+<mname>Nance</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Sigma Delta Modulation is an oversampling technique commonly used in high-resolution analog-to-digital conversion. By employing oversampling and quantization noise shaping, the method allows very high-resolution conversion using low-resolution functional blocks. A multitude of architectural variations of this oversampled class of digitizers has been explored and reported in research literature for a wide variety of applications including seismic imaging, general low-bandwidth high-resolution instrumentation, audio conversion, and most recently high-speed communications.&lt;/p&gt;
+&lt;p&gt;Data conversion associated with seismic imaging has been recently dominated by this class of converters, though all data acquisition systems require environmental control, preventing placement of the digitizing electronics down-hole. The potential improvement in seismic imaging system performance afforded by down-hole placement of electronics is very significant. The use of sensor-localized data collection nodes will provide the optimal sensor interface, both in terms of connectivity and noise, and allow distributed parallel collection and processing of sensor signals. The use of spread spectrum communications methods for up-hole data transmission significantly increases the data integrity and potential throughput. However, in order to realize this improved system partitioning, the highresolution data converters must be designed to meet operational specifications at elevated temperatures.&lt;/p&gt;
+&lt;p&gt;This research addresses the issue of high-resolution data conversion at elevated temperatures, with an emphasis on applicability to down-hole seismic imaging. Sigma delta modulation methods are employed and the theoretical best topology selected for imple mentation. Variations in target integrated circuit processes are considered and the most appropriate process for high-temperature implementation employed. A prototype sigma delta ADC was designed, fabricated, and fully characterized over temperature. The results of this research provides the first high-resolution digitizing front-end suitable for downhole seismic imaging applications and lays the foundation for future high-temperature ADC research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2116</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3563&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2116</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3563</articleid>
+<submission-date>2013-10-01T12:32:48-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4653386</context-key>
+<submission-path>utk_graddiss/2116</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James M. Rochelle</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, Jr., Benjamin J. Blalock, Donald W. Bouldin, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

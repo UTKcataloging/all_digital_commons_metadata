@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Applied Statistical Reliability Analysis of the Internal Bond of Medium Density Fiberboard</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Edwards</lname>
+<fname>David</fname>
+<mname>Joesph</mname>
+</author>
+</authors>
+<disciplines><discipline>Biostatistics</discipline>
+</disciplines><abstract>&lt;p&gt;The forest products industry has seen tremendous growth in recent years and has a huge impact on the economies of many countries. For example, in the state of Maine in 1997, the forest products industry accounted for 9 billion U.S. dollars for that year. In the state of Tennessee, for example in 2000, this figure was 22 billion U.S. dollars for that year. It has, therefore, become more important in this industry to focus on production higher quality products. Statistical reliability methods, among other techniques, have been employed to help monitor and improve the quality of forest products. With such a large focus on quality improvement, data is quite plentiful, allowing for more useful analyses and examples.&lt;/p&gt;
+&lt;p&gt;In this thesis, we demonstrate the usefulness of statistical reliability tools and apply them to help assess, manage, and improve the internal bond (IB) of medium density fiberboard (MDF). MDF is a high quality engineered wood composite that undergoes destructive testing during production. Workers can test cross sections of MDF panels and measure the IB in pounds per square inches. IB is a key metric of quality since it provides a direct measurement for the strength of MDF, which is important to customers and the manufacturers.&lt;/p&gt;
+&lt;p&gt;Graphical procedures such as histograms, scatter plots, probability plots, and survival curves are explored to help the practitioner gain insights regarding the distributions of IB and strengths of different MDF product types. Much information can be revealed from a graphics approach.&lt;/p&gt;
+&lt;p&gt;Though useful, probability plots can be a subjective way to assess the parametric distribution of a data set. Insightful developments in information criteria, in particular Akaike’s Information Criteria and Bozdogan’s Information Complexity Criteria, have made probability plotting more objective by assigning numeric scores to each plot. The plot with the lowest score is deemed the best among competing models. In application to MDF, we will see that initial intuitions are not always confirmed. Therefore, information criteria prove to be useful tools for the practitioner seeking more clarity regarding distributional assumptions. We recommend more usage of these helpful information criteria.&lt;/p&gt;
+&lt;p&gt;Estimating lower percentiles in failure data analysis can provide valuable assistance to the practitioner for understanding product warranties and their costs. Since data may not be plentiful for the lower tails, estimation of these percentiles may not be an easy task. Indeed, we stress times to not even try to estimate the lowest percentiles. If samples are large and parametric assumptions are wear or not available, asymptotic approximations cam be utilized. However, unless the sample size is sufficiently large, such approximations will not be accurate.&lt;/p&gt;
+&lt;p&gt;Bootstrap techniques provide one solution for the estimation of lower percentiles when asymptotic approximations should not be utilized. This computer intensive resampling scheme provides a method for estimating the true sampling distribution of these percentiles, or any population parameter of interest. This can be used for various parametric models or for nonparametric settings, when the parametric model might be imperfect of misspecified. The empirical bootstrap distribution can then be used for inferences such as determining standard errors and constructing confidence intervals. Helpful applications of the bootstrap to the MDF data shows this procedure’s advantages and limitations in order to aid the practitioner in their decision-making. Graphics can readily warn the practitioner when even certain bootstrap procedures are not advisable.&lt;/p&gt;
+&lt;p&gt;To be able to say that improvements have been made, we must be able to measure reliability expressed in percentiles that allow for statistical variation. We need to make comparisons of these reliability measures between products and within products before and after process improvement interventions. Knowing when to trust confidence intervals and when not to trust them are crucial for managers and users of MDF to make successful decisions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4659</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6246&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4659</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6246</articleid>
+<submission-date>2017-08-02T08:48:51-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10530872</context-key>
+<submission-path>utk_gradthes/4659</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Frank Guess, Timothy Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Halima Bensmail</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

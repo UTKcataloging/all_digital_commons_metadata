@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of Losses in HID Electronic Ballast Using Silicon Carbide MOSFETs</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gopi Reddy</lname>
+<fname>Lakshmi</fname>
+<mname>Reddy</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;HID lamps are used in applications where high luminous intensity is desired. They are used in a wide range of applications from gymnasiums to movie theatres, from parking lots to indoor aquaria, from vehicle headlights to indoor gardening. They require ballasts during start-up and also during operation to regulate the voltage and current levels. Electronic ballasts have advantages of less weight, smooth operation, and less noisy over electromagnetic ballasts. A number of topologies are available for the electronic ballast where control of power electronic devices is exploited to achieve the performance of a ballast for lighting. A typical electronic ballast consists of a rectifier, power factor control unit, and the resonant converter unit. Power factor correction (PFC) was achieved using a boost converter topology and average current mode control for gate control of the boost MOSFET operating at a frequency of 70 kHz. The PFC was tested with Si and SiC MOSFET at 250 W resistive load for varying input from 90 V to 264 V. An efficiency as high as 97.4% was achieved by Si MOSFET based PFC unit. However, for SiC MOSFET, the efficiency decreased and was lower than expected. A maximum efficiency of 97.2% was achieved with the SiC based PFC. A simulation model was developed for both Si and SiC MOSFET based ballasts. The efficiency plots are presented. A faster gate drive for SiC MOSFET could improve the efficiency of the SiC based systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/137</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1169&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>137</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1169</articleid>
+<submission-date>2010-02-09T10:50:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1137530</context-key>
+<submission-path>utk_gradthes/137</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>S. K. Islam, J. S. Lawler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/GopiReddyLakshmi.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

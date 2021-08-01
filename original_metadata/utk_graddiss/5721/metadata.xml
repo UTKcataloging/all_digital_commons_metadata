@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Essays in Analytics and Econometrics</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>awilli69@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Williamson</lname>
+<fname>Amil</fname>
+</author>
+</authors>
+<keywords>
+<keyword>endogeneity</keyword>
+<keyword>GMM</keyword>
+<keyword>GAMM</keyword>
+<keyword>PQL</keyword>
+<keyword>penalization</keyword>
+<keyword>forecast combination</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation spans three distinct methodological contributions to the econometric and analytic modeling literature. The first chapter is motivated by the challenge of estimating the impact of a customized multi-treatment coupon campaigns on visit rates for a large panel across a two-year trial. Prior literature has highlighted the necessity for both detecting and mitigating the issue of endogeneity. In response, I first develop a novel robust Wald test for idiosyncratic endogeneity in the presence of individual heterogeneity and a time-varying endogenous regressor of restricted range for a nonlinear, unobserved effects model. Building on a prior working paper, I extend the results to tackle the identification of idiosyncratic endogeneity in the presence of time-constant endogeneity for unbalanced panels. I propose a two-stage estimation procedure that tests for positive covariance between time-varying unobservables and a time-varying, binary endogenous variable that completely controls for the latent, time-constant heterogeneity for count responses. Simulations suggest endogeneity detection for both unbalanced panels scenarios mirrors the balanced panel benchmark closely using metrics of rejection rates, nominal size, and statistical power given proper instrumental variables. A nonlinear, instrumental variables GMM procedure is proposed for parameter estimation given positive endogeneity detection. The second chapter studies the estimation of a nonlinear (generalized additive) mixed effects models for count data containing parametric factor smooths. These models are further extended to estimate Poisson responses generated from both stationary and non-stationary conditionally serially correlated AR (1) processes. Simulation studies are used to verify the accuracy of these models in a range of scenarios. The models are then applied to the problem of estimating a carryover effects of a promotional campaigns after promotions end. The final chapter seeks to extend the forecasting combination model of Granger and Ramanathan by approximating the optimal conditional mean solution with conditional quantiles. Useless forecasters at arbitrary quantiles of the response are discarded via a LASSO penalty. The final combination forecast outperforms the equal weight combination benchmark as well as a variety of other combination models in terms of out-of-sample predictive power and other significant performance metrics at the expense of marginally increased forecast variance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5721</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7487&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5721</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7487</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419582</context-key>
+<submission-path>utk_graddiss/5721</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Russell Zaretzki</value>
+</field>
+<field name="advisor2" type="string">
+<value>Haileab Hilafu, Mary Leitnaker, Luiz Lima</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

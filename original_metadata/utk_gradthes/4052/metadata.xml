@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Design and Validation of a Wireless Bat-Mounted Sonar Recording System</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jlangfo5@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Langford</lname>
+<fname>Jeremy</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<keywords>
+<keyword>embedded</keyword>
+<keyword>low power</keyword>
+<keyword>sonar</keyword>
+<keyword>ultrasonic</keyword>
+<keyword>ultrasound</keyword>
+<keyword>psoc</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Computer and Systems Architecture</discipline>
+<discipline>Digital Communications and Networking</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Scientists studying the behavior of bats monitor their echolocation calls, as their calls are important for navigation and feeding, but scientist are typically restricted to ground-based recording. Recording bat calls used for echolocation from the back of the bat as opposed to the ground offers the opportunity to study bat echolocation from a vantage otherwise only offered to the bats themselves. However, designing a bat mounted in-flight audio recording system, (bat-tag), capable of recording the ultra-sound used in bat echolocation presents a unique set of challenges. Chiefly, the bat-tag must be sufficiently light weight as to not overburden the bat, thus altering the bat’s behavior or causing harm to the bat itself. This thesis details the design and validation for the hardware and firmware of a wireless bat mounted ultrasonic recorder implemented using only commercial off the shelf parts.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4052</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5135&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4052</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5135</articleid>
+<submission-date>2016-02-26T14:37:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8226688</context-key>
+<submission-path>utk_gradthes/4052</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy H.  Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Gary McCracken</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

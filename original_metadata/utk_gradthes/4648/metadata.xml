@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parameterized Implementation of K-means Clustering on Reconfigurable Systems</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bhaskaran</lname>
+<fname>Venkatesh</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Processing power of pattern classification algorithms on conventional platforms has not been able to keep up with exponentially growing datasets. However, algorithms such as k-means clustering include significant potential parallelism that could be exploited to enhance processing speed on conventional platforms. A better and effective solution to speed-up the algorithm performance is the use of a hardware assist since parallel kernels can be partitioned and concurrently run on hardware as opposed to the sequential software flow. A parameterized hardware implementation of k-means clustering is presented as a proof of concept on the Pilchard Reconfigurable computing system. The hardware implementation is shown to have speedups of about 500 over conventional implementations on a general-purpose processor. A scalability analysis is done to provide a future direction to take the  current implementation of 3 classes and scale it to over N classes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4648</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6257&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4648</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6257</articleid>
+<submission-date>2017-08-02T10:38:58-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10531802</context-key>
+<submission-path>utk_gradthes/4648</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Hairong Qi, Chandra Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Preemption-Based Meta-Scheduling System for Distributed Computing</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Vadhiyar</lname>
+<fname>Sathish</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This research aims at designing and building a scheduling framework for distributed computing systems with the primary objectives of providing fast response times to the users, delivering high system throughput and accommodating maximum number of applications into the systems. The author claims that the above mentioned objectives are the most important objectives for scheduling in recent distributed computing systems, especially Grid computing environments.&lt;/p&gt;
+&lt;p&gt;In order to achieve the objectives of the scheduling framework, the scheduler employs arbitration of application-level schedules and preemption of executing jobs under certain conditions. In application-level scheduling, the user develops a schedule for his application using an execution model that simulates the execution behavior of the application. Since application-level scheduling can seriously impede the performance of the system, the scheduling framework developed in this research arbitrates between different application-level schedules corresponding to different applications to provide fair system usage for all applications and balance the interests of different applications. In this sense, the scheduling framework is not a classical scheduling system, but a &lt;em&gt;meta-scheduling &lt;/em&gt;system that interacts with the application-level schedulers.&lt;/p&gt;
+&lt;p&gt;Due to the large system dynamics involved in Grid computing systems, the ability to preempt executing jobs becomes a necessity. The meta-scheduler described in this dissertation employs well defined scheduling policies to preempt and migrate executing applications. In order to provide the users with the capability to make their applications preemptible, a user-level check-pointing library called &lt;em&gt;SRS &lt;/em&gt;(Stop-Restart Software) was also developed by this research. The SRS library is different from many user-level check-pointing libraries since it allows reconfiguration of applications between migrations. This reconfiguration can be achieved by changing the processor configuration and/or data distribution.&lt;/p&gt;
+&lt;p&gt;The experimental results provided in this dissertation demonstrates the utility of the metascheduling framework for distributed computing systems. And lastly, the metascheduling framework was put to practical use by building a Grid computing system called GradSolve. GradSolve is a flexible system and it allows the application library writers to upload applications with different capabilities into the system. GradSolve is also unique with respect to maintaining traces of the execution of the applications and using the traces for subsequent executions of the application.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4178</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5730&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4178</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5730</articleid>
+<submission-date>2017-02-03T11:37:36-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9626056</context-key>
+<submission-path>utk_graddiss/4178</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Bradley Vander Zanden, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

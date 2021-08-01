@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cybersecurity Solutions for Industrial Control Systems and Key Equipment</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fzhang17@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Fan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cybersecurity</keyword>
+<keyword>industrial control system</keyword>
+<keyword>cyber-attack detection</keyword>
+<keyword>instrumentation and control system</keyword>
+<keyword>resilience in industry; machine learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;The growing number of cyber-attacks against industrial control systems (ICSs) in recent years elevates the urgent research need for enhancing cybersecurity in industry. As ICS systems are deployed for high-value and safety-critical systems, security requirements are evolving to include resilience to cyber-attacks. Nuclear industry is adopting digital control systems for operational benefits, which brings more cybersecurity concerns as well since several cyber-incidents already occurred even before fully digitalization. Currently, common approaches to industrial cybersecurity focus on signature-based intrusion prevention and network segregation, which may be inadequate for a well-motivated cyber-attack. Therefore, a comprehensive cybersecurity solution platform with defense-in-depth concept is developed in this research to facilitate strengthening the cybersecurity of ICSs.The platform consists of five major systems: a data collection and extraction system, a cyber-attack detection system, a cause analysis system, a cyber-attack response system, and a main control room display system, to provide robust approaches to monitor and assess the security status, and aid the decision making of ICSs based on data analytics from both information technology and operational technology domain. The first two systems were well investigated in this research while frameworks are given for the other three systems limited by data access and experiment scale. To reinforce the cyber-attack resilience of key equipment, a localized cybersecurity strategy is proposed to detect a potential cyber-attack within a controller and potentially infer the faulty signal.In order to investigate the proposed platform and strategy, two cybersecurity testbeds were developed to conduct simulated cyber-attacks. The real-time ICS testbed contains a physical experiment facility and a supervisory control and data acquisition (SCADA) system. The hardware-in-the-loop tested integrates a programmable logic controller with a nuclear system simulator. Various cyber-attacks have been conducted towards these two testbeds, including man-in-the-middle, denial of service, tampering, and false data injection attacks. Both cyber data and process data are collected under normal operation and attack scenarios to develop and evaluate the cyber-attack detection models. The results demonstrate both the centralized platform and localized strategies developed are effective and applicable to all ICSs. This research also demonstrates that data analytic approaches are promising in cybersecurity domain.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5763</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7529&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5763</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7529</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419648</context-key>
+<submission-path>utk_graddiss/5763</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jamie Coble</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wesley Hines, Richard Wood, Mark Dean</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-8094-2473</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journal Nuclear Technology and journal IEEE Transactions on Industrial Informatics; in conferences: ANS Winter Meeting 2019, In 11th Nuclear Plant Instrumentation, Control and Human- Machine Interface Technologies 2019, In International Congress on Advances in Nuclear Power Plants; and in book Nuclear Power Plant Design and Analysis Codes. Portions of this document were also submitted to journal Progress in Nuclear Energy which is under review.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

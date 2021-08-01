@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Evaluation of a Non-Intrusive Corn Population Sensor</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Haizhou</fname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Engineering</discipline>
+<discipline>Systems and Integrative Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Specific objectives of this study were to develop, prototype, and test a corn population sensor. Both intrusive mechanical and non-intrusive capacitive techniques have been used to develop the stalk population sensors in previous research. However, neither could generate consistent performance. The mechanical method required high maintenance and resulted in significant underestimations of stalk counts. The performance of capacitive systems was limited by inadequate sensing distance, especially at low stalk moisture levels.&lt;/p&gt;
+&lt;p&gt;In this research, the sensitivity of the capacitive sensor was optimized for corn stalks. This system utilized a single-sided capacitive sensor, Wien bridge oscillator, phase-locked loop, and an operational amplifier to transform stalk presence to a change in electrical potential signal.&lt;/p&gt;
+&lt;p&gt;The capacitive sensor patterns were simulated using the finite element method, which provided useful conceptual information. A number of different detection element patterns were modeled and tested. The patterns examined included single-sided two-plate, interdigital, polarized interdigital, semi-interdigital, and solid ground electrode. The key parameters affecting pattern sensitivity were investigated. The most promising pattern, the solid ground electrode, was selected for further evaluation and development.&lt;/p&gt;
+&lt;p&gt;The solid ground electrode detection element was incorporated into circuitry including Wien-Bridge oscillator, a phase-locked loop used as a high-speed frequency-tovoltage converter, and an operational amplifier to provide impedance matching and maximize data acquisition resolution. The operational configuration, optimum operating parameters, and associated component sizes were determined using both modeling and laboratory testing. With an acceptable signal-sided pattern and signal-to-noise ratio, this sensing system was investigated in a realistic production environment.&lt;/p&gt;
+&lt;p&gt;A preliminary field test was used to evaluate the sensor system (including a protective housing and mounting system) and data acquisition system to identify problems before conducting the final field test. Stalk moisture content and harvest speed were used as treatment blocks in the final test. The influences of environmental and mechanical noise and the noise-like influence of corn leaves and weeds were also investigated. The final field test accurately simulated realistic harvesting conditions and real-time data was collected for stalk identification analysis.&lt;/p&gt;
+&lt;p&gt;Post-acquisition processing, feature extraction, and principal component analysis of the extracted features were performed on the raw field data. Three sensor signal features were selected to identify stalks. A backpropagation artificial neural network technique was used to develop the pattern classification model. Numerous neural network structures were evaluated and two-layer structure with four neurons in the first layer and one neuron in the second layer was selected based on maximum prediction precision and accuracy and minimum structure complexity. This structure was then evaluated to determine the prediction accuracy at various resolution levels. Results showed that the model can predict stalk population at 99.5% accuracy when the spatial resolution is 0.025 ha. The sensor can predict stalk population with a 95% accuracy when the resolution is a 9-meter row segment (approximately 10 seconds).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/224</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1273&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>224</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1273</articleid>
+<submission-date>2010-02-03T13:31:24-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1131123</context-key>
+<submission-path>utk_graddiss/224</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John B. Wilkerson</value>
+</field>
+<field name="advisor2" type="string">
+<value>William E. Hart, Xiaofei Ye, Paul Crilly</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/LiHaizhou.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

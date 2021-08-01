@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Failure Simulations at Multiple Length Scales in High Temperature Structural Alloys</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cpu@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pu</lname>
+<fname>Chao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Finite Element Method</keyword>
+<keyword>Crystal Plasticity</keyword>
+<keyword>Cohesive Zone Model</keyword>
+<keyword>Creep Fatigue</keyword>
+<keyword>simulation</keyword>
+</keywords>
+<disciplines><discipline>Engineering Mechanics</discipline>
+<discipline>Mechanics of Materials</discipline>
+<discipline>Nanoscience and Nanotechnology</discipline>
+<discipline>Structural Materials</discipline>
+</disciplines><abstract>&lt;p&gt;A number of computational methodologies have been developed to investigate the deformation and damage mechanism of various structural materials at different length scale and under extreme loading conditions, and also to provide insights in the development of high-performance materials.&lt;/p&gt;
+&lt;p&gt;In microscopic material behavior and failure modes, polycrystalline metals of interest include heterogeneous deformation field due to crystalline anisotropy, inter/intra grain or phase and grain boundary interactions. Crystal plasticity model is utilized to simulate microstructure based polycrystalline materials, and micro-deformation information, such as lattice strain evolution, can be captured based on crystal plasticity finite element modeling (CPFEM) in ABAQUS. The comparison of advanced experimental measurement and numerical simulation facilitates the understanding of the deformation and stress partitioning mechanisms in dual phase steel (DP980) and multilayered steel.&lt;/p&gt;
+&lt;p&gt;For corrosion or oxidation induced failure in high temperature alloys, a cohesive zone model (CZM) is introduced to describe the interfacial traction and separation behavior. By coupling diffusion process with CZM, impurity degradation effect at grain boundary can be studied to predict intergranular failure mechanism under corrosive environments. On the other hand, microscopic numerical methods are not efficient or applicable in the damage predictions for structural components. To this end, elastic perfect plastic (EPP) model has been proposed as an efficient tool to evaluate creep and fatigue damage for structural material (nickel based superalloy A617, SS316 etc.) at elevated temperatures. This methodology will be applied in numerous finite element simulations. By comparing with simplified method test data, the feasibility of EPP methodology at elevated temperatures can be verified.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3601</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5045&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3601</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5045</articleid>
+<submission-date>2015-10-20T21:43:17-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7746527</context-key>
+<submission-path>utk_graddiss/3601</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yanfei Gao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Liaw, Haixuan Xu, Timothy Truster</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Materials Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

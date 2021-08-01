@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Development of EPICS Based RF Conditioning System for the High Power RF Components of Charged Particle Accelerators</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hasan</lname>
+<fname>S.M.</fname>
+<mname>Shajedul</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Charged particle accelerators use various vacuum windows on their accelerating RF cavities to pass very high RF power through for the acceleration of particles. The accelerating cavities and the windows should be cleaned, baked and fully RF conditioned to eliminate poor vacuum caused by outgassing and other contamination. The linear accelerator (Linac) in the Spallation Neutron Source (SNS) contains various accelerating cavity structures and RF conditioning of their high power vacuum windows is necessary for present work as well as future upgrade and development. An example is the coaxial fundamental power coupler (FPC) with an annular alumina ceramic window for each of the 81 superconducting RF cavities in the SNS Linac. The FPC’s need to be tested up to 650 kW peak in traveling wave and 2.6 MW in standing wave in 1.3 microsecond 60 pulses per second RF. 805 MHz, 550-kW klystrons (700 kW maximum) are the main power source of the superconducting Linac and the conditioning power source of the FPC’s. The conditioning process has to be controlled very carefully not to damage the window; with the high power RF the initial vacuum is unpredictable and any unsafe vacuum level can damage the high quality ceramic windows. In this thesis, an Experimental Physics and Industrial Control System (EPICS) controlled RF conditioning system for the SNS RF Test Facility (RFTF) has been presented. Various RF and control instruments are integrated through the EPICS system on Linux platform to measure and to control the vacuum and the RF power while monitoring electron emission and unwanted arcing during the conditioning. Monitoring arcing at the window and flow and temperature of cooling water in high power RF load and ceramic window is necessary to interlock the RF not to have any kind of undesirable operation condition. The interlock system has been designed by using the Programmable Logic Controller (PLC) and an RF switch with microseconds response time. Usually the whole conditioning process takes several days, so it is necessary to get the flexibility to control, monitor, and archive the system operation remotely along with good upgradeability. To get these advantages in EPICS, VXI/VME based Input and Output Controller (IOC)s are used for controlling and monitoring the RF conditioning system. This thesis summarizes all the hardware and software design strategies, provides the results obtained so far at room temperature and describes the future research scope.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1994</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3353&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1994</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3353</articleid>
+<submission-date>2013-09-27T11:59:12-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4640702</context-key>
+<submission-path>utk_gradthes/1994</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mostofa K. Howlader</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yoon W. Kang, Michael J. Roberts, Paul B. Crilly</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

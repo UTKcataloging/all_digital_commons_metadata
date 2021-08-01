@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Analysis of a Fully-Integrated Resonant Gate Driver</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ylong@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Long</lname>
+<fname>Yu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Gate driver</keyword>
+<keyword>resonant gate driver</keyword>
+<keyword>GaN FET</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;Several decades ago the resonant gate driving technique was proposed. Given the recent rapid growth in GaN HEMT power device applications for high-frequency power applications, research has been conducted in the power electronics field using resonant gate driving for GaN power devices. Previous research for resonant gate drivers for GaN HEMT devices mostly focused on implementing the gate driving function itself, and mostly for normally-on HEMT devices.&lt;/p&gt;
+&lt;p&gt;The normally-off (enhancement mode) GaN power device was introduced to the commercial market in 2009. A new resonate gate driver is proposed in this work to implement resonant gate driving for commercial high-speed normally-off GaN power devices. The desired resonant condition is configured by different turn-on and turn-off driving pulses with specific driving time and pulse width. Using synchronous timing control within the driver integrated circuit, the power device gate voltage is securely clamped within the expected gate voltage at switching frequencies beyond 10 MHz. In this research, a customized resonant gate driver IC was designed and developed on a commercially-available silicon CMOS process. Compared with current commercial gate driver ICs, our test results demonstrate the effectiveness, advantages and limitations of the proposed gate driver IC for the enhancement-mode GaN power device using alternative resonant gate driving techniques for the first time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4147</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5394&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4147</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5394</articleid>
+<submission-date>2016-07-08T09:47:00-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8815645</context-key>
+<submission-path>utk_graddiss/4147</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel Costinett, Syed K. Islam, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

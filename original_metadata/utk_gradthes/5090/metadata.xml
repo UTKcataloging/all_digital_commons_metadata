@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Locating Regulating Resources in the WECC to Damp Electromechanical Oscillations</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mbreuhl1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Breuhl</lname>
+<fname>Michael</fname>
+<mname>John</mname>
+</author>
+</authors>
+<keywords>
+<keyword>renewables</keyword>
+<keyword>electromechanical oscillations</keyword>
+<keyword>energy storage</keyword>
+<keyword>modal analysis</keyword>
+<keyword>residue sensitivity analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;As we gradually move towards higher penetration of renewable energy sources, the grid must have a safe, feasible, and stable operation at each penetration level. For any penetration level throughout this transition, what is a way to identify and install regulation resources such as energy storage devices to effectively damp critical oscillations? Power system planners lack a simple criterion on how to deploy regulation resources and must rely on heavy calculations such as modal analysis or Prony analysis. This thesis hypothesizes that no matter how complicated the oscillations&#39; behavior and interactions can be, in the case of critical inter-area oscillations, the location to install regulating resources are more importantly related to the system physical characteristics rather than operational characteristics. The focus of this thesis is on the system distribution of inertia in the Western Electricity Coordinating Council (WECC). This goal of this study is to analyze the impact of wind power on the inter-area oscillations WECC system, determine the locations for potential regulation resources, and identify key critical areas for higher wind penetrations.From the analysis of the WECC system, only a few key areas related to machines participating in a given oscillation are viable for a significant improvement through regulation resources. These machines are generally machines in the weaker inertia group of generators. At higher renewable penetrations the machines in the east, southeast, and southwest see higher residue sensitivity index (RSI) values, which means that these areas are more susceptible to active power injections and oscillations in the WECC. The changes in the system with the wind turbine generators (WTGs) highly impact the RSI values, which is due to the topology changes in the system. The RSI does not change significantly for different stable operation points of the system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5090</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6497&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5090</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6497</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414862</context-key>
+<submission-path>utk_gradthes/5090</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hector A. Pulgar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kai Sun, Kevin L. Tomsovic</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

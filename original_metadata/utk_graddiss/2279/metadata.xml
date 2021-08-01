@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Left-turn Phase Optimization Using Fuzzy Logic Control</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Zhenyang</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The left-turn movement at an intersection has long been a concern of traffic engineers as it is a major capacity reduction factor. Different left-turn signal phasings have been shown to result in significant differences in delay, intersection capacity, and even safety level.&lt;/p&gt;
+&lt;p&gt;First, past studies about leading and lagging signal phases and signal control application are overviewed. Then this research gives a theoretical analysis of signal left-turn phase operations at both isolated and coordinated signalized intersections, compares the difference in delay based on leading and lagging left-turn signal phase designs, analyzes the influences of traffic control delay components for leading and lagging left-turn, identifies the main control factors, and gives a new model to guide the choosing between the leading and lagging left-turn phases.&lt;/p&gt;
+&lt;p&gt;In the third part of this research, some basic mathematical definitions and rules of fuzzy logic control are described. A four-level fuzzy logic control model is designed. To implement this control model, observed approaching traffic flows are used to estimate relative traffic intensities in the competing approaches. These traffic intensities are then used to determine whether a leading or lagging signal phase should be selected or terminated.&lt;/p&gt;
+&lt;p&gt;Finally, this research designs a dynamic traffic signal left-turn phase control system, and implements the four-level fuzzy logic control model to optimize signalized intersection operation. The performance of this dynamic traffic signal left-turn phase fuzzy logic control system compared favorably in all categories to fixed time control, actuated control, and traditional fuzzy control based on simulation using field data. The results suggest that the proposed dynamic traffic signal left-turn phase fuzzy logic control system is a superior and efficient tool for reducing intersection traffic delay. The study also demonstrated that the successful implementation of the proposed model does not rely on the installation of expensive or complicated equipment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2279</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3830&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2279</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3830</articleid>
+<submission-date>2013-10-16T13:41:47-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4729461</context-key>
+<submission-path>utk_graddiss/2279</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Arun Chatterjee, Frederick J. Wegmann, Yueh-er Kuo</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

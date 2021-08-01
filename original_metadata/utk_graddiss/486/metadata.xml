@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control of Epidemic Models Involving Rabies and West Nile Viruses</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Clayton</lname>
+<fname>Timothy</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;This research considers the application of &lt;em&gt;Optimal Control&lt;/em&gt; theory to minimize the spread of viral infections in disease models. The population models under consideration are systems of ordinary differential equations and represent epidemics arising due to either rabies or West Nile virus. Optimal control strategies are analyzed using Pontryagin’s Maximum Principle and illustrated based upon computer simulations.&lt;/p&gt;
+&lt;p&gt;The first model describes a population of raccoons and its interaction with the rabies virus, thus dividing the animals into four classes: &lt;em&gt;susceptible, exposed, immune,&lt;/em&gt; and &lt;em&gt;recovered&lt;/em&gt; (&lt;em&gt;SEIR&lt;/em&gt;). The model includes a birth pulse during the spring of the year and an equation reflecting the dynamics of a potential vaccine. The vaccine equation contains a linear control variable representing the rate at which the vaccine is distributed. The goal is to minimize the number of infected raccoons and the cost of vaccine distributed. Due to linearity in the control, there is the possibility of a singular control and the generalized Legendre-Clebsch condition will be satisfied to obtain new necessary conditions for the singular case. A scenario with a limited amount of vaccine is also investigated. The system is modified to include a density-dependent death rate for each of the &lt;em&gt;S, E, I, R&lt;/em&gt; classes, and the results of this model are compared with those of the non-density dependent model to determine how the different death rates affect control strategies.&lt;/p&gt;
+&lt;p&gt;The second disease model considered describes the dynamics of mosquito, bird and human populations exposed to the West Nile virus. The mosquito and bird categories will be divided into &lt;em&gt;susceptible&lt;/em&gt; and &lt;em&gt;infected classes&lt;/em&gt;. In addition to these two groups, humans will also have the potential of entering the &lt;em&gt;exposed, hospitalized&lt;/em&gt; and &lt;em&gt;recovered&lt;/em&gt; classes. In this model, birth and death rates are assumed to be density-dependent. Two controls are applied with one control representing pesticide efforts to decrease the number of mosquitos and a second control representing prevention and repellant methods. The basic reproduction number is considered to justify the need for control.&lt;/p&gt;
+&lt;p&gt;Approximations of the optimal solutions of the models are obtained using an iterative method. The numerical algorithm, Runge-Kutta of order four, is programmed in Matlab. Graphical results show the appropriate amount of control for various situations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/486</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1550&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>486</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1550</articleid>
+<submission-date>2010-02-19T10:50:41-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1156081</context-key>
+<submission-path>utk_graddiss/486</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Collins, Louis Gross, Vladimir Protopopescu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/ClaytonTimothyJoseph.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

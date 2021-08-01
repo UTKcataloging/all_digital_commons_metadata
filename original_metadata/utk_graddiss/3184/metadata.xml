@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computer Simulations of Enzymes</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jyao6@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yao</lname>
+<fname>Jianzhuang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MD simulation</keyword>
+<keyword>QM/MM</keyword>
+<keyword>PMF</keyword>
+<keyword>Enzyme</keyword>
+</keywords>
+<disciplines><discipline>Other Biochemistry, Biophysics, and Structural Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Enzymes are important catalysts in living systems, and understanding catalytic mechanisms of enzymes is an important task for modern biophysics and biochemistry. Computer simulations have emerged as very useful tools for understanding how enzymes work. In this dissertation, QM/MM MD simulations were applied to study the catalytic mechanisms of several enzymes, including sedolisin, S-adenosyl-L-methionine (AdoMet)-dependent methyltransferases, and salicylic acid binding protein 2. For sedolisin, we focus on the acylation and deacylation reactions catalyzed by the enzymes. We proposed a general acid/base mechanism involving the Glu/Asp residues at the active site. MD and QM/MM free energy simulations on pro-kumamolisin show that the protonation of Asp164 would be able to trigger conformational changes and generate the functional active site for autocatalysis. The free energy simulations reported for SAMT, an AdoMet-dependent methyltransferase, showed that while the structure of the reactant complex containing salicylate, its natural substrate, is rather close to the corresponding TS structure, this is not the case for 4-hydroxybenzoate. The simulations demonstrated that additional energy is required to generate the TS-like structure for 4-hydroxybenzoate, consistent with the low activity of the enzyme toward this substrate. For protein lysine methyltransferase SET7/9, we showed that while the wild type SET7/9 may act like a mono-methylase, the Y245→A mutation could increase the ability of SET7/9 to add two more methyl groups on the target lysine. The substrate specificity of salicylic acid binding protein 2 (SABP2) has also been studied during my graduate study. This enzyme has promiscuous esterase activity toward a series of substrates, but shows high activity toward its natural substrate methyl salicylate (MeSA). We demonstrated that SABP2 seems to represent a case in which the enzyme itself might have not been perfectly evolved and that substrate-assisted catalysis (SAC) involving its natural substrate may be used to enhance the activity and achieve substrate discrimination. In addition to enzymes, the prediction of protein-protein interactions (PPI) is also included in my dissertation. We established a robust pipeline for PPI prediction by integrating multiple classifiers using random forests algorithm. This pipeline could be very useful for predicting PPI.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3184</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4201&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3184</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4201</articleid>
+<submission-date>2014-06-16T16:41:04-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4201/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5692621</context-key>
+<submission-path>utk_graddiss/3184</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hong Guo</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jerome Baudry, Tongye Shen, Tamah Fridman, Elizabeth Howell, David Baker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biochemistry and Cellular and Molecular Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

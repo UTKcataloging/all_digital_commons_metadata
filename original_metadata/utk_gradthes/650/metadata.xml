@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Digital Aperture Photometry Utilizing Growth Curves</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>woverca1@utk.edu</email>
+<lname>Overcast</lname>
+<fname>William Chandler</fname>
+</author>
+</authors>
+<keywords>
+<keyword>photometry</keyword>
+<keyword>digital aperture</keyword>
+<keyword>growth curve</keyword>
+</keywords>
+<disciplines><discipline>Instrumentation</discipline>
+<discipline>Optics</discipline>
+</disciplines><abstract>&lt;p&gt;Point source extraction is critical to proper analysis of images containing point sources obtained by focal plane array cameras. Two popular methods of extracting the intensity of a point source are aperture photometry and point spread function fitting. Digital aperture photometry encompasses procedures utilized to extract the intensity of an imaged point source. It has been used by astronomers in various forms for calculating stellar brightness. It is also useful for doing analysis of data associated with other unresolved radiating objects. The various aperture photometry methods include the two-aperture method, aperture correction, and growth curve method.&lt;/p&gt;
+&lt;p&gt;The growth curve method utilizes integrated irradiance within an aperture versus growing aperture size. Signal to noise ratio, imperfect backgrounds, moving and off centered targets, and noise structure are just a few of the items that can cause problems with point source extraction. This thesis presents a study of how best to apply the growth curve method.&lt;/p&gt;
+&lt;p&gt;Multiple synthetic image sets were produced to replicate real world data. The synthetic images contain a Gaussian target of known intensity. Noise was added to the images, and various image related parameters were altered. The growth curve method is then applied to each data set using every reasonable aperture size combination to calculate the target intensity. It will be shown that for different types of data, the most optimal application of the growth curve method can be determined. An algorithm is presented that can be applied to all data sets that fall within the scope of this study will be presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/650</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1658&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>650</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1658</articleid>
+<submission-date>2010-04-16T13:52:33-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1278562</context-key>
+<submission-path>utk_gradthes/650</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Horace W. Crater</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wheeler K. McGregor, Christian G. Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

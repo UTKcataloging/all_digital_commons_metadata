@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reliability Inference for Field Conditions from Accelerated Degradation Testing</title>
+<publication-date>2006-05-18T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hliao@email.arizona.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liao</lname>
+<fname>Haitao</fname>
+</author>
+<author>
+<institution>Rutgers University - New Brunswick/Piscataway</institution>
+<lname>Elsayed</lname>
+<fname>Elsayed</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>reliability prediction</keyword>
+<keyword>stochastic stress exposure</keyword>
+<keyword>approximation</keyword>
+<keyword>Brownian motion with drift</keyword>
+<keyword>Itô calculus</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Accelerated degradation testing (ADT) is usually conducted under deterministic stresses such as constant-stress, step-stress, and cyclic-stress. Based on ADT data, an ADT model is developed to predict reliability under normal (field) operating conditions. In engineering applications, the standard approach for reliability prediction assumes that the normal operating conditions are deterministic or simply uses the mean values of the stresses while ignoring their variability. Such an approach may lead to significant prediction errors. In this paper, we extend an ADT model obtained from constant-stress ADT experiments to predict field reliability by considering the stress variations. A case study is provided to demonstrate the proposed statistical inference procedure. The accuracy of the procedure is verified by simulation using various distributions of field stresses.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/4</coverpage-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1003</articleid>
+<submission-date>2010-04-23T10:39:06-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1286298</context-key>
+<submission-path>utk_indupubs/4</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-04-23T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-18T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www3.interscience.wiley.com/journal/112628675/abstract</value>
+</field>
+</fields>
+</document>
+</documents>

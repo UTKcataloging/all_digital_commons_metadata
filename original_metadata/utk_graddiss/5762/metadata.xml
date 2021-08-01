@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Task Discovery in a Data-Flow, Task-Based Runtime System</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rhoque@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hoque</lname>
+<fname>Reazul</fname>
+</author>
+</authors>
+<keywords>
+<keyword>HPC</keyword>
+<keyword>Runtime System</keyword>
+<keyword>Parallel</keyword>
+<keyword>Distributed</keyword>
+</keywords>
+<abstract>&lt;p&gt;The successful utilization of the modern configuration of the heterogeneous many-core architectures with complex memory hierarchies is a challenge for many application developers. Portability and performance of existing and new applications are the key challenges scientific application developers are continuously facing. Many evolutionary solutions have been proposed, including ones that seek to extend the capabilities of the current message passing paradigm with intra-node features (MPI+X). A different, more revolutionary, solution explores data-flow task-based Runtime systems as a substitute to both local and distributed data dependencies management. The method of programming such a Runtime is important, as that directly affects the productivity of the developers and the performance of the applications. This work extends the capability of one of such runtime, the Parallel Runtime Scheduling and Execution Controller (PaRSEC), to the novel programming approach of allowing users to insert task in the Runtime by writing sequential code. This programming model is called Dynamic Task Discovery (DTD), which discovers tasks dynamically at runtime and uses optimized graph unrolling techniques to accommodate applications with large task graphs.In this work, PaRSEC&#39;s capability is extended by providing a new programming model, DTD. Bottlenecks of this programming model are identified and solutions to overcome its limitations are proposed. The performance of the implementation of DTD on top of dense linear algebra workload is analyzed at scale, where DTD has shown excellent results in distributed memory: 2.3x--1.3x better performance at 128 nodes for QR factorization compared to ScaLAPACK and in shared memory, 4x—5x better performance for Cholesky factorization compared to other runtimes, StarPU and QUARK. DTD was also evaluated via the coupled-cluster method of state of the art quantum chemistry application NWCHEM, where it performed remarkably well among all considered Runtimes at scale of 128 nodes. The hope is that the concept and the development of DTD, the detailed evaluation of its practical performance at scale, the analysis of the theoretical limitations of it, the thorough study and classification of various task-based Runtime system{s}, and the design, implementation and evaluations of the chosen Runtimes on micro-benchmarks will help the broad scientific application developer community.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5762</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7528&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5762</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7528</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419647</context-key>
+<submission-path>utk_graddiss/5762</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michela Taufer, Michael Berry, Dimitry Liakh</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Use of Proteomics Tools to Investigate Protein Expression in Azospirillum brasilense</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gsahaik@comcast.net</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Khalsa-Moyers</lname>
+<fname>Gurusahai</fname>
+<mname>K</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Proteomics</keyword>
+<keyword>Azospirillum brasilense</keyword>
+<keyword>nitrogen fixation</keyword>
+<keyword>chemotaxis</keyword>
+</keywords>
+<disciplines><discipline>Environmental Microbiology and Microbial Ecology</discipline>
+<discipline>Microbial Physiology</discipline>
+<discipline>Other Microbiology</discipline>
+</disciplines><abstract>&lt;p&gt;Mass spectrometry based proteomics has emerged as a powerful methodology for investigating protein expression.  “Bottom up” techniques in which proteins are first digested, and resulting peptides separated via multi-dimensional chromatography then analyzed via mass spectrometry provide a wide depth of coverage of expressed proteomes. This technique has been successfully and extensively used to survey protein expression (expression proteomics) and also to investigate proteins and their associated interacting partners in order to ascertain function of unknown proteins (functional proteomics).   Azospirillum brasilense is a free-living diazotrophic soil bacteria, with world-wide significance as a plant-growth promoting bacteria.  Living within the rhizosphere of cereal grasses, its diverse metabolism is important for its survival in the competitive rhizospheric environment.  The recently sequenced genome of strain Sp245 provided a basis for the proteome studies accomplished in this work.  After initial mass spectrometer parameter optimization studies, the expressed proteomes of two strains of Azospirillum brasilense, Sp7 and Sp245, grown under both nitrogen fixing and optimal growth (non nitrogen fixing) conditions were analyzed using a bottom up proteomics methodology.  Further proteome studies were conducted with A. brasilense strain Sp7 in order to ascertain the effect of one chemotaxis operon, termed Che1.   In this study, proteomic surveys were conducted on two bacterial derivative strains, created earlier, which lacked either a forward signaling pathway or an adaptation pathway.  The proteomic surveys conducted in this work provide a foundation for further biochemical investigations.  In order to facilitate further investigation and a movement into functional proteomics, a set of destination vectors was created that contain a variety of tandem affinity tags.  The addition of tandem affinity tags to a protein allow for generic purification schemes, and can facilitate future studies to investigate proteins of interest discovered in the first expression proteomic surveys of A. brasilense.  Taken together, this dissertation provides a valuable data set for investigation into the physiology of A. brasilense and further provides biochemical tools for analysis of the functional protein interactions of A. brasilense cells.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/712</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1725&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>712</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1725</articleid>
+<submission-date>2010-03-16T12:42:07-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1725/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1227322</context-key>
+<submission-path>utk_graddiss/712</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gladys Alexandre</value>
+</field>
+<field name="advisor2" type="string">
+<value>Cynthia B. Peterson, Dale A. Pelletier, Jennifer L. Morell-Falvey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Sp245N2Fix_Data.xls</archive-name>
+<upload-name>Sp245N2Fix_Data.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1725&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Proteins detected in all Sp245 strain nitrogen fixing cultures</description>
+</file>
+<file>
+<archive-name>Sp7N2Fix_Data.xls</archive-name>
+<upload-name>Sp7N2Fix_Data.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=1725&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Proteins detected in Sp7 strain nitrogen fixing and control cultures</description>
+</file>
+<file>
+<archive-name>2Fold_Up_N2Fix.xls</archive-name>
+<upload-name>2Fold_Up_N2Fix.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=1725&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Proteins determined to be up-regulated by greater than 2-fold in Sp245 and Sp7 nitrogen fixing cultures</description>
+</file>
+<file>
+<archive-name>2Fold_Down_N2Fix.xls</archive-name>
+<upload-name>2Fold_Down_N2Fix.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=1725&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Proteins detected to be down-regulated by greater than 2-fold in Sp245 and Sp7 nitrogen fixing cultures</description>
+</file>
+<file>
+<archive-name>Mutant_Proteome_Data.xls</archive-name>
+<upload-name>Mutant_Proteome_Data.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=1725&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Proteins detected in Sp7 wild-type cultures and derivative mutant cultures lacking CheY1 and CheB1CheR1</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

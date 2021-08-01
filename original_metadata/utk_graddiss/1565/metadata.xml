@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extending Structural Learning Paradigms for High-Dimensional Machine Learning and Analysis</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>csymons@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Symons</lname>
+<fname>Christopher</fname>
+<mname>Todd</mname>
+</author>
+</authors>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Structure-based machine-learning techniques are frequently used in extensions of supervised learning, such as active, semi-supervised, multi-modal, and multi-task learning. A common step in many successful methods is a structure-discovery process that is made possible through the addition of new information, which can be user feedback, unlabeled data, data from similar tasks, alternate views of the problem, etc. Learning paradigms developed in the above-mentioned fields have led to some extremely flexible, scalable, and successful multivariate analysis approaches. This success and flexibility offer opportunities to expand the use of machine learning paradigms to more complex analyses. In particular, while information is often readily available concerning complex problems, the relationships among the information rarely follow the simple labeled-example-based setup that supervised learning is based upon. Even when it is possible to incorporate additional data in such forms, the result is often an explosion in the dimensionality of the input space, such that both sample complexity and computational complexity can limit real-world success. In this work, we review many of the latest structural learning approaches for dealing with sample complexity. We expand their use to generate new paradigms for combining some of these learning strategies to address more complex problem spaces. We overview extreme-scale data analysis problems where sample complexity is a much more limiting factor than computational complexity, and outline new structural-learning approaches for dealing jointly with both. We develop and demonstrate a method for dealing with sample complexity in complex systems that leads to a more scalable algorithm than other approaches to large-scale multi-variate analysis. This new approach reflects the underlying problem structure more accurately by using interdependence to address sample complexity, rather than ignoring it for the sake of tractability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1565</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2763&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1565</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2763</articleid>
+<submission-date>2012-11-05T13:27:30-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3447754</context-key>
+<submission-path>utk_graddiss/1565</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, J. Wesley Hines, Stacy J. Prowell, Thomas E. Potok</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

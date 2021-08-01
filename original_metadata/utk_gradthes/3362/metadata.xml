@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The CMS Pixel Luminosity Telescope Browser Interface</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mfoerste@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Foerster</lname>
+<fname>Mark</fname>
+<mname>Miller</mname>
+</author>
+</authors>
+<keywords>
+<keyword>CERN</keyword>
+<keyword>LHC</keyword>
+<keyword>CMS</keyword>
+<keyword>Pixel Luminosity Telescope</keyword>
+<keyword>Browser Interface</keyword>
+<keyword>Experimental HEP</keyword>
+</keywords>
+<disciplines><discipline>Elementary Particles and Fields and String Theory</discipline>
+</disciplines><abstract>&lt;p&gt;The search for and detailed study of new particles and forces with the Compact Muon Solenoid (CMS) detector at the Large Hadron Collider (LHC) of CERN is fundamentally dependent on the precise measurement of the rate at which proton-proton collisions produce any particles, the so-called luminosity. For the discovery of the Higgs candidate in 2012 the relative precision of this quantity was about 2.5%. To be able to observe deviations from Standard Model predictions for decay rates of this particle and others which can hint to new phenomena the targeted luminosity uncertainty is about 1%. Therefore, a new device, the pixel luminosity telescope has been built that counts charged collision products close to the LHC beam in real time. The development of the software interface dedicated to control its operation, monitor its activity, and store calibration and configuration information together with data into a database is the subject of this work. The interface was constrained by the need to be suitable for operation by expert as well as non-expert data taking personnel. In addition to operation at the detector level, the interface must also integrate into a framework that simultaneously collects luminosity information from other sub-detectors of CMS. Finally, it had to be built from common and well-tested software tools for reliability and the prospect of long-term availability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3362</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4272&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3362</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4272</articleid>
+<submission-date>2014-10-21T15:34:28-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4272/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6265032</context-key>
+<submission-path>utk_gradthes/3362</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stefan M. Spanier</value>
+</field>
+<field name="advisor2" type="string">
+<value>Thomas P. Handler, Marianne M. Breinig</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

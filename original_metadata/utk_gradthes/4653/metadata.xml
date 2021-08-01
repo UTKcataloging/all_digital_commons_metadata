@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Computer Modeling Approach Using Critical Resource Diagramming Network Analysis in Project Scheduling</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Delgado</lname>
+<fname>Vincent</fname>
+<mname>Gilles</mname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The problem of resource constrained project scheduling (RCPSP) continues to be an important topic in project management. Different scheduling processes have been introduced to solve cases of RCPSP. Most of the developed methods are based on a network analysis approach. The two main technique of project network analysis used for planning, scheduling, and control are PERT and CPM. These approaches assume unlimited resource availability in project network analysis. In realistic projects, both the time and resource requirements of activities should be considered in developing network schedules. Another particularity of the methods created, so far, is the focus on activities during the scheduling process. Therefore, from a resource point of view, the current procedures do not allow the project manager to incorporate information concerning each resource unit under supervision in the scheduling process of a project. There is a need for simple tools for resource planning, scheduling, tracking, and control.&lt;/p&gt;
+&lt;p&gt;Critical resource diagramming (CRD) is a relatively new resource management tool. CRD is a simple extension to the CPM technique developed for resource management purposes. Unlike activity networks, CRD uses nodes to represent each resource unit. Also, contrasting with activities, a resource unit may appear more than once in a CRD network, specifying all different tasks to which a particular unit is assigned. Similar to CPM, the same backward and forward computations may be performed to CRD.&lt;/p&gt;
+&lt;p&gt;The CRD method can also be used in solving RCPSP problems. This present study explores that advantage of CRD. The purposes are to develop a methodology, based on CRD, which allows its use in specific case of RCPSP, to implement the developed technique using a computer model, to conduct test to validate the CRD computer model, and then to investigate the advantages and disadvantages of the introduced method. The CRD computer model will be implemented using the Visual Basic 6.0 language.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4653</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6252&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4653</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6252</articleid>
+<submission-date>2017-08-02T10:18:12-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10531585</context-key>
+<submission-path>utk_gradthes/4653</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adedeji B. Badiru</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mandyam Srinivasan, Fong-Yuen Ding</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

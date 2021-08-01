@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Two-Dimensional Formulation and Quasi-One-Dimensional  Approximation to Inverse Heat Conduction by the  Calibration Integral Equation Method (CIEM)</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hchen28@utk.edu</email>
+<lname>Chen</lname>
+<fname>Hongchu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>inverse heat conduction problem</keyword>
+</keywords>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The recently devised calibration integral equation method developed at the University of Tennessee for resolving transient inverse heat conduction in one-dimensional applications is extended and studied in the context of two-dimensional linear inverse heat conduction. This study investigates a simplified plate geometry possessing three known boundary conditions and one unknown boundary condition. This plate contains a series of temperature sensors located on a fixed plane below the surface of interest. To begin the investigation, a quasi-one-dimensional formulation is proposed for predicting the surface heat flux (W/m&lt;sup&gt;2&lt;/sup&gt;) based on a zonal formulation where each zone contains a single thermocouple. In this way, a locally one-dimensional view is proposed for predicting the local or zonal surface heat flux. The thermocouple data set is composed of physically two-dimensional information; however, each surface projection only considers one-dimensional heat flow based on its zone. In this concept, each zone produces a spatial constant heat flux that can temporally vary from zone-to-zone. Each zonal surface heat flux is mathematically described in terms of a Volterra integral equation of the first kind. Being ill posed, regularization based on a local future time method is introduced for stabilization. A new metric is proposed and demonstrated for extracting the optimal regularization parameter. This zonal approximation for materials composed of a low thermal conductivity is shown to yield favorable results. The second study presented in this thesis considers the development of a total heat transfer (W) calibration integral equation based on a fully two-dimensional analysis. In this form, the total surface heat transfer (i.e., the spatially integrated value along the entire surface of interest), is directly derived and implement bypassing the need to determine the local surface heat flux (W/m&lt;sup&gt;2&lt;/sup&gt;). This formulation yields a Volterra integral equation of the first kind similar to the mathematical structure previously described. In many applications, the total surface heat transfer is more important than the local surface heat flux. As such, this new formulation appears highly pertinent. This formulation is shown to produce favorable results over a large range of thermal conductivities and thermal diffusivities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2401</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2987&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2401</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2987</articleid>
+<submission-date>2013-08-04T21:59:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4387991</context-key>
+<submission-path>utk_gradthes/2401</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jay I. Frankel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Majid Keyhani, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Robust Multichannel Functional-Data-Analysis Methods for Data Recovery in Complex Systems</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jsun14@utk.edu</email>
+<lname>Sun</lname>
+<fname>Jian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Condition monitoring</keyword>
+<keyword>asynchronous data</keyword>
+<keyword>sensor data recovery</keyword>
+<keyword>robust functional data analysis</keyword>
+<keyword>reliability analysis</keyword>
+<keyword>fault detection</keyword>
+</keywords>
+<disciplines><discipline>Energy Systems</discipline>
+<discipline>Nuclear Engineering</discipline>
+<discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, Condition Monitoring (CM), which can be performed via several sensor channels, has been recognized as an effective paradigm for failure prevention of operational equipment or processes. However, the complexity caused by asynchronous data collection with different and/or time-varying sampling/transmission rates has long been a hindrance in the effective use of multichannel data in constructing empirical models. The problem becomes more challenging when sensor readings are incomplete. Traditional sensor data recovery techniques are often prohibited in asynchronous CM environments, not to mention sparse datasets. The proposed Functional Principal Component Analysis (FPCA) methodologies, e.g., nonparametric FPC model and semi-parametric functional regression model, provide new sensor data recovery techniques to improve the reliability and robustness of multichannel CM systems. Based on the FPCA results obtained from historical asynchronous data, the deviation from the smoothing trajectory of each sensor signal can be described by a set of unit-specific model parameters. Furthermore, the relationships among these sensor signals can be identified and used to construct regression models for the correlated signals. For real-time or online implementation, use of these models along with the parameters adjusted by real-time CM data become powerful tools for dealing with asynchronous CM data while recovering lost data when needed. To improve the robustness and predictability in dealing with asynchronous data, which may be skewed in probability distribution, robust methods were developed based on Functional Data Analysis (FDA) and Local Quantile Regression (LQR) models.&lt;/p&gt;
+&lt;p&gt;Case studies examining turbofan aircraft engines and an experimental two-tank flow-control loop are used to demonstrate the effectiveness and adaptability of the proposed sensor data recovery techniques. The proposed methods may also find a variety of applications in systems of other industries, such as nuclear power plants, wind turbines, railway systems, economic fields, etc., which may face asynchronous sampling and/or missing data collection problems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1230</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2353&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1230</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2353</articleid>
+<submission-date>2011-10-25T10:32:51-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2312259</context-key>
+<submission-path>utk_graddiss/1230</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hai Tao Liao</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Belle Upadhyaya, Xueping Li</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;The ability to predict and prevent equipment failures is essential to various industries. In recent years, CM has been recognized as a more effective paradigm than time-based failure prevention techniques. CM can be performed across several sensor channels with broad coverage to further enhance monitoring capabilities. However, the inherent complexity caused by asynchronous sensor channels with different and/or time-varying sampling/transmission rates has long been a hurdle for constructing empirical models using multichannel CM data. The problem becomes more challenging when sensor readings are missing because of unavoidable sensor anomalies and/or malfunctions of communication in real-world operating environments.&lt;/p&gt;
+&lt;p&gt;Traditional sensor data recovery techniques for the purpose of interpolation and/or extrapolation, such as Neural Network (NN), Kernel Regression (KR), and Multivariate Autoregressive Moving Average (MARMA), etc., are developed for synchronously collected data. However, their applications are often prohibited in asynchronous CM environments, not to mention the one involving sparse data. Indeed, data recovery is more complex when one has an intention of using asynchronous information from other sensor channel(s) to recover the lost sensor readings for CM enhancement. To the best of our knowledge, sensor data recovery based on asynchronous CM data, yet quite important for reliable CM and fault detection in multichannel CM systems, has not been well investigated.&lt;/p&gt;
+&lt;p&gt;The proposed methodologies in this dissertation provide new sensor data recovery techniques that improve the observability and robustness of multichannel CM systems. Specifically, the associated sensor signals are modeled through FPCA. Based on the FPCA results obtained from historical asynchronous CM data, the deviation from the mean (or median) curve of each sensor signal can be described by unit-specific model parameters. Furthermore, the relationships among the multichannel sensor signals can be identified and used to construct statistical models for those correlated signals. In on-line implementation, these models along with parameters adjusted by real-time CM data become powerful tools for dealing with asynchronous CM data while recovering lost sensor signals when needed.&lt;/p&gt;
+&lt;p&gt;The FPCA approaches have the flexibility of handling cases for both single channel and multiple channels. In a case where there are adequate historical readings from a sensor channel that is currently failed, the lost sensor readings can be recovered without relying on other functional sensor channels. This approach is referred to as &lt;em&gt;nonparametric FPC &lt;/em&gt;model in this dissertation. On the other hand, if there are insufficient historical measurements from the failed sensor channel, it is necessary to utilize sensor readings from other channels that are still healthy for data recovery. To this end, a functional regression model can be developed for a functional response which has the lost sensor signal, and a functional predictor which has relatively complete information. This approach is called &lt;em&gt;semi-parametric functional regression &lt;/em&gt;model. A two-stage framework is developed in this dissertation to estimate the FPC scores and construct a functional relationship. The proposed regression method is an alternative to a traditional functional linear model for exploring the relationship between two CM signals. During on-line implementation, as more data are collected, the FPC scores will be updated accordingly to enhance prediction accuracy. The confidence interval of recovered signal can be calculated to quantify the prediction uncertainty. In particular, since functional regression can predict an unobserved response trajectory from a predictor trajectory, regardless of the measurement density of the predictor, it would be an enabling sensor data recovery tool for dealing with asynchronous CM data. The flexibility of FPC-based models furnishes them with substantial potential for sensor data recovery in multichannel CM environments.&lt;/p&gt;
+&lt;p&gt;Case studies about turbofan aircraft engines and a two-tank water flow control loop are used to demonstrate the effectiveness and adaptability of the proposed sensor data recovery techniques. Nonparametric FPC models and semi-parametric functional regression models were constructed to predict the missing values and provide the confidence interval. The results were compared against the ones obtained from another two recovery approaches of extrapolation, Elman Neural Network (ENN) and MARMA model. Our results show that the proposed approaches can provide more accurate predictions than the other two alternatives even when dealing with synchronous CM data. Moreover, the proposed approaches are capable of processing asynchronous CM data which is beyond the ENN and MARMA models that rely on synchronous data.&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To improve the robustness and prediction accuracy for the missing readings, this dissertation also proposed a robust FDA method for data recovery in Multichannel sensor systems based on FDA and LQR. This method not only considers the possibility of a skewed distribution for each channel of the signal trajectories, but is also capable of recovering missing data for both individual and correlated sensor channels with asynchronous data that may be sparse as well. In particular, grand median functions, rather than classical grand mean functions which are not robust to outliers and asymmetric distributions of signals, are utilized to smooth signal trajectories. Furthermore, the relationship between the functional scores of two correlated signals is modeled using more flexible multivariate function regression to enhance the overall data-recovery capability.&lt;/p&gt;
+&lt;p&gt;The experimental flow-control loop that mimics the operation of a coolant-flow loop is also used for the verification of the robust FPC approaches. The measurement data taken from more operation cycles shows that a few realization of signals deviate from the data concentration area. In this case, the robust FPC method based on grand median smoother was used to achieve robust smoothing and further recover missing values. More flexible functional regression methods were also applied to make a comparison. The results illustrate that the robust FPC models not only ensure the performance in recovering sensor signals with highly skewed distributions, but can also handle irregularly sampled data as well. The derived FPC score was also combined with an Autoassociative Kernel Regression (AAKR) model to perform the fault detection due to the sensitivity of the FPC scores to the deviation of faulty signals.&lt;/p&gt;
+&lt;p&gt;Although we use these experiments to demonstrate the sensor data recovery capability of the proposed methods, these methods will find applications in many systems, such as nuclear power plants, wind turbines, railway systems, and some economic fields, etc., which may face such asynchronous sampling and/or missing data collection problems. Moreover, the methodologies can be naturally extended to analyze accelerated degradation tests involving complex degradation paths with sparse and/or missing data.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling the Cascade of Reactions in Visual Transduction</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Patton</lname>
+<fname>Philip</fname>
+<mname>Torry</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Phototransduction in the process by which light energy is transferred to an electrical potential by photoreceptors in the eye. Recently, Hamer et al proposed a mechanism for the cascade of reactions that occurs when a rhodopsin molecule on the surface of a disc in the rod photoreceptor becomes activated. From these reactions, one can derive a system of ordinary differential equations to simulate phototransduction.&lt;/p&gt;
+&lt;p&gt;These ODEs are solved numerically using forward Euler’s method. The products of this cascade are then used to predict the drop in photocurrent that occurs. A kinetic Monte Carlo simulation with the Gillespie algorithm is implemented to model the cascade of reactions. The results of these models are then compared with the study of Hamer et al [3], showing agreement.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4805</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6301&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4805</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6301</articleid>
+<submission-date>2017-08-18T12:35:00-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10625806</context-key>
+<submission-path>utk_gradthes/4805</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasilios Alexiades</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Collins, Sam Jordan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

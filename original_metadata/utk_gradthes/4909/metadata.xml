@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A GPU Implementation of Distance-Driven Computed Tomography</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rfx468@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wagner</lname>
+<fname>Ryan</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>cuda</keyword>
+<keyword>distance driven</keyword>
+<keyword>tomography</keyword>
+<keyword>image reconstruction</keyword>
+<keyword>forward projection</keyword>
+<keyword>projection</keyword>
+<keyword>backprojection</keyword>
+<keyword>branchless distance driven</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Other Computer Sciences</discipline>
+<discipline>Software Engineering</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Computed tomography (CT) is used to produce cross-sectional images of an object via noninvasive X-ray scanning of the object. These images have a wide range of uses including threat detection in checked baggage at airports. The projection data collected by the CT scanner must be reconstructed before the image may be viewed. In comparison to filtered backprojection methods of reconstruction, iterative reconstruction algorithms have been shown to increase overall image quality by incorporating a more complete model of the underlying physics. Unfortunately, iterative algorithms are generally too slow to meet the high throughput demands of this application. It is therefore worthwhile to investigate methods of improving their execution time. This paper discusses multiple implementations of iterative tomographic reconstruction using the simultaneous iterative reconstruction technique (SIRT) and the distance-driven system model. The primary focus is an implementation of the branchless variant of the distance-driven system model on a graphics processing unit (GPU). Solutions to key implementation concerns which have been neglected in previous literature are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4909</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5846&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4909</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5846</articleid>
+<submission-date>2017-02-24T15:33:24-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9748622</context-key>
+<submission-path>utk_gradthes/4909</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Stanimire Tomov</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

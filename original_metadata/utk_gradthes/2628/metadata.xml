@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Fragmentary Bone Matching</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ali.mustafa@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mustafa</lname>
+<fname>Ali</fname>
+<mname>Saad</mname>
+</author>
+</authors>
+<disciplines><discipline>Other Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Identification, reconstruction and matching of fragmentary bones are basic tasks required to accomplish quantification and analysis of fragmentary human remains derived from forensic contexts. Appropriate techniques for three-dimensional surface matching have received great attention in computer vision literature, and various methods have been proposed for matching fragmentary meshes; however, many of these methods lack automation, speed and/or suffer from high sensitivity to noise. In addition, reconstruction of fragementary bones along with identification in the presence of reference model to compare with in an automatic scheme have not been addressed. In order to address these issues, we used a multi-stage technique for fragment identification, matching and registration.&lt;/p&gt;
+&lt;p&gt;The study introduces an automated technique for matching of fragmentary human skeletal remains for improving forensic anthropology practice and policy. The proposed technique involves creation of surfaces models for the fragmentary elements which can be done using computerized tomographic scans followed by segmentation. Upon creation of the fragmentary elements models, the models go through feature extraction technique where the surface roughness map of each model is measured using local shape analysis measures. Adaptive thesholding is then used to extract model features. A multi-stage technique is then used to identify, match and register bone fragments to their corresponding template bone model. First, extracted features are used for matching with different template bone models using iterative closest point algorithm with different positions and orientations. The best match score, in terms of minimum root-mean-square error, is used along with the position and orientation and the resulting transformation to register the fragment bone model with the corresponding template bone model using iterative closest point algorithm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2628</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3541&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2628</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3541</articleid>
+<submission-date>2013-10-08T14:48:23-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3541/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4685262</context-key>
+<submission-path>utk_gradthes/2628</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard D. Komistek, William R. Hamel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

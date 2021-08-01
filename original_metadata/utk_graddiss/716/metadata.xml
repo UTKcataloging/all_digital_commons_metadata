@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Flow-based Adaptive Split Signal Control</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>akohls@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kohls</lname>
+<fname>Airton</fname>
+<mname>G</mname>
+</author>
+</authors>
+<keywords>
+<keyword>adaptive</keyword>
+<keyword>split</keyword>
+<keyword>signal</keyword>
+<keyword>control</keyword>
+<keyword>UDP</keyword>
+<keyword>NTCIP</keyword>
+</keywords>
+<disciplines><discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Over the last 35 years many adaptive traffic signal control systems have been developed presenting alternative strategies to improve traffic signal operations. However, less than 1% of all traffic signals in the United States are controlled by adaptive systems today. The extensive infrastructure necessary including reliable communication and complex calibration leads to a time consuming and costly process. In addition, the most recent National Traffic Signal Report Card indicated an overall grade of D for the nation’s traffic signal control and operations. Recent economic adversity adds to the already difficult task of proactively managing aged signal timing plans.&lt;/p&gt;
+&lt;p&gt;Therefore, in an attempt to escape the status quo, a flow based adaptive split signal control model is presented, having the principal objective of updating the split table based solely on real-time traffic conditions and without disrupting coordination. Considering the available typical traffic signal control infrastructure in cities today, a non centralized system is proposed, directed to the improvement of National Electrical Manufacturers Association (NEMA) based systems that are compliant with the National Transportation Communications for Intelligent Transportation System Protocol (NTCIP) standards. The approach encompasses the User Datagram Protocol (UDP) for system communication allowing an external agent to gather flow information directly from a traffic signal controller detector status and use it to better allocation of phase splits.&lt;/p&gt;
+&lt;p&gt;The flow based adaptive split signal control was not able to consistently yield significant lower average vehicle delay than a full actuated signal controller when evaluated on an intersection operating a coordinated timing plan. However, the research proposes the ability of an external agent to seamless control a traffic signal controller using real-time data, suggesting the encouraging results of this research can be improved upon.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/716</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1767&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>716</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1767</articleid>
+<submission-date>2010-04-15T06:39:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1275781</context-key>
+<submission-path>utk_graddiss/716</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Thomas Urbanik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee Han, Christopher Cherry, Itamar Arel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

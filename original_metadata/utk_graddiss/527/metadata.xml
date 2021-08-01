@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Uncertainty Minimization in Robotic 3D Mapping Systems Operating in Dynamic Large-Scale Environments</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sukumar</lname>
+<fname>Sreenivas</fname>
+<mname>Rangan</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation research is motivated by the potential and promise of 3D sensing technologies in safety and security applications. With specific focus on unmanned robotic mapping to aid clean-up of hazardous environments, under-vehicle inspection, automatic runway/pavement inspection and modeling of urban environments, we develop modular, multi-sensor, multi-modality robotic 3D imaging prototypes using localization/navigation hardware, laser range scanners and video cameras.&lt;/p&gt;
+&lt;p&gt;While deploying our multi-modality complementary approach to pose and structure recovery in dynamic real-world operating conditions, we observe several data fusion issues that state-of-the-art methodologies are not able to handle. Different bounds on the noise model of heterogeneous sensors, the dynamism of the operating conditions and the interaction of the sensing mechanisms with the environment introduce situations where sensors can intermittently degenerate to accuracy levels lower than their design specification. This observation necessitates the derivation of methods to integrate multi-sensor data considering sensor conflict, performance degradation and potential failure during operation.&lt;/p&gt;
+&lt;p&gt;Our work in this dissertation contributes the derivation of a fault-diagnosis framework inspired by information complexity theory to the data fusion literature. We implement the framework as opportunistic sensing intelligence that is able to evolve a belief policy on the sensors within the multi-agent 3D mapping systems to survive and counter concerns of failure in challenging operating conditions. The implementation of the information-theoretic framework, in addition to eliminating failed/non-functional sensors and avoiding catastrophic fusion, is able to minimize uncertainty during autonomous operation by adaptively deciding to fuse or choose believable sensors. We demonstrate our framework through experiments in multi-sensor robot state localization in large scale dynamic environments and vision-based 3D inference. Our modular hardware and software design of robotic imaging prototypes along with the opportunistic sensing intelligence provides significant improvements towards autonomous accurate photo-realistic 3D mapping and remote visualization of scenes for the motivating applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/527</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1594&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>527</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1594</articleid>
+<submission-date>2010-02-22T09:50:43-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1161464</context-key>
+<submission-path>utk_graddiss/527</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Hamparsum Bozdogan, Hairong Qi, Andreas F. Koschan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/SukumarSreenivasRangan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

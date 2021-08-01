@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Implementing Neural Network-Based Face Detection onto A Reconfigurable Computing System Using CHAMPION</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Srijanto</lname>
+<fname>Bernadeta</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;From the innovation of the mechanical computers to the invention of semiconductors, there is Adaptive Computing System (ACS), which can be customized to suit users’ specific applications. Automated system software is needed to accommodate application mapping onto an ACS as it takes an extensive amount of time to perform the process manually. CHAMPION is an automatic mapping tool developed at the University of Tennessee. Using Khoros Cantata workspace as its input, CHAMPION’s goal is to improve designer productivity by 100 percent. The neural network section of face detection was one of multiple applications used as the challenge problem to CHAMPION. The face detection system was originally developed and written in float- ing point C programming language by Henry Rowley at the Carnegie Melon University. Unfortunately, the neural network could not be realized in the Wildforce-XL board, which was the targeted ACS platform. Upon finishing this project, this thesis presents some challenges to improve CHAMPION specifically and automatic system in general.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2196</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3550&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2196</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3550</articleid>
+<submission-date>2013-10-09T08:31:21-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4688537</context-key>
+<submission-path>utk_gradthes/2196</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Danny Newport, Chandra Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

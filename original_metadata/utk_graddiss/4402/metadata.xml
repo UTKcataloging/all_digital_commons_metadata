@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Monolithic Perimeter Gated Single Photon Avalanche Diode Based Optical Detector in Standard CMOS</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mhabib4@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Habib</lname>
+<fname>Md. Habib</fname>
+<mname>Ullah</mname>
+</author>
+</authors>
+<keywords>
+<keyword>SPAD</keyword>
+<keyword>Monolithic</keyword>
+<keyword>Geiger mode</keyword>
+<keyword>Single photon avalanche diode</keyword>
+<keyword>Pixel</keyword>
+<keyword>Premature breakdown</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;Since the 1930&#39;s photomultiplier tubes (PMTs) have been used in single photon detection. Single photon avalanche diodes (SPADs) are p-n junctions operated in the Geiger mode. Unlike PMTs, CMOS based SPADs are smaller in size, insensitive to magnetic fields, less expensive, less temperature dependent, and have lower bias voltages. Using appropriate readout circuitry, they measure properties of single photons, such as energy, arrival time, and spatial path making them excellent candidates for single photon detection. CMOS SPADs suffer from premature breakdown due to the non-uniform distribution of the electric field. This prevents full volumetric breakdown of the device and reduces the detection effciency by increasing the noise. A novel device known as the perimeter gated SPAD (PGSPAD) is adopted in this dissertation for mitigating the premature perimeter breakdown without compromising the fill-factor of the device. The novel contributions of this work are as follows.&lt;/p&gt;
+&lt;p&gt;A novel simulation model, including SPICE characteristics and the stochastic behavior, has been developed for the perimeter gated SPAD. This model has the ability to simulate the static current-voltage and dynamic response characteristics. It also simulates the noise and spectral response.&lt;/p&gt;
+&lt;p&gt;A perimeter gated silicon photomultiplier, with improved signal to noise ratio, is reported for the first time. The gate voltage reduces the dark current of the silicon photomultiplier by preventing the premature breakdown.&lt;/p&gt;
+&lt;p&gt;A digital SPAD with the tunable dynamic range and sensitivity is demonstrated for the first time. This pixel can be used for weak optical signal application when relatively higher sensitivity and lower input dynamic range is required. By making the sensitivity-dynamic range trade-off the same detector can be used for applications with relatively higher optical power.&lt;/p&gt;
+&lt;p&gt;Finally, an array has been developed using the digital silicon photomultiplier in which the dead time of the pixels have been reduced. This digital photomultiplier features noise variation compensation between the pixels.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4402</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5873&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4402</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5873</articleid>
+<submission-date>2017-02-24T15:33:44-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9748617</context-key>
+<submission-path>utk_graddiss/4402</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicole McFarlane</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Syed K. Islam, Steven A. Ripp</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

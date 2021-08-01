@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Feasibility Study of Just-in-Time Asthma Self-Management Intervention</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pscrugg2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Scruggs</lname>
+<fname>Phillip</fname>
+<mname>Charles</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Asthma</keyword>
+<keyword>Self Intervention</keyword>
+<keyword>Real Time</keyword>
+<keyword>Data</keyword>
+</keywords>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Community Health and Preventive Medicine</discipline>
+<discipline>Public Health and Community Nursing</discipline>
+</disciplines><abstract>&lt;p&gt;Quality asthma care requires not only an initial diagnosis, but long term follow up care and education on long term control. Preventable symptoms continue to reduce the quality of life for chronic asthma sufferers and place an unnecessary burden on emergency services and the health care system at large. A mobile health (mHealth) solution is proposed to effectively improve outcomes for patients while ultimately reducing the overall burden of mismanagement on the healthcare system as a whole. The Just-in-Time Asthma Self- Management and Intervention (JASMIN) system provides a way for a patient or user to track, self-manage, and interact with his/her overall treatment plan and empowers the patient or user to take charge of his/her long term asthma control. The JASMIN system incorporates both hardware and software components in the form of a mobile hardware device and an internet-based application. A portable device designated Prototype1 was developed to meet the requirements to be utilized by a target population of young children and adolescents who might not own smartphones or mobile devices. An additional web based application was also developed for users including adolescents and adults. The device, Prototype1, incorporated a peak flow meter, push buttons, GPS location, particulate matter, temperature, humidity, and light sensors, as well as the associated hardware required for a real time connection to a network. Such a device enabled a pilot project in which real time data collection would be possible for users without smartphones or other similar services. The web application component of the JASMIN system would enable users including children, parents, teachers, as well as healthcare practitioners a system that could act as a record of adverse events associated with asthma, a digital journal that is updated automatically, as well as a resource for intervention as the need arises. Such a system may address persistent problems associated with improving care for chronic asthma sufferers by addressing the needs of being real time, having information on managing symptoms when that information needs to be presented, and provides a way for users to intervene and manage their symptoms when not in the presence of healthcare professionals.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4016</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5261&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4016</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5261</articleid>
+<submission-date>2016-06-28T10:37:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8782364</context-key>
+<submission-path>utk_gradthes/4016</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee Martin, Jindong Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>JASMINUI.docx</archive-name>
+<upload-name>JASMINUI.docx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=5261&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</mime-type>
+<description>JASMIN User Interface Wireframe Mockup</description>
+</file>
+<file>
+<archive-name>JASMIN_DIRECT_POST1.ino</archive-name>
+<upload-name>JASMIN_DIRECT_POST1.ino</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=5261&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>JAMIN prototype1 Hardware Code</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

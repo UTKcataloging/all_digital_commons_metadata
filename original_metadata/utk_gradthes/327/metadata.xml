@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Analysis of a General Purpose Operational Amplifier for Extreme Temperature Operation</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ulaganathan</lname>
+<fname>Chandradevi</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Operational amplifiers (op amps) are key functional blocks that are used in a variety of analog subsystems such as switched-capacitor filters, analog-to-digital converters, digital-to-analog converters, voltage references and regulators, etc. There has been a growing interest in using such circuits for &quot;extreme environment&quot; electronics, in particular for electronics capable of operating down to deep-cryogenic temperatures for lunar and Martian surface explorations.&lt;/p&gt;
+&lt;p&gt;This thesis presents the design and analysis of a general purpose op amp suited for “extreme environment” applications, with a wide operating temperature range of 93 K to 398 K. The op amp has been implemented using a CMOS architecture to exploit the low temperature operational advantages offered by MOS devices, such as increase in carrier mobility, increased transconductance, and improved switching speeds. The op amp has a two-stage architecture to provide high gain and also incorporates common-mode feedback around the input stage. Tracking compensation has been implemented to provide stable frequency compensation over wide temperature. The op amp has been fabricated in a commercial 0.35-μm 3.3-V SiGe BiCMOS process. The op amp has been tested for the temperature range of 93 K to 398 K and is unity-gain stable and fully functional over this range.&lt;/p&gt;
+&lt;p&gt;This thesis begins with a study of the impact of temperature on MOS devices and operational amplifiers. Next, the design of the wide temperature general-purpose operational amplifier is presented along with an analysis of the common-mode feedback circuit. The op amp is then characterized using simulation results. Finally, the test setup is presented and the measurement results are compared with those from simulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/327</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1360&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>327</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1360</articleid>
+<submission-date>2010-02-12T09:04:31-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1142596</context-key>
+<submission-path>utk_gradthes/327</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/Theses/UlaganathanChandra.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Framework for Downloading Wide-Area Files</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Collins</lname>
+<fname>Rebecca</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The challenge of efficiently retrieving files that are broken into segments and replicated across the widearea is of prime importance to wide-area, peer-to-peer, and Grid file systems. Two different algorithms addressing this challenge have been proposed and evaluated. While both have been successful in different performance scenarios, there has been no unifying work that can view both algorithms under a single framework. In this thesis, we define such a framework, where download algorithms are defined in terms of the four dimensions that the client always controls: the number of simultaneous downloads, the degree of work replication, the failover strategy, and the server selection algorithm. We then explore the impact of varying parameters along each of these dimensions, testing the framework over several types of file distributions. In addition, the additional dependencies and trends that arise when files are augmented with erasure codes rather than replication are examined.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1922</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3280&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1922</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3280</articleid>
+<submission-date>2013-09-23T10:36:08-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4614312</context-key>
+<submission-path>utk_gradthes/1922</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brad Vander Zanden, Micah Beck</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Classifying Nominal Voltage of Electric Power Transmission Lines Using Remotely-Sensed Data</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eschmid8@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Schmidt</lname>
+<fname>Erik</fname>
+<mname>Herman</mname>
+</author>
+</authors>
+<keywords>
+<keyword>geography</keyword>
+<keyword>energy</keyword>
+<keyword>electric power</keyword>
+<keyword>transmission lines</keyword>
+<keyword>Minnesota</keyword>
+<keyword>classification</keyword>
+</keywords>
+<disciplines><discipline>Geographic Information Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Geospatial data of national infrastructure are a valuable resource for visualization, analysis, and modeling. Building these geospatial foundation-level infrastructure datasets presents numerous challenges. Among those challenges is that of acquiring non-visible attribution of particular infrastructure entities for which there is no viable tabular source. In the case of electric power transmission lines, these data are difficult to acquire, particularly nation-wide. The route, or geometry of transmission lines can be determined from aerial imagery, but nominal voltage, a fundamental requirement for analysis and modeling, is not readily apparent. However, inferences can be made about the nominal voltage based on visual characteristics, or predictors. This study develops a methodology to extract predictors from high-resolution aerial imagery and test the efficacy of those predictors for classifying the nominal voltage of transmission lines using a supervised classifier.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3807</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5139&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3807</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5139</articleid>
+<submission-date>2016-02-26T18:56:45-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8227717</context-key>
+<submission-path>utk_gradthes/3807</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Budhenrda L. Bhaduri</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicholas Nagle, Bruce Ralston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>State Space Modelling of Dynamic Choice Behavior with Habit Persistence</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>klee45@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lee</lname>
+<fname>Kang Bok</fname>
+</author>
+</authors>
+<disciplines><discipline>Econometrics</discipline>
+<discipline>Management Sciences and Quantitative Methods</discipline>
+<discipline>Marketing</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, I present a new approach to capturing dependence across time in dynamic choice data. To achieve this, I develop a state space dynamic choice model and a novel algorithm to fit the data. Instead of capturing dependence in outcomes through lagged response variables, referred to as &lt;em&gt;state dependence,&lt;/em&gt; I introduce a lagged utility term through the latent state equation. The lagged utility term captures &lt;em&gt;habit persistence, &lt;/em&gt;which has not been explored directly in earlier models (Heckman, 1981b). The autoregressive nature of the lagged utility provides a significantly richer summary of prior utility than a lagged outcome variable. The fitting algorithm combines a non-linear particle filter with a standard Metropolis-Hastings step to compute Bayesian posterior estimates of the parameters. The model can capture habit persistence (inertia), variety seeking, serial correlation, and unobserved heterogeneity. Through simulation analysis, I demonstrate that while the proposed method is effective in estimating the parameters, both a large sample size and the number of simulated particles are critical. Misspecification in serial correlation in the random component of the utility function is shown to result in biased estimates for certain coefficients, although not the habit persistence term. This method avoids the initial conditions problem common with lagged variables (Wooldridge, 2010). From the perspective of a marketer, the value of the proposed model stems from its ability to distinguish the effects of habit, variety seeking, and heterogeneity.&lt;/p&gt;
+&lt;p&gt;The algorithm is applied to case studies involving the sales of fast-moving consumer goods, as recorded in scanner data furnished by a major grocery store. The studies demonstrate the wide-ranging variation in purchasing habits and price sensitivity across customers; this variation highlights the value of the individual-level models applied in this study. Specifically, we find the existence of habitual purchasing behavior in utilitarian goods (e.g., cereal and soft drinks). However, in hedonic goods (e.g., beer), we find no evidence of habit persistence, which is in agreement with earlier studies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2838</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4275&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2838</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4275</articleid>
+<submission-date>2014-07-27T22:50:40-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4275/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5832556</context-key>
+<submission-path>utk_graddiss/2838</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Russell Lee Zaretzki</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chad Autry, Christian Vossler, Randy Bradley, Bogdan Bichescu, Neeraj Bharadwaj</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

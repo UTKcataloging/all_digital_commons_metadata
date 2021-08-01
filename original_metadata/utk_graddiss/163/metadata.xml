@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MEMS Capacitive Strain Sensing Elements for Integrated Total Knee Arthroplasty Prosthesis Monitoring</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Evans III</lname>
+<fname>Boyd</fname>
+<mname>McCutchen</mname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Measuring the &lt;em&gt;in vivo&lt;/em&gt; load state of Total Knee Arthroplasty (TKA) components is required to understand the structural environment and wear characteristics of the devices. The ability to acquire this information gives tremendous insight into the mechanics of the joint replacement prosthesis. Data corresponding to normal loads, in-plane loads, shear loads, load center, contact area, and the rate of loading is needed to fully understand the kinematics and kinetics of the orthopedic implant. In this research, a novel sensing system has been developed which is capable of fully characterizing three-dimensional strain and stress at a single location.&lt;/p&gt;
+&lt;p&gt;Capacitance-based sensors were chosen to avoid the power loss and drift characteristics typical of resistive elements due to resistive heating effects. A design and optimization methodology has been developed by combining conformal mapping electrostatic analysis techniques with methods from micromechanics of composite materials. Results of the design and optimization technique are used to understand the behavior of the sensing system. Simulation of these systems was performed using multiphysics finite element analysis, and novel methods for fabricating the sensors were adapted from techniques for fabricating microelectromechanical systems (MEMS) using biocompatible materials.&lt;/p&gt;
+&lt;p&gt;An array of six sensors was fabricated with a critical dimension of 2.25 micrometers. This array consisted of a parallel plate capacitor for measuring normal strain, two differential elements for sensing shear strain normal to the plane of the array, and three interdigitated transducer (IDT) elements for characterizing strain in the plane of the sensor. The normal strain sensor exhibited a sensitivity of 1.54×10&lt;sup&gt;-3&lt;/sup&gt; picofarads per megapascal, and the shear sensor had a sensitivity of 4.77×10&lt;sup&gt;-5&lt;/sup&gt; picofarads per megapascal. Testing results showed that all sensors had linear response to loading and insignificant drift. Multiaxial testing results illustrated the ability of the differential sensors to determine loading direction.&lt;/p&gt;
+&lt;p&gt;A multiaxial, MEMS sensor array has been developed for use in orthopedic, load-measuring conditions. This system has been optimized for use in soft materials such as ultra-high molecular weight polyethylene (UHMWPE). In the future, arrays of sensors will be embedded in orthopedic components to determine the total state of stress at local positions within the component.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/163</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1210&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>163</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1210</articleid>
+<submission-date>2010-01-29T09:01:19-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1125313</context-key>
+<submission-path>utk_graddiss/163</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard D. Komistek, William R. Hamel, Syed K. Islam, Ally E. Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/EvansBoyd.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

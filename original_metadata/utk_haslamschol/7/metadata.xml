@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scalable Spatial Framework for NoSQL Databases - Haslam Scholars Program Undergraduate Thesis</title>
+<publication-date>2018-12-09T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>denciso@vols.utk.edu</email>
+<lname>Enciso</lname>
+<fname>Daniel</fname>
+<mname>F</mname>
+</author>
+</authors>
+<disciplines><discipline>Data Storage Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The spatial frameworks used for knowledge discovery in “Big Data” areas such as urban information systems (UIS) are well- developed in SQL databases but are not as extensive within certain NoSQL databases. The focus of this project is to develop this framework for emerging search systems (ESS) in UIS by utilizing NoSQL databases, notably the document-based MongoDB. Such framework includes spatial functions for the most fundamental spatial queries. An ESS in UIS can take advantage of these new and attractive features of scalability within MongoDB to provide a robust approach to spatial search that differs from SQL relations and scalability. MongoDB, which is relatively in its early stages of spatial search in contrast to PostgreSQL, will require contributions to its spatial “toolbox”. Many of the operations present in SQL packages, such as PostGIS, are not in MongoDB. Thus, there is an opportunity to contribute to MongoDB’s ongoing geospatial evolution by developing, testing, and optimizing the spatial utilities used for large NoSQL datasets. Within UIS, these core operations can prove to be an important starting point for detailed geospatial analysis and high-impact data production. We hope, by open sourcing this framework (as an extension), it can serve the research community as the foundation for scalable NoSQL platforms for big geospatial data analytics and be the next stage for open source contributions to MongoDB.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_haslamschol/7</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1010&amp;amp;context=utk_haslamschol&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1010</articleid>
+<submission-date>2018-12-09T18:51:31-08:00</submission-date>
+<publication-title>Haslam Scholars Projects</publication-title>
+<context-key>13451195</context-key>
+<submission-path>utk_haslamschol/7</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Mentors:&lt;/p&gt;
+&lt;p&gt;Rajasekar Karthik&lt;/p&gt;
+&lt;p&gt;Arvind Ramanathan&lt;/p&gt;
+&lt;p&gt;They did not author this thesis but were instrumental to the overall project and they are included in the demo paper as co-authors due to their specific guidance on completing the assignment.&lt;/p&gt;</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-09T00:00:00-08:00</value>
+</field>
+<field name="embargo_request" type="string">
+<value>No</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-09T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

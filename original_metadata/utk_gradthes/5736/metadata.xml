@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of HFIR LEU fuel using the COMSOL multiphysics platform</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Tschaepe</lname>
+<fname>Lee</fname>
+<mname>Paul</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Nuclear engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;A finite element computational approach to simulation of the HFIR core thermal-fluid behavior is developed. These models were developed to facilitate design of a low enriched core for the HFIR, which will have different axial and radial flux profiles from the current HEU core and thus will require fuel and poison load optimization. This report outlines a stepwise implementation of this modeling approach using the commercial finite element code, COMSOL, with initial assessment of fuel, poison and clad conduction modeling capability, followed by assessment of mating of the fuel conduction models to a one dimensional fluid model typical of legacy simulation techniques for the HFIR core. The model is then extended to fully couple 2-dimensional conduction in the fuel to a 2-dimensional thermo-fluid model of the coolant for a HFIR core cooling sub-channel with additional assessment of simulation outcomes. Finally, 3-dimensional simulations of a fuel plate and cooling channel are presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5736</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7358&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5736</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7358</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467498</context-key>
+<submission-path>utk_gradthes/5736</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur E. Ruggles</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

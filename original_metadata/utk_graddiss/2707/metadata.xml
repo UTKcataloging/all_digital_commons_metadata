@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Generation Scheduling for Power Systems with Demand Response and a High  Penetration of Wind Energy</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gliu5@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Guodong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>unit commitment</keyword>
+<keyword>economic dispatch</keyword>
+<keyword>wind power</keyword>
+<keyword>demand response</keyword>
+<keyword>optimization</keyword>
+<keyword>uncertainty</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;With renewable energy sources and demand response programs expanding in many power systems, traditional unit commitment and economic dispatch approaches are inadequate. The power system is changing to one where there is control with uncertainty for both generation and load. Alternative power system scheduling methods capable of aggregating the uncertainty of wind power and demand response, while maintaining reliable and economic performance are investigated in this work. The research addresses four aspects of these changes.&lt;/p&gt;
+&lt;p&gt;First, a probabilistic method is proposed to maintain uniform system reliability level in the hour-ahead economic dispatch by quantifying different levels of required spinning reserve. The method considers the probability distributions of wind speed and load forecast errors, as well as outage replacement rates of generators by using the expectation of demand not served (EDNS) as an evaluation index.&lt;/p&gt;
+&lt;p&gt;Second, a probabilistic model of security-constrained unit commitment (SCUC) is proposed to determine the optimal amount of spinning reserve when integrating wind generation. An algorithm, which includes the stochastic wind forecast results into a day-ahead unit commitment and extracts its value for system operation of system, is developed. The proposed model determines the optimal amount of spinning reserve in terms of an optimal trade-off between economic efficiency and system reliability.&lt;/p&gt;
+&lt;p&gt;Third, a new duplex demand response model is proposed to allow demand to bid into both the energy and spinning reserve markets. A co-optimized day-ahead energy and spinning reserve market is proposed to minimize the expected net cost under any credible system state, i.e., expected total cost of operation minus total benefit of demand. The problem is solved by MILP. Compared with conventional demand shifting bids, the proposed model can reduce system operating cost.&lt;/p&gt;
+&lt;p&gt;Fourth, a robust UC model to minimize the generalized social cost is proposed. Compared to the traditional UC to maximize the social welfare, the proposed model more effectively manages uncertainty in demand response to price changes. The solution is robust against all possible modeled realizations of the uncertain demand response.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2707</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3699&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2707</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3699</articleid>
+<submission-date>2013-10-09T14:16:40-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4690069</context-key>
+<submission-path>utk_graddiss/2707</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin L. Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Yilu Liu, Tsewei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

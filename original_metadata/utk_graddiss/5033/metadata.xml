@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>METHODOLOGIES FOR IMAGING A USED NUCLEAR FUEL DRY STORAGE CASK WITH COSMIC RAY MUON COMPUTED TOMOGRAPHY</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zliu36@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Liu</lname>
+<fname>Zhengzhi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Spent nuclear fuel dry storage cask</keyword>
+<keyword>Muon tomography</keyword>
+</keywords>
+<abstract>&lt;p&gt;It&#39;s important to the International Atomic Energy Agency (IAEA) to develop a nondestructive assay technique that may that be used to verify the presence of the used nuclear fuel stored in a dry storage cask once continuity of knowledge has been lost. X-rays and neutrons are not good candidates for assay because they do not penetrate dry storage casks with high probability, and gammas and neutrons are also emitted by the used nuclear fuel. In contrast, cosmic ray muons are naturally occurring highly penetrating particles. Muons interact with matter via two major interaction mechanisms: ionization and radioactive process, and multiple Coulomb scattering leading to energy loss and trajectory deflection, respectively. For a monoenergetic muon beam crossing an object, the scattering angle follows a Gaussian distribution with a zero mean value and a variance that depends on the atomic number of the material object it traversed. Thus, the measured scattering angle may be used to reconstruct the geometrical and material information of the contents inside the dry storage cask.In traditional X-ray computed tomography, the projection information used to reconstruct the attenuation map of the imaged objects is the negative natural logarithm of the transmission rate of the X-rays, which is equal to the linear summation of the X-ray attenuation coefficients along the incident path. Similarly, the variance of the muon scattering angle is also the linear integral of the scattering density of the objects crossed by the muons. Thus, a muon CT image can be built by equating scattering density with attenuation coefficient. However, muon CT faces some unique challenges including: 1) long measurement times due to low cosmic muon flux, 2) insufficiently accurate muon path models, and 3) the inability to precisely measuring muon momentum.In this work, three different muon path models, two different projection methods, and two different reconstruction methods were investigated for use in muon CT of dry storage casks. The investigation was conducted in a validated Geant4 workspace, both in an ideal case and with relevant engineering restrictions considered. The results of these investigations and the expected benefits for fuel cask monitoring are reported herein.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5033</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6574&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5033</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6574</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415431</context-key>
+<submission-path>utk_graddiss/5033</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason P. Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence H. Heilbronn, Laurence F. Miller, Hairong Qi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-7650-5502</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>From MPI to OpenSHMEM: Porting LAMMPS</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ctang7@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tang</lname>
+<fname>Chunyan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>HPC</keyword>
+<keyword>PGAS</keyword>
+<keyword>LAMMPS</keyword>
+<keyword>OpenSHMEM</keyword>
+<keyword>Parallel Programming</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This work details the opportunities and challenges of porting a petascale-capable, MPI-based application LAMMPS to OpenSHMEM. We investigate the major programming challenges stemming from the differences in communication semantics, address space organization, and synchronization operations between the two pro- gramming models. This work provides several approaches to solve those challenges for representative communication patterns in LAMMPS, e.g., by utilizing group synchronization, peer’s buffer status tracking, double buffer strategy and unpacked direct transfer of data. The performance of LAMMPS is evaluated on the Titan HPC system at ORNL. The OpenSHMEM implementations are compared with MPI version in terms of both strong and weak scaling. The results outline that OpenSHMEM provides a rich semantic to implement scalable scientific applications. In addition, the experiments demonstrate that OpenSHMEM can compete with, and often improve on, the optimized MPI implementation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3517</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4774&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3517</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4774</articleid>
+<submission-date>2015-04-27T15:07:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7037981</context-key>
+<submission-path>utk_gradthes/3517</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>George Bosilca, Audris Mockus</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

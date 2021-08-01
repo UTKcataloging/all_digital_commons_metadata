@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Fully Integrated High-Temperature, High-Voltage, BCD-on-SOI Voltage Regulator</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bmccue@utk.edu</email>
+<lname>McCue</lname>
+<fname>Benjamin</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>voltage regulator</keyword>
+<keyword>high temperature</keyword>
+<keyword>high voltage</keyword>
+<keyword>silicon on insulator</keyword>
+<keyword>gate driver</keyword>
+<keyword>LM723</keyword>
+</keywords>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Developments in automotive (particularly hybrid electric vehicles), aerospace, and energy production industries over the recent years have led to expanding research interest in integrated circuit (IC) design toward high-temperature applications.  A high-voltage, high-temperature SOI process allows for circuit design to expand into these extreme environment applications.  Nearly all electronic devices require a reliable supply voltage capable of operating under various input voltages and load currents.  These input voltages and load currents can be either DC or time-varying signals.  In this work, a stable supply voltage for embedded circuit functions is generated on chip via a voltage regulator circuit producing a stable 5-V output voltage.  Although applications of this voltage regulator are not limited to gate driver circuits, this regulator was developed to meet the demands of a gate driver IC.  The voltage regulator must provide reliable output voltage over an input range from 10 V to 30 V, a temperature range of −50 ºC to 200 ºC, and output loads from 0 mA to 200 mA.  Additionally, low power stand-by operation is provided to help reduce heat generation and thus lower operating junction temperature.  This regulator is based on the LM723 Zener reference voltage regulator which allows stable performance over temperature (provided proper design of the temperature compensation scheme).  This circuit topology and the SOI silicon process allow for reliable operation under all application demands.  The designed voltage regulator has been successfully tested from −50 ºC to 200 ºC while demonstrating an output voltage variation of less than 25 mV under the full range of input voltage.  Line regulation tests from 10 V to 35 V show a 3.7-ppm/V supply sensitivity.  With the use of a high-temperature ceramic output capacitor, a 5-nsec edge, 0 to 220 mA, 1-µsec pulse width load current induced only a 55 mV drop in regulator output voltage.  In the targeted application, load current pulse widths will be much shorter, thereby improving the load transient performance.  Full temperature and input voltage range tests reveal the no-load supply current draw is within 330 µA while still providing an excess of 200 mA of load current upon demand.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/646</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1037&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>646</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1037</articleid>
+<submission-date>2010-01-06T14:42:12-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1104715</context-key>
+<submission-path>utk_gradthes/646</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Leon M. Tolbert, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

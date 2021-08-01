@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A New Method for Coupling 2D and 3D Deterministic and Stochastic Radiation Transport Calculations</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jkulesza@gmail.com</email>
+<lname>Kulesza</lname>
+<fname>Joel Aaron</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Monte Carlo</keyword>
+<keyword>Discrete Ordinates</keyword>
+<keyword>Stochastic</keyword>
+<keyword>Deterministic</keyword>
+<keyword>Coupling</keyword>
+<keyword>DISCO</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of this body of work was to produce a code system capable of processing boundary angular flux data from discrete ordinates calculations in 2D and 3D Cartesian and cylindrical geometries into cumulative probability density functions that can be used with a Monte Carlo radiation transport code to define neutron and photon initial positions, directions, and energies.  In order to accomplish this goal, the DISCO (DetermInistic-Stochastic Coupling Operation) code was created to interface between the DORT and TORT deterministic radiation transport codes and the MCNP stochastic radiation transport code.  DISCO introduces new methods to use the boundary angular flux data, along with information regarding the deterministic quadrature sets and spatial mesh structure, to create cumulative probability density functions that are passed to MCNP for sampling within the source.F90 subroutine that was also generated as part of this work.  Operating in concert, DISCO and the MCNP source.F90 subroutine create a source term according to the discrete ordinates angular flux information.  In order to validate the work described herein, 24 test cases were created to exercise the different geometries and execution modes available.  The results of these test cases confirm that the methodology and corresponding implementation is appropriate and functioning correctly.  Furthermore, this work incorporates several novel features such as compatibility with all 2D and 3D Cartesian and cylindrical geometries, an angular and spatial indexing scheme to reduce random sampling operations, a streamlining of process execution, and the ability for the resulting Monte Carlo code to operate in either serial and parallel mode.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/992</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1954&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>992</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1954</articleid>
+<submission-date>2011-02-28T20:20:39-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1831574</context-key>
+<submission-path>utk_gradthes/992</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ronald E. Pevey</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence W. Townsend, G. Ivan Maldonado</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

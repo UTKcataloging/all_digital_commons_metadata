@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Management of Islanded Operation of Microgirds</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mazim@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Azim</lname>
+<fname>Md Riyasat</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Distributed Generations</keyword>
+<keyword>Microgrids</keyword>
+<keyword>Islanding Detection</keyword>
+<keyword>Power Management</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Distributed generations with continuously growing penetration levels offer potential solutions to energy security and reliability with minimum environmental impacts. Distributed Generations when connected to the area electric power systems provide numerous advantages. However, grid integration of distributed generations presents several technical challenges which has forced the systems planners and operators to account for the repercussions on the distribution feeders which are no longer passive in the presence of distributed generations.&lt;/p&gt;
+&lt;p&gt;Grid integration of distributed generations requires accurate and reliable islanding detection methodology for secure system operation. Two distributed generation islanding detection methodologies are proposed in this dissertation. First, a passive islanding detection technique for grid-connected distributed generations based on parallel decision trees is proposed. The proposed approach relies on capturing the underlying signature of a wide variety of system events on a set of critical system parameters and utilizes multiple optimal decision tress in a parallel network for classification of system events. Second, a hybrid islanding detection method for grid-connected inverter based distributed generations combining decision trees and Sandia frequency shift method is also proposed. The proposed method combines passive and active islanding detection techniques to aggregate their individual advantages and reduce or eliminate their drawbacks.&lt;/p&gt;
+&lt;p&gt;In smart grid paradigm, microgrids are the enabling engine for systematic integration of distributed generations with the utility grid. A systematic approach for controlled islanding of grid-connected microgrids is also proposed in this dissertation. The objective of the proposed approach is to develop an adaptive controlled islanding methodology to be implemented as a preventive control component in emergency control strategy for microgrid operations.&lt;/p&gt;
+&lt;p&gt;An emergency power management strategy for microgrid autonomous operation subsequent to inadvertent islanding events is also proposed in this dissertation. The proposed approach integrates microgrid resources such as energy storage systems, demand response resources, and controllable micro-sources to layout a comprehensive power management strategy for ensuring secure and stable microgrid operation following an unplanned islanding event.&lt;/p&gt;
+&lt;p&gt;In this dissertation, various case studies are presented to validate the proposed methods. The simulation results demonstrate the effectiveness of the proposed methodologies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4380</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5719&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4380</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5719</articleid>
+<submission-date>2017-01-23T12:12:32-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9570188</context-key>
+<submission-path>utk_graddiss/4380</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kai Sun, Hector A. Pulgar, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

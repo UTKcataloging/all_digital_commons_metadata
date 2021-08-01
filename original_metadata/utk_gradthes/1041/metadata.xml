@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Study of Missing Data Imputation and Predictive Modeling of Strength Properties of Wood Composites</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzeng1@utk.edu</email>
+<lname>Zeng</lname>
+<fname>Yan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>missing data imputation</keyword>
+<keyword>predictive modeling</keyword>
+<keyword>partial least squares regression</keyword>
+<keyword>LASSO</keyword>
+<keyword>Adaptive LASSO</keyword>
+<keyword>BART</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Statistical Methodology</discipline>
+<discipline>Statistical Models</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: Real-time process and destructive test data were collected from a wood composite manufacturer in the U.S. to develop real-time predictive models of two key strength properties (Modulus of Rupture (MOR) and Internal Bound (IB)) of a wood composite manufacturing process.  Sensor malfunction and data “send/retrieval” problems lead to null fields in the company’s data warehouse which resulted in information loss.  Many manufacturers attempt to build accurate predictive models excluding entire records with null fields or using summary statistics such as mean or median in place of the null field.  However, predictive model errors in validation may be higher in the presence of information loss.  In addition, the selection of predictive modeling methods poses another challenge to many wood composite manufacturers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Approach&lt;/strong&gt;: This thesis consists of two parts addressing above issues: 1) how to improve data quality using missing data imputation; 2) what predictive modeling method is better in terms of prediction precision (measured by root mean square error or RMSE).  The first part summarizes an application of missing data imputation methods in predictive modeling.  After variable selection, two missing data imputation methods were selected after comparing six possible methods.  Predictive models of imputed data were developed using partial least squares regression (PLSR) and compared with models of non-imputed data using ten-fold cross-validation.  Root mean square error of prediction (RMSEP) and normalized RMSEP (NRMSEP) were calculated.  The second presents a series of comparisons among four predictive modeling methods using imputed data without variable selection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;: The first part concludes that expectation-maximization (EM) algorithm and multiple imputation (MI) using Markov Chain Monte Carlo (MCMC) simulation achieved more precise results.  Predictive models based on imputed datasets generated more precise prediction results (average NRMSEP of 5.8% for model of MOR model and 7.2% for model of IB) than models of non-imputed datasets (average NRMSEP of 6.3% for model of MOR and 8.1% for model of IB).  The second part finds that Bayesian Additive Regression Tree (BART) produced most precise prediction results (average NRMSEP of 7.7% for MOR model and 8.6% for IB model) than other three models: PLSR, LASSO, and Adaptive LASSO.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1041</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2159&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1041</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2159</articleid>
+<submission-date>2011-08-04T19:11:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2133676</context-key>
+<submission-path>utk_gradthes/1041</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy M. Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank M. Guess, Russell L. Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

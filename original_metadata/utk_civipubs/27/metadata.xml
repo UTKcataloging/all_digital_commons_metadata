@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Benefit of GPU Optimization for the Atmospheric Chemistry Modeling</title>
+<publication-date>2018-07-26T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Sun</lname>
+<fname>Jian</fname>
+</author>
+<author>
+<email>jsfu@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Fu</lname>
+<fname>Joshua</fname>
+<mname>S.</mname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Drake</lname>
+<fname>John</fname>
+<mname>B.</mname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhu</lname>
+<fname>Qingzhao</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Haidar</lname>
+<fname>Azzam</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Gates</lname>
+<fname>Mark</fname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Tomov</lname>
+<fname>Stanimire</fname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Dongarra</lname>
+<fname>Jack</fname>
+</author>
+</authors>
+<keywords>
+<keyword>GPU</keyword>
+<keyword>CUDA</keyword>
+<keyword>compiler</keyword>
+<keyword>memory layout</keyword>
+<keyword>data transfer</keyword>
+<keyword>hybrid</keyword>
+</keywords>
+<abstract>&lt;p&gt;Global chemistry‐climate models are computationally burdened as the chemical mechanisms become more complex and realistic. Optimization for graphics processing units (GPU) may make longer global simulation with regional detail possible, but limited study has been done to explore the potential benefit for the atmospheric chemistry modeling. Hence, in this study, the second‐order Rosenbrock solver of the chemistry module of CAM4‐Chem is ported to the GPU to gauge potential speed‐up. We find that on the CPU, the fastest performance is achieved using the Intel compiler with a block interleaved memory layout. Different combinations of compiler and memory layout lead to ~11.02× difference in the computational time. In contrast, the GPU version performs the best when using a combination of fully interleaved memory layout with block size equal to the warp size, CUDA streams for independent kernels, and constant memory. Moreover, the most efficient data transfer between CPU and GPU is gained by allocating the memory contiguously during the data initialization on the GPU. Compared to one CPU core, the speed‐up of using one GPU alone reaches a factor of ~11.7× for the computation alone and ~3.82× when the data transfer between CPU and GPU is considered. Using one GPU alone is also generally faster than the multithreaded implementation for 16 CPU cores in a compute node and the single‐source solution (OpenACC). The best performance is achieved by the implementation of the hybrid CPU/GPU version, but rescheduling the workload among the CPU cores is required before the practical CAM4‐Chem simulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_civipubs/27</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1035&amp;amp;context=utk_civipubs&amp;amp;unstamped=1</fulltext-url>
+<label>27</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1035</articleid>
+<submission-date>2019-07-24T13:37:43-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Civil &amp; Environmental Engineering</publication-title>
+<context-key>14988598</context-key>
+<submission-path>utk_civipubs/27</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This work is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;NonCommercial-NoDerivitatives 4.0 International License (CC BY-NC-ND 4.0)&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Sun, J., Fu, J. S., Drake, J. B., Zhu, Q.,Haidar, A., Gates, M., et al. (2018). Computational benefit of GPUoptimization for the atmosphericchemistry modeling. Journal ofAdvances in Modeling Earth Systems,10,1952–1969. https://doi.org/10.1002/2018MS001276</value>
+</field>
+<field name="doi" type="string">
+<value>10.1029/2018MS001276</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-07-26T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Journal of Advances in Modeling Earth Systems</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

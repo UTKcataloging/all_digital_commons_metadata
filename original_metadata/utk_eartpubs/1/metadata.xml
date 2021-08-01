@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fractal Characterization of Fracture Networks: An Improved Box-counting Technique</title>
+<publication-date>2007-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Roy</lname>
+<fname>Ankur</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Perfect</lname>
+<fname>Edmund</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Dunne</lname>
+<fname>William</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>lmckay@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>McKay</lname>
+<fname>Larry</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Fractal dimension</keyword>
+<keyword>fractures</keyword>
+<keyword>box-counting</keyword>
+</keywords>
+<disciplines><discipline>Earth Sciences</discipline>
+<discipline>Geology</discipline>
+<discipline>Hydrology</discipline>
+</disciplines><abstract>&lt;p&gt;Box counting is widely used for characterizing fracture networks as fractals and estimating their fractal dimensions (D). If this analysis yields a power law distribution given by &lt;em&gt;N&lt;/em&gt; $\propto$ r&lt;sup&gt;−D&lt;/sup&gt;, where &lt;em&gt;N&lt;/em&gt; is the number of boxes containing one or more fractures and r is the box size, then the network is considered to be fractal. However, researchers are divided in their opinion about which is the best box‐counting algorithm to use, or whether fracture networks are indeed fractals. A synthetic fractal fracture network with a known D value was used to develop a new algorithm for the box‐counting method that returns improved estimates of D. The method is based on identifying the lower limit of fractal behavior (r&lt;sub&gt;cutoff&lt;/sub&gt;) using the condition ds/dr → 0, where s is the standard deviation from a linear regression equation fitted to log(N) versus log(r) with data for r &lt; r&lt;sub&gt;cutoff&lt;/sub&gt; sequentially excluded. A set of 7 nested fracture maps from the Hornelen Basin, Norway was used to test the improved method and demonstrate its accuracy for natural patterns. We also reanalyzed a suite of 17 fracture trace maps that had previously been evaluated for their fractal nature. The improved estimates of D for these maps ranged from 1.56 ± 0.02 to 1.79 ± 0.02, and were much greater than the original estimates. These higher D values imply a greater degree of fracture connectivity and thus increased propensity for fracture flow and the transport of miscible or immiscible chemicals.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_eartpubs/1</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1000&amp;amp;context=utk_eartpubs&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1000</articleid>
+<submission-date>2011-03-07T07:00:15-08:00</submission-date>
+<publication-title>Earth and Planetary Sciences Publications and Other Works</publication-title>
+<context-key>1864397</context-key>
+<submission-path>utk_eartpubs/1</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>Copyright 2007 by the American Geophysical Union
+
+http://www.agu.org/journals/jb/jb0712/2006JB004582/</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Journal of Geophysical Research</value>
+</field>
+</fields>
+</document>
+</documents>

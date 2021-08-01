@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Statistical tools for transgene copy number estimation based on real-time PCR</title>
+<publication-date>2007-11-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>syuan@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yuan</lname>
+<fname>Joshua</fname>
+<mname>S.</mname>
+</author>
+<author>
+<email>jburris1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Burris</lname>
+<fname>Jason N</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stewart</lname>
+<fname>Nathan</fname>
+<mname>R.</mname>
+</author>
+<author>
+<institution>Emory University</institution>
+<lname>Mentewab</lname>
+<fname>Ayalew</fname>
+</author>
+<author>
+<email>nealstewart@utk.edu</email>
+<institution>University of Tennesseee - Knoxvile</institution>
+<lname>Stewart</lname>
+<fname>C.</fname>
+<mname>Neal</mname>
+</author>
+</authors>
+<disciplines><discipline>Bioinformatics</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;As compared with traditional transgene copy number detection technologies such as Southern blot analysis, real-time PCR provides a fast, inexpensive and high-throughput alternative. However, the real-time PCR based transgene copy number estimation tends to be ambiguous and subjective stemming from the lack of proper statistical analysis and data quality control to render a reliable estimation of copy number with a prediction value. Despite the recent progresses in statistical analysis of real-time PCR, few publications have integrated these advancements in real-time PCR based transgene copy number determination.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Three experimental designs and four data quality control integrated statistical models are presented. For the first method, external calibration curves are established for the transgene based on serially-diluted templates. The Ct number from a control transgenic event and putative transgenic event are compared to derive the transgene copy number or zygosity estimation. Simple linear regression and two group T-test procedures were combined to model the data from this design. For the second experimental design, standard curves were generated for both an internal reference gene and the transgene, and the copy number of transgene was compared with that of internal reference gene. Multiple regression models and ANOVA models can be employed to analyze the data and perform quality control for this approach. In the third experimental design, transgene copy number is compared with reference gene without a standard curve, but rather, is based directly on fluorescence data. Two different multiple regression models were proposed to analyze the data based on two different approaches of amplification efficiency integration. Our results highlight the importance of proper statistical treatment and quality control integration in real-time PCR-based transgene copy number determination.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;These statistical methods allow the real-time PCR-based transgene copy number estimation to be more reliable and precise with a proper statistical estimation. Proper confidence intervals are necessary for unambiguous prediction of trangene copy number. The four different statistical methods are compared for their advantages and disadvantages. Moreover, the statistical methods can also be applied for other real-time PCR-based quantification assays including transfection efficiency analysis and pathogen quantification.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biolpubs/4</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1003&amp;amp;context=utk_biolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1003</articleid>
+<submission-date>2013-07-11T09:31:12-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- General Biology</publication-title>
+<context-key>4305045</context-key>
+<submission-path>utk_biolpubs/4</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2007, 8(Suppl 7):S6 doi:10.1186/1471-2105-8-S7-S6</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-11-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cellular Function Prediction for Hypothetical Proteins Using High-Throughput Data</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Joshi</lname>
+<fname>Trupti</fname>
+<mname>Subhash</mname>
+</author>
+</authors>
+<disciplines><discipline>Life Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;We have developed an integrated probabilistic prediction method, which combines the information from protein-protein interactions, protein complexes, microarray gene-expression profiles and functional annotations for known proteins. Our approach differs from the other approaches to use high-throughput data in a variety of ways. First, we utilize the GO biological process functional annotation in comparison to the MIPS classification followed by others. Second, we incorporate information from multiple sources of high-throughput data, including genetic interactions, to develop a better model for function prediction. By incorporating information from the multiple sources of high-throughput data, we identify the parameters important for protein function prediction. Third, we estimate the probability for the proteins to have a function of interest by designing a new statistical method for function prediction. Fourth, our approach assigns multiple functions to the hypothetical proteins and allows confidence assessment, based on the supportive evidences from the high-throughput data. Our work demonstrates the power of integrating multiple sources of high-throughput data with biological functional annotations, in the function prediction for unknown proteins. In addition to this, we have also developed a Web server for function prediction in yeast as well as other organisms. We have applied our method to the Saccharomyces cerevisiae proteome and are able to assign function to 1548 out of the 2472 unannotated proteins in yeast with our approach.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2038</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3399&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2038</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3399</articleid>
+<submission-date>2013-10-01T08:58:43-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4651861</context-key>
+<submission-path>utk_gradthes/2038</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dong Xu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeff Becker, Loren Hauser</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

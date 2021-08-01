@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Alternative Method for Determining Plutonium-240 Content</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>twelling@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wellington</lname>
+<fname>Tracey-Ann</fname>
+<mname>Althea</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The ability to detect the presence of Pu and identify the material as weapons-grade plutonium (WGPu) has a number of applications in the field of nuclear nonproliferation. This is particularly important in counterterrorism applications where the goal is to detect Pu that might be heavily shielded. Once WGPu has been identified, characterization of the material can provide valuable information such as mass, dimensions, and isotopic content. Aiming to enhance the capability of the Nuclear Materials Identification System (NMIS) at Oak Ridge National Laboratory, the objective of this project is to develop a proof-of-concept method to identify the presence of WGPu by determining the &lt;sup&gt;240&lt;/sup&gt;Pu [plutonium-240] content in bare Pu metal assemblies of spherical or shell type configuration, or assemblies surrounded by neutron or gamma shielding. WGPu has a &lt;sup&gt;240&lt;/sup&gt;Pu/&lt;sup&gt;239&lt;/sup&gt;Pu [plutonium-239] ratio below 0.10, or below ~7% &lt;sup&gt;240&lt;/sup&gt;Pu content. The method is based solely on a NMIS passive time correlation signature and the dimensions of the Pu assembly (obtained from NMIS imaging data or external sources).&lt;/p&gt;
+&lt;p&gt;The method was built using MCNP simulations to predict the effects of certain Pu assembly parameters on the observed time distribution of correlated events from passive measurements. Analysis of the simulations resulted in a series of equations that account for these parameters when calculating the &lt;sup&gt;240&lt;/sup&gt;Pu content. These equations were compiled in an algorithm that provides the &lt;sup&gt;240&lt;/sup&gt;Pu content in percent, the uncertainty of this result, and a statement declaring whether or not the sample contains WGPu. The accuracy of the algorithm was verified using NMIS simulated and measured data, and the algorithm was able to determine the &lt;sup&gt;240&lt;/sup&gt;Pu content of the spherical or shell type Pu assembly and identify the presence of WGPu in nine out of ten cases.&lt;/p&gt;
+&lt;p&gt;The algorithm is suitable for a number of applications, such as treaty verification and materials accounting, perhaps even with a different measurement setup, provided that a rough estimate of the &lt;sup&gt;240&lt;/sup&gt;Pu isotopic content is sufficient. Furthermore, the method outlined in this work may be used to expand the developed algorithm to include other types of Pu assemblies and different reflector or shielding materials.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3373</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4735&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3373</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4735</articleid>
+<submission-date>2015-02-27T12:37:46-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4735/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6744113</context-key>
+<submission-path>utk_graddiss/3373</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason P. Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>John T. Mihalczo, Howard L. Hall, Lawrence H. Heilbronn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

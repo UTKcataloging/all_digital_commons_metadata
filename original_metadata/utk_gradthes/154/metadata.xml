@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MODBUS Implementation Using A Serial Link</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Karnam</lname>
+<fname>Naresh</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Serial Communication is a process of sending one bit at a time, sequentially over a communication channel or a computer bus. RS-232 and RS- 484 are two such examples of the architecture of Serial Communication. This work primarily aims at establishing a communication channel between three entities namely the Controller also called the Console, the Relay Unit and a PC. This work aims at designing the communication model, using the Client-Server architecture and using the MODBUS protocol, as the standard for transmitting the bits in a Remote Terminal Unit (RTU) mode and for framing the characters. The MODBUS protocol also specifies the Cyclic Redundancy Check (CRC) algorithm for error detection which is used as a part of the design for framing of the characters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/154</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1186&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>154</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1186</articleid>
+<submission-date>2010-02-09T12:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1137921</context-key>
+<submission-path>utk_gradthes/154</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Paul B. Crilly</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Seddik M. Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/KarnamNaresh.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

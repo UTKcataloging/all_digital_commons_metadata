@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High Performance Reconfigurable Computing for Linear Algebra: Design and Performance Analysis</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sun</lname>
+<fname>Junqing</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Field Programmable Gate Arrays (FPGAs) enable powerful performance acceleration for scientific computations because of their intrinsic parallelism, pipeline ability, and flexible architecture. This dissertation explores the computational power of FPGAs for an important scientific application: linear algebra. First of all, optimized linear algebra subroutines are presented based on enhancements to both algorithms and hardware architectures. Compared to microprocessors, these routines achieve significant speedup. Second, computing with mixed-precision data on FPGAs is proposed for higher performance. Experimental analysis shows that mixed-precision algorithms on FPGAs can achieve the high performance of using lower-precision data while keeping higher-precision accuracy for finding solutions of linear equations. Third, an execution time model is built for reconfigurable computers (RC), which plays an important role in performance analysis and optimal resource utilization of FPGAs. The accuracy and efficiency of parallel computing performance models often depend on mean maximum computations. Despite significant prior work, there have been no sufficient mathematical tools for this important calculation. This work presents an Effective Mean Maximum Approximation method, which is more general, accurate, and efficient than previous methods. Together, these research results help address how to make linear algebra applications perform better on high performance reconfigurable computing architectures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/349</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1408&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>349</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1408</articleid>
+<submission-date>2010-02-15T10:59:22-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1145818</context-key>
+<submission-path>utk_graddiss/349</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Olaf O. Storaasli, Donald W. Bouldin, Jack Dongarra, Xiaorui Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/SunJunqing.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Land Use-Transportation Interaction: Lessons Learned from an Experimental Model using Cellular Automata and Artificial Neural Networks</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ahrens</lname>
+<fname>Steve</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<disciplines><discipline>Geography</discipline>
+</disciplines><abstract>&lt;p&gt;Land use and transportation interact to produce large urban concentrations in most major cities that create tremendous sprawl, noise, congestion, and environmental concerns. The desire to better understand this relationship has led to the development of land use–transport (LUT) models as an extension of more general urban models. The difficulties encountered in developing such models are many as local actions sum to form global patterns of land use change, producing complex interrelationships. Cellular automata (CA) simplify LUT model structure, promise resolution improvement, and effectively handle the dynamics of emergent growth. Artificial Neural Networks (ANN) can be used to quantify the complex relationships present in historical land use data as a means of calibrating a CA-LUT model. This study uses an ANN, slope, historical land use, and road data to calibrate a CA-LUT model for the I-140 corridor of Knoxville, TN. The resulting model was found to require a complex ANN, produce realistic emergent growth patterns, and shows promising simulation performance in several significant land classes such as single-family residential. Problems were encountered as the model was iterated due to the lack of a mechanism to extend the road network. The presence of local roads in the model’s configuration strengthened ability of the model to simulate historical development patterns. Shortcomings in certain aspects of the simulation performance point to the need for the addition of a socio-economic sub-model to assess demand for urban area and/or an equilibrium mechanism to arbitrate the supply of developable land. The model constructed in this study was found to hold considerable potential for local-scale simulation and scenario testing given suitable modification to its structure and input parameters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/322</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1355&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>322</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1355</articleid>
+<submission-date>2010-02-12T07:40:27-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1142291</context-key>
+<submission-path>utk_gradthes/322</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Margaret M. Gripshover, Bruce A. Ralston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/AhrensSteve.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

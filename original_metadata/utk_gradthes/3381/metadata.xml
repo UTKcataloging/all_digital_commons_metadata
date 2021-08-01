@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ANALYSIS OF FLAMMABILITY LIMITS AND GAS PROPERTIES OF A SOLID ROCKET MOTOR TEST IN A HIGH ALTITUDE TEST FACILITY</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rkirkpa6@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kirkpatrick</lname>
+<fname>Richard</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<keywords>
+<keyword>rocket</keyword>
+<keyword>flammability limits</keyword>
+<keyword>explosives</keyword>
+<keyword>testing</keyword>
+<keyword>Python</keyword>
+<keyword>propulsion</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;The testing of solid and liquid rocket propulsion systems in a confined test facility often produces explosive or flammable gases which must be safely handled. Often inert gases such as nitrogen are used to lower the molar fraction of oxygen to low enough levels to minimize the probability of an explosion or deflagration. For this thesis, the chemical composition of these rocket exhaust gases mixed with air were used to determine the flammability limits of the gas mixture. Using the ideal gas law and the conservation of mass, the exhaust gas composition and gas properties such as pressure, temperature, volume and mole fractions inside the test facility were calculated. This exhaust gas composition along with La Chatelier&#39;s law was applied to an air-free basis for calculating the flammability limits of the rocket exhaust gas in air. Using Test Driven Development and Object Oriented Programming, a computer program using the Python programming language was created with a Graphical User Interface (GUI) to automate these calculations. This program was validated using existing analytical techniques developed at the Arnold Engineering Development Complex (AEDC). The results from the Python program agree well, a maximum of 1.4% difference, with the validated AEDC techniques.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3381</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4751&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3381</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4751</articleid>
+<submission-date>2015-04-10T13:14:31-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6971688</context-key>
+<submission-path>utk_gradthes/3381</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Power, Montgomery L. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

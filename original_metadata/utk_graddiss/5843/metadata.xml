@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SNACC: The Scaled-up Neuromorphic Array Communications Controller</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Young</lname>
+<fname>Aaron</fname>
+<mname>Reed</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Recurrent Spiking Neural Networks</keyword>
+<keyword>Neuromorphic</keyword>
+<keyword>Neural Network Hardware</keyword>
+<keyword>Spiking Network Communication</keyword>
+<keyword>Communication Interconnect</keyword>
+<keyword>Field-Programmable Gate Arrays</keyword>
+</keywords>
+<abstract>&lt;p&gt;Neuromorphic computers take inspiration from the brain to perform computation in a way similar to how a brain works. They perform computation by evaluating Spiking Neural Networks (SNN) to model how the electronic pulses travel through a collection of neurons. The neurons in the network spike, or fire a pulse, once the accumulated inputs to the neuron exceed a specific threshold. Field-Programmable Gate Arrays (FPGAs), Application-Specific Integrated Circuits (ASICs), and other chip/multi-chip level implementations can be used to construct Dynamic Adaptive Neural Network Arrays (DANNA) and its successor DANNA2. In many use cases, the neuromorphic hardware is connected to a traditional computing system that is used to load neural network configurations, provide network input, process network output, and monitor the status of the network. To ensure robust communication, a custom, hardware-based, go-back-n, automatic repeat request protocol is presented, which allows for high-throughput, low-latency, error-free communication using the Aurora link-level protocol over the GTX/GTH high-speed serial transceivers found on Xilinx FPGAs. Multiple DANNA2 element cores are tiled into a grid array and placed within a KCU1500 Kintex Ultrascale FPGA to build a reconfigurable hardware neuromorphic processor. For resource-constrained environments, these element cores can also be densely packed onto the FPGA for a specific network, requiring fewer resources for a non-reconfigurable neuromorphic processor. For high-performance computation, multiple reconfigurable neuromorphic processors with grid arrays are tiled together with a Neuromorphic Array Communication Controller (NACC) to build a large-scale neuromorphic system called Scaled-up NACC (SNACC). SNACC uses scalable, high-performance, point-to-point connections to network the neuromorphic processors into a two-dimensional array. The neuromorphic processors are connected back to the host PC through a hierarchical, high-speed network made possible through the use of one or more NACCs. These new hardware DANNA2 neuromorphic processors are used to further research with recurrent spiking neural networks (RSNNs). Specifically, this work uses the new hardware for evolutionary optimization of neural networks using genetic algorithms, for reservoir computing, and for solving graph algorithms. Additionally, the hardware can be used for real-time processing as demonstrated with target acquisition and obstacle avoidance on a ground-roaming autonomous robot.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5843</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7609&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5843</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7609</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522243</context-key>
+<submission-path>utk_graddiss/5843</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark E. Dean</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Garrett S. Rose, Andy Sarles</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-5448-4667</value>
+</field>
+<field name="comments" type="string">
+<value>In reference to IEEE copyrighted material which is used with permission in this thesis, the IEEE does not endorse any of The University of Tennessee’s products or services. Internal or personal use of this material is permitted. If interested in reprinting/republishing IEEE copyrighted material for advertising or promotional purposes or for creating new collective works for resale or redistribution, please go to http://www.ieee.org/publications_standards/publications/rights/rights_link.html to learn how to obtain a License from RightsLink. If applicable, University Microfilms and/or ProQuest Library, or the Archives of Canada may supply single copies of the dissertation.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

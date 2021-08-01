@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vector Control and Experimental Evaluation of Permanent Magnet Synchronous Motors for HEVs</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Burress</lname>
+<fname>Timothy</fname>
+<mname>Adam</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The 2004 Toyota Prius exceeded sales expectations and led the automotive industry to realize that there is a healthy market for hybrid electric vehicles (HEVs). The Prius uses two interior permanent magnet motors to manipulate power flow throughout the drive system. Permanent magnet synchronous motors (PMSMs) are most suitable for HEVs and full electric vehicles due to their high efficiency, high power density, and fast dynamic response. This thesis will present vector control theory for PMSMs, with focus on interior permanent magnet motors.&lt;/p&gt;
+&lt;p&gt;The primary 50kW drive motor and inverter of the 2004 Toyota Prius Synergy drive system was removed for an intensive thermal, electrical, and mechanical evaluation in a dynamometer test cell at Oak Ridge National Laboratory. These evaluations include locked rotor, back-EMF, and motoring operation region tests. The resulting data is presented to reveal characteristics such as torque capabilities, thermal limitations, and motor efficiencies for all toque-speed operation points.&lt;/p&gt;
+&lt;p&gt;One of the most challenging tasks of the evaluation was to solve problems related to electromagnetic interference (EMI). The pulse width modulation (PWM) driven high voltage converter/inverter is a large source of electromagnetic field radiation and nearby low level signals, including control circuitry for the hybrid system, will experience EMI if proper countermeasures are not taken. Methods to reduce electromagnetic field radiation and practices to prevent EMI are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1517</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2963&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1517</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2963</articleid>
+<submission-date>2013-07-31T10:14:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4368182</context-key>
+<submission-path>utk_gradthes/1517</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack Lawler, Fangxing Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

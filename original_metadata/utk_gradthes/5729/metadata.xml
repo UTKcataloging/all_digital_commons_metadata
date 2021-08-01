@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of an information system of forecasting and inventory management for spare parts</title>
+<publication-date>2009-04-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Ludwig</lname>
+<fname>Lourdes</fname>
+<mname>Valeria</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Industrial engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;At any manufacturing company across the world, management is making decisions about ideal stock levels in order to ensure that future demand will be satisfied. Those decisions are at the heart of a company&#39;s inventory policy. Because a successful inventory policy is vital for customer satisfaction, which leads to repeat business and sustained profits, it is important that such a policy is based on useful and valid information. When that stock is spare parts, the decisions become more difficult. This research addresses this problem through the development of a methodology for improved decisions relative to spare-parts inventory management. This methodology involves filtering of data to ensure its accuracy and currency and selection of the most appropriate forecasting technique, based on the characteristics of the parts and their associated demand and inventory data. An information system is created to facilitate this process for the manager.The primary objective is to improve the management of spare-parts inventory with a systematic approach that provides effective results and is executed efficiently. The information system starts by filtering the data using a Pareto classification. Then, it identifies intermittency, trend, seasonality, and life cycle stage. Next, the model proceeds to select between nine forecasting methods, among which a best forecast is selected based upon accuracy, which in turn is checked for validity by comparison to a naïve forecast. Finally, the model uses the valid forecasts as inputs for the inventory models: re-order level and re-order cycle. A Microsoft Access database was programmed to automate these calculations. Sales data provided by Cubic Transportation Systems, Inc. of Tullahoma, TN was used for internal validation. External validation was performed with the monthly series for the &quot;Micro&quot; category provided by the M3 competition published by the International Institute of Forecasters.This information system provides a means for extending the current knowledge of forecasting and inventory management of spare parts inventory through criteria-based selection of appropriate forecasting methods based on data patterns. Its validity was confirmed through the application of the actual data provided by Cubic. Cubic&#39;s management also verified improved efficiency with the reduction of time needed to make forecasts for their spare parts inventory.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5729</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7351&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5729</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7351</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467489</context-key>
+<submission-path>utk_gradthes/5729</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Denise F. Jackson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-04-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

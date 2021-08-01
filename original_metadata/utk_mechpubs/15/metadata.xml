@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>External Control of the GAL Network in S. cerevisiae: A View from Control Theory</title>
+<publication-date>2011-04-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Yang</lname>
+<fname>Routing</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lenaghan</lname>
+<fname>Scott</fname>
+<mname>C</mname>
+</author>
+<author>
+<lname>Wilkswo</lname>
+<fname>John</fname>
+<mname>P</mname>
+</author>
+<author>
+<lname>Zhang</lname>
+<fname>Mingjun</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;While there is a vast literature on the control systems that cells utilize to regulate their own state, there is little published work on the formal application of control theory to the external regulation of cellular functions. This paper chooses the &lt;em&gt;GAL&lt;/em&gt; network in &lt;em&gt;S. cerevisiae&lt;/em&gt; as a well understood benchmark example to demonstrate how control theory can be employed to regulate intracellular mRNA levels via extracellular galactose. Based on a mathematical model reduced from the &lt;em&gt;GAL&lt;/em&gt; network, we have demonstrated that a galactose dose necessary to drive and maintain the desired &lt;em&gt;GAL&lt;/em&gt; genes&#39; mRNA levels can be calculated in an analytic form. And thus, a proportional feedback control can be designed to precisely regulate the level of mRNA. The benefits of the proposed feedback control are extensively investigated in terms of stability and parameter sensitivity. This paper demonstrates that feedback control can both significantly accelerate the process to precisely regulate mRNA levels and enhance the robustness of the overall cellular control system.&lt;/p&gt;
+&lt;p&gt;DOI: 10.1371/journal.pone.0019353&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_mechpubs/15</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1017&amp;amp;context=utk_mechpubs&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1017</articleid>
+<submission-date>2014-01-02T12:40:18-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Mechanical, Aerospace and Biomedical Engineering</publication-title>
+<context-key>4950632</context-key>
+<submission-path>utk_mechpubs/15</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article has been funded by the University of Tennessee&#39;s &lt;a href=&quot;http://www.lib.utk.edu/scholar/open-access/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-01-02T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-04-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

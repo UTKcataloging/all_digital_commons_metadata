@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Non-Contact Human Motion Sensing Using Radar Techniques</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fquaiyum@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Quaiyum</lname>
+<fname>Farhan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Doppler Radar</keyword>
+<keyword>Feature Extraction</keyword>
+<keyword>Gait Analysis</keyword>
+<keyword>UWB Radar</keyword>
+<keyword>Software-Defined Radar</keyword>
+<keyword>Limb Tracking</keyword>
+</keywords>
+<abstract>&lt;p&gt;Human motion analysis has recently gained a lot of interest in the research community due to its widespread applications. A full understanding of normal motion from human limb joint trajectory tracking could be essential to develop and establish a scientific basis for correcting any abnormalities. Technology to analyze human motion has significantly advanced in the last few years. However, there is a need to develop a non-invasive, cost effective gait analysis system that can be functional indoors or outdoors 24/7 without hindering the normal daily activities for the subjects being monitored or invading their privacy. Out of the various methods for human gait analysis, radar technique is a non-invasive method, and can be carried out remotely. For one subject monitoring, single tone radars can be utilized for motion capturing of a single target, while ultra-wideband radars can be used for multi-subject tracking. But there are still some challenges that need to be overcome for utilizing radars for motion analysis, such as sophisticated signal processing requirements, sensitivity to noise, and hardware imperfections. The goal of this research is to overcome these challenges and realize a non-contact gait analysis system capable of extracting different organ trajectories (like the torso, hands and legs) from a complex human motion such as walking. The implemented system can be hugely beneficial for applications such as treating patients with joint problems, athlete performance analysis, motion classification, and so on.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5422</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6958&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5422</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6958</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545450</context-key>
+<submission-path>utk_graddiss/5422</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gong Gu, Jens Gregor, David R. Bassett Jr.</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-4469-5978</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this dissertation were previously published in:
+1. F. Quaiyum, et al., &quot;Non-Contact Human Gait Analysis and Limb Joint Tracking Using Doppler Radar,&quot; in IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology. doi: 10.1109/JERM.2018.2881238
+2. F. Quaiyum, et al., &quot;Electromagnetic Modeling of Vital Sign Detection and Human Motion Sensing Validated by Noncontact Radar Measurements,&quot; in IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology, vol. 2, no. 1, pp. 40-47, March 2018.
+3. F. Quaiyum, et al., &quot;Development of a Reconfigurable Low Cost Multi-mode Radar System for Contactless Vital Signs Detection,&quot; 2017 IEEE MTT-S International Microwave Symposium (IMS), Honololu, HI, 2017, pp. 1245-1247.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

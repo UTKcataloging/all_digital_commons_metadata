@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Heat Transfer Model and Computer Program for a Direct-Fired Rotary Kiln</title>
+<publication-date>1989-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kirslis</lname>
+<fname>Steven</fname>
+<mname>J</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An improved heat transfer model has been developed for a direct-fired rotary kiln. The model can be used to verify Kiln design, to optimize operating conditions, to predict the temperature history of the solids, and to evaluate if local areas of the kiln will be overheated. The treatment of radiant heat transfer was based on the Reflection Method developed by Succec and applied by Gorog, and was extended to account for radiation from a flame. Some elements of the Resistive Network Method and Zone Method were incorporated in the model. This method results in a more straightforward and flexible treatment of radiant heat transfer than other methods of analysis. The model also accounts for conductive and convective heat transfer within the kiln and heat conducted through the kiln wall and lost from the outer kiln shell to the ambient surroundings.&lt;/p&gt;
+&lt;p&gt;The model divides the kiln into a flame region where the flame is present, plus a downstream gas region. The flame and gas regions are each subdivided longitudinally into kiln sections of equal length. A new method was devised to model the grey body emissivity of an axially centered flame of given area. It was treated as equivalent to a black body of reduced area. This treatment greatly simplified the calculation of radiant heat transfer to and from the flame. A method was devised for calculating the gas transmissivity for its own radiation in the Reflection Method. The model also includes an approximate treatment of the recirculation and entrainment of combustion gas in the flame region, and assumes plug flow downstream of the flame region. A regression method was developed for calculating the emissivity of combustion gases of varying CO&lt;sub&gt;2&lt;/sub&gt; and H&lt;sub&gt;2&lt;/sub&gt;O concentrations based on Hottel&#39;s real gas data. The temperature and heat transferred to or from the flame, gas, wall, and solid bed in each axial section of the kiln is calculated using the Reflection Method by simultaneously solving a set of algebraic expressions involving the emissivity, area, and radiative (geometrical) view factors for the various surfaces in the kiln. The model was verified with a computer program written in LOTUS 1-2-3 using a set of operating data from a direct-fired kiln used for the incineration of lightly contaminated soil. The model yielded good agreement between the calculated and reported values of the solid and gas exit temperatures as shown in Fig. 8.1-1 and Table 8.1-1. The percent error for the estimated solids exit temperature was 6.8 and for the gas was -3.2.&lt;/p&gt;
+&lt;p&gt;The new heat transfer model was also extended to provide an approximate treatment of heat transfer in IDF kilns. The model used two separate heat balances to (1) estimate the heat transferred from burning fuel in the outer gas to the outer surface of the inner shell, and (2) the heat transferred through the inner shell and radiated to the solid bed and inner gas. As with the direct-fired kiln, the kiln was divided into uniform longitudinal sections, each with constant temperatures and surface properties. The use of a constant outer gas temperature is only approximate because of the steep temperature gradient that exists between the bottom temperature where the fuel combustion occurs and the top temperature where the combustion gases exit. Model calculations for a hypothetical data set (no actual data were available) indicated approximate agreement with vendor reported kiln characteristics and temperature profiles.&lt;/p&gt;
+&lt;p&gt;This model is the first treatment of heat transfer in an IDF kiln reported in the literature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1344</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2612&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1344</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2612</articleid>
+<submission-date>2013-02-26T11:59:56-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3790623</context-key>
+<submission-path>utk_gradthes/1344</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack S. Watson</value>
+</field>
+<field name="advisor2" type="string">
+<value>George C. Frazier, John W. Holmes</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1989-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1989-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

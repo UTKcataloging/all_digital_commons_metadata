@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adomian Decomposition of the Flowfield in a Simulated Rocket Motor</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jparra@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Parra</lname>
+<fname>Jeisson</fname>
+<mname>Juliany</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Solid Rocket</keyword>
+<keyword>Adomian Decomposition</keyword>
+<keyword>Perturbation</keyword>
+<keyword>Asymptotic</keyword>
+<keyword>Flowfield</keyword>
+</keywords>
+<disciplines><discipline>Aerospace Engineering</discipline>
+<discipline>Other Aerospace Engineering</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;The work presents an analytic, approximate solution to an internal flowfield for a solid rocket motor. The flowfield is modeled as a wall-normal injection or suction in a symmetric porous channel with laterally expanding or contracting walls. From the effective speeds that gases are ejected into the combustion chamber of typical rocket motors, the flowfield is modeled to be incompressible. Since the flame zone occurs in a very thin space above the propellant grain surface, it will be disregarded. Assuming linearly varying axial velocity and uniform expansion (or contraction), the Navier-Stokes equations will be reduced into a single nonlinear equation that can be solved asymptotically. The Adomian Decomposition Method is used to solve this problem. Its systematic approach to solving differential equations makes it ideally suited for the present application. With this approximate method one can recover an exact solution for problems that allow an analytic treatment, it can also be used to arrive at approximate solutions for problems that cannot be solved exactly. The governing equation that describes the bulk fluid motion within the rocket chamber and the solution provided here will take into account the viscosity, wall regression, and wall permeability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3168</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4135&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3168</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4135</articleid>
+<submission-date>2014-06-19T21:53:02-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4135/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5707826</context-key>
+<submission-path>utk_gradthes/3168</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph Majdalani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Basil N. Antar, Christian G. Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

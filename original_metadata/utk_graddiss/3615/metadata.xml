@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>STUDY OF SECONDARY PARTICLES PRODUCED FROM HEAVY-ION INTERACTIONS</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ptsai4@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tsai</lname>
+<fname>Pi-En</fname>
+</author>
+</authors>
+<keywords>
+<keyword>heavy ion interactions</keyword>
+<keyword>thick target yield</keyword>
+<keyword>time of flight</keyword>
+<keyword>PHITS</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The study of secondary particles produced from heavy-ion interactions is important in heavy ion radiotherapy, space radiation protection, and shielding at accelerator facilities. This dissertation focuses on the study of secondary neutron production as they are of special concern among all secondary particles.&lt;/p&gt;
+&lt;p&gt;The first part of this dissertation is the measurement of secondary neutrons created from &lt;sup&gt;4&lt;/sup&gt;He [helium] stopped in various target materials together with the model calculations accomplished by PHITS, FLUKA, and MCNP transport codes. The comparison results show that the physics models need improvements particularly in the predictions of 1) neutrons created from the &lt;sup&gt;4&lt;/sup&gt;He interactions at the high-energy end of the spectra at each angle for FLUKA’s and PHITS’s models, 2) the high-energy peaks at 0degree for all systems and all models, and 3) the low-energy neutrons at small angles for 230-MeV/nucleon [megaelectron volt per nucleon] &lt;sup&gt;4&lt;/sup&gt;He stopping in the light targets. However, the model calculations agree with the experiment data well at intermediate and large angles in intermediate and low energy regions.&lt;/p&gt;
+&lt;p&gt;The second part is the benchmark of the neutron production cross section data with model calculations fulfilled by PHITS, FLUKA, and MCNP. The studied cases cover wide ranges of projectile species, beam energy and target nuclei mass. Some significant differences do appear not only among model calculations but also between measured data and calculations. In particular, LAQGSM03.03 implemented in MCNP6 significantly overestimates the high-energy peak in the forward direction in the light and very light system at 400 MeV/nucleon. RQMD implemented in FLUKA 2011.2c overestimates the neutron cross sections at intermediate energies in nearly all systems expect the lightest targets in our studies cases. The greatest inter-model difference appear on low-energy neutrons at forward angles in the system of 400-MeV/nucleon &lt;sup&gt;132&lt;/sup&gt;Xe (xenon) and copper target, and it is inferred that GEM implemented in PHITS 2.73 over-predicts neutrons produced from evaporation.&lt;/p&gt;
+&lt;p&gt;The results of both experimental study and model calculations provide critical information for validation and verification of the current radiation transport codes used for simulating heavy-ion interactions and help lead to improvements in the physics models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3615</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4921&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3615</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4921</articleid>
+<submission-date>2015-06-18T19:54:43-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4921/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7237134</context-key>
+<submission-path>utk_graddiss/3615</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence H. Heilbronn</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Townsend, Jason Hayward, Yanwen Zhang</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Figure 44 in Appendix 1 is a duplicate of Figure 43 due to an editing mistake. The data for Figure 44 can be referred to in the second column of Figure 39. The MCNP6 calculation for the 400-MeV/nucleon carbon ions on the lithium target, which is shown in the first column of Figure 39 and Figure 43 in Appendix 1, is in error due to a mistake in the input to the code. The corrected MCNP calculations now show better agreement to the data.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

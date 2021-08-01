@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multiobjective Design of Equivalent Accelerated Life Testing Plans</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hliao@email.arizona.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liao</lname>
+<fname>Haitao</fname>
+</author>
+<author>
+<institution>University of Washington - Seattle Campus</institution>
+<lname>Li</lname>
+<fname>Zhaojun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Equivalency</keyword>
+<keyword>accelerated life testing plan</keyword>
+<keyword>multiobjective decision making</keyword>
+<keyword>NSGA-II</keyword>
+<keyword>SOM</keyword>
+<keyword>DEA</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This paper is focused on the multiobjective design of equivalent accelerated life test (ALT) plans. Equivalent ALT plans are expected to achieve the same statistical performance as a baseline ALT plan yet lead to other desired performance measures such as reduced test time and total cost. Before determining the desired multiobjective equivalent ALT plans, an efficient fast non-dominated sorting genetic algorithm (NSGA-II) is utilized to identify a set of Pareto optimal solutions. To handle a large number of Pareto optimal solutions, a self-organizing map (SOM) and data envelopment analysis (DEA) are sequentially applied to classify the Pareto solutions and reduce the size of the suggested solution set. This integrated approach allows for the tradeoff of information among the Pareto solutions and the reduction in the size of the solution set. It provides a useful tool for practitioners to make meaningful decisions in planning ALT experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_induengipubs/2</coverpage-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1007</articleid>
+<submission-date>2010-04-09T10:57:50-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial Engineering/Engineering Management (UTSI)</publication-title>
+<context-key>1268206</context-key>
+<submission-path>utk_induengipubs/2</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-04-09T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.worldscinet.com/ijrqse/15/1506/S0218539308003209.html</value>
+</field>
+</fields>
+</document>
+</documents>

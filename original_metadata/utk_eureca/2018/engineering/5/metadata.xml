@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>X-Means Clustering Implementing the Gap Statistic for Multiple Positron Emission Particle Tracking</title>
+<publication-date>2018-05-16T14:57:32-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mherald1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Herald</lname>
+<fname>Matthew</fname>
+</author>
+</authors>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;em&gt;The most efficient and accurate method for clustering Coincidence Lines (CL) for Positron Emission Particle Tracking (PEPT) is undetermined. A number of methods have been created to perform this task. A novel clustering method featuring x-means is presented using an automated k-value estimator for k-means clustering. Gap statistic is used to select the best k-value. Geant4 Application for Tomographic Emission is used to simulate particles of 50&lt;/em&gt; &lt;em&gt;µCi and the detection and electronic chain associated with the Siemens Inveon Pre-Clinical Scanner. The simulation produces an array of coincident lines (CL) in a format consistent with scanner output. The CL are used to reconstruct particle positions every 100 ms. The position reconstruction is compared to earlier methods. &lt;/em&gt;&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2018/engineering/5</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1194&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1194</articleid>
+<submission-date>2018-04-23T19:48:14-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>12010829</context-key>
+<submission-path>utk_eureca/2018/engineering/5</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Arthur Ruggles</value>
+</field>
+<field name="year" type="date">
+<value>2018-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

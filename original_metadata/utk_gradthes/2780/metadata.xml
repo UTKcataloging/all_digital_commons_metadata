@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>R-FAP: Rapid Functional Annotation of Prokaryotes Using Taxon-specific Pan-genomes and 10-mer Peptides</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jutley6@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Utley</lname>
+<fname>Jordan</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>genome annotation</keyword>
+<keyword>pan-genomes</keyword>
+<keyword>k-mer</keyword>
+<keyword>function prediction</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Biology</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Genomics</discipline>
+</disciplines><abstract>&lt;p&gt;The growing implementation of next-generation sequencing technologies presents numerous fields with the opportunity to identify bacteria in near real-time. Fields such as counter-terrorism, forensics, medicine, and even microbial ecology are positioned to benefit from such advances and implementation. However, with the ability to rapidly produce high-quality sequence data comes the need to interpret this data as quickly as it is produced. While gene prediction algorithms have kept pace, functional prediction methods have not.&lt;/p&gt;
+&lt;p&gt;To bypass the need for large-scale queries to multiple databases for each newly-sequenced genome, the project detailed herein seeks to identify the genes shared within a taxonomic group using the &lt;em&gt;pan-genome&lt;/em&gt; for that group. Doing so allows the pan-genome to be queried against this set of databases a single time, then rapidly searched with new genomes using k-mer peptide matching to make functional predictions.&lt;/p&gt;
+&lt;p&gt;Thirty-one strains from &lt;em&gt;Salmonella enterica&lt;/em&gt; subsp. &lt;em&gt;enterica&lt;/em&gt; were used to build the pan-genome for this taxon as a test model. Proteins in a new genome could then be matched with complete consistence to the resulting database in a matter of seconds (per genome) using a k-mer peptide search algorithm. This represents a major advancement in annotation speed over existing pipelines.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2780</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4048&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2780</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4048</articleid>
+<submission-date>2014-03-28T14:05:57-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4048/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5409202</context-key>
+<submission-path>utk_gradthes/2780</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Loren J. Hauser</value>
+</field>
+<field name="advisor2" type="string">
+<value>Elizabeth Fozo, Brian O&#39;Meara, Chongle Pan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

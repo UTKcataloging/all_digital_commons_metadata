@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Feedback-Directed Management of Performance and Power for Emerging Computer Systems</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xfu1@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fu</lname>
+<fname>Xing</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Emerging computing systems face the critical management challenge of both performance and power simultaneously. For example, distributed real-time embedded systems such as cyber-physical systems need to reduce power consumption while enforces CPU utilization bounds on multiple uniprocessors in order to meet end-to-end deadlines. Data centers operators attempt to oversubscribe data center power delivery networks to reduce throughput penalty during a power overload.&lt;/p&gt;
+&lt;p&gt;This dissertation presents latest development of a control framework which adopts novel control theoretic approaches to address emerging computing systems including multi-core real-time embedded systems, distributed real-time embedded systems, and data centers. The dissertation leverages task migration and cache partitioning mechanisms in multi-core systems to reduce power and energy consumption while control CPU utilizations. We then present a control algorithm for simultaneous temperature and utilization control for distributed real-time embedded systems. Algorithms and optimizations are presented to extend state-of-the-art model predictive control technique to overcome technical challenges such as scalability. We also adapt the parameter of a power controller widely adopted by IBM servers to improve its performance significantly. A power capping algorithm for an entire data center by shifting power between data center cooling systems and IT equipments is proposed for improving performance. Finally, we present a hierarchical heuristic to minimize energy consumption of Virtual Desktop Infrastructure without violating its performance constraints. Both theoretic analysis, hardware, and simulation experiments demonstrate that our control algorithms can achieve better performance for those power-aware emerging computing systems compared to state-of-the-art baselines. The control framework also found successful applications in other systems such as cyber-physical surveillance systems. Results of feedback-directed management of performance and power based on control frameworks reveal wide potential applications in autonomic management in the era of cloud computing which consists of enormous mobile embedded devices and data centers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3694</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5016&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3694</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5016</articleid>
+<submission-date>2015-10-08T17:47:26-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7697572</context-key>
+<submission-path>utk_graddiss/3694</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaorui Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Seddik Djouadi, Mingjun Zhang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Novel Hybrid Dimensionality Reduction Method using Support Vector Machines and Independent Component Analysis</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>smoon3@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Moon</lname>
+<fname>Sangwoo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Support vector machine</keyword>
+<keyword>independent component analysis</keyword>
+<keyword>Hybrid dimensionality reduction</keyword>
+<keyword>Constrained optimization</keyword>
+</keywords>
+<abstract>&lt;p&gt;Due to the increasing demand for high dimensional data analysis from various applications such as electrocardiogram signal analysis and gene expression analysis for cancer detection, dimensionality reduction becomes a viable process to extracts essential information from data such that the high-dimensional data can be represented in a more condensed form with much lower dimensionality to both improve classification accuracy and reduce computational complexity. Conventional dimensionality reduction methods can be categorized into stand-alone and hybrid approaches. The stand-alone method utilizes a single criterion from either supervised or unsupervised perspective. On the other hand, the hybrid method integrates both criteria. Compared with a variety of stand-alone dimensionality reduction methods, the hybrid approach is promising as it takes advantage of both the supervised criterion for better classification accuracy and the unsupervised criterion for better data representation, simultaneously. However, several issues always exist that challenge the efficiency of the hybrid approach, including (1) the difficulty in finding a subspace that seamlessly integrates both criteria in a single hybrid framework, (2) the robustness of the performance regarding noisy data, and (3) nonlinear data representation capability.&lt;/p&gt;
+&lt;p&gt;This dissertation presents a new hybrid dimensionality reduction method to seek projection through optimization of both structural risk (supervised criterion) from Support Vector Machine (SVM) and data independence (unsupervised criterion) from Independent Component Analysis (ICA). The projection from SVM directly contributes to classification performance improvement in a supervised perspective whereas maximum independence among features by ICA construct projection indirectly achieving classification accuracy improvement due to better intrinsic data representation in an unsupervised perspective. For linear dimensionality reduction model, I introduce orthogonality to interrelate both projections from SVM and ICA while redundancy removal process eliminates a part of the projection vectors from SVM, leading to more effective dimensionality reduction. The orthogonality-based linear hybrid dimensionality reduction method is extended to uncorrelatedness-based algorithm with nonlinear data representation capability. In the proposed approach, SVM and ICA are integrated into a single framework by the uncorrelated subspace based on kernel implementation.&lt;/p&gt;
+&lt;p&gt;Experimental results show that the proposed approaches give higher classification performance with better robustness in relatively lower dimensions than conventional methods for high-dimensional datasets.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/829</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1932&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>829</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1932</articleid>
+<submission-date>2010-08-04T19:52:41-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1425902</context-key>
+<submission-path>utk_graddiss/829</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Arel, Seddik M. Djouadi, Xiaobing H. Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

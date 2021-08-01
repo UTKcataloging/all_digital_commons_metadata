@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Finite State Machine Approach to Cluster Identification Using the Hoshen-Kopelman Algorithm</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Aldridge</lname>
+<fname>Matthew</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study was to develop an efficient finite state machine implementation of the eponymous Hoshen-Kopelman cluster identification algorithm using the nearest-eight neighborhood rule suitable to applications such as computer modeling for landscape ecology. The implementation presented in this study was tested using both actual land cover maps, as well as randomly generated data similar to those in the original presentation of the Hoshen-Kopelman algorithm for percolation analysis. The finite state machine implementation clearly outperformed a straightforward adaptation of the original Hoshen-Kopelman algorithm on either data type. Research was also conducted to explore the finite state machine&#39;s performance on a Palm mobile computing device, and while it was competitive, it did not exceed the performance of the straightforward Hoshen-Kopelman implementation. However, a discussion of why this was the case is provided along with a possible remedy for future hardware designs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/323</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1379&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>323</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1379</articleid>
+<submission-date>2010-02-12T07:55:08-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1142341</context-key>
+<submission-path>utk_graddiss/323</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne E. Parker, Brad V. Zanden, Shih-Lung Shaw</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/AldridgeMatt.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

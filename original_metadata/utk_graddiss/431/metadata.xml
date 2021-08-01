@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Integration of Spatial and Spectral Information for Hyperspectral Image Classification</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Du</lname>
+<fname>Zheng</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Hyperspectral imaging has become a powerful tool in biomedical and agriculture fields in the recent years and the interest amongst researchers has increased immensely. Hyperspectral imaging combines conventional imaging and spectroscopy to acquire both spatial and spectral information from an object. Consequently, a hyperspectral image data contains not only spectral information of objects, but also the spatial arrangement of objects. Information captured in neighboring locations may provide useful supplementary knowledge for analysis. Therefore, this dissertation investigates the integration of information from both the spectral and spatial domains to enhance hyperspectral image classification performance.&lt;/p&gt;
+&lt;p&gt;The major impediment to the combined spatial and spectral approach is that most spatial methods were only developed for single image band. Based on the traditional singleimage based local Geary measure, this dissertation successfully proposes a Multidimensional Local Spatial Autocorrelation (MLSA) for hyperspectral image data. Based on the proposed spatial measure, this research work develops a collaborative band selection strategy that combines both the spectral separability measure (divergence) and spatial homogeneity measure (MLSA) for hyperspectral band selection task. In order to calculate the divergence more efficiently, a set of recursive equations for the calculation of divergence with an additional band is derived to overcome the computational restrictions.&lt;/p&gt;
+&lt;p&gt;Moreover, this dissertation proposes a collaborative classification method which integrates the spectral distance and spatial autocorrelation during the decision-making process. Therefore, this method fully utilizes the spatial-spectral relationships inherent in the data, and thus improves the classification performance.&lt;/p&gt;
+&lt;p&gt;In addition, the usefulness of the proposed band selection and classification method is evaluated with four case studies. The case studies include detection and identification of tumor on poultry carcasses, fecal on apple surface, cancer on mouse skin and crop in agricultural filed using hyperspectral imagery. Through the case studies, the performances of the proposed methods are assessed. It clearly shows the necessity and efficiency of integrating spatial information for hyperspectral image processing.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/431</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1492&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>431</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1492</articleid>
+<submission-date>2010-02-17T10:56:23-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1150905</context-key>
+<submission-path>utk_graddiss/431</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seong G. Kong, Myong K. Jeong</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Mongi A. Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/August2008Dissertations/DuZheng.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

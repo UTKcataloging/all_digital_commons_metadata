@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extensions of Green&#39;s Function Discretization for Modeling Acoustics in Inhomogeneous Media</title>
+<publication-date>1996-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>French</lname>
+<fname>Jonathan</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This research examines two new methods to numerically model linear field equations with spatially varying coefficients, with a particular focus on the acoustic velocity potential equation. The methods are based on a new field discretization technique, Green&#39;s function discretization (GFD), which was primarily developed to model the Hehnholtz equation for frequency domain acoustics problems in homogeneous media. GFD can be used to model acoustics in inhomogeneous media by assuming constant media properties across each computational stencil. The methods presented herein correct GFD for variations in the media across each stencil in two distinct ways: via a Fredholm volume integral, and by a particular solution to a perturbation expansion. To evaluate these methods, boundary value problem test cases have been numerically evaluated to determine gains in accuracy in one and two dimensions. The results demonstrate that the ability of GFD to model the effects of an inhomogeneous medium on acoustics can be significantly increased using corrections factors computed from these new methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6114</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=8102&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6114</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>8102</articleid>
+<submission-date>2021-06-15T05:18:03-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>23359327</context-key>
+<submission-path>utk_graddiss/6114</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John E. Caruthers</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>1996-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

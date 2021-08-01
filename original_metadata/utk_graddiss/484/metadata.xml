@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Explicit Methods in the Nuclear Burning Problem for Supernova Ia Models</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chupryna</lname>
+<fname>Viktor</fname>
+</author>
+</authors>
+<disciplines><discipline>Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Most modern astrophysical problems such as supernova simulation require application of state-ofthe- art computational tools. Despite the fact that number of nuclei included in coupled simulations tends to be small, problems such as nuclear burning networks are often part of a large set of interconnected programs that require significant computing resources. Expansion of the nuclear reaction network to realistic sizes can easily make element and energy production the leading consumer of both time and memory in simulations. Therefore, in solving nuclear reaction networks coupled to (radiation) hydrodynamics in astrophysics simulations, the development of methods capable of improving on the traditional approaches becomes important. Reactions in thermonuclear networks may exhibit huge differences in the time scales characterizing their behavior. This causes instabilities (stiffness) in the differential equations that make most standard numerical integration methods impractical. In astrophysics applications, implicit numerical integration has traditionally been used to overcome the stiffness problem. This approach is stable in typical applications, but is computationally expensive and has poor scaling behavior with network size. Thus, even the best previous calculations have been forced to use unrealistically small networks in multi-dimensional hydrodynamics simulations. Explicit flux-limited integration to cure stiffness far from equilibrium combined with asymptotic approximations used to cure stiffness in the approach to equilibrium provide an attractive alternative if they can be made fast enough and accurate enough for production use. Because of very favorable scaling behavior, the advantages of this approach are especially noticable in the case of (more realistic) large networks. The purpose of this dissertation is to evaluate the feasibility of using this new approach to couple thermonuclear networks of realistic size to 3-dimensional hydrodynamics for Type Ia supernova simulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/484</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1548&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>484</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1548</articleid>
+<submission-date>2010-02-19T10:43:42-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1155994</context-key>
+<submission-path>utk_graddiss/484</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Guidry</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Bugg, Ohannes Karakashian, Yuri Efremenko, William Raphael Hix</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/ChuprynaViktor.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

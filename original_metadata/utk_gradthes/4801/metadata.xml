@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Systems Calibration, Testing, and Preflight Preparations of a Reusable Launch Vehicle Subscale Model for a Parameter Determination Flight Program</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Rigsby</lname>
+<fname>James</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<disciplines><discipline>Aviation</discipline>
+</disciplines><abstract>&lt;p&gt;The European space community, having recognized the need for reliable and affordable space access, has identified two reusable vehicle concepts for future autonomous access to space. One of these concepts is the horizontally launched and landed “Hopper”. Various European agencies are participating in the development of the concept including the Technical University of Aachen, Germany.&lt;/p&gt;
+&lt;p&gt;The purpose of this work was to prepare and test the subscale vehicle for the flight test program conducted at the Technical University of Aachen (RWTH). The work was part of a larger project to create and demonstrate the technology required for reusable autonomous space access. The “Phoenix” project is a joint effort involving the German government, industry, and the Technical Universities of Aachen, Munich, and Stuttgart.&lt;/p&gt;
+&lt;p&gt;The Phoenix geometry is typically for space-plane configurations, having a low aspect ratio, low wing area, and a slender body. The model was equipped with an onboard telemetry system, so as to record flight data through the use of a MatLab® program and Simulink® simulation, as well as a dSPACE® real-time processor and ControlDesk® software.&lt;/p&gt;
+&lt;p&gt;This work included the calibration of the air system, determination of the moments of inertia of the model, calibration of the control surfaces, and cooperative work in testing hardware and software, as well as flight-tests planning. The air system calibration took place in the wind tunnel at RWTH with the goal being to develop angle of attack, angle of sideslip, dynamic and static pressure relations based on the installed instrumentation. The moments of inertia were determined for the purpose of calculating aerodynamic moments from the differentiated time histories of the rotation rates. The control surface calibrations were developed in order to input the excitation deflections, and to create a correlation of the measured potentiometer values versus degrees of actual deflection. It was also necessary to test all functions including field testing of the transmitter, telemetry system, and static pressure system. Radio interference and range problems were also addressed during this phase. A summary of the status of the program and some of the possible challenges are included in the conclusions and recommendations sections.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4801</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6306&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4801</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6306</articleid>
+<submission-date>2017-08-23T09:37:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10647087</context-key>
+<submission-path>utk_gradthes/4801</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ralph Kimberlin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Solies, Richard J. Ranaudo</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

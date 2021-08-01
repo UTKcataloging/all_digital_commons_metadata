@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Evaluation of a Seed-Specific Applicator for In-Furrow Chemical Application</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hancock</lname>
+<fname>John</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Recent trends in planting, toward lower seeding rates and more distance between seeds, are generating opportunities for improved application efficiency of in-furrow chemical inputs. In-furrow chemicals such as fungicides and insecticides are currently applied as a continuous band along the length of the furrow. However, research suggests that the material may only be necessary in a small zone around each seed. Eliminating or minimizing the material applied between seeds could produce substantial chemical savings and improve environmental stewardship, while maintaining current levels of efficacy. A seed-specific applicator has been developed to apply discrete pulses of liquid chemical to individual seeds at planting. An optical seed sensor located on the planter seeding tube detects each seed as it falls toward the furrow. Following detection, discrete event tracking circuitry, implemented using a Motorola 68HC11 microcontroller, tracks each seed in time to the point of chemical application. As the seed lands in the furrow, a high-speed valve applies a discrete pulse of liquid chemical to the seed and surrounding soil. The seed sensor and discrete-event tracking circuitry improve system functionality in two ways: (1) detecting the seeds ensures compatibility with irregularly-spaced seeds, and (2) the tracking algorithm allows the seeds to be detected well-ahead of the point of chemical application.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/6033</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7676&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>6033</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7676</articleid>
+<submission-date>2021-07-13T14:31:59-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23811318</context-key>
+<submission-path>utk_gradthes/6033</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Wilkerson</value>
+</field>
+<field name="advisor2" type="string">
+<value>William E. Hart, D. Raj Raman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

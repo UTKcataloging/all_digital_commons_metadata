@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluating Explicit Methods for Solving Astrophysical Nuclear Reaction Networks</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>efeger@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Feger</lname>
+<fname>Elisha</fname>
+<mname>Don</mname>
+</author>
+</authors>
+<disciplines><discipline>Other Astrophysics and Astronomy</discipline>
+</disciplines><abstract>&lt;p&gt;Many systems of physical interest are difficult to manage computationally because of the intrinsic nature of the equations that govern them.  Many of these systems of equations are stiff, meaning that the standard approach to solving them is with implicit methods, because explicit methods either are unstable or require timesteps too small to be computationally efficient.  Presented here is a study of explicit methods that decouple stability from accuracy under certain conditions, allowing for larger timesteps to be taken.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1048</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2202&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1048</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2202</articleid>
+<submission-date>2011-05-27T07:43:04-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2034934</context-key>
+<submission-path>utk_graddiss/1048</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Guidry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vasilios Alexiades, Christian Cardall, W. Raphael Hix, Kate Jones</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

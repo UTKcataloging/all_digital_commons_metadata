@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ANALYZING SUPERCOMPUTER UTILIZATION UNDER QUEUING WITH A PRIORITY FORMULA AND A STRICT BACKFILL POLICY</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mvanderl@utk.edu</email>
+<lname>Vanderlan</lname>
+<fname>Michael David</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Supercomputer</keyword>
+<keyword>queuing</keyword>
+<keyword>priority formula</keyword>
+<keyword>utilization</keyword>
+<keyword>strategy</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Operational Research</discipline>
+<discipline>Other Operations Research, Systems Engineering and Industrial Engineering</discipline>
+<discipline>Systems Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Supercomputers have become increasingly important in recent years due to the growing amount of data available and the increasing demand for quicker results in the scientific community.  Since supercomputers carry a high cost to build and maintain, efficiency becomes more important to the owners, administrators, and users of these supercomputers.  One important factor in determining the efficiency of a supercomputer is the scheduling of jobs that are submitted by users of the system.  Previous work has dealt with optimizing the schedule on the system’s end while the users are blinded from the process.  The work presented in this thesis investigates a scheduling system that is implemented at the Oak Ridge National Laboratory (ORNL) supercomputer Kraken with a backfilling policy and attempts to outline the optimal methods from the user’s point of view in the scheduling system, along with using a simulation approach to optimize the priority formula.  Normally the user has no idea which scheduling algorithms are used, but the users at ORNL not only know how the scheduling works but they can also view the current activity of the system.  This gives an advantage to the users who are willing to benefit from this knowledge by utilizing some elementary game theory to optimize their strategies.  The results will show a benefit to both the users, since they will be able to process their jobs sooner, and the system, since it will better utilized with little expense to the administrators, through competition.&lt;/p&gt;
+&lt;p&gt;Queuing models and simulation have been well studied in almost all relevant aspects of the modern world.  Higher efficiency is the goal of many researchers in several different fields; the supercomputer queues are no different.  Efficient use of the resources makes the system administrator pleased while benefiting the users with more timely results.  Studying these queuing models through simulation should help all parties involved by increasing utilization.  The simulation will be validated and the utilization improvement will be measured and reported.  User defined formulas will be developed for future users to help maximize utilization and minimize wait times.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/916</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1994&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>916</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1994</articleid>
+<submission-date>2011-04-14T13:11:39-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1941247</context-key>
+<submission-path>utk_gradthes/916</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph H. Wilck</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Rapinder Sawhney</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Tiled DANNA: Dynamic Adaptive Neural Network Array Scaled Across Multiple Chips</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pdraney@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Eckhart</lname>
+<fname>Patricia</fname>
+<mname>Jean</mname>
+</author>
+</authors>
+<keywords>
+<keyword>neuromorphic</keyword>
+<keyword>FPGA</keyword>
+<keyword>spiking neural network</keyword>
+<keyword>interconnect</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Tiled Dynamic Adaptive Neural Network Array(Tiled DANNA) is a recurrent spiking neural network structure composed of programmable biologically inspired neurons and synapses that scales across multiple FPGA chips. Fire events that occur on and within DANNA initiate spiking behaviors in the programmable elements allowing DANNA to hold memory through the synaptic charge propagation and neuronal charge accumulation. DANNA is a fully digital neuromorphic computing structure based on the NIDA architecture. To support initial prototyping and testing of the Tiled DANNA, multiple Xilinx Virtex 7 690Ts were leveraged. The primary goal of Tiled DANNA is to support scaling of DANNA neural networks beyond the constraints of a single chip or subsystem. To date, the largest physical DANNA implementations have been limited to a single FPGA chip. By synchronizing the neural network activity occurring within DANNA across multiple chips and designing a custom communication interface, DANNA has efficient and continuous scalability. This is accomplished by partitioning DANNA networks across interconnected tiles of DANNA elements in a two dimensional grid and then transmitting fire events over the chip boundaries. This report provides a brief history of neuromorphic computing, the progression of DANNA development, and a discussion over the design and implementation of Tiled DANNA.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4870</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6204&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4870</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6204</articleid>
+<submission-date>2017-06-15T11:28:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10309645</context-key>
+<submission-path>utk_gradthes/4870</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark E. Dean</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Advancing Data Analysis for Spectroscopic Imaging by Combining Wavelet Compression with Chemometrics</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Luttrell</lname>
+<fname>Robert</fname>
+<mname>Daryl</mname>
+</author>
+</authors>
+<disciplines><discipline>Analytical Chemistry</discipline>
+<discipline>Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;Spectroscopic imaging is a vital tool for studying heterogeneous samples such as bacteria and tissue. Its ability to acquire spatially resolved information allows for identification and classification of the various constituents within a sample. Spectroscopic imagers quickly acquire thousands to tens of thousands of spectra per measurement. These data are often arranged in the form of a 3-dimensional (3D) data cube which contains two spatial dimensions and one spectral dimension. This large amount of data is beneficial for gaining a thorough understanding about the distributions of chemical information. If too little information is measured, important chemical behavior may be overlooked. Statistical analysis algorithms (chemometrics) are required to determine the relevant spectroscopic information within a data cube. Applying chemometrics to such large volumes of data presents computational difficulties regarding computer memory and processing speed. To overcome these burdens, wavelet transform compression is applied prior to chemometric evaluation to accelerate computations and reduce data storage requirements.&lt;/p&gt;
+&lt;p&gt;To optimize compression by enhancing acceleration and reducing approximation errors, different wavelets, or „hybrid wavelets‟, can be applied to the different dimensions of a 3D data set. Determining which combination of wavelets will yield the most compression and best data representation is difficult since many possibilities exist. A compression method is presented that automatically determines the optimum wavelet combinations for a given data set. Principal component analysis (PCA) is used to demonstrate the capabilities of this new procedure, but the compression routine is advantageous for many chemometric techniques.&lt;/p&gt;
+&lt;p&gt;Although linear algorithms like PCA work well in many situations, they are not well-adapted for explaining nonlinear relationships. Kernel principal component analysis (KPCA) has recently been developed to overcome the limitations of linear algorithms. However, when applied to spectroscopic imaging, KPCA calculations require multiple gigabytes of RAM just for holding the data. Therefore, routine use of the algorithm is often prohibited on personal computers. To circumvent such situations, a wavelet compression algorithm is presented that avoids ever having to hold all data in memory at any point during the calculations. The goal is to enable the application of KPCA to large imaging data sets of heterogeneous samples.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/467</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1530&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>467</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1530</articleid>
+<submission-date>2010-02-18T13:45:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1154482</context-key>
+<submission-path>utk_graddiss/467</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Frank Vogt</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Sepaniak, Michael Best,  Nicole Labbé</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/August2008Dissertations/LuttrellRobertDaryl.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

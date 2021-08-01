@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Machine Learning and Neutron Sensing in Mobile Nuclear Threat Detection</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jsparger@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sparger</lname>
+<fname>John</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A proof of concept (PoC) neutron/gamma-ray mobile threat detection system was constructed at Oak Ridge National Laboratory. This device, the Dual Detection Localization and Identification (DDLI) system, was designed to detect threat sources at standoff distance using neutron and gamma ray coded aperture imaging. A major research goal of the project was to understand the benefit of neutron sensing in the mobile threat search scenario. To this end, a series of mobile measurements were conducted with the completed DDLI PoC. These measurements indicated that high detection rates would be possible using neutron counting alone in a fully instrumented system. For a 280,000 neutrons per second Cf-252 source placed 15.9 meters away, a 4σ [sigma] detection rate of 99.3% was expected at 5 m/s. These results support the conclusion that neutron sensing enhances the detection capabilities of systems like the DDLI when compared to gamma-only platforms.&lt;/p&gt;
+&lt;p&gt;Advanced algorithms were also investigated to fuse neutron and gamma coded aperture images and suppress background. In a simulated 1-D coded aperture imaging study, machine learning algorithms using both neutron and gamma ray data outperformed gamma-only threshold methods for alarming on weapons grade plutonium. In a separate study, a Random Forest classifier was trained on a source injection dataset from the Large Area Imager, a mobile gamma ray coded aperture system. Geant4 simulations of weapons-grade plutonium (WGPu) were combined with background data measured by the Large Area Imager to create nearly 4000 coded aperture images. At 30 meter standoff and 10 m/s, the Random Forest classifier was able to detect WGPu with error rates as low as 0.65% without spectroscopic information. A background subtracting filter further reduced this error rate to 0.2%. Finally, a background subtraction method based on principal component analysis was shown to improve detection by over 150% in figure of merit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3749</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4998&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3749</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4998</articleid>
+<submission-date>2015-10-06T19:08:34-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4998/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7687763</context-key>
+<submission-path>utk_graddiss/3749</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason P. Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Heilbronn, Hairong Qi, Howard Hall</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

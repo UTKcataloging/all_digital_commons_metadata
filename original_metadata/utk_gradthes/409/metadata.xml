@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Temperature Characterization of the Ultracapacitor Serial Resistance using a Constant Voltage Source</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Miller</lname>
+<fname>Curtis</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis examines the temperature effects on an ultracapacitor’s equivalent series resistance using a constant voltage source. Previous research has focused on developing models using constant current source. However, as the ultracapacitor technology develops, allowing for the expansion of these devices into new power applications, it is important to understand how ultracapacitors will perform in various temperatures and charging and discharging methods. By predicting the ultracapacitor behavior, systems can be optimized for efficiency and minimize internal circuit losses.&lt;/p&gt;
+&lt;p&gt;For this thesis, Matlab was used to plot the experimental data and to provide best fit curves with their respective coefficients to allow for resistance measurements for one RC time constant to be performed. The research presented in this thesis shows the ultracapacitor’s series resistance was more dependent on change in current than temperature variations. The resistance was did show a minor dependence on temperature, however it was insignificant compared to the change in current levels. The analysis of the resistance values allowed for the development of a resistance equation that accounted for the variations in current and temperature. These resistive equations were compared to the calculated resistance measurements. Sufficient agreement was shown between the developed resistance equations and the calculated resistance values.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/409</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1442&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>409</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1442</articleid>
+<submission-date>2010-02-16T11:29:44-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1148132</context-key>
+<submission-path>utk_gradthes/409</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack Lawler, Syed Kamrul Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/MillerCurtis.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Lattice Boltzmann Methods for Wind Energy Analysis</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>swood19@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wood</lname>
+<fname>Stephen</fname>
+<mname>Lloyd</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Wind energy</keyword>
+<keyword>fluid-structure interaction</keyword>
+<keyword>wake interaction</keyword>
+<keyword>wind plant layout</keyword>
+<keyword>turbine design</keyword>
+<keyword>lattice Boltzmann</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+<discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Computational Engineering</discipline>
+<discipline>Oil, Gas, and Energy</discipline>
+<discipline>Structural Engineering</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;An estimate of the United States wind potential conducted in 2011 found that the energy available at an altitude of 80 meters is approximately triple the wind energy available 50 meters above ground. In 2012, 43% of all new electricity generation installed in the U.S. (13.1 GW) came from wind power. The majority of this power, 79%, comes from large utility scale turbines that are being manufactured at unprecedented sizes. Existing wind plants operate with a capacity factor of only approximately 30%. Measurements have shown that the turbulent wake of a turbine persists for many rotor diameters, inducing increased vibration and wear on downwind turbines. Power losses can be as high as 20-30% in operating wind plants, due solely to complex wake interactions occurring in wind plant arrays. It is my objective to accurately predict the generation and interaction of turbine wakes and their interaction with downwind turbines and topology by means of numerical simulation with high-performance parallel computer systems.&lt;/p&gt;
+&lt;p&gt;Numerical simulation is already utilized to plan wind plant layouts. However, available computational tools employ severe geometric simplifications to model wake interactions and are geared to providing rough estimates on desktop PCs. A three dimensional simulation tool designed for modern parallel computers based upon lattice Boltzmann methods for fluid-dynamics, a general six-degree-of-freedom motion solver, and foundational beam solvers has been proposed to meet this simulation need. In this text, the software development, verification, and validation are detailed. Fundamental computational fluid dynamics issues of boundary conditions and turbulence modeling are examined through classic cases (Cavity, Jeffery-Hammel, Kelvin-Helmholtz, Pressure wave, Vorticity wave, Backward facing step, Cylinder in cross-flow, Airfoils, Tandem cylinders, and Turbulent flow over a hill) to asses the accuracy and computational cost of developed alternatives. Simulations of canonical motion (falling beam), fluid-structure-interaction cases (Hinged wing and Flexible pendulum), and realistic horizontal axis wind turbine geometries (Vestas v27, NREL 5MW, and MEXICO) are validated against benchmarks and experiments. Results from simulations of the three turbine array at the Scaled Wind Farm Test facility are presented for two steady wind conditions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3981</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5196&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3981</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5196</articleid>
+<submission-date>2016-02-26T09:19:44-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8223594</context-key>
+<submission-path>utk_graddiss/3981</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ralf Deiterding</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vasilios Alexiades, Allen J. Baker, Joshua S. Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

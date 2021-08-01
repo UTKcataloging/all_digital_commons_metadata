@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Deep Learning in Positron Emission Tomography Image Reconstruction</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Whiteley</lname>
+<fname>William</fname>
+<mname>James</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Positron Emission Tomography</keyword>
+<keyword>Deep Learning</keyword>
+<keyword>Neural Network</keyword>
+<keyword>Image Reconstruction</keyword>
+</keywords>
+<abstract>&lt;p&gt;The aim of this research is towards creating superior algorithms for Positron Emission Tomography (PET) image reconstruction through the application of deep learning methods. The central idea is applying the increasing availability of computational power and deep neural network techniques to develop superior image reconstruction algorithms and better health outcomes for patients. This dissertation is structured as a series of four articles detailing deep learning methods applied to the PET image formation process. The first article proposes a raw data correction method for the case where one or more block detectors in the PET scanner fail. Gaps in the raw data are repaired with a neural network to allow the continued scanning of patients with full diagnostic quality until a hardware repair can be made. The remaining articles explore image reconstruction methods where a neural network is the primary instrument for generating an image directly from measurement data. In the second article a method named DirectPET is described that works directly from raw sinograms and attenuation maps to create multi-slice full-size image volumes with a purposely designed Radon inversion layer. DirectPET generates images that are quantitatively and qualitatively similar to the conventional ordered subset expectation maximization method in a fraction of the reconstruction time. Continuing on the theme of direct neural network reconstruction, the next article proposes a network named FastPET that works directly from histo-image data and is capable of creating high quality PET images over 800 times faster than conventional methods while demonstrating a higher contrast recovery than OSEM with equivalent variance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5802</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7568&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5802</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7568</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522181</context-key>
+<submission-path>utk_graddiss/5802</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Amir Sadovnik, Dustin Osborne</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;http://orcid.org/0000-0001-7262-3694&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

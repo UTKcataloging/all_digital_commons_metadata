@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>2D-3D Registration of Knee Joint from Single Plane X-ray Fluoroscopy Using Nonlinear Shape Priors</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jwu19@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wu</lname>
+<fname>Jing</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Medical imaging</keyword>
+<keyword>2D-3D registration</keyword>
+<keyword>3D reconstruction</keyword>
+<keyword>Statistical shape model</keyword>
+<keyword>KPCA</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recent years have seen growing demands for computer-based information technology to help surgeons with surgical planning and guiding, kinematics analysis, computer-aided diagnosis (CADx), as well as prosthetics design. The key to this problem is the registration of two-dimensional (2D) intra-operative images to a three-dimensional (3D) model. This dissertation describes a novel non-rigid 2D/3D registration framework for reconstructing the 3D surface mesh model from a sequence of monoplane 2D fluoroscopic x-ray images based on nonlinear statistical shape model. The foundations for this framework are the following: 1) Feature Extraction, which extracts 2D contour from the X-ray fluoroscopy based on spectral clustering and active shape model (ASM); 2) Initialization, which estimates the 3D model’s initial pose using a hybrid classifier integrating k-nearest neighbors (KNN) and support vector machine (SVM); 3) Optimization, which determines the 3D model’s optimal pose and shape by maximizing the similarity measurey between the 2D X-ray fluoroscopy and the reconstructed 3D surface mesh model. The similarity measure is designed as a novel energy function including edge score, region score, homogeneity score, and multibody registration score. 4) 3D Shape Analysis, which represents the training dataset of 3D surface mesh models with nonlinear statistical shape model named kernel principal component analysis (KPCA). In conclusion, this work describes a novel, clinically relevant 2D/3D registration framework to provide a general approach that can be applied to solving medical image registration problems in a wide variety of modalities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3671</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5037&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3671</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5037</articleid>
+<submission-date>2015-10-09T16:36:22-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7702991</context-key>
+<submission-path>utk_graddiss/3671</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard D. Komistek, William R. Hamel, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

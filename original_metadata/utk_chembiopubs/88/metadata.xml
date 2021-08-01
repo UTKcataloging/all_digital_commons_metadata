@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parallelization of Null Space Algorithm for the Computation of Metabolic Pathways</title>
+<publication-date>2011-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Jevremovic</lname>
+<fname>Dimitrije</fname>
+</author>
+<author>
+<email>ctrinh@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Trinh</lname>
+<fname>Cong</fname>
+<mname>T</mname>
+</author>
+<author>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Srienc</lname>
+<fname>Friedrich</fname>
+</author>
+<author>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Boley</lname>
+<fname>Daniel</fname>
+</author>
+<author>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Sosa</lname>
+<fname>Carlos</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Metabolic pathway analysis</subject-area>
+</subject-areas>
+<disciplines><discipline>Biochemical and Biomolecular Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Elementary mode analysis is a useful metabolic pathway analysis tool in understanding and analyzing cellular metabolism, since elementary modes can represent metabolic pathways with unique and minimal sets of enzyme-catalyzed reactions of a metabolic network under steady state conditions. However, computation of the elementary modes of a genome-scale metabolic network with 100–1000 reactions is very expensive and sometimes not feasible with the commonly used serial Nullspace Algorithm. In this work, we develop a distributed memory parallelization of the Nullspace Algorithm to handle efficiently the computation of the elementary modes of a large metabolic network. We give an implementation in C++ language with the support of MPI library functions for the parallel communication. Our proposed algorithm is accompanied with an analysis of the complexity and identification of major bottlenecks during computation of all possible pathways of a large metabolic network. The algorithm includes methods to achieve load balancing among the compute-nodes and specific communication patterns to reduce the communication overhead and improve efficiency.&lt;/p&gt;</abstract>
+<fpage>261</fpage>
+<lpage>278</lpage>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/88</coverpage-url>
+<label>88</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1088</articleid>
+<submission-date>2014-02-04T13:06:09-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>3779581</context-key>
+<submission-path>utk_chembiopubs/88</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Dimitrije Jevremović, Cong T. Trinh, Friedrich Srienc, Carlos P. Sosa, Daniel Boley. (2011). Parallelization of Nullspace Algorithm for the computation of metabolic pathways. Parallel Computing, Volume 37, Issues 6–7, 261-278, ISSN 0167-8191, http://dx.doi.org/10.1016/j.parco.2011.04.002.</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://dx.doi.org/10.1016/j.parco.2011.04.002</value>
+</field>
+<field name="source_publication" type="string">
+<value>Parallel Computing</value>
+</field>
+</fields>
+</document>
+</documents>

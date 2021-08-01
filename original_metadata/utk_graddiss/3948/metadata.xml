@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Next Generation In-Vivo Forward Solution Physiological Model of the Human Lower Limb to Predict Implanted Knee Mechanics</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bmeccia@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Meccia</lname>
+<fname>Bradley</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<keywords>
+<keyword>arthroplasty</keyword>
+<keyword>Knee</keyword>
+<keyword>Mathematical Modeling</keyword>
+</keywords>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Other Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Current total knee arthroplasty (TKA) evaluation methods are both time consuming and expensive. They require fabrication of the TKA and then utilize a wear or cadaveric simulator which does not necessarily replicate in-vivo conditions. Other analysis methods involve following the long-term success of TKA in subjects for five or more years. Mathematical modeling of TKA provide an efficient method at a greatly reduced cost for evaluating TKA. Obviously, the accuracy of a mathematical model is extremely important to the validity of the results.&lt;/p&gt;
+&lt;p&gt;Mathematical modeling of the knee faces many difficulties. The number of muscles actuating the knee is much larger than the number of equations of motion, producing an indeterminate system. Furthermore, the complex shapes of both the tibial plateaus and femoral condyles result in interactions which must be modeled using non-holonomic constrains. A forward solution mathematical model has been developed which overcomes these difficulties to serve as a theoretical simulator.&lt;/p&gt;
+&lt;p&gt;In this model, the articulating geometry of the TKA is defined mathematically. The trochlear groove, medial and lateral polyethylene plateaus, and post (in posterior stabilized designs) are defined using mathematical surfaces. Then, the femoral condyles, the patella surface, and the cam (in posterior stabilized designs) are defined using point clouds. Contact forces are computed by searching for contact between the defined surfaces and point clouds. The muscle forces are computed using control systems to generate the desired motion of the knee.&lt;/p&gt;
+&lt;p&gt;In addition the model, a graphical user interface (GUI) was developed which allows users to efficiently set up simulations for the model. This program guides the users step-by-step through mathematically defining the surfaces, selecting the orientation of the implants on the bones, and setting up initial conditions. It also gives users the option to adjust patient specific parameters such as ligament origins, insertions, and stiffness.&lt;/p&gt;
+&lt;p&gt;Using this model, many simulations have been performed to explore the effect of varying implant designs. With the knowledge gained from these designs, a new TKA was developed. A desired kinematic profile was selected, and the TKA was modified based on the results of successive simulations until the desired results were obtained.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3948</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5266&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3948</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5266</articleid>
+<submission-date>2016-04-25T17:06:06-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5266/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8520533</context-key>
+<submission-path>utk_graddiss/3948</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Richard D. Komistek</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohamed R. Mahfouz, Aly Fathy, Adrija Sharma</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling of Dislocation Channel Formation and Evolution in Irradiated Metals</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pdoyle3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Doyle</lname>
+<fname>Peter</fname>
+<mname>James</mname>
+</author>
+</authors>
+<keywords>
+<keyword>flow localization</keyword>
+<keyword>defect-free channel formation</keyword>
+<keyword>irradiation hardening</keyword>
+<keyword>irradiation embrittlement</keyword>
+<keyword>dislocation random walk</keyword>
+</keywords>
+<disciplines><discipline>Mechanics of Materials</discipline>
+<discipline>Nuclear Engineering</discipline>
+<discipline>Structural Materials</discipline>
+</disciplines><abstract>&lt;p&gt;Defect-free dislocation channel formation has been reported to promote plastic instability during tensile testing via localized plastic flow, leading to a distinct loss of ductility and strain hardening in many low-temperature irradiated materials. In order to study the underlying mechanisms governing dislocation channel width and formation, the channel formation process is modeled via a simple stochastic dislocation-jog process dependent upon grain size, defect cluster density, and defect size. Dislocations traverse a field of defect clusters and jog stochastically upon defect interaction, forming channels of low defect-density. Based upon prior molecular dynamics (MD) simulations and in-situ experimental transmission electron microscopy (TEM) observations, each dislocation encounter with a dislocation loop or stacking fault tetrahedron (SFT) is assumed to cause complete absorption of the defect cluster, prompting the dislocation to jog up or down by a distance equal to half the defect cluster diameter. Channels are predicted to form rapidly and are comparable to reported TEM measurements for many materials. Predicted channel widths are found to be most strongly dependent on mean defect size and correlated well with a power law dependence on defect diameter and density, and distance from the dislocation source. Due to the dependence of modeled channel width on defect diameter and density, maximum channel width is predicted to slowly increase as accumulated dose increases. The relatively weak predicted dependence of channel formation width with distance, in accordance with a diffusion analogy, implies that after only a few microns from the source, most channels observed via TEM analyses may not appear to vary with distance because of limitations in the field-of-view to a few microns. Further, examinations of the effect of the so-called &quot;source-broadening&quot; mechanism of channel formation showed that its effect is simply to add a minimum thickness to the channel without affecting channel dependence on the given parameters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4947</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6259&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4947</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6259</articleid>
+<submission-date>2017-08-07T17:39:51-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/6259/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>10558736</context-key>
+<submission-path>utk_gradthes/4947</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven J. Zinkle</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian D. Wirth, Ronald E. Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

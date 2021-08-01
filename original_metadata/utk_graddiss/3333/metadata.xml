@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assessment of Reactivity Equivalence for Enhanced Accident Tolerant Fuels in Light Water Reactors</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ngeorge3@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>George</lname>
+<fname>Nathan</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Accient Tolerant Fuel</keyword>
+<keyword>Nuclear</keyword>
+<keyword>Neutronics</keyword>
+<keyword>Light Water Reactor</keyword>
+<keyword>Optimization</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The neutronic behavior of accident tolerant fuel (ATF) concepts was simulated in light water reactors (LWRs) to establish design parameters to match reactivity lifetime requirements of standard UO&lt;sub&gt;2 &lt;/sub&gt;[uranium dioxide]/Zircaloy fuel. The two concepts discussed in this dissertation are fully ceramic micro-encapsulated (FCM) fuel and alternate cladding concepts. To compare the required fuel alterations against standard UO&lt;sub&gt;2&lt;/sub&gt;/Zircaloy fuel, a 2D lattice-physics based reactivity equivalence method was established to estimate excess reactivity at the completion of each weighted batch cycle.&lt;/p&gt;
+&lt;p&gt;In the case of FCM fuel, the uranium-based tristructural isotropic (TRISO) kernel and the surrounding particle layers/matrix material were altered to increase fissile loading. To match the lifetime of an 18-month pressurized water reactor (PWR) cycle, the FCM particle fuel design required roughly 10% additional fissile material at beginning of life (BOL) compared with that of a standard UO&lt;sub&gt;2&lt;/sub&gt; rod.&lt;/p&gt;
+&lt;p&gt;When investigating alternate cladding concepts, cladding walls were thinned with the outer diameter unchanged, so the pellet volume and enrichment of UO&lt;sub&gt;2&lt;/sub&gt; fuel were increased. In the PWR study, a cladding thickness of 350 μm [micrometer] was simulated. Austenitic stainless steels required an increase of about 0.5 wt % enrichment to match fuel cycle requirements, while the required increase in enrichment for FeCrAl was about 0.1%. Due to the presence of the channel box, the boiling water reactor (BWR) ATF designs required additional fissile material. With the FeCrAl cladding and channel box thicknesses halved, it was estimated that an average enrichment increase of 0.6% would be required. Verification of the 2D reactivity results was performed with a 3D full-core parametric study of a representative BWR demonstrating the applicability of the 2D reactivity equivalence method for the cases herein studied.&lt;/p&gt;
+&lt;p&gt;A LWR optimization code (LWROpt) was used to determine loading (LP) and control blade (CB) patterns for the ATF BWR concepts, so to help regain thermal and reactivity margins. Fuel performance was investigated with the BISON-CASL code using linear heat rate data from the optimized full-core results. The analysis demonstrated that varying power histories between FeCrAl and Zircaloy cladding greatly affect thermal expansion and centerline temperatures of the fuel rods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3333</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4746&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3333</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4746</articleid>
+<submission-date>2015-02-27T14:42:11-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4746/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6745951</context-key>
+<submission-path>utk_graddiss/3333</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>William J. Weber, Arthur E. Ruggles, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

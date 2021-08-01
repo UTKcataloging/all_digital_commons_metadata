@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Battery Energy Storage Emulation for Power System Applications</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jboles@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Boles</lname>
+<fname>Jessica</fname>
+<mname>Danielle</mname>
+</author>
+</authors>
+<keywords>
+<keyword>energy storage</keyword>
+<keyword>battery</keyword>
+<keyword>battery emulation</keyword>
+<keyword>battery energy storage system</keyword>
+<keyword>power electronics</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The concept of energy storage for power systems has received increasingly more attention in recent decades, and the growing penetration of renewable energy sources has only escalated demand for it. Energy storage systems are excellent for balancing generation and load, for suppressing power fluctuations, and for providing other ancillary services to the grid. The Hardware Testbed (HTB) is a novel converter-based grid emulator created for studying the needs associated with high renewable penetration, but the system currently lacks a battery storage emulator. Thus, this work documents the development of a battery energy storage system (BESS) emulator for the HTB.&lt;/p&gt;
+&lt;p&gt;The BESS emulator includes internal battery models for Lithium Ion, Lead Acid, and Vanadium redox flow battery technologies. The emulated BESS contains a two-stage power electronics interface using a DC-DC converter and a boost rectifier separated by a DC link. Controllers for active power output, reactive power output, and DC link voltage are designed for the power electronics interface, and application-specific control loops for primary frequency regulation, inertia emulation, and voltage support are also added. The models and control for this emulated BESS are implemented on a digital signal processor that controls one voltage source inverter on the HTB as if it were the BESS’s boost rectifier. Consequently, the voltage source inverter mimics the behavior of a BESS at its point of common coupling with the HTB’s power system.&lt;/p&gt;
+&lt;p&gt;The BESS emulator is simulated and then tested experimentally on the HTB, and all of its control functions demonstrate correct operation. The BESS emulator’s primary frequency regulation and inertia emulation functions nearly eliminate the system frequency swing following a step change in load, and the voltage support keeps the BESS terminal voltage at a safer level following the disturbances. These three support functions are concluded to be capable of simultaneous operation, which allows the BESS emulator to support the HTB’s power system in multiple ways at the same time. In the future, the BESS emulator can be used on the HTB to study how battery storage can be used to support renewables and other dynamic power system needs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4859</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5836&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4859</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5836</articleid>
+<submission-date>2017-02-24T12:15:38-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9746113</context-key>
+<submission-path>utk_gradthes/4859</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Kevin Tomsovic, Daniel Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

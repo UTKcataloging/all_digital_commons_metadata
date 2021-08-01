@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sketchmate: A Computer-Aided Sketching and Simulation Tool for Teaching Graph Algorithms</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kvanhorn@utk.edu</email>
+<lname>Van Hornweder</lname>
+<fname>Kristy Sue</fname>
+</author>
+</authors>
+<keywords>
+<keyword>graph algorithms</keyword>
+<keyword>algorithm visualization</keyword>
+<keyword>computer science education</keyword>
+<keyword>computer-aided manual simulation tool</keyword>
+<keyword>computerized tutoring tool</keyword>
+<keyword>computerized teaching and lecturing tool</keyword>
+</keywords>
+<disciplines><discipline>Curriculum and Instruction</discipline>
+<discipline>Educational Assessment, Evaluation, and Research</discipline>
+<discipline>Educational Psychology</discipline>
+<discipline>Graphics and Human Computer Interfaces</discipline>
+<discipline>Higher Education and Teaching</discipline>
+<discipline>Science and Mathematics Education</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, we developed and tested a sketching, visualization, and simulation tool called Sketchmate for demonstrating graph algorithms commonly taught in undergraduate computer science courses.  For this research, we chose to focus on shortest path and network flow algorithms.  Two versions of this tool have been implemented: 1) an instructor tool that supports computer-aided manual simulations of algorithms that augment traditional whiteboard presentations, allowing lectures to be more dynamic and interactive, and 2) a student tool that supports computer-aided manual practice of algorithms that enables students to work through homework problems more quickly while providing detailed incremental feedback about their performance and about how to solve a problem when they get stuck.  Previous algorithm simulation systems have essentially forced instructors to narrate an algorithm as though they were describing an automated set of slides.  In contrast, our tool allows instructors to manually manipulate attributes of a graph as they demonstrate an algorithm.&lt;/p&gt;
+&lt;p&gt;A set of experiments was conducted using the tools.  The results for the student tool showed that there was no statistically significant difference in test score improvement between Sketchmate and paper and pencil students, although they did show that Sketchmate students scored roughly one letter grade higher than paper and pencil students.  Based on survey data, the students preferred using the tool to using paper and pencil.  The results of the experiment involving the instructor tool showed that although there was no statistically significant difference in learning between Sketchmate and the whiteboard, both the instructor and the students preferred a Sketchmate lecture to a whiteboard lecture.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1437</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2588&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1437</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2588</articleid>
+<submission-date>2012-06-07T20:24:00-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2970598</context-key>
+<submission-path>utk_graddiss/1437</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bradley T. Vander Zanden</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne E. Parker, James S. Plank, Christopher H. Skinner</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

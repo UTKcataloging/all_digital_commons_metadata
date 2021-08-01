@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Industrial Robustness: Understanding the mechanism of tolerance for the &lt;i&gt;Populus&lt;/i&gt; hydrolysate tolerant strain of &lt;i&gt;Clostridium thermocellum&lt;/i&gt;</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jlinvill@utk.edu</email>
+<lname>Linville</lname>
+<fname>Jessica Leigh</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Clostridium thermocellum</keyword>
+<keyword>Populus hydrolysate</keyword>
+<keyword>Biofuels</keyword>
+<keyword>Genomic</keyword>
+<keyword>Transcriptomic</keyword>
+<keyword>Kinetic modeling</keyword>
+</keywords>
+<disciplines><discipline>Biochemical and Biomolecular Engineering</discipline>
+<discipline>Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An industrially robust microorganism that can efficiently degrade and convert lignocellulosic biomass into ethanol and next-generation fuels is required to economically produce future sustainable liquid transportation fuels. The anaerobic, thermophilic, cellulolytic bacterium Clostridium thermocellum is a candidate microorganism for such conversions but it, like many bacteria, is sensitive to potential toxic inhibitors developed in the hydrolysate produced during biomass processing. Microbial processes leading to tolerance of the inhibitory compounds found in the pretreated biomass hydrolysate are likely complex and involve multiple genes. In this study, a 17.5% v/v Populus hydrolysate tolerant mutant strain of C. thermocellum was developed by directed evolution.&lt;/p&gt;
+&lt;p&gt;The genome of the wild type strain, intermediate population samples and single colony isolates were sequenced to elucidate the mechanism of tolerance. Genetic mutations common to all isolates were matched with the observed phenotype through kinetic modeling and comparison of gene expression levels (RNA-seq) during fermentation by the wild type strain and mutant isolate #6 in various concentrations of Populus hydrolysate (0%, 10%, and 17.5% v/v). Inhibition was found to be a constant term based on initial hydrolysate concentrations. The mutant strain was found to have a faster growth rate and was less inhibited than the wild type. The mutant increased expression of genes encoding for energy production and conversion, and amino acid transport and metabolism, and decreased expression of genes encoding for the cell envelope and outer membrane, cell motility, cellulosome, inorganic ion transport and metabolism, sporulation and cell defense mechanisms when compared to the wild type in standard media. The wild type differently expressed twice as many genes when compared to the mutant in hydrolysate conditions. The mutant increased growth related genes where as the wild type increased cell defense mechanisms when placed in hydrolysate media.&lt;/p&gt;
+&lt;p&gt;The findings suggest that there are multiple mutations responsible for the Populus hydrolysate tolerant phenotype resulting in several simultaneous mechanisms of action. To date, this study provides the most comprehensive elucidation of the mechanism of tolerance to a pretreated biomass hydrolysate by C. thermocellum. These findings make important contributions to the development of industrially robust strains of consolidated bioprocessing microorganisms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1754</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2862&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1754</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2862</articleid>
+<submission-date>2013-02-25T09:00:39-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2862/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3778138</context-key>
+<submission-path>utk_graddiss/1754</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Chris D. Cox</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin G. Robinson, Qiang He, Gary S. Sayler, Jonathan R. Mielenz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>File_S1_Clostridium_thermocellum_genomic_analysis.xlsx</archive-name>
+<upload-name>File_S1_Clostridium_thermocellum_genomic_analysis.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>An excel File containing the full list of possible mutations received from JGI.</description>
+</file>
+<file>
+<archive-name>File_S2_Differential_Gene_Expression_Profiles.xlsx</archive-name>
+<upload-name>File_S2_Differential_Gene_Expression_Profiles.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>An excel file containing the significantly differentially expressed genes with mutations or related to genes with mutations based of the ANOVA results.</description>
+</file>
+<file>
+<archive-name>File_S3_Cthe_2376_alignment.txt</archive-name>
+<upload-name>File_S3_Cthe_2376_alignment.txt</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>A text file containing the Clustawl alignment of the SNP in Cthe_2376 with the top 100 hits.</description>
+</file>
+<file>
+<archive-name>File_S4_Cthe_2724_alignment.txt</archive-name>
+<upload-name>File_S4_Cthe_2724_alignment.txt</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>A text file containing the Clustawl alignment of the SNP in Cthe_2724 with the top 100 hits.</description>
+</file>
+<file>
+<archive-name>File_S5_Cthe_2727_alignment.txt</archive-name>
+<upload-name>File_S5_Cthe_2727_alignment.txt</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>A text file containing the Clustawl alignment of the SNP in Cthe_2727 with the top 100 hits.</description>
+</file>
+<file>
+<archive-name>File_S6_Significantly_differentially_Expressed_Genes.xlsx</archive-name>
+<upload-name>File_S6_Significantly_differentially_Expressed_Genes.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>An Excel file with all of the results of the ANOVA test for all 1,795 statistically significant differentially expressed genes based on all possible simple comparisons.</description>
+</file>
+<file>
+<archive-name>File_S7_Hypothetical_Genes.xlsx</archive-name>
+<upload-name>File_S7_Hypothetical_Genes.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=6&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>An Excel file with the 492 genes that encode hypothetical proteins, pseudo genes, and genes of unknown function.</description>
+</file>
+<file>
+<archive-name>File_S8_Differentailly_Expressed_Genes_by_Category.xlsx</archive-name>
+<upload-name>File_S8_Differentailly_Expressed_Genes_by_Category.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=7&amp;amp;article=2862&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>An Excel file with the 1014 genes that were significantly differentially expressed along with the category designation assigned by this analysis.</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

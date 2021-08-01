@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-area measurement and applications in power system dynamic modeling and control</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yliu66@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Yong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>wide-area measurement</keyword>
+<keyword>synchrophasors</keyword>
+<keyword>dynamic model</keyword>
+<keyword>renewable energy</keyword>
+<keyword>Eastern Interconnection</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Synchrophasor has been becoming the foundational element of power grid wide-area measurement system (WAMS) since first developed in 1980s. By utilizing global positioning system (GPS) time synchronization technique, synchrophasors offer highly accurate time-synchronized phasor measurements that can provide system operators with real-time information of operation status.&lt;/p&gt;
+&lt;p&gt;Frequency disturbance recorders (FDRs) are installed on the distribution level to measure power system dynamics and considered as a type of single-phase synchrophasors. In this dissertation, a detailed procedure for the FDRs’ calibration is summarized and a preliminary test of their dynamic performance is carried out. Moreover, this dissertation investigates the impact of GPS signal availability on the FDR’s measurement accuracy and demonstrates that high-sensitivity GPS receiver provides a more reliable timing for synchrophasors.&lt;/p&gt;
+&lt;p&gt;Among the various applications of synchrophasor measurements, wide-area control of renewable energy sources (such as the variable-speed wind generators and solar photovoltaic (PV) generators) for frequency regulation and inter-area oscillation damping has attracted significant attentions. In this dissertation, based on the user-defined wind/PV generator electrical control model and the 16,000-bus Eastern Interconnection (EI) dynamic model, the additional controllers for frequency regulation and inter-area oscillation damping are developed and the potential contributions of renewables to the EI system frequency regulation and inter-area oscillation damping are evaluated.&lt;/p&gt;
+&lt;p&gt;Measurement-based power system modeling is another important application of synchrophasor measurements, especially considering the fact that only a limited number of transfer functions or models are critical to system stability evaluation and real-time control. In this dissertation, how to construct a measurement-based power system dynamic model is discussed. Based on a linear model structure, a concept of dynamic response estimation is proposed and its overall performance is examined. Identifying angular and voltage instability issues is also explored in this dissertation as an example of this measurement-based model’s applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2594</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3579&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2594</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3579</articleid>
+<submission-date>2013-10-03T07:44:52-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3579/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4662338</context-key>
+<submission-path>utk_graddiss/2594</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Kai Sun, Joshua Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

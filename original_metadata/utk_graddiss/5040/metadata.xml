@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparing the Impact of Control Strategies on Mathematical Models of &lt;i&gt;Clostridium difficile&lt;/i&gt; Transmission</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bsteph13@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Stephenson</lname>
+<fname>Brittany</fname>
+<mname>Christine</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Optimal control</keyword>
+<keyword>Clostridium difficile</keyword>
+<keyword>Vaccination</keyword>
+<keyword>Agent-based model</keyword>
+<keyword>Disease model</keyword>
+</keywords>
+<abstract>&lt;p&gt;The spore-forming, gram-positive bacteria &lt;i&gt;Clostridium difficile&lt;/i&gt; can cause severe intestinal illness. A striking increase in the number of cases of &lt;i&gt;C. difficile&lt;/i&gt; infection (CDI) among hospitals has highlighted the need to better understand how to prevent its spread. In this dissertation, I discuss the development and structure of two different models of nosocomial &lt;i&gt;C. difficile&lt;/i&gt; transmission that we used to evaluate the efficacy of various control strategies and to determine optimal interventions.We begin with an update and modification of a compartmental model of nosocomial &lt;i&gt;C. difficile&lt;/i&gt; transmission to include vaccination. We then apply optimal control theory on this epidemiological model to determine the time-varying optimal vaccination rate that minimizes a combination of (1) disease prevalence and spread in the hospital population and (2) the cost, in terms of time and money, associated with vaccination. Various hospital scenarios are considered, such as times of increased antibiotic prescription rates and periods of outbreak, to see how such scenarios affect the optimal vaccination rate. By comparing the values of our objective functional with constant vaccination rates to those with time-varying optimal vaccination rates, we illustrate the benefits of time-varying controls.The second model is an agent-based model that also simulates the transmission of &lt;i&gt;C. difficile&lt;/i&gt; in a healthcare setting. This model explicitly incorporates healthcare workers (HCWs) as vectors of transmission, tracks individual patient antibiotic histories, incorporates varying risk levels of antibiotics with respect to CDI, and tracks contamination levels of ward rooms by &lt;i&gt;C. difficile&lt;/i&gt;. Using this model, we evaluated the efficacy of a variety of control interventions and combinations of interventions on reducing &lt;i&gt;C. difficile&lt;/i&gt; nosocomial colonizations and infections. The control techniques included two forms of antimicrobial stewardship, increased environmental decontamination through room cleaning, improved HCW compliance, and a preliminary assessment of vaccination.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5040</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6581&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5040</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6581</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415439</context-key>
+<submission-path>utk_graddiss/5040</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Judy D. Day</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nina H. Fefferman, Michael W. Frazier, Suzanne M. Lenhart</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in the Journal of Mathematical Biology</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

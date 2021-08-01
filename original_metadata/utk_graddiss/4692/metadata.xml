@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assessing the Economic Tradeoffs Between Prevention and Suppression of Forest Fires</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eheines@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Heines</lname>
+<fname>Elizabeth</fname>
+<mname>Trulia</mname>
+</author>
+</authors>
+<keywords>
+<keyword>optimal control</keyword>
+<keyword>forest management</keyword>
+<keyword>sensitivity analysis</keyword>
+<keyword>sequences of fires</keyword>
+</keywords>
+<disciplines><discipline>Applied Mathematics</discipline>
+<discipline>Control Theory</discipline>
+<discipline>Natural Resource Economics</discipline>
+</disciplines><abstract>&lt;p&gt;The number of large-scale, high-severity forest fires occurring in the United States is increasing, as is the cost to suppress these fires. These trends have prompted investigations into alternative fuels methods to help prevent these large wildfires. One of the key challenges in studying the costs and benefits of forest fire prevention management is the incorporation of risk and uncertainty surrounding management decisions. We use a technique developed by William Reed to incorporate the stochasticity of the time of a forest fire into our optimal control problems. The goal of these problems is to determine the optimal fire prevention management spending rate and the optimal fire suppression spending which maximizes the expected value of a forest. Using these optimal control problems we explore the potential tradeoffs between prevention management spending and suppression spending, along with the overall economic viability of prevention management spending. The first optimal control problem we develop assumes that the effects of prevention management spending are instantaneous. We develop two parameter sets re ecting the 2011 Las Conchas Fire in New Mexico and 2014 Happy Camp Fire Complex in California and numerically solve our optimal control problem. For this problem, we perform a parameter sensitivity analysis to rank our parameters based on their impact on the value of a forest and the mean optimal prevention management spending rate. Furthermore, we adapt our optimal control problem so that it may be applied successively to simulate a sequence of fires. We perform a simulation study to determine how, on average, prevention management spending affects the value of a forest given an unknown number of fires over a fixed management horizon. The second optimal control problem we develop allows for the effects of prevention management spending to accumulate over time. We consider the numerical results and compare them to our first optimal control problem. Overall, our results support the conclusion that the prevention management efforts offset rising suppression costs and increase the value of a forest overall. This work showcases a valuable tool which can guide forest managers and policymakers in their development of forest fire management plans.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4692</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6093&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4692</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6093</articleid>
+<submission-date>2017-06-07T10:12:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10264122</context-key>
+<submission-path>utk_graddiss/4692</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne M. Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles R. Collins, Judy D. Day, Charles B. Sims</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

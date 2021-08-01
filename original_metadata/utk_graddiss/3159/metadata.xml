@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Stability Analysis of the Rotary Drill-String</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lpan3@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pan</lname>
+<fname>Liangming</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Drill-string</keyword>
+<keyword>Steady-State</keyword>
+<keyword>Stability</keyword>
+<keyword>Rayleigh-Ritz</keyword>
+</keywords>
+<disciplines><discipline>Computer-Aided Engineering and Design</discipline>
+<discipline>Manufacturing</discipline>
+</disciplines><abstract>&lt;p&gt;Oil and natural gas are major energy sources for modern society. A rotary drilling system is the best known technology to extract them from underground. The vibration and stability of drilling systems have been studied for decades to improve drilling efficiency and protect expensive down-hole components. It is well known that severe drill-string vibrations are caused by many different loads: axial loads such as the hook load and the self-weight of the drill-string, end torques applied by the surface motor and restrained at the bit, the inertial load caused by whirling, the fluid drag force, and the contact force between the borehole wall and the drill-string. The drill-string is usually subjected to a complex combination of these loads.&lt;/p&gt;
+&lt;p&gt;The motivation for this dissertation is the need to understand the complex vibration states and the stability of the drill-string in order to better control its constructive and destructive potential. A mathematical model is proposed to describe the steady-state stability of a long, vertical, rectilinear drill-string. The model accounts for a complex combination of constant and variable loads that affect the behavior of drill-strings. The first critical values of these loads and the corresponding mode shape are obtained by the analytical method and the Rayleigh-Ritz method. COMSOL and ABAQUS are used to validate the numerical results for the cases without analytical solutions. With these results, we see that the Rayleigh-Ritz method gives accurate results and is a good way for us to understand more deeply the dynamics of the drilling process and predict the instability of the drilling system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3159</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4296&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3159</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4296</articleid>
+<submission-date>2014-08-12T13:27:05-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4296/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5936038</context-key>
+<submission-path>utk_graddiss/3159</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. A. M. Boulet</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hans DeSmidt, Subhadeep Chakraborty, Yulong Xing</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

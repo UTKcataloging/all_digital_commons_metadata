@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the construction and interpretation of fitness landscapes for HIV: a computational perspective</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ejohns60@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Elizabeth</fname>
+<mname>Grace</mname>
+</author>
+</authors>
+<keywords>
+<keyword>HIV</keyword>
+<keyword>Fitness</keyword>
+<keyword>Landscapes</keyword>
+<keyword>Mathematical Modeling</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Genetics and Genomics</discipline>
+<discipline>Immunology and Infectious Disease</discipline>
+</disciplines><abstract>&lt;p&gt;To identify vulnerable viral targets to incorporate into an immunogen, fitness landscapes for the viral proteome have been constructed. These landscapes describe the sum or synergistic replicative cost exacted on the virus for any combination of non-synonymous mutations. Here we attempt to assess the robustness of current computational methods for measuring the fitness cost of HIV polymorphisms in these landscapes. We also address in the following chapters assumptions and shortcomings that may underlie current landscape&#39;s uneven ability to predict fitness effects.&lt;/p&gt;
+&lt;p&gt;In the first chapter, I appraise the robustness of current frame-works that derive fitness costs from patient sequence data. In this chapter I also address the fields over-reliance on cross-sectional data, justified by the assumptions that the viral populations can be 1) regarded as an ideal population at equilibrium and 2) are at large unmarred by host pressures. To explore how these problematic assumptions may undermine landscape construction, I assemble an alternate landscape, where fitness costs were directly measured from temporal population fluxes using a dynamical systems framework. This landscape paints a far different picture of the fitness topography.&lt;/p&gt;
+&lt;p&gt;In the following chapter, I tackle another problematic aspect of current landscapes, their neglect of physicochemical detail. I demonstrate that this model contrivance, leads us to under or over estimating fitness costs at positions with highly divergent or similar physicochemical character. In response, I adapt a population genetics model to account for the functional impact of each residue mutation, and illustrate that it improves our ability to predict &lt;em&gt;in vitro&lt;/em&gt; viral fitness.&lt;/p&gt;
+&lt;p&gt;Finally, in the last chapter, we employ several different metrics of fitness to determine if the overall topography of the fitness landscape might shift over the course of early infection. Research has suggested that the replicative capacity of the virus increases over time and that viral populations are continuously evolving in response to immune pressures. We found, that although the protein was not mutational static at residue resolution, at the regional and protein level it remained static due to compensating mutations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4696</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5878&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4696</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5878</articleid>
+<submission-date>2017-02-24T20:34:06-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9749465</context-key>
+<submission-path>utk_graddiss/4696</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vitaly V. Ganusov</value>
+</field>
+<field name="advisor2" type="string">
+<value>Elizabeth Fozo, Suzanne Lenhart, Tim Sparer, Michael Gilchrist</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Microbiology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

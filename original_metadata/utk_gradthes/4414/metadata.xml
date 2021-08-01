@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Study of Adaptive Kalman Filtering for Transfer Alignment</title>
+<publication-date>1985-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hansen</lname>
+<fname>Peter</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Prior to launching an inertially navigated weapon from the wing of an aircraft, the Inertial Measurement Unit (IMU) of the weapon must be in agreement with the master IMU of the aircraft. In order to correct the IMU of the weapon, it is required that the angles of alignment error between the two units be known. A model for the alignment error can be developed. A Kalman filter can then be used to estimate the angles of alignment error. The modeling of alignment error is complicated by the flexible nature of the aircraft. Since the environment of the aircraft can change dramatically during the alignment process, the model becomes time varying. This further compounds the complexity of the overall model of alignment error.&lt;/p&gt;
+&lt;p&gt;A possible solution to the alignment problem for weapons attached to the wings of an aircraft with a flexible body is proposed. This solution centers around the use of an adaptive Kalman filter. The adaptive Kalman filter can concurrently identify the time varying dynamics of flexing and estimate the angles of alignment error. This capability might substantially simplify the alignment problem.&lt;/p&gt;
+&lt;p&gt;Three adaptive Kalman filtering algorithms were investigated. These algorithms differ only in the method by which they identify the parameters of the system. The relative performance of these algorithms was determined by a simulation. The simulation was based on a simplified dynamic system.&lt;/p&gt;
+&lt;p&gt;The simulation demonstrated that only one of the adaptive Kalman filters provided sufficient performance to be considered for use in the alignment problem. This adaptive Kalman filter identifies the parameters through a stochastic Newton algorithm. The use of this adaptive Kalman filter, along with an appropriately developed model, appear to provide a viable solution to the alignment of inertially guided missiles attached to the wings of an aircraft with a flexible body.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4414</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5912&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4414</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5912</articleid>
+<submission-date>2017-03-10T11:22:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9832034</context-key>
+<submission-path>utk_gradthes/4414</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. C. Hung</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert W. Rochelle, Robert Bodenheimer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1985-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1985-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

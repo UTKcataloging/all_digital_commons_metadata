@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using Physical Compilation to Implement a System on Chip Platform</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chimakurthy</lname>
+<fname>Pradeep</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The goal of this thesis was to setup a complete design flow involving physical synthesis. The design chosen for this purpose was a system-on-chip (SoC) platform developed at the University of Tennessee. It involves a Leon Processor with a minimal cache configuration, an AMBA on-chip bus and an Advanced Encryption Standard module which performs decryption.&lt;/p&gt;
+&lt;p&gt;As transistor size has entered the deep submicron level, iterations involved in the design cycle have increased due to the domination of interconnect delays over cell delays. Traditionally, interconnect delay has been estimated through the use of wire-load models. However, since there is no physical placement information, the delay estimation may be ineffective and result in increased iterations. Hence, placement-based synthesis has recently been introduced to provide better interconnect delay estimation. The tool used in this thesis to implement the system-on-chip design using physical synthesis is Synopsys Physical Compiler. The flow has been setup through the use of the Galaxy Reference Flow scripts obtained from Synopsys.&lt;/p&gt;
+&lt;p&gt;As part of the thesis, an analysis of the differences between a physically synthesized design and a logically synthesized one in terms of area and delay is presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1525</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2971&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1525</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2971</articleid>
+<submission-date>2013-08-01T11:07:49-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4374368</context-key>
+<submission-path>utk_gradthes/1525</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Itamar Elhanany</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

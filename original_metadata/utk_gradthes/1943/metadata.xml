@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis and Design of a Gear Shifting Mechanism for Transmission Based Actuators</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ganti</lname>
+<fname>Kalyana</fname>
+<mname>Bhargava</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The fundamental idea of Transmission Based Actuators (TBA) is to incorporate a multi-speed transmission to spread a servomotor’s torque speed characteristics across a wider output speed range. TBA uses multi-speed transmissions such that heavy, high-torque motors can be traded for high-speed, reduced mass motor-transmission combinations. TBA design consists of a D.C. Brushless motor, discrete gear transmission and a fixed reduction. Of these, the fundamental to the proof of principle of TBA is the design of the discrete gear transmission.&lt;/p&gt;
+&lt;p&gt;Basically the DVT is a three-speed gearbox consisting of 3 sets of epicyclic gears. Every planetary gear set is a two-degree of freedom system. In the present design one input is always the sun gear and the other is the ring gear. The motor gives one input to the planetary gear and the second input to the planetary gear set is obtained by locking the band brakes such that the ring gear speed is zero. Three different speeds are obtained by selectively and synchronously locking the three annular ring gears using corresponding external flexible band brakes. The complete dynamic model of the Gear Shifting Mechanism (GSM) has been developed and the braking torque has been estimated.&lt;/p&gt;
+&lt;p&gt;The gear shifting mechanism primarily consists of a band brake, a series of mechanical linkages and electrical actuator. It is used to stop the ring gear, rotating at a very high speed and hold it to obtain the desired gear ratio. . Then a brake test stand has been designed and built to test the functionality of the GSM. The effective braking torque and the system time constant were measured for both dry and wet conditions. The obtained test results have been analyzed with respect to the predicted simulated results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1943</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3301&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1943</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3301</articleid>
+<submission-date>2013-09-24T09:39:11-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4618015</context-key>
+<submission-path>utk_gradthes/1943</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary V. Smith, Arnold Lumsdaine</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the Robustness of Object Detection Based Deep Learning Models</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Seals</lname>
+<fname>Matthew</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Faster RCNN</keyword>
+<keyword>sensitivity analysis</keyword>
+<keyword>deep learning</keyword>
+<keyword>object detection</keyword>
+<keyword>degradation model</keyword>
+<keyword>robustness</keyword>
+</keywords>
+<abstract>&lt;p&gt;Object detection is one of the most popular areas in the field of computer vision and deep learning. Several advances have been reported in the literature showing promising object detection results. However, most of these results use databases of images that have been collected under almost ideal conditions and tested with input images mostly not representative of real life imagery. When tested with challenging data, most of these object detection models break down.The objective of this work is to quantify the performance of the most recent object detection models in the presence of realistic degradation in the form of differing levels of brightness, saturation, contrast, Gaussian blur, image size, sharpness, Gaussian noise, speckle noise, and salt and pepper noise. We have selected Faster RCNN as a typical model that is representative of the state of the art. We have used a binary class dataset from our laboratory for testing: Aphylla. We have also selected a popular multi-class dataset widely used by the community for our work: VOC2007.We have conducted the following experiments (1) ran the model on the original pristine dataset and recorded the mAP score result, (2) ran the model on nine methods of degradation with 12 levels in each and recorded the mAP score results, and (3) compared the degradation results to one another to determine the model robustness. These experiments led to the clustering of the degradation models into three categories: high, medium, and low impact. These categories are based on the fluctuations within the results. The first class containing brightness and contrast resembles a Gaussian-like bell shaped curve with a plateau at the top. The second cluster contains Gaussian blur, image size, and all three types of noise resembles an exponential decay. The third category contains saturation and sharpness and has shown a small reduction in performance, which stays mostly uniform throughout the range.The value of this research comes from studying the results and providing consistent guidance to the user as to which level of image degradation needs to be dealt with at a pre-processing stage to alleviate the drop in performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5487</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6960&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5487</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6960</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914259</context-key>
+<submission-path>utk_gradthes/5487</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Qing Cao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling, Analysis, Force Sensing and Control of Continuum Robots for Minimally Invasive Surgery</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cbryson5@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Black</lname>
+<fname>Caroline</fname>
+<mname>Bryson</mname>
+</author>
+</authors>
+<keywords>
+<keyword>robotics</keyword>
+<keyword>surgery</keyword>
+<keyword>continuum</keyword>
+<keyword>flexible</keyword>
+<keyword>NOTES</keyword>
+<keyword>MIS</keyword>
+</keywords>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Electro-Mechanical Systems</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation describes design, modeling and application of continuum robotics for surgical applications, specifically parallel continuum robots (PCRs) and concentric tube manipulators (CTMs). The introduction of robotics into surgical applications has allowed for a greater degree of precision, less invasive access to more remote surgical sites, and user-intuitive interfaces with enhanced vision systems. The most recent developments have been in the space of continuum robots, whose exible structure create an inherent safety factor when in contact with fragile tissues. The design challenges that exist involve balancing size and strength of the manipulators, controlling the manipulators over long transmission pathways, and incorporating force sensing and feedback from the manipulators to the user.&lt;/p&gt;
+&lt;p&gt;Contributions presented in this work include: (1) prototyping, design, force sensing, and force control investigations of PCRs, and (2) prototyping of a concentric tube manipulator for use in a standard colonoscope. A general kinetostatic model is presented for PCRs along with identification of multiple physical constraints encountered in design and construction. Design considerations and manipulator capabilities are examined in the form of matrix metrics and ellipsoid representations. Finally, force sensing and control are explored and experimental results are provided showing the accuracy of force estimates based on actuation force measurements and control capabilities.&lt;/p&gt;
+&lt;p&gt;An overview of the design requirements, manipulator construction, analysis and experimental results are provided for a CTM used as a tool manipulator in a traditional colonoscope. Currently, tools used in colonoscopic procedures are straight and exit the front of the scope with 1 DOF of operation (jaws of a grasper, tightening of a loop, etc.). This research shows that with a CTM deployed, the dexterity of these tools can be increased dramatically, increasing accuracy of tool operation, ease of use and safety of the overall procedure. The prototype investigated in this work allows for multiple tools to be used during a single procedure. Experimental results show the feasibility and advantages of the newly-designed manipulators.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4443</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5795&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4443</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5795</articleid>
+<submission-date>2017-02-22T17:07:55-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9734383</context-key>
+<submission-path>utk_graddiss/4443</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel C. Rucker</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Jindong Tan, Andrew J. Russ</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

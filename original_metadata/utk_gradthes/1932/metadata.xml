@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Coarse-Grain Parallel Implementation of the Block Tridiagonal Divide and Conquer Algorithm for Symmetric Eigenproblems.</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Day</lname>
+<fname>Robert</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Cuppen’s divide and conquer technique for symmetric tridiagonal eigenproblems, along with Gu and Eisenstat’s modification for improvement of the eigenvector computation, has yielded a stable, efficient, and widely-used algorithm. This algorithm has now been extended to a larger class of matrices, namely symmetric block tridiagonal eigenproblems. The Block Tridiagonal Divide and Conquer algorithm has shown several characteristics that make it suitable for a number of applications, such as the Self-Consistent-Field procedure in quantum chemistry.&lt;/p&gt;
+&lt;p&gt;This thesis discusses the steps taken to implement a coarse-grain parallel version of the Block Tridiagonal Divide and Conquer algorithm, suitable for a parallel supercomputer or a cluster of machines. The parallel version relies on components of the ScaLAPACK parallel linear algebra library and follows the same model as the serial code, including the implementation of full deflation.&lt;/p&gt;
+&lt;p&gt;A modest speedup (2 to 3) was achieved using a few processors (4 and 16). Increasing the number of processors from 4 to 16 produced only slightly better speedup. This implementation was not competitive with the standard ScaLAPACK symmetric eigenvalue routine. Analysis shows that the distribution scheme chosen for the eigenvector storage requires n x O(p)&lt;sup&gt;2&lt;/sup&gt; function calls to the ScaLAPACK matrix multiplication routine, where n is the matrix size and p is the number of blocks. The matrix multiplications are responsible for the majority of the computational cost; therefore, the associated overhead needs to be reduced in order to make this implementation more competitive.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1932</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3290&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1932</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3290</articleid>
+<submission-date>2013-09-23T13:00:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4615248</context-key>
+<submission-path>utk_gradthes/1932</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert C. Ward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

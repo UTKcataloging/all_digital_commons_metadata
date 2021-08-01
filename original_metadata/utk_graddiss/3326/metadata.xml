@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Event Localization In Bulk Scintillator Crystals Using Optical Coded Apertures</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbraverm@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Braverman</lname>
+<fname>Joshua</fname>
+<mname>Brian</mname>
+</author>
+</authors>
+<keywords>
+<keyword>coded apertures</keyword>
+<keyword>nuclear source detection</keyword>
+<keyword>compton cameras</keyword>
+</keywords>
+<disciplines><discipline>Nuclear</discipline>
+</disciplines><abstract>&lt;p&gt;Scintillation-based radiation detectors provide an effective method to detect radioactive materials. In medical physics, astrophysics, and national security technology oftentimes it is optimal to have the ability to localize a radioactive interaction in a scintillator to as small a region as possible within the crystal. Current methods rely on the ability to centroid a light spot as read onto a phototransducer (commonly a photomultiplier tube), and due to the typical width of the light spot when it reaches the phototransducer, the resolution is generally limited to several millimeters. One method to achieve a finer resolution is to use a segmented crystal that allows the position of the event to be localized to the scale of the segmentation, but this lessens the ability to collect all of the available scintillation light thereby sacrificing energy resolution.&lt;/p&gt;
+&lt;p&gt;To avoid a segmented crystal and attempt to improve on the spatial resolution, this dissertation explores a detector that uses a shadow mask pattern between the crystal and the phototransducer. This method uses principles of coded-aperture imaging to localize an event to approximately a 1-cubic-mllimeter voxel in three dimensions inside a large crystal. This work explores all aspects of the concept including current state of the art event localization capabilities, possible applications, design parameters, simulation studies and experimental implementations of the concept with the results from two prototype systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3326</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4565&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3326</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4565</articleid>
+<submission-date>2014-12-09T17:23:43-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4565/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6441405</context-key>
+<submission-path>utk_graddiss/3326</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Soren Sorensen</value>
+</field>
+<field name="advisor2" type="string">
+<value>Klaus P. Ziock, Jason Hayward, Robert Grzywacz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

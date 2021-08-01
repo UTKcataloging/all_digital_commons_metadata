@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Simulation of Flow over a Surface-mounted Cube with the Vorticity Confinement Method</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xiao</lname>
+<fname>Min</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Over the last several years, Vorticity Confinement has been shown to be a very efficient method to simulate the vortex-dominated flows over complex configurations. To calculate these flows, no high-order numerical scheme and body conforming grids are required for this method and only a fixed, uniform Cartesian grid is employed.&lt;/p&gt;
+&lt;p&gt;First, an overall description of the original Vorticity Confinement method (VC1) is presented, followed by an introduction of the newly developed Vorticity Confinement method (VC2). The advantage of VC2 over VC1 is the ability to conserve the Momentum. Two different numerical schemes are shown for VC1 and VC2. The one for VC2 is much simpler than that of VC1. Results of VC1 and VC2 for convecting vortices and scalars in 1-D and 2-D will be presented.&lt;/p&gt;
+&lt;p&gt;Numerical results are presented for the three dimensional flow over a surface-mounted cube. Comparisons have been made with experimental and Large Eddy Simulation (LES) data. It is observed that with a coarse uniform Cartesian grid, Vorticity Confinement is able to get results in better agreement with the experimental results than the LES simulation results on a fine grid. This method is shown to be more effective than trying to model and discretize more complex system of equations in the traditional methods, when solving complex high Reynolds number flow problems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1901</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3329&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1901</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3329</articleid>
+<submission-date>2013-09-12T11:57:25-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4580074</context-key>
+<submission-path>utk_graddiss/1901</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John S. Steinhoff</value>
+</field>
+<field name="advisor2" type="string">
+<value>John E. Caruthers, Boris Kupershmidt, K. C. Reddy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

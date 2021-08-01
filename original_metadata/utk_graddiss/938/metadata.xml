@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Investigation of Broadband Current Preamplification for Obtaining Simultaneous High-Resolution Energy and Time Information from Nuclear Radiation Detectors</title>
+<publication-date>1970-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Millard</lname>
+<fname>Joe</fname>
+<mname>Kenneth</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In beginning the investigation of low noise current preamplification, noise-performance limitations of existing broadband current-amplifying stages are considered. Dominant noise sources of the general, shuntfeedback amplifier stage having both bipolar and field-effect transistor input devices are discussed. This discussion includes the reasons why optimum noise performance from this amplifier stage requires unavoidable signal integration. The integrating shunt-feedback configuration is commonly known as the charge-sensitive preamplifier. Criteria are developed for differentiating the output voltage pulse of the charge-sensitive preamplifier without degrading the signal-to-noise ratio. Subsequently, a new broadband, shunt-feedback amplifier is described having a current gain equal to the ratio of an RC feedback impedance to an RC load impedance. The value of the feedback resistance and capacitance can be made equal to that of conventional charge-sensitive preamplifiers. Basically, the configuration is similar to that of a charge-sensitive preamplifier, since a charge-proportional signal is present within the feedback network. However, differentiation is performed by the feedback network to allow a broadband current transfer function. The stage has a large bandwidth capability with linearity and noise performance comparable to that of the conventional charge-sensitive configuration. Equations predicting the bandwidth, input and output impedances, and noise-performance are derived. Also criteria are established for achieving the desired linearity and for cascading stages to achieve large current gains&lt;/p&gt;
+&lt;p&gt;To facilitate experiments involving linear gating of the amplified detector current pulse, a review of related technology is presented and a simple Rte filter for use in a gated system is discussed.&lt;/p&gt;
+&lt;p&gt;A three-stage preamplifier having a current gain of 8000 was constructed to experimentally verify the predicted preamplifier performance characteristics. Energy resolution experiments performed with a Ge(Li) semiconductor detector yielded noise line widths as low as 2.35 key FWHM for the integrated current output shaped by a 1.6 microsecond time constant RC-RC filter. The noise line width measured for the gated current pulse shaped by the RLC filter was 2.70 kev FWHM compared to 2.76 key FWHM obtained, without gating, from a 0.4 microsecond RC-RC filter having the same center frequency as the RLC filter. The preamplifier was not optimized for minimum noise line width.&lt;/p&gt;
+&lt;p&gt;Leading edge timing experiments were performed with a &lt;sup&gt;60&lt;/sup&gt;Co gammaray source using Naton 136 as the detector for the standard timing channel. With the test channel consisting of the three-stage preamplifier coupled to a 1.7 cc. planar diode, a timing uncertainty of 1.6 x 10&lt;sup&gt;-9&lt;/sup&gt; seconds FWHM for a 13.3 to 1 dynamic energy range was measured. With a 34.1 cc true coacial Ge(Li) detector in the test channel, the timing uncertainty was 3.3 x 10&lt;sup&gt;-9&lt;/sup&gt; seconds FWHM for a 7.8 to 1 dynamic energy range. Rise times as low as 7 x 10&lt;sup&gt;-9&lt;/sup&gt; seconds were measured with the 9 x 10&lt;sup&gt;-12&lt;/sup&gt; farad planar detector connected to the preamplifier.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/938</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2199&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>938</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2199</articleid>
+<submission-date>2011-05-26T12:07:17-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2032758</context-key>
+<submission-path>utk_graddiss/938</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>T. V. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. F. Piercee, J. M. Googe, Robert E. Boclenheuier, W. D. Eavly</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1970-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

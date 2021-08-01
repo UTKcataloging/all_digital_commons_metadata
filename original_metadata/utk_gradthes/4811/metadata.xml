@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Investigation of a Tin Oxide-Based MEMS Sensor for Measurement of Nitrogen Oxides in Aircraft Engine Exhaust</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Urman</lname>
+<fname>Lisa</fname>
+<mname>N.</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An investigation was conducted of the performance of a tin oxide-based, MicroElectro Mechanical Sensor for making measurements of NO&lt;sub&gt;X&lt;/sub&gt; levels on gas turbine engine exhaust. This sensor was provided by Makel Engineering, Inc., as a prototype device for evaluation. In this thesis, the MEMS device is described together with its supporting equipment. Tests, and calibrations were performed and evaluations made on the MEMS sensor, and are discussed in three parts: laboratory calibration and evaluation, off-engine installation and performance, and on-engine instillation and performance.&lt;/p&gt;
+&lt;p&gt;The MEMS device was first tested in a laboratory environment where the temperature and pressure of the gas sampled were at room conditions. NO was provided to the sensor from calibrated gas bottles. The warm up and signal drift characteristics of the MEMS device were recorded and analyzed. The sensitivities of the device to NO levels in the air were recorded and corrected for drift. The output of the MEMS sensor is scaled by an input electronic gain factor called the Data Acquisition Code (DAC). The effect of the DAC on NO level measurements was recorded and analyzed.&lt;/p&gt;
+&lt;p&gt;After the laboratory calibration and evaluation phase was completed, the MEMS gas emission measurement system was transported to Middle Tennessee State University Airport where on operable jet engine was available for use. The jet engine was a Pratt-Whitney JT-12, 3000lbf thrust class engine that had been modified to permit exhaust gas sensors to be placed inside the engine exhaust duct. In the first series of testing, the sensor was mounted to a heated valve box and was supplied engine exhaust gases through heated gas lines by use of a vacuum pump. In the second series of testing, the sensor was mounted to the JT-12 exhaust probe, and measured a direct sample of exhaust gas.&lt;/p&gt;
+&lt;p&gt;Results from the testing of the MEMS sensor include its sensitivity to NO&lt;sub&gt;X&lt;/sub&gt; and CO levels in the engine exhaust. Analysis of the data, taking the laboratory calibrations of the MEMS device into consideration, allowed the MEMS NO levels to be predicted by correcting for the engine exhaust CO levels.&lt;/p&gt;
+&lt;p&gt;Conclusion of the MEMS study were:  &lt;ol&gt; &lt;li&gt;The sensor responds to nitrogen oxides and carbon monoxide with an accuracy of 93%.&lt;/li&gt; &lt;li&gt;Warm-up times, of approximately 70 minutes, are comparable to other types of gas analysis systems.&lt;/li&gt; &lt;li&gt;Recovery times were too long, taking 11 minutes for the no flow case and 3 minutes for the flow case.&lt;/li&gt; &lt;li&gt;The resolution of the MEMS sensor was approximately 103 counts per 1ppm NO&lt;sub&gt;X&lt;/sub&gt;.&lt;/li&gt; &lt;li&gt;Due to drift, there is about 3ppm NO&lt;sub&gt;X&lt;/sub&gt; difference in measurements on any given day.&lt;/li&gt; &lt;li&gt;Many improvements in development are required for this device to be used for actual emission monitoring, such as faster recovery times, more durable packaging, and more selective sensitivity. &lt;/li&gt; &lt;/ol&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4811</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6324&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4811</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6324</articleid>
+<submission-date>2017-08-23T13:41:27-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10650342</context-key>
+<submission-path>utk_gradthes/4811</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Frank Collins</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy Schulz, Gary Flandro</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

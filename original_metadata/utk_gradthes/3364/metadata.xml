@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Ultra-Low-Power Configurable Analog Signal Processor for Wireless Sensors</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jgriff48@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Griffin</lname>
+<fname>James</fname>
+<mname>Kelly</mname>
+</author>
+</authors>
+<keywords>
+<keyword>&quot;CMOS analog integrated circuits</keyword>
+<keyword>field programmable analog array (FPAA)</keyword>
+<keyword>configurable analog signal processor (CASP)&quot;</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Signal Processing</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The demand for on-chip low-power Complementary Metal Oxide Semiconductor (CMOS) analog signal processing has significantly increased in recent years. Digital signal processors continue to shrink in size as transistors half in size every two years. However, digital signal processors (DSP&#39;s) notoriously use more power than analog signal processors (APS&#39;s). This thesis presents a configurable analog signal processor (CASP) used for wireless sensors. This CASP contains a multitude of processing blocks include the following: low pass filter (LPF), high pass filter (HPF) integrator, differentiator, operational transconductance amplifier (OTA), rectifier with absolute value functionality, and multiplier. Each block uses current-mode processing and operates in the sub-threshold region of operation. Current-mode processing allows for noise reduction, lower power consumption, and better dynamic range. Each block contains configurable current sources and capacitor banks for maximum adaptability. The blocks were designed, simulated, and fabricated in Cadence using IBM&#39;s 130nm CMOS process. The processing blocks were combined into a four by three array and connected using specially designed interconnect fabric. A test structure including the LPF, HPF, and multiplier was also constructed for characterization purposes. The main goals for this project are frequency compression and creating a non-linear energy operator for neural spike detection.&lt;/p&gt;
+&lt;p&gt;The test results for the low-pass filter, integrator, and frequency divider reflected the simulated values. The other blocks didn&#39;t perform as well as in simulation. The interconnect fabric ties all the blocks together and achieved maximum configurability with negligible attenuation. In simulation, frequency compression was achieved with 30u[micro]W of power from a 1V supply rail.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3364</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4636&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3364</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4636</articleid>
+<submission-date>2015-02-27T11:01:57-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6742790</context-key>
+<submission-path>utk_gradthes/3364</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Garret Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

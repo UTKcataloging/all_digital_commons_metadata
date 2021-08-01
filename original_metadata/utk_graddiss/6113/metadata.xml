@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The application of filters to time analysis of signals from Ge(Li) detectors.</title>
+<publication-date>1968-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Douglass</lname>
+<fname>Terry</fname>
+<mname>Dean</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The measurement of the time of occurrence of a nuclear event using semiconductor nuclear radiation detectors is increasing in importance in the field of nuclear research. Because of their large volumes and high efficiency for the detection of gamma rays, particular emphasis is being placed on the use of lithium drifted germanium detectors. The accuracy of time measurement with most Ge(Li) detectors using current time measurement methods is limited by charge collection variations in the detector and noise of the detector and preamplifier. The reduction of the effects of these limitations is accomplished by the use of filters. In this dissertation, an optimum filter which minimizes the effect of noise on time measurement was determinedi and the minimum timing error associated with this optimum filter was found. For the signal and noise from a Ge(Li) detector, charge-sensitive preamplifier system, the optimum filter is physically non-realizable. The effect of certain realizable RC filters on the reduction of the time measurement error due to noise is presented. The filters examined were time-invariant and time-variant RC high-pass, RC lowpass, and the combination of RC low-pass, RC high-pass filters. Both theoretical and experimental data were examined to determine the best filter. To reduce the errors in time measurement due to both charge collection variations and noise, the time-variant filters provided several advantages. The advantages of the time-variant filters were lower discriminator levels, allowing the reduction of the effect of charge collection variations, -and lower time measurement errors due to noise at the low discriminator levels. The use of the filters in a Ge(Li) detector, charge-sensitive preamplifier system detecting gamma rays was determined. The detector was a 23.4 cc true coaxial Ge(Li) detector, and the energy of the gamma rays was 511 kev. The filters examined were the time-invariant and time-variant filters examined to reduce the time measurement error due to noise. For the time-invariant filters, the mininnim timing error was 6.81 nanoseconds fwhm and 12.6 nanoseconds fw(.l)m. This minimum was obtained using an RC high-pass filter with 2.2 RC equal to 100 nanoseconds. The best time-variant filter was one with an RC highpass filter before the gate and an RC low-pass filter after the gate with 2.2 RC equal to 20 nanoseconds in both filters. The fwhm and corresponding fw(.l)m were S.63 nanoseconds and 10.58 nanoseconds.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6113</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=8101&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6113</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>8101</articleid>
+<submission-date>2021-06-15T05:18:03-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>23359326</context-key>
+<submission-path>utk_graddiss/6113</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. F. Pierce</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>1968-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

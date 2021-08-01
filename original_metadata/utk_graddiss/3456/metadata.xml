@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Template-Based Imaging Analysis of Arbitrary Nuclear Material Configurations Using Time and Directionally-Tagged Fast Neutrons</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kmeeks2@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pena</lname>
+<fname>Kirsten</fname>
+<mname>Elise</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Reduction of nuclear material worldwide requires that robust methods for template measurement systems be developed. For nuclear material in metal form, two scenarios where it is necessary to verify and account for the material include storage and treaty verification. In both of these scenarios, the nuclear material’s high density, as well as possible heavy shielding or high radiation background, are obstacles to verifying the materials and configuration of an object with a high degree of confidence in a timely manner.&lt;/p&gt;
+&lt;p&gt;Addressing the need for confident verification, the template analysis method investigated in this work— the Kolmogorov-Smirnov (K-S) goodness-of-fit test—uses tagged neutron interrogation data to confirm whether or not measured objects match a template object. In tagged neutron interrogation, time and directionally tagged fast (14.1 MeV) neutrons are used to obtain the neutron attenuation and fissile nature of interrogated objects. Said method is evaluated using data acquired with Oak Ridge National Laboratory’s Nuclear Materials Identification System (NMIS).&lt;/p&gt;
+&lt;p&gt;An evaluation of this template analysis method with existing NMIS measurement data indicates that it is invariant to the common measurement complications of shifting and magnification; yet, it is not completely robust to rotational offset of asymmetric objects. Additional testing also suggests that this method has the ability to confirm the fissile nature of materials present of order 1 min for annular uranium storage castings. Simulations of template analysis with a single DU annular casting indicate that it may be possible to detect the substitution of iron or tungsten, or an &lt;sup&gt;1&lt;/sup&gt;/&lt;sub&gt;8&lt;/sub&gt;in. increase in the casting thickness, 92% of the time with a 4 min NMIS measurement, or without error by increasing to an 8 min measurement. Furthermore, a study of the effect of user-defined variables (giving control over the allowable error rate in matching objects to a template item) shows that the ability of the template analysis to correctly reject non-matching items is most strongly affected by the alpha value of the K-S test and the number of measurement subsamples, followed by the measurement time per subsample and the number of projections used in the measurement.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3456</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4396&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3456</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4396</articleid>
+<submission-date>2014-10-10T10:36:55-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4396/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6226169</context-key>
+<submission-path>utk_graddiss/3456</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason P. Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>John T. Mihalczo, Howard L. Hall, Thomas Handler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mixed-Precision Numerical Linear Algebra Algorithms: Integer Arithmetic Based LU Factorization and Iterative Refinement for Hermitian Eigenvalue Problem</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ytsai2@vols.utk.edu</email>
+<lname>Tsai</lname>
+<fname>Yaohung</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Numerical Linear Algebra</keyword>
+<keyword>High Performance Computing</keyword>
+<keyword>LU Factorization</keyword>
+<keyword>Eigenvalue Problem</keyword>
+<keyword>Iterative Refinement</keyword>
+<keyword>Mixed Precision</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;Mixed-precision algorithms are a class of algorithms that uses low precision in part of the algorithm in order to save time and energy with less accurate computation and communication. These algorithms usually utilize iterative refinement processes to improve the approximate solution obtained from low precision to the accuracy we desire from doing all the computation in high precision. Due to the demand of deep learning applications, there are hardware developments offering different low-precision formats including half precision (FP16), Bfloat16 and integer operations for quantized integers, which uses integers with a shared scalar to represent a set of equally spaced numbers. As new hardware architectures focus on bringing performance in these formats, the mixed-precision algorithms have more potential leverage on them and outmatch traditional fixed-precision algorithms. This dissertation consists of two articles. In the first article, we adapt one of the most fundamental algorithms in numerical linear algebra---LU factorization with partial pivoting--- to use integer arithmetic. With the goal of obtaining a low accuracy factorization as the preconditioner of generalized minimal residual (GMRES) to solve systems of linear equations, the LU factorization is adapted to use two different fixed-point formats for matrices L and U. A left-looking variant is also proposed for matrices with unbounded column growth. Finally, GMRES iterative refinement has shown that it can work on matrices with condition numbers up to 10000 with the algorithm that uses int16 as input and int32 accumulator for the update step. The second article targets symmetric and Hermitian eigenvalue problems. In this section we revisit the SICE algorithm from Dongarra et al. By applying the Sherman-Morrison formula on the diagonally-shifted tridiagonal systems, we propose an updated SICE-SM algorithm. By incorporating the latest two-stage algorithms from the PLASMA and MAGMA software libraries for numerical linear algebra, we achieved up to 3.6x speedup using the mixed-precision eigensolver with the blocked SICE-SM algorithm for iterative refinement when compared with full double complex precision solvers for the cases with a portion of eigenvalues and eigenvectors requested.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6094</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7347&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6094</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7347</articleid>
+<submission-date>2020-08-20T13:00:57-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19041190</context-key>
+<submission-path>utk_graddiss/6094</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, James S. Plank, Vasileios Maroulas</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

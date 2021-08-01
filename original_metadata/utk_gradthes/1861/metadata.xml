@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization of DSSS Receivers Using Hardware-in-the-Loop Simulations</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Dhillon</lname>
+<fname>Balbir</fname>
+<mname>Kaur</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Over the years, there has been significant interest in defining a hardware abstraction layer to facilitate code reuse in software defined radio (SDR) applications. Designers are looking for a way to enable application software to specify a waveform, configure the platform, and control digital signal processing (DSP) functions in a hardware platform in a way that insulates it from the details of realization.&lt;/p&gt;
+&lt;p&gt;This thesis presents a tool-based methodolgy for developing and optimizing a Direct Sequence Spread Spectrum (DSSS) transceiver deployed in custom hardware like Field Programmble Gate Arrays (FPGAs). The system model consists of a tranmitter which employs a quadrature phase shift keying (QPSK) modulation scheme, an additive white Gaussian noise (AWGN) channel, and a receiver whose main parts consist of an analog-to-digital converter (ADC), digital down converter (DDC), image rejection low-pass filter (LPF), carrier phase locked loop (PLL), tracking locked loop, down-sampler, spread spectrum correlators, and rectangular-to-polar converter.&lt;/p&gt;
+&lt;p&gt;The design methodology is based on a new programming model for FPGAs developed in the industry by Xilinx Inc. The Xilinx System Generator for DSP software tool provides design portability and streamlines system development by enabling engineers to create and validate a system model in Xilinx FPGAs. By providing hierarchical modeling and automatic HDL code generation for programmable devices, designs can be easily verified through hardware-in-the-loop (HIL) simulations.&lt;/p&gt;
+&lt;p&gt;HIL provides a significant increase in simulation speed which allows optimization of the receiver design with respect to the datapath size for different functional parts of the receiver. The parameterized datapath points used in the simulation are ADC resolution, DDC datapath size, LPF datapath size, correlator height, correlator datapath size, and rectangular-to-polar datapath size. These parameters are changed in the software enviornment and tested for bit error rate (BER) performance through real-time hardware simualtions. The final result presents a system design with minimum harware area occupancy relative to an acceptable BER degradation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1861</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3218&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1861</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3218</articleid>
+<submission-date>2013-09-13T13:03:35-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4585196</context-key>
+<submission-path>utk_gradthes/1861</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mostofa K. Howlader</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Donald Bouldin, Miljko Bobrek</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>\STATMOND: A Peer-To-Peer Status And Performance Monitor For Dynamic Resource Allocation On Parallel Computers</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Inavolu</lname>
+<fname>Krishna</fname>
+<mname>Kanth</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents a decentralized tool STATMOND - to monitor the status of a peer-to-peer network. STATMOND provides an accurate measurement scheme for parameters such as CPU load and memory utilization on Linux clusters. The services of STATMOND are ubiquitous in that each computer measures and for- wards its data over the network and also maintains the data of other nodes in memory. The data are periodically updated, and users on any node can ‘see‘ the status and performance of the network based on these parameters. This thesis describes the problems confronting cluster computing, the necessity of monitoring tools and how STATMOND can be a step towards better allocation of resources for dynamic computing.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2377</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3826&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2377</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3826</articleid>
+<submission-date>2013-10-21T10:41:49-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4745767</context-key>
+<submission-path>utk_gradthes/2377</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John D. Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tse-Wei Wang, Hairong Qi, John Chiasson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

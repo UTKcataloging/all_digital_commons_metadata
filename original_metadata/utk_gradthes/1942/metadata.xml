@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Verification of the Data Encryption Standard for ASICs and FPGAs</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fu</lname>
+<fname>Xiaoquan</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Encryption and decryption in a communication channel are used to provide security. In this thesis, the Data Encryption Standard (DES) is implemented with both FPGAs and ASICs. Different versions of FPGAs from different synthesis tools are compared. For ASIC implementation, the design space is explored to compile the design with different optimization targets like size, speed and power. Physical realizations of the design are obtained with Cadence tools. Simulations are made at each level to verify the implementations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1942</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3300&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1942</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3300</articleid>
+<submission-date>2013-09-24T09:20:50-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4617914</context-key>
+<submission-path>utk_gradthes/1942</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Daniel B. Koch</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

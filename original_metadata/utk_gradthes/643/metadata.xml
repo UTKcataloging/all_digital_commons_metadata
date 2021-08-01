@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enterprise Users and Web Search Behavior</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>alewis29@utk.edu</email>
+<institution>The University of Tennessee, Knoxville</institution>
+<lname>Lewis</lname>
+<fname>April</fname>
+<mname>Ann</mname>
+</author>
+</authors>
+<keywords>
+<keyword>web search</keyword>
+<keyword>search log analysis</keyword>
+<keyword>intranet search</keyword>
+<keyword>search behavior</keyword>
+<keyword>data mining</keyword>
+</keywords>
+<disciplines><discipline>Computational Linguistics</discipline>
+<discipline>Databases and Information Systems</discipline>
+<discipline>Other Computer Sciences</discipline>
+<discipline>Other Linguistics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis describes analysis of user web query behavior associated with Oak Ridge National Laboratory’s (ORNL) Enterprise Search System (Hereafter, ORNL Intranet). The ORNL Intranet provides users a means to search all kinds of data stores for relevant business and research information using a single query. The Global Intranet Trends for 2010 Report suggests the biggest current obstacle for corporate intranets is “findability and Siloed content”. Intranets differ from internets in the way they create, control, and share content which can make it often difficult and sometimes impossible for users to find information. Stenmark (2006) first noted studies of corporate internal search behavior is lacking and so appealed for more published research on the subject.&lt;/p&gt;
+&lt;p&gt;This study employs mature scientific internet web query transaction log analysis (TLA) to examine how corporate intranet users at ORNL search for information. The focus of the study is to better understand general search behaviors and to identify unique trends associated with query composition and vocabulary. The results are compared to published Intranet studies. A literature review suggests only a handful of intranet based web search studies exist and each focus largely on a single aspect of intranet search. This implies that the ORNL study is the first to comprehensively analyze a corporate intranet user web query corpus, providing results to the public.&lt;/p&gt;
+&lt;p&gt;This study analyzes 65,000 user queries submitted to the ORNL intranet from September 17, 2007 through December 31, 2007. A granular relational data model first introduced by Wang, Berry, and Yang (2003) for Web query analysis was adopted and modified for data mining and analysis of the ORNL query corpus. The ORNL query corpus is characterized using Zipf Distributions, descriptive word statistics, and Mutual Information. User search vocabulary is analyzed using frequency distribution and probability statistics.&lt;/p&gt;
+&lt;p&gt;The results showed that ORNL users searched for unique types of information. ORNL users are uncertain of how to best formulate queries and don’t use search interface tools to narrow search scope. Special domain language comprised 38% of the queries. The average results returned per query for ORNL were too high and no hits occurred 16.34%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/643</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1669&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>643</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1669</articleid>
+<submission-date>2010-04-22T07:03:19-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1284262</context-key>
+<submission-path>utk_gradthes/643</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Peiling Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dania Bilal, Lorraine Normore</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Information Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

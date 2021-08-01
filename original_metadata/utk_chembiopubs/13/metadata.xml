@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the Relationship between Fickian Diffusivities at the Continuum and Molecular Levels</title>
+<publication-date>2005-02-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gao</lname>
+<fname>Carrie</fname>
+<mname>Y.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Edwards</lname>
+<fname>Brian</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We present a general description of the relationship between Fickian diffusivities at the continuum and molecular levels of description. Specifically, we address the issue of using molecular-level simulation techniques to generate Fickian diffusivities that can be rigorously used in the macroscopic evolution equations. Notably, we clarify the traditional equation for the evaluation of the Fickian diffusivity from molecular dynamics simulation. We provide an algorithm to be implemented in a molecular dynamics simulation with which one can generate Fickian diffusivities under the same set of criteria as used in the derivation of the continuum equations. We comment on the consequences for both equilibrium and nonequilibrium molecular dynamics simulations. We demonstrate that failure to rigorously account for the frame of reference can result in large errors, on the order of 100%, in the Fickian diffusivity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/13</coverpage-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1013</articleid>
+<submission-date>2010-05-19T08:26:31-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1319180</context-key>
+<submission-path>utk_chembiopubs/13</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>David J. Keffer,, Carrie Y. Gao, and, Brian J. Edwards. (2005). On the Relationship between Fickian Diffusivities at the Continuum and Molecular Levels. The Journal of Physical Chemistry B 2005 109 (11), 5279-5288</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-19T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-02-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://pubs.acs.org/doi/abs/10.1021/jp0446635</value>
+</field>
+</fields>
+</document>
+</documents>

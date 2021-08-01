@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Least-square deconvolution (LSD) : a new method to resolve STR-DNA mixtures</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Xue</lname>
+<fname>Ning</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Mixed DNA samples are very common in crime scenes, especially in rape and murder cases. This kind of DNA evidence essentially includes the perpetrator&#39;s DNA sample superimposed on that of another, usually the victim. As a result, the genotype of each individual contributor cannot be obtained directly from the output of a genetic analyzer. The availability of allele peak area information from mixed STR/DNA samples makes it possible to use the least-square algorithm to find the most fitting genotype profile for each contributor. A new method, the Least-Square Deconvolution (LSD) method, is presented in this thesis to resolve DNA mixture samples. The estimation is based on finding the least-square fit of mass ratio coefficients that come &#39;closest&#39; to the allele peak area ratios of each locus, given by the PCR products after amplification. The top-ranked genotype combination from each locus with consistent mass ratios can be pulled out to form a composite DNA profile at all the available loci. This approach is applicable for mixture loci containing 1-4 alleles per locus. Both real DNA peak area data from forensic samples, provided by different crime laboratories, as well as simulated peak area sample data were used to test this new method. The LSD results consistently show that the most fitting genotype combinations selected by LSD almost always correspond to the true genotypes of the victim and the suspect, except in some known circumstances. The assumed perpetrator&#39;s genotype profile yielded by LSD can then be used to check against that of a suspect in custody, or be used to search for a matching profile in a DNA database. The limitations of LSD and the comparison between LSD and other methods to resolve DNA mixtures are also presented in this thesis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/6020</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7653&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>6020</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7653</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467682</context-key>
+<submission-path>utk_gradthes/6020</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tsewei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

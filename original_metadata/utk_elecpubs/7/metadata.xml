@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Discovering gene functional relationships using FAUN (Feature Annotation Using Nonnegative matrix factorization)</title>
+<publication-date>2010-10-07T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tjioe@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tjioe</lname>
+<fname>Elina</fname>
+</author>
+<author>
+<email>berry@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Berry</lname>
+<fname>Michael</fname>
+<mname>W.</mname>
+</author>
+<author>
+<institution>University of Memphis</institution>
+<lname>Homayouni</lname>
+<fname>Ramin</fname>
+</author>
+</authors>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Searching the enormous amount of information available in biomedical literature to extract novel functional relationships among genes remains a challenge in the field of bioinformatics. While numerous (software) tools have been developed to extract and identify gene relationships from biological databases, few effectively deal with extracting new (or implied) gene relationships, a process which is useful in interpretation of discovery-oriented genome-wide experiments.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;In this study, we develop a Web-based bioinformatics software environment called FAUN or Feature Annotation Using Nonnegative matrix factorization (NMF) to facilitate both the discovery and classification of functional relationships among genes. Both the computational complexity and parameterization of NMF for processing gene sets are discussed. FAUN is tested on three manually constructed gene document collections. Its utility and performance as a knowledge discovery tool is demonstrated using a set of genes associated with Autism.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;FAUN not only assists researchers to use biomedical literature efficiently, but also provides utilities for knowledge discovery. This Web-based software environment may be useful for the validation and analysis of functional associations in gene subsets identified by high-throughput experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/7</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1011&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1011</articleid>
+<submission-date>2013-07-12T12:49:16-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4310538</context-key>
+<submission-path>utk_elecpubs/7</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2010, 11(Suppl 6):S14 doi:10.1186/1471-2105-11-S6-S14</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-10-07T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

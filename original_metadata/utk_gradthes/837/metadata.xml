@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An FPGA Based Implementation of the Exact Stochastic Simulation Algorithm</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pvanguri@utk.edu</email>
+<lname>Vanguri</lname>
+<fname>Phani Bharadwaj</fname>
+</author>
+</authors>
+<keywords>
+<keyword>stochastic</keyword>
+<keyword>FPGA</keyword>
+<keyword>vlsi</keyword>
+<keyword>simulation</keyword>
+<keyword>algorithm</keyword>
+<keyword>hpc</keyword>
+</keywords>
+<disciplines><discipline>Digital Circuits</discipline>
+<discipline>Hardware Systems</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Mathematical and statistical modeling of biological systems is a desired goal for many years. Many biochemical models are often evaluated using a deterministic approach, which uses differential equations to describe the chemical interactions. However, such an approach is inaccurate for small species populations as it neglects the discrete representation of population values, presents the possibility of negative populations, and does not represent the stochastic nature of biochemical systems. The Stochastic Simulation Algorithm (SSA) developed by Gillespie is able to properly account for these inherent noise fluctuations. Due to the stochastic nature of the Monte Carlo simulations, large numbers of simulations must be run in order to get accurate statistics for the species populations and reactions. However, the algorithm tends to be computationally heavy and leads to long simulation runtimes for large systems. Therefore, this thesis explores implementing the SSA on a Field Programmable Gate Array (FPGA) to improve performance. Employing the Field programmable Gate Arrays exploits the parallelism present in the SSA, providing speedup over the software implementations that execute sequentially. In contrast to prior work that requires re-construction and re-synthesis of the design to simulate a new biochemical system, this work explores the use of reconfigurable hardware in implementing a generic biochemical simulator.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/837</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1879&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>837</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1879</articleid>
+<submission-date>2010-10-26T12:55:00-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1619288</context-key>
+<submission-path>utk_gradthes/837</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Gregory Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Donald W Bouldin, Dr. Robert Hinde</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

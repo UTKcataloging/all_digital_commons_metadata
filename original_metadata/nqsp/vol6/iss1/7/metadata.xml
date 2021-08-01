@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Estimating Sample Sizes for Distance Sampling of Autumn Northern Bobwhite Calling Coveys</title>
+<publication-date>2017-07-25T06:43:58-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Missisippi State University</institution>
+<lname>Smith</lname>
+<fname>Mark</fname>
+<mname>D.</mname>
+</author>
+<author>
+<institution>Mississippi State University</institution>
+<lname>Hamrick</lname>
+<fname>Richard</fname>
+<mname>G.</mname>
+</author>
+<author>
+<institution>Mississippi State University</institution>
+<lname>Burger</lname>
+<fname>L.</fname>
+<mname>Wes</mname>
+<suffix>Jr.</suffix>
+</author>
+<author>
+<institution>University of Georgia</institution>
+<lname>Carroll</lname>
+<fname>John</fname>
+<mname>P.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>call counts</keyword>
+<keyword>Colinus virginianus</keyword>
+<keyword>density</keyword>
+<keyword>distance sampling</keyword>
+<keyword>Georgia</keyword>
+<keyword>northern bobwhite</keyword>
+<keyword>sample size</keyword>
+<keyword>simulation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Point transect sampling of calling coveys has been advocated for estimating autumn abundance of northern bobwhite (Colinus virginianus; hereafter bobwhite). We conducted power analysis, over a range of expected bobwhite calling covey densities to determine levels of sampling required to obtain density estimates for calling coveys over a wide range of precision. We used distance/detection information for autumn bobwhite coveys from 701 observer-mornings on 39 farms in the Upper Coastal Plain of Georgia to construct a global detection function (Uniform with cosine adjustment) using Program DISTANCE. We used simulation models to determine the expected coefficient of variation (CV) on density in relation to number of points sampled. We generated 1,000 sets of random samples in increments of 10 at sample sizes of 10-1,000. At each sample size we generated the respective number of observations from a Poisson distribution with λ = 0.5-3.0 and computed the density and associated statistics using the global detection function. We report the mean CV on covey density at each sample size. As expected, the CV on density decreased with increasing sample size and expected number of detections per point. Assuming sufficient observations to estimate the detection function, a CV on density &lt;15% could be achieved with 50 points at densities with a mean detection of 1 covey/point or 20 points with a mean detection of 2 coveys/point. A mean CV &lt;10% required 100 points at 1 covey/point and 30 points at 2 coveys/point. These simulations demonstrate that distance-based autumn covey surveys can provide density estimates for calling coveys with reasonable precision given sufficient effort.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/nqsp/vol6/iss1/7</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1255&amp;amp;context=nqsp&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>abundance_estimation</document-type>
+<type>article</type>
+<articleid>1255</articleid>
+<submission-date>2017-07-25T05:30:08-07:00</submission-date>
+<publication-title>National Quail Symposium Proceedings</publication-title>
+<context-key>10472000</context-key>
+<submission-path>nqsp/vol6/iss1/7</submission-path>
+</document>
+</documents>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extending Depth of Field via Multifocus Fusion</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hharihar@utk.edu</email>
+<lname>Hariharan</lname>
+<fname>Harishwaran</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Multifocus image fusion</keyword>
+<keyword>empirical mode decomposition</keyword>
+<keyword>intrinsic mode image fusion</keyword>
+<keyword>multimodal image fusion</keyword>
+<keyword>image fusion</keyword>
+<keyword>multispectral image fusion</keyword>
+<keyword>depth of field</keyword>
+<keyword>extending depth of field</keyword>
+<keyword>curvelets</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;In digital imaging systems, due to the nature of the optics involved, the depth of field is constricted in the field of view. Parts of the scene are in focus while others are defocused. Here, a framework of versatile data-driven application independent methods to extend the depth of field in digital imaging systems is presented. The principal contributions in this effort are the use of focal connectivity, the direct use of curvelets and features extracted by Empirical Mode Decomposition, namely Intrinsic Mode Images, for multifocus fusion. The input images are decomposed into focally connected components, peripheral and medial coefficients and intrinsic mode images depending on the approach and fusion is performed on extracted focal information, by relevant schema that allow emphasis of focused regions from each input image. The fused image unifies information from all focal planes, while maintaining the verisimilitude of the scene. The final output is an image where all focal volumes of the scene are in focus, as acquired by a pinhole camera with an infinitesimal depth of field. In order to validate the fusion performance of our method, we have compared our results with those of region-based and multiscale decomposition based fusion techniques. Several illustrative examples, supported by in depth objective comparisons are shown and various practical recommendations are made.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1187</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2314&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1187</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2314</articleid>
+<submission-date>2011-08-16T12:41:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2165086</context-key>
+<submission-path>utk_graddiss/1187</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andreas Koschan, Seddik Djouadi, Frank Guess</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Please refer my work (found in my &#39;List of publications&#39;) if you use any text or images from my dissertation. Please approach me by email (hharihar@utk.edu) before usage. &lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

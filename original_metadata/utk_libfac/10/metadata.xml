@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Connecting Islamic Technology and The History of Robotics in Wikidata via Wikidatabot</title>
+<publication-date>2021-07-16T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>apanigab@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Panigabutra-Roberts</lname>
+<fname>Anchalee</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Islamic technology</keyword>
+<keyword>robotics</keyword>
+<keyword>Wikidata</keyword>
+<keyword>vanderbot</keyword>
+<keyword>linked data tool</keyword>
+<keyword>Python script</keyword>
+</keywords>
+<disciplines><discipline>Cataloging and Metadata</discipline>
+<discipline>Computer Engineering</discipline>
+<discipline>Library and Information Science</discipline>
+<discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;My current study is on the connection between the history of robotics and Islamic technology. I focused on early Muslim inventors, such as al-Jazari, from Artuqid Dynasty of Jazira in Mesopotamia (modern day Iraq, Syria and Turkey) who is considered to be the father of robotics.  His wrote &lt;em&gt;the Book of Knowledge of Ingenious Mechanical Devices&lt;/em&gt;, the manuscript treaty published after his passing in 1206, translated by Donald R. Hill, a British engineer and scholar on Islamic technology, in 1974. The manuscript in Arabic (MS. Greaves 27) is archived at the Bodleian Library, University of Oxford, United Kingdom.  In this institute, I explored tools to build knowledge graphs for this research on robotics and Islamic technology in Wikidata. I took the &lt;a href=&quot;https://heardlibrary.github.io/digital-scholarship/script/wikidata/vanderbot/&quot;&gt;online tutorial&lt;/a&gt; by Steve Baskauf, Data Science and Data Curation Specialist, Vanderbilt University Heard Libraries, also the creator of v&lt;a href=&quot;https://github.com/HeardLibrary/linked-data/blob/master/vanderbot/README.md&quot;&gt;anderbot&lt;/a&gt; which is a Python script written for converting .csv files into Wikidata items and data elements to add to Wikidata. And I could successfully apply vanderbot to add data elements in Wikidata sandbox successfully. This proof of concept would support my future projects to use Wikidata as the based data for the creation of name authority records for the Library of Congress Name Authority File in general, and for a possible collaboration with my colleague, Iman Dagher, Arabic &amp; Islamic Studies Catalog Librarian at UCLA Libraries, for her expertise in Arabic, to enrich Wikidata for names and topics related to Islamic technology.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_libfac/10</coverpage-url>
+<label>10</label>
+<document-type>presentation</document-type>
+<type>article</type>
+<articleid>1010</articleid>
+<submission-date>2021-07-22T12:02:53-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_libfac/article/1010/type/native/viewcontent</native-url>
+<publication-title>UT Libraries Faculty: Other Publications and Presentations</publication-title>
+<context-key>23975445</context-key>
+<submission-path>utk_libfac/10</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2021-07-16T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Showcase_presentation_note_Joy_PRoberts.docx</archive-name>
+<upload-name>Showcase_presentation_note_Joy_PRoberts.docx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1010&amp;amp;context=utk_libfac&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards Faster-than-real-time Power System Simulation Using a Semi-analytical Approach and High-performance Computing</title>
+<publication-date>2018-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nduan@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Duan</lname>
+<fname>Nan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Adomian decomposition method</keyword>
+<keyword>parallel computing</keyword>
+<keyword>power system simulation</keyword>
+<keyword>semi-analytical solution</keyword>
+<keyword>transient stability</keyword>
+<keyword>High-performance computing</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation investigates two possible directions of achieving faster-than-real-time simulation of power systems. The first direction is to develop a semi-analytical solution which represents the nonlinear dynamic characteristics of power systems in a limited time period. The second direction is to develop a parallel simulation scheme which allows the local numerical solutions of power systems to be developed independently in consecutive time intervals and then iteratively corrected toward the accurate global solution through the entire simulation time period.&lt;/p&gt;
+&lt;p&gt;For the first direction, the semi-analytical solution is acquired using Adomian decomposition method (ADM). The ADM assumes the analytical solution of any nonlinear system can be decomposed into the summation of infinite analytical expressions. Those expressions are derived recursively using the system differential equations. By only keeping a finite number of those analytical expressions, an approximation of the analytical solution is yielded, which is defined as a semi-analytical solution. The semi-analytical solutions can be developed offline and evaluated online to facilitate the speedup of simulations. A parallel implementation and variable time window approach for the online evaluation stage are proposed in addition to the time performance analysis.&lt;/p&gt;
+&lt;p&gt;For the second direction, the Parareal-in-time algorithm is tested for power system simulation. Parareal is essentially a multiple shooting method. It decomposes the simulation time into coarse time intervals and then fine time intervals within each coarse interval. The numerical integration uses a computational cheap solver on the coarse time grid and an expensive solver on the fine time grids. The solution within each coarse interval is propagated independently using the fine solver. The mismatch of the solution between the coarse solution and fine solution is corrected iteratively. The theoretical speedup can be achieved is the ratio of the coarse interval number and iteration number. In this dissertation, the Parareal algorithm is tested on the North American eastern interconnection system with around 70,000 buses and 5,000 generators.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4958</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6499&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4958</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6499</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415181</context-key>
+<submission-path>utk_graddiss/4958</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Kevin L. Tomsovic, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

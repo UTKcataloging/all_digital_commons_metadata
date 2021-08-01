@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Georeferenced Riverine Habitat Mapping in the Big South Fork National River and Recreation Area</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>conk@utk.edu</email>
+<institution>The University of Tennessee</institution>
+<lname>McConkey</lname>
+<fname>James</fname>
+<mname>Bryan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>riverscape</keyword>
+<keyword>georeferencing</keyword>
+<keyword>habitat</keyword>
+<keyword>videomapping</keyword>
+<keyword>rugosity</keyword>
+<keyword>sinuosity</keyword>
+</keywords>
+<disciplines><discipline>Other Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;This project describes the development of a river habitat map of the Big South Fork National River and Recreation Area (BISO NRRA) using GPS-based video mapping and image georeferencing techniques. The Big South Fork of the Cumberland River and major tributaries have been floated and mapped with GPS, sonar, and georeferenced under and above water video cameras. Video footage is interpreted for physical bedforms and compiled in an ArcGIS attribute table that can be queried for species specific habitat location.&lt;/p&gt;
+&lt;p&gt;Underwater video mapping system (UVMS) bedform data includes river characteristic (pool, riffle, run), substrate (bedrock, fines/sand, gravel, cobble, and boulder), embeddedness, sonar depth, rugosity, and sinuosity. The Clear Fork River and New River (3rd order streams), White Oak Creek and North White Oak Creek (2nd order streams), and the Big South Fork of the Cumberland River, a 4th order stream are compared based on the EPA Qualitative Habitat Evaluation Index (QHEI).&lt;/p&gt;
+&lt;p&gt;Relationships between bedform parameters are evident in UVMS data, and large boulder substrate was predicted with 67% accuracy based on sonar depth and river characteristic. The rugosity metric can indicate the location of other habitat characteristics, such as large woody debris and riverbed drop-offs. Embeddedness distribution was modeled using SAS based on UVMS data. The linear, quadratic, and non-linear models poorly fit the embeddedness distribution, with R-squared values of 0.37, 0.42, and 0.33 respectively.&lt;/p&gt;
+&lt;p&gt;Traditional river habitat assessment methods vary in scale from stream length categorization based on satellite imagery and topographic maps (kilometer resolution), to aquatic microhabitat inventory by biologists (0.1 m resolution). Typically, reach scale (10 m resolution) and mesoscale (1 m resolution) studies are limited by accessibility and man-hours in the field. The underwater video mapping system (UVMS) allows for stream scale habitat quantification with mesoscale resolution. Kayak or canoe based UVMS can map river habitat inaccessible from land. Georeferenced river characteristic and substrate video can be evaluated by biologists in the lab, reducing time and labor required for field studies. One limitation of UVMS is that underwater bedform data is recorded only in the thalweg, the deepest continuous line along a watercourse.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/645</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1620&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>645</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1620</articleid>
+<submission-date>2010-03-17T08:22:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1228827</context-key>
+<submission-path>utk_gradthes/645</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Paul D. Ayers</value>
+</field>
+<field name="advisor2" type="string">
+<value>John S. Schwartz, John B. Wilkerson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

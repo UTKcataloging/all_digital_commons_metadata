@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Biologically Informed Structure to Accuracy in Osteometric Reassociation</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kmccorm7@vols.utk.edu</email>
+<institution>The University of Tennessee at Knoxville</institution>
+<lname>Mccormick</lname>
+<fname>Kyle</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Forensic Anthropology</keyword>
+<keyword>Commingling</keyword>
+<keyword>Modularity and Integration</keyword>
+</keywords>
+<disciplines><discipline>Biological and Physical Anthropology</discipline>
+</disciplines><abstract>&lt;p&gt;Commingled assemblages present a common situation in osteological analysis where discrete sets of remains are not readily apparent, thereby hindering biological profile construction and the identification process. Of the methods available for resolving commingling, osteometric reassociation is considered a reliable and relatively objective technique. Traditional osteometric sorting methodologies is a decision-making, error-mitigation approach, where possible matches are eliminated if the calculated pvalue exceeds an analyst-defined threshold. This approach implicitly assumes that all bone comparisons are equally accurate as long as the threshold is attained. This assumption, however, is not based in biological reality. This study tests a hypothetical structure of accuracy in osteometric reassociation to accomplish two goals: First, provide a biological logic to osteometric reassociation, centered on the developmental and mechanical relationships influencing limb bone morphology. This logic is assessed by comparing accuracy, or how often the predicted match is the correct match, in reassociating commingled limb elements by four types of comparisons: homologous, serially homologous, within-limb, and between-limb. Second, improve models for osteometric reassociation by incorporating Bayesian statistics and novel information on bone shape and size through geometric morphometric landmark data.&lt;/p&gt;
+&lt;p&gt;Landmark data were collected from the limb bones (excluding the fibula) of 208 adult males (n=103) and females (n=105) from the William M. Bass donated skeletal collection. From these data, limb bones were commonly represented as log-centroid size and partial least squares components of Procrustes coordinates. Then, 10 individuals were randomly removed from the total sample, acting as a small-scale, closed-population commingled assemblage. Bayesian regression via Hamiltonian MCMC was used as the osteometric reassociation model to predict the best match for commingled limb bones. This process was repeated 1000 times for each bone comparison. Accuracy was defined as the number of times the best match was the correct match divided by 1000. Accuracy was structured from highest to lowest: homologous, within-limb, between-limb, serially homologous. Research design, functional canalization of joints, and developmental modularity are possible factors influencing the observed structure of osteometric reassociation accuracy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3724</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5050&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3724</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5050</articleid>
+<submission-date>2015-10-26T14:01:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7765795</context-key>
+<submission-path>utk_graddiss/3724</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dawnie Steadman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Amy Mundorff, Benjamin Auerbach, James Fordyce</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Anthropology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

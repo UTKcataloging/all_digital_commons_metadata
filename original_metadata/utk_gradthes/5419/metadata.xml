@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Blind Bernoulli Trials: A Noninteractive Protocol for Hidden-Weight Coin Flips</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rconnor6@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Connor</lname>
+<fname>Richard</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<keywords>
+<keyword>cryptography</keyword>
+<keyword>functional encryption</keyword>
+<keyword>distributed systems</keyword>
+</keywords>
+<abstract>&lt;p&gt;We introduce the concept of a &quot;Blind Bernoulli Trial,&quot; a noninteractive protocol that allows a set of remote, disconnected users to individually compute one random bit each with probability &lt;i&gt;p&lt;/i&gt; defined by the sender, such that no receiver learns any more information about &lt;i&gt;p&lt;/i&gt; than strictly necessary. We motivate the problem by discussing several possible applications in secure distributed systems. We then formally define the problem in terms of correctness and security definitions and explore possible solutions using existing cryptographic primitives. We prove the security of an efficient solution in the standard model. Finally, we implement the solution and give performance results that show it is practical with current hardware.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5419</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6827&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5419</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6827</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528549</context-key>
+<submission-path>utk_gradthes/5419</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Maxfield Shuchard</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Scott Ruoti</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

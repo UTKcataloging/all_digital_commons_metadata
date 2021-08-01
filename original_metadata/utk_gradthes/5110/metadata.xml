@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wireless Power System Design for Maximum Efficiency</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Li</lname>
+<fname>Jie</fname>
+</author>
+</authors>
+<keywords>
+<keyword>wireless power transfer</keyword>
+<keyword>coil design</keyword>
+<keyword>converter design</keyword>
+<keyword>system design</keyword>
+</keywords>
+<abstract>&lt;p&gt;With the potential of cutting the last cord, wireless power transfer (WPT) using magnetic resonant coupling is gaining increasing popularity. Evolved from the inductive WPT techniques used in commercial products today, resonant WPT can transfer power over a longer distance with higher spatial freedom. Experimental prototypes have shown power transfer across a 2 m air gap [1], proving the viability of resonant WPT. Industrial consortia such as the AirFuel Alliance have standard specifications that enable wide application in consumer electronics.Despite the promises of high efficiency and long transfer distance, resonant WPT has significant challenges to overcome before the broad adoption will occur. One of the critical challenges is the how to design the complicated system. A WPT system consists of multiple parts: the transmitter coil and the compensation capacitor, the receiver coil and the compensation capacitor, and the power stages which consists of the inverter in the transmitter side and rectifier in the receiver side. This thesis investigates the WPT system design for maximum efficiency. It explores modeling and design of individual stages as well as the entire system design method. From the careful literature review, it is found that current design method of coils is insufficient for consumer electronics applications due to the strict sensitivity of size. The current power stage design method is insufficient or inaccurate for WPT applications where wide loading situations need to be considered. The system-level design method is based on assumptions that are not generally true due to the neglect of ZVS requirement and diode rectifier reactance. Instead, previously established techniques in coil design are applied to invent a new coil structure for reduced ESR while achieving a compact size. Previous ZVS inverter and diode rectifier topology are combined with waveform and circuit analysis to develop new accurate modeling and design method for a wide load range. From the resulting coil and converter models, an entire WPT system model and design methodology are proposed which highlights the design parameters selection and the design sequence. These techniques together contribute to a WPT system in terms of both high efficiency and compact size.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5110</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6517&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5110</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6517</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414984</context-key>
+<submission-path>utk_gradthes/5110</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel J. Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly E. Fathy, Leon M. Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

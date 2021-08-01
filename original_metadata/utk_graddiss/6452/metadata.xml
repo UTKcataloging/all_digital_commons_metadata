@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A study of domain decomposition methods applied to the discretized Helmholtz equation</title>
+<publication-date>2001-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Tramel</lname>
+<fname>Robert</fname>
+<mname>Wallace</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In this work a domain decomposition based preconditioner of the additive Schwarz type is developed and tested on the linear systems which arise out of the application of the Green&#39;s Function/Wave Expansion Discretization (GFD/WED) method to Helmholtz&#39;s equation. In order to develop the additive Schwarz preconditioner, use is made of a class of one-sided Artificial Radiation Boundary Conditions (ARBC) developed during the course of this work. These ARBCs are computationally shown to be quite accurate for use on their own. The ARBC&#39;s are used to radiatively couple the various sub-domains which are naturally part of domain decomposition based methods in such a manner as to ensure that the system matrix, when restricted to the subdomains, is non-singular. In addition, the inter-domain ARBC is constructed such that the solution to the global linear system is unaffected by the presence of the artificial boundaries. The efficacy and efficiency of the method is demonstrated on one, two, and three-dimensional test cases.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6452</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=8426&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6452</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>8426</articleid>
+<submission-date>2021-07-29T07:10:58-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>24075131</context-key>
+<submission-path>utk_graddiss/6452</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John E. Caruthers</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

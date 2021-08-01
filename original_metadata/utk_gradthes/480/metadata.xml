@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A High Voltage CCD Sensor Control Chip for the Large Synoptic Survey Telescope (LSST)</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ning</lname>
+<fname>Zuoliang</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the design of a Sensor Control Chip (SCC) developed to provide the required clock and bias signals for the Large Synoptic Survey Telescope’s CCD imagers. The circuit consists of current-summing DACs followed by trans-impedance operational amplifiers to control the rail voltages of the clock signals and bias voltages. The clocks are input to the SCC through LVDS receivers and converted internally to the required amplitude for driving the CCDs. The ASIC is designed to drive clock signals with 20-V adjustable output voltage swing and a maximum output current of 150 mA. The prototype chip has been fabricated in a 0.8-um BCD-SOI process, and is designed to operate down to 175K. Design techniques used in the ASIC will be presented, along with room temperature and operational temperature test results obtained from prototype chips. Test results have shown that the prototype chip is fully functional and agrees well with simulation results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/480</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1517&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>480</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1517</articleid>
+<submission-date>2010-02-19T08:28:39-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1155549</context-key>
+<submission-path>utk_gradthes/480</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton Jr., M. Nance Ericson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/NingZuoliang.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

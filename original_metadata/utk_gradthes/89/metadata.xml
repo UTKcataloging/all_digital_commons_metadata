@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Elemental Analysis of Soils Using Laser-Induced Breakdown Spectroscopy (LIBS)</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yang</lname>
+<fname>Ningfang</fname>
+</author>
+</authors>
+<disciplines><discipline>Environmental Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Laser-induced breakdown spectroscopy (LIBS) has been applied for the quantitative analysis of various samples, but it is controversial for chemically-complex soils. In order to study the effect of delay time, gate width, and repetition rate on the LIBS signal in soil, the emission line at 396.84 nanometer was selected. The results indicated that repetition rate, delay time, and gate width significantly affected the LIBS signal, delay time was more important than gate width in controlling the LIBS signal. The optimum instrumental parameters for soil analysis were obtained when repetition rate, delay time, and gate width equaled 10 hertz, 1 microsecond, and 10 microsecond, respectively. In order to compare the analytical ability of univariate and multivariate approaches in analyzing the LIBS spectral data and to quantitatively determine copper and zinc concentrations in soils, 12 samples with different copper and zinc concentrations were analyzed by inductively coupled plasma optical emission spectroscopy (ICP-OES) and LIBS, respectively. The univariate and the partial least square (PLS) regression were coupled with LIBS to build the calibration models and to predict copper and zinc concentrations. The background-subtracted signal intensity at 324.75 nanometer (copper) and 334.59 nanometer (zinc) were used for the univariate analysis, and the full spectral range 200-600 nanometer and the reduced spectral ranges 250-450 nanometer and 300-350 nanometer were used for the PLS analysis. Copper and zinc concentrations predicted by LIBS were compared with those measured by ICP-OES. The results demonstrated that (1) the PLS regression was powerful in analyzing the LIBS spectral data, and compared to the univariate regression, it improved the normalized root mean square error of calibration (NRMSEC) about 15% and the normalized root mean square error of prediction (NRMSEP) about 10% respectively; (2) The PLS regression using the reduced spectral range (300-350 nanometer) containing copper and zinc peaks produced the best results among all the spectral ranges, which indicated that use of the suitable spectral range in the PLS regression improved the LIBS analytical ability; (3) The implementation of multivariate approaches in analyzing the LIBS spectral data made the quantitative analytical ability of LIBS promising and comparable to that of ICP-OES.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/89</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1118&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>89</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1118</articleid>
+<submission-date>2010-01-22T10:20:47-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1119357</context-key>
+<submission-path>utk_gradthes/89</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Neal S. Eash, Jaehoon Lee</value>
+</field>
+<field name="advisor2" type="string">
+<value>Forbes R. Walker, Madhavi Z. Martin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Environmental and Soil Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

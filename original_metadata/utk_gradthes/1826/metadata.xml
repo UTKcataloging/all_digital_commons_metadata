@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Experimental Study of the Accuracy of Multiple Power Estimation Methods</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Balakrishnan</lname>
+<fname>Ashwin</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;New and complex systems are being implemented using highly advanced Electronic Design Automation (EDA) tools. As the complexity increases, the dissipation of power has emerged as one of the very significant design constraints. Low power designs are not only used in small size applications like cell phones and handheld devices but also in high-performance computing applications.&lt;/p&gt;
+&lt;p&gt;Numerous tools have emerged in recent years to address this issue of power consumption and power optimization. With a vast number of these power measurement tools emerging, analyzing power consumed by digital circuits has not only become easier but also more effective methods are deployed to optimize digital circuits to dissipate less power.&lt;/p&gt;
+&lt;p&gt;This thesis involves using Synopsys power measurement tools together with the use of synthesis and extraction tools to determine power consumed by various macros at different levels of abstraction including the Register Transfer Level (RTL), the gate and the transistor level. A comparison of the power calculated using different net-lists from different extraction tools has also been done. In general, it can be concluded that as the level of abstraction goes down the accuracy of power measurement increases depending on the tool used.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1826</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3181&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1826</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3181</articleid>
+<submission-date>2013-09-11T11:44:47-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4575665</context-key>
+<submission-path>utk_gradthes/1826</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Chandra Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

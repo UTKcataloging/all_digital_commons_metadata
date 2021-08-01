@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neuron Clustering for Mitigating Catastrophic Forgetting in Supervised and Reinforcement Learning</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bgoodric@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Goodrich</lname>
+<fname>Benjamin</fname>
+<mname>Frederick</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neural Networks</keyword>
+<keyword>Catastrophic Forgetting</keyword>
+<keyword>Clustering</keyword>
+<keyword>Recurrent Clustering</keyword>
+<keyword>Machine Learning</keyword>
+<keyword>Reinforcement Learning</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Controls and Control Theory</discipline>
+<discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;Neural networks have had many great successes in recent years, particularly with the advent of deep learning and many novel training techniques. One issue that has affected neural networks and prevented them from performing well in more realistic online environments is that of catastrophic forgetting. Catastrophic forgetting affects supervised learning systems when input samples are temporally correlated or are non-stationary. However, most real-world problems are non-stationary in nature, resulting in prolonged periods of time separating inputs drawn from different regions of the input space.&lt;/p&gt;
+&lt;p&gt;Reinforcement learning represents a worst-case scenario when it comes to precipitating catastrophic forgetting in neural networks. Meaningful training examples are acquired as the agent explores different regions of its state/action space. When the agent is in one such region, only highly correlated samples from that region are typically acquired. Moreover, the regions that the agent is likely to visit will depend on its current policy, suggesting that an agent that has a good policy may avoid exploring particular regions. The confluence of these factors means that without some mitigation techniques, supervised neural networks as function approximation in temporal-difference learning will be restricted to the simplest test cases.&lt;/p&gt;
+&lt;p&gt;This work explores catastrophic forgetting in neural networks in terms of supervised and reinforcement learning. A simple mathematical model is introduced to argue that catastrophic forgetting is a result of overlapping representations in the hidden layers in which updates to the weights can affect multiple unrelated regions of the input space. A novel neural network architecture, dubbed &quot;cluster-select,&quot; is introduced which utilizes online clustering for the selection of a subset of hidden neurons to be activated in the feedforward and backpropagation stages. Clusterselect is demonstrated to outperform leading techniques in both classification nd regression. In the context of reinforcement learning, cluster-select is studied for both fully and partially observable Markov decision processes and is demonstrated to converge faster and behave in a more stable manner when compared to other state-of-the-art algorithms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3581</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5002&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3581</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5002</articleid>
+<submission-date>2015-10-07T15:39:20-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7692167</context-key>
+<submission-path>utk_graddiss/3581</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie Coble, Jeremy Holleman, Jens Gregor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

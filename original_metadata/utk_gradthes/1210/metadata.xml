@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Materials and Configuration from NMIS Type Neutron Imaging and Gamma Spectroscopy</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aswift2@utk.edu</email>
+<lname>Swift</lname>
+<fname>Alicia Lauren</fname>
+</author>
+</authors>
+<keywords>
+<keyword>neutron imaging</keyword>
+<keyword>gamma spectroscopy</keyword>
+<keyword>fission mapping</keyword>
+<keyword>NMIS</keyword>
+<keyword>treaty verification</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Nuclear Material Identification System (NMIS) was first developed at Oak Ridge National Laboratory (ORNL) by the US Department of Energy (DOE) in 1984 for nuclear material control and accountability, and for possible future treaty verification applications by the Office of Nuclear Verification since the mid-1990s.  NMIS is being developed into a fieldable form (designated FNMIS) and will incorporate gamma spectroscopy and an information barrier.  This project, supported by the US DOE at ORNL, tested a previously developed procedure to determine the configuration of an object with unknown geometry and composition from neutron imaging, induced fission radiation detection, and passive and active gamma spectroscopy data.  Using this procedure and simulated data from MCNP-PoliMi and MCNPX version 2.6.0, the problem was for one without knowledge of the object to determine its configuration and materials.  Gamma spectroscopy showed that polyethylene was on the outside with depleted uranium (DU) metal inside of the polyethylene.  Analysis of fast neutron imaging data determined estimates of the radii, heights of the materials, and the presence of a central void. Analysis of the fission mapping data showed that highly enriched uranium (HEU) metal was inside the DU.  Since transmission imaging cannot distinguish DU from HEU metal, fission mapping was used to determine the boundary between HEU and DU.  Models created from the simulated data were iterated upon by varying the enrichment of the HEU until the calculated time distribution of coincidences agreed with the simulations.  The best approximation of the unknown object was concentric cylinders composed of an inner void inside of HEU (84.7 wt% &lt;sup&gt;235&lt;/sup&gt;U), surrounded by DU, surrounded by polyethylene.  The final estimation had the correct materials and geometry, with error in the radii estimates of material regions varying from 1.58% at best and -4.25% at worst; error in the height estimates varied from -2% to 12%.  The error in the HEU enrichment estimate was 5.9 wt%, or within 2.5σ [sigma] of the true value.  The accuracies of these determinations could be adequate for arms control applications.  Future work will apply this iterative reconstructive procedure to other unknown objects to further test and refine it.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1210</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2297&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1210</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2297</articleid>
+<submission-date>2012-03-15T12:21:34-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2297/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2671256</context-key>
+<submission-path>utk_gradthes/1210</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason P. Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>John T. Mihalczo, Howard L. Hall</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

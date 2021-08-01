@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Advancement of Computational Nuclear Fuel and Safeguard Tools</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nshoman@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shoman</lname>
+<fname>Nathan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SCALE</keyword>
+<keyword>Reactor Physics</keyword>
+<keyword>PHWR</keyword>
+<keyword>CANDU</keyword>
+<keyword>Safeguards</keyword>
+<keyword>MIP</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis work was conducted in two separate but related areas: reactor physics and nuclear fuel safeguards. Reactor physics calculations at the assembly level are important to understand the buildup of fission products and major actinides. These calculations can be used to determine the content of a spent fuel assembly prior to reprocessing or disposal at a much cheaper price. This thesis presents an extension to the SCALE (A Nuclear Systems Modeling &amp; Simulations Suite) by developing a lattice model and cross-section library for the CANada Deuterium Uranium (CANDU) 37 and 28 element assemblies. The previous cross-section library was based on the older ENDF/B-V.2 data for which there was no pre-existing lattice template. The modernized library and creation of a new lattice are intended to provide users with an accurate means of evaluating depletion of CANDU fuel assemblies by using the lattice with TRITON/NEWT or TRITON/KENO, or by using the problem-dependent cross-section library with ORIGEN. The new problem dependent cross-section library performs similarly or better to the old cross-section library when benchmarked to radiochemical assay data. The development of the new lattice revealed discrepancies in the Europium-154 thermal capture cross-section in the ENDF/B-VII.0 evaluation compared with the ENDF/B-VI.8 evaluation, which is analyzed in detail. This thesis also presents benchmarks for SCALE&#39;s existing PWR templates. Many studies have shown the high degree of accuracy of the SCALE system, however, there is little work to show the performance of the unmodified templates. This study shows the templates perform well when reproducing the destructive assay results of samples that are located away from features within the assembly that adversely change the spectrum, such as burnable absorbers or guide tubes. Finally, this thesis presents results of the experimental performance of the Multi-Isotope Process monitor (MIP), an online, non-destructive method for safeguards of reprocessing facilities. The system detects changes in the characteristic gamma spectra at each stage in reprocessing using multivariate techniques. The results show that the MIP monitor can distinguish between Mixed Oxide fuels (MOX) and traditional Used Nuclear Fuel (UNF). Additionally, the monitor can distinguish between different UNF materials or different MOX materials.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3810</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5131&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3810</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5131</articleid>
+<submission-date>2016-02-26T13:21:13-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8226115</context-key>
+<submission-path>utk_gradthes/3810</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven E. Skutnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steven E. Skutnik, Jamie B. Coble, Guillermo I. Maldonado</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

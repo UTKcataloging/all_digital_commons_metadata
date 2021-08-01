@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SPARTA: A Graphical User Interface for Malicious Mobile Code Fingerprint-ing.</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cerqueira</lname>
+<fname>Victor</fname>
+<mname>P. De</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis introduces and describes SPARTA (for Stochastic Profiling Application for the Rendering of Trees and Automata), a graphical user interface used as a front end to a collection of tools written in C that collectively convert a log of registry system calls performed by an application into binary descriptions of PSTs (for Probabilistic Suffix Trees) and PSAs (for Probabilistic Suffix Automata), which are models used to represent application behavior on Windows-based systems. SPARTA works by rendering these binary descriptions into graphical form, showcasing a variety of features intended to make the user interaction with PSTs and PSAs informative and insightful.&lt;/p&gt;
+&lt;p&gt;The ultimate goal of SPARTA is to aid in the process of profiling applications based on the system calls they make, using characteristics from PSTs and PSAs that are more easily noticeable in their graphical form to define “normal” behavior for Windows applications. With knowledge of normal behavior, these very same models can be used to measure deviations that might ultimately result in the destructive actions of malicious mobile code, enabling the user to halt or quarantine them before they take place.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1933</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3291&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1933</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3291</articleid>
+<submission-date>2013-09-23T13:10:55-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4615385</context-key>
+<submission-path>utk_gradthes/1933</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael G. Thomason, Bradley Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

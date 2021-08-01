@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Program Profiling and Analysis for Managing Heterogeneous Memory Systems</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ahowar31@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Howard</lname>
+<fname>Adam</fname>
+<mname>Palmer</mname>
+</author>
+</authors>
+<keywords>
+<keyword>heterogeneous memory</keyword>
+<keyword>high-bandwidth memory</keyword>
+<keyword>program profiling</keyword>
+<keyword>performance</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Programming Languages and Compilers</discipline>
+<discipline>Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Many promising memory technologies, such as non-volatile, storage-class memories and high-bandwidth, on-chip RAMs, are beginning to emerge. Since each of these new technologies present tradeoffs distinct from conventional DRAMs, next-generation systems are likely to include multiple tiers of memory storage, each with their own type of devices. To efficiently utilize the available hardware, such systems will need to alter their data management strategies to consider the performance and capabilities provided by each tier.&lt;/p&gt;
+&lt;p&gt;This work explores a variety of cross-layer strategies for managing application data in heterogeneous memory systems. We propose different program profiling-based techniques to automatically partition program allocation sites into sets corresponding to expected allocation and usage patterns. As the application executes, it consults the collected guidance to assign new data objects to distinct regions, which can be independently managed and mapped to distinct types of hardware memory devices. Our approach is fully automatic, does not rely on any non-standard hardware or architectural modifications, and is exible enough to adapt management strategies as the application behavior changes. Evaluation with a set of standard benchmarks (SPEC cpu2006) shows that our guidance-based approach outperforms, and can even improve, other state-of-the-art management techniques.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4949</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6194&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4949</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6194</articleid>
+<submission-date>2017-06-14T21:04:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10305504</context-key>
+<submission-path>utk_gradthes/4949</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael R. Jantz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, James S. Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

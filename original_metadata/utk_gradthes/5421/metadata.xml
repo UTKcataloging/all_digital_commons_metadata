@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>DEVELOPMENT OF AN UWB RADAR SYSTEM</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Richardson</lname>
+<fname>Matthew</fname>
+<mname>Abraham</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Direct Sampling</keyword>
+<keyword>Impulse</keyword>
+<keyword>Radar</keyword>
+<keyword>Ultra-Wideband</keyword>
+<keyword>Subsurface Detection</keyword>
+</keywords>
+<abstract>&lt;p&gt;An ultra-wideband radar system is built at the University of Tennessee with the goal to develop a ground penetrating radar (GPR). The radar is required to transmit and receive a very narrow pulse signal in the time domain. The bistatic radar transmits a pulse through an ultrawide spiral antenna and receives the pulse by a similar antenna. Direct sampling is used to improve the performance of the impulse radar allowing up to 1.5 GHz of bandwidth to be used for signal processing and target detection with high resolution. Using direct sampling offers a less complex system design than traditional lower sample rate, super-heterodyne systems using continuous wave or step frequency methods while offering faster results than conventional equivalent time sampling techniques that require multiple data sets and significant post-processing. These two points are particularly important for a system that may be used in the field in potentially dangerous environments. Direct sampling radar systems, while still frequency limited, are continually improving their upper frequencies boundaries due to more power efficient, higher sampling rate analog to digital converters (ADCs) which relates directly to better subsurface resolution for potential target detection.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5421</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6829&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5421</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6829</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528552</context-key>
+<submission-path>utk_gradthes/5421</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Garrett Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling and analysis of variable reactive power limits of a Doubly Fed Induction Generator (DFIG) used in variable speed wind turbines</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jdevadas@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Devadason</lname>
+<fname>Jonathan</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In this thesis, the mathematical modeling of variable reactive power limits for a Doubly Fed Induction Generator (DFIG) based on its capability curves is presented. Reactive power limits have been adjusted dynamically based on the capability curves when the system was subjected to a disturbance. This ensures that the operation of the DFIG is always within safe limits and utilizes the available capability of the DFIG to improve the performance of the system.The small signal stability of the system is studied by considering the load as a variable parameter. The differential-algebraic model of the DFIG, synchronous generators and their associated controllers and the power system network is linearized and bifurcation analysis considering the load as the bifurcation parameter has been performed. The PV curves, the stator and rotor current magnitudes, and the eigenvalue trajectories are plotted as the load is varied. Time domain simulations are performed to observe the change in stator and rotor currents when the system is subjected to a load change and a change in the wind speed.The system considered for testing is the IEEE 9 bus system which is modified to include a wind farm consisting of 5 wind turbines. The variable reactive power limits are implemented in the reactive power controller of the DFIG and the performance of the system is compared to that of the system with fixed limits in the reactive power controller. From the bifurcation analysis, it was observed that the stator and rotor currents were at the maximum limits when the lower and upper limits of the controller were reached. Also, the Hopf bifurcation was found to occur at a lower load level compared to the system with fixed reactive power limits. From the time domain simulations, it was observed that the stator and rotor currents did not exceed the maximum limits in the system with variable reactive power limits when the system was subjected to a change in the load and a change in the wind speed. Hence, the problem of over/under estimating the reactive power capability of the DFIG based wind farm was avoided.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5073</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6480&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5073</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6480</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414780</context-key>
+<submission-path>utk_gradthes/5073</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hector A. Pulgar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Kai Sun</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

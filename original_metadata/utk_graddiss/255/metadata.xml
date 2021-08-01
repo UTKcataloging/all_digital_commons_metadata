@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Stochastic Signal Processing and Power Control for Wireless Communication Systems</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Olama</lname>
+<fname>Mohammed</fname>
+<mname>Mohsen</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation is concerned with dynamical modeling, estimation and identification of wireless channels from received signal measurements. Optimal power control algorithms, mobile location and velocity estimation methods are developed based on the proposed models.&lt;/p&gt;
+&lt;p&gt;The ultimate performance limits of any communication system are determined by the channel it operates in. In this dissertation, we propose new stochastic wireless channel models which capture both the space and time variations of wireless systems. The proposed channel models are based on stochastic differential equations (SDEs) driven by Brownian motions. These models are more realistic than the time invariant models encountered in the literature which do not capture and track the time varying characteristics of the propagation environment. The statistics of the proposed models are shown to be time varying, and converge in steady state to their static counterparts. Cellular and ad hoc wireless channel models are developed.&lt;/p&gt;
+&lt;p&gt;In urban propagation environment, the parameters of the channel models can be determined from approximating the band-limited Doppler power spectral density (DPSD) by rational transfer functions. However, since the DPSD is not available on-line, a filterbased expectation maximization algorithm and Kalman filter to estimate the channel parameters and states, respectively, are proposed. The algorithm is recursive allowing the inphase and quadrature components and parameters to be estimated on-line from received signal measurements. The algorithms are tested using experimental data, and the results demonstrate the method’s viability for both cellular and ad hoc networks.&lt;/p&gt;
+&lt;p&gt;Power control increases system capacity and quality of communications, and reduces battery power consumption. A stochastic power control algorithm is developed using the so-called predictable power control strategies. An iterative distributed algorithm is then deduced using stochastic approximations. The latter only requires each mobile to know its received signal to interference ratio at the receiver.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/255</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1308&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>255</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1308</articleid>
+<submission-date>2010-02-04T11:59:54-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1132299</context-key>
+<submission-path>utk_graddiss/255</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik M. Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Douglas Birdwell, Aly Fathy, Tsewei Wang, Jie Xiong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/OlamaMohammed.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

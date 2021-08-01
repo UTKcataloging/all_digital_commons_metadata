@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modular DC-DC Converters</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Khan</lname>
+<fname>Faisal</fname>
+<mname>Habib</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;DC-DC converter is one of the mostly used power electronic circuits, and it has applications in various areas ranging from portable devices to aircraft power system. Various topologies of dc-dc converters are suitable for different applications. In high power applications such as the bi-directional dc-dc converter for dual bus system in new generation automobiles, several topologies can be considered as a potential candidate. Regardless of the topology used for this application, the reliability of the converter can be greatly enhanced by introducing redundancy of some degree into the system. Using redundancy, uninterrupted operation of the circuit may be ensured when a fault has occurred.&lt;/p&gt;
+&lt;p&gt;The redundancy feature can be obtained by paralleling multiple converters or using a single modular circuit that can achieve this attribute. Thus, a modular dc-dc converter with redundancy is expected to increase the reliability and reduce the system cost. Recently, the advancement in power electronics research has extended its applications in hybrid electric automobiles. Several key requirements of this application are reliable, robust, and high efficiency operation at low cost. In general, the efficiency and reliability of a power electronic circuit greatly depend on the kind of circuit topology used in any application. This is one of the biggest motivations for the researchers to invent new power electronic circuit topologies that will have significant impact in future automobile industry.&lt;/p&gt;
+&lt;p&gt;This dissertation reviews existing modularity in power electronic circuits, and presents a new modular capacitor clamped dc-dc converter design that has many potential uses in future automotive power system. This converter has multilevel operation, and it is capable of handling bi-directional power. Moreover, the modular nature of the converter can achieve redundancy in the system, and thereby, the reliability can be enhanced to a great extent. The circuit has a high operating efficiency (&gt;95%), and it is possible to integrate multiple voltage sources and loads at the same time. Thus, the converter could be considered as a combination of a power electronic converter and a power management system.&lt;/p&gt;
+&lt;p&gt;In addition to the new dc-dc converter topology, a new pair of modular blocks defined as switching cells is presented in this dissertation. This pair of switching cells can be used to analyze many power electronic circuits, and some new designs can be formed using those switching cells in various combinations. Using these switching cells, many power electronic circuits can be made modular, and the modeling and analysis become easier.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/210</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1257&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>210</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1257</articleid>
+<submission-date>2010-02-01T11:53:51-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127869</context-key>
+<submission-path>utk_graddiss/210</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack S. Lawler, Fangxing Li, Tsewei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/KhanFaisal.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

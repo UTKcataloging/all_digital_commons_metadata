@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multichannel Time-Stamping-Based Correlator and Hardware Simulator for Photon Correlation Spectroscopy</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lescano Mendoza</lname>
+<fname>Isaac</fname>
+<mname>P</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In fluorescence correlation spectroscopy and dynamic light scattering, digital correlators acquire the autocorrelation function of detected photons to measure diffusional dynamics of biomolecules and small particles. Multi-channel data from different wavelengths or scattering angles provide increased information for resolving multiple species. Similarly, in single-molecule spectroscopy and in experiments on photon entanglement, there is a need to acquire time stamps of photons from multiple detectors. To enable such advances, a cost-effective Multichannel Time-Correlator (MTC) and a Multichannel Hardware Simulator (MHS) were developed, each based on a reconfigurable digital input/output card, recently available from National Instruments. The field-programmable-gate-array (FPGA) cores of the cards are programmed to implement counters and first-infirst- out (FIFO) buffers for data transfer by direct-memory-access (DMA). The MTC scans 16 digital inputs each 12.5 nanoseconds to detect voltage pulses coming from a multichannel single-photon detector. Whenever one or more pulses are detected, the timing, which is recorded as a 32-bit timestamp, and a 16-bit flag that specifies the channel(s) are sent to the host computer (PC) for further analysis and storage to a binary file. The DMA data transfer to or from the host PC allows a sustained photon rate of &gt;10 million per second among the 16 channels. An algorithm simultaneously calculates all 16x16 autocorrelation and cross-correlation functions for logarithmically spaced delays directly from the timestamps and channel flags. The MHS reads simulated timestamp and channel data from a binary file and sends the information by DMA to the FPGA card, which uses the received data to generate voltage pulses at 16 digital outputs to thereby simulate the signal from a 16-channel single-photon detector. When the MHS is connected to the MTC, each within a separate PC, the recovered timestamp data is correct to within the expected digital error of +/- 1 timing count.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/397</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1430&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>397</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1430</articleid>
+<submission-date>2010-02-16T10:25:17-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1147823</context-key>
+<submission-path>utk_gradthes/397</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>L. Montgomery Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce Bomar, William Hofmeister, Lloyd M. Davis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/LescanoMendozaIsaac.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

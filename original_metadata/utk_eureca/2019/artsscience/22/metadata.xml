@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Full Genome Sequence of an Antarctic Microbe Constructed Using a Rapid, Portable Sequencer and a Hybrid Assembly</title>
+<publication-date>2019-04-18T08:49:58-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bboles3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Boles</lname>
+<fname>Bruce Wyatt</fname>
+</author>
+</authors>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Biology</discipline>
+<discipline>Environmental Microbiology and Microbial Ecology</discipline>
+<discipline>Genomics</discipline>
+</disciplines><abstract>&lt;p&gt;Microbial genomes contain combinations of nucleotides that code for genes which subsequently determines the function of the cell. This information provides significant insight into the unique niche of microbes from extreme environments. Here we use two sequencing technologies, the Oxford Nanopore MinION with accompanying software and Illumina HiSeq, to generate a hybrid genome for a &lt;em&gt;Shewanella&lt;/em&gt; strain isolated from an Antarctic glacier. Bioinformatic programs, &lt;em&gt;Albacore&lt;/em&gt; and &lt;em&gt;SPAdes&lt;/em&gt;, allowed us to decrease the time of genome assembly while also obtaining a large quantity of information related to the &lt;em&gt;Shewanella sp.&lt;/em&gt; Our combined approach yielded a high quality genome assembly 5.3 Mb in length, consisting of 24 scaffolded contigs with an N50 value of 2.8 Mb. The hybrid assembly method allowed for use of higher quality data than older methods to generate the genome sequence. After gene annotation, using &lt;em&gt;prokka&lt;/em&gt;, we found several genes that inform us on the lifestyle of this isolate including a potentially horizontally transferred &lt;em&gt;fabf &lt;/em&gt;gene, polar flagellar synthesis pathway, and the QseC-QseB (quorum sensing) two-component regulatory system. Ultimately, we aim to modify our pipeline for remote genome sequencing to extract information from microbial field samples in remote locations allowing us to understand microbial life in environmental conditions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_eureca/2019/artsscience/22</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1261&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>22</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1261</articleid>
+<submission-date>2019-04-17T08:54:01-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>14284373</context-key>
+<submission-path>utk_eureca/2019/artsscience/22</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Arts &amp; Sciences</value>
+</field>
+<field name="department" type="string">
+<value>Microbiology</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Jill Mikucki</value>
+</field>
+<field name="year" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

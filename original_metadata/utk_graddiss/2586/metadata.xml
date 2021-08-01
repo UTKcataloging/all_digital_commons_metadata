@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Monitoring Framework for the Detection of Diversion of Intermediate Products in a Generic Natural Uranium Conversion Plant</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>Jladdche@yahoo.com</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ladd-Lively</lname>
+<fname>Jennifer</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>uranium conversion</keyword>
+<keyword>diversion detection</keyword>
+<keyword>principal component analysis</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+<discipline>Other Chemical Engineering</discipline>
+<discipline>Process Control and Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of this work is the development of an on-line monitoring and data analysis framework that could detect the diversion of intermediate products such as uranium dioxide, uranium tetrafluoride, and uranium hexafluoride in a natural uranium conversion plant (NUCP) using a multivariate statistical approach. This was an initial effort to determine the feasibility of this approach for safeguards applications. This study was limited to a 100 metric ton of uranium (MTU) per year NUCP using the wet solvent extraction method for the purification of uranium ore concentrate. A key component in the multivariate statistical methodology was the Principal Component Analysis (PCA) approach for the analysis of data, development of the base model, and evaluation of future operations. The PCA approach was implemented through the use of singular value decomposition of the data matrix. Component mole balances were used to model each of the process units in the NUCP. The decision framework developed in this research could be used to determine whether or not a diversion of material has occurred at an NUCP as part of an International Atomic Energy Agency (IAEA) safeguards system. The IAEA goal for NUCPs of this size is to have a 50% probability of detecting the diversion of 10 MTU over a period of one year; this was also used as the goal of detection for the monitoring framework. An initial sensitivity analysis was also performed on the relationship between the component molar flow rates (state variables) and the process parameters. This sensitivity study identified a few parameters to which some of the state variables were highly sensitive. Several faulty scenarios were developed to test the monitoring framework after the base case or “normal operating conditions” of the PCA model was established. In nearly all of the scenarios, the monitoring framework was able to detect the fault. The detection limit varied depending on the scenario, but it satisfied the limit stated above in nearly of the all cases. For the cases that the goal was not achieved, additional scaling may be able to lower the detection limit to satisfy the goal. Overall this study was successful at meeting the stated objective.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2586</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3112&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2586</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3112</articleid>
+<submission-date>2013-06-23T08:51:13-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3112/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4252438</context-key>
+<submission-path>utk_graddiss/2586</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tse-Wei Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert M. Counce, Alan Icenhour, Paul Frymier, John Begovich</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

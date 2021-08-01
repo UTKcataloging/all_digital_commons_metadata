@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Mining with Multivariate Kernel Regression Using Information Complexity and the Genetic Algorithm</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Beal</lname>
+<fname>Dennis</fname>
+<mname>Jack</mname>
+</author>
+</authors>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;Kernel density estimation is a data smoothing technique that depends heavily on the bandwidth selection. The current literature has focused on optimal selectors for the univariate case that are primarily data driven. Plug-in and cross validation selectors have recently been extended to the general multivariate case.&lt;/p&gt;
+&lt;p&gt;This dissertation will introduce and develop new and novel techniques for data mining with multivariate kernel density regression using information complexity and the genetic algorithm as a heuristic optimizer to choose the optimal bandwidth and the best predictors in kernel regression models. Simulated and real data will be used to cross validate the optimal bandwidth selectors using information complexity. The genetic algorithm is used in conjunction with information complexity to determine kernel density estimates for variable selection from high dimension multivariate data sets.&lt;/p&gt;
+&lt;p&gt;Kernel regression is also hybridized with the implicit enumeration algorithm to determine the set of independent variables for the global optimal solution using information criteria as the objective function. The results from the genetic algorithm are compared to the optimal solution from the implicit enumeration algorithm and the known global optimal solution from an explicit enumeration of all possible subset models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/561</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1628&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>561</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1628</articleid>
+<submission-date>2010-02-23T09:36:18-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1164694</context-key>
+<submission-path>utk_graddiss/561</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ken Gilbert, Bogdan Bichescu, Mohammed Mohsin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

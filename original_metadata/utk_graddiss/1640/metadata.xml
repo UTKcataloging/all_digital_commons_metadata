@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Iterative Reconstruction of Cone-Beam Micro-CT Data</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Benson</lname>
+<fname>Thomas</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The use of x-ray computed tomography (CT) scanners has become widespread in both clinical and preclinical contexts. CT scanners can be used to noninvasively test for anatom- ical anomalies as well as to diagnose and monitor disease progression. However, the data acquired by a CT scanner must be reconstructed prior to use and interpretation. A recon- struction algorithm processes the data and outputs a three dimensional image representing the x-ray attenuation properties of the scanned object. The algorithms in most widespread use today are based on filtered backprojection (FBP) methods. These algorithms are rela- tively fast and work well on high quality data, but cannot easily handle data with missing projections or considerable amounts of noise. On the other hand, iterative reconstruction algorithms may offer benefits in such cases, but the computational burden associated with iterative reconstructions is prohibitive. In this work, we address this computational burden and present methods that make iterative reconstruction of high-resolution CT data possible in a reasonable amount of time. Our proposed techniques include parallelization, ordered subsets, reconstruction region restriction, and a modified version of the SIRT algorithm that reduces the overall run-time. When combining all of these techniques, we can reconstruct a 512 × 512 × 1022 image from acquired micro-CT data in less than thirty minutes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1640</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3153&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1640</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3153</articleid>
+<submission-date>2013-07-26T12:44:42-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4352412</context-key>
+<submission-path>utk_graddiss/1640</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Charles Collins, Michael Thomason, Jonathan Wall</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

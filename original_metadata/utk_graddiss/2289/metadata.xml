@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Frequent Pattern Finding in Integrated Biological Networks</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Peng</lname>
+<fname>Xinxia</fname>
+</author>
+</authors>
+<disciplines><discipline>Life Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Biomedical research is undergoing a revolution with the advance of high-throughput technologies. A major challenge in the post-genomic era is to understand how genes, proteins and small molecules are organized into signaling pathways and regulatory networks. To simplify the analysis of large complex molecular networks, strategies are sought to break them down into small yet relatively independent network modules, e.g. pathways and protein complexes.&lt;/p&gt;
+&lt;p&gt;In fulfillment of the motivation to find evolutionary origins of network modules, a novel strategy has been developed to uncover duplicated pathways and protein complexes. This search was first formulated into a computational problem which finds frequent patterns in integrated graphs. The whole framework was then successfully implemented as the software package BLUNT, which includes a parallelized version.&lt;/p&gt;
+&lt;p&gt;To evaluate the biological significance of the work, several large datasets were chosen, with each dataset targeting a different biological question. An application of BLUNT was performed on the yeast protein-protein interaction network, which is described. A large number of frequent patterns were discovered and predicted to be duplicated pathways. To explore how these pathways may have diverged since duplication, the differential regulation of duplicated pathways was studied at the transcriptional level, both in terms of time and location.&lt;/p&gt;
+&lt;p&gt;As demonstrated, this algorithm can be used as new data mining tool for large scale biological data in general. It also provides a novel strategy to study the evolution of pathways and protein complexes in a systematic way. Understanding how pathways and protein complexes evolve will greatly benefit the fundamentals of biomedical research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2289</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3844&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2289</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3844</articleid>
+<submission-date>2013-10-17T12:07:54-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4733712</context-key>
+<submission-path>utk_graddiss/2289</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay R. Snoddy, Arnold M. Saxton, Brynn H. Voy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

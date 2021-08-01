@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fibrator Properties of PL Manifolds</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Vasilevska</lname>
+<fname>Violeta</fname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;In the early 90s, R.Daverman defined the concept of the PL fibrator ([12]). PL fibrators, by definition, provide detection of PL approximate fibrations. Daver- man defines a closed, connected, orientable PL &lt;em&gt;n&lt;/em&gt;-manifold to be a &lt;em&gt;codimension-k&lt;/em&gt; PL &lt;em&gt;orientable fibrator&lt;/em&gt; if for all closed, connected, orientable PL (&lt;em&gt;n + k&lt;/em&gt;)-manifolds M and PL maps p : &lt;em&gt;M&lt;/em&gt; → &lt;em&gt;B&lt;/em&gt;, where &lt;em&gt;B&lt;/em&gt; is a polyhedron, such that each fiber collapses to an n-complex homotopy equivalent to &lt;em&gt;N&lt;sup&gt;n&lt;/sup&gt;, p&lt;/em&gt; is always an approximate fibration.&lt;/p&gt;
+&lt;p&gt;If &lt;em&gt;N&lt;/em&gt; is a codimension-&lt;em&gt;k&lt;/em&gt; PL orientable fibrator for all &lt;em&gt;k&lt;/em&gt; &gt; 0, &lt;em&gt;N&lt;/em&gt; is called a PL &lt;em&gt;orientable fibrator.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Until now only a few classes of manifolds are known not to be PL fibrators.&lt;/p&gt;
+&lt;p&gt;Following this concept of Daverman, in this dissertation we attempt to find to what extent such results can be obtained for PL maps &lt;em&gt;p : M&lt;sup&gt;n+k&lt;/sup&gt;&lt;/em&gt; → B between manifolds, such that each fiber has the homotopy type (or more generally the shape) of &lt;em&gt;N&lt;/em&gt;, but does not necessarily collapse to an &lt;em&gt;n&lt;/em&gt;-complex, which is a severe restriction.&lt;/p&gt;
+&lt;p&gt;Here we use the following slightly changed PL setting: &lt;em&gt;M&lt;/em&gt; is a closed, connected, orientable PL (&lt;em&gt;n + k&lt;/em&gt;)-manifold, &lt;em&gt;B&lt;/em&gt; is a simplicial triangulated manifold (not necessarily PL), &lt;em&gt;p : M&lt;sup&gt;n+k&lt;/sup&gt;&lt;/em&gt; → &lt;em&gt;B&lt;/em&gt; a PL proper, surjective map, and &lt;em&gt;N&lt;/em&gt; a fixed closed, connected, orientable PL n-manifold.&lt;/p&gt;
+&lt;p&gt;We call &lt;em&gt;N&lt;/em&gt; a &lt;em&gt;codimension-k shape&lt;/em&gt; m&lt;sub&gt;simpl&lt;/sub&gt;&lt;em&gt;o-fibrator&lt;/em&gt; if for all orientable, PL (&lt;em&gt;n + k&lt;/em&gt;)-manifolds M&lt;sup&gt;n+k&lt;/sup&gt; and PL maps &lt;em&gt;p : M&lt;sup&gt;n+k&lt;/sup&gt;&lt;/em&gt; → &lt;em&gt;B&lt;/em&gt;, such that each fiber is homotopy equivalent to &lt;em&gt;N&lt;sup&gt;n&lt;/sup&gt;&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; is always an approximate fibration. If &lt;em&gt;N&lt;/em&gt; is a codimension-&lt;em&gt;k&lt;/em&gt; shape m&lt;sub&gt;simpl&lt;/sub&gt;o-fibrator for all &lt;em&gt;k&lt;/em&gt; &gt; 0, &lt;em&gt;N&lt;/em&gt; is a &lt;em&gt;shape&lt;/em&gt; m&lt;sub&gt;simpl&lt;/sub&gt;&lt;em&gt;o-fibrator&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We are interested in PL manifolds N with π1(N ) /= 1, that force every map &lt;em&gt;f : N&lt;/em&gt; → &lt;em&gt;N&lt;/em&gt; , with 1 /= f&lt;sub&gt;&lt;em&gt;#&lt;/em&gt;&lt;/sub&gt; (π1 (N )) π1 (&lt;em&gt;N&lt;/em&gt; ), to be a homotopy equivalence. We call PL manifolds &lt;em&gt;N&lt;/em&gt; with this property &lt;em&gt;special manifolds&lt;/em&gt;. There is a similar group theoretic term: a group &lt;em&gt;G&lt;/em&gt; is &lt;em&gt;super&lt;/em&gt; &lt;em&gt;Hopfian&lt;/em&gt; if every homomorphism &lt;em&gt;φ : G → G&lt;/em&gt;with 1 /= φ(G)&lt;/p&gt;
+&lt;p&gt;In the first part of the dissertation we study which groups posses this property of being super Hopfian. We find that every non-abelian group of the order pq where &lt;em&gt;p, q&lt;/em&gt; are distinct primes is super Hopfian. Also, a free product of non-trivial, finitely generated, residually finite groups at least one of which is not &lt;strong&gt;Z&lt;/strong&gt;&lt;sub&gt;2&lt;/sub&gt; is super Hopfian.&lt;/p&gt;
+&lt;p&gt;Then we give an example of special manifolds to which we apply our main results in the second part of this dissertation.&lt;/p&gt;
+&lt;p&gt;First we prove that all orientable, special manifolds N with non-cyclic fun- damental groups are codimension-2 shape m&lt;sub&gt;simpl&lt;/sub&gt; o-fibrators. Then we find which 3- manifolds have this property.&lt;/p&gt;
+&lt;p&gt;Next we prove which manifolds are codimension-4 shape m&lt;sub&gt;simpl&lt;/sub&gt; o-fibrators.&lt;/p&gt;
+&lt;p&gt;Our main result gives that an orientable, special PL &lt;em&gt;n&lt;/em&gt;-manifold &lt;em&gt;N&lt;/em&gt; with a non-trivial first homology group is a shape m&lt;sub&gt;simpl&lt;/sub&gt;o-fibrators if N is a codimension-2 shape m&lt;sub&gt;simpl&lt;/sub&gt;o-fibrator. The condition of &lt;em&gt;N&lt;/em&gt; being a codimension-2 PL shape orientable fibrator can be replaced with N having a non-cyclic fundamental group.&lt;/p&gt;
+&lt;p&gt;In the last section we list some open questions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2275</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3788&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2275</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3788</articleid>
+<submission-date>2013-10-14T10:35:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4704284</context-key>
+<submission-path>utk_graddiss/2275</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Daverman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jerzy Dydak, Morwen Thistlethwaite, Conrad Plaut, George Siopsis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

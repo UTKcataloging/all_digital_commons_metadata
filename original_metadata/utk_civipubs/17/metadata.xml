@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Discontinuous Element Insertion Algorithm</title>
+<publication-date>2015-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ttruster@utk.edu</email>
+<lname>Truster</lname>
+<fname>Timothy James</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Interface elements</keyword>
+<keyword>cohesive zone models</keyword>
+<keyword>Discontinuous Galerkin method</keyword>
+<keyword>mesh topology</keyword>
+<keyword>open source code</keyword>
+</keywords>
+<disciplines><discipline>Geometry and Topology</discipline>
+<discipline>Mechanics of Materials</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;An algorithm is presented for inserting zero-thickness interface elements, termed herein as “couplers”, into continuous finite element meshes in two and three dimensions. Insertion is governed solely by the mesh topology and is specified according to regions or subdomains within the overall analysis domain, a geometrically intuitive means to designate the coupler locations. The algorithm is self-contained and requires only nodal coordinates and element connectivity as input. A wide class of volume elements and interface couplers are treated within the framework. Since the algorithm is topologically-based, interfaces of arbitrary complexity are naturally accommodated. Separate treatment is given to inserting couplers within regions and along region boundaries to improve efficiency. Numerical tests verify that the algorithm is computationally scalable and produces analysis suitable meshes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_civipubs/17</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1022&amp;amp;context=utk_civipubs&amp;amp;unstamped=1</fulltext-url>
+<label>17</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1022</articleid>
+<submission-date>2015-12-17T06:04:25-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Civil &amp; Environmental Engineering</publication-title>
+<context-key>7955793</context-key>
+<submission-path>utk_civipubs/17</submission-path>
+<fields>
+<field name="peer_rev" type="boolean">
+<value>true</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Advances in Engineering Software</value>
+</field>
+<field name="submission_type" type="string">
+<value>Pre-print</value>
+</field>
+</fields>
+</document>
+</documents>

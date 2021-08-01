@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>pDroid</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jallen89@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Allen</lname>
+<fname>Joe</fname>
+<mname>Larry</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Android Security</keyword>
+<keyword>Static Analysis</keyword>
+<keyword>Text Mining</keyword>
+<keyword>App Mining</keyword>
+<keyword>Malware Classificaiton</keyword>
+</keywords>
+<disciplines><discipline>Information Security</discipline>
+<discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;When an end user attempts to download an app on the Google Play Store they receive two related items that can be used to assess the potential threats of an application, the list of permissions used by the application and the textual description of the application. However, this raises several concerns. First, applications tend to use more permissions than they need and end users are not tech-savvy enough to fully understand the security risks. Therefore, it is challenging to assess the threats of an application fully by only seeing the permissions. On the other hand, most textual descriptions do not clearly define why they need a particular permission. These two issues conjoined make it difficult for end users to accurately assess the security threats of an application. This has lead to a demand for a framework that can accurately determine if a textual description adequately describes the actual behavior of an application. In this Master Thesis, we present pDroid (short for privateDroid), a market-independent framework that can compare an Android application’s textual description to its internal behavior. We evaluated pDroid using 1562 benign apps and 243 malware samples, and pDroid correctly classified 91.4% of malware with a false positive rate of 4.9%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4020</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5254&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4020</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5254</articleid>
+<submission-date>2016-06-17T18:54:14-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8747726</context-key>
+<submission-path>utk_gradthes/4020</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jinyuan Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Cao, Michael Jantz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Geospatial Based Decision Framework for Extending MARSSIM Regulatory Principles into the Subsurface</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>stewart@utk.edu</email>
+<lname>Stewart</lname>
+<fname>Robert Nathan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MARSSIM</keyword>
+<keyword>geostatistics</keyword>
+<keyword>decision</keyword>
+<keyword>risk</keyword>
+<keyword>uncertainty</keyword>
+<keyword>subsurface</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Environmental Health</discipline>
+<discipline>Environmental Health and Protection</discipline>
+<discipline>Environmental Public Health</discipline>
+<discipline>Statistical Models</discipline>
+<discipline>Theory and Algorithms</discipline>
+<discipline>Toxicology</discipline>
+</disciplines><abstract>&lt;p&gt;The Multi-Agency Radiological Site Survey Investigation Manual (MARSSIM) is a regulatory guidance document regarding compliance evaluation of radiologically contaminated soils and buildings (USNRC, 2000). Compliance is determined by comparing radiological measurements to established limits using a combination of hypothesis testing and scanning measurements. Scanning allows investigators to identify localized pockets of contamination missed during sampling and allows investigators to assess radiological exposure at different spatial scales. Scale is important in radiological dose assessment as regulatory limits can vary with the size of the contaminated area and sites are often evaluated at more than one scale (USNRC, 2000). Unfortunately, scanning is not possible in the subsurface and direct application of MARSSIM breaks down.&lt;/p&gt;
+&lt;p&gt;This dissertation develops a subsurface decision framework called the Geospatial Extension to MARSSIM (GEM) to provide multi-scale subsurface decision support in the absence of scanning technologies. Based on geostatistical simulations of radiological activity, the GEM recasts the decision rule as a multi-scale, geospatial decision rule called the &lt;em&gt;regulatory limit rule&lt;/em&gt; (RLR). The RLR requires simultaneous compliance with all scales and depths of interest at every location throughout the site. The RLR is accompanied by a compliance test called the &lt;em&gt;stochastic conceptual site model&lt;/em&gt; (SCSM). For those sites that fail compliance, a remedial design strategy is developed called the Multi-scale Remedial Design Model (MrDM) that spatially indicates volumes requiring remedial action. The MrDM is accompanied by a sample design strategy known as the Multi-scale Remedial Sample Design Model (MrsDM) that refines this remedial action volume through careful placement of new sample locations. Finally, a new sample design called “check and cover” is presented that can support early sampling efforts by directly using prior knowledge about where contamination may exist.&lt;/p&gt;
+&lt;p&gt;This dissertation demonstrates how these tools are used within an environmental investigation and situates the GEM within existing regulatory methods with an emphasis on the Environmental Protection Agency’s &lt;em&gt;Triad&lt;/em&gt; method which recognizes and encourages the use of advanced decision methods. The GEM is implemented within the Spatial Analysis and Decision Assistance (SADA) software and applied to a hypothetical radiologically contaminated site.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1130</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2205&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1130</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2205</articleid>
+<submission-date>2011-05-31T06:32:28-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2205/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2039553</context-key>
+<submission-path>utk_graddiss/1130</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce Ralston, Liem Tran, Louis Gross</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

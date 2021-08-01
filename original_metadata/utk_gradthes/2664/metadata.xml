@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of an All Digital Phase Locked Loop using a Pulse Output Direct Digital Frequency Synthesizer</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gothandaraman</lname>
+<fname>Akila</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Phase Locked Loops (PLLs) are widely used in clock recovery and frequency synthesis. Fully Digital PLLs are more suitable for the monolithic implementation with other circuits compared to the traditional implementations of the PLLs. The All Digital PLLs are also independent of process variations and can be easily ported to different technologies.&lt;/p&gt;
+&lt;p&gt;This thesis presents the design of an All Digital Phase Locked Loop (ADPLL) using a pulse output Direct Digital Frequency Synthesizer (DDFS) and an All Digital Phase Frequency Detector (ADPFD). General design criteria are summarized for the all digital implementation in comparison to the traditional approaches and analog implementations. The design has been fabricated using 0.6-μm CMOS technology. The ADPLL has 16-bit bi nary control and can operate in the frequency range between 1 MHz and 500 MHz. The ADPLL has 50-cycles lock time and a duty cycle distortion of less than 2%. The simulation and test results of the ADPLL are also presented to verify its operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2664</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4030&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2664</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4030</articleid>
+<submission-date>2014-03-06T13:40:21-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>5282524</context-key>
+<submission-path>utk_gradthes/2664</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Donald W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

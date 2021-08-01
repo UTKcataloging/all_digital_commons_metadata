@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Architecture for Real-Time, Low-SWaP Embedded Vision Using FPGAs</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sclukey@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Clukey</lname>
+<fname>Steven</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>FPGA</keyword>
+<keyword>Image Processing</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis we designed, prototyped, and constructed a printed circuit board for real-time, low size, weight, and power (SWaP) HDMI video processing and developed a general purpose library of image processing functions for FPGAs.&lt;/p&gt;
+&lt;p&gt;The printed circuit board is a baseboard for a Xilinx Zynq based system-on-module (SoM). The board provides power, HDMI input, and HDMI output to the SoM and enables low-SWaP, high-resolution, real-time video processing.&lt;/p&gt;
+&lt;p&gt;The image processing library for FPGAs is designed for high performance and high reusability. These objectives are achieved by utilizing the Chisel hardware construction language to create parameterized modules that construct low-level FPGA implementations of image processing functions. Each module in the library can be used independently or combined with other modules to develop more complex processing functions. In addition, these modules can be used together with other existing firmware resources.&lt;/p&gt;
+&lt;p&gt;The circuit board and image processing library were then used together to develop, synthesize, and implement a real-time low-light video enhancement pipeline. It was also used to benchmark and estimate the performance of accelerating convolution for use in convolutional neural networks. In these applications our system was able to perform up to 20 times faster than the CPU at the same power consumption.&lt;/p&gt;
+&lt;p&gt;The final circuit board measures only 1.5x3x0.6 inches, weighs 1.00 ounce, and consumes less than 5 Watts when fully operational. It has been tested with HDMI video stream at 60 frames per second with input resolutions up to 1440x900 pixels and output resolutions up to 1920x1080 pixels. In addition, all of the modules in the library are optimized to be able to operate at no less than 60 frames per second on full high-definition (1920x1080 pixel) video.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4281</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5519&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4281</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5519</articleid>
+<submission-date>2016-10-03T08:30:27-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9221637</context-key>
+<submission-path>utk_gradthes/4281</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Qing Cao, Ohannes Karakashian</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Rheological and Structural Studies of Liquid Decane, Hexadecane, and Tetracosane under Planar Elongational Flow Using Nonequilibrium Molecular-dynamics Simulations</title>
+<publication-date>2005-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baig</lname>
+<fname>C.</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Edwards</lname>
+<fname>B.</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cochran</lname>
+<fname>H.</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>rheology</keyword>
+<keyword>viscosity</keyword>
+<keyword>organic compounds</keyword>
+<keyword>molecular dynamics method</keyword>
+<keyword>liquid structure</keyword>
+<keyword>Lennard-Jones potential</keyword>
+<keyword>flow</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We report for the first time rheological and structural properties of liquid decane, hexadecane, and tetracosane using nonequilibrium molecular-dynamics (NEMD) simulations under planar elongational flow (PEF). The underlying NEMD algorithm employed is the so-called &lt;em&gt;p&lt;/em&gt;-SLLOD algorithm [ C. Baig, B. J. Edwards, D. J. Keffer, and H. D. Cochran, J. Chem. Phys. 122, 114103 (2005) ]. Two elongational viscosities are measured, and they are shown not to be equal to each other, indicating two independent viscometric functions in PEF. With an appropriate definition, it is observed that the two elongational viscosities converge to each other at very low elongation rates, i.e., in the Newtonian regime. For all three alkanes, tension-thinning behavior is observed. At high elongation rates, chains appear to be fully stretched. This is supported by the result of the mean-square end-to-end distance of chains 〈R&lt;sub&gt;ete&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;〉 and the mean-square radius of gyration of chains 〈R&lt;sub&gt;g&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;〉, and further supported by the result of the intramolecular Lennard-Jones (LJ) potential energy. It is also observed that 〈R&lt;sub&gt;ete&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;〉 and 〈R&lt;sub&gt;g&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;〉 show a different trend as a function of strain rate from those in shear flow: after reaching a plateau value, 〈R&lt;sub&gt;ete&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;〉 and 〈R&lt;sub&gt;g&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;〉 are found to increase further as elongation rate increases. A minimum in the hydrostatic pressure is observed for hexadecane and tetracosane at about ε(mσ&lt;sup&gt;2&lt;/sup&gt;/ε)&lt;sup&gt;1/2&lt;/sup&gt; = 0.02. This phenomenon is shown to be associated with the intermolecular LJ potential energy. The bond-bending and torsional energies display similar trends, but a different behavior is observed for the bond-stretching energy. An important observation common in these three bonded-intramolecular interactions is that all three modes are suppressed to a small value at high elongation rates. We conjecture that a liquid-crystal-like, nematic structure is present in these systems at high elongation rates, which is characterized by a strong chain alignment with a fully stretched conformation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/33</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1021&amp;amp;context=utk_chembiopubs&amp;amp;unstamped=1</fulltext-url>
+<label>33</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1021</articleid>
+<submission-date>2010-05-21T06:42:54-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1323152</context-key>
+<submission-path>utk_chembiopubs/33</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Copyright (2005) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>C. Baig, B. J. Edwards, D. J. Keffer, and H. D. Cochran, J. (2005). Rheological and structural studies of liquid decane, hexadecane, and tetracosane under planar elongational flow using nonequilibrium molecular-dynamics simulations. Chem. Phys. 122, DOI: 10.1063/1.1897373</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-21T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cloud Anchor: An Exploration of Service Integrity Attestation with Hardware Roots of Trust</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Craig</lname>
+<fname>Christopher</fname>
+<mname>Alexander</mname>
+</author>
+</authors>
+<keywords>
+<keyword>integrity</keyword>
+<keyword>cloud</keyword>
+<keyword>SaaS</keyword>
+<keyword>graph</keyword>
+<keyword>attestation</keyword>
+<keyword>remote</keyword>
+</keywords>
+<abstract>&lt;p&gt;Distributed computing has enabled developers and researchers to solve complex problems at an impressive scale. Users implicitly trust these subtasks to be performed accurately and this trust can be abused by malicious service providers who aim to compromise the integrity of the system. These problems can be solved by using dedicated hardware; however it is expensive or impossible to distribute this solution to all providers in a system. In this paper, we explore InTest, a service integrity attestation framework that uses replay-based consistency checks to detect malicious service providers without the use of dedicated hardware. We investigate if its performance is affected by network topology, its accuracy in the face of incomplete information, and if it can be improved by minimally utilizing dedicated hardware. Our preliminary solution, Cloud Anchor, reduces the number of duplicated tasks by 30% while providing identical detection rates as the prior solution.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5030</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6437&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5030</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6437</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414695</context-key>
+<submission-path>utk_gradthes/5030</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Maxfield J. Schuchard</value>
+</field>
+<field name="advisor2" type="string">
+<value>Joseph B. Lyles, Stacy J. Prowell, Jinyuan Sun</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

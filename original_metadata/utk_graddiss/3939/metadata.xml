@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extension Theorems on Matrix Weighted Sobolev Spaces</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cloga@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Loga</lname>
+<fname>Christopher</fname>
+<mname>Ryan</mname>
+</author>
+</authors>
+<disciplines><discipline>Analysis</discipline>
+<discipline>Harmonic Analysis and Representation</discipline>
+<discipline>Other Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Let D a subset of R&lt;sup&gt;n&lt;/sup&gt; [R n] be a domain with Lipschitz boundary and 1 ≤ p &lt; ∞ [1 less than or equal to p less than infinity]. Suppose for each x in R&lt;sup&gt;n&lt;/sup&gt; that W(x) is an m x m [m by m] positive definite matrix which satisfies the matrix A&lt;sub&gt;p&lt;/sub&gt; [A p] condition. For k = 0, 1, 2, 3;... define the matrix weighted, vector valued, Sobolev space [L p k of D,W] with&lt;/p&gt;
+&lt;p&gt;[the weighted L p k norm of vector valued f over D to the p power equals the sum over all alpha with order less than k of the integral over D of the the pth power of the norm of W to the 1 over p times the alpha order derivative of f]&lt;/p&gt;
+&lt;p&gt;where [vector f takes D into C m]. We then aim to show that for [vector f] in [L p k of D,W] there exists an extension [E of vector f] in [L p k of R n, W] such that [E of vector f equals vector f] on D and&lt;/p&gt;
+&lt;p&gt;[the weighted L p k norm of E of vector f on all of R n is less than or equal to a constant times the weighted L p k norm of f on D]&lt;/p&gt;
+&lt;p&gt;for some constant independent of [vector f]. This theorem generalizes a known result for scalar A&lt;sub&gt;p&lt;/sub&gt; weights. To prove such a result, we first consider various cases including that of unweighted smooth and Lipschitz domains. We then proceed to go through some standard results for scalar A&lt;sub&gt;p&lt;/sub&gt; weights. The scalar A&lt;sub&gt;p&lt;/sub&gt; weighted smooth and Lipschitz domain case is then addressed. With such intuition in hand, certain facts about matrix weights must be addressed before we can finally prove both smooth and Lipschitz domain results in this new context.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3939</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5166&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3939</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5166</articleid>
+<submission-date>2016-02-25T06:08:26-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8214204</context-key>
+<submission-path>utk_graddiss/3939</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Frazier</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stefan Richter, Joan R. Lind, Tuoc Phan, Michael W. Guidry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

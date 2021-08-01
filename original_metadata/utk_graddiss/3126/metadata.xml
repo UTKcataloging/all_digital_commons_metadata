@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improving GPU Shared Memory Access Efficiency</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sgao3@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gao</lname>
+<fname>Shuang</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Graphic Processing Units (GPUs) often employ shared memory to provide efficient storage for threads within a computational block. This shared memory includes multiple banks to improve performance by enabling concurrent accesses across the memory banks. Conflicts occur when multiple memory accesses attempt to simultaneously access a particular bank, resulting in serialized access and concomitant performance reduction. Identifying and eliminating these memory bank access conflicts becomes critical for achieving high performance on GPUs; however, for common 1D and 2D access patterns, understanding the potential bank conflicts can prove difficult. Current GPUs support memory bank accesses with configurable bit-widths; optimizing these bitwidths could result in data layouts with fewer conflicts and better performance.&lt;/p&gt;
+&lt;p&gt;This dissertation presents a framework for bank conflict analysis and automatic optimization. Given static access pattern information for a kernel, this tool analyzes the conflict number of each pattern, and then searches for an optimized solution for all shared memory buffers. This data layout solution is based on parameters for inter-padding, intrapadding, and the bank access bit-width. The experimental results show that static bank conflict analysis is a practical solution and independent of the workload size of a given access pattern. For 13 kernels from 6 benchmarks suites (RODINIA and NVIDIA CUDA SDK) facing shared memory bank conflicts, tests indicated this approach can gain 5%- 35% improvement in runtime.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3126</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4556&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3126</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4556</articleid>
+<submission-date>2014-11-18T22:45:28-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4556/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6373087</context-key>
+<submission-path>utk_graddiss/3126</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Michah Beck, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

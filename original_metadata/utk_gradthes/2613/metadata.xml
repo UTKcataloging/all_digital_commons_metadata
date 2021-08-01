@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Occupant-Based Dynamic Simulation Tool for Predicting Residential Power Demand and Quantifying the Impact of Residential Demand Response</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bjohns76@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Brandon</fname>
+<mname>Jeffrey</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Occupant Behavior Modeling</keyword>
+<keyword>Markov Chains</keyword>
+<keyword>Residential Power Demand</keyword>
+<keyword>Dynamic Load Modeling</keyword>
+<keyword>Demand Response</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;With their large impact on the power system and widespread distribution, residential loads provide vast resources that if utilized correctly have the potential to help reduce both electricity cost and demand throughout the day. Previous research in this area has been primarily focused on building more energy efficient homes and improving the efficiencies of appliances and lighting technologies. Far less attention has been given to the ability of residential loads to provide various demand response services. Residential loads with demand response capabilities have the potential to be very useful in both peak shifting and regulation applications, and could be utilized in the future to help maintain power system stability and security. Before this can become a reality, however, the effect residential loads providing demand response services can have on the power system must be understood. One method for determining the overall impact residential demand response can have on the power system is through modeling.&lt;/p&gt;
+&lt;p&gt;In this thesis, the development of a dynamic simulation tool capable of predicting residential power demand on a one-second time scale is discussed. To produce the most accurate results, a bottom-up modeling approach is utilized in which the characteristics of the household, its individual loads, and the behavior of its occupants are modeled. Using this technique, the contribution of each residential load towards the total aggregate demand of the residential sector can be identified. Occupant behavior models are developed using data collected in the American Time Use Survey to create a statistically accurate representation of how occupants interact with major residential loads. These models are simulated using a Markov Chain Monte Carlo method, and predict occupant behavior based on the time of the day and day of the week. To predict residential power demand, dynamic models of the most common residential loads are developed and used in conjunction with these occupant behavior models and environmental input data. Finally, several demand response strategies are applied to this simulation tool to quantify the potential impact residential demand response programs can have on the power system and illustrate the importance of understanding their overall effects.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2613</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3573&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2613</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3573</articleid>
+<submission-date>2013-10-09T14:09:58-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3573/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4690075</context-key>
+<submission-path>utk_gradthes/2613</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Kai Sun</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

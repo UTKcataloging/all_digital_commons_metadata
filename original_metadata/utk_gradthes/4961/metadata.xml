@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Multi-Jointed Wing Surface Mover</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cstrassb@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Strassburger</lname>
+<fname>Collin</fname>
+<mname>Arthur</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Pterosaur</keyword>
+<keyword>CFD</keyword>
+<keyword>Mesh motion</keyword>
+<keyword>Surface motion</keyword>
+<keyword>Ornithopter</keyword>
+<keyword>Coloborhynchus robustus</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+</disciplines><abstract>&lt;p&gt;The field of ornithopter research has reached a point where it has become commonplace for Computational Fluid Dynamics (CFD) solvers to have built-in capabilities for rigid solid body motion. This is suitable for micro air vehicles (MAVs) yet is often not exible enough to model wings with dynamic internal structure, such as the wings of birds and bats. There is currently no program available to perform the surface motion of a wing which has multiple independently moving joints. The code, detailed in this paper, provides the user with this type of capability. The bone lengths, joint angle properties, and thickening parameters are input and the progressive motion of surface points for each desired time is output. Furthermore, an optimized minimal surface solver is included for use with elastic wings. The output of this code has been integrated with OpenFOAM to provide proof-of-concept and verification results. The verification results demonstrate that both the process and code are viable while the 3D surface motion results demonstrate the motion of a pterosaur wing. As a result, this code opens the door to a large region of unexplored behaviors and properties which stem from highly dynamic multi-jointed wings.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4961</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5527&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4961</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5527</articleid>
+<submission-date>2016-10-05T11:40:57-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9235695</context-key>
+<submission-path>utk_gradthes/4961</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Coder, Zhili Zhang, Jay I. Frankel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

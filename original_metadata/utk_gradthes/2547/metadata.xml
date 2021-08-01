@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Analysis of Fluorescent Microscopic Images to Identify Protein-Protein Interactions</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Venkataraman</lname>
+<fname>Sankar</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The identification and confirmation of protein interactions significantly challenges the field of systems biology and related bio-computational efforts. The identification of protein-protein interactions along with their spatial and temporal localization is useful for assigning functional information to proteins. Fluorescence microscopy is an ideal method for assessing protein localization and interactions as a number of techniques and reagents have been described. Historically, data sets obtained from fluorescence microscopy have been analyzed manually, a process that is both time consuming and tedious. The development of an automated system that can measure the location and dynamics of interacting proteins inside a live cell is of high priority. This paper describes an automated image analysis system used to identify an interaction between two proteins of interest. These proteins are fused to either Green Fluorescent Protein (GFP) or DivIVA, a bacterial cell division protein that localizes to the cell poles. Upon induction of the DivIVA fusion protein, the GFP-fusion protein is recruited to the cell poles if a positive interaction occurs.&lt;/p&gt;
+&lt;p&gt;There were many problems that came into the picture during the development for an automated system to identify these positive interactions. There were basic segmentation and edge detection problems and the problems caused by inclusion bodies (will be discussed in the sections to follow). Different known procedures to obtain thresholds, and edges were evaluated and the apt ones for our analysis were implemented. A proper flow of advanced image processing and feature extraction algorithms was laid out. These steps were used to analyze the datasets of acquired images. Various methods applied are discussed in detail. The experiments conducted along with the results generated are discussed extensively. A statistical feature set used to quantify the image based information and to aid in the determination of a positive interaction is developed.&lt;/p&gt;
+&lt;p&gt;Various image processing and feature extraction algorithms used to analyze fluorescence microscopic images were also applied to Atomic force microscopic images with a few modifications. There was a basic problem of uneven background noise and this was removed using a common procedure that is used to remove uneven illumination in DIC images. These AFM images were analyzed and quantized using numerical descriptors defined during the analysis of fluorescent microscopic images.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2547</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3803&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2547</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3803</articleid>
+<submission-date>2013-10-18T10:40:02-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4738933</context-key>
+<submission-path>utk_gradthes/2547</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi, Mitchel John Doktycz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohammed Ferdjallah</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

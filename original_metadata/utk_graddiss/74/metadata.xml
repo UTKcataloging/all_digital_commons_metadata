@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control Applied to Population and Disease Models</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Miller Neilan</lname>
+<fname>Rachael</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation considers the use of optimal control theory in population models for the purpose of characterizing strategies of control which minimize an invasive or infected population with the least cost. Three different models and optimal control problems are presented. Each model describes population dynamics via a system of differential equations and includes the effects of one or more control methods.&lt;/p&gt;
+&lt;p&gt;The first model is a system of two ordinary differential equations describing dynamics between a native population and an invasive population. Population growth terms are functions of the control, constructed so that the value of the control may affect each population differently. A novel existence result is presented for the case of quadratic growth functions. With parameters chosen to mimic the competition between cottonwood and salt cedar plants, optimal schedules of controlled  ooding are displayed.&lt;/p&gt;
+&lt;p&gt;The second model, a system of six ordinary differential equations, describes the spread of cholera in a human population through ingestion of &lt;em&gt;Vibrio cholerae&lt;/em&gt;. Equations track movement of susceptible individuals to either an asymptomatic infected class or a symptomatic infected class through ingestion of bacteria, both in a hyperinfectious state and a less-infectious state. Recovered individuals temporarily move to an immune class before being placed back in the susceptible class. A new result quantities contributions to the basic reproductive number from multiple infectious classes. Within the model, three control functions represent rehydration and antibiotic treatment, vaccination, and sanitation. The cost-effective balance of multiple cholera intervention methods is compared for two endemic populations.&lt;/p&gt;
+&lt;p&gt;The third model describes the spread of disease in both time and space using a system of three parabolic partial differential equations with convection-diffusion movement terms and no-flux boundary conditions. A control function representing vaccination is incorporated. State variables track the number of susceptible, infected, and immune individuals. Detailed analysis for the characterization of the optimal control is provided. The model and optimal control results are applied to the spread of rabies among raccoons with the control function determining the timing and placement of oral vaccine baits. Results illustrate cost-effective vaccine distribution strategies for both regular and irregular patterns of rabies propagation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/74</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1104&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>74</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1104</articleid>
+<submission-date>2009-12-23T09:46:09-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098674</context-key>
+<submission-path>utk_graddiss/74</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Louis Gross, Charles Collins, Agricola Odoi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

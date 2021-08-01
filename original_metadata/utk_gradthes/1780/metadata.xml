@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Quantitative Study of Scaling Properties of Fracture Networks</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Roy</lname>
+<fname>Ankur</fname>
+</author>
+</authors>
+<disciplines><discipline>Geology</discipline>
+</disciplines><abstract>&lt;p&gt;Fracture networks and their scaling properties are important from both an academic and practical perspective since they play a significant role in many areas ranging from crustal fluid flow to studies of earthquakes. Over the years, researchers have employed a wide variety of techniques to quantify the complexities of fractured media. These range from deterministic, process-based approaches employing the laws of physics, to ones involving the applications of geostatistics and more recently, fractal geometry. Fractals are irregular entities that show self-similarity over a wide range of scales and can be quantified by the fractal dimension, &lt;em&gt;D&lt;/em&gt;. It is important that the &lt;em&gt;D&lt;/em&gt;-values of such networks are properly evaluated. The box-counting algorithm is a widely used technique for characterizing fracture networks as fractals and estimating their &lt;em&gt;D&lt;/em&gt;-values. If this analysis yields a power law distribution given by N ∝ r&lt;sup&gt;−D&lt;/sup&gt; &lt;em&gt;&lt;/em&gt;, where &lt;em&gt;N&lt;/em&gt; is the number of boxes containing one or more fractures and &lt;em&gt;r&lt;/em&gt; is the box size, the network is considered to be fractal. However, researchers are divided in their opinion about issues such as the best box-counting algorithm for estimating the ‘correct’ &lt;em&gt;D&lt;/em&gt;-value or whether a fracture network is indeed fractal. For instance, a closer look at the &lt;em&gt;N&lt;/em&gt; vs. &lt;em&gt;r&lt;/em&gt; plots for a set of previously published fracture trace maps shows that such distributions do not follow power law scaling. As part of the present work, a synthetic fractal-fracture network with a known theoretical fractal dimension, &lt;em&gt;D&lt;/em&gt;, was used to develop an improved algorithm for the box-counting method that returns “unbiased” &lt;em&gt;D&lt;/em&gt;-values. A suite of 17 fracture trace maps that had previously been evaluated for their fractal nature was reanalyzed using the improved technique.  “Unbiased” estimates of &lt;em&gt;D&lt;/em&gt; for these maps ranged from 1.56±0.02 to 1.79±0.02, and were much higher than the original estimates. The fractal dimension of a pattern however, does not capture all of the heterogeneity present. For instance, two patterns that have the same fractal dimension may have very different appearances. We investigated the applicability of a new parameter, namely lacunarity, &lt;em&gt;L&lt;/em&gt;, for distinguishing between different fracture networks having the same fractal dimension. The lacunarity is the degree of clustering in a pattern and is a geostatistical parameter that can be used to study patterns that are both fractals non-fractal. The gliding-box algorithm is a popular technique for computing lacunarities as a function of the box-size, &lt;em&gt;r&lt;/em&gt;. In the present work it has been successfully used for the first time to analyze fracture networks. Apart from computing lacunarity curves for a set of synthetic patterns generated in MATLAB, we also analyzed a set of 7 nested natural fracture maps with similar &lt;em&gt;D&lt;/em&gt; values ranging from 1.80±0.05 to 1.84±0.04. Our results show that differences between maps are most pronounced when &lt;em&gt;L&lt;/em&gt; values are determined using intermediate box sizes.  Estimates of &lt;em&gt;L&lt;/em&gt; based on such box sizes indicate that fractures are more clustered at smaller scales. Future work in this area should explore the use of the gliding box algorithm to see whether fracture networks are self-similar over a given range of scales and if lacunarity analysis alone can furnish information on the “unbiased” fractal dimensions of such networks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1780</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3132&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1780</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3132</articleid>
+<submission-date>2013-08-30T11:25:38-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4531323</context-key>
+<submission-path>utk_gradthes/1780</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Edmund Perfect</value>
+</field>
+<field name="advisor2" type="string">
+<value>William M. Dunne, Larry D. McKay</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

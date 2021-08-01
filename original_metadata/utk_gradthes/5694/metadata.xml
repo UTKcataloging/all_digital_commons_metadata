@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The development and evaluation of a detection concept to extend the red clearance by predicting a red light running event</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Xu</lname>
+<fname>Jun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Civil engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study focuses on developing and evaluating a detection concept to extend the red clearance by predicting a RLR event. It will dynamically extend the red clearance several seconds when a RLR is predicted to happen otherwise zero. Therefore the time will be used more efficient. In order to evaluate the influence caused by alternative detector positions, a VISSIM network was built up, connecting Econolite ASC/3 controller and ATACID. Due to the lack of realistic data, all the data in this study are fictional, but close to real. Several parameters are artificially modified in order to gain larger RLR occurrence. The two of the most crucial changes are the changing of reaction to amber signal and decreasing yellow interval. &quot;In this study, a MATLAB program predicts the RLR violation based on the data received from VISSIM via COM Interface, and makes decisions&quot; And then, ASC/3 controller would execute every command received from the MATLAB program.Within every cycle, the MATLAB program would output data into a texture file, including the red extension type and red extension length. The result has four types: red clearance is extended while there is RLR violation (RERV); red clearance is extended no RLR violation (RENRV); red clearance not extended RLR violation (RNERV); red clearance not extended no RLR violation (RNENRV). RENRV and RNERV are two types of error that should be controlled in a reasonable range, especially RNERV. There are five scenarios while the position of the prediction detector is separately 100, 125, 150, 175 and 200ft away from the stopping bar. Each scenario has 5 runs with different simulation seed.By comparing the percentile of those four types of red extension among five scenarios, the system is more likely to extend all red as the distance increases; system accuracy will increase first and then decrease; Because detector located at 150ft has the least RNERV value, 2.1%, and least summation of RNERV and RENRV, 6.6%, it can be tentatively concluded that 150 ft is the appropriate position to locate the red extension detector, while the speed limit is 60 MPH in this study.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5694</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7316&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5694</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7316</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467442</context-key>
+<submission-path>utk_gradthes/5694</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tom Urbanik</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

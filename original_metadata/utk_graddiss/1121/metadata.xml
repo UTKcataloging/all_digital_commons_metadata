@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Monte Carlo Simulations of Single-Molecule Fluorescence Detection Experiments</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wrobinso@utsi.edu</email>
+<lname>Robinson</lname>
+<fname>William Neil</fname>
+</author>
+</authors>
+<keywords>
+<keyword>single molecule trapping laser</keyword>
+</keywords>
+<disciplines><discipline>Optics</discipline>
+</disciplines><abstract>&lt;p&gt;Several Monte Carlo simulations of single-molecule fluorescence systems are developed to help evaluate and improve ongoing experiments. In the first simulation, trapping of a single molecule in a nanochannel is studied. Molecules move along the nanochannel by diffusion and electrokinetic flow. Single-molecule fluorescence signals excited by two spatially offset laser beams are detected and the direction of the flow is adjusted to try to equalize the signals and center the molecule between the beams. An algorithm is evaluated for trapping individual molecules in succession by rapidly reloading the trap after a molecule photobleaches or escapes. This is shown to be effective for trapping fast-diffusing single-chromophore molecules in succession within a micron-sized confocal region while accommodating the limited electrokinetic speed and the finite latency of feedback imposed by experimental hardware. In the second simulation, trapping of a molecule in a two-dimensional fluidic device consisting of sub-micron-separated glass plates is studied. Two different illumination schemes for sensing the molecule&#39;s position are compared: (i) a single continuous laser spot circularly scanned at 40 KHz or 240 KHz in the plane of the device; and (ii) four pulsed laser spots arranged in a square and temporally alternated at 304 MHz In either case, the times of detected photons are used by algorithms to control the electrokinetic flow in two dimensions to compensate diffusion and achieve single-molecule trapping. However each scheme is found to have limitations, as circular scanning produces a modulation in the fluorescence signal and in the autocorrelation function, whereas the four-pulse scheme becomes ineffective if the fluorescence lifetime of the molecule is greater than the time between laser pulses, The third simulation investigates appropriate conditions for detection of single molecules flowing through an array of fluidic channels for an application to high-throughput screening for pharmaceutical drug discovery. For parallelized single-molecule detection, illumination is provided by a continuous laser focused to a line intersecting all channels and fluorescence is imaged to a single row of pixels of an electron-multiplying CCD with sufficient gain for single-photon detection. The simulation separately models each channel to determine laser, flow, and camera operating conditions suitable for efficient detection.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1121</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2098&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1121</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2098</articleid>
+<submission-date>2011-03-14T09:18:10-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2098/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1872289</context-key>
+<submission-path>utk_graddiss/1121</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lloyd M. Davis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christian G. Parigger, L. Montgomery Smith, Marianne Breinig, Horce W. Crater</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>1dtrap.mpeg</archive-name>
+<upload-name>1dtrap.mpeg</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2098&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>circular.mpeg</archive-name>
+<upload-name>circular.mpeg</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=2098&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>square.mpeg</archive-name>
+<upload-name>square.mpeg</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=2098&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>multichannel.mpeg</archive-name>
+<upload-name>multichannel.mpeg</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=2098&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

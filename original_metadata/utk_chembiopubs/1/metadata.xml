@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SELF-CONSISTENT MULTISCALE MODELING IN THE PRESENCE OF INHOMOGENEOUS FIELDS</title>
+<publication-date>2009-01-01T00:00:00-08:00</publication-date>
+<state>withdrawn</state>
+<authors>
+<author>
+<email>dkeffer@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Multiscale Modeling</subject-area>
+</subject-areas>
+<keywords>
+<keyword>molecular dynamics</keyword>
+<keyword>inhomogeneous fluid</keyword>
+<keyword>multiscale modeling</keyword>
+<keyword>thermostat</keyword>
+</keywords>
+<disciplines><discipline>Complex Fluids</discipline>
+<discipline>Engineering</discipline>
+<discipline>Membrane Science</discipline>
+<discipline>Nanoscience and Nanotechnology</discipline>
+<discipline>Polymer Science</discipline>
+<discipline>Thermodynamics</discipline>
+<discipline>Transport Phenomena</discipline>
+</disciplines><abstract>&lt;p&gt;Molecular dynamics (MD) simulations of a Lennard–Jones fluid in an inhomogeneous external field generate steady-state profiles of density and pressure with nanoscopic heterogeneities. The continuum level of mass, momentum, and energy transport balances is capable of reproducing the MD profiles only when the equation of state for pressure as a function of density is extracted directly from the molecular level of description. We show that the density profile resulting from simulation is consistent with both a molecular-level theoretical prediction from statistical mechanics as well as the solution of the continuum-level set of differential equations describing the conservation of mass and momentum.&lt;/p&gt;</abstract>
+<fpage>193</fpage>
+<lpage>203</lpage>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/1</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1001&amp;amp;context=utk_chembiopubs&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1001</articleid>
+<submission-date>2010-03-09T08:35:26-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1216842</context-key>
+<withdrawn>2014-02-19</withdrawn>
+<submission-path>utk_chembiopubs/1</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Multiscale Modeling and Simulation</value>
+</field>
+</fields>
+</document>
+</documents>

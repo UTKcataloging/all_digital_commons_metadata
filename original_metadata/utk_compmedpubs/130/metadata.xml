@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An exploratory investigation of geographic disparities of stroke prevalence in Florida using circular and flexible spatial scan statistics</title>
+<publication-date>2019-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Bureau of Chronic Disease Prevention, Division of Community Health Promotion, Florida Department of Health, Tallahassee, Florida</institution>
+<lname>Roberson</lname>
+<fname>Shamarial</fname>
+</author>
+<author>
+<institution>Bureau of Chronic Disease Prevention, Division of Community Health Promotion, Florida Department of Health, Tallahassee, Florida</institution>
+<lname>Dawit</lname>
+<fname>Rahel</fname>
+</author>
+<author>
+<institution>Bureau of Chronic Disease Prevention, Division of Community Health Promotion, Florida Department of Health, Tallahassee, Florida</institution>
+<lname>Moore</lname>
+<fname>Jaleesa</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Odoi</lname>
+<fname>Agricola</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Stroke is a major public health concern due to the morbidity and mortality associated with it. Identifying geographic areas with high stroke prevalence is important for informing public health interventions. Therefore, the objective of this study was to investigate geographic disparities and identify geographic hotspots of stroke prevalence in Florida.    &lt;h3&gt;Materials and methods&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;County-level stroke prevalence data for 2013 were obtained from the Florida Department of Health’s Behavioral Risk Factor Surveillance System (BRFSS). Geographic clusters of stroke prevalence were investigated using the Kulldorff’s circular spatial scan statistics (CSSS) and Tango’s flexible spatial scan statistics (FSSS) under Poisson model assumption. Exact McNemar’s test was used to compare the proportion of cluster counties identified by each of the two methods. Both Cohen’s Kappa and bias adjusted Kappa were computed to assess the level of agreement between CSSS and FSSS methods of cluster detection. Goodness-of-fit of the models were compared using Cluster Information Criterion. Identified clusters and selected stroke risk factors were mapped.    &lt;h3&gt;Results&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Overall, 3.7% of adults in Florida reported that they had been told by a healthcare professional that they had suffered a stroke. Both CSSS and FSSS methods identified significant high prevalence stroke spatial clusters. However, clusters identified using CSSS tended to be larger than those identified using FSSS. The FSSS had a better fit than the CSSS. Most of the identified clusters are explainable by the prevalence distributions of the known risk factors assessed.    &lt;h3&gt;Conclusions&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Geographic disparities of stroke risk exists in Florida with some counties having significant hotspots of high stroke prevalence. This information is important in guiding future research and control efforts to address the problem. Kulldorff’s CSSS and Tango’s FSSS are complementary to each other and should be used together to provide a more complete picture of the distributions of spatial clusters of health outcomes&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_compmedpubs/130</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1129&amp;amp;context=utk_compmedpubs&amp;amp;unstamped=1</fulltext-url>
+<label>130</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1129</articleid>
+<submission-date>2019-11-04T07:55:04-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Biomedical and Diagnostic Sciences</publication-title>
+<context-key>15692038</context-key>
+<submission-path>utk_compmedpubs/130</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="doi" type="string">
+<value>https://doi.org/10.1371/journal.pone.0218708</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>PLOS ONE</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

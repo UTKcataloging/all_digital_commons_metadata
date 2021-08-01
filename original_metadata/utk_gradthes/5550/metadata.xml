@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A STUDY OF DATABASE MIGRATION: UNDERSTANDING THE USER EXPERIENCE</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sshumate@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Shumate</lname>
+<fname>Scott</fname>
+<mname>Eugene</mname>
+</author>
+</authors>
+<keywords>
+<keyword>mental models</keyword>
+<keyword>database migration</keyword>
+<keyword>user experience</keyword>
+</keywords>
+<abstract>&lt;p&gt;This thesis reports on a participatory field study of a database migration project. The purpose of the study is to understand the user experiences in the database migration. Both the field observations during the process and the post-migration user interviews provided valuable data to gain insight into what challenges the users faced and how they adapted to the new database. The findings suggest that the users were generally positive about the new database, although they were still not entirely confident about the system’s outputs or certain functions. They developed strategies to ensure data accuracy: keeping paper archives to check outputs and postponing implementation of certain modules. Some of the challenges were due to the missing vital steps in data migration, such as data migration without performing data cleaning first. The year-long learning and interaction with the database have not resulted in a coherent mental model of the database; the contributing factors include 1) the complexity of the back-end database schema, 2) the inclusive all-in-one front-end interface design, and 3) the disadvantage of the generic trainer-based training sessions held before the data migration. From this study, we provide five recommendations for a robust data migration process: 1) data cleaning before migration, 2) incorporating elements to help build adequate mental models, 3) training on the migrated real database (never on a demo database), 4) customizability to hide unused tabs and functions, 5) creating task-based user guides.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5550</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7084&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5550</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7084</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409588</context-key>
+<submission-path>utk_gradthes/5550</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Peiling Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Diane Kelly, Awa Zhu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Information Sciences</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

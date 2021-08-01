@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Control Oriented Nonlinear Model Reduction for Distributed Parameter Systems</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ssahyoun@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Sahyoun</lname>
+<fname>Samir</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Model Reduction</keyword>
+<keyword>Distributed Parameter Systems</keyword>
+<keyword>Optimal Control</keyword>
+<keyword>Proper Orthogonal Decomposition</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+</disciplines><abstract>&lt;p&gt;The development of model reduction techniques for physical systems modeled by partial differential equations (PDEs) has been a very active research area. Large number of states is needed to accurately capture the dynamics of such systems which makes them unsuitable for control design. The order of the system must be reduced prior to control design. In this dissertation, new methods that generalize the popular proper orthogonal decomposition (POD) to nonlinear PDEs are investigated. In particular, cluster based POD algorithms are developed and applied to the one and two dimensional Burgers equations that govern a nonlinear convective ow. Each cluster contains relatively close in distance dynamic behavior within itself, and considerably far with respect to other clusters. Three different clustering schemes in time, space and space-time are proposed. A complete and detailed approach for the Orthogonal Locality Preserving Projections (OLPP) modes computation for the incompressible Navier-Stokes PDE that governs the dynamics of the NACA 0015 airfoil fluid flow is presented. Close snapshots in the full order model are forced to stay close in the reduced order model by defining an optimization problem that preserves local distances. Optimal boundary control laws are derived based on the proposed nonlinear reduced order models, and applied to various distributed parameter systems including: Nonlinear convection, temperature control in energy efficient buildings systems governed by the heat equation, power and voltage control in large electromechanical oscillations in the power grid governed by the wave equation, and ow separation control for fluid flows governed by the Navier-Stokes equations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4492</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6005&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4492</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6005</articleid>
+<submission-date>2017-04-16T17:54:27-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10026097</context-key>
+<submission-path>utk_graddiss/4492</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Suzanne Lenhart, Husheng Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

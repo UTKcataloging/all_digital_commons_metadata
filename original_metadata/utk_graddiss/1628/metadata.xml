@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analysis of the Behavior of Steel Liner Anchorages</title>
+<publication-date>1981-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Armentrout</lname>
+<fname>Daryl</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study was to analyze the load-deflection behavior of liner anchorage systems used in the design and construction of steel-lined concrete containment structures in nuclear power plants. Both and angle, 3 x 3 x 1/4 inch, and structural tee, WT 4X7.5, embedded in concrete were analyzed using two dimensional plane stress finite element models. Specifically the PAFEC 75 computer program with its bilinear stress-strain capability was used. The intent of this investigation was to produce analytically similar results to those measured in anchorage tests conducted by The University of Tennessee, Knoxville.&lt;/p&gt;
+&lt;p&gt;These tests produced curves of the load-deflection behavior that increased nonlinearly in deflection under increasing load to a maximum and then fell off with increasing deflection as the load decreased. The primary focus of this investigation was to demonstrate that analytically one can generate accurate load-deflection curves up to the maximum or &quot;peak.&quot;&lt;/p&gt;
+&lt;p&gt;Five different analyses were made. Four of these were variations in the angle anchorage system and the fifth was an analysis of a structural tee. The comparison between the analytical and test results showed very close agreement in the ascending region of the load-deflection curve. As the analysis approached &quot;peak,&quot; it was not possible to analytically describe the crown of the curve simply with the bilinear capabilities of the finite element program.&lt;/p&gt;
+&lt;p&gt;In large measure, crushing of the concrete occurs as the load approached the maximum &quot;peak.&quot; In order to make rough approximations of this behavior, this investigation used a series of successive analyses where selected elements of the concrete mesh were eliminated. The elements that were eliminated for successive analyses were the first ones to reach strains where crushing of the concrete could occur. This approach appeared to give very conservative results compared to the test data. But, these analyses would be expected to give larger deflection that if the material could be modeled with changing properties of concrete crushing.&lt;/p&gt;
+&lt;p&gt;It is recommended that additional research be done to analytically predict the crushing behavior of concrete, particularly in the declining portion of the load-deflection curve. Also, the techniques used in describing the finite element mesh have practical application for use by investigators who wish to study other anchorage types and sizes. The ease in data preparation of the PAFEC 75 finite element program and the specific boundary conditions described between the anchor and concrete has practical application for future investigations. Specifically, this means that the interfaces between the anchor and concrete and the liner plate and concrete were described by the finite element mesh so that tensile and shear forces would not develop, which cannot happen in the test case.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1628</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3129&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1628</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3129</articleid>
+<submission-date>2013-07-12T14:17:09-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4310722</context-key>
+<submission-path>utk_graddiss/1628</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Edwin G. Burdette</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. E. Aiken, G. W. Goodpasture, C. W. Lee</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>1981-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

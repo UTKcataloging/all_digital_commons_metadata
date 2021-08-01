@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis and Control of VSC Based HVDC System under Single-Line-to-Ground Fault Conditions</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xshi5@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shi</lname>
+<fname>Xiaojie</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MMC</keyword>
+<keyword>HVDC</keyword>
+<keyword>Multiterminal HVDC</keyword>
+<keyword>unbalanced conditions</keyword>
+<keyword>fault-tolerant control</keyword>
+<keyword>startup</keyword>
+<keyword>cascaded droop control</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;To take full advantage of multilevel modular converter (MMC) and extend its application in high voltage direct current (HVDC) transmission systems, the ability to deal with severe unbalanced conditions, especially under single-line-to-ground (SLG) fault, is a key requirement.&lt;/p&gt;
+&lt;p&gt;This dissertation deals with the development of a fault handling strategy, which helps HVDC systems achieve continuous energy supply and desired operation performance under temporary SLG fault conditions while ensuring a smooth and fast black start for MMC-HVDC particularly if the system has to shut down when a permanent SLG fault occurs. Several related research topics will be discussed in this dissertation.&lt;/p&gt;
+&lt;p&gt;First, a steady-state model of MMC for second order phase voltage ripple prediction under unbalanced conditions is proposed. From the steady-state model, a circular relationship is found to evaluate the magnitudes and initial phase angles of different circulating current components. Moreover, the derivation of the equivalent dc impedance of a MMC is discussed as well.&lt;/p&gt;
+&lt;p&gt;Second, the analysis and control of a MMC based HVDC transmission system under three possible SLG fault conditions are discussed. Based on the derived steady state model, a novel double line frequency dc voltage ripple suppression control is proposed. This controller, together with the phase and circulating current control, could enhance the overall fault-tolerant capability of the HVDC system without additional costs.&lt;/p&gt;
+&lt;p&gt;Third, the small signal model of the capacitor charging loop in a MMC inverter is first derived according to the internal dynamics of the MMC inverter. Based on this model, a novel startup strategy incorporating an averaging capacitor voltage loop and a feedforward control is proposed for enhanced dynamic response and system stability.&lt;/p&gt;
+&lt;p&gt;Finally, a cascaded droop control scheme is proposed for multi-terminal HVDC systems to deal with dc overvoltage under onshore converter side SLG fault. Using ac voltage magnitude as an intermediate variable, the dc voltage information of offshore converters can be transferred to windfarms (WFs) and v adjust their active power generation without any communication. With such control scheme, performance of the studied four-terminal HVDC system under various fault conditions are analyzed and compared.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3608</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5048&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3608</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5048</articleid>
+<submission-date>2015-10-25T13:05:36-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7761548</context-key>
+<submission-path>utk_graddiss/3608</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Fangxing Li, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

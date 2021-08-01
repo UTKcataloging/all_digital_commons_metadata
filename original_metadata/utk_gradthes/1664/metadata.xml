@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Traffic Signal Phase Truncation in the Event of Traffic Flow Restriction</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Beaird</lname>
+<fname>Scott</fname>
+<mname>Glenn</mname>
+</author>
+</authors>
+<disciplines><discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents a proposed improvement to traffic signal controller logic. The concept consists of truncating a phase on which there is demand but zero or minimal flow due to a restriction of traffic. The logic presented in this thesis recognizes such a flow restriction and, consequently, terminates the phase in favor of a conflicting call for service. The theory of the concept is addressed and methods of implementation are explored.&lt;/p&gt;
+&lt;p&gt;An experimental analysis was conducted in order to qualify the benefit of the phase truncation concept. This analysis was conducted using the VISSIM simulation software in conjunction with a hardware-in-the-loop configuration. This permitted the simulation to be run using an actual traffic signal controller. The simulation analysis was conducted using an eight-phase actuated intersection. Based upon the results of this analysis, it was concluded that the phase truncation concept could result in reduced vehicle delay.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1664</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3051&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1664</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3051</articleid>
+<submission-date>2013-08-09T13:45:30-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3051/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4415378</context-key>
+<submission-path>utk_gradthes/1664</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Thomas Urbanik II</value>
+</field>
+<field name="advisor2" type="string">
+<value>Arun Chatterjee, Lee D. Han</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

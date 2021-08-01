@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Positive Identification via Frontal Sinus Morphology: A Geographic Information Systems (GIS) Approach</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Watson</lname>
+<fname>Jenna</fname>
+<mname>Mackenzie</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Geographic Information Systems</keyword>
+<keyword>Frontal Sinus</keyword>
+<keyword>Human Identification</keyword>
+</keywords>
+<abstract>&lt;p&gt;Frontal sinus radiographs are frequently used to identify human remains. However, the method of visually comparing antemortem (AM) to postmortem (PM) cranial radiographs has been critiqued for its lack of sufficient error rates and the potential of practitioner training, experience, and education to influence results (Page, et al. 2011). In an effort to provide a more quantifiable method of frontal sinus identification, this thesis explored the use of the ArcGIS mapping software, ArcMap, and its spatial analyst tool, Similarity Search, for identifying frontal sinus matches. AM and PM cranial radiographs for 100 donors from the William M. Bass Donated Skeletal Collection and the Forensic Skeletal Collection at the University of Tennessee, Knoxville were organized into test groups containing one PM radiograph and ten AM radiographs and were uploaded into ArcMap 10.5 (ESRI 2018). Each frontal sinus was digitized using the Create Features tool, and the area and perimeter was calculated for the resulting polygons using the Calculate Geometry tool. For each test group, the Similarity Search tool was instructed to select the AM frontal sinus polygon that was most similar to the PM frontal sinus polygon based on the area and perimeter values. The percentage of correct matches by Similarity Search was calculated and statistical analyses were conducted to assess inter-observer and intra-observer variation, and to establish a threshold of similarity index values for correctly identified polygons. The results indicate that area and perimeter do not capture shape, only size. Based on these results it is concluded that for this method to be usable in forensic casework, more analyses will need to be included that provide Similarity Search with more characteristics than just area and perimeter and provide Similarity Search with information about the shape of the polygons.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5348</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6758&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5348</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6758</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343040</context-key>
+<submission-path>utk_gradthes/5348</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Amy Mundorff</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee Meadows Jantz, Michael Kenyhercz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Arts</value>
+</field>
+<field name="department" type="string">
+<value>Anthropology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

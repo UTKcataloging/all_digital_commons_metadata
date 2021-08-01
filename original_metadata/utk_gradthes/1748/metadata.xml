@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>“Design, Development and Characterization of a Thermal Sensor Brick System for Modular Robotics</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Naik</lname>
+<fname>Nikhil</fname>
+<mname>Arun</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the work on thermal imaging sensor brick (TISB) system for modular robotics. The research demonstrates the design, development and characterization of the TISB system. The TISB system is based on the design philosophy of sensor bricks for modular robotics. In under vehicle surveillance for threat detection, which is a target application of this work we have demonstrated the advantages of the TISB system over purely vision-based systems. We have highlighted the advantages of the TISB system as an illumination invariant threat detection system for detecting hidden threat objects in the undercarriage of a car. We have compared the TISB system to the vision sensor brick system and the mirror on a stick. We have also illustrated the operational capability of the system on the SafeBot under vehicle robot to acquire and transmit the data wirelessly.&lt;/p&gt;
+&lt;p&gt;The early designs of the TISB system, the evolution of the designs and the uniformity achieved while maintaining the modularity in building the different sensor bricks; the visual, the thermal and the range sensor brick is presented as part of this work. Each of these sensor brick systems designed and implemented at the Imaging Robotics and Intelligent Systems (IRIS) laboratory consist of four major blocks: Sensing and Image Acquisition Block, Pre-Processing and Fusion Block, Communication Block, and Power Block. The Sensing and Image Acquisition Block is to capture images or acquire data. The Pre-Processing and Fusion Block is to work on the acquired images or data. The Communication Block is for transferring data between the sensor brick and the remote host computer. The Power Block is to maintain power supply to the entire brick. The modular sensor bricks are self-sufficient plug and play systems. The SafeBot under vehicle robot designed and implemented at the IRIS laboratory has two tracked platforms one on each side with a payload bay area in the middle. Each of these tracked platforms is a mobility brick based on the same design philosophy as the modular sensor bricks. The robot can carry one brick at a time or even multiple bricks at the same time.&lt;/p&gt;
+&lt;p&gt;The contributions of this thesis are: (1) designing and developing the hardware implementation of the TISB system, (2) designing and developing the software for the TISB system, and (3) characterizing the TISB system, where this characterization of the system is the major contribution of this thesis. The analysis of the thermal sensor brick system provides the user and future designers with sufficient information on parameters to be considered to make the right choice for future modifications, the kind of applications the TISB could handle and the load that the different blocks of the TISB system could manage. Under vehicle surveillance for threat detection, perimeter / area surveillance, scouting, and improvised explosive device (IED) detection using a car-mounted system are some of the applications that have been identified for this system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1748</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3099&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1748</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3099</articleid>
+<submission-date>2013-08-23T09:10:22-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4490987</context-key>
+<submission-path>utk_gradthes/1748</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>David L. Page, Michael J. Roberts</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

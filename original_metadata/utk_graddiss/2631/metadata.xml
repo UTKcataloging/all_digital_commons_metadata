@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of Si Device Based Power Converters for High Temperature Operation in HEV Applications</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zxu11@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xu</lname>
+<fname>Zhuxian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>high temperature</keyword>
+<keyword>Si IGBT</keyword>
+<keyword>power electronics</keyword>
+<keyword>traction inverter</keyword>
+<keyword>reduced cooling</keyword>
+<keyword>hybrid electric vehicle</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, the feasibility of operating Si devices at 200 ˚C [degree Celsius] is investigated and the guidelines on the development of a high temperature Si converter for operating with 105 ˚C high temperature liquid coolant in hybrid electrical vehicle (HEV) applications are provided.&lt;/p&gt;
+&lt;p&gt;First, the characterization of a Si IGBT operating at 200 ˚C junction temperatures is presented. It is shown that the commercial 175 ˚C Si IGBT under test can be successfully switched at an elevated junction temperature of 200 ˚C with increased but acceptable losses.&lt;/p&gt;
+&lt;p&gt;Second, a comprehensive evaluation of Si IGBT ruggedness at high temperature operation is provided through experiments. The important criteria considering latch-up immunity, short circuit capability, and avalanche capability are given to ensure the safe and reliable operation of Si IGBTs at 200 ˚C.&lt;/p&gt;
+&lt;p&gt;Third, the feasibility of operating Si devices based converters continuously at the junction temperature of 200 ˚C is demonstrated. A Si IGBT phase-leg module is developed for 200 ˚C operation utilizing high temperature packaging technologies and appropriate thermal management.&lt;/p&gt;
+&lt;p&gt;Fourth, a method is proposed to measure the junction temperatures of IGBTs during the converter operation using IGBT short circuit current. The calibration experiments show that the short circuit current has good sensitivity, linearity and selectivity, making the method suitable for use as temperature sensitive electrical parameter (TSEP). By connecting a temperature measurement unit to the converter and giving a short circuit pulse during the converter operation, the IGBT junction temperature can be measured.&lt;/p&gt;
+&lt;p&gt;Fifth, a 30 kW Si IGBT based three-phase converter has been developed for operating at the junction temperature of 200 ˚C with the high temperature coolant in HEV applications. The experimental results demonstrate that the three-phase converter can operate at junction temperature of 200 ˚C with the 105 ˚C high temperature coolant, thus eliminating the need for the additional 65 ˚C coolant in HEV.&lt;/p&gt;
+&lt;p&gt;Additionally, the emerging 600 V GaN HEMT is investigated as a potential replacement of Si devices for high efficiency and high temperature in future HEV applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2631</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3785&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2631</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3785</articleid>
+<submission-date>2013-10-13T21:52:09-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4703108</context-key>
+<submission-path>utk_graddiss/2631</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Zhenxian Liang, Rao Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

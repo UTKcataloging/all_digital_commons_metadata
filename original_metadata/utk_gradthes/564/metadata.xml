@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accelerated CTIS Using the Cell Processor</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Thompson</lname>
+<fname>Thaddeus</fname>
+<mname>James</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The Computed Tomography Imaging Spectrometer (CTIS) is a device capable of simultaneously acquiring imagery from multiple bands of the electromagnetic spectrum. Due to the method of data collection from this system, a processing intensive reconstruction phase is required to resolve the image output. This paper evaluates a parallelized implementation of the Vose-Horton CTIS reconstruction algorithm using the Cell processor. In addition to demonstrating the feasibility of a mixed precision implementation, it is shown that use of the parallel processing capabilities of the Cell may provide a signicant reduction in reconstruction time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/564</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1596&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>564</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1596</articleid>
+<submission-date>2010-03-01T10:17:57-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1182640</context-key>
+<submission-path>utk_gradthes/564</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Vose</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Michael Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

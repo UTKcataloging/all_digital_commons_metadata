@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparison of Bit Error Rate and Power Spectral Density on the Ultra Wideband Impulse Radio Systems</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sezer</lname>
+<fname>Ömer</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Ultra-Wideband (UWB) is defined as a wireless transmission scheme that occupies a bandwidth of more than 25% of its center frequency. UWB Impulse Radio (UWB-IR) is a popular implementation of the UWB technology. In UWB-IR, information is encoded in baseband without any carrier modulation. Pulse shaping and baseband modulation scheme are two of the determinants on the performance of the UWB-IR.&lt;/p&gt;
+&lt;p&gt;In this thesis, both temporal and spectral characteristics of the UWB-IR are examined because all radio signals exist in both the time and frequency domains. Firstly, the bit error rate (BER) performance of the UWB-IR is investigated via simulation using three modulation schemes: Pulse position modulation (PPM), on-off shift keying (OOK), and binary phase shift keying (BPSK). The results are verified for three different pulse shaping named Gaussian first derivative, Gaussian second derivative, and return-to-zero (RZ) Manchester. Secondly, the effects of the UWB-IR parameters on the power spectral density (PSD) are investigated because PSD provides information on how the power is distributed over the radio frequency (RF) spectrum and determines the interference of UWB-IR and the existing systems to each other in the spectrum. The investigated UWB-IR parameters include pulse duration, pulse repetition rate, modulation scheme, and pseudorandom codes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2211</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3614&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2211</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3614</articleid>
+<submission-date>2013-10-10T12:15:54-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4693492</context-key>
+<submission-path>utk_gradthes/2211</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mostofa Howlader</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul B. Crilly, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

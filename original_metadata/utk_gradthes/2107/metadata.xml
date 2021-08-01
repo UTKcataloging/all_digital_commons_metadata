@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Isosurface Extraction in the Visualization Toolkit Using the Extrema Skeleton Algorithm</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mahaadevan</lname>
+<fname>Subha</fname>
+<mname>Parvathy</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Generating isosurfaces is a very useful technique in data visualization for understanding the distribution of scalar data.  Often, when the size of the data set is really large, as in the case with data produced by medical imaging applications, engineering simulations or geographic information systems applications, the use of traditional methods like marching cubes makes repeated generation of isosurfaces a very time consuming task.  This thesis investigated the use of the Extrema Skeleton algorithm to speed up repeated isosurface generation in the visualization package, Visualization Toolkit (VTK).  The objective was to reduce the number of non-isosurface cells visited to generate isosurfaces, and to compare the Extrema Skeleton method with the Marching Cubes method by monitoring parameters like time taken for the isosurfacing process and number of cells visited.  The results of this investigation showed that the Extrema Skeleton method was faster for most of the datasets tested.  For simple datasets with less than 10% isosurface cells and complex datasets with less than 5% isosurface cells, the Extrema Skeleton method was found to be significantly faster than the Marching Cubes method.  The time gained by the Extrema Skeleton method for datasets with greater than 15% isosurface cells was found to be insignificant.  Based on the results of this study, implementing the Extrema Skeleton method for the VTK software is a change worth making because typical VTK users deal with datasets for which the Extrema Skeleton method is significantly faster and also with datasets for which it is marginally faster than the Marching Cubes method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2107</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3470&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2107</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3470</articleid>
+<submission-date>2013-10-04T13:25:38-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4671762</context-key>
+<submission-path>utk_gradthes/2107</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce A. Whitehead</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth R. Kimble, L. Montgomery Smi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

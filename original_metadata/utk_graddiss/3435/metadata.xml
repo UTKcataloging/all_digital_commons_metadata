@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>QUANTITATIVE AND FUNCTIONAL ANALYSIS PIPELINE FOR LABEL-FREE METAPROTEOMICS DATA AND ITS APPLICATIONS</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>llee27@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lee</lname>
+<fname>Lang Ho</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Metaproteomics</keyword>
+<keyword>Mass spectrometry</keyword>
+<keyword>Quantitative analysis</keyword>
+<keyword>Functional analysis</keyword>
+<keyword>Cohen&#39;s effect sizes</keyword>
+<keyword>Quasi-Poisson</keyword>
+</keywords>
+<disciplines><discipline>Biochemistry</discipline>
+<discipline>Bioinformatics</discipline>
+<discipline>Integrative Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Since the large-scale metaproteome was first reported in 2005, metaproteomics has advanced at a tremendous rate both in its quantitative and qualitative metrics. Furthermore metaproteomics is now being applied as a general tool in microbial ecology in a large variety of environmental studies. Though metaproteomics is becoming a useful and even a standard tool for the microbial ecologist, standardized bioinformatics pipelines are not readily available. Therefore, we developed quantitative and functional analysis pipeline for metaproteomics (QFAM) to help analyze large and complicated metaproteomics data in a robust and timely fashion with outputs designed to be simple and clearly understood by the microbial ecologist.&lt;/p&gt;
+&lt;p&gt;QFAM starts by running peptide-spectrum searches against resultant MS/MS datasets with mixed metagenome/appropriate protein FASTA database. Its primary search algorithm is MyriMatch/IDPicker. MyriMatch/IDPicker uses multi-CPUs effectively, has an accurate scoring-system, correctly use the high MS accuracy data, and finally has a robust method for protein determination. These are required features for metaproteomics requiring large protein database and complicated peptide-structure.&lt;/p&gt;
+&lt;p&gt;QFAM has quantitative (QAM) and functional (FAM) analysis to provide dependable protein signatures and confident information for understanding the characteristics of the metaproteome. QAM employs a ’selfea’ R package, which provides probability models as well as Cohen’s effect sizes. Our benchmark data test and Monte Carlo simulation results show that selfea can reduce false positives efficiently while losing few true positives; one of the key goals of proteomics and/or metaproteomics experiments.&lt;/p&gt;
+&lt;p&gt;FAM has two modules: BioSystems and COG analysis. The BioSystems module is most appropriate for well-annotated model organisms, such as humans, whereas the COG module is useful for less-annotated microorganisms and metagenome sequences. Both modules provide an enrichment test using Fisher’s exact-test and a significance test using selfea. With two statistics, FAM generates differentially enriched functional terms that are insightful for discerning biological information held behind the metaproteome data.&lt;/p&gt;
+&lt;p&gt;Two application studies in chapter 4 and 5 show how QFAM can be employed for metaproteomics data analysis. QFAM is distinguished from other proteomics pipelines by multiprocessing as well as quantitative and functional analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3435</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4933&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3435</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4933</articleid>
+<submission-date>2015-06-19T12:09:16-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4933/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7238169</context-key>
+<submission-path>utk_graddiss/3435</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nathan C. VerBerkmoes, Tim E. Sparer</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tamah Fridman, Arnold M. Saxton, Chongle Pan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling adsorption and diffusion of atomic oxygen on the Ag(111) surface using kinetic Monte Carlo simulations</title>
+<publication-date>2018-05-16T14:52:28-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sstreet7@vols.utk.edu</email>
+<lname>Street</lname>
+<fname>Seth Spencer</fname>
+</author>
+<author>
+<email>sharani.roy@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Roy</lname>
+<fname>Sharani</fname>
+</author>
+<author>
+<email>sisbill@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Isbill</lname>
+<fname>Sara</fname>
+</author>
+</authors>
+<disciplines><discipline>Physical Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;Oxidized silver surfaces are widely used as industrial heterogeneous catalysts to oxidize small organic compounds, such as ethylene. While surface-adsorbed oxygen is known to participate in catalysis, it has been suggested that ‘subsurface’ oxygen adsorbed in the near-surface region of silver also plays important roles in surface reconstruction and reactivity. However, the formation, motion, and chemical behavior of subsurface oxygen in silver are not well understood. In the present work, a kinetic Monte Carlo (KMC) simulation has been developed using the Python programming language to computationally model the diffusion kinetics of atomic oxygen (AO) at the Ag(111) surface. This simulation allows AO to move between various high-symmetry sites on the surface and in the subsurface of Ag(111). The diffusion rates required for the simulation have been calculated using density functional theory (DFT). The DFT-KMC simulation determines the relative populations of surface oxygen versus subsurface oxygen at various surface temperatures and oxygen coverages, promoting better understanding of the catalyst structure under different reaction conditions. Overall, our kinetic model describes the adsorption and diffusion of oxygen at both the surface and subsurface and helps to elucidate the role of subsurface oxygen in the structural and catalytic properties of silver.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2018/artsandsciences/4</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1200&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1200</articleid>
+<submission-date>2018-04-24T16:30:29-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>12016109</context-key>
+<submission-path>utk_eureca/2018/artsandsciences/4</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Arts &amp; Sciences</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Sharani Roy</value>
+</field>
+<field name="year" type="date">
+<value>2018-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

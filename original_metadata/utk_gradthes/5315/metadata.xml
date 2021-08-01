@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An information management system for a large-scale biological collaboration</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Wang</lname>
+<fname>Hsin-Neng</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The main goal of this project is to design and construct a collaborative information management system to promote the research of the Integrative Neuroscience Initiative on Alcoholism (INIA), a consortium formed to explore the neural mechanisms that link stress, anxiety and excessive alcohol consumption. Building this collaborative bioinformatics system across geographic and disciplinary barriers poses several challenges. We are developing several systems to gather and analyze data from the different INIA researchers. The INIA Core System (INIACS) has been designed and developed to support the exchange of data about samples and results between the core analysis labs and the research labs that request services from the cores. This system is also testing a method of storing data using a compromise between XML (Extensible Markup Language) and RDBMS (Relational Database Management System) technologies. This compromise can give us the architectural flexibility to adapt to the evolution of the data models for the different kinds of biological data that this INIA consortium will produce. Moreover, the design allows for robust data integration, especially around the genes and gene products that are identified in different data sets.  The INIACS is currently implemented in Oracle 8i RDBMS and a user-interface has been developed in the PHP4 programming language. This thesis discusses the requirements, which are needed to develop this information management system and then presents the INIACS&#39; design and implementation phases in detail.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5315</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6723&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5315</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6723</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847266</context-key>
+<submission-path>utk_gradthes/5315</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Frank Larimer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

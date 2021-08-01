@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>PC-based control of the Andros Mark VI hazardous duty mobile robot</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Srikantaiah</lname>
+<fname>Arun</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Teleoperation refers to the remote control of a robotic manipulator or a vehicle. A telerobot is a device that extends a person&#39;s sensing or manipulating ability to a remote location that is controlled by a computer and supervised by a human operator. This thesis describes the development of a PC- based control architecture for the Andros Mark VI hazardous duty mobile robot. The Andros is widely used in a wide variety of hazardous tasks by law enforcement agencies throughout the world. These include explosives handling SWAT operations, HazMat response and nuclear surveillance / maintenance. In this context the present control scheme was found to be inadequate with reference to operator friendliness which greatly affects the operation of the robot. PC based control was incorporated to the robot using RS-232 and serial communications. A user friendly interface was built using the Visual Basic programming language. This new interface duplicates all the existing functions found on the current control box thus giving way to a new and improved computer interface. The thesis also briefly examines the suitability of the Sequential Modular Architecture for Robotic Teleoperation (SMART) to the control of the Andros Robot and discusses future applications like web-based control.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5999</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7632&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5999</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7632</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467661</context-key>
+<submission-path>utk_gradthes/5999</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Reid L. Kress</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Tyler A. Kress</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

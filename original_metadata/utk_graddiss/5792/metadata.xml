@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Variational Numerical Framework for Dynamic Damage and Nonlinear Material Interfacial Mechanics</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>saduloju@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Aduloju</lname>
+<fname>Sunday</fname>
+<suffix>Aduloju</suffix>
+</author>
+</authors>
+<abstract>&lt;p&gt;This dissertation presents the derivation of a robust numerical framework for treating strong and weak discontinuities in dynamic damage and nonlinear material interfacial mechanics. The derivation relies on the variational multiscale (VMS) approach to transform an underlying Lagrange multiplier interface formulation into a primal field formulation with characteristic enhanced stability. This enhanced stability is obtained from the additional resolution of the fine scale fields that are unresolved by the coarse scale fields. Perhaps the most attractive feature of the Variational Multiscale Discontinuous Galerkin method (VMDG) is that the stability tensor is consistently derived and incorporates the effect of element shapes and varying material properties across the interface into the formulation. The formulations are presented for both infinitesimal and finite strain kinematics.The focus of this research is to provide a unifying approach for the treatment of evolving discontinuities and enforcement of interfacial kinematic constraint. The method’s distinctive feature for damage problems is its treatment of the inelastic gap at the interface as an internal variable that is evolved through a traction-separation constitutive model, enabling initially perfect adhesion to be captured. The method avoids artificial compliance issues allowing for larger explicit critical time step. A meshing algorithm for generating periodic finite element meshes on domain’s boundary is developed, enabling enforcement of periodic boundary conditions on conforming and non-conforming meshes of representative volume element (RVE). The meshing algorithm also enables modeling of microscale damage and grain boundary sliding in true RVE instantiations of polycrystalline microstructure. Next, the VMDG formulation is derived for microscale modeling of conforming and non-conforming RVE meshes where the product of the applied volume-average strain and the domain diameter acts as an imposed displacement jump within the VMDG term. A thermodynamically based derivation of an elastoplastic damage weak form expression for VMDG is obtained from finding the stationary conditions of the time-discretized total free energy functional. Several numerical tests are conducted across a range on nonlinear interface mechanics, and their results are compared with experiments and existing numerical results in the literature to showcase the features, robustness and accuracy of the method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5792</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7558&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5792</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7558</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419700</context-key>
+<submission-path>utk_graddiss/5792</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy Truster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Reza Abedi, Khalid Alshibli, Mark Denavit</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/Sunday Christopher Aduloju</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

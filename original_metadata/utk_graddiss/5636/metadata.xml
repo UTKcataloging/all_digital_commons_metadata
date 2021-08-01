@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Learning Topologies of Acyclic Networks with Tree Structures</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Sepehr</lname>
+<fname>Firoozeh</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Network Topology Identification</keyword>
+<keyword>Linear Dynamic Networks</keyword>
+<keyword>Stochastic Processes</keyword>
+<keyword>Graphical Models</keyword>
+<keyword>Tree Structures</keyword>
+<keyword>Network Topology Approximation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Network topology identification is known as the process of revealing the interconnections of a network where each node is representative of an atomic entity in a complex system. This procedure is an important topic in the study of dynamic networks since it has broad applications spanning different scientific fields. Furthermore, the study of tree structured networks is deemed significant since a large amount of scientific work is devoted to them and the techniques targeting trees can often be further extended to study more general structures. This dissertation considers the problem of learning the unknown structure of a network when the underlying topology is a directed tree, namely, it does not contain any cycles.The first result of this dissertation is an algorithm that consistently learns a tree structure when only a subset of the nodes is observed, given that the unobserved nodes satisfy certain degree conditions. This method makes use of an additive metric and statistics of the observed data only up to the second order. As it is shown, an additive metric can always be defined for networks with special dynamics, for example when the dynamics is linear. However, in the case of generic networks, additive metrics cannot always be defined. Thus, we derive a second result that solves the same problem, but requires the statistics of the observed data up to the third order, as well as stronger degree conditions for the unobserved nodes. Moreover, for both cases, it is shown that the same degree conditions are also necessary for a consistent reconstruction, achieving the fundamental limitations. The third result of this dissertation provides a technique to approximate a complex network via a simpler one when the assumption of linearity is exploited. The goal of this approximation is to highlight the most significant connections which could potentially reveal more information about the network. In order to show the reliability of this method, we consider high frequency financial data and show how well the businesses are clustered together according to their sector.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5636</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7282&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5636</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7282</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911685</context-key>
+<submission-path>utk_graddiss/5636</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donatello Materassi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Langston, Seddik Djouadi, Hamparsum Bozdogan</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2182-7934</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

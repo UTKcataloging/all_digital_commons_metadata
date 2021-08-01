@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Residual Stress Effects on Fatigue Life via the Stress Intensity Parameter, K</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Roberts</lname>
+<fname>Jeffrey</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;Residual stresses are known to have a significant effect on fatigue crack propagation and thus fatigue life. These effects have generally been quantified through an empirical approach, lending little help in the quantitative prediction of such effects. The weight function method has been used as a quantitative predictor, but its use neglects residual stress redistribution, treating the residual stress as a constant during crack growth. At least three different behaviors contribute to the redistribution of residual stress. First, the residual stress behind the crack tip is reduced to a negligible level as soon as the crack tip passes. Second, the residual stress tends to redistribute away from the crack tip with crack growth, and third, crack growth results in an overall relaxation of residual stress.&lt;/p&gt;
+&lt;p&gt;An alternative method for predicting the effect of a residual stress distribution on fatigue crack growth is herein developed. The stress intensity factor due to residual stress, Kres, is characterized as the change in crack driving force due to the presence of the residual stress. This crack driving force, being the derivative of a potential, is found through superposition of an applied stress and a residual stress, and subsequent manipulation of finite element strain energy and nodal displacement results.&lt;/p&gt;
+&lt;p&gt;Finite element modeling is carried out using a spatial distribution of non-uniform thermal expansion coefficients and a unit temperature load to simulate the desired residual stress. Crack growth is then achieved through use of a node release algorithm which sequentially removes nodal displacement constraint. The complete stress distribution, nodal displacements and internal strain energy are captured for each increment of crack growth, and from this information, knowledge of the stress intensity factor as a function of crack length is derived.&lt;/p&gt;
+&lt;p&gt;Results of the Kres calculations are used in a fatigue crack growth model to predict fatigue lives. The fatigue life model involves step by step analysis of crack growth increment based on knowledge of stress intensity factors resulting from applied and residual stress. The qualitative effects of residual stress predicted by this model agree with documented empirical results which show that compressive residual stress increases fatigue life, while tensile residual stress decreases fatigue life.&lt;/p&gt;
+&lt;p&gt;Two solutions for Kres are possible, depending on the choice of loadcontrol or displacement-control modeling. Use of displacement-control, or fixed displacement loading, minimizes redistribution of residual stress and, under net tensile loading, tends to lead to more conservative fatigue life predictions. Load-control modeling, not having the same displacement constraint, allows more relaxation of the residual stress and tends to provide the more non-conservative life estimates.&lt;/p&gt;
+&lt;p&gt;Three residual stress patterns, two due to welding and one to shot peening, are also investigated. Kres solutions for each residual stress are developed, and fatigue life predictions made. Regression analyses on the parameters defining the residual stress patterns indicate that, within the range specified for these parameters, the residual stress half-width plays a significant role in fatigue life, while the initial stress amplitude may be of less importance.&lt;/p&gt;
+&lt;p&gt;The conclusions reached in this research are as follows: The effect of residual stress on fatigue life can be quantified by the energy methods detailed herein. Weight function methods for predicting fatigue lives fail to account for residual stress redistribution, which can have a significant effect. Knowledge of Kres allows subsequent predictions of fatigue life via a simple superposition of applied and residual stress intensity factors, and enables further investigation of relevant residual stress parameters and their effects. The ability to analytically vary residual stress parameters and quantify their effects on fatigue life could prove to be a significant design aid. Based on these conclusions, it is recommended that further development of the energy methods, as presented here, be pursued.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2196</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3663&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2196</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3663</articleid>
+<submission-date>2013-10-08T11:35:59-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4684194</context-key>
+<submission-path>utk_graddiss/2196</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John D. Landes</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. A. M. Boulet, Charlie R. Brooks, Niann-i (Allen) Yu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

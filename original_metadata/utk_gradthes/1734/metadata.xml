@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>System-on-Chip Design and Test with Embedded Debug Capabilities</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Marwah</lname>
+<fname>Tushti</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this project, I started with a System-on-Chip platform with embedded test structures. The baseline platform consisted of a Leon2 CPU, AMBA on-chip bus, and an Advanced Encryption Standard decryption module. The basic objective of this thesis was to use the embedded reconfigurable logic blocks for post-silicon debug and verification.&lt;/p&gt;
+&lt;p&gt;The System-on-Chip platform was designed at the register transistor level and implemented in a 180-nm IBM process. Test logic instrumentation was done with DAFCA (Design Automation for Flexible Chip Architecture) Inc. pre-silicon tools. The design was then synthesized using the Synopsys Design Compiler and placed and routed using Cadence SOC Encounter. Total transistor count is about 3 million, including 1400K transistors for the debug module serving as on chip logic analyzer. Core size of the design is about 4.8mm x 4.8mm and the system is working at 151MHz. Design verification was done with Cadence NCSim.&lt;/p&gt;
+&lt;p&gt;The controllability and observability of internal signals of the design is greatly increased with the help of pre-silicon tools which helps locate bugs and later fix them with the help of post-silicon tools. This helps prevent re-spins on several occasions thus saving millions of dollars. Post-silicon tools have been used to program assertions and triggers and inject numerous personalities into the reconfigurable fabric which has greatly increased the versatility of the circuit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1734</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3084&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1734</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3084</articleid>
+<submission-date>2013-08-21T11:27:26-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4475128</context-key>
+<submission-path>utk_gradthes/1734</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Islam, Mohammed Ferdjallah</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

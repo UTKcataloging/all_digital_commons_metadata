@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>System Identification and Parameter Estimation of the Piper PA32-301 Saratoga</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kelly</lname>
+<fname>Catherine</fname>
+<mname>Anne</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this project was to estimate the longitudinal stability derivatives of the Piper Saratoga (tail number N22UT), one of the aircraft owned and operated by the University of Tennessee Space Institute (UTSI), using the System Identification Programs for Aircraft, SIDPCAC. After the instrumentation error was reduced by means of a data compatibility analysis, the stability derivatives were estimated using both an output error and an equation error parameter estimation technique.&lt;/p&gt;
+&lt;p&gt;Following a discussion of the test aircraft and instrumentation and a brief overview of stability derivatives and parameter estimation, the flight test is discussed in detail along with an analysis of the data. The data compatibility analysis showed huge error in the instrumentation measurements. Based on its estimate of the biases and scale factors, the data, particularly the angle of attack and pitch angle, once corrected for the error, had a significant change in scaling when compared to the original measured data. The stability derivative estimates obtained using both parameter estimation methods were close in value for the corresponding parameter and were similar for each test point. The only exception was the Z-force derivative due to the pitch rate which exhibited huge fluctuations. Although the flight test data was truncated to only include the doublet maneuver in the analysis, the output error routines did not reach convergence for a large majority of the test points. A detailed discussion of the results and recommendations are provided.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1713</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3061&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1713</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3061</articleid>
+<submission-date>2013-08-16T10:53:37-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4449945</context-key>
+<submission-path>utk_gradthes/1713</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ralph D. Kimberlin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rodney Allison, U. Peter Solies</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

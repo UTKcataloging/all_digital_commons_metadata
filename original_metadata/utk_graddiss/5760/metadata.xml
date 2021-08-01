@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Source Coding for Controlling Cyber Physical Systems</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lli51@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Li</lname>
+<fname>Liang</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Communication is an important issue in Cyber-Physical Systems(CPSs), which conveys information from sensor(s) to controller(s) in order to control the physical dynamics.  However, the information exchanging from sensor(s) to controller(s) for controlling the physical dynamics are suffering critical problems, e.g., the lack of adequate bandwidth for bi-directional communication to handle increasing amount of data and the inefficiency of data transmissions with both high latency and high redundancy, and these critical problems have made the high communication cost and low performance of controlling in Cyber-Physical Systems(CPSs). In this dissertation, aiming at reducing the communication cost while maintaining the performance of controlling, we studied to design efficient source coding strategies (or quantization strategies) for controlling in the discrete-time and continuous-state CPSs, where the optimal source coding strategies are further formulated as the sequential coding optimization problems. In a large scale, the goal of this dissertation is to find a deterministic but adaptive coding policy, as a series of mappings from the historical information to the quantization strategy for both the one sensor and multiple sensors case in CPSs.  In particular, for the one sensor case, the optimization problem with the sequential coding is formulated and proposed to be solved by the Bellman Equation in dynamic programming (DP), and to overcome the challenge of continuous state space, a more practical solution is given by leveraging the Approximate Dynamic Programming (ADP).  When it goes to the multiple sensors case, since the sensors receive correlated observations, we design an efficient and practical distributed source coding scheme by implementing reinforcement Q-learning with the learned side information available at the decoder. Numerical simulations with applications in smart grids demonstrate that the proposed two schemes for both the one sensor and the multiple sensors case can efficiently compress the information source, which can significantly outperform previous strategies, such as fixed quantization strategies in CPSs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5760</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7526&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5760</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7526</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419645</context-key>
+<submission-path>utk_graddiss/5760</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Qing Cao, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

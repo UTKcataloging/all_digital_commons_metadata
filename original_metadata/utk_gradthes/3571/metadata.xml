@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>iCloudECG: A Mobile Cardiac Telemedicine System</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dcliffo3@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Clifford</lname>
+<fname>David</fname>
+<mname>S.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Electrocardiogram</keyword>
+<keyword>ECG</keyword>
+<keyword>EKG</keyword>
+<keyword>Telemedicine</keyword>
+<keyword>Mobile</keyword>
+<keyword>Analysis</keyword>
+</keywords>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Cardiology</discipline>
+<discipline>Diagnosis</discipline>
+</disciplines><abstract>&lt;p&gt;With rising healthcare costs and a substantially growing number of patients 65 or over, the benefits of telemedicine and patient self-monitoring systems are becoming increasingly evident. Patients, physicians, hospitals, and even insurance providers benefit from vigilant, cost-effective patient monitoring systems. This thesis describes the development of a portable, smart-phone connected system for continuous cardiac monitoring. The system is capable of continuously monitoring the conditions of the heart, automated detection of cardiac arrhythmias, and real-time notifying patients and physicians of the detected abnormalities. The system consists of four main subsystems: 1) a Bluetooth capable chest-strap ECG, 2) an Android-enabled mobile device, 3) a cloud-based analysis, storage, and notification system, and 4) a web-application portal. Data is collected by the single-lead ECG device, and transmitted to the mobile device via Bluetooth. An application allows the patient to view their ECG output in real-time, view the last 24 hours of recordings, and receive notifications and details regarding any detected abnormalities. The mobile device transmits the ECG data to a remote server for pre-processing and analysis, and then stores the data in a database which the patient or physician can access via a web-interface. The developed system can be used as a telemedicine system for management of cardiovascular diseases.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3571</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4930&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3571</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4930</articleid>
+<submission-date>2015-10-09T11:23:50-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7700927</context-key>
+<submission-path>utk_gradthes/3571</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaopeng Zhao</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Qing Cao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

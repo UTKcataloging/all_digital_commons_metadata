@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Sub-Threshold Low-Power Integrated Bandpass Filter for Highly-Integrated Spectrum Analyzers</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>broehrs@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Roehrs</lname>
+<fname>Benjamin</fname>
+<mname>David</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Filter</keyword>
+<keyword>CMOS</keyword>
+<keyword>Sub-threshold</keyword>
+<keyword>Bandpass</keyword>
+<keyword>Gm-C</keyword>
+<keyword>Monolithic</keyword>
+<keyword>Low-Power</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Low-power analog filter banks provide frequency analysis with minimal space requirements, making them viable solutions for integrated remote audio- and vibration-sensing applications. In order to achieve a balance between the length of deployable service and system performance, a critical requirement of such remote sensor networks is low-power consumption, due to the constraints imposed by on-board battery cells.&lt;/p&gt;
+&lt;p&gt;In this work, the design and implementation of a sub-threshold complementary metal-oxide semiconductor (CMOS) integrated low-power tunable analog filter channel for Oak Ridge National Laboratory is presented. Project specifications required a tunable, high-order, monolithic bandpass filter channel with small chip area and low power consumption. With initial design focusing on the audio frequency spectrum, the 8th [eighth] order filter channel presented in this work provides an effective &lt;em&gt;Q&lt;/em&gt;-factor of 4.5 and a minimum dynamic range (DR) of approximately 85 dB, while allowing for tuning across a range of center frequencies from 2 kHz to 100 kHz, with power-consumption of a single 8th order filter channel measured at 155 &lt;em&gt;μ&lt;/em&gt;W [micro], nominally. An integrated analog G&lt;sub&gt;m&lt;/sub&gt;-C [transconductance-capacitance] filter topology was selected for this application. Functionally, the high-&lt;em&gt;Q&lt;/em&gt; bandpass filter transfer function is implemented via four cascaded filter cells, resulting in a single 8th order filter channel, fabricated in 130-&lt;em&gt;n&lt;/em&gt;m 1.2 V CMOS technology, suitable for use in monolithic integrated spectral analysis applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4775</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5117&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4775</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5117</articleid>
+<submission-date>2016-02-26T10:58:33-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8224511</context-key>
+<submission-path>utk_gradthes/4775</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>M. N. Ericson, Charles Britton, Jeremy Holleman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

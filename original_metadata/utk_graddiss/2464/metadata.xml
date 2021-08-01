@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Distribution Reconfiguration and Demand Management within Practical Operational Constraints</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bmoradza@utk.edu</email>
+<lname>Moradzadeh</lname>
+<fname>Benyamin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Smart Grid</keyword>
+<keyword>Optimization</keyword>
+<keyword>Distribution Reconfiguration</keyword>
+<keyword>Demand Response Management</keyword>
+<keyword>Mixed Integer Programming</keyword>
+<keyword>Distributed Optimization</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation focuses on specific aspects of the technical design and operation of a `smart&#39; distribution system incorporating new technology in the design process. The main purpose of this dissertation is to propose new algorithms in order to achieve a more reliable and economic distribution system.&lt;/p&gt;
+&lt;p&gt;First, a general approach based on Mixed Integer Programming (MIP) is proposed to formulate the reconfiguration problem for a radial/weakly meshed distribution network or restoration following a fault. Two objectives considered in this study are to minimize the active power loss, and to minimize the number of switching operations with respect to operational constraints, such as power balance, line ow limits, voltage limit, and radiality of the network. The latter is the most challenging issue in solving the problem by MIP. A novel approach based on Depth-First Search (DFS) algorithm is implemented to avoid cycles and loops in the system. Due to insufficient measurements and high penetration of controllable loads and renewable resources, reconfiguration with deterministic optimization may not lead to an optimal/feasible result. Therefore, two different methods are proposed to solve the reconfiguration problem in presence of load uncertainty.&lt;/p&gt;
+&lt;p&gt;Second, a new pricing algorithm for residential load participation in demand response program is proposed. The objective is to reduce the cost to the utility company while mitigating the impact on customer satisfaction. This is an iterative approach in which residents and energy supplier exchange information on consumption and price. The prices as well as appliance schedule for the residential customers will be achieved at the point of convergence. As an important contribution of this work, distribution network constraints such as voltage limits, equipment capacity limits, and phase balance constraints are considered in the pricing algorithm. Similar to the locational marginal price (LMP) at the transmission level, different prices for distribution nodes will be obtained. Primary consideration in the proposed approach, and frequently ignored in the literature, is to avoid overly sophisticated decision-making at the customer level. Most customers will have limited capacity or need for elaborate scheduling where actual energy cost savings will be modest.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2464</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2996&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2464</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2996</articleid>
+<submission-date>2013-05-14T09:01:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4139436</context-key>
+<submission-path>utk_graddiss/2464</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fran Li, Husheng Li, Rupy Sawhney</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

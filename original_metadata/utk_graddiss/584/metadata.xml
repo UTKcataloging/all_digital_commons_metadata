@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Addressing Challenges in a Graph-Based Analysis of High-Throughput Biological Data</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Perkins</lname>
+<fname>Andy</fname>
+<mname>D</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Graph-based methods used in the analysis of DNA microarray technology can be powerful tools in the elucidation of biological relationships. As these methods are developed and applied to various types of data, challenges arise that test the limits of current algorithms. These challenges arise in all phases of data analysis: data normalization, modeling biological networks, and interpreting results.&lt;/p&gt;
+&lt;p&gt;Spectral graph theory methods are investigated as means of threshold selection, a key step in constructing graphical models of biological data. Also important in constructing graphs is the selection of an appropriate gene-gene similarity metric, and an overview of similarity proles for some biological data sets is present, along with a similarity thresholding method based upon structural properties of random graphs.&lt;/p&gt;
+&lt;p&gt;The identication of altered relationships between two or more conditions is a goal of many microarray gene expression studies. Clique-based methods can identify sets of coexpressed genes within each group, but additional computational methods are required to uncover the dierential relationships and sets of genes changing together between groups. Dierential lters are reviewed to highlight those changing interactions and sets of changing genes. The eect of various normalization methods on these dierential results is also studied.&lt;/p&gt;
+&lt;p&gt;Finally, how methods commonly used in the analysis of gene expression data can be used to investigate relationships in noisy and incomplete historical ecosystem data is explored.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/584</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1653&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>584</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1653</articleid>
+<submission-date>2010-02-23T10:52:56-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1165015</context-key>
+<submission-path>utk_graddiss/584</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Robert C. Ward, Arnold M. Saxton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/PerkinsAndyDale.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

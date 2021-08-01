@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analytical Corrections to a Numerical Procedure for Estimating Gas Stagnation Temperature fromThermocouple Measurements</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jones</lname>
+<fname>Robert</fname>
+<mname>Carl</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;An analysis study was conducted to evaluate the quantitative and qualitative predictions of a numerical (computer – coded) procedure for predicting the total or stagnation temperature of a compressible gas flow. The procedure is based on measured tip temperature provided by a radiation – shielded, self – aspirated thermocouple (TC) probe. The numerical procedure breaks down the components of the thermocouple probe into individual but thermally interacting thermal bodies. The numerical procedure assumes that the measured TC tip temperature is a true value, and carries out a heat balance for each component of the thermocouple that includes convective, conductive and radiative heat transfers where applicable. This heat balance process yields the gas recovery temperature, which can be related to the gas stagnation temperature. However, this numerical procedure has not been validated or experimentally calibrated in order to judge the accuracy of the predicted gas stagnation temperatures. Therefore, an analysis study of the numerical procedure was undertaken that compares the predicted mean temperatures of the thermocouple components (the radiation shield and the central TC sheath) to analytical or theoretical predictions of the component mean temperatures, for given measured tip and base temperatures. The analytical solutions were then used to guide a study of correction methods/schemes, applied to the numerical procedure, that minimized the total numerical error between the computer – predicted mean temperatures and the analytical mean temperatures. A “best” correction scheme was recommended, based on the minimized error.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/430</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1465&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>430</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1465</articleid>
+<submission-date>2010-02-17T08:38:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1150178</context-key>
+<submission-path>utk_gradthes/430</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Roy J. Schulz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank G. Collins, Basil N. Antar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/JonesRobertCarl.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transverse Waves in Simulated Liquid Rocket Engines with Arbitrary Headwall Injection</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>chaddad1@utk.edu</email>
+<lname>Haddad</lname>
+<fname>Charles</fname>
+<mname>Toufic</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Transverse Waves</keyword>
+<keyword>Liquid Rocket Engines</keyword>
+<keyword>Combustion Instability</keyword>
+<keyword>Arbitrary Injection</keyword>
+<keyword>Perturbation</keyword>
+<keyword>Boundary Layer</keyword>
+</keywords>
+<disciplines><discipline>Fluid Dynamics</discipline>
+<discipline>Partial Differential Equations</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;This work introduces a closed-form analytical solution for the transverse vorticoacoustic wave in a circular cylinder with arbitrary headwall injection. This particular configuration mimics the conditions leading to the onset of traveling radial and tangential waves in a simple liquid rocket engine (LRE). Assuming a short cylindrical chamber with an injecting headwall, regular perturbations are used to linearize the problem’s mass, momentum, energy, ideal gas and isentropic relations. A Helmholtz decomposition is subsequently applied to the first-order disturbance equations, thus giving rise to a compressible, inviscid and acoustic set that is responsible for driving the unsteady motion and to an incompressible, viscous and vortical set that is driven by virtue of coupling with the acoustic mode along solid boundaries. While the acoustic mode is readily recovered from the wave equation entailed in this analysis, the induced vortical mode is resolved using boundary layer theory and a judicious expansion of the rotational set with respect to a small viscous parameter,                                                    [delta]. After some effort, an explicit generalized formulation is presented and validated through the use of two previously investigated cases, the uniform and bell-shaped injection profiles. The solution is then extended to two new scenarios corresponding to laminar and turbulent profiles, and the results of all four settings are compared and analyzed. Moreover, the characteristics of the vorticoacoustic wave, such as penetration depth, spatial wavelength and overshoot factor, are determined. All three characteristics are found to depend on the penetration and Strouhal numbers along with the distance from the centerline. At the chamber’s centerline, the waves corresponding to different injection profiles behave exactly the same and behavioral deviations are noticeable near the sidewalls.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1072</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2188&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1072</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2188</articleid>
+<submission-date>2011-10-05T06:55:10-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2275369</context-key>
+<submission-path>utk_gradthes/1072</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph Majdalani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Trevor Moeller, Christian Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

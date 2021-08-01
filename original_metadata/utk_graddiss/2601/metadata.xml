@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Monte Carlo and Depletion Reactor Analysis for High-Performance Computing Applications</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bmervin@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mervin</lname>
+<fname>Brenden</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Monte Carlo</keyword>
+<keyword>depletion</keyword>
+<keyword>neutronics</keyword>
+<keyword>high-performance computing</keyword>
+<keyword>domain decomposition</keyword>
+<keyword>underprediction</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation discusses the research and development for a coupled neutron trans- port/isotopic depletion capability for use in high-preformance computing applications. Accurate neutronics modeling and simulation for \real&quot; reactor problems has been a long sought after goal in the computational community. A complementary \stretch goal&quot; to this is the ability to perform full-core depletion analysis and spent fuel isotopic characterization. This dissertation thus presents the research and development of a coupled Monte Carlo transport/isotopic depletion implementation with the Exnihilo framework geared for high-performance computing architectures to enable neutronics analysis for full-core reactor problems.&lt;/p&gt;
+&lt;p&gt;An in-depth case study of the current state of Monte Carlo neutron transport with respect to source sampling, source convergence, uncertainty underprediction and biases associated with localized tallies in Monte Carlo eigenvalue calculations was performed using MCNPand KENO. This analysis is utilized in the design and development of the statistical algorithms for Exnihilo&#39;s Monte Carlo framework, Shift. To this end, a methodology has been developed in order to perform tally statistics in domain decomposed environments. This methodology has been shown to produce accurate tally uncertainty estimates in domain-decomposed environments without a significant increase in the memory requirements, processor-to-processor communications, or computational biases.&lt;/p&gt;
+&lt;p&gt;With the addition of parallel, domain-decomposed tally uncertainty estimation processes, a depletion package was developed for the Exnihilo code suite to utilize the depletion capabilities of the Oak Ridge Isotope GENeration code. This interface was designed to be transport agnostic, meaning that it can be used by any of the reactor analysis packages within Exnihilo such as Denovo or Shift. Extensive validation and testing of the ORIGEN interface and coupling with the Shift Monte Carlo transport code is performed within this dissertation, and results are presented for the calculated eigenvalues, material powers, and nuclide concentrations for the depleted materials. These results are then compared to ORIGEN and TRITON depletion calculations, and analysis shows that the Exnihilo transport-depletion capability is in good agreement with these codes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2601</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3117&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2601</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3117</articleid>
+<submission-date>2013-06-23T21:01:28-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4252844</context-key>
+<submission-path>utk_graddiss/2601</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ron E. Pevey, Steve E. Skutnik, Brandon C. Prinns</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

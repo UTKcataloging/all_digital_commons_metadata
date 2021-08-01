@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Grasping Strategies for a Dexterous Hand during Teleoperation</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chidambaram</lname>
+<fname>Prem</fname>
+<mname>Sagar</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;em&gt;Telerobotics&lt;/em&gt; is an interdisciplinary branch of engineering that deals with the control of robots at a distance in a manner that entails the intuition and the physical involvement of the operator controlling the robot. The end of the robotic manipulator consists of a device called an &lt;em&gt;end effector&lt;/em&gt; that is used to hold the tools.  Most telerobotic systems employ a simple single degree of freedom end effector called a &lt;em&gt;parallel jaw gripper&lt;/em&gt;. Since such end effectors have just one degree of freedom and hence limited dexterity, it is essential to develop special fixtures to be attached to the tool that is grasped. The current research attempts to employ a multi fingered end effector, which has multiple degrees of freedom in an attempt to reduce tool fixturing costs and ensure ease of operation. The research integrates the end effector into an existing telerobotic system, develops and implements grasping strategies based on human grasp observations and experimental grasp by demonstration validation for specific tool and objects in an attempt to find stable grasps. The strategies developed are further implemented by designing a master controller for the end effector and integrating it with a human machine interface and the overall system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1524</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2970&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1524</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2970</articleid>
+<submission-date>2013-08-01T10:52:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4374228</context-key>
+<submission-path>utk_gradthes/1524</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary V. Smith, Vijay Chellaboina</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

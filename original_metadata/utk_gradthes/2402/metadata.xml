@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis and Optimization of Unsteady Flow Past a Circular Cylinder Using a Harmonic Balance Method</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ebuckman@utk.edu</email>
+<lname>Clark</lname>
+<fname>Emily</fname>
+<mname>Buckman</mname>
+</author>
+</authors>
+<keywords>
+<keyword>vortex suppression</keyword>
+<keyword>lift</keyword>
+<keyword>drag</keyword>
+<keyword>finite difference</keyword>
+<keyword>active control</keyword>
+<keyword>sensitivity</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Aerospace Engineering</discipline>
+<discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Two-dimensional laminar flow over a circular cylinder was investigated in this work. Three cases were considered in which the cylinder was either stationary, in constant rotation, or in periodic rotation. The purpose of this work was to investigate the effects of a rotating cylinder for lift enhancement, drag reduction, and the suppression of vortex shedding. The governing coupled nonlinear Navier-Stokes equations were solved using a finite difference discretization and Newton’s method. In this way, three flow solvers were developed for this research: a steady solver, an unsteady time-accurate solver, and an unsteady harmonic balance solver. The force coefficients were of prime interest in this study. Favorable results were obtained using rotation as an active control for the flow over the cylinder. The cylinder in constant rotation resulted in lift enhancement, drag reduction and vortex suppression for increasing rotational speeds. Lift enhancement and drag reduction were also noted for a rotationally oscillating cylinder. The trade-offs for these goals were discussed. Lastly, a finite difference sensitivity analysis was performed for a rotationally oscillating cylinder with the harmonic balance solver. The mean drag coefficient was taken as the objective function, and the Strouhal number was the investigated design variable. The goal was to use the sensitivity analysis to determine a forcing frequency, which minimized the mean drag coefficient. Two iterative techniques were investigated, but neither converged to a minimum drag coefficient with the harmonic balance solver. It was determined that a minimum drag coefficient occurs near the boundary between the lock-on and non lock-on regions or in the non lock-on region, where the harmonic balance solver does not converge.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2402</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2855&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2402</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2855</articleid>
+<submission-date>2013-06-19T08:46:32-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2855/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4240634</context-key>
+<submission-path>utk_gradthes/2402</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rao V. Arimilli, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

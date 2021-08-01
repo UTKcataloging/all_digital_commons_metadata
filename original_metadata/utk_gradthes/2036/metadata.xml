@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of an Automobile Passenger Weighing System</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kimmins</lname>
+<fname>Travis</fname>
+<mname>Mark</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this project was to design a low-cost alternative to the current design of a device that weighs the passengers of an automobile in order to determine if the passenger weight is sufficient to deploy an airbag.  In addition to designing a system to weigh a passenger, the capability of determining the position of the occupant was also desirable.&lt;/p&gt;
+&lt;p&gt;Taking into account that seat deflection is a function of weight, linear potentiometers were used to measure deflection.  Seven potentiometers were attached to a wire mesh located beneath the foam of the seat.  Various weights were applied to locations on the seat and the voltages of the seven potentiometers were recorded.  This data was then inserted into several different models in order to find a model that best determined the weight.&lt;/p&gt;
+&lt;p&gt;It was found that the front-back location of the weight could be accurately determined by a least squares curve fit of the potentiometer voltages.  By knowing the location zone of the weight, it was found that the weight could be determined using a different linear curve fit for each particular zone.  It was found that fewer than seven potentiometers were required to obtain satisfactory results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2036</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3402&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2036</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3402</articleid>
+<submission-date>2013-10-01T09:23:39-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4652173</context-key>
+<submission-path>utk_gradthes/2036</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Frank Speckhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Landes, Joseph Boulet</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

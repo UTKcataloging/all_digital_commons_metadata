@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A STUDY OF THE EFFECTS AND SIGNIFICANCE OF TRANSITION MODELING FOR ROTORCRAFT APPLICATIONS</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aparwani@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Parwani</lname>
+<fname>Ashwin</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;A four-blade helicopter rotor is modeled using computational fluid dynamics (CFD), and the impact on the flow-field with and without a floating fuselage geometry is assessed. The numerical predictions were made with CFD simulations using the NASA OVERFLOW 2.2n solver. For numerical simulations, the flow-field was discretized in a structured, overset topology with grids intended to solve the scope of the problem. Results based on a tip Mach number of 0.58 were acquired for various collective pitch angles. The simulations were completed with the Spalart-Allmaras (SA) one equation eddy-viscosity turbulence model along with the Spalart-Shur rotation/curvature correction coupled with the amplification factor transport (AFT) transition model. Additionally, Delayed, Detached Eddy Simulation (DDES) was used to induce hybrid RANS/LES behavior. Overall predicted figure of merit and laminar-to-turbulent transition patterns on the blade surfaces with and without the fuselage exhibited reasonable agreement with experimental data. Specifically, laminar-turbulent transition patterns on the blade surfaces at 10° collective pitch showed better agreement with experimental data than at 8° collective pitch. It was observed from the simulations that the blade root and tip vortex systems become increasingly unstable as the collective pitch is increased for both configurations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5124</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6531&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5124</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6531</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415042</context-key>
+<submission-path>utk_gradthes/5124</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James G. Coder</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ryan S. Glasby, Stephanie C. TerMaath</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

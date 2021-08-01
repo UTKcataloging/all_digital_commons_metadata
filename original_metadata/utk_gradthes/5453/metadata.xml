@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Bayesian Approach to Multi-Drone Source Localization Methods</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jgurka@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Gurka</lname>
+<fname>Joshua</fname>
+<mname>James</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Bayesian</keyword>
+<keyword>Search</keyword>
+<keyword>Aerial</keyword>
+<keyword>Radiation</keyword>
+</keywords>
+<abstract>&lt;p&gt;From abandoned Soviet reactors to lost submarines and stolen medical materials, stewardship of the world’s nuclear materials throughout the nuclear age is not what one might hope it to be. The International Atomic Energy Agency (IAEA) estimates around 3000 incidents of illicit trafficking, theft, or loss of radioactive materials have occurred since 1993 [1]. Locating lost or stolen materials is no simple task, particularly when there is little information about the type of source or its activity, whether or not the source is stationary or being transported, and at large distances the signal-to-noise ratio is a limiting factor. Since the USS Scorpion, USS Thresher, and Palomares B-52 searches throughout the 1960’s [2], Bayesian inference techniques and Bayesian search methods have become a more commonly embraced approach to complex search missions. The semi-autonomous wide-area radiological measurements (SWARM) system presented in this work utilizes multiple Unmanned Aircraft System (UAS) devices, connected via a central data repository (swarm theory), to more effectively survey a search space and locate missing radioactive sources. Coupling swarm theory with Bayesian inference techniques, SWARM shows great potential in overcoming the challenges of large search spaces and potentially low-count rate contributions from missing radiological sources. Preliminary results prove the search algorithms ability to quickly filter out low probability areas. In simulation, three drones reduced the area of interest by 91.7% after each surveying three lengths of the area at an altitude of 100 meters. The SWARM Bayesian algorithm presented is designed to be a simple and efficient approach to aerial-based Bayesian search localization, applied to a multi-drone search format.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5453</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6861&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5453</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6861</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528588</context-key>
+<submission-path>utk_gradthes/5453</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Howard Hall</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Heilbronn, Ronald Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

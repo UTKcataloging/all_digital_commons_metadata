@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Application of Crowdsourced Data in Transportation Operations and Safety</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nhoseinz@vols.utk.edu</email>
+<lname>Hoseinzadeh</lname>
+<fname>Nima</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Transportation</keyword>
+<keyword>Safety</keyword>
+<keyword>Big Data</keyword>
+<keyword>Crowdsourced Data</keyword>
+<keyword>COVID19</keyword>
+</keywords>
+<disciplines><discipline>Statistics and Probability</discipline>
+<discipline>Transportation Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Crowdsourcing refers to the acquisition of data from users who contribute their information via smartphone, social media, or the internet. In transportation systems, crowdsourcing turns users into real-time sensors, providing data on traffic speed, travel time, mile traveled, incidents, roadway conditions, weather severity, irregularities in traffic patterns, and hazards. These data can be collected actively or passively in quantitative or qualitative forms. With the emergence of smartphones and navigation apps, crowdsourced data are gaining increased attention in transportation. Crowdsourced data have advantages over traditional fixed-location sensors and camera monitoring: low implementation costs, extended geographic coverage, high resolution, real-time application, increased reliability, and the ability to perform proactive solutions. Transportation agencies can integrate crowdsourced data into their tools to manage the traffic and improve reliability and safety proactively. Also, crowdsourced data enables transportation researchers to propose innovative ideas and solutions not studied in the past. This dissertation explores the applications of crowdsourced data in promoting transportation operations and safety. To this end, four studies are presented that integrate crowdsourced data in the transportation area. The first chapter evaluated and verified the quality of crowdsourced traffic speed data on surface streets in terms of accuracy and distribution. This study compared crowdsourced speed data collected from Waze to Bluetooth speed data. Based on the evaluated results, the crowdsourced data were used in the next two chapters. In the second chapter, a new methodology was proposed to assess traffic status and highway Level of Service to explore the application of crowdsourced data in transportation operations. This study exploited features from crowdsourced speed and travel time variation and incorporate them with crowdsourced user reports. The proposed methodology can be used in developing new tools for traffic status assessment on freeways with no need for fixed location sensors. Also, as the safety application, a spatiotemporal multisource lane-blocking incident detection system was provided in the third chapter. This study proposed a clustering algorithm called Weighted Spatiotemporal DBSCAN (WST-DBSCAN) that incorporates traffic speed pattern abnormalities with crowdsourced user reports to detect lane blocking incidents. The algorithm was evaluated by comparing it to the Tennessee Department of Transportation (TDOT) incident records. Lastly, the fourth chapter utilized crowdsourced vehicle mile traveled (VMT) and geographically weighted regression (GWR) models to explore the correlation between county-level spatial factors and pandemic-induced VMT changes (decline and recovery) during the COVID-19 outbreak. Altogether, this dissertation provided a different framework to evaluate crowdsourced data and explore this data&#39;s capabilities in transportation applications. This dissertation showed that crowdsourced data are promising data sources in transportation analysis, operations, and safety.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6169</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7359&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6169</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7359</articleid>
+<submission-date>2020-09-18T10:21:40-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7359/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19446036</context-key>
+<submission-path>utk_graddiss/6169</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Candace Brakewood, Anahita Khojandi, Russell Zaretzki</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;0000-0003-4517-9561&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

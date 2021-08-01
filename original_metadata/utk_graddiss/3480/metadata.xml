@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Driving and Protection of High Density High Temperature Power Module for Electric Vehicle Application</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zwang38@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Zhiqiang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Active gate driver</keyword>
+<keyword>Integrated power module</keyword>
+<keyword>Short circuit capability</keyword>
+<keyword>Short circuit protection</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;There has been an increasing trend for the commercialization of electric vehicles (EVs) to reduce greenhouse gas emissions and dependence on petroleum. However, a key technical barrier to their wide application is the development of high power density electric drive systems due to limited space within EVs. High temperature environment inherent in EVs further introduces a new level of complexity. Under high power density and high temperature operation, system reliability and safety also become important.&lt;/p&gt;
+&lt;p&gt;This dissertation deals with the development of advanced driving and protection technologies for high temperature high density power module capable of operating under the harsh environment of electric vehicles, while ensuring system reliability and safety under short circuit conditions. Several related research topics will be discussed in this dissertation.&lt;/p&gt;
+&lt;p&gt;First, an active gate driver (AGD) for IGBT modules is proposed to improve their overall switching performance. The proposed one has the capability of reducing the switching loss, delay time, and Miller plateau duration during turn-on and turn-off transient without sacrificing current and voltage stress.&lt;/p&gt;
+&lt;p&gt;Second, a board-level integrated silicon carbide (SiC) MOSFET power module is developed for high temperature and high power density application. Specifically, a silicon-on-insulator (SOI) based gate driver board is designed and fabricated through chip-on-board (COB) technique. Also, a 1200 V / 100 A SiC MOSFET phase-leg power module is developed utilizing high temperature packaging technologies.&lt;/p&gt;
+&lt;p&gt;Third, a comprehensive short circuit ruggedness evaluation and numerical investigation of up-to-date commercial silicon carbide (SiC) MOSFETs is presented. The short circuit capability of three types of commercial 1200 V SiC MOSFETs is tested under various conditions. The experimental short circuit behaviors are compared and analyzed through numerical thermal dynamic simulation.&lt;/p&gt;
+&lt;p&gt;Finally, according to the short circuit ruggedness evaluation results, three short circuit protection methods are proposed to improve the reliability and overall cost of the SiC MOSFET based converter. A comparison is made in terms of fault response time, temperature dependent characteristics, and applications to help designers select a proper protection method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3480</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4850&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3480</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4850</articleid>
+<submission-date>2015-05-31T11:24:50-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4850/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7160607</context-key>
+<submission-path>utk_graddiss/3480</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Zhenxian Liang, Benjamin J. Blalock, Anming Hu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

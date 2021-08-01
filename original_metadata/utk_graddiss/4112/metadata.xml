@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optical Spectroscopy and the Contruction of an Optimal Wannier Basis with Application to the Development of &lt;i&gt;Ab Initio&lt;/i&gt; Models</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rvanwese@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Van Wesep</lname>
+<fname>Robert</fname>
+<mname>Gerard</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Solid State Physics</keyword>
+<keyword>Condensed Matter Physics</keyword>
+<keyword>Time-Dependent Density Functional Theory</keyword>
+<keyword>Wannier Functions</keyword>
+<keyword>Copper Oxides</keyword>
+<keyword>Iron-based Superconductors</keyword>
+</keywords>
+<disciplines><discipline>Condensed Matter Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Understanding the role of local orbital degrees of freedom in the behavior of solid state systems has long been understood as a key to unraveling the mysteries presented by complex transition metal compounds. A general approach to the many-body problem is density functional theory (DFT) and its time-dependent extension (TDDFT), which provide a realistic representation of the material-dependent symmetry and chemistry of a compound. Calculation of quantities in (TD)DFT are most often performed using the basis of Bloch states, which is not natural for investigating local degrees of freedom. The Wannier basis provides localized orbitals that retain all of the information on the chemistry and symmetry of the groundstate. By transforming the expressions from TDDFT for the density-response functions into the Wannier basis, I have been able to develop novel methods for the investigation into the role of orbital degrees of freedom on the particle-hole excitation spectrum and used these methods to develop a scheme to construct a Wannier basis by tuning the gauge of the transformation to produce the simplest, yet fully accurate, description of the low-energy optical spectrum. Cu&lt;sub&gt;2&lt;/sub&gt;O [cuprite] provided the foundational test case for this development and the key to optimization proved to be the transference of chemically induced hybridization from energy space into real space. Using FeTe as a test case for correlated materials required understanding its graphene-like optical response, which I explain as a result of orbitally selective, local correlations giving rise to two-dimensional, linearly dispersing band topology. I also interpret the correlations and optical excitations using the Wannier basis. Subsequently, I have extended the optimization method to FeTe, which led naturally to 1) a &quot;target&quot; subspace of the full Hilbert space that is disentangled from the &quot;rest&quot;, allowing for the construction of minimal, &lt;em&gt;ab initio&lt;/em&gt; models by utilizing the constrained random-phase approximation (CRPA) and 2) ordered molecular orbitals that correspond to the structural and magnetic phase transition. The results contained in this dissertation will have broad implications for the treatment of long-ranged physics in future theoretical approaches to complex transition metal compounds.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4112</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5358&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4112</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5358</articleid>
+<submission-date>2016-06-17T11:11:30-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8745972</context-key>
+<submission-path>utk_graddiss/4112</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adolfo G. Eguiluz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hanno H. Weitering, David G. Mandrus, Elbio Dagotto</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

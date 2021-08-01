@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mixture of Factor Analyzers with Information Criteria and the Genetic Algorithm</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eturan@utk.edu</email>
+<lname>Turan</lname>
+<fname>Esra</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Mixture of Factor Analyzers</keyword>
+<keyword>Information Criteria</keyword>
+<keyword>Genetic Algorithm</keyword>
+<keyword>Model Selection</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Clinical Trials</discipline>
+<discipline>Multivariate Analysis</discipline>
+<discipline>Statistical Methodology</discipline>
+<discipline>Statistical Models</discipline>
+<discipline>Statistical Theory</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, we have developed and combined several statistical techniques in Bayesian factor analysis (BAYFA) and mixture of factor analyzers (MFA) to overcome the shortcoming of these existing methods. Information Criteria are brought into the context of the BAYFA model as a decision rule for choosing the number of factors m along with the Press and Shigemasu method, Gibbs Sampling and Iterated Conditional Modes deterministic optimization.  Because of sensitivity of BAYFA on the prior information of the factor pattern structure, the prior factor pattern structure is learned directly from the given sample observations data adaptively using Sparse Root algorithm.&lt;/p&gt;
+&lt;p&gt;Clustering and dimensionality reduction have long been considered two of the fundamental problems in unsupervised learning or statistical pattern recognition. In this dissertation, we shall introduce a novel statistical learning technique by focusing our attention on MFA from the perspective of a method for model-based density estimation to cluster the high-dimensional data and at the same time carry out factor analysis to reduce the curse of dimensionality simultaneously in an expert data mining system. The typical EM algorithm can get trapped in one of the many local maxima therefore, it is slow to converge and can never converge to global optima, and highly dependent upon initial values. We extend the EM algorithm proposed by \cite{Gahramani1997} for the MFA using intelligent initialization techniques, K-means and regularized Mahalabonis distance and introduce the new Genetic Expectation Algorithm (GEM) into MFA in order to overcome the shortcomings of typical EM algorithm. Another shortcoming of EM algorithm for MFA is assuming the variance of the error vector and the number of factors is the same for each mixture. We propose Two Stage GEM algorithm for MFA to relax this constraint and obtain different numbers of factors for each population. In this dissertation, our approach will integrate statistical modeling procedures based on the information criteria as a fitness function to determine the number of mixture clusters and at the same time to choose the number factors that can be extracted from the data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/853</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1918&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>853</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1918</articleid>
+<submission-date>2010-07-29T19:12:47-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1416194</context-key>
+<submission-path>utk_graddiss/853</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Mohammed Mohsin, Russell Zaretzki, Bogdan C. Bichescu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

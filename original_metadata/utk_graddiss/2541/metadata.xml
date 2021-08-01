@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-Sensor Fusion for Induction Motor Aging Analysis and Fault Diagnosis</title>
+<publication-date>1999-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Erbay</lname>
+<fname>Ali</fname>
+<mname>Seyfettin</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Induction motors are the most commonly used electrical drives, ranging in power from fractional horsepower (HP) to several thousand horsepowers. Several studies have been conducted to identify the cause of failure of induction motors in industrial applications. More than fifty percent of the failures are mechanical in nature, such as bearing, balance and alignment-related problems. Recent activities indicate a focus towards building intelligence into the motors, so that a continuous on-line fault diagnosis and prognosis may be performed.&lt;/p&gt;
+&lt;p&gt;The purpose of this research and development was to perform aging studies of three-phase, squirrel-cage induction motors; establish a database of mechanical, electrical and thermal measurements from load testing of the motors; develop a sensor-fusion method for on-line motor diagnosis; and use the accelerated aging models to extrapolate to the normal aging regimes. A new laboratory was established at The University of Tennessee to meet the goals of the project. The facility consists of three motor aging modules and a motor load-testing platform.&lt;/p&gt;
+&lt;p&gt;The accelerated aging and motor performance tests constitute a unique database, containing information about the trend characteristics of measured signatures as a function of motor faults. The various measurements facilitate enhanced fault diagnosis of motors and may be effectively utilized to increase the reliability of decision making and for the development of life prediction techniques.&lt;/p&gt;
+&lt;p&gt;One of these signatures, which constitute the database, is the use of Multi- Resolution Analysis (MRA) using wavelets. In today&#39;s industry applications, vibration signatures are analyzed only up to several hundred Hertz. The use of MRA in trending different frequency bands has revealed that higher frequencies (2-4 kiloHertz) show a characteristic increase when the condition of a bearing is in question. This study effectively showed that the use of MRA in vibration signatures can identify a thermal degradation or degradation via electrical charge of the bearing, whereas other failure mechanisms, such as winding insulation failure, do not exhibit such characteristics.&lt;/p&gt;
+&lt;p&gt;A motor diagnostic system, called the Intelligent Motor Monitoring System (IMMS) was developed in this research. The IMMS integrated the various mechanical, electrical and thermal signatures, and artificial neural networks and fuzzy logic algorithms. The IMMS was then used for motor fault detection and isolation and for estimating its remaining operable lifetime. The performance of the IMMS was evaluated using the motor aging data, and showed that the stator thermal degradation, bearing thermal degradation and bearing fluting degradation could be effectively diagnosed and the prognosis of motor operation could be established.&lt;/p&gt;
+&lt;p&gt;Previous studies are primarily based on the &#39;cause&#39; when calculating and estimating the remaining life of a motor and its components. This work has concentrated rather on the &#39;effects&#39; in the detection and isolation of faults and the remaining lifetime of the motor and its components. Hence, when &#39;on-line&#39; technology implementation is in question, measuring the effects is readily available, feasible, robust and definite, rather than trying to measure the cause (e.g. measuring the cause of motor winding insulation failure by means of ambient temperature only vs. measuring the effects of motor winding insulation failure by means of winding insulation temperature, leakage voltage and zero­-component impedance).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2541</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3944&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2541</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3944</articleid>
+<submission-date>2013-12-18T10:39:56-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4932125</context-key>
+<submission-path>utk_graddiss/2541</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Uhrig, Laurence F. Miller, Jack F. Wasserman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1999-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1999-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

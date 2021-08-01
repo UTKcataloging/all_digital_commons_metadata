@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vision-Based Reinforcement Learning Using A Consolidated Actor-Critic Model</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Niedzwiedz</lname>
+<fname>Christopher</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Vision-based machine learning agents are tasked with making decisions based on high-dimensional, noisy input, placing a heavy load on available resources. Moreover, observations typically provide only partial information with respect to the environment state, necessitating robust state inference by the agent. Reinforcement learning provides a framework for decision making with the goal of maximizing long-term reward. This thesis introduces a novel approach to vision-based reinforce- ment learning through the use of a consolidated actor-critic model (CACM). The approach takes advantage of artificial neural networks as non-linear function approximators and the reduced com- putational requirements of the CACM scheme to yield a scalable vision-based control system. In this thesis, a comparison between the actor-critic and CACM is made. Additionally, the affect of observation prediction and correlated exploration has on the agent&#39;s performance is investigated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/548</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1582&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>548</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1582</articleid>
+<submission-date>2010-02-26T11:30:30-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1176259</context-key>
+<submission-path>utk_gradthes/548</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

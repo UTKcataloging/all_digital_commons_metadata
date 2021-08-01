@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Information Approach to Regularization Parameter Selection for the Solution of Ill-Posed Inverse Problems Under Model Misspecification</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Urmanov</lname>
+<fname>Aleksey</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Engineering problems are often ill-posed, i.e. cannot be solved by conventional data-driven methods such as parametric linear and nonlinear regression or neural networks. A method of regularization that is used for the solution of ill-posed problems requires an a priori choice of the regularization parameter. Several regularization parameter selection methods have been proposed in the literature, yet, none is resistant to model misspecification. Since almost all models are incorrectly or approximately specified, misspecification resistance is a valuable option for engineering applications.&lt;/p&gt;
+&lt;p&gt;Each data-driven method is based on a statistical procedure which can perform well on one data set and can fail on other. Therefore, another useful feature of a data- driven method is robustness. This dissertation proposes a methodology of developing misspecification-resistant and robust regularization parameter selection methods through the use of the information complexity approach.&lt;/p&gt;
+&lt;p&gt;The original contribution of the dissertation to the field of ill-posed inverse problems in engineering is a new robust regularization parameter selection method. This method is misspecification-resistant, i.e. it works consistently when the model is misspecified. The method also improves upon the information-based regularization parameter selection methods by correcting inadequate penalization of estimation inaccuracy through the use of the information complexity framework. Such an improvement makes the proposed regularization parameter selection method robust and reduces the risk of obtaining grossly underregularized solutions.&lt;/p&gt;
+&lt;p&gt;A method of misspecification detection is proposed based on the discrepancy between the proposed regularization parameter selection method and its correctly specified version. A detected misspecification indicates that the model may be inadequate for the particular problem and should be revised.&lt;/p&gt;
+&lt;p&gt;The superior performance of the proposed regularization parameter selection method is demonstrated by practical examples. Data for the examples are from Carolina Power &amp; Light&#39;s Crystal River Nuclear Power Plant and a TVA fossil power plant. The results of applying the proposed regularization parameter selection method to the data demonstrate that the method is robust, i.e. does not produce grossly underregularized solutions, and performs well when the model is misspecified. This enables one to implement the proposed regularization parameter selection method in autonomous diagnostic and monitoring systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2168</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3623&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2168</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3623</articleid>
+<submission-date>2013-10-07T11:56:18-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4676988</context-key>
+<submission-path>utk_graddiss/2168</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert E. Uhrig</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Hamparsum Bozdogan, Peter Groer, Belle R. Upadhyaya, Andrei Gribok</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

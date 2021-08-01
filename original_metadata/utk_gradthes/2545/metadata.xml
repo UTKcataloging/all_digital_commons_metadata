@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using Platform Express for System-on-Chip Design</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wala</lname>
+<fname>Mardavsinh</fname>
+<mname>Harisinh</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The advent of nanoscale technology brings with it an increase in system complexity with integrated circuit transistor numbers reaching hundreds of millions. Systems-on-chip are attaining a level of complexity where design turn-around times are a major factor. Reusing existing intellectual property blocks that are already verified for functionality could help minimize the design time and increase system reliability. This allows the designers to focus on more important product design aspects. Platform-based design is an effective method to deal with the increasing pressure on time-to-market. The approach also provides a practical solution to reduce the design and manufacturing costs.&lt;/p&gt;
+&lt;p&gt;This thesis is a result of the of the ongoing &lt;em&gt;Volunteer SoC&lt;/em&gt; project at the University of Tennessee and in this, we explore the possibility of employing the &lt;em&gt;Platform Express (PX) &lt;/em&gt;tool for designing SoCs. The &lt;em&gt;PX &lt;/em&gt;application enables system designers to rapidly build and verify SoC design concepts. The tool also promotes Intellectual Property (IP) integration within the built-in &lt;em&gt;PX &lt;/em&gt;libraries. The tool utilizes XML for describing the IP data, which allows smooth integration of IP into a single design from many different sources.&lt;/p&gt;
+&lt;p&gt;We have followed the complete IP integration flow and have successfully installed a component into the tool’s library and have also generated a system design using the same IP.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2545</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3807&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2545</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3807</articleid>
+<submission-date>2013-10-18T11:01:04-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4739004</context-key>
+<submission-path>utk_gradthes/2545</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Mohammed Ferdjallah</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Prediction Interval Estimation Techniques for Empirical Modeling Strategies and their Applications to Signal Validation Tasks</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rasmussen</lname>
+<fname>Brandon</fname>
+<mname>Peter</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The basis of this work was to evaluate both parametric and non-parametric empirical modeling strategies applied to signal validation or on-line monitoring tasks.  On-line monitoring methods assess signal channel performance to aid in making instrument calibration decisions, enabling the use of condition-based calibration schedules.  The three non-linear empirical modeling strategies studied were: artificial neural networks (ANN), neural network partial least squares (NNPLS), and local polynomial regression (LPR).  These three types are the most common nonlinear models for applications to signal validation tasks.  Of the class of local polynomials (for LPR), two were studied in this work: zero-order (kernel regression), and first-order (local linear regression).&lt;/p&gt;
+&lt;p&gt;The evaluation of the empirical modeling strategies includes the presentation and derivation of prediction intervals for each of three different model types studied so that estimations could be made with an associated prediction interval.  An estimate and its corresponding prediction interval contain the measurements with a specified certainty, usually 95%.  The prediction interval estimates were compared to results obtained from bootstrapping via Monte Carlo resampling, to validate their expected accuracy.&lt;/p&gt;
+&lt;p&gt;The estimation of prediction intervals applied to on-line monitoring systems is essential if widespread use of these empirical based systems is to be attained.  In response to the topical report &quot;On-Line Monitoring of Instrument Channel Performance,&quot; published by the Electric Power Research Institute [Davis 1998], the NRC issued a safety evaluation report that identified the need to evaluate the associated uncertainty of empirical model estimations from all contributing sources.  This need forms the basis for the research completed and reported in this dissertation.&lt;/p&gt;
+&lt;p&gt;The focus of this work, and basis of its original contributions, were to provide an accurate prediction interval estimation method for each of the mentioned empirical modeling techniques, and to verify the results via bootstrap simulation studies.  Properly determined prediction interval estimates were obtained that consistently captured the uncertainty of the given model such that the level of certainty of the intervals closely matched the observed level of coverage of the prediction intervals over the measured values.  In most cases the expected level of coverage of the measured values within the prediction intervals was 95%, such that the probability that an estimate and its associated prediction interval contain the corresponding measured observation was 95%.  The results also indicate that instrument channel drifts are identifiable through the use of the developed prediction intervals by observing the drop in the level of coverage of the prediction intervals to relatively low values, e.g. 30%.&lt;/p&gt;
+&lt;p&gt;While all empirical models exhibit optimal performance for a given set of specifications, the identification of this optimal set may be difficult to attain.  The developed methods of prediction interval estimation were shown to perform as expected over a wide range of model specifications, including misspecification.  Model misspecification occurs through different mechanisms dependent on the type of empirical model.  The main mechanisms under which model misspecification occur for each empirical model studied are: ANN – through architecture selection, NNPLS – through latent variable selection, LPR – through bandwidth selection.  In addition, all of the above empirical models are susceptible to misspecification due to inadequate data and the presence of erroneous predictor variables in the set of predictors.  A study was completed to verify that the presence of erroneous variables, i.e. unrelated to the desired response or random noise components, resulted in increases in the prediction interval magnitudes while maintaining the appropriate level of coverage for the response measurements.&lt;/p&gt;
+&lt;p&gt;In addition to considering the resultant prediction intervals and coverage values, a comparative evaluation of the different empirical models was performed.  The evaluation considers the average estimation errors and the stability of the models under repeated Monte Carlo resampling.  The results indicate the large uncertainty of ANN models applied to collinear data, and the utility of the NNPLS model for the same purpose.  While the results from the LPR models remained consistent for data with or without collinearity, assuming proper regularization was applied.&lt;/p&gt;
+&lt;p&gt;The quantification of the uncertainty of an empirical model&#39;s estimations is a necessary task for promoting the use of on-line monitoring systems in the nuclear power industry.  All of the methods studied herein were applied to a simulated data set for an initial evaluation of the methods, and data from two different U.S. nuclear power plants for the purposes of signal validation for on-line monitoring tasks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2379</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3724&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2379</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3724</articleid>
+<submission-date>2013-10-10T11:30:59-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4693319</context-key>
+<submission-path>utk_graddiss/2379</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Uhrig, Belle R. Upadhyaya, Hamparsum Bozdogan, Andrei Gribok</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

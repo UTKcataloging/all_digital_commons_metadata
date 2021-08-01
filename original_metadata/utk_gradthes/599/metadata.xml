@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enhancement of PROBEPIC Code and Application to Langmuir Probes</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>daktas@utsi.edu</email>
+<lname>Aktas</lname>
+<fname>Densu</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The Langmuir probe is used as a diagnostic devise to determine the properties of plasma, which is a state of matter that is represented by partially or wholly ionized gas containing free charged particles; free moving electrons and ions. This probe is used to determine plasma characteristics such as temperature and density by carefully analyzing the probe voltage-current (V-I) characteristics. However, real world effects, such as finite length geometry, cause the measurements from these probes to deviate from the theoretical predictions for ideal probes. To understand these discrepancies and predict the performance of real probes, computer simulations using the Particle-in-Cell (PIC) and Monte Carlo techniques have been used. These simulations provide insight to help understand experiments that can provide detailed information that is difficult to measure, and help design new experiments and probes. The current effort expands upon the work performed by Thomas Markusic that resulted in the creation of a 2D/3V PIC code, PROBEPIC, in 1996 at UTSI, to simulate a Langmuir probe to analyze the plasma behavior. In the current effort, Markusic’s code is updated from C to C++ and also converted into FORTRAN. In addition to resolving coding issues, this effort identified several opportunities to enhance the effectiveness of the tool. By adding a ray tracing model and modifying the boundary condition models, the accuracy of the tool was improved. Chapter I provides an introduction to the effort, including a discussion of plasma characteristics and the Langmuir probe theory. This chapter also contains brief information about Markusic’s simulation, code upgrades and the code conversion process. Chapter II is focused on the description of the PIC code and the improvements and updates made in PROBEPIC. The issues encountered during the creation of the new version of the PROBEPIC code are also addressed along with their solutions. Chapter III presents the results that show the conversion was successful and that the new results are in agreement with both previous data and theoretical predictions. Finally, Chapter IV contains conclusions and some recommendations for future work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/599</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1614&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>599</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1614</articleid>
+<submission-date>2010-03-05T14:15:21-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1614/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1203148</context-key>
+<submission-path>utk_gradthes/599</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Roy Schulz, Dr. Gary Flandro</value>
+</field>
+<field name="comments" type="string">
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

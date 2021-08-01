@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Power Spectral Density (PSD) Terrain Modeling for Vehicle Durability Analysis</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sivanesan</lname>
+<fname>Ezhilventhan</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;With the advancement in computer technology, computer simulations of dynamic systems have progressed a lot. During dynamic simulation of automotive systems, terrain profile plays a significant role in determining the ride comfort and the fatigue durability of the systems. The usage of actual test course elevation data might be voluminous and might slow down the simulation speeds. The purpose of this thesis is to study the possibility of re-creating the terrain profiles from the Power Spectral Density of the original terrain profiles so that less voluminous terrain profile data can be used to accelerate the vehicle simulations using dynamic modeling software-DADS.&lt;/p&gt;
+&lt;p&gt;This thesis presents the theory and the methodology used in re-creating the terrain profiles. It also presents the re-creation algorithm used in implementing the same as a feature in DADS. The statistical comparison of the re-created terrains and the original terrains are provided along with. Following this, the dynamic response of a Quarter Car system and a Half Car system on the original and the re-created terrains are studied and compared. Initially the dynamic models are evaluated by comparing the natural frequency of the system with the analytical natural frequency. Subsequently, the analytical frequency response of the Half Car system on original and re-created terrains is compared with the frequency response of the Half Car system obtained from DADS.&lt;/p&gt;
+&lt;p&gt;Dynamic simulations also revealed that uncorrelated left and right terrain tracks could lead to significant roll rate that can have a major impact on the fatigue life of the vehicle. Hence the limitations of the implemented re-creation algorithm along with the recommendations for future research are provided as well.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2357</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3783&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2357</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3783</articleid>
+<submission-date>2013-10-17T14:03:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4734419</context-key>
+<submission-path>utk_gradthes/2357</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeffrey S. Freeman</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, J.A.M.Boulet</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

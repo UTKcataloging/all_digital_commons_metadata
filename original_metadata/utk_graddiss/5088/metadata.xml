@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Fortran Kernel Generation Framework for Scientific Legacy Code</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zyao5@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yao</lname>
+<fname>Zhuo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Kernel Generation</keyword>
+<keyword>Unit Testing</keyword>
+<keyword>Performance Tuning</keyword>
+<keyword>Legacy Code</keyword>
+</keywords>
+<abstract>&lt;p&gt;Quality assurance procedure is very important for software development. The complexity of modules and structure in software impedes the testing procedure and further development. For complex and poorly designed scientific software, module developers and software testers need to put a lot of extra efforts to monitor not related modules&#39; impacts and to test the whole system&#39;s constraints. In addition, widely used benchmarks cannot help programmers with accurate and program specific system performance evaluation. In this situation, the generated kernels could provide considerable insight into better performance tuning. Therefore, in order to greatly improve the productivity of various scientific software engineering tasks such as performance tuning, debugging, and verification of simulation results, we developed an automatic compute kernel extraction prototype platform for complex legacy scientific code. In addition, considering that scientific research and experiment require long-term simulation procedure and the huge size of data transfer, we apply message passing based parallelization and I/O behavior optimization to highly improve the performance of the kernel extractor framework and then use profiling tools to give guidance for parallel distribution. Abnormal event detection is another important aspect for scientific research; dealing with huge observational datasets combined with simulation results it becomes not only essential but also extremely difficult. In this dissertation, for the sake of detecting high frequency event and low frequency events, we reconfigured this framework equipped with in-situ data transfer infrastructure. Through the method of combining signal processing data preprocess(decimation) with machine learning detection model to train the stream data, our framework can significantly decrease the amount of transferred data demand for concurrent data analysis (between distributed computing CPU/GPU nodes). Finally, the dissertation presents the implementation of the framework and a case study of the ACME Land Model (ALM) for demonstration. It turns out that the generated compute kernel with lower cost can be used in performance tuning experiments and quality assurance, which include debugging legacy code, verification of simulation results through single point and multiple points of variables tracking, collaborating with compiler vendors, and generating custom benchmark tests.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5088</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6629&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5088</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6629</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415530</context-key>
+<submission-path>utk_graddiss/5088</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jinyuan Sun, Dali Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Charles Cao, Joshua S. Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

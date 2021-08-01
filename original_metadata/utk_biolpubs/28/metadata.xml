@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Prodigal: prokaryotic gene recognition and translation initiation site identification</title>
+<publication-date>2010-03-08T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hyattpd@ornl.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hyatt</lname>
+<fname>Doug</fname>
+</author>
+<author>
+<email>cheng@ornl.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Gwo-Liang</fname>
+</author>
+<author>
+<email>locasciop@ornl.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>LoCascio</lname>
+<fname>Philip</fname>
+<mname>F.</mname>
+</author>
+<author>
+<email>landml@ornl.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Land</lname>
+<fname>Miriam</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>larimerfw@ornl.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Larimer</lname>
+<fname>Frank</fname>
+<mname>W.</mname>
+</author>
+<author>
+<email>hauserlj@ornl.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hauser</lname>
+<fname>Loren</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Biology</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Abstract&lt;/h3&gt;  &lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;The quality of automated gene prediction in microbial organisms has improved steadily over the past decade, but there is still room for improvement. Increasing the number of correct identifications, both of genes and of the translation initiation sites for each gene, and reducing the overall number of false positives, are all desirable goals.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;With our years of experience in manually curating genomes for the Joint Genome Institute, we developed a new gene prediction algorithm called Prodigal (PROkaryotic DYnamic programming Gene-finding ALgorithm). With Prodigal, we focused specifically on the three goals of improved gene structure prediction, improved translation initiation site recognition, and reduced false positives. We compared the results of Prodigal to existing gene-finding methods to demonstrate that it met each of these objectives.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We built a fast, lightweight, open source gene prediction program called Prodigal &lt;a href=&quot;http://compbio.ornl.gov/prodigal/&quot;&gt;http://compbio.ornl.gov/prodigal/&lt;/a&gt; &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://compbio.ornl.gov/prodigal/&amp;refdoi=10.1186/1471-2105-11-119&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;. Prodigal achieved good results compared to existing methods, and we believe it will be a valuable asset to automated microbial annotation pipelines.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biolpubs/28</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1027&amp;amp;context=utk_biolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>28</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1027</articleid>
+<submission-date>2013-07-15T08:05:40-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- General Biology</publication-title>
+<context-key>4312438</context-key>
+<submission-path>utk_biolpubs/28</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2010, 11:119 doi:10.1186/1471-2105-11-119</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-03-08T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

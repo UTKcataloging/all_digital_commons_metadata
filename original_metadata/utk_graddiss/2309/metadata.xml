@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Energy Efficient Designs for Collaborative Signal and Information Processing inWireless Sensor Networks</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xu</lname>
+<fname>Yingyue</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Collaborative signal and information processing (CSIP) plays an important role in the deployment of wireless sensor networks. Since each sensor has limited computing capability, constrained power usage, and limited sensing range, collaboration among sensor nodes is important in order to compensate for each other’s limitation as well as to improve the degree of fault tolerance. In order to support the execution of CSIP algorithms, distributed computing paradigm and clustering protocols, are needed, which are the major concentrations of this dissertation.&lt;/p&gt;
+&lt;p&gt;In order to facilitate collaboration among sensor nodes, we present a mobile-agent computing paradigm, where instead of each sensor node sending local information to a processing center, as is typical in the client/server-based computing, the processing code is moved to the sensor nodes through mobile agents. We further conduct extensive performance evaluation versus the traditional client/server-based computing. Experimental results show that the mobile agent paradigm performs much better when the number of nodes is large while the client/server paradigm is advantageous when the number of nodes is small. Based on this result, we propose a hybrid computing paradigm that adopts different computing models within different clusters of sensor nodes. Either the client/server or the mobile agent paradigm can be employed within clusters or between clusters according to the different cluster configurations. This new computing paradigm can take full advantages of both client/server and mobile agent computing paradigms. Simulations show that the hybrid computing paradigm performs better than either the client/server or the mobile agent computing.&lt;/p&gt;
+&lt;p&gt;The mobile agent itinerary has a significant impact on the overall performance of the sensor network. We thus formulate both the static mobile agent planning and the dynamic mobile agent planning as optimization problems. Based on the models, we present three itinerary planning algorithms. We have showed, through simulation, that the predictive dynamic itinerary performs the best under a wide range of conditions, thus making it particularly suitable for CSIP in wireless sensor networks.&lt;/p&gt;
+&lt;p&gt;In order to facilitate the deployment of hybrid computing paradigm, we proposed a decentralized reactive clustering (DRC) protocol to cluster the sensor network in an energy-efficient way. The clustering process is only invoked by events occur in the sensor network. Nodes that do not detect the events are put into the sleep state to save energy. In addition, power control technique is used to minimize the transmission power needed. The advantages of DRC protocol are demonstrated through simulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2309</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3885&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2309</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3885</articleid>
+<submission-date>2013-10-18T13:29:42-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4740116</context-key>
+<submission-path>utk_graddiss/2309</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Douglas Birdwell, Itamar Elhanany, Lynne E. Parker, Stephen Fulton Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

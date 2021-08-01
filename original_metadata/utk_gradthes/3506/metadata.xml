@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Geostatistical Analysis of Point Soil Water Retention Parameters for Flint Sand</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wrober26@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Roberts</lname>
+<fname>William</fname>
+<mname>Blake</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Geostatistics</keyword>
+<keyword>Water Retention Curve</keyword>
+<keyword>Neutron Imaging</keyword>
+<keyword>Trend Surface Analysis</keyword>
+<keyword>Brooks and Corey</keyword>
+<keyword>Kriging</keyword>
+</keywords>
+<disciplines><discipline>Geology</discipline>
+</disciplines><abstract>&lt;p&gt;Geostatistics were employed to characterize sub-core scale heterogeneity and identify spatial structure in previously published water retention data (Kang et al., 2014) obtained using neutron radiography for Flint sand. The water retention data were parameterized using the Brooks and Corey (BC) model. The BC parameters investigated were: saturated water content (&lt;em&gt;Ѳ&lt;sub&gt;s&lt;/sub&gt;&lt;/em&gt;), residual water content (&lt;em&gt;Ѳ&lt;sub&gt;r&lt;/sub&gt;&lt;/em&gt;), air entry value (&lt;em&gt;ψ&lt;sub&gt;a&lt;/sub&gt;&lt;/em&gt;), and pore size distribution index (&lt;em&gt;λ&lt;/em&gt;). Spatial dependency in the BC parameters was identified using semivariograms. Of the four BC parameters analyzed, two were found to be spatially correlated, &lt;em&gt;Ѳ&lt;sub&gt;s&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;ψ&lt;sub&gt;a&lt;/sub&gt;&lt;/em&gt;. The spherical model fit to the cross variogram was used to perform co-kriging and map out the spatial dependency of these parameters. Low and high values apparent at the top and bottom of the kriged map for &lt;em&gt;ψ&lt;sub&gt;a&lt;/sub&gt;&lt;/em&gt; implicated packing and compressive stress as the major causes of sub-core scale heterogeneity for this parameter. A concentrated area of high values in the center of the kriged map for &lt;em&gt;Ѳ&lt;sub&gt;s&lt;/sub&gt;&lt;/em&gt; suggests that neutron scattering and the normalization procedure employed during image analysis to eliminate the effect of variable neutron path lengths was not completely successful. To alleviate these effects a trend correction process was developed by generating a second dataset using cross-validation, calculating the difference between the observed and leave-one-out cross validation data set, and adding the average of the observed data to the newly created residual variable. This trend correction process was validated using an independent data set collected by Cropper (2014). Mann-Whitney and Kolmogorov-Smirnov two sample tests were employed to determine if the Cropper (2014) parameters were significantly different from the trend corrected parameters in terms of their median values and frequency distributions, respectively. The results from both tests found significant differences between the two data sets indicating the trend correction procedure was unsuccessful, likely due to the unconsolidated sample and cylindrical geometry employed. Since spatial structure can have profound effects on flow and transport predictions, future work using neutron radiography to measure point BC parameters should focus on consolidated samples and rectangular sample geometry. Further exploration of the novel trend correction procedure is warranted.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3506</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4862&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3506</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4862</articleid>
+<submission-date>2015-07-24T12:16:44-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4862/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>7364764</context-key>
+<submission-path>utk_gradthes/3506</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Edmund Perfect</value>
+</field>
+<field name="advisor2" type="string">
+<value>Larry McKay, John Tyner</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Heat Transfer Analysis via Rate Based Sensors</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jplewa@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Plewa</lname>
+<fname>Jake</fname>
+<mname>Erik</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Rate Sensor</keyword>
+<keyword>Inverse Heat Transfer</keyword>
+<keyword>Analog Filter</keyword>
+<keyword>Analog Sensor</keyword>
+<keyword>Hypersonics</keyword>
+<keyword>Analog Derivative</keyword>
+</keywords>
+<disciplines><discipline>Other Aerospace Engineering</discipline>
+<discipline>Other Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This work presents an integrated rate-based sensor and method for resolving the surface heat flux of a fundamental inverse heat conduction problem without numerical regularization or differentiation in a semi-infinite geometry that additionally accounts for thermocouple delay due to its intrinsic time constant. The sensor uses well-designed analog filters to directly regularize raw voltage data to eliminate the need for numerical regularization methods. The sensor can also be used in a series of well-designed voltage-rate interfaces that directly measure the voltages from in-depth thermocouples, which are used in conjunction with the thermocouple calibration curve to provide higher-time derivatives of the thermocouple’s temperature while minimizing noise caused by the system and differentiation. Using a lumped energy balance about the thermocouple’s bead, a first- order model is used for relating the thermocouple temperature to the positional temperature. The required thermocouple’s time constant is estimated with the aid of a one dimensional finite difference method to solve the direct heat conduction problem and obtain the required positional temperature. Higher-time derivatives of the in- depth heat flux are produced using time integral relationships between the positional temperature and local heat flux. Finally, the surface heat flux and temperature are estimated using the finite difference based Global Time Method. To verify this concept and acquire real data, an experiment was performed using a well-designed heater sandwiched between two identical plates for producing a symmetric temperature distribution in each plate with an accurately known heat input. Encouraging results are presented from this in depth study indicating the merits of the sensor and methodology. Additionally it is demonstrated that the rate sensor data obtained from an array of indepth thermocouples may be used to determine the transition location in hypersonic flights.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1396</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2553&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1396</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2553</articleid>
+<submission-date>2012-11-19T18:18:10-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3480036</context-key>
+<submission-path>utk_gradthes/1396</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Majid Keyhani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay I. Frankel, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

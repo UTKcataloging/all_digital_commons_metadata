@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using System Identification to Compare Global and Local Aerodynamic Modeling from Flight Data</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tsorense@utsi.edu</email>
+<lname>Sorensen</lname>
+<fname>Toby Earl</fname>
+</author>
+</authors>
+<keywords>
+<keyword>flight test</keyword>
+<keyword>Parameter Identification</keyword>
+<keyword>System Identification</keyword>
+<keyword>frequency domain</keyword>
+<keyword>equation error</keyword>
+<keyword>equations of motion</keyword>
+<keyword>large amplitude maneuver</keyword>
+</keywords>
+<disciplines><discipline>Aeronautical Vehicles</discipline>
+<discipline>Navigation, Guidance, Control and Dynamics</discipline>
+</disciplines><abstract>&lt;p&gt;A method for identifying and comparing a longitudinal global aerodynamic model to a longitudinal local aerodynamic model for UTSI’s Piper Saratoga aircraft is explained and demonstrated. Large amplitude piloted inputs were used to estimate global nonlinear aerodynamic models from flight data. Flight derived global aerodynamic model structures, model parameter estimates, and associated uncertainties were provided for the longitudinal dimensional force and moment. The results from the global aerodynamic modeling were compared to local linear aerodynamic modeling results gathered with traditional small amplitude doublet inputs. The results from large amplitude piloted inputs compared favorably with small amplitude piloted inputs by ten percent in almost all cases and in significantly less test time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1682</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2646&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1682</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2646</articleid>
+<submission-date>2013-02-28T17:45:07-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2646/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>3811941</context-key>
+<submission-path>utk_gradthes/1682</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Uwe P Solies</value>
+</field>
+<field name="advisor2" type="string">
+<value>Borja Martos, Trevor M. Moeller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

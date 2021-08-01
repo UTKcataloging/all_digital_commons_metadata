@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>STANDARDIZING FUNCTIONAL SAFETY ASSESSMENTS FOR OFF-THE-SHELF INSTRUMENTATION AND CONTROLS</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>anack@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nack</lname>
+<fname>Andrew</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>digital</keyword>
+<keyword>instrumentation</keyword>
+<keyword>controls</keyword>
+<keyword>safety</keyword>
+<keyword>reliability</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+<discipline>Systems Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;It is typical for digital instrumentation and controls, used to manage significant risk, to undergo substantial amounts of scrutiny. The equipment must be proven to have the necessary level of design integrity. The details of the scrutiny vary based on the particular industry, but the ultimate goal is to provide sufficient evidence that the equipment will operate successfully when performing their required functions.&lt;/p&gt;
+&lt;p&gt;To be able to stand up to the scrutiny and more importantly, successfully perform the required safety functions, the equipment must be designed to defend against random hardware failures and also to prevent systematic faults. These design activities must also have been documented in a manner that sufficiently proves their adequacy.&lt;/p&gt;
+&lt;p&gt;The variability in the requirements of the different industries makes this task difficult for instrumentation and controls equipment manufacturers. To assist the manufacturers in dealing with these differences, a standardization of requirements is needed to facilitate clear communication of expectations. The IEC 61508 set of standards exists to fulfill this role, but it is not yet universally embraced. After that occurs, various industries, from nuclear power generation to oil &amp; gas production, will benefit from the existence of a wider range of equipment that has been designed to perform in these critical roles and that also includes the evidence necessary to prove its integrity. The manufacturers will then be able to enjoy the benefit of having a larger customer base interested in their products.&lt;/p&gt;
+&lt;p&gt;The use of IEC 61508 will also help industries avoid significant amounts of uncertainty when selecting commercial off-the-shelf equipment. It is currently understood that it cannot be assumed that a typical commercial manufacturer’s equipment designs and associated design activities will be adequate to allow for success in these high risk applications. In contrast, a manufacturer that seeks to comply with IEC 61508 and seeks to achieve certification by an independent third party can be assumed to be better suited for meeting the needs of these demanding situations. Use of these manufacturers help to avoid substantial uncertainty and risk.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3793</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5098&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3793</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5098</articleid>
+<submission-date>2016-02-25T19:29:10-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5098/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>8219404</context-key>
+<submission-path>utk_gradthes/3793</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing C. Cao, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

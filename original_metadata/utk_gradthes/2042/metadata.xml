@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using the Maple Computer Algebra System as a Tool for Studying Group Theory</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cooper, III</lname>
+<fname>Thomas</fname>
+<mname>Edmond</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study was to show that computers can be powerful tools for studying group theory. Specifically the author examined ways that the computer algebra system Maple can be used to assist in the study of group theory. The study consists of four main parts.&lt;/p&gt;
+&lt;p&gt;After a brief introduction in chapter one, chapter two discusses simple procedures written by the author to study small finite groups. These procedures rely on the fact that for small finite groups, the elements can all be stored on a computer and tested for various properties. All of the procedures are contained in the appendix, and each is described in chapter two.&lt;/p&gt;
+&lt;p&gt;The Maple software comes with a built in set of group theory procedures. The procedures work with two types of groups, permutation groups and finitely presented groups. The author discusses all of the procedures dealing with permutation groups in chapter three and the procedures for finitely presented groups in chapter four. The main theoretical tool for permutation groups is a stabilizer chain, and the main tool for finitely presented groups is the Todd-Coxeter algorithm. Both of these methods and their implementations in Maple are discussed in detail.&lt;/p&gt;
+&lt;p&gt;The study is concluded by examining some applications of group theory. The author discusses check digit schemes, RSA encryption, and permutation factoring. The ability to factor a permutation in terms of a set of generators can be used to solve several puzzles such as the Rubik&#39;s cube.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2042</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3400&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2042</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3400</articleid>
+<submission-date>2013-10-01T09:11:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4651836</context-key>
+<submission-path>utk_gradthes/2042</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence Husch, Jr</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ken Stephenson, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Boiling Water Reactor Core Simulation with Generalized Isotopic Inventory Tracking for Actinide Management</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jgallow3@utk.edu</email>
+<lname>Galloway</lname>
+<fname>Jack Douglas</fname>
+</author>
+</authors>
+<keywords>
+<keyword>NESTLE</keyword>
+<keyword>ORIGEN</keyword>
+<keyword>boiling water reactor</keyword>
+<keyword>drift-flux</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The computational ability to accurately simulate boiling water reactor operation under the full range of standard steady-state operation, along with the capability to fully track the isotopic distribution of any fueled region in any location in the core has been developed. This new three-dimensional node-by-node capability can help designers track, for example, a full suite of minor and major actinides, fission products, and even light elements that result from depletion, decay, or transmutations.  This isotopic tracking capability is not restricted to BWRs and can be employed in the modeling of PWRs, CANDUs, and other reactor types that can be modeled with the NESTLE code, the base core simulator employed in this research.&lt;/p&gt;
+&lt;p&gt;To accurately simulate boiling water reactor operation, a major thermal-hydraulics upgrade was performed which involved the implementation of a drift-flux solution scheme to model steady-state boiling water flow.  Sub-cooled boiling and bulk boiling are accurately modeled and a scheme for computing the correct flow distribution has been implemented.  In addition, the incorporation of a nodal ORIGEN-based microscopic depletion solution has been included which allows for exceptional detail in tracking a large number of elements in every node of a core design, thus accounting for spectral dependencies such as moderator density effects, moderator temperature effects, fuel temperature effects, as well as controlled or uncontrolled conditions.&lt;/p&gt;
+&lt;p&gt;The results of this study show the excellent fidelity of the two-phase solution for accurately predicting the boiling of water when compared to experimental results.  Likewise, the isotopic inventory results show near-identical agreement with the well-established and validated ORIGEN-based SCALE/TRITON isotopic depletion sequence.  The aim of these developments is to eventually produce a publicly available three-dimensional core simulator capable of assessing detailed isotopic inventories, a capability particularly valuable for the evaluation of recycling scenarios and actinide management in a variety of reactor types and fuel designs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/798</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1838&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>798</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1838</articleid>
+<submission-date>2010-06-02T13:53:31-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1838/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1341149</context-key>
+<submission-path>utk_graddiss/798</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin T. Clarno, Lee L. Riedinger, Arthur E. Ruggles</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

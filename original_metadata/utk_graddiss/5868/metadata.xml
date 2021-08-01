@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Study of the Production of Isotopes in an Urban Nuclear Post-Detonation Environment</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tmcclana@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>McClanahan</lname>
+<fname>Tucker</fname>
+<mname>Caden</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In order to model the activated isotopes and resulting dose from a nuclear detonation in an urban environment, the Activation and Transmutation of Isotopes in an Unstructured Mesh (ACTIUM) Python toolkit has been developed to combine the unstructured mesh- based particle transport capability of MCNP6 with the CINDER2008 transmutation code to produce quantities of interest for the post-detonation nuclear forensics and weapons effects communities. The ACTIUM toolkit has been implemented and validated with a number of test cases from a simple analytic model to a case study of the urban detonation in Nagasaki, Japan. The ACTIUM approach is the first of its kind to couple the latest release of CINDER2008 as a part of the Activation in Accelerator Radiation Environments (AARE) package with MCNP6 and produce transmuted quantities per time step on an unstructured mesh for the nuclear forensics and weapon effects communities. ACTIUM uses the latest ENDF/B-VIII.0, TENDL2017, and JENDL4 cross section libraries for the transmutation calculations, and includes methods for producing material cards for the initial MCNP6 unstructured mesh calculation based on highly detailed materials often found in urban environments on a city specific basis. In the event of an urban nuclear detonation, the identification of these isotopic ratios provides insight for the radio-analytical chemistry and mass-spectrometry communities as they develop measurement techniques to analyze some of the ratios that have the highest sensitivities to source attributes. A process of how to create an unstructured mesh representation of the overall geometry of buildings along with their material compositions, and the corresponding layers of concrete and soil in an urban environment for use in neutron transport calculations, and subsequent transmutation calculations are also discussed in this work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5868</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7634&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5868</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7634</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527780</context-key>
+<submission-path>utk_graddiss/5868</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence Heilbronn, John Auxier II</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tim Goorley, Erik Iverson, Thomas Meek, Howard Hall</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-8810-4271</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

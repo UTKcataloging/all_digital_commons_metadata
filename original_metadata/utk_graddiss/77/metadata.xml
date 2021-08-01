@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Forecasting Dose and Dose Rate from Solar Particle Events Using Locally Weighted Regression Techniques</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nichols</lname>
+<fname>Theodore</fname>
+<mname>Franklin</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Continued human exploration of the solar system requires the mitigating of radiation effects from the Sun. Doses from Solar Particle Events (SPE) pose a serious threat to the health of astronauts. A method for forecasting the rate and total severity of such events would give time for the astronauts to take actions to mitigate the effects from an SPE. The danger posed from an SPE depends on dose received and the temporal profile of the event. The temporal profile describes how quickly the dose will arrive (dose rate). Previously deployed methods used neural networks to predict the total dose from the event. Later work added the ability to predict the temporal profiles using the neural network approach. Locally weighted regression (LWR) techniques were then investigated for use in forecasting the total dose from an SPE. That work showed that LWR methods could forecast the total dose from an event. This previous research did not calculate the uncertainty in a forecast. The present research expands the LWR model to forecast dose and temporal profile from an SPE along with the uncertainty in these forecasts. Forecasts made with LWR method are able to make forecasts at a time early in an event with results that can be beneficial to operators and crews. The forecasts in this work are all made at or before five hours after the start of the SPE. For 58 percent of the events tested, the dose-rate profile is within the uncertainty bounds. Restricting the data set to only events less than 145 cGy, 86 percent of the events are within the uncertainty bounds. The uncertainty in the forecasts are large, however the forecasts are being made early enough into an SPE that very little of the dose will have reached the crew. Increasing the number of SPEs in the data set increases the accuracy of the forecasts and reduces the uncertainty in the forecasts.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/77</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1107&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>77</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1107</articleid>
+<submission-date>2009-12-23T10:11:20-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098720</context-key>
+<submission-path>utk_graddiss/77</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>L. W. Townsend</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. W. Hines, T. Handler, J. P. Hayward</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

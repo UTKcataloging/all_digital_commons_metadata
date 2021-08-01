@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptive Performance and Power Management in Distributed Computing Systems</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mchen11@utk.edu</email>
+<lname>Chen</lname>
+<fname>Ming</fname>
+</author>
+</authors>
+<keywords>
+<keyword>feedback control</keyword>
+<keyword>performance management</keyword>
+<keyword>power management</keyword>
+<keyword>hierarchical design</keyword>
+<keyword>MIMO</keyword>
+<keyword>MPC</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;The complexity of distributed computing systems has raised two unprecedented challenges for system management. First, various customers need to be assured by meeting their required service-level agreements such as response time and throughput. Second, system power consumption must be controlled in order to avoid system failures caused by power capacity overload or system overheating due to increasingly high server density. However, most existing work, unfortunately, either relies on open-loop estimations based on off-line profiled system models, or evolves in a more ad hoc fashion, which requires exhaustive iterations of tuning and testing, or oversimplifies the problem by ignoring the coupling between different system characteristics (\ie, response time and throughput, power consumption of different servers). As a result, the majority of previous work lacks rigorous guarantees on the performance and power consumption for computing systems, and may result in degraded overall system performance. In this thesis, we extensively study adaptive performance/power management and power-efficient performance management for distributed computing systems such as information dissemination systems, power grid management systems, and data centers, by proposing Multiple-Input-Multiple-Output (MIMO) control and hierarchical designs based on feedback control theory. For adaptive performance management, we design an integrated solution that controls both the average response time and CPU utilization in information dissemination systems to achieve bounded response time for high-priority information and maximized system throughput in an example information dissemination system. In addition, we design a hierarchical control solution to guarantee the deadlines of real-time tasks in power grid computing by grouping them based on their characteristics, respectively. For adaptive power management, we design MIMO optimal control solutions for power control at the cluster and server level and a hierarchical solution for large-scale data centers. Our MIMO control design can capture the coupling among different system characteristics, while our hierarchical design can coordinate controllers at different levels. For power-efficient performance management, we discuss a two-layer coordinated management solution for virtualized data centers. Experimental results in both physical testbeds and simulations demonstrate that all the solutions outperform state-of-the-art management schemes by significantly improving overall system performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/784</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1928&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>784</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1928</articleid>
+<submission-date>2010-08-04T06:34:18-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1423729</context-key>
+<submission-path>utk_graddiss/784</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaorui Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Gregory D. Peterson, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

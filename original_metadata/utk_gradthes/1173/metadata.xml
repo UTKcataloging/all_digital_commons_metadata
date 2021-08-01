@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Verification of a Navier-Stokes Solver with Vorticity Confinement Using OpenFOAM</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>austin.b.kimbrell@gmail.com</email>
+<institution>University of Tennessee</institution>
+<lname>Kimbrell</lname>
+<fname>Austin</fname>
+<mname>Barrett</mname>
+</author>
+</authors>
+<keywords>
+<keyword>CFD</keyword>
+<keyword>Computational Fluid Dynamics</keyword>
+<keyword>Vorticity Confinement</keyword>
+<keyword>numerical analysis</keyword>
+<keyword>flow visualization</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Computational Engineering</discipline>
+<discipline>Computer-Aided Engineering and Design</discipline>
+<discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Vorticity Confinement (VC) is a numerical technique which enhances computation of fluid flows by acting as negative diffusion within the limit of vortical regions, preventing the inherent numerical dissipation present with conventional methods. VC shares similarities with large eddy simulation (LES), but its behavior is based on a stable negative dissipation of vortical structures controlled by the automatic balance between two parameters, &lt;em&gt;μ&lt;/em&gt; [mu] and ε [epsilon].&lt;/p&gt;
+&lt;p&gt;In this thesis, three-dimensional, parallel-computing Navier-Stokes solvers with VC are developed using the OpenFOAM computational framework. OpenFOAM is an open-source collection of C++ libraries developed for computational fluid dynamics. Object-oriented programming concepts are used to develop the finite volume solvers, which introduce the VC source term into the governing equations as a body force. An immersed boundary method is implemented with the VC module to mitigate limitations of body-fitted grids.&lt;/p&gt;
+&lt;p&gt;The developed solvers are examined using two-dimensional boundary layer simulations, which demonstrate that for a given range of confinement parameters the boundary layer can be relaxed to a desired height to approximate a turbulent boundary layer thickness. Unlike wall function models, however, the VC boundary layer can still separate in an adverse pressure gradient. The application of VC to a two-dimensional advecting compact vortex results in the propagation of the vortex without dissipation. Solutions for a three-dimensional backward-facing step are validated against experimental data. The VC simulations show excellent agreement with experimental data for a fixed value of &lt;em&gt;μ&lt;/em&gt; [mu] and a given range of ε [epsilon]. Coarsening the mesh increases inherent numerical dissipation and requires using a smaller value of &lt;em&gt;μ&lt;/em&gt; [mu] to show good agreement with experimental data. Turbulence kinetic energy spectra exhibit a -5/3 slope inertial wavenumber range indicating proper turbulence cascading using the VC model. Simulation of a Formula One racecar represented by an immersed surface demonstrates the suitability of VC for fast prototyping. A time-accurate VC analysis on a 3,400,000 cell coarse mesh appears more realistic in the wake region than a steady RANS simulation on a 30,000,000 cell mesh. The VC solution appears visually comparable to an LES solution but represents a fraction of the computational cost.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1173</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2302&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1173</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2302</articleid>
+<submission-date>2012-03-18T21:23:25-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2302/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2678020</context-key>
+<submission-path>utk_gradthes/1173</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John S. Steinhoff</value>
+</field>
+<field name="advisor2" type="string">
+<value>K. C. Reddy, Joseph C. Yen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Attachments.zip</archive-name>
+<upload-name>Attachments.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2302&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Supplemental visualizations</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

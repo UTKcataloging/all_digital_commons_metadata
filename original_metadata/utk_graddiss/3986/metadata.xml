@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Computer Simulation Model of the Service Component of a Fast Food Operation: Development, Validation, and Use</title>
+<publication-date>1977-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jordan</lname>
+<fname>Sarah</fname>
+<mname>Ritchey</mname>
+</author>
+</authors>
+<disciplines><discipline>Home Economics</discipline>
+</disciplines><abstract>&lt;p&gt;A management tool is needed in the food service industry, especially in the area of fast food service, to generate data on which to base the decision to add menu items which could better meet the nutritional needs of the clientele while maintaining an acceptable margin of profit and meeting service needs of the clientele. A computer simulation model of the service component of a fast food service operation was developed and validated to analyze the influence of an additional menu item on speed of service to the customer and margin of profit realized by management. Data were collected for eight consecutive days in a fast food service operation during peak serving periods. Stopwatch measurements were made of arrival and service times. The composition of the order, number of people in an arrival, and whether the order was to be taken out or eaten in the facility, also, were recorded. The data were analyzed to determine the parameters to be utilized in the simulation model.&lt;/p&gt;
+&lt;p&gt;General Purpose Simulation System/360 (GPSS) was used to model the system. The composition of the order was simulated according to the independent cumulative distributions of the observed frequency of items in each of four established food categories. The number of people in the arrival and whether the order was to be taken out or eaten in were simulated according to the cumulative distributions of the frequencies observed. The mean inter-arrival time for each day was used in the model along with the distribution of the inter-arrival times, all of which were exponential.&lt;/p&gt;
+&lt;p&gt;The service times were divided into three elements. The observed distribution of element one service times, the time required for placing and paying for an order, was used in the simulation model. Element two, the waiting time of the customer after placement of an order and before receipt of food, occurred only when more than one order was taken by the service personnel before the first order was filled. Element three service times included the time required for the employee to fill the order and give to the customer. Element three service times and the corresponding frequency of items ordered within each food category were used to determine through regression analysis the partial regression coefficients by day of each category of food. The regression equation was used in the model to obtain the simulated element three values.&lt;/p&gt;
+&lt;p&gt;The distributions and/or the mean values of the simulated data compared favorably with those of the observed data. Simulations of the system with an expanded menu were done on Friday and Monday to determine the effect of an additional menu item on speed of service to the customer and margin of profit realized by the management. Friday evening, with larger orders and longer service and waiting times of the customer, was more sensitive to the addition of a menu item. The addition of fruit to the menu in the simulation model did not negatively alter the various aspects of the queue on Monday. The conclusion was made that the addition of fruit to the menu during the week should be considered by management. Further study of the system on week end days, especially Friday evenings, was recommended to better assess the addition of fruit during that time. Further research was recommended, also, to identify and quantify other components of the fast food service operation that affect waiting time of the customer and margin of profit realized by management through the collection of refined data over a longer period of time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3986</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5526&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3986</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5526</articleid>
+<submission-date>2016-09-22T09:46:45-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9172230</context-key>
+<submission-path>utk_graddiss/3986</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Betty L. Beach</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mary Jo Hitchcock, D. H. Pike, John M. Larsen,Jr.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Human Ecology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1977-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1977-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

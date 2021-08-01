@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Relationship between Slug-Test and Effective Hydraulic Conductivities for 2-Dimensional Heterogeneous Aquifers</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Donat</lname>
+<fname>Richard</fname>
+<mname>Walker</mname>
+</author>
+</authors>
+<disciplines><discipline>Geology</discipline>
+</disciplines><abstract>&lt;p&gt;Slug tests are one of the most common field tests used by hydrogeologists to evaluate the hydraulic conductivity of an aquifer system. Steady-state and transient (slug test) numerical simulations were run in 37, 2-dimensional randomized multifractal hydraulic conductivity fields. Each field consisted of 59,049 individual saturated hydraulic conductivity (K) values with varying numbers of hydrofacies and different degrees of spatial heterogeneity. The K&lt;sub&gt;eff&lt;/sub&gt; values were determined by examining the flux in and out of the steady-state numerical model. The K&lt;sub&gt;slug&lt;/sub&gt; values were determined by adding a slug of water to the center node of the field and evaluating the numerical head response over time with the Cooper-Bredehoeft-Papadopulos method. The zone of influence of the slug test was also measured for each realization. The variance of ln(K&lt;sub&gt;slug&lt;/sub&gt;) decreased as the zone of influence increased. K&lt;sub&gt;eff&lt;/sub&gt; and K&lt;sub&gt;slug&lt;/sub&gt; were determined on 100 realizations of a specific multifractal field. The K&lt;sub&gt;slug&lt;/sub&gt; values followed a distribution similar to that of the field hydraulic conductivity values, while the K&lt;sub&gt;eff&lt;/sub&gt; values exhibited a much narrower distribution. Linear regression analyses of ln(K&lt;sub&gt;eff&lt;/sub&gt;) on ln(K&lt;sub&gt;slug&lt;/sub&gt;) were performed to evaluate how well the slug test values predicted the effective saturated hydraulic conductivity at each individual scale and over all scales. The results of these regression analyses showed that ln(K&lt;sub&gt;slug&lt;/sub&gt;) underestimates the hydraulic conductivity in low hydraulic conductivity material with high K inclusions and overestimates the hydraulic conductivity in extremely high hydraulic conductivity fields with low K inclusions. Averaging three replicate measurements of ln(K&lt;sub&gt;slug&lt;/sub&gt;) resulted in a significant reduction of error associated with the prediction of ln(K&lt;sub&gt;eff&lt;/sub&gt;). The mean absolute difference between ln(K&lt;sub&gt;eff&lt;/sub&gt;) and ln(K&lt;sub&gt;slug&lt;/sub&gt;) also decreased as the size of the hydrofacies decreased.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3644</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5013&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3644</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5013</articleid>
+<submission-date>2016-02-10T12:17:09-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8126437</context-key>
+<submission-path>utk_gradthes/3644</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Edmund Perfect</value>
+</field>
+<field name="advisor2" type="string">
+<value>Randall W. Gentry, Larry D. McKay</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

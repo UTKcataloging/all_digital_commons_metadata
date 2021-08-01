@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>FLIGHT RISK MANAGEMENT AND CREW RESERVE OPTIMIZATION</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhan105@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Ying</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Risk assessment</keyword>
+<keyword>Risk mitigation</keyword>
+<keyword>Optimization</keyword>
+<keyword>Crew reserve</keyword>
+<keyword>Many-to-many coverage</keyword>
+<keyword>Column generation</keyword>
+</keywords>
+<disciplines><discipline>Other Operations Research, Systems Engineering and Industrial Engineering</discipline>
+<discipline>Risk Analysis</discipline>
+</disciplines><abstract>&lt;p&gt;There are two key concerns in the development process of aviation. One is safety, and the other is cost. An airline running with high safety and low cost must be the most competitive one in the market. This work investigates two research efforts respectively relevant to these two concerns.&lt;/p&gt;
+&lt;p&gt;When building support of a real time Flight Risk Assessment and Mitigation System (FRAMS), a sequential multi-stage approach is developed. The whole risk management process is considered in order to improve the safety of each flight by integrating AHP and FTA technique to describe the framework of all levels of risks through risk score. Unlike traditional fault tree analysis, severity level, time level and synergy effect are taken into account when calculating the risk score for each flight. A risk tree is designed for risk data with flat shape structure and a time sensitive optimization model is developed to support decision making of how to mitigate risk with as little cost as possible. A case study is solved in reasonable time to approve that the model is practical for the real time system.&lt;/p&gt;
+&lt;p&gt;On the other hand, an intense competitive environment makes cost controlling more and more important for airlines. An integrated approach is developed for improving the efficiency of reserve crew scheduling which can contribute to decrease cost. Unlike the other technique, this approach integrates the demand forecasting, reserve pattern generation and optimization. A reserve forecasting tool is developed based on a large data base. The expected value of each type of dropped trip is the output of this tool based on the predicted dropping rate and the total scheduled trips. The rounding step in current applied methods is avoided to keep as much information as possible. The forecasting stage is extended to the optimization stage through the input of these expected values. A novel optimization model with column generation algorithm is developed to generate patterns to cover these expected level reserve demands with minimization to the total cost. The many-to-many covering mode makes the model avoid the influence of forecasting errors caused by high uncertainty as much as possible.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4720</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6074&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4720</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6074</articleid>
+<submission-date>2017-05-15T08:22:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10164091</context-key>
+<submission-path>utk_graddiss/4720</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mingzhou Jin</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Kobza, Xueping Li, David Clarke</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

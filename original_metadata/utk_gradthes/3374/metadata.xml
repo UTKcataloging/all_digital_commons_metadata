@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>User Perspective and Analysis of the Continuous-Energy Sensitivity Methods in SCALE 6.2 using TSUNAMI-3D</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ejones49@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jones</lname>
+<fname>Elizabeth</fname>
+<mname>Lauryn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>continuous-energy</keyword>
+<keyword>sensitivity</keyword>
+<keyword>SCALE</keyword>
+<keyword>TSUNAMI</keyword>
+<keyword>CLUTCH</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Tools for Sensitivity and UNcertainty Analysis Methodology Implementation (TSUNAMI) suite within the SCALE code system makes use of eigenvalue sensitivity coefficients to enable several capabilities, such as quantifying the data-induced uncertainty in calculated eigenvalues and assessing the similarity between different critical systems. The TSUNAMI-3D code is one tool within the TSUNAMI suite used to calculate eigenvalue sensitivity coefficients in three-dimensional models. The SCALE 6.1 code system includes only the multigroup (MG) mode for three-dimensional sensitivity analyses; however, the upcoming release of SCALE 6.2 will feature the first implementation of continuous-energy (CE) sensitivity methods in SCALE. For MG calculations, TSUNAMI-3D provides resonance self-shielding of cross-section data, calculation of the implicit effects of resonance self-shielding calculations, calculation of forward and adjoint Monte Carlo neutron transport solutions, and calculation of sensitivity coefficients. In CE-TSUNAMI, the sensitivity coefficients are computed in a single forward Monte Carlo neutron transport calculation. The two different approaches for calculating eigenvalue sensitivity coefficients in CE-TSUNAMI are the Iterated Fission Probability (IFP) and the Contributon-Linked eigenvalue sensitivity/Uncertainty estimation via Tracklength importance CHaracterization (CLUTCH) methods. Unlike IFP, CLUTCH has a significantly lower memory footprint, is faster, and has been implemented with parallel capability; however, CLUTCH requires additional input parameters, which require additional user expertise.&lt;/p&gt;
+&lt;p&gt;This work summarizes the results of TSUNAMI-3D calculations using both MG and CE CLUTCH methods for various systems in the International Handbook of Evaluated Criticality Safety Benchmark Experiments (IHECSBE) using the SCALE code package developed at Oak Ridge National Laboratory. The critical benchmark experiments will cover both the KENO V.a and KENO-VI codes using the ENDF/B-VII.0 data for the different evaluations. The broad range of types of systems will expand the experience base with the CE-TSUNAMI CLUTCH method by identifying best practices for using the code, and provide generic user guidance for utilizing this new capability. Additionally, the study aims to demonstrate the accuracy and usefulness of the CE-TSUNAMI CLUTCH method, especially for systems for which MG methods perform poorly.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3374</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4615&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3374</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4615</articleid>
+<submission-date>2015-02-26T22:44:45-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4615/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6739296</context-key>
+<submission-path>utk_gradthes/3374</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ondrej Chvala, Lawrence H. Heilbronn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

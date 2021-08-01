@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Privacy-Aware Distributed Storage and Replication Middleware for Heterogeneous Computing Platform</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jliao2@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liao</lname>
+<fname>Jilong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>privacy</keyword>
+<keyword>middleware</keyword>
+<keyword>replication</keyword>
+<keyword>smartphone</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Data Storage Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Cloud computing is an emerging research area that has drawn considerable interest in recent years. However, the current infrastructure raises significant concerns about how to protect users&#39; privacy, in part due to that users are storing their data in the cloud vendors&#39; servers. In this paper, we address this challenge by proposing and implementing a novel middleware, called Uno, which separates the storage of physical data and their associated metadata. In our design, users&#39; physical data are stored locally on those devices under a user&#39;s full control, while their metadata can be uploaded to the commercial cloud. To ensure the reliability of users&#39; data, we develop a novel fine-grained file replication algorithm that exploits both data access patterns and device state patterns. Based on a quantitative analysis of the data set from Rice University, this algorithm replicates data intelligently in different time slots, so that it can not only significantly improve data availability, but also achieve a satisfactory performance on load balancing and storage diversification. We implement the Uno system on a heterogeneous testbed composed of both host servers and mobile devices, and demonstrate the programmability of Uno through implementation and evaluation of two sample applications, Uno@Home and Uno@Sense.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2619</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3512&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2619</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3512</articleid>
+<submission-date>2013-10-08T09:19:54-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4683211</context-key>
+<submission-path>utk_gradthes/2619</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Qing Cao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Wei Gao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

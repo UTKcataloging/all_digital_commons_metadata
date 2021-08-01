@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Fluid Dynamic Modeling of Catalytic Hydrous Pyrolysis of Biomass to Produce Refinery-Ready Bio-Crude Oil</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rhousto2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Houston</lname>
+<fname>Ross</fname>
+<mname>Wesley</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Biomass</keyword>
+<keyword>bio-oil</keyword>
+<keyword>computational fluid dynamics</keyword>
+<keyword>hydrous pyrolysis</keyword>
+<keyword>water gas shift</keyword>
+</keywords>
+<abstract>&lt;p&gt;The growing world population continually increases the demand for energy. Currently, the main source of energy production is fossil fuels, which are harmful to the environment and are finite. An exploration of renewable energy to supplement or replace fossil fuels is of great importance. Modern techniques for producing renewable bio-oil consist of converting biomass into bio-oil through pyrolysis, but unfortunately, pyrolysis oil has quality issues (e.g., high oxygen content, viscosity, chemical instability). Therefore, upgrading is necessary to improve quality. Hydropyrolysis is a state of the art technique to deoxygenate bio-oil during pyrolysis to produce petroleum quality bio-oil. A major issue with hydropyrolysis is the expensive cost of hydrogen.This project aimed to computationally model the hydrous pyrolysis of biomass coupled with an &lt;i&gt;in-situ&lt;/i&gt; hydrogen generation process. The kinetics of the water-gas shift (WGS) were determined experimentally and modeled using an ordinary differential equation subroutine coupled with a nonlinear regression. A computational fluid dynamic (CFD) model of biomass fast pyrolysis was developed to simulate conventional fast pyrolysis. The final part of this project adapted the CFD model to simulate hydrous pyrolysis and incorporate the determined WGS kinetics. The bio-oil was deoxygenated via a global lumped hydrodeoxygenation (HDO) kinetic scheme.This WGS was determined to have an agreement with both an empirical power law and a Langmuir-Hinselwood mechanism at conditions similar to that of pyrolysis. The CO conversion reached a maximum value of 94% at higher temps and larger amounts of catalyst. The CFD model of fast pyrolysis predicted a maximum bio-oil yield of 47%, but significantly under-predicted the amount of water present in the oil. The hydrous pyrolysis simulations have not yet reached steady-state and the HDO reactions are just beginning to take place. Further work is needed to explore more detailed kinetic schemes for the secondary pyrolysis reactions as well as the hydrodeoxygenation kinetics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5122</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6529&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5122</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6529</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415039</context-key>
+<submission-path>utk_gradthes/5122</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nourredine H. Abdoulmoumine</value>
+</field>
+<field name="advisor2" type="string">
+<value>Douglas G. Hayes, Nicole Labbe</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-6505-9535</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

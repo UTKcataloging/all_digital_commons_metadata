@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Real-Time Selective Harmonic Minimization for Multilevel Inverters Using Genetic Algorithm and Artificial Neural Network Angle Generation</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ffilho@utk.edu</email>
+<lname>Filho</lname>
+<fname>Faete Jacques Teixeira</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Neural Network</keyword>
+<keyword>Genetic Algorithm</keyword>
+<keyword>Selective Harmonic Elimination</keyword>
+<keyword>Harmonic Control</keyword>
+<keyword>Real-time control</keyword>
+<keyword>Solar Panels</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;strong&gt;This work approximates the selective harmonic elimination problem using Artificial Neural Networks (ANN) to generate the switching angles in an 11-level full bridge cascade inverter powered by five varying DC input sources. Each of the five full bridges of the cascade inverter was connected to a separate 195W solar panel. The angles were chosen such that the fundamental was kept constant and the low order harmonics were minimized or eliminated. A non-deterministic method is used to solve the system for the angles and to obtain the data set for the ANN training. The method also provides a set of acceptable solutions in the space where solutions do not exist by analytical methods. The trained ANN is a suitable tool that brings a small generalization effect on the angles&#39; precision and is able to perform in real time (50/60Hz time window). &lt;/strong&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1309</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2397&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1309</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2397</articleid>
+<submission-date>2011-11-17T12:06:43-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2397/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2355305</context-key>
+<submission-path>utk_graddiss/1309</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Burak Ozpineci, Bin Hu, Fred Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

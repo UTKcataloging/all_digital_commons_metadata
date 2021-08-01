@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A pulse generator with a temperature-dependent pulse spacing.</title>
+<publication-date>1966-06-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Douglass</lname>
+<fname>Terry</fname>
+<mname>Dean</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Multivibrators are closed-loop, positive-feedback systems having clearly defined stable or quasi-stable states. The nature of the states of such systems further categorizes multivibrators into three types: (1) astable multivibrators which have two quasi-stable states, (2) monostable multivibrators which have one quasi-stable state and one stable state, and (3) bistable multivibrators which have two stable states. Each type of multivibrator produces a signal form unique to its type. The astable multivibrator produces a rectangular wave signal that is self-starting and free-running. The monostable multivibrator produces a rectangular pulse signal that is triggered externally for each pulse. The bistable multivibrator switches from one state to another by external triggering for each state. Basically the astable multivibrator is a signal-generating device. The rectangular waves generated have periods that are functions of the time required to switch from one quasi-stable state to another and back. These periods are dependent on the type of circuit, the parameters of the active devices, and the values of the circuit elements. If transistors are used as the active devices, the signal becomes a function of temperature since transistor parameters are temperature dependent. Also, the circuit elements are temperature dependent. The purpose of this study was to determine the possibilities of generating a digital signal with an astable multivibrator circuit that was linearly dependent on temperature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5786</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7464&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5786</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7464</articleid>
+<submission-date>2021-06-15T05:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23359259</context-key>
+<submission-path>utk_gradthes/5786</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. F. Pierce</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>1966-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

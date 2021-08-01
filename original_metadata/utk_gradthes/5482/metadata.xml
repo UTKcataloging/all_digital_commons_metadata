@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>STUDY OF THE DYNAMIC BEHAVIOR OF MOLTEN-SALT REACTORS</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Singh</lname>
+<fname>Vikram</fname>
+</author>
+</authors>
+<keywords>
+<keyword>molten-salt reactor</keyword>
+<keyword>dynamics</keyword>
+<keyword>modeling</keyword>
+<keyword>fission product poisoning</keyword>
+<keyword>load-following</keyword>
+<keyword>sensitivity analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Molten-Salt Reactors (MSR) are a Gen-IV reactor concept being investigated by companies and institutions alike. These reactors are considerably different from the current fleet of Light-Water Reactors and outside the experience base of most Nuclear Engineers. The fluid nature of the fuel leads to delayed temperature and reactivity feedback effects unique to each reactor design that need to be characterized to determine operability and safety limits. Moreover, the design space under consideration encompasses various fuel-cycles, neutron spectra, and materials. This requires a modeling methodology that can be applied to the breadth of designs under development and is the subject of ongoing research at the University of Tennessee. This thesis presents a dynamic modeling approach that was validated against experimental data from the Molten-Salt Reactor Experiment. The developed lumped-parameter models are nonlinear and represent time rate of change in mass and energy in all parts of the reactor. Reactivity feedbacks arising from changes in temperature and neutron poison concentrations are taken into account. These models can be used to study both the time and frequency response to perturbations caused during normal operating conditions and during anomalies resulting from failure of certain components. The thesis incorporates material published in a series of journal articles and conference proceedings. The validated modeling approach is detailed, and all equations and parameters of interest are listed. Three reactor systems are modeled, namely the Molten-Salt Reactor Experiment, two-fluid Molten-Salt Breeder Reactor, and a plant-level model based on the Molten-Salt Demonstration Reactor. Application of the models to studying operational anomalies, dynamic effects of xenon and samarium neutron poisons, parametric sensitivity analysis, and load-following are also presented. From the investigated perturbations for the presented designs, it is found that these systems are stable and self-regulating. Modeling results suggest that well-designed MSRs with adequate negative feedback exhibit excellent load-following characteristics that can be leveraged to engineer control systems offering a great deal of autonomy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5482</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6890&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5482</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6890</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528622</context-key>
+<submission-path>utk_gradthes/5482</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ondřej Chvála, Laurence Miller, Lawrence Heilbronn</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-8234-2180</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previous published in journal articles and conference proceedings. This material has been incorporated here with permission from the publishers. The first page of each chapter presents a brief background on the work carried out by the author and his colleagues, and provides references to the published articles.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Integrated Approach to Performance Monitoring and Fault Diagnosis of Nuclear Power Systems</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhao</lname>
+<fname>Ke</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation an integrated framework of process performance monitoring and fault diagnosis was developed for nuclear power systems using robust data driven model based methods, which comprises thermal hydraulic simulation, data driven modeling, identification of model uncertainty, and robust residual generator design for fault detection and isolation. In the applications to nuclear power systems, on the one hand, historical data are often not able to characterize the relationships among process variables because operating setpoints may change and thermal fluid components such as steam generators and heat exchangers may experience degradation. On the other hand, first-principle models always have uncertainty and are often too complicated in terms of model structure to design residual generators for fault diagnosis. Therefore, a realistic fault diagnosis method needs to combine the strength of first principle models in modeling a wide range of anticipated operation conditions and the strength of data driven modeling in feature extraction. In the developed robust data driven model-based approach, the changes in operation conditions are simulated using the first principle models and the model uncertainty is extracted from plant operation data such that the fault effects on process variables can be decoupled from model uncertainty and normal operation changes. It was found that the developed robust fault diagnosis method was able to eliminate false alarms due to model uncertainty and deal with changes in operating conditions throughout the lifetime of nuclear power systems.&lt;/p&gt;
+&lt;p&gt;Multiple methods of robust data driven model based fault diagnosis were developed in this dissertation. A complete procedure based on causal graph theory and data reconciliation method was developed to investigate the causal relationships and the quantitative sensitivities among variables so that sensor placement could be optimized for fault diagnosis in the design phase. Reconstruction based Principal Component Analysis (PCA) approach was applied to deal with both simple faults and complex faults for steady state diagnosis in the context of operation scheduling and maintenance management. A robust PCA model-based method was developed to distinguish the differences between fault effects and model uncertainties. In order to improve the sensitivity of fault detection, a hybrid PCA model based approach was developed to incorporate system knowledge into data driven modeling. Subspace identification was proposed to extract state space models from thermal hydraulic simulations and a robust dynamic residual generator design algorithm was developed for fault diagnosis for the purpose of fault tolerant control and extension to reactor startup and load following operation conditions.&lt;/p&gt;
+&lt;p&gt;The developed robust dynamic residual generator design algorithm is unique in that explicit identification of model uncertainty is not necessary.&lt;/p&gt;
+&lt;p&gt;Finally, it was demonstrated that the developed new methods for the IRIS Helical Coil Steam Generator (HCSG) system. A simulation model was first developed for this system. It was revealed through steady state simulation that the primary coolant temperature profile could be used to indicate the water inventory inside the HCSG tubes.&lt;/p&gt;
+&lt;p&gt;The performance monitoring and fault diagnosis module was then developed to monitor sensor faults, flow distribution abnormality, and heat performance degradation for both steady state and dynamic operation conditions.&lt;/p&gt;
+&lt;p&gt;This dissertation bridges the gap between the theoretical research on computational intelligence and the engineering design in performance monitoring and fault diagnosis for nuclear power systems. The new algorithms have the potential of being integrated into the Generation III and Generation IV nuclear reactor I&amp;C design after they are tested on current nuclear power plants or Generation IV prototype reactors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2307</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3887&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2307</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3887</articleid>
+<submission-date>2013-10-18T13:42:36-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4740171</context-key>
+<submission-path>utk_graddiss/2307</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>J.W. Hines, J.F. Wasserman, A.R. Ruggles</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

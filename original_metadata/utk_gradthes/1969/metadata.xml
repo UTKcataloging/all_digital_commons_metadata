@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>3D Visualization Modules for Chemical Engineering – A Web-Based Approach Using Java and OpenGL</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gupta</lname>
+<fname>Sharad</fname>
+<mname>Anant</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The main objective of this work is to implement web-based educational modules for chemical engineering students. Phase behavior is a topic with which the students seem to struggle with, particularly for mixtures, where a 2-D representation of the phase diagram falls far short of the understanding a 3-D model can provide. Using the platform-independence of Java and the graphics capability of OpenGL, three phase diagram Java applets have been developed. Users can view these web-based 3D applets by installing a plug-in. These modules provide users with an ability to rotate the 3D models, slice through them, zoom into them and view their various 2D projections. Also, a molecular simulation applet for measuring chemical potential of binary mixtures has been developed, using a Java-based molecular simulation application-programming interface (API).&lt;/p&gt;
+&lt;p&gt;First, the thesis presents a brief overview of phase diagrams and explains why modeling them using computer graphics is useful. While visualization involves the merging of data with the display of geometric objects through computer graphics, it is important to study the software issues involved in web-based visualization. The paper explains the visualization framework by describing the visualization pipeline and then using it as a guideline for the development of the modules.&lt;/p&gt;
+&lt;p&gt;Next, the paper describes the development of the molecular simulation applet using a molecular simulation API - &lt;em&gt;Etomica&lt;/em&gt;. The Java applet provides for dynamic modification and interrogation of the simulation, while it is in progress, which enables students to see directly the effect of changing state conditions or molecular interactions on the behavior of the molecules and on the outcome of the simulation.&lt;/p&gt;
+&lt;p&gt;It is hoped that by using these web-based 3D phase diagrams the chemical engineering students would gain a better understanding of the complicated 3D models, making this package a useful instructional aid. It is also hoped that the molecular simulation applet would be an effective tool to help students understand molecular simulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1969</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3327&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1969</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3327</articleid>
+<submission-date>2013-09-26T12:01:57-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4633961</context-key>
+<submission-path>utk_gradthes/1969</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Peter Cummings</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Ward, Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

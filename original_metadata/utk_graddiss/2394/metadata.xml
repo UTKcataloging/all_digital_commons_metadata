@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Investigation of Markov Random Fields for Bayesian Reconstruction of Single Photon Emission Computed Tomography</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>arrowood@utk.edu</email>
+<lname>Arrowood</lname>
+<fname>Lloyd</fname>
+<mname>Fredrick</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Markov Random Fields</keyword>
+<keyword>Bayesian Reconstruction</keyword>
+<keyword>Line Processes</keyword>
+<keyword>Computed Tomography</keyword>
+<keyword>SPECT</keyword>
+</keywords>
+<disciplines><discipline>Vision Science</discipline>
+</disciplines><abstract>&lt;p&gt;This research investigates the use of Markov random fields for Bayesian reconstruction algorithms to be used with high-resolution and high-sensitivity SPECT systems for small animal imaging. It extends previous research on mechanical models for Bayesian image reconstruction by using a three-dimensional nonconforming finite element model and linear elasticity concepts to derive minimum potential energy functionals which regularize the reconstruction process. It combines dual collimator SPECT projection data by using high-resolution data to penalize lower-resolution data. It compares the new three-dimensional penalized reconstruction technique with existing penalized techniques through the use of modulation transfer and contrast discrimination functions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2394</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2617&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2394</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2617</articleid>
+<submission-date>2012-06-22T08:19:56-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3018118</context-key>
+<submission-path>utk_graddiss/2394</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Charles Collins, Michael Thomason, Jonathan Wall</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Kinetic and Thermodynamic Modeling of Long Term Phase Stability in Alloy 800H Subjected to LWR Core Conditions</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wpratt1@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pratt</lname>
+<fname>Wayne</fname>
+<mname>Ethan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Phase Stability</keyword>
+<keyword>800H</keyword>
+<keyword>Kinetic Modeling</keyword>
+<keyword>Thermodynamic Modeling</keyword>
+<keyword>Reactor Core</keyword>
+<keyword>Light Water Reactor</keyword>
+</keywords>
+<disciplines><discipline>Materials Science and Engineering</discipline>
+<discipline>Nuclear Engineering</discipline>
+<discipline>Other Materials Science and Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An in depth literature review of Incoloy Alloy 800H was conducted and presented to summarize the current understanding of microstructural evolution under irradiation and secondary phase precipitate stability. Due to a lack of radiation induced segregation (RIS) data for Alloy 800H, Isopleth sections varying Cr, Ni, Ti, and Si were generated from a computational thermodynamics approach using ThermoCalc and analyzed to compensate for knowledge related to radiation induced precipitates (RIP’s). These isopleths were analyzed for a composition range based off previous knowledge of RIS tendencies in austenitic stainless steels. Analysis of four major binary phase diagrams and complex phase diagrams calculated through ThermoCalc and MatCalc were used to simulate the precipitation kinetics during the lifetime of Incoloy Alloy 800H used in a light water reactor (LWR) core setting. These aging simulations were then conducted using the MatCalc heat treatments tool with M&lt;sub&gt;23&lt;/sub&gt;C&lt;sub&gt;6&lt;/sub&gt; [Chromium Carbide], Sigma, and Ni&lt;sub&gt;3&lt;/sub&gt;Ti [Gamma Prime] set as the precipitates of interest.&lt;/p&gt;
+&lt;p&gt;A discrepancy was found relating to the presence of sigma phase at low temperatures between ThermoCalc and MatCalc complex phase diagram calculations. Several minor phases were noted from the complex phase diagrams and isopleths for further research. Isopleth sections revealed that no major RIP’s should form given the current assumption of RIS behavior. Simulations of precipitation kinetics predict a precipitate coarsening somewhere between 6-7 years of operation for M&lt;sub&gt;23&lt;/sub&gt;C­&lt;sub&gt;6&lt;/sub&gt; [Chromium Carbide] precipitates. This results in a decline in number density and an increase in precipitate size. Anticipated radiation induced segregation has very little effect on M&lt;sub&gt;23&lt;/sub&gt;C&lt;sub&gt;6­&lt;/sub&gt; [Chromium Carbide] precipitate size, however increasing RIS results in the formation of fewer M&lt;sub&gt;23&lt;/sub&gt;C&lt;sub&gt;6&lt;/sub&gt; [Chromium Carbide] precipitates. Sigma phase is found to increase in amount and decrease in size as segregation increases until the number of precipitates reaches a maximum between 20.42 and 14.42 wt% Cr. At doses greater than this the density of sigma precipitates is expected to decrease while the size of precipitates is expected to remain consistent.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3602</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4902&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3602</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4902</articleid>
+<submission-date>2015-10-07T10:30:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7689682</context-key>
+<submission-path>utk_gradthes/3602</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven J. Zinkle</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian D. Wirth, Kurt E. Sickafus</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Materials Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

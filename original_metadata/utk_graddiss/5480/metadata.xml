@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Attention Mechanism for Recognitionin Computer Vision</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>withdrawn</state>
+<authors>
+<author>
+<email>arahimpo@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Rahimpour</lname>
+<fname>Alireza</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Attention mechanism</keyword>
+<keyword>Machine learning</keyword>
+<keyword>Deep Learning</keyword>
+<keyword>Computer Vision</keyword>
+<keyword>Meta-learning</keyword>
+<keyword>Image retrieval and matching</keyword>
+<keyword>Person Re-identification</keyword>
+<keyword>Object detection</keyword>
+<keyword>Feature selection.</keyword>
+</keywords>
+<abstract>&lt;p&gt;It has been proven that humans do not focus their attention on an entire scene at once when they perform a recognition task. Instead, they pay attention to the most important parts of the scene to extract the most discriminative information. Inspired by this observation, in this dissertation, the importance of attention mechanism in recognition tasks in computer vision is studied by designing novel attention-based models. In specific, four scenarios are investigated that represent the most important aspects of attention mechanism.First, an attention-based model is designed to reduce the visual features&#39; dimensionality by selectively processing only a small subset of the data. We study this aspect of the attention mechanism in a framework based on object recognition in distributed camera networks. Second, an attention-based image retrieval system (i.e., person re-identification) is proposed which learns to focus on the most discriminative regions of the person&#39;s image and process those regions with higher computation power using a deep convolutional neural network. Furthermore, we show how visualizing the attention maps can make deep neural networks more interpretable. In other words, by visualizing the attention maps we can observe the regions of the input image where the neural network relies on, in order to make a decision. Third, a model for estimating the importance of the objects in a scene based on a given task is proposed. More specifically, the proposed model estimates the importance of the road users that a driver (or an autonomous vehicle) should pay attention to in a driving scenario in order to have safe navigation. In this scenario, the attention estimation is the final output of the model. Fourth, an attention-based module and a new loss function in a meta-learning based few-shot learning system is proposed in order to incorporate the context of the task into the feature representations of the samples and increasing the few-shot recognition accuracy.In this dissertation, we showed that attention can be multi-facet and studied the attention mechanism from the perspectives of feature selection, reducing the computational cost, interpretable deep learning models, task-driven importance estimation, and context incorporation. Through the study of four scenarios, we further advanced the field of where &#39;&#39;attention is all you need&#39;&#39;.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5480</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7126&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5480</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7126</articleid>
+<submission-date>2020-08-13T18:48:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911313</context-key>
+<withdrawn>2020-08-16</withdrawn>
+<submission-path>utk_graddiss/5480</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Russell Zaretzki, Seddik M. Djouadi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-3716-1900</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

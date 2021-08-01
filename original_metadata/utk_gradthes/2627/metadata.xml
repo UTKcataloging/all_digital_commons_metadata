@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>BUDGET-CONSTRAINED POWER SYSTEM RELIABILITY OPTIMIZATION</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rmostell@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mosteller</lname>
+<fname>Robert</fname>
+<mname>Jonathan</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Electric utilities face constant pressure from regulators to defer rate increases while simultaneously maintaining or improving levels of service. Capital spending projects are coming under increasing scrutiny as the costs of the projects can no longer be assumed to be rolled into projected rate increases. At the same time, utility customers expect near uninterrupted service to their homes and businesses. Electric lines and components that make up the power system are getting older and are reaching or have exceeded an assumed end-of-life.&lt;/p&gt;
+&lt;p&gt;Planners at these utilities need a way to prioritize constrained budget dollars across seemingly disparate transmission, substation, and distribution work areas. This thesis provides a framework for quantifying the reliability impacts of these different projects as measured by Customer-Minutes of Interruption (CMI) avoided. Transmission lines are modeled as continuous time Markov processes with common-cause failure modes. The parallel-series configuration of the substation and failure modes of its components is evaluated using Failure Mode and Effects Analysis (FMEA). Circuit breaker operational failures are evaluated and Poisson process models are fitted by interrupting medium. The transmission and substation systems are then evaluated as a decoupled equivalent source per feeder in series with the distribution system. Competing projects impacts are evaluated and prioritized based upon dollars spent per CMI avoided ($/CMI).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2627</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3839&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2627</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3839</articleid>
+<submission-date>2013-11-05T10:38:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4796278</context-key>
+<submission-path>utk_gradthes/2627</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James Ostrowski</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mingzhou Jin, Jamie B. Coble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Reliability and Maintainability Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>cdf_coefficients.xlsx</archive-name>
+<upload-name>cdf_coefficients.xlsx</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=3839&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</mime-type>
+<description>Customer Damage Function Coefficients</description>
+</file>
+<file>
+<archive-name>feeder_summary.xls</archive-name>
+<upload-name>feeder_summary.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=3839&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Feeder Breaker Failure Data</description>
+</file>
+<file>
+<archive-name>system_mcf.xls</archive-name>
+<upload-name>system_mcf.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=3839&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Pooled Feeder Breaker MCF &amp; Failure Prediction</description>
+</file>
+<file>
+<archive-name>oil_mcf.xls</archive-name>
+<upload-name>oil_mcf.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=3839&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Oil Breaker MCF &amp; Failure Prediction</description>
+</file>
+<file>
+<archive-name>vacuum_mcf.xls</archive-name>
+<upload-name>vacuum_mcf.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=3839&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Vacuum Breaker MCF &amp; Failure Prediction</description>
+</file>
+<file>
+<archive-name>gas_mcf.xls</archive-name>
+<upload-name>gas_mcf.xls</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=3839&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/vnd.ms-excel</mime-type>
+<description>Gas Breaker MCF &amp; Failure Prediction</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

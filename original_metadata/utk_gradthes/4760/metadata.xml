@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of Highly-Enriched Uranium Spectra Obtained with Lanthanum Bromide Scintillation Detection Systems</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dmcfall2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>McFall</lname>
+<fname>Danielle</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Lanthanum Bromide</keyword>
+<keyword>Highly-Enriched Uranium</keyword>
+<keyword>Nondestructive Analysis</keyword>
+<keyword>Gamma Spectrometry</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Cerium-doped lanthanum bromide scintillation detection systems have recently been examined as an alternative to conventional detection systems, namely high-purity germanium, cadmium zinc telluride, and thallium-doped sodium iodide systems for various reasons including portability, sizing, and efficacy. As a non-destructive assay technique, these detectors quantify gamma rays from various samples to measure and identify specific radioisotopes. In nuclear facilities specializing in uranium, these detectors are mainly utilized to detect characteristic low-energy gamma rays of uranium-235, specifically, 143 keV, 163 keV, 186 keV, 202 keV and 205 keV gamma rays. Accurately distinguishing closely-spaced gamma rays in spectral data is a common challenge in the non-destructive assay field that is typically tackled through programs that analyze gamma-ray photopeaks. Unfortunately, standardized programs that cater to conventional detectors do not produce accurate results for highly-enriched uranium samples examined by lanthanum bromide detectors, as lanthanum bromide crystals have their own intrinsic background radiation and resolution. Thus, the development of a program that could anticipate and accurately analyze spectra of sources containing uranium-235 from lanthanum bromide detection systems was conducted and is presented in this thesis.&lt;/p&gt;
+&lt;p&gt;In the spectral analysis program formed, uranium-235 source spectra are calibrated and subtractions of an intrinsic background spectrum, high-energy gamma-ray Compton continua, and a scatter-in Compton continuum from the 186 keV gamma ray proceeds. The program then fits Gaussian functions to each characteristic photopeak to determine its area, width, and centroid. The peak information retrieved from this program will ultimately be used with a separate differential attenuation program to quantify the amount of uranium-235. The spectral analyzation program developed can characterize the mass of uranium-235 in a sample to 10.33 percent error using a lanthanum bromide detection system without the use of a differential attenuation program. It should be noted that the primary purpose of determining uranium-235 mass with the spectra analyzation program alone was to investigate which uranium-235 photopeaks were susceptible to systematic errors and to guide future development in background subtraction methodologies. Overall, the software created in this research is successful in quickly characterizing lanthanum bromide spectra and is suggested for use in future non-destructive assay application&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4760</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5804&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4760</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5804</articleid>
+<submission-date>2017-02-24T06:26:46-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9742795</context-key>
+<submission-path>utk_gradthes/4760</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence H. Heilbronn</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jason P. Hayward, Steven E. Skutnik</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis, Modeling and Testing of a Multi-Receiver Wireless System for Telemetry Applications</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ebel</lname>
+<fname>Thomas</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis investigates the potential value of multiple co-located receiver units for telemetry applications. In this thesis, a test board based on the NRF24L01 RF chip produced by Nordic Semiconductor was tested. Testing consisted of sending pseudo-random test data over a link between two test boards at progressive distances. Packet loss rate was identified as the dominant failure mode of the chip, and was used to determine performance increase. A parametric model of the chip performance was developed based on coherent and noncoherent FSK detectors and curve fit to the experimental data to model the performance of a single GFSK receiver with unknown parameters. The chip exhibited an estimated 10 fold improvement in bit error performance at short range, with the performance improvement dropping off as distance increased. This result implies that there may be significant utility to using multiple receiver systems when traditional methods of improving performance such as amplifiers and antennas do not provide the necessary benefit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/121</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1152&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>121</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1152</articleid>
+<submission-date>2010-02-08T11:58:52-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1136159</context-key>
+<submission-path>utk_gradthes/121</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce Bomar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Solies, Montgomery Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/EbelThomas.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control of a Heat Flux in a Parabolic Partial Differential Equation</title>
+<publication-date>1992-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Deaton</lname>
+<fname>Katherine</fname>
+<mname>Renee</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;We consider the problem of controlling the solution of a parabolic partial differential equation with non-homogeneous Neumann boundary conditions, taking the flux as the control. We take as our cost functional the sum of the L&lt;sup&gt;2&lt;/sup&gt; norms of the control and the difference between the temperature distribution attained and the desired temperature profile. We establish the existence of an optimal control that minimizes the cost functional. The optimal control is characterized in a constructive way through the solution to the optimality system, which is the original problem coupled with an adjoint problem. We establish existence and uniqueness of the solution of the optimality system. Thus, we find the unique optimal control in terms of the solution to the optimality system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4212</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5670&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4212</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5670</articleid>
+<submission-date>2016-11-10T11:47:52-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9366767</context-key>
+<submission-path>utk_gradthes/4212</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne M. Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>D. G. Wilson, Philip Schaefer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1992-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1992-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

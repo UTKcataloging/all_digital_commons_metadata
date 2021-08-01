@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Simulating High Flux Isotope Reactor Core Thermal-Hydraulics via Interdimensional Model Coupling</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>atravis6@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Travis</lname>
+<fname>Adam</fname>
+<mname>Ross</mname>
+</author>
+</authors>
+<keywords>
+<keyword>HFIR</keyword>
+<keyword>High Flux Isotope Reactor</keyword>
+<keyword>Turbulence</keyword>
+<keyword>COMSOL</keyword>
+<keyword>Interdimensional</keyword>
+<keyword>Coupling</keyword>
+</keywords>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A coupled interdimensional model is presented for the simulation of the thermal-hydraulic characteristics of the High Flux Isotope Reactor core at Oak Ridge National Laboratory. The model consists of two domains—a solid involute fuel plate and the surrounding liquid coolant channel. The fuel plate is modeled explicitly in three-dimensions. The coolant channel is approximated as a two-dimensional slice oriented perpendicular to the fuel plate’s surface. The two dimensionally-inconsistent domains are linked to one another via interdimensional model coupling mechanisms. The coupled model is presented as a simplified alternative to a fully explicit, fully three-dimensional model. Involute geometries were constructed in SolidWorks. Derivations of the involute construction equations are presented. Geometries were then imported into COMSOL Multiphysics for simulation and modeling. Both models are described in detail so as to highlight their respective attributes—in the 3D model, the pursuit of an accurate, reliable, and &lt;em&gt;complete&lt;/em&gt; solution; in the coupled model, the intent to simplify the modeling domain as much as possible without affecting significant alterations to the solution. The coupled model was created with the goal of permitting larger portions of the reactor core to be modeled at once without a significant sacrifice to solution integrity. As such, particular care is given to validating incorporated model simplifications. To the greatest extent possible, the decrease in solution time as well as computational cost are quantified versus the effects such gains have on the solution quality. A variant of the coupled model which sufficiently balances these three solution characteristics is presented alongside the more comprehensive 3D model for comparison and validation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2759</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4001&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2759</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4001</articleid>
+<submission-date>2014-02-28T10:35:30-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4001/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5237945</context-key>
+<submission-path>utk_gradthes/2759</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay Frankel, Rao Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

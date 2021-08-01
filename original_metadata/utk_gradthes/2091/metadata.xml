@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enhancing System-on-Chip Verification Using Embedded Test Structures</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jiang</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this project, we designed and implemented a System-on-Chip platform with embedded test structures. The baseline platform consists of a Leon2 CPU, AMBA on-chip bus, and an Advanced Encryption Standard decryption module. Reconfigurable test logic blocks were embedded to form the test structure that can be used in post-silicon debug and verification.&lt;/p&gt;
+&lt;p&gt;The System-on-Chip platform was designed at the register transistor level and implemented in an 180nm CMOS process. Test logic instrumentation was done with DAFCA, Inc. (Design Automation for Flexible Chip Architecture) pre-silicon tools. The design was then synthesized using the Synopsys Design Compiler and placed and routed using Cadence SOC Encounter. Total transistor count is about 2 million, including 800K transistors for original platform and 700K for debugging module serving as on chip logic analyzer. Core size of the design is 3mm x 3mm and the system is working at 15MHz. Design verification was done with Mentor Graphics ModelSim and Cadence NCSim. Simulations were also used with the post-silicon environment to verify the functionality of the embedded test structure.&lt;/p&gt;
+&lt;p&gt;With a baseline platform ready and verified, designers can obtain high quality derivative designs quickly and easily. The visibility and the controllability of internal signals can greatly accelerate the testing and debug process, while the ability of post-silicon logic fixing can be used to verify design patch and enhance the reliability of the design. The whole design flow is cost effective in multi-million-transistor design because re-spins and delays in bringing a product to market may be avoided.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2091</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3448&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2091</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3448</articleid>
+<submission-date>2013-10-03T10:36:45-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4663429</context-key>
+<submission-path>utk_gradthes/2091</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Don Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Syed Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

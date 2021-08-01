@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Maximal Clique Enumeration and Related Tools for Microarray Data Analysis</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Baldwin</lname>
+<fname>Nicole</fname>
+<mname>E.</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study was to investigate the utility of exact maximal clique enumeration in DNA microarray analysis, to analyze and improve upon existing exact maximal clique enumeration algorithms, and to develop new clique-based algorithms to assist in the analysis as indicated during the course of the study. As a first test, microarray data sets comprised of pre-classified human lung tissue samples were obtained through the Critical Assessment of Microarray Data Analysis (CAMDA) conference. A combination of exact maximal clique enumeration and approximate dominating set was used to attempt to classify the samples.&lt;/p&gt;
+&lt;p&gt;In another test, maximal clique enumeration was used for a priori clustering of microarray data from &lt;em&gt;Mus musculus&lt;/em&gt; (mouse). Cliques from this graph, though smaller than the anticipated groups of co-regulated genes, exhibited a high degree of overlap. Many genes within the overlap are either known or suspected to be involved in one or more gene regulatory networks.&lt;/p&gt;
+&lt;p&gt;Experimental tests of four exact maximal clique enumeration algorithms on graphs derived from &lt;em&gt;Mus musculus&lt;/em&gt; data normalized by either RMA or MAS 5.0 software were performed. A branch and bound Bron and Kerbosch algorithm was shown to perform the best on the widest range of inputs. A base Bron and Kerbosch algorithm was faster on very sparse graphs, but slowed considerably as edge density increased. Both the Kose and greedy algorithms were significantly slower than both Bron and Kerbosch algorithms on all inputs.&lt;/p&gt;
+&lt;p&gt;Means to improve further the branch and bound Bron and Kerbosch algorithm were then considered. Two preprocessing rules and more exacting bounds were added to the algorithm both together and separately. The low degree preprocessing rule was found to improve performance most consistently, though significant improvement was only observed with the sparsest graphs, where improvement is least necessary.&lt;/p&gt;
+&lt;p&gt;Finally, a first attempt at developing an algorithm that would integrate genes that were likely excluded from a clique as a result of noise into the appropriate group was made. Initial testing of the resulting paraclique algorithm revealed that the algorithm maintains the desired high level of inter-group edge density while expanding the core clique to a more acceptable size. Research in this area is ongoing.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4654</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6251&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4654</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6251</articleid>
+<submission-date>2017-08-02T10:17:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10531553</context-key>
+<submission-path>utk_gradthes/4654</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>David Straight, Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multiperspective mosaics and layered representation for scene visualization</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Ng</lname>
+<fname>Jin-Choon</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This thesis documents the efforts made to implement multiperspective mosaicking for the purpose of mosaicking undervehicle and roadside sequences. For the undervehicle sequences, it is desired to create a large, high-resolution mosaic that may used to quickly inspect the entire scene shot by a camera making a single pass underneath the vehicle. Several constraints are placed on the video data, in order to facilitate the assumption that the entire scene in the sequence exists on a single plane. Therefore, a single mosaic is used to represent a single video sequence. Phase correlation is used to perform motion analysis in this case. For roadside video sequences, it is assumed that the scene is composed of several planar layers, as opposed to a single plane. Layer extraction techniques are implemented in order to perform this decomposition. Instead of using phase correlation to perform motion analysis, the Lucas-Kanade motion tracking algorithm is used in order to create dense motion maps. Using these motion maps, spatial support for each layer is determined based on a pre-initialized layer model. By separating the pixels in the scene into motion-specific layers, it is possible to sample each element in the scene correctly while performing multiperspective mosaicking. It is also possible to fill in many gaps in the mosaics caused by occlusions, hence creating more complete representations of the objects of interest. The results are several mosaics with each mosaic representing a single planar layer of the scene.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5270</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6678&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5270</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6678</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847153</context-key>
+<submission-path>utk_gradthes/5270</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

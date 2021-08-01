@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Digitally Interfaced Analog Correlation Filter System for Object Tracking Applications</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mjudy@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Judy</lname>
+<fname>Mohsen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Analog Integrated Circuit design</keyword>
+<keyword>mixed-signal IC design</keyword>
+<keyword>analog signal processing</keyword>
+<keyword>image processing</keyword>
+<keyword>object detection</keyword>
+<keyword>object tracking</keyword>
+</keywords>
+<abstract>&lt;p&gt;Advanced correlation filters have been employed in a wide variety of image processing and pattern recognition applications such as automatic target recognition and biometric recognition. Among those, object recognition and tracking have received more attention recently due to their wide range of applications such as autonomous cars, automated surveillance, human-computer interaction, and vehicle navigation.Although digital signal processing has long been used to realize such computational systems, they consume extensive silicon area and power. In fact, computational tasks that require low to moderate signal-to-noise ratios are more efficiently realized in analog than digital. However, analog signal processing has its own caveats. Mainly, noise and offset accumulation which degrades the accuracy, and lack of a scalable and standard input/output interface capable of managing a large number of analog data.Two digitally-interfaced analog correlation filter systems are proposed. While digital interfacing provided a standard and scalable way of communication with pre- and post-processing blocks without undermining the energy efficiency of the system, the multiply-accumulate operations were performed in analog. Moreover, non-volatile floating-gate memories are utilized as storage for coefficients. The proposed systems incorporate techniques to reduce the effects of analog circuit imperfections.The first system implements a 24x57 Gilbert-multiplier-based correlation filter. The I/O interface is implemented with low-power D/A and A/D converters and a correlated double sampling technique is implemented to reduce offset and lowfrequency noise at the output of analog array. The prototype chip occupies an area of 3.23&lt;i&gt;mm&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; and demonstrates a 25.2pJ/MAC energy-efficiency at 11.3 kVec/s and 3.2% RMSE.The second system realizes a 24x41 PWM-based correlation filter. Benefiting from a time-domain approach to multiplication, this system eliminates the need for explicit D/A and A/D converters. Careful utilization of clock and available hardware resources in the digital I/O interface, along with application of power management techniques has significantly reduced the circuit complexity and energy consumption of the system. Additionally, programmable transconductance amplifiers are incorporated at the output of the analog array for offset and gain error calibration. The prototype system occupies an area of 0.98&lt;i&gt;mm&lt;i&gt;&lt;sup&gt;2&lt;/sup&gt; and is expected to achieve an outstanding energy-efficiency of 3.6pJ/MAC at 319kVec/s with 0.28% RMSE.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4978</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6519&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4978</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6519</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415239</context-key>
+<submission-path>utk_graddiss/4978</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy H. Holleman III</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Syed K. Islam, Vasileios Maroulas</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2257-959X</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Watershed Classification System Based on Headwater Catchments in Great Smoky Mountains National Park, Tennessee-North Carolina</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lafrenz</lname>
+<fname>Martin</fname>
+<mname>Dietrich</mname>
+</author>
+</authors>
+<disciplines><discipline>Geography</discipline>
+</disciplines><abstract>&lt;p&gt;Headwater areas in the southeastern U.S., as well as elsewhere, have received little attention from researchers, even though headwater catchments comprise over 70% of the land area in the southeastern highlands. The small, low-order streams that drain these catchments are greatly affected by hillslope processes within their watersheds. As such, there exists a strong link between upland landscape history and a headwater stream’s condition, including its channel morphology, habitat, and water quality. I employ this tight connection between landscape-scale attributes and reach-scale morphology in order to develop a headwater catchment classification system for Great Smoky Mountains National Park that describes the variation in stream channel morphology explicitly as a function of catchment characteristics. When developing a classification system, I test two separate classification techniques. First, I assess whether a ‘top-down’ statistical clustering approach, based exclusively on landscape-scale attributes, will distinguish groups of catchments that have significantly distinct types of stream channel morphology. In the second approach, the ‘bottom-up’ technique, I test whether catchments grouped by their respective distinct types of stream channels show any significant relationships between stream channel morphology and landscape-scale attributes.&lt;/p&gt;
+&lt;p&gt;For the top-down technique, I use a geographic information system (GIS) and a digital elevation model (DEM) to delineate 862 headwater catchments in the study area; I then use a two-step clustering procedure to create six groups based on catchment area, circularity, resultant aspect, mean elevation, mean slope, and the percentages of burned area, pristine area, small-scale logging, extensive logging, settled areas, weak rocks, medium-strength rocks, strong rocks, and very strong rocks. Based on a stratified random sample, I use these groups to select 51 catchments for the collection of channel morphology information, which includes bankfull width, depth, and cross-sectional area, reach slope, median particle size, and the stored sediment in a riffle. These data are used to test the efficacy of the top-down technique in creating catchment groups with different types of stream channels based on an analysis of variance (ANOVA) procedure. For the bottom-up classification, I use the stream channel morphology data in a principal components analysis (PCA) and a two-step cluster procedure to create five groups of catchments based on the similarity of stream channel morphology information. I then use a multinomial logistic regression analysis to test how well the bottom-up classified catchment group membership is predicted when using the landscape-scale attributes as independent variables. Finally, I test if either headwater classification technique creates catchment groups with significantly different stream water chemistry.&lt;/p&gt;
+&lt;p&gt;The top-down classification creates groups of catchments with different combinations of landscape-scale attributes, but these groups do not have significantly different types of stream channels. This is largely because the top-down approach is not a purely process-driven model; rather, it mathematically clusters groups according to a few dominant and shared landscape-scale attributes. As a result, some catchments have one or more statistically important but trivial attributes that offset the geomorphic influence of the dominant attribute on stream channel morphology. The top-down approach also does not account for convergence, where different combinations of attributes produce similar channel morphology. In contrast, the bottom-up approach is driven by geomorphic process; specifically, the catchment groups represent transitional states in the expected response to anthropogenic hillslope disturbances (logging intensity and settlement) of stream channels that are either aggrading, degrading, or in dynamic equilibrium. Bottom-up catchment group membership is predicted with better than 80% accuracy using the relationship between stream type and landscape-scale attributes. This occurs even though several bottom-up catchment groups share a few important landscape-scale attributes. Thus, various types of stream channels can form in similar catchments that differ only in disturbance intensity. Stream water chemistry does not differ between the top-down classified groups. However, with respect to the bottom-up classification, a significant difference exists between catchment groups regarding total nitrogen; catchment groups with high percentages of pristine forest have correspondingly high total nitrogen values as a result of nitrogen saturation in those areas.&lt;/p&gt;
+&lt;p&gt;Landscape sensitivity, the degree of change in discharge and sediment flux following disturbance, is also possibly captured by the bottom-up watershed classification technique. As such, this more process-driven watershed classification serves as a metric in identifying the landscape-scale attributes that are most important in maintaining a particular type of stream channel morphology. Therefore, this classification allows researchers and land managers to anticipate possible changes in stream channel habitat as a function of proposed land use changes. It can also be used to identify areas that are particularly vulnerable to landscape change, as well as areas that might be somewhat resilient to various hillslope disturbance processes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2236</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3655&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2236</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3655</articleid>
+<submission-date>2013-10-08T11:00:44-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4684038</context-key>
+<submission-path>utk_graddiss/2236</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Carol P. Harden</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth H. Orvis, Edmund Perfect, Shih-Lung Shaw</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

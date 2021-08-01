@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterization and Realization of High Switching-speed Capability of SiC Power Devices in Voltage Source Converter</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zzhang31@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Zheyu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SiC</keyword>
+<keyword>Switching Characterization</keyword>
+<keyword>Intelligent Gate Driver</keyword>
+<keyword>Optimal Interconnection</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The emerging wide band-gap, silicon carbide (SiC) power devices greatly improve the switching performance due to their inherent fast switching capability. However, the high switching-speed performance makes their switching behavior become more susceptible to parasitics of the application circuit. In the end, unlike the excellent switching performance of SiC devices tested in manufacturer’ datasheets, the observed switching performance in actual power converters is almost always worse. This dissertation aims at characterization and realization of high switching-speed capability of SiC devices in one of the most widely used converter types, the voltage source converter (VSC).&lt;/p&gt;
+&lt;p&gt;To evaluate the fast dynamic characteristics of SiC devices with high fidelity, a methodology of switching performance characterization is summarized. The assessed switching loss is highly sensitive to V−I timing alignment and cross-talk. A practical method is proposed to cope with these issues for accurate switching loss evaluation.&lt;/p&gt;
+&lt;p&gt;Based on the methodology of switching performance characterization, limitations and impact factors of switching performance of SiC devices in VSC are explored. Cross-talk, turn-on overvoltage, and parasitics of inductive loads are identified as the “killer” impact factors.&lt;/p&gt;
+&lt;p&gt;To suppress cross-talk, intelligent gate drivers are designed to be capable of tuning the gate voltage and gate resistance during different switching transients for both devices in a phase-leg. The spurious gate voltage induced by cross-talk can be limited, leading to the improved switching performance with fast switching speed and low switching losses.&lt;/p&gt;
+&lt;p&gt;To mitigate the turn-on over-voltage and parasitic ringing, the placement of gate drivers, devices and power stage and layout design for SiC devices with TO package are proposed and implemented, enabling 30% power loop and common source inductance reduction.&lt;/p&gt;
+&lt;p&gt;To decouple the interaction between devices and inductive load, a dedicated auxiliary filter is introduced to reshape the inductive load’s high frequency impedance, allowing the switching behavior to become as excellent as that tested by the optimally-designed inductor.&lt;/p&gt;
+&lt;p&gt;In the end, a SiC based three-phase VSC fed motor drives are built by using the knowledge and techniques developed above. It shows that switching behaviors in VSC have nearly identical performance as that characterized in the optimally-designed switching test circuit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3524</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4714&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3524</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4714</articleid>
+<submission-date>2015-02-27T08:07:23-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6741150</context-key>
+<submission-path>utk_graddiss/3524</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Benjamin J. Blalock, Suzanne M. Lenhart, Daniel J. Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

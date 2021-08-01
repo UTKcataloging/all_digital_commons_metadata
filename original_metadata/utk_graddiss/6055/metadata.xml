@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonparametric Bayesian Deep Learning for Scientific Data Analysis</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dagrawa2@vols.utk.edu</email>
+<lname>Agrawal</lname>
+<fname>Devanshu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Gaussian process</keyword>
+<keyword>Neural network</keyword>
+<keyword>Probability</keyword>
+<keyword>Ensemble</keyword>
+<keyword>Natural language processing</keyword>
+<keyword>Cancer</keyword>
+</keywords>
+<disciplines><discipline>Applied Mathematics</discipline>
+<discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Computer Sciences</discipline>
+<discipline>Data Science</discipline>
+<discipline>Probability</discipline>
+<discipline>Statistics and Probability</discipline>
+</disciplines><abstract>&lt;p&gt;Deep learning (DL) has emerged as the leading paradigm for predictive modeling in a variety of domains, especially those involving large volumes of high-dimensional spatio-temporal data such as images and text. With the rise of big data in scientific and engineering problems, there is now considerable interest in the research and development of DL for scientific applications. The scientific domain, however, poses unique challenges for DL, including special emphasis on interpretability and robustness. In particular, a priority of the Department of Energy (DOE) is the research and development of probabilistic ML methods that are robust to overfitting and offer reliable uncertainty quantification (UQ) on high-dimensional noisy data that is limited in size relative to its complexity. Gaussian processes (GPs) are nonparametric Bayesian models that are naturally robust to overfitting and offer UQ out-of-the-box. Unfortunately, traditional GP methods lack the balance of expressivity and domain-specific inductive bias that is key to the success of DL. Recently, however, a number of approaches have emerged to incorporate the DL paradigm into GP methods, including deep kernel learning (DKL), deep Gaussian processes (DGPs), and neural network Gaussian processes (NNGPs). In this work, we investigate DKL, DGPs, and NNGPs as paradigms for developing robust models for scientific applications. First, we develop DKL for text classification, and apply both DKL and Bayesian neural networks (BNNs) to the problem of classifying cancer pathology reports, with BNNs attaining new state-of-the-art results. Next, we introduce the deep ensemble kernel learning (DEKL) method, which is just as powerful as DKL while admitting easier model parallelism. Finally, we derive a new model called a ``bottleneck NNGP&#39;&#39; by unifying the DGP and NNGP paradigms, thus laying the groundwork for a new class of methods for future applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6055</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7378&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6055</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7378</articleid>
+<submission-date>2020-09-27T10:30:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19558719</context-key>
+<submission-path>utk_graddiss/6055</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jacob D. Hinkle</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jacob Hinkle, Georgia Tourassi, Vasileios Maroulas, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

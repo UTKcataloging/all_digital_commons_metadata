@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-Frequency Modulation and Control for DC/AC and AC/DC Resonant Converters</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>czhao9@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhao</lname>
+<fname>Chongwen</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Harmonic content is inherent in switched-mode power supplies. Since the undesired harmonics interfere with the operation of other sensitive electronics, the reduction of harmonic content is essential for power electronics design. Conventional approaches to attenuate the harmonic content include passive/active filter and wave-shaping in modulation. However, those approaches are not suitable for resonant converters due to bulky passive volumes and excessive switching losses. This dissertation focuses on eliminating the undesired harmonics from generation by intelligently manipulating the spectrum of switching waveforms, considering practical needs for functionality.To generate multiple ac outputs while eliminating the low-order harmonics from a single inverter, a multi-frequency programmed pulse width modulation is investigated. The proposed modulation schemes enable multi-frequency generation and independent output regulation. In this method, the fundamental and certain harmonics are independently controlled for each of the outputs, allowing individual power regulations. Also, undesired harmonics in between output frequencies are easily eliminated from generation, which prevents potential hazards caused by the harmonic content and bulky filters. Finally, the proposed modulation schemes are applicable to a variety of DC/AC topologies.Two applications of dc/ac resonant inverters, i.e. an electrosurgical generator and a dual-mode WPT transmitter, are demonstrated using the proposed MFPWM schemes. From the experimental results of two hardware prototypes, the MFPWM alleviates the challenges of designing a complicated passive filter for the low-order harmonics. In addition, the MFPWM facilitates combines functionalities using less hardware compared to the state-of-the-art. The prototypes demonstrate a comparable efficiency while achieving multiple ac outputs using a single inverter.To overcome the low-efficiency, low power-density problems in conventional wireless fast charging, a multi-level switched-capacitor ac/dc rectifier is investigated. This new WPT receiver takes advantage of a high power-density switched-capacitor circuit, the low harmonic content of the multilevel MFPWMs, and output regulation ability to improve the system efficiency. A detailed topology evaluation regarding the regulation scheme, system efficiency, current THD and volume estimation is demonstrated, and experimental results from a 20 W prototype prove that the multi-level switched-capacitor rectifier is an excellent candidate for high-efficiency, high power density design of wireless fast charging receiver.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5269</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6813&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5269</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6813</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342886</context-key>
+<submission-path>utk_graddiss/5269</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Leon M. Tolbert, D. Caleb Rucker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

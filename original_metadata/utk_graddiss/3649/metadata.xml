@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptive kernel estimation for enhanced filtering and pattern classification of magnetic resonance imaging: novel techniques for evaluating the biomechanics and pathologic conditions of the lumbar spine</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nbattagl@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Battaglia</lname>
+<fname>Nicholas</fname>
+<mname>Vincent</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Medical image processing</keyword>
+<keyword>adaptive filtering</keyword>
+<keyword>computer aided diagnosis</keyword>
+<keyword>dynamic pattern classification</keyword>
+</keywords>
+<disciplines><discipline>Bioimaging and Biomedical Optics</discipline>
+<discipline>Biomechanical Engineering</discipline>
+<discipline>Biomechanics and Biotransport</discipline>
+<discipline>Biomedical</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Computer-Aided Engineering and Design</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation investigates the contribution the lumbar spine musculature has on etiological and pathogenic characteristics of low back pain and lumbar spondylosis. This endeavor necessarily required a two-step process: 1) design of an accurate post-processing method for extracting relevant information via magnetic resonance images and 2) determine pathological trends by elucidating high-dimensional datasets through multivariate pattern classification. The lumbar musculature was initially evaluated by post-processing and segmentation of magnetic resonance (MR) images of the lumbar spine, which characteristically suffer from nonlinear corruption of the signal intensity. This so called intensity inhomogeneity degrades the efficacy of traditional intensity-based segmentation algorithms. Proposed in this dissertation is a solution for filtering individual MR images by extracting a map of the underlying intensity inhomogeneity to adaptively generate local estimates of the kernel’s optimal bandwidth. The adaptive kernel is implemented and tested within the structure of the non-local means filter, but also generalized and extended to the Gaussian and anisotropic diffusion filters. Testing of the proposed filters showed that the adaptive kernel significantly outperformed their non-adaptive counterparts. A variety of performance metrics were utilized to measure either fine feature preservation or accuracy of post-processed segmentation. Based on these metrics the adaptive filters proposed in this dissertation significantly outperformed the non-adaptive versions. Using the proposed filter, the MR data was semi-automatically segmented to delineate between adipose and lean muscle tissues. Two important findings were reached utilizing this data. First, a clear distinction between the musculature of males and females was established that provided 100% accuracy in being able to predict gender. Second, degenerative lumbar spines were accurately predicted at a rate of up to 92% accuracy. These results solidify prior assumptions made regarding sexual dimorphic anatomy and the pathogenic nature of degenerative spine disease.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3649</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5089&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3649</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5089</articleid>
+<submission-date>2016-01-05T08:29:11-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5089/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7984450</context-key>
+<submission-path>utk_graddiss/3649</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard D. Komistek, Adrija Sharma, Aly E. Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Computational Geometric and Graph Theoretic Approach to Reducing Dimensionality on Raster Data Problems</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mbachste@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bachstein</lname>
+<fname>Matthew</fname>
+<mname>James Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>computational geometry</keyword>
+<keyword>applied graph theory</keyword>
+<keyword>python</keyword>
+</keywords>
+<disciplines><discipline>Other Applied Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Large scale mathematical models often involve a trade oﬀ between computational length and detail. In general, the more detailed the data, the more time it takes for the model to process. Models that use geographic scale data are particularly susceptible to this inﬂation; ﬁne resolution data (on the order of m2 [meters squared]) brings great beneﬁts, but demolishes the computation time. This thesis presents a method for reducing the dimensionality of large scale data in a systematic manner to maximize the beneﬁts of ﬁne resolution data while minimizing the computational time increase, then applying the method to a simulated invasive species problem using geographic data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4021</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5100&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4021</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5100</articleid>
+<submission-date>2016-02-25T21:01:00-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8219893</context-key>
+<submission-path>utk_gradthes/4021</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles R. Collins</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Abner Salgado</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

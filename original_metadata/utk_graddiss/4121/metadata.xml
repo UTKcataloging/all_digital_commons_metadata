@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>CONSTRAINED MULTI-GROUP PROJECT ALLOCATION USING MAHALANOBIS DISTANCE</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aalkabaa@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Alkabaa</lname>
+<fname>Abdulaziz</fname>
+<mname>Saud</mname>
+</author>
+</authors>
+<keywords>
+<keyword>R&amp;D project selection and resource allocation</keyword>
+<keyword>Mahalanobis distance</keyword>
+<keyword>Branch-and-bound strategies</keyword>
+<keyword>Branch-and-bound performances</keyword>
+<keyword>Transportation projects.</keyword>
+</keywords>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+<discipline>Civil and Environmental Engineering</discipline>
+<discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Optimal allocation is one of the most active research areas in operation research using binary integer variables. The allocation of multi constrained projects among several options available along a given planning horizon is an especially significant problem in the general area of item classification. The main goal of this dissertation is to develop an analytical approach for selecting projects that would be most attractive from an economic point of view to be developed or allocated among several options, such as in-house engineers and private contractors (in transportation projects). A relevant limiting resource in addition to the availability of funds is the in-house manpower availability.&lt;/p&gt;
+&lt;p&gt;In this thesis, the concept of Mahalanobis distance (MD) will be used as the classification criterion. This is a generalization of the Euclidean distance that takes into account the correlation of the characteristics defining the scope of a project. The desirability of a given project to be allocated to an option is defined in terms of its MD to that particular option. Ideally, each project should be allocated to its closest option. This, however, may not be possible because of the available levels of each relevant resource.&lt;/p&gt;
+&lt;p&gt;The allocation process is formulated mathematically using two Binary Integer Programming (BIP) models. The first formulation maximizes the dollar value of benefits derived by the traveling public from those projects being implemented subject to a budget, total sum of MD, and in-house manpower constraints. The second formulation minimizes the total sum of MD subject to a budget and the in-house manpower constraints.&lt;/p&gt;
+&lt;p&gt;The proposed solution methodology for the BIP models is based on the branchand- bound method. In particular, one of the contributions of this dissertation is the development of a strategy for branching variables and node selection that is consistent with allocation priorities based on MD to improve the branch-and-bound performance level as well as handle a large scale application. The suggested allocation process includes: (a) multiple allocation groups; (b) multiple constraints; (c) different BIP models. Numerical experiments with different projects and options are considered to illustrate the application of the proposed approach.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4121</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5121&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4121</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5121</articleid>
+<submission-date>2016-02-15T14:57:09-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5121/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8151161</context-key>
+<submission-path>utk_graddiss/4121</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Alberto Garcia</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hamparsum Bozdogan, Rapinder Sawhney, James L. Simonton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Direct Numerical Simulations of Flame Propagation in Stratified Mixtures at Auto-ignitive Conditions Using Accelerated Computing</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sdesai9@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Desai</lname>
+<fname>Swapnil</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Flame Speed</keyword>
+<keyword>Multi-stage Ignition</keyword>
+<keyword>Turbulence</keyword>
+<keyword>WENO</keyword>
+<keyword>High Performance Computing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Direct numerical simulation (DNS) of auto-ignition under turbulent conditions has played a very important role in improving the fundamental understanding and advancement of combustion technologies for practical applications. However, very little is known of the nature of combustion in a reactive fuel/air mixture that is conducive to both spontaneous ignition and premixed deflagration. As such, characterizing the precise nature of combustion and the relevant propagation speed remains a challenge. This study attempts to address these questions by performing fully resolved numerical simulations of preheated fuel/air mixtures at elevated pressures using a newly developed DNS code called KAUST Adaptive Reactive Flows Solver (KARFS). Unlike a periodic box setup that has been used in most of the previous DNS studies, an inflow-outflow configuration representing a statistically stationary reaction front has been employed to understand the unsteady flame dynamics at auto-ignitive conditions.The first part of the dissertation is devoted to a discussion on parametric mapping of propagation speeds of auto-ignitive dimethyl-ether/air as well as dimethyl-ether/methane/air mixtures at elevated pressures under the influence of monochromatic thermal and composition/reactivity stratification using a one-dimensional, statistically stationary configuration. Thereafter, the implementation and effectiveness of Weighted Essentially Non-oscillatory (WENO) schemes in performing DNS of turbulent reacting flows is demonstrated with various non-trivial model problems. In addition, the scalability and performance portability of KARFS is presented on heterogeneous (CPU + GPU) system architectures. Finally, as a more extensive parametric quantification of the effects of thermal and composition stratification on turbulent flame propagation, results from DNS of a turbulent premixed flame in an auto-ignitive dimethyl-ether/air mixture conducted at elevated pressure are presented and discussed. The outcomes of this dissertation are expected to provide a fundamental understanding of the combustion mode transition and relevant propagation speeds in modern engines utilizing mixed-mode combustion.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5710</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7476&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5710</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7476</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419566</context-key>
+<submission-path>utk_graddiss/5710</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ramanan Sankaran</value>
+</field>
+<field name="advisor2" type="string">
+<value>Derek Splitter, Charles Finney, Zhili Zhang</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-4723-8932</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

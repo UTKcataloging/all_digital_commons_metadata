@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Three Dimensional Nonlinear Statistical Modeling Framework for Morphological Analysis</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ealiabde@utk.edu</email>
+<lname>Abdel Fatah</lname>
+<fname>Emam</fname>
+<mname>ElHak</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Statistical Atlas</keyword>
+<keyword>Statistical Shape Model</keyword>
+<keyword>Morphology</keyword>
+<keyword>Principal Component Analysis</keyword>
+<keyword>Registration</keyword>
+<keyword>Bone Modeling</keyword>
+<keyword>Anthropology</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation describes a novel three-dimensional (3D) morphometric analysis framework for building statistical shape models and identifying shape differences between populations. This research generalizes the use of anatomical atlases on more complex anatomy as in case of irregular, flat bones, and bones with deformity and irregular bone growth. The foundations for this framework are: 1) &lt;strong&gt;Anatomical atlases&lt;/strong&gt; which allow the creation of homologues anatomical models across populations; 2) &lt;strong&gt;Statistical representation&lt;/strong&gt; for output models in a compact form to capture both local and global shape variation across populations; 3) &lt;strong&gt;Shape Analysis&lt;/strong&gt; using automated 3D landmarking and surface matching. The proposed framework has various applications in clinical, forensic and physical anthropology fields. Extensive research has been published in peer-reviewed image processing, forensic anthropology, physical anthropology, biomedical engineering, and clinical orthopedics conferences and journals.&lt;/p&gt;
+&lt;p&gt;The forthcoming discussion of existing methods for morphometric analysis, including manual and semi-automatic methods, addresses the need for automation of morphometric analysis and statistical atlases. Explanations of these existing methods for the construction of statistical shape models, including benefits and limitations of each method, provide evidence of the necessity for such a novel algorithm. A novel approach was taken to achieve accurate point correspondence in case of irregular and deformed anatomy. This was achieved using a scale space approach to detect prominent scale invariant features. These features were then matched and registered using a novel multi-scale method, utilizing both coordinate data as well as shape descriptors, followed by an overall surface deformation using a new constrained free-form deformation.&lt;/p&gt;
+&lt;p&gt;Applications of output statistical atlases are discussed, including forensic applications for the skull sexing, as well as physical anthropology applications, such as asymmetry in clavicles. Clinical applications in pelvis reconstruction and studying of lumbar kinematics and studying thickness of bone and soft tissue are also discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1505</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2761&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1505</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2761</articleid>
+<submission-date>2012-11-02T22:41:35-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2761/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3445452</context-key>
+<submission-path>utk_graddiss/1505</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Richard D. Komistek, Aly E. Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

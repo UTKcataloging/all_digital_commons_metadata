@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multiscale Modeling Approach to Understand Active sites in Non-Conventional Catalyst Layers for Fuel Cell Applications</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dorozco1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Orozco Gallo</lname>
+<fname>Diana</fname>
+<mname>Constanza</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Electrocatalysis</keyword>
+<keyword>Fuel Cells</keyword>
+<keyword>Multiscale Modeling</keyword>
+</keywords>
+<disciplines><discipline>Catalysis and Reaction Engineering</discipline>
+<discipline>Physical Chemistry</discipline>
+<discipline>Thermodynamics</discipline>
+<discipline>Transport Phenomena</discipline>
+</disciplines><abstract>&lt;p&gt;Fuel cells development required stable, active and more abundant catalytic materials. Oxygen reduction reaction (ORR) is the key process to enhance better activity and reduce the fabrication costs. Pt-based has proven to be the best catalyst for ORR and greater efforts has been made in terms of reducing the Pt content in the electrodes, reduce electrode thickness and enhance better catalytic activities. To overcome many of the challenges present, the catalyst layer studies are the great importance in the fuel cell community. Understanding catalyst layer with new catalytic materials, and configurations requires the development of methodological approach to relate structure, catalyst performance, and operational conditions.&lt;/p&gt;
+&lt;p&gt;Experimental approaches to describe catalyst layer are well defined. However, modeling methodologies for new catalyst layers are not clear. This work provides a multiscale modeling methodology to identify the main losses and parameters at the macroscale. Then, they will direct us toward the proper scale to describe the parameter/process with more detail.&lt;/p&gt;
+&lt;p&gt;Chapter 1 summarizes the main theoretical approaches to study ORR. Chapters 2 and 3 implement a macrohomogeneous model to identify the relevant parameters and to calculate the main losses for Solid Acid Fuel Cells SAFCs and Non-Precious Metal (NPM) or PGM-free systems. Chapter 4 is the extension of the results from chapter 3 towards understanding the active sites for NPM catalysts. Finally, chapter 5 illustrates the initial approach to simulate real active sites configuration.&lt;/p&gt;
+&lt;p&gt;The multiscale approach was applied to NPMCs due to larger overpotential compared with Pt-based catalyst. DFT calculations were used to evaluate activation energies. Direct four-electron pathway was used for Pt, Iron, Porphyrin and Iron Porphyrin systems. Porphyrin and Iron Porphyrin showed poor oxygen activation of compare with Pt and Iron. MD calculations of the Iron Porphyrin system illustrate some of the XRD characteristic peaks for carbon. However, we were not capable of identifying the Fe peaks. Further studies require the search for ReaxFF potential to allow molecules reorganization and active sites identification.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5332</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6181&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5332</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6181</articleid>
+<submission-date>2017-06-15T14:52:31-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10311217</context-key>
+<submission-path>utk_graddiss/5332</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Thomas A. Zawodzinski</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steve Abel, Siris  Laursen, Haixuan Xu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

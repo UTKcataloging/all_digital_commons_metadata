@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Integration of Batch-to-Batch and Within Batch Control Techniques: Application to a Simulated Nylon-6,6Process</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hindmarsh</lname>
+<fname>Brandon</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Using a simulated nylon-6,6 batch process, this work presents three batch control schemes, 1) within batch, 2) batch-to-batch, and 3) integrated batch-to-batch and within batch, as improvements over fixed-recipe operation alone for disturbance rejection. The control schemes were developed using process understanding gained through analysis of a historical database of easily measured batch profiles. Various concerns regarding development and implementation of each strategy were discussed. The strengths and weaknesses of each controller&#39;s performance were discussed as well.&lt;/p&gt;
+&lt;p&gt;The analysis method used focused on separating batch measurement variability into time-axis and magnitude-axis components. Partitioning the data in this way generated time and magnitude &quot;scale parameters&quot; that described the normal variability in the process. These scale parameters provided improved process understanding and formed the basis for the improved control schemes developed in this work.&lt;/p&gt;
+&lt;p&gt;The within batch controller was a feedforward strategy that made mid-course recipe adjustments based on predicted deviation from target quality. The batch-to-batch controller utilized quality measurements to provide feedback adjustments to subsequent batches. The integrated control scheme utilized the predictive feedforward performance of the within batch controller tempered by the off-line feedback of the batch-to-batch controller in a cascade arrangement.&lt;/p&gt;
+&lt;p&gt;The three control schemes were compared to fixed-recipe operation. All three provided significant improvement in quality control. The within batch controller resulted in a 91% reduction in mean squared target error (MSE) over fixed recipe operation. The batch-to-batch controller provided an 87% reduction in MSE. The integrated control scheme was found to be the most effective providing a 99% reduction in MSE over fixed-recipe operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2068</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3429&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2068</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3429</articleid>
+<submission-date>2013-10-02T12:18:57-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4658754</context-key>
+<submission-path>utk_gradthes/2068</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles F. Moore</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Duane D. Bruns</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

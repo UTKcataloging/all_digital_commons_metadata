@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>PERFORMANCE EVALUATION OF MEMORY AND COMPUTATIONALLY BOUND CHEMISTRY APPLICATIONS ON STREAMING GPGPUS AND MULTI-CORE X86 CPUS</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fweber1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Weber III</lname>
+<fname>Frederick</fname>
+<mname>E</mname>
+</author>
+</authors>
+<keywords>
+<keyword>GPU</keyword>
+<keyword>multi-core</keyword>
+<keyword>Monte Carlo</keyword>
+<keyword>parallel computing</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, multi-core processors have come to dominate the field in desktop and high performance computing. Graphics processors traditionally used in CAD, video games, and other 3-d applications, have become more programmable and are now suitable for general purpose computing. This thesis explores multi-core processors and GPU performance and limitations in two computational chemistry applications: a memory bound component of ab-initio modeling and a computationally bound Monte Carlo simulation. For the applications presented in this thesis, exploiting multiple processors is done using a variety of tools and languages including OpenMP and MKL. Brook+ and the Compute Abstraction Layer streaming environments are used to accelerate applications on AMD GPUs. This thesis gives qualitative assertions about these languages and tools regarding ease of use and optimization in addition to quantitative analyses of performance. GPUs can yield modest performance improvements with little effort in some applications and even larger speedups with simple optimizations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/671</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1084&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>671</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1084</articleid>
+<submission-date>2010-01-20T12:08:04-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1084/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1116090</context-key>
+<submission-path>utk_gradthes/671</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack Dongarra, Robert Harrison, Robert Hinde</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

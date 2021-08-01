@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimizing Urban Infrastructure Resilience Under Precipitation and Population Growth Uncertainties</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mbarah@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Barah</lname>
+<fname>Masoud</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Green infrastructure</keyword>
+<keyword>urban resilience</keyword>
+<keyword>stochastic programming</keyword>
+<keyword>robust programming</keyword>
+<keyword>climate change</keyword>
+<keyword>Markov decision process</keyword>
+</keywords>
+<abstract>&lt;p&gt;Increased urbanization, infrastructure degradation, and climate change threaten to overwhelm stromwater systems across the nation, rendering them ineffective. Green Infrastructure (GI) practices are low cost, low regret strategies that can contribute to urban runoff management. However, questions remain as to how to best distribute GI practices through urban watersheds given the precipitation uncertainty and the hydrological responses to them.First, we develop a two-stage stochastic robust programming model to determine the optimal placement of GI practices across a set of candidate locations in a watershed to minimize the total expected runoff under medium-term precipitation uncertainties. We develop a systemic approach to downscale the existing daily precipitation projections into hourly units and efficiently estimate the corresponding hydrological responses. We conduct a case study for an urban watershed in a mid-sized city in the U.S., perform sensitivity analyses and provide insights.Second, we develop a mathematical model to optimally place GI practices when (re-)designing an urban area, subject to uncertainties in population growth and future precipitation. Specifically, we develop a finite-horizon Markov decision process model to determine the extent to which GI practices need to be incorporated in different parts of a given urban area to maximize their benefits, considering the dynamic changes in population density and precipitation. We conduct a case study, perform sensitivity analyses and provide insights.Finally, we consider a problem of scheduling maintenance crew following a storm event to efficiently maintain GI practices across a watershed to mitigate surface runoff due to future events. Specifically, we investigate a condition for which the polyhedron of the flow shop scheduling problem is integer-optimal. This condition is used to construct a column generation algorithm to solve the problem to optimality. The solution approach is boosted with a heuristic that sequentially solves a series of linear programming models to generate a quality initial solution. The solution approach is also integrated with a commercial solver, which results in significant computational savings. Computational experiments show that the developed algorithm can efficiently solve test problems to near-optimality.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5358</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6894&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5358</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6894</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545361</context-key>
+<submission-path>utk_graddiss/5358</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Anahita Khojandi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Jon Mitchel Hathaway, Oleg Shylo</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Haptic Tele-operation of Wheeled Mobile Robot and Unmanned Aerial Vehicle over the Internet</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zzuo1@utk.edu</email>
+<lname>Zuo</lname>
+<fname>Zhiyuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>haptic</keyword>
+<keyword>teleoperation</keyword>
+<keyword>mobile robot</keyword>
+<keyword>WMR</keyword>
+<keyword>UAV</keyword>
+<keyword>PSPM</keyword>
+<keyword>backstepping</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+<discipline>Controls and Control Theory</discipline>
+<discipline>Electro-Mechanical Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Teleoperation of ground/aerial vehicle extends operator&#39;s ability (e.g. expertise, strength, mobility) into the remote environment, and haptic feedback enhances the human operator&#39;s perception of the slave environment. In my thesis, two cases are studied: wheeled mobile robot (MWR) haptic tele-driving over the Internet and unmanned aerial vehicle (UAV) haptic teleoperation over the Internet. &lt;br /&gt;We propose novel control frameworks for both dynamic WMR and kinematic WMR in various tele-driving modes, and for a &quot;mixed&quot; UAV with translational dynamics and attitude kinematics. &lt;br /&gt;The recently proposed passive set-position modulation (PSPM) framework is extended to guarantee the passivity and/or stability of the closed-loop system with time-varying/packet-loss in the communication; and proved performance in steady state is shown by theoretical measurements.&lt;br /&gt;For UAV teleoperation, we also derive a backstepping trajectory tracking control with robustness analysis. Experimental results for dynamic/kinematic WMR and an indoor quadrotor-type UAV are presented to show the efficacy of the proposed control framework.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1044</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2064&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1044</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2064</articleid>
+<submission-date>2011-05-24T18:43:00-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2029356</context-key>
+<submission-path>utk_gradthes/1044</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dongjun Lee</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xiaopeng Zhao, William R. Hamel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

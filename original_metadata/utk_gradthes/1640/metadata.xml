@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sequence Mining Based Debugging of Wireless Sensor Networks</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>klu3@utk.edu</email>
+<lname>Lu</lname>
+<fname>Kefa</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Debugging</keyword>
+<keyword>Wireless Sensor Networks</keyword>
+<keyword>Sequence Mining</keyword>
+</keywords>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Wireless Sensor Network (WSN) applications are prone to bugs and failures due to their typical characteristics, such as extensively distributed, heavily concurrent and resources restricted. It becomes critical to develop efficient debugging systems for WSN applications. A flexible and generic debugger for WSN applications is highly demanded. In this thesis, I proposed and developed a flexible and iterative WSN debugging system based on sequence analyzing and data mining techniques. At first, I developed vectorized Probabilistic Suffix Tree (vPST), a variable memory length model to extract and store sequential information from program runtime traces in compact suffix tree based vectors, based on original Probabilistic Suffix Tree (PST). Then I built a novel WSN debugging system by integrating vPST with Support Vector Machine (SVM), a robust and generic classifier for both linear and nonlinear data classification. The vPST-SVM debugging system enables developers to target at any hot spots they know might be problematic in the program source codes. They simply need insert trace points into the hot spots, collect runtime traces, then iteratively analyze the traces and finally locate real bugs. At last, I studied three different test cases, two on LiteOS and one on TinyOS, to evaluate the proposed WSN debugging system. It is demonstrated to be an efficient, flexible, generic and portable WSN debugger by the case studies. In addition, the vPST-SVM sequence analyzing methodology provides researchers with an inspiring angle of view on extracting sequential features and obtaining meaningful insights from sequences by appropriate transformation of sequential data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1640</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2683&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1640</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2683</articleid>
+<submission-date>2013-03-03T00:50:06-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3825722</context-key>
+<submission-path>utk_gradthes/1640</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Qing Cao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael G. Thomason, Wei Gao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

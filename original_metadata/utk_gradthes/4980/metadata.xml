@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Peer Attention Modeling with Head Pose Trajectory Tracking Using Temporal Thermal Maps</title>
+<publication-date>2018-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cjohn221@vols.utk.edu</email>
+<lname>Johnson</lname>
+<fname>Corey Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Human-Robot Teams</keyword>
+<keyword>Head Pose Tracking</keyword>
+<keyword>Attention Modeling</keyword>
+<keyword>Salience</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Cognition and Perception</discipline>
+<discipline>Graphics and Human Computer Interfaces</discipline>
+<discipline>Social Psychology</discipline>
+</disciplines><abstract>&lt;p&gt;Human head pose trajectories can represent a wealth of implicit information such as areas of attention, body language, potential future actions, and more. This signal is of high value for use in Human-Robot teams due to the implicit information encoded within it. Although team-based tasks require both explicit and implicit communication among peers, large team sizes, noisy environments, distance, and mission urgency can inhibit the frequency and quality of explicit communication. The goal for this thesis is to improve the capabilities of Human-Robot teams by making use of implicit communication. In support of this goal, the following hypotheses are investigated:&lt;/p&gt;
+&lt;p&gt;● Implicit information about a human subject’s attention can be reliably extracted with software by tracking the subject’s head pose trajectory, and&lt;/p&gt;
+&lt;p&gt;● Attention can be represented with a 3D temporal thermal map for implicitly determining a subject’s Objects Of Interest (OOIs).&lt;/p&gt;
+&lt;p&gt;These hypotheses are investigated by experimentation with a new tool for peer attention modeling by Head Pose Trajectory Tracking using Temporal Thermal Maps (HPT4M). This system allows a robot Observing Agent (OA) to view a human teammate and temporally model their Regions Of Interest (ROIs) by generating a 3D thermal map based on the subject’s head pose trajectory.&lt;/p&gt;
+&lt;p&gt;The findings in this work are that HPT4M can be used by an OA to contribute to a team search mission by implicitly discovering a human subject’s OOI type, mapping the item’s location within the searched space, and labeling the item’s discovery state. Furthermore, this work discusses some of the discovered limitations of this technology and hurdles that must be overcome before implementing HPT4M in a reliable real-world system.&lt;/p&gt;
+&lt;p&gt;Finally, the techniques used in this work are provided as an open source Robot Operating System (ROS) node at github.com/HPT4M with the intent that it will aid other developers in the robotics community with improving Human-Robot teams. Furthermore, the proofs of principle and tools developed in this thesis are a foundational platform for deeper investigation in future research on improving Human-Robot teams via implicit communication techniques.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4980</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6210&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4980</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6210</articleid>
+<submission-date>2017-06-15T13:52:11-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10310914</context-key>
+<submission-path>utk_gradthes/4980</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Audris Mockus</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

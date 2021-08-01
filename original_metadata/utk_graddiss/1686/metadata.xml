@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High Performance Parallel Approximate Eigensolver for Real Symmetric Matrices</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bai</lname>
+<fname>Yihua</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;In the first-principles calculation of electronic structures, one of the most timeconsuming tasks is that of computing the eigensystem of a large symmetric nonlinear eigenvalue problem. The standard approach is to use an iterative scheme involving the solution to a large symmetric linear eigenvalue problem in each iteration. In the early and intermediate iterations, significant gains in efficiency may result from solving the eigensystem to reduced accuracy. As the iteration nears convergence, the eigensystem can be computed to the required accuracy.&lt;br /&gt;Traditional real symmetric eigensolvers compute the eigensystem in three steps: 1) reduce a dense matrix to a symmetric tridiagonal form using orthogonal transformations; 2) compute eigenpairs of the tridiagonal matrix; 3) back-transform eigenvectors of the tridiagonal matrix to those of the original matrix. Stable and efficient eigendecomposition algorithms for symmetric tridiagonal matrix are under constant investigation, while the performance of orthogonal reduction step remains a bottleneck.&lt;br /&gt;The main contribution of this dissertation is an efficient parallel approximate&lt;br /&gt;eigensolver that computes eigenpairs of a real symmetric matrix to reduced accuracy. This eigensolver consists of three major parts: 1) a parallel block tridiagonal divide-andconquer algorithm that computes the approximate eigenpairs of a block tridiagonal matrix to prescribed accuracy; 2) a parallel block tridiagonalization algorithm that constructs a block tridiagonal matrix from a sparse matrix or “effectively” sparse matrix – matrix with many small elements that can be regarded as zeros without affecting the prescribed accuracy of the eigenvalues; 3) a parallel orthogonal block tridiagonal reduction algorithm that reduces a dense real symmetric matrix to block tridiagonal form using similarity transformations with a high ratio of level 3 BLAS operations. The parallel approximate eigensolver chooses a proper combination of the three algorithms depending on the structure of the input matrix and computes all the eigenpairs of the input matrix to prescribed accuracy.&lt;br /&gt;Numerical results show that the parallel block tridiagonal divide-and-conquer&lt;br /&gt;algorithm is very efficient when at least a few off-diagonal blocks have a relatively low rank. With a very low computational cost, the parallel block tridiagonalization algorithm constructs a block tridiagonal matrix from a sparse or “effectively” sparse input matrix. The parallel orthogonal block tridiagonal reduction algorithm achieves high performance due to high ratio of level 3 BLAS operations. Using a small block size for the parallel orthogonal block tridiagonal reduction algorithm is a critical factor for competitive performance when combined with the parallel block tridiagonal divide-and-conquer algorithm.&lt;br /&gt;Our parallel approximate eigensolver has the limitation that the block tridiagonal&lt;br /&gt;matrices, either as the input matrices or after pre-processing steps, should have offdiagonal blocks with low rank, say 20 or less, or a very high ratio of deflation to achieve satisfactory performance. In addition, large variation in deflation rate may lead to workload imbalance, although such cases appear to be rare. Future work may include a complete data parallel implementation of the block tridiagonal divide-and-conquer algorithm and a parallel adaptive eigensolver that detects matrix structure automatically, adjusts the accuracy requirement when necessary and chooses the proper algorithms to solve the eigenproblem.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1686</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3212&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1686</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3212</articleid>
+<submission-date>2013-08-09T12:25:34-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4414578</context-key>
+<submission-path>utk_graddiss/1686</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert C. Ward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Jack J. Dongarra, Robert J. Hinde</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

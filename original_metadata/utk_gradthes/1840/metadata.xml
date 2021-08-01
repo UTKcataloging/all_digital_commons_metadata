@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>“Design and Verification of a Reusable Self-Reconfigurable Gate Array Architecture</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chereches</lname>
+<fname>Gabriel</fname>
+<mname>Cozmin</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the design and verification of a Self-Reconfigurable Gate Array architecture (SRGA-UT) created for reuse, and available with a step-by-step tutorial and comprehensive documentation.  The original SRGA [1], created at the University of Southern California, is an innovative architecture for a reconfigurable device that allows single cycle context switching and single cycle random access to a unified on-chip configuration/data memory. The key architecture that enables the above two features is the use of a mesh of trees based interconnect with logic cells and memory blocks at the leaf nodes and identical switches at the parent nodes.&lt;/p&gt;
+&lt;p&gt;The SRGA-UT was adapted by making necessary modifications to the original design, to be implemented using the available University of Tennessee electronic design automation tools. An 8x8 array of PEs (Processing Elements) was synthesized and routed targeting a standard cell library for a 0.18 μm process. The synthesized design can store eight configuration contexts in each PE (this number can be modified by editing the Verilog files). The place and route generated a core-chip size of 5,413,300 μm&lt;sup&gt;2, and contains 354,053 number of gates. The step-by-step tutorial demonstrates that the SRGA-UT design is capable to switch context and perform memory access operations in a single clock cycle.  &lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;ModelSim tools were used for verification and simulation at all levels, Design Compiler executed the synthesis and created the netlist design, and First Encounter SoC performed the place and route and created the delay constraints.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1840</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3195&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1840</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3195</articleid>
+<submission-date>2013-09-12T11:05:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4579883</context-key>
+<submission-path>utk_gradthes/1840</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Don Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Gregory Peterson, Dr. Itamar Elhanany</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

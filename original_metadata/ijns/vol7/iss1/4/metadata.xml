@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigation of the use of Coincidences Between Fast Neutrons and Gamma Rays for the Detection of Special Nuclear Materials</title>
+<publication-date>2021-03-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>deboramt@kth.se</email>
+<institution>Royal Institute of Technology - KTH</institution>
+<lname>Trombetta</lname>
+<fname>Débora</fname>
+<mname>M</mname>
+</author>
+<author>
+<email>bc@kth.se</email>
+<institution>Royal Institute of Technology - KTH</institution>
+<lname>Cederwall</lname>
+<fname>Bo</fname>
+</author>
+<author>
+<email>kare.axell@ssm.se</email>
+<institution>Swedish Radiation Safety Authority - SSM</institution>
+<lname>Axell</lname>
+<fname>Kåre</fname>
+</author>
+</authors>
+<keywords>
+<keyword>organic scintillator detector</keyword>
+<keyword>Monte Carlo simulations</keyword>
+<keyword>MCNP</keyword>
+<keyword>nuclear security</keyword>
+<keyword>special nuclear materials</keyword>
+</keywords>
+<disciplines><discipline>Nuclear</discipline>
+</disciplines><abstract>&lt;p&gt;The emergence of new methodologies with promising applications that could impact nuclear security and emergency preparedness detection systems in the near future motivate the development of computational tools that allow the theoretical investigation of the relevant design parameters for such detection systems. Here, we present Monte Carlo simulations using the MCNP6 code to investigate the use of fast neutron-neutron and gamma-neutron coincidences in addition to conventional methods for detection of special nuclear materials (SNM) using inorganic scintillator detectors. The results show fair agreement between MCNP6 and MCNP-PoliMi simulations for neutron-neutron coincidences and that coincident detection of gamma rays and fast neutrons has a potential for enhancing the sensitivity for detection of SNM compared with conventional gamma-ray, single-neutron, and fast neutron-neutron coincidence detection schemes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/ijns/vol7/iss1/4</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1131&amp;amp;context=ijns&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1131</articleid>
+<submission-date>2019-08-30T08:58:59-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/ijns/article/1131/type/native/viewcontent</native-url>
+<publication-title>International Journal of Nuclear Security</publication-title>
+<context-key>15237518</context-key>
+<submission-path>ijns/vol7/iss1/4</submission-path>
+<fields>
+<field name="distribution_license" type="string">
+<value>http://creativecommons.org/licenses/by/4.0/</value>
+</field>
+<field name="doi" type="string">
+<value>https://doi.org/10.7290/ijns070104</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-08-30T00:00:00-07:00</value>
+</field>
+<field name="letters_to_reviewers" type="special">
+<value>ARRAY(0x10e69588)</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2021-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>SNM detection using fast neutron and gamma-rays coincidences</value>
+</field>
+</fields>
+</document>
+</documents>

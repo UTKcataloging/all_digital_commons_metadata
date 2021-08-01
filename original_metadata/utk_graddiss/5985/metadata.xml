@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Iterative transmission image reconstruction for the DPET positron emission tomograph</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Lenox</lname>
+<fname>Mark</fname>
+<mname>Wayne</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer science</keyword>
+</keywords>
+<abstract>&lt;p&gt;Positron emission tomography (PET) systems use transmission imaging to compensate for attenuation. One commercial example of this approach is the Siemens Inveon Dedicated PET (DPET), a 120mm bore system dedicated to the study of small animals. DPET transmission images are currently reconstructed using single slice rebinning followed by filtered backprojection. Single slice rebinning attributes the attenuation associated with an oblique line integral to the direct midplane intersected thereby. This leads to position-dependent axial blurring, especially for large diameter animals, and objects with abrupt axial changes in diameter. The mathematics underlying filtered backprojection are based on assumptions that are not met by the scanner, including but not limited to data being sampled in a uniform fashion. These limitations can be alleviated by an iterative algorithm if the associated system model is made to match the physical set-up. The downside is typically viewed as a potentially prohibitive increase in the computational cost. In this dissertation, we report on the implementation and use of Simultaneous Iterative Reconstruction Technique (SIRT) (a weighted least-squares solver) for transmission imaging on the DPET. We provide experimental evidence regarding the improvement in transmission image quality. We also show that these new, higher quality images can be computed in less than two minutes on the existing DPET host computer thus making the approach practical. Computational speed is gained both algorithmically through relaxation and use of ordered subsets and implementation-wise through vector based arithmetic and multi-core program execution.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5985</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7918&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5985</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7918</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467598</context-key>
+<submission-path>utk_graddiss/5985</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-Area Synchrophasor Data Server System and Data Analytics Platform</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dzhou3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhou</lname>
+<fname>Dao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Synchrophasor</keyword>
+<keyword>WAMS</keyword>
+<keyword>FNET</keyword>
+<keyword>Big Data</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;As synchrophasor data start to play a significant role in power system operation and dynamic study, data processing and data analysis capability are critical to Wide-area measurement systems (WAMS). The Frequency Monitoring Network (FNET/GridEye) is a WAMS network that collects data from hundreds of Frequency Disturbance Recorders (FDRs) at the distribution level. The previous FNET/GridEye data center is limited by its data storage capability and computation power. Targeting scalability, extensibility, concurrency and robustness, a distributed data analytics platform is proposed to process large volume, high velocity dataset. A variety of real-time and non-real-time synchrophasor data analytics applications are hosted by this platform. The computation load is shared with balance by multiple nodes of the analytics cluster, and big data analytics tools such as Apache Spark are adopted to manage large volume data and to boost the data processing speed. Multiple power system disturbance detection and analysis applications are redesigned to take advantage of this platform. Data quality and data security are monitored in real-time. Future data analytics applications can be easily developed and plugged into the system with simple configuration.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4515</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5612&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4515</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5612</articleid>
+<submission-date>2016-10-07T18:52:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9246199</context-key>
+<submission-path>utk_graddiss/4515</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Wei Gao, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

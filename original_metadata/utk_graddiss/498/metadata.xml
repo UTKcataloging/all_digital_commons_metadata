@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The QSE-Reduced Nuclear Reaction Network for Silicon Burning</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Parete-Koon</lname>
+<fname>Suzanne</fname>
+<mname>T</mname>
+</author>
+</authors>
+<disciplines><discipline>Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Iron and neighboring nuclei are formed by silicon burning in massive stars before core collapse and during supernova outbursts. Complete and incomplete silicon burning is responsible for the production of a wide range of nuclei with atomic mass numbers from 28 to 70. Because of the large number of nuclei involved, accurate modeling of these nucleosynthetic stages is computationally expensive. For this reason, hydrodynamic models of supernovae often employ a limited set of nuclei to track the nuclear energy generation until nuclear statistical equilibrium is reached. These limited approximations do not include many of the reaction channels important for the production of iron (Hix &amp; Thielemann, 1996), making them a partial solution at best for energy generation during silicon burning (Timmes et al., 2000). Examination of the physics of silicon burning reveals that the nuclear evolution is dominated by large groups of nuclei in mutual chemical equilibrium before the global Nuclear Statistical Equilibrium (NSE) is reached and after temperatures drop below those needed to maintain NSE during explosive burning (Bodansky, Clayton, &amp; Fowler, 1968). In this work a nuclear reaction network is built which takes advantage of Quasi Statistical Equilibrium (QSE) and NSE at the appropriate temperatures in order to reduce the number of independent variables calculated. This allows accurate prediction of the nuclear abundance evolution, deleptionization, and energy generation. Where conditions apply, the QSE-reduced network runs at least an order of magnitude faster and requires roughly a third as many variables as a standard nuclear reaction network without a significant loss of accuracy. These reductions in computational cost make this network well suited for inclusion within hydrodynamic simulations, particularly in multi-dimensional applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/498</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1562&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>498</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1562</articleid>
+<submission-date>2010-02-19T12:06:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1156553</context-key>
+<submission-path>utk_graddiss/498</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Guidry</value>
+</field>
+<field name="advisor2" type="string">
+<value>W. Raphael Hix, Witold Nazarewicz, Mark Littmann, Kate Jones</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/August2008Dissertations/PareteKoonSuzanneT.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High Order Contingency Selection using Particle Swarm Optimization and Tabu Search</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>achegu@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chegu</lname>
+<fname>Ashwini</fname>
+</author>
+</authors>
+<keywords>
+<keyword>power systems</keyword>
+<keyword>blackouts</keyword>
+<keyword>MATLAB</keyword>
+<keyword>particle swarm optimization</keyword>
+<keyword>N-k Contingency</keyword>
+<keyword>cascading failures</keyword>
+<keyword>tabu search</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Other Electrical and Computer Engineering</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;There is a growing interest in investigating the high order contingency events that may result in large blackouts, which have been a great concern for power grid secure operation. The actual number of high order contingency is too huge for operators and planner to apply a brute-force enumerative analysis. This thesis presents a heuristic searching method based on particle swarm optimization (PSO) and tabu search to select severe high order contingencies. The original PSO algorithm gives an intelligent strategy to search the feasible solution space, but tends to find the best solution only. The proposed method combines the original PSO with tabu search such that a number of top candidates will be identified. This fits the need of high order contingency screening, which can be eventually the input to many other more complicate security analyses.&lt;/p&gt;
+&lt;p&gt;Reordering of branches of test system based on severity of N-1 contingencies is applied as a pre-processing to increase the convergence properties and efficiency of the algorithm. With this reordering approach, many critical high order contingencies are located in a small area in the whole searching space. Therefore, the proposed algorithm tends to concentrate in searching this area such that the number of critical branch combinations searched will increase. Therefore, the speedup ratio is found to increase significantly.&lt;/p&gt;
+&lt;p&gt;The proposed algorithm is tested for N-2 and N-3 contingencies using two test systems modified from the IEEE 118-bus and 30-bus systems. Variation of inertia weight, learning factors, and number of particles is tested and the range of values more suitable for this specific algorithm is suggested.&lt;/p&gt;
+&lt;p&gt;Although illustrated and tested with N-2 and N-3 contingency analysis, the proposed algorithm can be extended to even higher order contingencies but visualization will be difficult because of the increase in the problem dimensions corresponding to the order of contingencies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/693</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1801&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>693</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1801</articleid>
+<submission-date>2010-07-30T16:04:39-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1801/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1417443</context-key>
+<submission-path>utk_gradthes/693</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing (Fran) Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Kevin Tomsovic</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

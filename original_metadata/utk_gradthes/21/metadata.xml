@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Compressive Sensing Using Random Demodulation</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Boggess</lname>
+<fname>Benjamin</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The new theory of Compressive Sensing allows wideband signals to be sampled at a rate much closer to the information contained within. This rate is much lower than the Nyquist rate required by Shannon’s sampling theory. This “Analog to Information Conversion” has allowed an outlet for already overloaded Analog to Digital converters [15]. Although the locations of frequencies can’t be known a priori, the expected sparseness of a signal can be. This is the circumstance that allows this method to be possible.&lt;/p&gt;
+&lt;p&gt;In order to accomplish this very low rate, there is some trade off in sampling rate reduction to computing load. In contrast to the uniform sampling in common acquisition processes, nonlinear methods must be used resulting in convex programming algorithms becoming a necessity to recover the signal.&lt;/p&gt;
+&lt;p&gt;This thesis tests this new theory using a Random Demodulation data acquisition scheme set forth in [1]. The scheme involves a demodulation step that spreads the information content across the spectrum before an anti-aliasing filter prepares for an Analog to Digital converter to sample it at a very slow rate. The acquisition process is simulated using a computer, the data is run through an optimization algorithm and the recovery results are analyzed. Finally, the paper then compares the results to the Compressive Sensing theoretical and empirical results of others.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/21</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1049&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>21</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1049</articleid>
+<submission-date>2010-01-14T10:20:13-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1110922</context-key>
+<submission-path>utk_gradthes/21</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>L. Montgomery Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce W. Bomar, Bruce A. Whitehead</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

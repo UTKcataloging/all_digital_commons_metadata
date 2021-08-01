@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MULTI-SCALE MODELING OF POLYMERIC MATERIALS: AN ATOMISTIC AND COARSE-GRAINED MOLECULAR DYNAMICS STUDY</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qwang7@utk.edu</email>
+<institution>CHEMICAL ENGINEERING</institution>
+<lname>Wang</lname>
+<fname>Qifei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Coarse-grained</keyword>
+<keyword>Multi-scale modeling</keyword>
+<keyword>MD</keyword>
+<keyword>Polymer</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Computational study of the structural, thermodynamic and transport properties of polymeric materials at equilibrium requires multi-scale modeling techniques due to processes occurring across a broad spectrum of time and length scales. Classical molecular-level simulation, such as Molecular Dynamics (MD), has proved very useful in the study of polymeric oligomers or short chains. However, there is a strong, nonlinear dependence of relaxation time with respect to chain length that requires the use of less computationally demanding techniques to describe the behavior of longer chains. As one of the mesoscale modeling techniques, Coarse-grained (CG) procedure has been developed recently to extend the molecular simulation to larger time and length scales. With a CG model, structural and dynamics of long chain polymeric systems can be directly studied though CG level simulation. In the CG simulations, the generation of the CG potential is an area of current research activity.&lt;/p&gt;
+&lt;p&gt;The work in this dissertation focused on both the development of techniques for generating CG potentials as well as the application of CG potentials in Coarse-grained Molecular Dynamics (CGMD) simulations to describe structural, thermodynamic and transport properties of various polymer systems. First, an improved procedure for generated CG potentials from structural data obtained from atomistic simulation of short chains was developed.  The Ornstein-Zernike integral equation with the Percus Yevick approximation was invoked to solve this inverse problem (OZPY&lt;sup&gt;-1&lt;/sup&gt;).  Then the OZPY&lt;sup&gt;-1&lt;/sup&gt; method was applied to CG modeling of polyethylene terephthalate (PET) and polyethylene glycol (PEG). Finally, CG procedure was applied to a model of sulfonated and cross-linked Poly (1, 3-cyclohexadiene) (sxPCHD) polymer that is designed for future application as a proton exchange membrane material used in fuel cell.&lt;/p&gt;
+&lt;p&gt;Through above efforts, we developed an understanding of the strengths and limitations of various procedures for generating CG potentials. We were able to simulate entangled polymer chains for PET and study the structure and dynamics as a function of chain length. The work here also provides the first glimpses of the nanoscale morphology of the hydrated sxPCHD membrane.  An understanding of this structure is important in the prediction of proton conductivity in the membrane.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1139</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2225&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1139</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2225</articleid>
+<submission-date>2011-06-29T09:54:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2080901</context-key>
+<submission-path>utk_graddiss/1139</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David J Keffer</value>
+</field>
+<field name="advisor2" type="string">
+<value>David J Keffer, Bamin Khomami, Eric T Boder, Jimmy Mays</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;updated version&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

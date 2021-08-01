@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Approximation of Invariant Subspaces</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fyilmaz1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Yilmaz</lname>
+<fname>Faruk</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Dirichlet type spaces</keyword>
+<keyword>Invariant subspaces</keyword>
+<keyword>Approximation of invariant subspaces</keyword>
+</keywords>
+<disciplines><discipline>Analysis</discipline>
+</disciplines><abstract>&lt;p&gt;For a real number α [alpha] the Dirichlet-type spaces 𝔇&lt;sub&gt;α&lt;/sub&gt; [script D sub alpha] are the family of Hilbert spaces consisting of all analytic functions f(z) = ∑&lt;sub&gt;n=0&lt;/sub&gt;&lt;sup&gt;∞&lt;/sup&gt;[sum over n equals zero to infinity] ˆf(n) [f hat of n] z&lt;sup&gt;n&lt;/sup&gt; [z to the n] defined on the open unit disc 𝔻 [unit disc] such that&lt;/p&gt;
+&lt;p&gt;∑&lt;sub&gt;n=0&lt;/sub&gt;&lt;sup&gt;∞&lt;/sup&gt; (n+ 1)&lt;sup&gt;α&lt;/sup&gt; |ˆf(n )|&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;is finite.&lt;/p&gt;
+&lt;p&gt;For α &lt; 0, the spaces 𝔇&lt;sub&gt;α&lt;/sub&gt; are known as weighted Bergman spaces. When α= 0, then 𝔇&lt;sub&gt;0&lt;/sub&gt;= H&lt;sup&gt;2&lt;/sup&gt;, the well known and much studied Hardy space. For α &gt; 0, the 𝔇&lt;sub&gt;α&lt;/sub&gt; spaces are weighted Dirichlet spaces.&lt;/p&gt;
+&lt;p&gt;The characterization of the invariant subspaces of the multiplication operator M&lt;sub&gt;z&lt;/sub&gt; [M sub z] on the 𝔇&lt;sub&gt;α&lt;/sub&gt; spaces depends on α, and it is partially still an open problem. The invariant subspaces of 𝔇&lt;sub&gt;2&lt;/sub&gt; have been characterized in 1972 by B. I. Korenblum [25].&lt;/p&gt;
+&lt;p&gt;In this dissertation we show that the invariant subspaces of 𝔇&lt;sub&gt;2&lt;/sub&gt; can be approximated by finite co-dimensional invariant subspaces. For the Dirichlet space D= 𝔇&lt;sub&gt;1&lt;/sub&gt; there is no complete characterization of invariant subspaces, but we consider&lt;/p&gt;
+&lt;p&gt;D&lt;sub&gt;E&lt;/sub&gt;= {f ∈ [in]D : f* = 0 q.e. [quasi-everywhere] on E}&lt;/p&gt;
+&lt;p&gt;where E ⊆ [subset] 𝕋 [unit circle] is a Carleson thin set. In this case, we have a partial result.&lt;/p&gt;
+&lt;p&gt;In the second part of the dissertation we prove a regularity result for extremal functions in the Dirichlet space D. If φ [phi] is an extremal function in the Dirichlet space, then we use a result of Richter and Sundberg [35] to show that for &lt;em&gt;each&lt;/em&gt; point on the unit circle 𝕋 the square of the absolute value of φ converges to its boundary value in certain tangential approach regions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4672</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6021&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4672</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6021</articleid>
+<submission-date>2017-04-28T13:00:53-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10094674</context-key>
+<submission-path>utk_graddiss/4672</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stefan Richter</value>
+</field>
+<field name="advisor2" type="string">
+<value>Carl Sundberg, Michael Frazier, Michael W. Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A New Screening Methodology for Mixture Experiments</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mweese@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Weese</lname>
+<fname>Maria</fname>
+</author>
+</authors>
+<keywords>
+<keyword>mixture experiments</keyword>
+<keyword>screening</keyword>
+<keyword>Cox model</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Design of Experiments and Sample Surveys</discipline>
+<discipline>Statistical Methodology</discipline>
+</disciplines><abstract>&lt;p&gt;Many materials we use in daily life are comprised of a mixture; plastics, gasoline, food, medicine, etc. Mixture experiments, where factors are proportions of components and the response depends only on the relative proportions of the components, are an integral part of product development and improvement. However, when the number of components is large and there are complex constraints, experimentation can be a daunting task. We study screening methods in a mixture setting using the framework of the Cox mixture model [1]. We exploit the easy interpretation of the parameters in the Cox mixture model and develop methods for screening in a mixture setting. We present specific methods for adding a component, removing a component and a general method for screening a subset of components in mixtures with complex constraints. The variances of our parameter estimates are comparable with the typically used Scheff ́e model variances and our methods provide a reduced run size for screening experiments with mixtures containing a large number of components. We then further extend the new screening methods by using Evolutionary Operation (EVOP) developed by Box and Draper [2]. EVOP methods use small movement in a subset of process parameters and replication to reveal effects out of the process noise. Mixture experiments inherently have small movements (since the proportions can only range from zero to unity) and the effects have large variances. We update the EVOP methods by using sequential testing of effects opposed to the confidence interval method originally proposed by Box and Draper. We show that the sequential testing approach as compared with a fixed sample size reduced the required sample size as much as 50 percent with all other testing parameters held constant. We present two methods for adding a component and a general screening method using a graphical sequential t-test and provide R-code to reproduce the limits for the test.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/757</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1783&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>757</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1783</articleid>
+<submission-date>2010-04-21T13:23:51-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1283334</context-key>
+<submission-path>utk_graddiss/757</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mary G. Leitnaker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Mee, Russell Zaretzki, Charles Moore</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

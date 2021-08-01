@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assessing Network Vulnerability of Rail Transport Networks – Nodal Connectivity, Partial Node Failure, and Shortest Path Network Problems</title>
+<publication-date>2018-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qye3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ye</lname>
+<fname>Qian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Nodal Connectivity</keyword>
+<keyword>Partial Node Failure</keyword>
+<keyword>Shortest Path Network Problems</keyword>
+<keyword>Spatial Optimization</keyword>
+<keyword>Network Vulnerability</keyword>
+</keywords>
+<abstract>&lt;p&gt;Plenty of literature has examined the vulnerability of transportation networks. To identify appropriate measures of connectivity for heavy rail systems, this research presents a comprehensive measure named &lt;em&gt;Degree of Nodal Connection&lt;/em&gt; (DNC) index along with a new classification of transfer stations – &lt;em&gt;Mandatory Transfer&lt;/em&gt; (MT), &lt;em&gt;non-Mandatory Transfer&lt;/em&gt; (non-MT), and &lt;em&gt;End Transfer&lt;/em&gt; (ET). The DNC index reevaluates nodal connectivity among various types of transfer stations in heavy rail networks with multiple lines. The concept of &lt;em&gt;partial node failure&lt;/em&gt; is proposed and addressed in network modeling, and the disruption results are compared between partial and complete node failures using four local and global DNC indexes. Numerical assessment is presented with a case study of major heavy rail networks in the United States. To incorporate network flow in addition to nodes and links, the research proposes two network optimization models in order to identify and evaluate critical components of a flow-based network from the perspective of shortest paths. The Shortest Path Network model (SPN) identifies the optimal flow distribution across the network where all flows find their shortest paths from origin to destination. The Assessing Nodal Disruption in Shortest Paths Network model (AND-SPN) assesses the influence of &lt;em&gt;r&lt;/em&gt; nodes’ disruption on the network flow pattern. Supplementary criticality indicators are provided to reflect average arc use, average arc cost, and average arc flow. In the case study of the Amtrak rail system, the criticality of stations is evaluated comprehensively in terms of objective function and criticality. To accommodate partial node failure, the SPN model is further expanded to the SPN for Partial node failure model (SPN&lt;sup&gt;Pr&lt;/sup&gt;) by introducing link attribute index and distance update constraints. A case study on the Washington Metropolitan Area Transit Authority (WMATA) network is carried out using daily and monthly station-to-station flow to assess nodal criticality of MTs and thus network vulnerability. From different perspectives of concern, the indexes and optimization models proposed in the dissertation can help decision makers and planners to decide which rail stations are the most important to protect during special events or disasters or when seeking to reduce transportation network vulnerability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5055</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6596&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5055</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6596</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415468</context-key>
+<submission-path>utk_graddiss/5055</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hyun Kim</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee D. Han, Bruce A. Ralston, Shih-Lung Shaw, Russell L. Zaretzki</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Portions of this document were previously published in journal DOI 10.1007/s11116-018-9859-6&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

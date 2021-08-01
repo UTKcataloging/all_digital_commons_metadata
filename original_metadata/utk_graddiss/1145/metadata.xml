@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Turbo Bayesian Compressed Sensing</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dyang7@utk.edu</email>
+<lname>Yang</lname>
+<fname>Depeng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Compressed Sensing</keyword>
+<keyword>Hardware Implementation</keyword>
+<keyword>FPGA</keyword>
+<keyword>GPU</keyword>
+</keywords>
+<disciplines><discipline>Signal Processing</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Compressed sensing (CS) theory specifies a new signal acquisition approach, potentially allowing the acquisition of signals at a much lower data rate than the Nyquist sampling rate. In CS, the signal is not directly acquired but reconstructed from a few measurements. One of the key problems in CS is how to recover the original signal from measurements in the presence of noise. This dissertation addresses signal reconstruction problems in CS. First, a feedback structure and signal recovery algorithm, orthogonal pruning pursuit (OPP), is proposed to exploit the prior knowledge to reconstruct the signal in the noise-free situation. To handle the noise, a noise-aware signal reconstruction algorithm based on Bayesian Compressed Sensing (BCS) is developed. Moreover, a novel Turbo Bayesian Compressed Sensing (TBCS) algorithm is developed for joint signal reconstruction by exploiting both spatial and temporal redundancy. Then, the TBCS algorithm is applied to a UWB positioning system for achieving mm-accuracy with low sampling rate ADCs. Finally, hardware implementation of BCS signal reconstruction on FPGAs and GPUs is investigated. Implementation on GPUs and FPGAs of parallel Cholesky decomposition, which is a key component of BCS, is explored. Simulation results on software and hardware have demonstrated that OPP and TBCS outperform previous approaches, with UWB positioning accuracy improved by 12.8x. The accelerated computation helps enable real-time application of this work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1145</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2275&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1145</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2275</articleid>
+<submission-date>2011-07-28T19:24:54-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2121815</context-key>
+<submission-path>utk_graddiss/1145</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Hairong Qi, Yulong Xing, and Seddik M. Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

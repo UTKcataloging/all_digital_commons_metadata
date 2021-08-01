@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modification and Evaluation of Continuous Roll Prediction Model for Front Drive Mowers</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wang</lname>
+<fname>Xinyan</fname>
+</author>
+</authors>
+<disciplines><discipline>Biological Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The recently approved ASAE Standard S547 “Tip-Over Protective Structure (TOPS) for Front Wheel Drive Turf and Landscape Equipment” addressed a continuous roll prediction model for Roll-Over Protective Structure (ROPS) design.  The existing model described in this Standard did not take into account the influence of the mower deck on the rollover behavior.  In order to evaluate the accuracy of the original model, according to the ASAE S547 requirement, a 4.05 meters long and 3.42 meters wide slope of 35 degrees was constructed at the University of Tennessee.  Lateral upset tests for Deere F925 front drive mower with regular and inverted ROPS of 1.9 m and 2.22 m were conducted.  These tests indicated the mower deck influenced the rollover behavior.  In addition, the mower yaw (rotation) and slide downhill were also observed.  The existing model described in ASAE S547 did not accurately predict the roll behavior of the mower.  Therefore, this project involved evaluating the accuracy of the existing continuous roll model and modifying it to include the mower deck size, yaw and slide downhill.&lt;/p&gt;
+&lt;p&gt;Due to the deck size, the mower underwent a more complex combination of roll, yaw and slide down hill.  By adding the deck size, the tipping axes changed, therefore, the potential energy, the moment of inertia and kinetic energy changed.  These changes affected the roll behavior.  Due to the yaw, the direction of the tipping axis changed, the equivalent slope angle increased, i.e. the equivalent slope became steeper, and the continuous roll tendency increased.&lt;/p&gt;
+&lt;p&gt;The existing model was revised to include 1) the deck size, 2) yaw and 3) slide down the slope.  This revision included the tipping axes rotation and mass moment of inertia transformation.  By increasing the ROPS height, the roll behavior could be changed from continuous roll to non-continuous roll.  Using the revised model, the minimum ROPS height required to stop the roll (critical ROPS height (CRH)) could be determined.  The CRH predicted by the revised model was 2.50 m, and 2.63 m, with the deck transportation and working position, respectively, and ROPS in the regular position (the top of ROPS tilting backward).  The CRH predicted by the revised model for the ROPS in the inverted position (the top of ROPS tilting forward) was 2.00 m.&lt;/p&gt;
+&lt;p&gt;In order to evaluate the accuracy of the revised model, field tests with a Deere F925 mower at ROPS height of 1.90 m, 2.22 m, 2.42 m, 2.55 m, and 2.67 m were conducted.  For Deere F925 mower with the regular ROPS, the measured CRH were 2.55 m with the deck in transportation position (up) and 2.67 m with the deck in working position (down).  For Deere F925 mower with the inverted ROPS, field tests showed a CRH of 2.03 m with deck in mowing position.&lt;/p&gt;
+&lt;p&gt;The reason of the greater roll tendency with deck down is that the deck height influences two parameters, the initial vertical height to center of gravity, and the tipping axis (i.e. the distance between CG and the tipping axis).  As the deck height (D3) is decreased, although the initial vertical height to the CG decreases, the change of the tipping axis creates a larger potential energy.  For F925 mower, the initial potential energy change (Δ&lt;em&gt;PE&lt;/em&gt;) from first positions to second position increases from 4158 J to 4360 J as the deck height decreases from 0.2 m to 0.1 m.  Therefore, there is greater tendency for the mower to roll with lower deck position than higher deck position.&lt;/p&gt;
+&lt;p&gt;In order to quantitatively evaluate the revised model prediction accuracy, an accuracy factor (AF) (the critical ROPS height (CRH) predicted by the revised model divided by the measured critical ROPS height (CRH))(expressed as a percentage) was defined.  The accuracy factor (AF) of the revised model for deck up, deck down, and inverted ROPS (98, 98, and 99%, respectively) indicates a better prediction than the original model (85, 83, and 82% respectively).  Field lateral upset tests showed that the revised model result was very close to the field test result.&lt;/p&gt;
+&lt;p&gt;Model sensitivity analysis was conducted.  As the deformation (T) of the slope and ROPS increased by 20%, the CRH only increased 0.1%.  As the moment of inertia (MI) increased by 20%, the CRH only increased 1.1%.  From 1.82 m to 1.52 m deck, as the deck extension width (Bm) decreased by 16.7%, the CRH only decreased by 0.9%.  From 1.82 m deck to 2.28 m deck, as the deck extension width (Bm) increased by 25%, the CRH only decreased by 0.6%.  By adding a 95 kg operator mass (&lt;em&gt;m&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt;), the CRH changed from 2.63 m to 2.67 m, therefore, the revised model was relatively insensitive to these parameters.&lt;/p&gt;
+&lt;p&gt;The model showed strong sensitivity to other factors.  As the deck height (D3), the angle (LL2) between the tipping axis 3 and the longitudinal axis, the friction coefficient (Miu) and the horizontal distance (L3) between the center of gravity (CG) and deck/slope contact point increased by 20%, the CRH decreased by 1.6%, 1.6%, 6.8% and 9.5% respectively.  As the slide distance (Ls) of CG, the height (H1) of center of gravity and the horizontal distance (L6) between CG and the ROPS impact point increased by 20%, the CRH increased by 1.9%, 4.1%, and 6.0% respectively.  Therefore, the slight changes in these parameters caused a greater change in the roll behavior.&lt;/p&gt;
+&lt;p&gt;The deck size, yaw, and slide downhill had a greater influence on the mower roll behavior.  Due to the deck size, the front tires of the mower are suspended, therefore, the weight shifts to the rear tire, and the rear tire receives greater friction force than front deck.  This causes the front deck move faster than the rear tire.  This situation results in the yaw of the mower.  Due to the yaw, the angle between the longitudinal direction and the tipping axis connecting the ROPS impact point to the deck/slope contact point decreased, therefore, the equivalent slope became steeper; finally, the roll tendency increased.  From the accuracy factor (AF), the revised model is a better predictor of the front drive mower continuous roll than the original model.&lt;/p&gt;
+&lt;p&gt;Further studies should address the effect of operator weight.  Due to the operator’s weight, the weight of the mower, the center of gravity and the mass moment of inertia change, therefore, the roll behavior changes.  It is essential to find empirical values of the yaw and the slide distance on various grasses.  Due to the additional front structure, yaw and slide, the longer and wider test slope is needed for the adequate continuous roll testing.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4331</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6061&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4331</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6061</articleid>
+<submission-date>2017-05-03T08:20:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10111672</context-key>
+<submission-path>utk_graddiss/4331</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Paul D. Ayers</value>
+</field>
+<field name="advisor2" type="string">
+<value>G. V. Smith, Jeffrey Freeman, Alvin Womac</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

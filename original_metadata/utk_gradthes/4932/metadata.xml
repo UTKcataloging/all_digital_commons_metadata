@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Comparison of Several Methods for Solving Second-Order Damped Systems of Ordinary Differential Equations</title>
+<publication-date>1979-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lynch</lname>
+<fname>Vickie</fname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><coverpage-url>https://trace.tennessee.edu/utk_gradthes/4932</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6373&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4932</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6373</articleid>
+<submission-date>2018-01-16T09:14:21-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>11368608</context-key>
+<submission-path>utk_gradthes/4932</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven M. Serbin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vassilios A. Dougalis, Max D. Gunzburger</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Several numerical methods for the solution of a second-order damped system of the form MÜ(t) + 2CŮ(t) + KU(t) = F(t) are compared in this study. Factors considered in the comparison are stability, difficulty and cost of implementation, and accuracy. The methods we consider are Compact Implicit schemes, Central Differences, Wilson&#39;s θ-method, Padé approximations on equivalent first-order systems, and methods based on rational approximations to the cosine matrix.&lt;/p&gt;
+&lt;p&gt;Both conditionally stable and unconditionally stable methods are studied. Problems with high frequency components in the solution are considered. The Padé schemes are evidenced to be particularly effective.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1979-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1979-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

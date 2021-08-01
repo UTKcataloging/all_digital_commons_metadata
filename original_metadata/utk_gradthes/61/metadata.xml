@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Plume Source Localization and Boundary Prediction</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sahyoun</lname>
+<fname>Samir</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;Plume location and prediction using mobile sensors is the main contribution of this thesis. Plume concentration values measured by chemical sensors at different locations are used to estimate the source of the plume. This is achieved by employing a stochastic approximation technique to localize the source and compare its performance to the nonlinear least squares method. The source location is then used as the initial estimate for the boundary tracking problem. Sensor measurements are used to estimate the parameters and the states of the state space model of the dynamics of the plume boundary. The predicted locations are the reference inputs for the LQR controller. Measurements at the new locations (after the correction of the prediction error) are added to the set of data to refine the next prediction process. Simulations are performed to demonstrate the viability of the methods developed. Finally, interpolation using the sensors locations is used to approximate the boundary shape.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/61</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1090&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>61</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1090</articleid>
+<submission-date>2010-01-21T09:06:37-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1117929</context-key>
+<submission-path>utk_gradthes/61</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly Fathy, Hairong Qi, Mongi Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

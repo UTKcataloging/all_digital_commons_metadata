@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Finite Element Study of the Contact Stiffness of Homogenous Materials and Thin Films</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Xu</lname>
+<fname>Haitao</fname>
+</author>
+</authors>
+<disciplines><discipline>Materials Science and Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The applicability of the stiffness equation S=2E&lt;sub&gt;r&lt;/sub&gt;a to elastic and elastic-plastic homogeneous materials and thin films on substrates is studied by finite element techniques. It is found that the stiffness equation works well in all these materials provided that a correction factor β is included. For elastic homogenous materials, the correction factor is examined for different friction conditions, Poisson’s ratios, and indenter cone angles. In the case of elastic-plastic indentation with a 70.3° cone, the correction factor is very close to that for elastic indentation of a matching conical hole, which provides a convenient way to model the effects of plasticity.&lt;/p&gt;
+&lt;p&gt;Nanoindentation measurements using the stiffness equation for film/substrate systems may be affected by the substrate properties. To address this issue, a new equation describing the relationship between the effective compliance and the elastic properties of the film and the substrate for flat cylindrical punch indentation is derived. To apply this to conical indentation, it is shown that an effective film thickness should be used in the new relation to account for the geometry difference between a conical indenter and a flat punch. Finite element analysis (FEA) is used to obtain a simple equation which can be used to determine the effective film thickness, which is independent of the elastic properties of the films and substrates for compliant films on stiff substrates. The applicability of the new relation is examined by comparing it to FEA of elastic-plastic indentation by a cone. The new relation is also compared to Yu’s approximate analytical solution to determine which is more accurate for obtaining the true contact radius from the measured stiffness. Although Yu’s solution applies to a broader range of materials, the new relation has distinct advantages in that it can be written in a simple algebraic form.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/282</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1335&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>282</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1335</articleid>
+<submission-date>2010-02-05T09:33:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1133513</context-key>
+<submission-path>utk_graddiss/282</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>George M. Pharr</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hahn Choo, Easo P. George, Dayakar Penumadu, Yanfei Gao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Materials Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/XuHaitao.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

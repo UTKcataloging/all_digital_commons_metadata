@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>IMPROVING VENTRICULAR CATHETER DESIGN THROUGH COMPUTATIONAL FLUID DYNAMICS</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sweisenb@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Weisenberg</lname>
+<fname>Sofy</fname>
+<mname>Hefets</mname>
+</author>
+</authors>
+<keywords>
+<keyword>cerebrospinal fluid shunt</keyword>
+<keyword>ventricular catheter. hydrocephalus</keyword>
+<keyword>computational fluid dynamics</keyword>
+<keyword>optimization</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Computer-Aided Engineering and Design</discipline>
+<discipline>Fluid Dynamics</discipline>
+<discipline>Neurology</discipline>
+</disciplines><abstract>&lt;p&gt;Cerebrospinal fluid (CSF) shunts are fully implantable medical devices that are used to treat patients suffering from conditions characterized by elevated intracranial pressure, such as hydrocephalus. In cases of shunt failure or malfunction, patients are often required to endure one or more revision surgeries to replace all or part of the shunt. One of the primary causes of CSF shunt failure is obstruction of the ventricular catheter, a component of the shunt system implanted directly into the brain&#39;s ventricular system. This work aims to improve the design of ventricular catheters in order to reduce the incidence of catheter obstruction and thereby reduce overall shunt failure rates.&lt;/p&gt;
+&lt;p&gt;Modern CSF shunts are the result of six decades of neurosurgical progress; however, in spite of revolutionary advances in engineering, the ventricular catheter remains largely unchanged in its functionality and performance from its original design. A thorough review of the history of ventricular catheter design, and the contemporary efforts to improve it, have given valuable insight into the challenges still remaining. One of the challenges is to better understand shunt flow in order to improve the flow performance of ventricular catheters. To characterize CSF flow through catheters, this work integrated computational fluid dynamics (CFD) modelling with experimental validation.&lt;/p&gt;
+&lt;p&gt;A fully-parametrized, 3-dimensional CFD catheter model was developed that allowed for exploration of the geometric design features key to the catheter’s fluid dynamics. The model was validated using bench tests and advanced fluid imaging techniques, including positron emission particle tracking (PEPT). Once validated, the model served as a basis for automated, iterative parametric studies to be conducted. This involved creating a coupled framework between the CFD simulations and a parametric analysis toolkit. Sensitivity analyses and optimization studies were performed with the objective of improving catheter flow patterns. By simulating thousands of possible geometric catheter designs, much insight was gathered that can provide practical guidelines for producing optimal flow through ventricular catheters. Ultimately, those insights can lead to better quality of life for patients who require shunts, by reducing ventricular catheter obstruction rates and the need for revision surgeries.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3817</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5078&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3817</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5078</articleid>
+<submission-date>2016-02-25T10:57:35-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8216148</context-key>
+<submission-path>utk_gradthes/3817</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stephanie C. TerMaath</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Justin S. Baba, James A. Killeffer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

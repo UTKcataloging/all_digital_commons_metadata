@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>DANNA2: Dynamic Adaptive Neural Network Arrays</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Mitchell</lname>
+<fname>John</fname>
+<mname>Parker</mname>
+</author>
+</authors>
+<keywords>
+<keyword>neuromorphic</keyword>
+<keyword>spiking neural networks</keyword>
+<keyword>computer architecture</keyword>
+<keyword>machine learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;Traditional Von Neumann architectures have been at the center of computing for decades thanks in part to Moore&#39;s Law and Dennard Scaling. However, MOSFET scaling is rapidly approaching its physical limits spelling the end of an era. This is causing researchers to examine alternative solutions. Neuromorphic computing is a paradigm shift which may offer increased capabilities and efficiency by borrowing concepts from biology and incorporating them into an alternative computing platform.The TENNLab group explores these architectures and the associated challenges. The group currently has a mature hardware platform referred to as Dynamic Adaptive Neural Network Arrays (DANNA). DANNA is a digital discrete spiking neural network architecture with software, FPGA, and VLSI implementations. This work introduces a successor architecture built on the lessons learned from prior models. The DANNA2 model offers an order of magnitude improvement over DANNA in both simulation speed and hardware clock frequency while expanding functionality and improving effective density.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5167</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6574&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5167</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6574</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415131</context-key>
+<submission-path>utk_gradthes/5167</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark E. Dean</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

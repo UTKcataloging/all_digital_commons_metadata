@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A method to track dataset reuse in biomedicine: Filtered GEO accession numbers in PubMed Central</title>
+<publication-date>2010-11-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hpiwowar@nescent.org</email>
+<institution>National Evolutionary Synthesis Center</institution>
+<lname>Piwowar</lname>
+<fname>Heather</fname>
+<mname>A</mname>
+</author>
+</authors>
+<keywords>
+<keyword>data sharing</keyword>
+<keyword>data reuse</keyword>
+<keyword>method</keyword>
+<keyword>bioinformatics</keyword>
+<keyword>bibliometrics</keyword>
+<keyword>human information behavior</keyword>
+</keywords>
+<disciplines><discipline>Cataloging and Metadata</discipline>
+<discipline>Scholarly Communication</discipline>
+</disciplines><abstract>&lt;p&gt;Reusing research data has important potential benefits: generative science and efficient resource use. Tracking the reuse of research datasets would allow us to understand whether the potential benefits are indeed realized, enable recognition of investigators who produce, annotate, and share useful data, and inform data sharing and reuse initiatives, tools, and policies.&lt;/p&gt;
+&lt;p&gt;Unfortunately, the lack of clear attribution practices for data make automated tracking of data reuse difficult. I present a method for tracking research data reuse that takes advantage of the community norms around gene expression microarray data sharing and the rich NCBI Entrez resources. Specifically, the full‐text of papers stored in PubMed Central are queried for accession numbers of datasets archived in NCBI&#39;s Gene Expression Omnibus (GEO) repository. Studies known to have created microarray data are excluded through automated filters and guided manual curation. MeSH terms attached to the data creation and data reuse studies provide additional information for analysis. Finally, I extrapolate the findings to all of PubMed.&lt;/p&gt;
+&lt;p&gt;Automated portions of this method have been implemented in python and are openly available. Although imperfect, this dataset is a valuable initial resource for research into patterns of data reuse.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_dataone/2</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1001&amp;amp;context=utk_dataone&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>conference</document-type>
+<type>article</type>
+<articleid>1001</articleid>
+<submission-date>2019-07-22T19:28:21-07:00</submission-date>
+<publication-title>DataONE Sociocultural and Usability &amp; Assessment Working Groups</publication-title>
+<context-key>14974709</context-key>
+<submission-path>utk_dataone/2</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Piwowar, H. (2010). A method to track dataset reuse in biomedicine: Filtered GEO accession numbers in PubMed Central. Proceedings of the American Society for Information Science and Technology, 47(1), 1-2.</value>
+</field>
+<field name="doi" type="string">
+<value>10.1002/meet.14504701450</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-11-01T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-11-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>https://onlinelibrary.wiley.com/doi/epdf/10.1002/meet.14504701450</value>
+</field>
+<field name="source_publication" type="string">
+<value>Proceedings of the American Society for Information Science and Technology</value>
+</field>
+<field name="submission_type" type="string">
+<value>Post-print</value>
+</field>
+</fields>
+</document>
+</documents>

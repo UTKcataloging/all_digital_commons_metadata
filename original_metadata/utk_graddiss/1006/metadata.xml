@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Rigid Body Forward Solution Physiological Model of the Lower Leg to Predict Non Implanted and Implanted Knee Kinematics and Kinetics</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jmueller@cmb.utk.edu</email>
+<lname>Mueller</lname>
+<fname>John Kyle</fname>
+<mname>Patrick</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Predictive Dynamic Model</keyword>
+<keyword>Arthroplasty</keyword>
+<keyword>Knee</keyword>
+<keyword>Rigid Body Dynamics</keyword>
+<keyword>Kinetics</keyword>
+<keyword>Kinematics</keyword>
+</keywords>
+<disciplines><discipline>Biomechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation describes the development and results of a physiological rigid body forward solution mathematical model that can be used to predict normal knee and total knee arthroplasty (TKA) kinematics and kinetics.  The simulated activities include active extension and weight-bearing deep knee bend.  The model includes both the patellofemoral and tibiofemoral joints.  Geometry of the normal or implanted knee is represented by multivariate polynomials and modeled by constraining the velocity of lateral and medial tibiofemoral and patellofemoral contact points in a direction normal to the geometry surface.&lt;/p&gt;
+&lt;p&gt;Center of mass, ligament and muscle attachment points and normal knee geometry were found using computer aided design (CAD) models built from computer tomography (CT) scans of a single subject.  Quadriceps forces were the input for this model and were adjusted using a unique controller to control the rate of flexion, embedded with a controller which stabilizes the patellofemoral joint.  The model was developed first using normal knee parameters.  Once the normal knee model was validated, different total knee arthroplasty (TKA) designs were virtually implanted.&lt;/p&gt;
+&lt;p&gt;The model was validated using in vivo data obtained through fluoroscopic analysis.  In vivo data of the extension and deep knee bend activities from five non-implanted knees were used to validate the normal model kinematics.  In vivo kinematic and kinetic data from a telemetric TKA with a tibia component instrumented with strain gauges was used to validate the kinematic and kinetic results of the model implanted with the TKA geometry.  The tibiofemoral contact movement matched the trend seen in the in vivo data from the one patient available with this implant.  The maximum axial tibiofemoral force calculated with the model was in 3.1% error with the maximum force seen in the in vivo data, and the trend of the contact forces matched well.  Several other TKA designs were virtually implanted and analyzed to determine kinematics and bearing surface kinetics.  The comparison between the model results and those previously assessed under in vivo conditions validates the effectiveness of the model and proves that it can be used to predict the in vivo kinematic and kinetic behavior of a TKA.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1006</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2057&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1006</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2057</articleid>
+<submission-date>2011-01-18T18:41:29-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2057/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1733299</context-key>
+<submission-path>utk_graddiss/1006</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Richard D. Komistek</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohammed R. Mahfouz, William H. Hamel, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

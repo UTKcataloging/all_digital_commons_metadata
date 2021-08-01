@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Approach to Qualification for Electron Beam Powder Bed Fusion in Ti-6Al-4V</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>syoder3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yoder</lname>
+<fname>Sean</fname>
+<mname>Lucas</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Additive Manufacturing</keyword>
+<keyword>Electron beam powder bed fusion</keyword>
+<keyword>Ti-6Al-4V</keyword>
+<keyword>Qualification</keyword>
+<keyword>Arcam</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recent developments in additive manufacturing (AM) show promise for using AM manufactured components in a production setting. However, a crucial step for mass producing AM components is to certify these parts for use. One common method for certifying parts is to manufacture tensile coupons alongside any parts. These coupons are characterized and the results are related to the parts. This causes many researchers to focus on the process-material interactions while neglecting build setup. Another issue related to certification of AM parts is the lack of knowledge in the software calculations for a given process. Original equipment manufacturers (OEM), such as Arcam AB for electron beam powder bed fusion (E-PBF), need secrecy in their software to ensure their scan strategy is protected. Therefore, this practice provides researchers little information or confidence about changes made in process parameters. To provide insight into these areas of variation, the current work can be broken into two parts – (i) understanding how changes in selected process parameters can influence non-selected parameters and (ii) determining the effectiveness of current qualification methods for the E-PBF process.To better understand process parameters, changes in selected process parameters were simulated and compared with the Arcam provided parameter set. Results of these simulations show that speed function variable is only a function of melting time while modifications to the contour passes and surface temperature result in changes to the heat balance. Variations in the heat balance change the cooling rate of as-fabricated material, which causes microstructural evolution in titanium alloys. Preliminary results show that modifying the surface temperature for specific regions can be used to control microstructure.To better understand how build setup can influence parts in a build, build setup variables such as part melt order, build volume, and cross-sectional melt area were modified between two builds. Results of these changes show that performance in test coupons cannot be applied to performance in the other parts since changes in build setup influence each part differently. The current work provide challenges to applying traditional qualification methods to AM fabricated components in hopes that a process-based certification path can be achieved.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5383</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6793&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5383</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6793</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343235</context-key>
+<submission-path>utk_gradthes/5383</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Sudarsanam Suresh Babu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ryan Dehoff, Vincent C. Paquit</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

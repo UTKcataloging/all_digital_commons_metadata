@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Geographic and Temporal Epidemiology of Campylobacteriosis</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jweisent@utk.edu</email>
+<lname>Weisent</lname>
+<fname>Jennifer</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Campylobacter</keyword>
+<keyword>spatial and temporal modeling</keyword>
+<keyword>GIS</keyword>
+<keyword>time series</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Epidemiology</discipline>
+<discipline>Longitudinal Data Analysis and Time Series</discipline>
+<discipline>Public Health</discipline>
+</disciplines><abstract>&lt;p&gt;Campylobacteriosis is a leading cause of gastroenteritis in the United States. The focus of this research was to (i) analyze and predict spatial and temporal patterns and associations for campylobacteriosis risk and (ii) compare the utility of advanced modeling methods. Laboratory-confirmed &lt;em&gt;Campylobacter&lt;/em&gt; case data, obtained from the Foodborne Diseases Active Surveillance Network were used in all investigations.&lt;/p&gt;
+&lt;p&gt;We compared the accuracy of forecasting techniques for campylobacteriosis risk in Minnesota, Oregon and Georgia and found that time series regression, decomposition, and Box-Jenkins Autoregressive Integrated Moving Averages reliably predict monthly risk of infection for campylobacteriosis. Decomposition provided the fastest, most accurate, user-friendly method.&lt;/p&gt;
+&lt;p&gt;Secondly, forecasting models were used to predict monthly climatic effects on the risk of campylobacteriosis in Georgia. The objectives were to (i) assess temporal patterns of campylobacteriosis risk (ii) compare univariate forecasting models with those that incorporate precipitation and temperature and (iii) investigate alternatives to random walk series and non random occurrences that could be outliers. We found significant regional associations between campylobacteriosis risk and climatic factors and control charting identified high risk time periods.&lt;/p&gt;
+&lt;p&gt;Our spatial study in Tennessee compared standardized risk estimates and investigated high risk spatial clustering of campylobacteriosis at three geographic scales. Spatial scan methods identified overlapping clusters (p&lt;/p&gt;
+&lt;p&gt;Objectives of the second study were to (i) identify socioeconomic determinants of the geographic disparities of campylobacteriosis risk (ii) investigate if regression coefficients demonstrate spatial variability and (iii) compare the performance of four modeling approaches: negative binomial, spatial lag, global and local Poisson geographically weighted regression. Local models had the best fit and identified associations between socioeconomic factors and geographic disparities in campylobacteriosis risk. Significant variables included race, unemployment rate, education attainment, urbanicity, and divorce rate.&lt;/p&gt;
+&lt;p&gt;Recent technological advancements have opened a virtually limitless ‘toolbox’ of analytical methods and offer novel means of identifying temporal spikes, spatial clusters and geographic disparities in campylobacteriosis risk that expand and hone our ability to create cost efficient, needs-based prevention and control measures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1792</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2775&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1792</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2775</articleid>
+<submission-date>2012-11-14T15:05:08-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2775/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3469338</context-key>
+<submission-path>utk_graddiss/1792</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Barton Rohrbach</value>
+</field>
+<field name="advisor2" type="string">
+<value>Agricola Odoi, William Seaver, Jun Lin, John R. Dunn</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;This research was performed on FoodNet &lt;em&gt;Campylobacter&lt;/em&gt; surveillance data from Tennessee, Georgia, Minnesota and Oregon, USA.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Comparative and Experimental Medicine</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

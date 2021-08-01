@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>PADUA RADIOLOGICAL SEARCH SYSTEM</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Magocs</lname>
+<fname>Benjamin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>radioactive material search</keyword>
+<keyword>unmanned aircraft</keyword>
+<keyword>autonomous aircraft control</keyword>
+<keyword>python</keyword>
+<keyword>bayesian</keyword>
+<keyword>CBRM</keyword>
+</keywords>
+<abstract>&lt;p&gt;The primary intention of this project was to improve upon the current state-of-the-art radiological detection methods by integrating autonomous control methods, Bayesian statistics, Savitzky-Golay filtering, other search methods, and novel swarming techniques together to create a single push-button multi-agent radiation search algorithm (the Padua algorithm). The primary agents the algorithm was designed for onboard usage with were multirotor-type unmanned aerial vehicles (UAV’s) and, in certain portions of search, fixed wing UAV’s. The development of Padua for this project was performed entirely in simulation using the Python Dronekit SITL API. The final algorithm performed exceptionally well with the ability to narrow down the predicted location of a large radioactive source to only a few meters or less from a space that was 1 sq. km. in less than an hour.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5708</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7474&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5708</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7474</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419564</context-key>
+<submission-path>utk_graddiss/5708</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Howard Hall, John Auxier II</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Bond, Matthew Cook, Zhili Zhang, John Schmisseur</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

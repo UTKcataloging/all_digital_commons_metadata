@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Study of DRAINMOD-Urban For Enhanced Bioretention Cell Modeling</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wlisenbe@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Lisenbee</lname>
+<fname>Whitney</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Bioretention</keyword>
+<keyword>DRAINMOD</keyword>
+<keyword>DRAINMOD-Urban</keyword>
+<keyword>LID</keyword>
+<keyword>Modeling</keyword>
+<keyword>Stormwater</keyword>
+<keyword>SWMM</keyword>
+</keywords>
+<abstract>&lt;p&gt;Bioretention has become a leading infiltration-based stormwater control measure for mitigating urban hydrology by reducing urban stormwater runoff volumes and peak flows. Despite widespread field and laboratory studies, less investigation has been directed toward effectively modeling these systems. This is critical, as modeling of bioretention systems provides an avenue for evaluating their effectiveness prior to devoting time and resources into installation. Many hydrologic models capable of simulating bioretention consist of lumped parameters and simplifications that do not fully account for fundamental hydrologic processes such as soil-water interactions. One model, DRAINMOD, has overcome many limitations of other models by incorporating the soil-water characteristic curve (SWCC) to provide better analysis of soil moisture conditions within a bioretention cell and offering better drainage configurations such as an internal water storage (IWS) zone. DRAINMOD is an agricultural drainage model that has shown promise when applied to bioretention systems but operates at a daily temporal scale which does not capture rapid changes in urban hydrology. This study begins by modifying DRAINMOD to adapt to the flashy nature of urban hydrology and bioretention systems in a new model named DRAINMOD-Urban. The performance of DRAINMOD-Urban established that it can produce output hydrographs that represent measured drainage and overflow from a bioretention system while still maintaining calibrated volumes of outflow similar to DRAINMOD. Next, DRAINMOD-Urban was compared to the LID module of the commonly used hydrologic model, the U.S. Environmental Protection Agency (EPA) Stormwater Management Model (SWMM). DRAINMOD-Urban produced better drainage hydrographs but SWMM was very accurate at predicting measured drainage (NSE=0.77-0.94) and overflow (NSE=0.67-0.81) volumes. Pedotransfer functions (PTF) were used to derive the SWCC and vi saturated hydraulic conductivity required for DRAINMOD-Urban and model performance was compared among measured and PTF-derived soil properties. This study showed that a calibrated DRAINMOD-Urban can perform equally well with a SWCC that is measured and calculated using the ROSETTA PTF. These investigations provide a better understanding of how DRAINMOD-Urban has enhanced the field of bioretention cell modeling at the site-scale.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5851</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7617&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5851</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7617</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527755</context-key>
+<submission-path>utk_graddiss/5851</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jon Hathaway</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Schwartz, Ryan Winston, Andrea Ludwig</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2895-5074</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Environmental Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

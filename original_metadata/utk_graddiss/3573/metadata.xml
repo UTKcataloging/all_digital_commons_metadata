@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Batched Linear Algebra Problems on GPU Accelerators</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tdong@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Dong</lname>
+<fname>Tingxing</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Linear Algebra</keyword>
+<keyword>Batched</keyword>
+<keyword>CUDA</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;The emergence of multicore and heterogeneous architectures requires many linear algebra algorithms to be redesigned to take advantage of the accelerators, such as GPUs. A particularly challenging class of problems, arising in numerous applications, involves the use of linear algebra operations on many small-sized matrices. The size of these matrices is usually the same, up to a few hundred. The number of them can be thousands, even millions.&lt;/p&gt;
+&lt;p&gt;Compared to large matrix problems with more data parallel computation that are well suited on GPUs, the challenges of small matrix problems lie in the low computing intensity, the large sequential operation fractions, and the big PCI-E overhead. These challenges entail redesigning the algorithms instead of merely porting the current LAPACK algorithms.&lt;/p&gt;
+&lt;p&gt;We consider two classes of problems. The first is linear systems with one-sided factorizations (LU, QR, and Cholesky) and their solver, forward and backward substitution. The second is a two-sided Householder bi-diagonalization. They are challenging to develop and are highly demanded in applications. Our main efforts focus on the same-sized problems. Variable-sized problems are also considered, though to a lesser extent.&lt;/p&gt;
+&lt;p&gt;Our contributions can be summarized as follows. First, we formulated a batched linear algebra framework to solve many data-parallel, small-sized problems/tasks. Second, we redesigned a set of fundamental linear algebra algorithms for high- performance, batched execution on GPU accelerators. Third, we designed batched BLAS (Basic Linear Algebra Subprograms) and proposed innovative optimization techniques for high-performance computation. Fourth, we illustrated the batched methodology on real-world applications as in the case of scaling a CFD application up to 4096 nodes on the Titan supercomputer at Oak Ridge National Laboratory (ORNL). Finally, we demonstrated the power, energy and time efficiency of using accelerators as compared to CPUs. Our solutions achieved large speedups and high energy efficiency compared to related routines in CUBLAS on NVIDIA GPUs and MKL on Intel Sandy-Bridge multicore CPUs.&lt;/p&gt;
+&lt;p&gt;The modern accelerators are all Single-Instruction Multiple-Thread (SIMT) architectures. Our solutions and methods are based on NVIDIA GPUs and can be extended to other accelerators, such as the Intel Xeon Phi and AMD GPUs based on OpenCL.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3573</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5031&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3573</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5031</articleid>
+<submission-date>2015-10-09T12:58:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7701632</context-key>
+<submission-path>utk_graddiss/3573</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Gregory Peterson, Shih-Lung Shaw</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

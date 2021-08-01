@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>genben: A Framework for Benchmarking Genomic Data Analysis Methods on Scalable Systems</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eauel@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Auel</lname>
+<fname>Eric</fname>
+</author>
+</authors>
+<keywords>
+<keyword>genben</keyword>
+<keyword>benchmark</keyword>
+<keyword>distributed systems</keyword>
+<keyword>framework</keyword>
+<keyword>PCA</keyword>
+<keyword>parallel computing</keyword>
+</keywords>
+<abstract>&lt;p&gt;With an ever-increasing number of human DNA sequencing efforts being conducted, the amount of genetic variation data available for research has grown substantially over the past few decades. This data provides scientists with the ability to study various traits of humans and other species. Several data analysis methods can be applied to this genetic variation data, such as allele counting and principal component analysis (PCA). Software libraries like scikit-allel can be used to easily explore these data sets, as it contains many functions that can be directly used on genetic variation data. However, trade-offs often exist when working with unique data sets and when performing analysis on various hardware environments. Additionally, many parameters can be tweaked when storing this genetic variation data, such as compression ratios, compression algorithms, and block sizes. Having the ability to quantify the performance impact of tweaking these parameters can be extremely useful for software developers, data scientists, and researchers. Algorithms that can be used on this data could also be improved in the future, so being able to compare system resource usage before and after these modifications could be extremely insightful in terms of quantifying overall improvements of new algorithms. This thesis presents genben, a flexible framework that can be used to benchmark various functionality involved with analyzing genetic variation data, and it additionally provides several benchmark experiments that demonstrate the ability to test different algorithm implementations, different configuration parameters, and different hardware configurations utilizing high-performance computing systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5569</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7103&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5569</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7103</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409614</context-key>
+<submission-path>utk_gradthes/5569</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Edmon Begoli, Charles Cao</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0001-6554-9780</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

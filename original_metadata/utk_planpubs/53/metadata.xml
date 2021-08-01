@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MicroSyn: A user friendly tool for detection of microsynteny in a gene family</title>
+<publication-date>2011-03-18T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cai</lname>
+<fname>Bin</fname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Yang</lname>
+<fname>Xiaohan</fname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Tusken</lname>
+<fname>Gerald</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>zcheng@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cheng</lname>
+<fname>Zong-Ming</fname>
+</author>
+</authors>
+<disciplines><discipline>Biochemistry, Biophysics, and Structural Biology</discipline>
+<discipline>Bioinformatics</discipline>
+<discipline>Plant Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;The traditional phylogeny analysis within gene family is mainly based on DNA or amino acid sequence homologies. However, these phylogenetic tree analyses are not suitable for those &quot;non-traditional&quot; gene families like microRNA with very short sequences. For the normal protein-coding gene families, low bootstrap values are frequently encountered in some nodes, suggesting low confidence or likely inappropriateness of placement of those members in those nodes.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We introduce MicroSyn software as a means of detecting microsynteny in adjacent genomic regions surrounding genes in gene families. MicroSyn searches for conserved, flanking colinear homologous gene pairs between two genomic fragments to determine the relationship between two members in a gene family. The colinearity of homologous pairs is controlled by a statistical distance function. As a result, gene duplication history can be inferred from the output independent of gene sequences. MicroSyn was designed for both experienced and non-expert users with a user-friendly graphical-user interface. MicroSyn is available from: &lt;a href=&quot;http://fcsb.njau.edu.cn/microsyn/&quot;&gt;http://fcsb.njau.edu.cn/microsyn/&lt;/a&gt; &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://fcsb.njau.edu.cn/microsyn/&amp;refdoi=10.1186/1471-2105-12-79&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Case studies of the microRNA167 genes in plants and Xyloglucan ndotransglycosylase/Hydrolase family in &lt;em&gt;Populus trichocarpa &lt;/em&gt;were presented to show the utility of the software. The easy using of MicroSyn in these examples suggests that the software is an additional valuable means to address the problem intrinsic in the computational methods and sequence qualities themselves in gene family analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_planpubs/53</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1053&amp;amp;context=utk_planpubs&amp;amp;unstamped=1</fulltext-url>
+<label>53</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1053</articleid>
+<submission-date>2013-07-11T11:34:04-07:00</submission-date>
+<publication-title>Plant Sciences Publications and Other Works</publication-title>
+<context-key>4306033</context-key>
+<submission-path>utk_planpubs/53</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2011, 12:79 doi:10.1186/1471-2105-12-79</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-03-18T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Kinetic Monte Carlo Models for Crystal Defects</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kgolenbi@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Golenbiewski</lname>
+<fname>Kyle</fname>
+<mname>Louis</mname>
+</author>
+</authors>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+</disciplines><abstract>&lt;p&gt;Kinetic Monte Carlo algorithms have become an increasingly popular means to simulate stochastic processes since their inception in the 1960&#39;s. One area of particular interest is their use in simulations of crystal growth and evolution in which atoms are deposited on, or hop between, predefined lattice locations with rates depending on a crystal&#39;s configuration. Two such applications are heteroepitaxial thin films and grain boundary migration. Heteroepitaxial growth involves depositing one material onto another with a different lattice spacing. This misfit leads to long-range elastic stresses that affect the behavior of the film. Grain boundary migration, on the other hand, describes how the interface between oriented crystals evolves under a driving force. In ideal grain growth, migration is driven by curvature of the grain boundaries in which the boundaries move towards their center of curvature. This results in a reduction of the total grain boundary surface area of the system, and therefore the total energy of the system. We consider both applications here. Specifically, we extend the analysis of an Energy Localization Approximation applied to Kinetic Monte Carlo simulations of two-dimensional film growth to a three-dimensional setting. We also propose a Kinetic Monte Carlo model for grain boundary migration in the case of arbitrarily oriented face-centered cubic crystals.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3696</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5209&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3696</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5209</articleid>
+<submission-date>2016-02-26T12:31:41-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8225605</context-key>
+<submission-path>utk_graddiss/3696</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tim P. Schulze</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yanfei Gao, Henry Simpson, Steven Wise</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

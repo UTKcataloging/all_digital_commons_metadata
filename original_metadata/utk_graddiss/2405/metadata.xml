@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Computational Methodology for Evaluating In Vivo Vertebral Mechanics in Subjects Having Various Conditions of the Lumbar Spine</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ccarr@utk.edu</email>
+<lname>Carr</lname>
+<fname>Christopher</fname>
+<mname>Brian</mname>
+</author>
+</authors>
+<keywords>
+<keyword>lumbar</keyword>
+<keyword>spine</keyword>
+<keyword>kinematics</keyword>
+<keyword>kinetics</keyword>
+<keyword>mathematical model</keyword>
+</keywords>
+<disciplines><discipline>Biomechanics and Biotransport</discipline>
+</disciplines><abstract>&lt;p&gt;Treating and evaluating the causes of low back pain (LBP) is difficult and not fully understood. However, assessing the &lt;em&gt;in vivo&lt;/em&gt; motions and loading characteristics in the lumbar spine may provide important data for progressing the diagnosis and treatment of pathologies linked with LBP.&lt;/p&gt;
+&lt;p&gt;This dissertation describes the development of a comprehensive approach for collecting both the kinematics and kinetics of the lumbar vertebrae under &lt;em&gt;in vivo&lt;/em&gt; conditions. Forty-four subjects representing healthy, symptomatic, pathological, and surgically implanted (pre- and post-operative) conditions of the lumbar spine were evaluated using dynamic fluoroscopy and 3D-to-2D image registration to assess the motions of the five lumbar vertebrae while patients performed an active flexion-extension, lateral flexion, and axial rotation of the spine. 3D kinematics were extracted describing the relative in-plane and coupled out-of-plane motions of the intervertebral joints. A computational methodology was then utilized for the development of a multi-body, inverse mathematical model based on principles from Kane’s dynamics. The kinematics, as well as patient-specific bone geometries, recreated from CT, and ground reaction forces, collected using force plates, served as inputs to the model. Vertebral bones were defined as rigid bodies, while massless frames represented non-specific bone geometries for the lower body, torso and abdominal wall. Soft tissue attachment sites were selected on the vertebral bones allowing for ligaments to be defined for constraint and modeled as linear springs. Relevant muscle groups were also included and solved for using the pseudo-inverse algorithm, which enabled for decoupling of the derived resultant torques and ultimately defined the kinetic trajectory for the muscles.&lt;/p&gt;
+&lt;p&gt;These methodologies allowed for the theoretical modeling of the entire lumbar region and prediction of joint reaction contact forces, ligament constraint forces, and applied musculotendon forces. Results from the model were validated for the prescribed motions using experimental loading data measured directly using telemetrized vertebral implants and intervertebral disc pressure sensors. A comparative analysis of the predicted forces from the model with experimentally collected data showed good agreement in the force profiles and an average combined error around 6.9%. This demonstrated the use of this methodology for &lt;em&gt;in vivo&lt;/em&gt; analyses of the lumbar spine.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2405</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2927&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2405</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2927</articleid>
+<submission-date>2013-03-03T21:37:25-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2927/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3829508</context-key>
+<submission-path>utk_graddiss/2405</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Richard D. Komistek</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohamed R. Mahfouz, William Hamel, Aly Fathy, Adrija Sharma</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

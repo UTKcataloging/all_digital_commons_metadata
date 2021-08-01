@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>UWB Precise Indoor Localization System Performance, Limitations and its Integration</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eelkhoul@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Elkhouly</lname>
+<fname>Essam Abdelkadir</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Localization</keyword>
+<keyword>tracking</keyword>
+<keyword>indoor</keyword>
+<keyword>sub-millimeter</keyword>
+<keyword>sub-sampling</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Electromagnetics and Photonics</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;An indoor localization system that was built at University of Tennessee is extensively studied and improved. The goal of the system is to achieve mm down to sub-mm accuracy/precision.&lt;/p&gt;
+&lt;p&gt;Sub-sampling is used to alleviate the high sampling rate required for UWB signals. Current commercial direct sampling systems are still too slow or prohibitively expensive for UWB applications. We developed two different sub-sampling techniques, but the two systems suffer numerous shortcomings: low throughput, non-robustness, non-linearity. A third system is introduced that achieve both high accuracy and high through-put. Changes in the detection algorithm and the frame synchronization are developed to accommodate the new scheme.&lt;/p&gt;
+&lt;p&gt;We present our efforts to replace hybrid components by recently developed MMIC chips, and an integrated digital module developed by ULM University and UT respectively. Similar localization performance was achieved but rather with significantly reduced power consumption, much smaller footprints, and higher throughput.&lt;/p&gt;
+&lt;p&gt;Step Recovery Diode (SRD) based UWB pulse generators suffer from jitter caused by AM-to-PM conversion, SRD shot noise and clock jitter. A mathematical model for simulation of the jitter and amplitude variation effect in the equivalent time sampling technique has been developed and used in SystemVue simulations. A criterion as an estimate of system accuracy is defined as Signal to Distortion Ratio (SDR) and used. Similarly, a model for AM and PM noise analysis for an SRD based UWB pulse generator is developed that was validated experimentally.&lt;/p&gt;
+&lt;p&gt;We estimate the achievable system localization error. A mathematical model and simulation platform are developed to describe its behavior. Limits on the location accuracy as a function of the parameters of the UWB system are described. A discussion of the dominant reasons for errors that include picoseconds pulsar jitter, sampling clock jitter, sampling rate, and system additive white Gaussian noise (AWGN) is presented. We show a simple method to calculate the total system jitter, and describe error biasing phenomenon as the tag moves approaching one base-station and distancing another. Design curves are provided to determine the specifications of system components to achieve a certain positioning accuracy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3121</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4358&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3121</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4358</articleid>
+<submission-date>2014-10-08T07:22:25-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6216853</context-key>
+<submission-path>utk_graddiss/3121</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohamed Mahfouz, Seddik Djouadi, Yoon Kang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

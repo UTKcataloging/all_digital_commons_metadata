@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Performance Analysis and Modeling of Task-Based Runtimes</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bhaugen@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Haugen</lname>
+<fname>Blake</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Task-Based Scheduling</keyword>
+<keyword>Performance Modeling</keyword>
+<keyword>Simulation</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;The shift toward multicore processors has transformed the software and hardware landscape in the last decade. As a result, software developers must adopt parallelism in order to efficiently make use of multicore CPUs. Task-based scheduling has emerged as one method to reduce the complexity of parallel computing. Although task-based scheduling has been around for many years, the inclusion of task dependencies in OpenMP 4.0 suggests the paradigm will be around for the foreseeable future.&lt;/p&gt;
+&lt;p&gt;While task-based schedulers simplify the process of parallel software development, they can obfuscate the performance characteristics of the execution of an algorithm. Additionally, they can create a challenge for users to analyze the performance of their software and tune algorithmic parameters accordingly.&lt;/p&gt;
+&lt;p&gt;We will present the basic principles of task-based runtimes as well as two new tools developed to assist engineers developing these runtimes and users employing them to parallelize their workloads. The first is a tool allowing users to simulate the execution of their algorithm. The second is an extension to the common execution trace which includes information about task dependencies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3701</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5174&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3701</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5174</articleid>
+<submission-date>2016-02-25T13:26:06-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8217491</context-key>
+<submission-path>utk_graddiss/3701</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chad A. Steed, Vasilios Alexiades, Gregory D. Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

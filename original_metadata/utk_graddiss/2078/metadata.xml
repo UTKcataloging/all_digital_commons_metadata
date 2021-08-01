@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MOSFET Modeling, Simulation and Parameter Extraction in 4H- and 6H- Silicon Carbide</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hasanuzzaman</lname>
+<fname>Md</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the work on analytical modeling and simulation of a silicon carbide (SiC) power MOSFET, model verification with test data, and device characterization and parameter extraction of the SPICE model. The development of temperature models for a lateral as well as a vertical MOSFET in SiC are also presented.&lt;/p&gt;
+&lt;p&gt;The model takes into account the various short channel effects in the DIMOS channel region as well as the velocity saturation effect in the drift region. Considering the SiC material processing limitations and feedback from the system level application group, an application specific SiC power MOSFET structure has been proposed. The device dimensions were chosen to obtain the desired specific on-resistance and breakdown voltage of the power MOSFET. A good agreement between the analytical model and the MEDICI simulation is demonstrated.&lt;/p&gt;
+&lt;p&gt;The temperature models include the effects of temperature on the threshold voltage, carrier mobility, the body leakage current, and the drain and source contact region resistances for a lateral MOSFET and the effects of temperature on the threshold voltage, carrier mobility, the body leakage current, drift region resistance and channel resistance for a vertical MOSFET. The temperature dependent compensating current elements are introduced in the model. These compensating currents contribute to the total current at high temperatures.&lt;/p&gt;
+&lt;p&gt;A rigorous testing and characterization has been carried out on a 4H-SiC DIMOS transistor test device. SPICE parameters have been extracted from the measurements and a SPICE model for the DIMOS transistor has been developed. The models developed in this research will not only help the SiC device researchers in the device behavioral study but will also provide a SPICE model for circuit designers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2078</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3516&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2078</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3516</articleid>
+<submission-date>2013-09-27T11:53:56-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4640646</context-key>
+<submission-path>utk_graddiss/2078</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Leon M. Tolbert, Philip D. Rack</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

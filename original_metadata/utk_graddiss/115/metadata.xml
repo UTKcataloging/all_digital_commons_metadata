@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improving Scalability and Usability of Parallel Runtime Environments for High Availability and High Performance Systems</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Angskun</lname>
+<fname>Thara</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The number of processors embedded in high performance computing platforms is growing daily to solve larger and more complex problems. Hence, parallel runtime environments have to support and adapt to the underlying platforms that require scalability and fault management in more and more dynamic environments. This dissertation aims to analyze, understand and improve the state of the art mechanisms for managing highly dynamic, large scale applications.&lt;/p&gt;
+&lt;p&gt;This dissertation demonstrates that the use of new scalable and fault-tolerant topologies, combined with rerouting techniques, builds parallel runtime environments, which are able to efficiently and reliably deliver sets of information to a large number of processes. Several important graph properties are provided to illustrate the theoretical capability of these topologies in terms of both scalability and fault-tolerance, such as reasonable degree, regular graph, low diameter, symmetric graph, low cost factor, low message traffic density, optimal connectivity, low fault-diameter and strongly resilient.&lt;/p&gt;
+&lt;p&gt;The dissertation builds a communication framework based on these topologies to support parallel runtime environments. Such a framework can handle multiple types of messages, e.g., unicast, multicast, broadcast and all-gather. Additionally, the communication framework has been formally verified to work in both normal and failure circumstances without creating any of the common problems such as broadcast storm, deadlock and non-progress cycle.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/115</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1161&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>115</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1161</articleid>
+<submission-date>2010-01-26T11:55:50-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1122329</context-key>
+<submission-path>utk_graddiss/115</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>George Bosilca, Hairong Qi, Bradley Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/AngskunThara.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

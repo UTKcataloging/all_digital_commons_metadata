@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analog CMOS Particle Filter</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>twatso25@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Watson</lname>
+<fname>Trevor</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Analog</keyword>
+<keyword>CMOS</keyword>
+<keyword>Machine Learning</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Particle filters are used in a variety of image processing and machine learning applications. Their main use in these applications is to gather information about a system of objects, by using partial or noisy observations collected from sensors. These observations are used to associate points of interest in the observations with objects and maintain this association through a series of observations.&lt;/p&gt;
+&lt;p&gt;In this paper I will investigate the performance of a particle filter implemented in 130nm analog CMOS hardware. The design goal of the particle filter is low-microwatt power consumption. Using analog hardware, rather than digital ASICs or CPUs I hope to achieve this low power consumption.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4962</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5558&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4962</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5558</articleid>
+<submission-date>2016-10-07T13:51:24-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5558/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>9245398</context-key>
+<submission-path>utk_gradthes/4962</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy H. Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

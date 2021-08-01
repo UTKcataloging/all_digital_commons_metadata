@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Analysis of Non-Delay-Line Constant-Fraction Discriminator Timing Circuits, Including a Fully-Monolithic CMOS Implementation</title>
+<publication-date>1992-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Binkley</lname>
+<fname>David</fname>
+<mname>Martin</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A constant-fraction discriminator (CFD) is a time pick-off circuit providing time derivation that is insensitive to input-signal amplitude and, in some cases, input-signal rise time. CFD time pick-off circuits are useful in Positron Emission Tomography (PET) systems where Bismuth Germanate (BGO)/photomultiplier scintillation detectors detect coincident, 511-keV annihilation gamma rays.&lt;/p&gt;
+&lt;p&gt;Time walk and noise-induced timing jitter in time pick-off circuits are discussed along with optimal and sub-optimal timing filters designed to minimize timing jitter. Additionally, the effects of scintillation-detector statistics on timing performance are discussed, and Monte Carlo analysis is developed to provide estimated timing and energy spectra for selected detector and time pick-off circuit configurations. The traditional delay-line CFD is then described with a discussion of deterministic (non statistical) performance and statistical Monte Carlo timing performance. A new class of non-delay-line CFD circuits utilizing lowpass- and/or allpass-filter delay-line approximations is then presented. The timing performance of these non-delay-line CFD circuits is shown to be comparable to traditional delay-line CFD circuits.&lt;/p&gt;
+&lt;p&gt;Following the development and analysis of non-delay-line CFD circuits, a fully-monolithic, non-delay-line CFD circuit is presented which was fabricated in a standard digital, 2-μ, double-meta], double-poly, n-well CMOS process. The CMOS circuits developed include a low time walk comparator having a time walk of approximately 175 ps for input signals with amplitudes between 10-mV to 2000-mV and a rise time (10 - 90%) of 10 ns. Additionally, a fifth-order, continuous-time filter having a bandwidth of over 100 MHz was developed to provide CFD signal shaping without a delay line. The measured timing resolution (3.26 ns FWITh1, 6.50 ns FWTM) of the fully-monolithic, CMOS CFD is comparable to measured resolution (3.30 ns FWHM, 6.40 ns FWTM) of a commercial, discrete, bipolar CFD containing an external delay line. Each CFD was tested with a PET EGO/photomultiplier scintillation detector and a preamplifier having a 10-ns (10 - 90%) rise-time. The development of a fully-monolithic, CMOS CFD circuit, believed to be the first such reported development, is significant for PET and other systems that employ many front-end CFD time pick-off circuits.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4004</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5550&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4004</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5550</articleid>
+<submission-date>2016-09-30T11:15:40-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9216009</context-key>
+<submission-path>utk_graddiss/4004</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James M. Rochelle</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Bugg, Paul Crilly, Vaugh Blalock, Donald Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1992-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1992-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

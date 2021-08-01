@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multipartite Graph Algorithms for the Analysis of Heterogeneous Data</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cphill25@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Phillips</lname>
+<fname>Charles</fname>
+<mname>Alexander</mname>
+</author>
+</authors>
+<keywords>
+<keyword>graph algorithms</keyword>
+<keyword>combinatorics</keyword>
+<keyword>clustering</keyword>
+<keyword>multipartite</keyword>
+<keyword>biclique</keyword>
+</keywords>
+<disciplines><discipline>Computational Biology</discipline>
+</disciplines><abstract>&lt;p&gt;The explosive growth in the rate of data generation in recent years threatens to outpace the growth in computer power, motivating the need for new, scalable algorithms and big data analytic techniques. No field may be more emblematic of this data deluge than the life sciences, where technologies such as high-throughput mRNA arrays and next generation genome sequencing are routinely used to generate datasets of extreme scale. Data from experiments in genomics, transcriptomics, metabolomics and proteomics are continuously being added to existing repositories. A goal of exploratory analysis of such omics data is to illuminate the functions and relationships of biomolecules within an organism. This dissertation describes the design, implementation and application of graph algorithms, with the goal of seeking dense structure in data derived from omics experiments in order to detect latent associations between often heterogeneous entities, such as genes, diseases and phenotypes. Exact combinatorial solutions are developed and implemented, rather than relying on approximations or heuristics, even when problems are exceedingly large and/or difficult. Datasets on which the algorithms are applied include time series transcriptomic data from an experiment on the developing mouse cerebellum, gene expression data measuring acute ethanol response in the prefrontal cortex, and the analysis of a predicted protein-protein interaction network. A bipartite graph model is used to integrate heterogeneous data types, such as genes with phenotypes and microbes with mouse strains. The techniques are then extended to a multipartite algorithm to enumerate dense substructure in multipartite graphs, constructed using data from three or more heterogeneous sources, with applications to functional genomics. Several new theoretical results are given regarding multipartite graphs and the multipartite enumeration algorithm. In all cases, practical implementations are demonstrated to expand the frontier of computational feasibility.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3600</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5000&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3600</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5000</articleid>
+<submission-date>2015-10-07T09:12:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7689055</context-key>
+<submission-path>utk_graddiss/3600</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce J. MacLennon, Brynn H. Voy, David J. Icove</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-Channel Real-Time Communication in Wireless Sensor Network</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jha</lname>
+<fname>Nitish</fname>
+<mname>Kumar</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Many radio chips used in today&#39;s sensor mote hardware can work at different frequencies. Recently, several multi-channel communication protocols have been proposed to improve network throughput and reduce packet loss for wireless sensor networks. However, existing work does not provide explicit guarantees for application-specified end-to-end communication delays, which are critical to many real-time applications such as surveillance and disaster response. On the other hand, those radio chips also have adaptable transmission power which allows a trade-off between communication delays and energy efficiency.&lt;/p&gt;
+&lt;p&gt;This work proposes two multi-channel real-time communication protocols. One of the protocols features a node-based channel assignment policy while the other allocates channels to network partitions organized based on data flows. Both protocols are designed based on the multi-channel realities of existing mote hardware. The two proposed protocols are compared with other real-time protocols for wireless sensor networks to evaluate their performance using simulations based on a realistic radio model. The simulations are supplemented with results from hardware experiment done using Sentilla Tmote Invent motes [35]. The results demonstrate that the two protocols can effectively utilize multiple channels to reduce the number of deadlines missed in end-to-end communications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/420</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1453&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>420</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1453</articleid>
+<submission-date>2010-02-16T12:31:58-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1148388</context-key>
+<submission-path>utk_gradthes/420</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaorui Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Husheng Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/JhaNitishKumar.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>State of Charge Estimation for Batteries</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Vairamohan</lname>
+<fname>Baskar</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, a methodology to accurately estimate the state of charge (&lt;em&gt;SOC&lt;/em&gt; ) of the batteries used in &lt;em&gt;Hybrid Electric Vehicles&lt;/em&gt; &lt;em&gt;(HEV)&lt;/em&gt; is proposed. A linear relationship exists between open circuit voltage (&lt;em&gt;V&lt;sub&gt;OC&lt;/sub&gt;&lt;/em&gt; ) and &lt;em&gt;SOC&lt;/em&gt; . In the proposed scheme, a system theory approach is employed to identify the open circuit voltage of the battery, from which the state of charge of the battery is determined. This method is very unique because it estimates the &lt;em&gt;V&lt;sub&gt;OC&lt;/sub&gt;&lt;/em&gt; of the battery in the vehicle even under load conditions. A state variable approach yields a set of non-linear time varying equations that describe the dynamics of the battery. This non-linear time varying system is reduced to a linear time varying system by making certain reasonable assumptions. The observability Gramian is calculated for the new linearized system from which &lt;em&gt;V&lt;sub&gt;OC&lt;/sub&gt;&lt;/em&gt; is identified. The terminal voltage and the discharging current measurements are obtained from the battery with the help of ABC-150, a programmable power processing system. The &lt;em&gt;SOC&lt;/em&gt; estimation of the battery under discharging conditions alone is considered in this thesis. The &lt;em&gt;V&lt;sub&gt;OC&lt;/sub&gt;&lt;/em&gt; is then used to estimate the state of charge of the battery by exploiting the linear relationship between them. The results of applying the proposed technique are found to be comparable to the actual experimental results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2134</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3492&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2134</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3492</articleid>
+<submission-date>2013-10-07T11:38:24-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4676760</context-key>
+<submission-path>utk_gradthes/2134</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Chiasson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, William R. Hamel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

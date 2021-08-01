@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>T-RFPred: a nucleotide sequence size prediction tool for microbial community description based on terminal-restriction fragment length polymorphism chromatograms</title>
+<publication-date>2010-10-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Department of Coninental Ecology-Biogeodynamics &amp; Biodiversity Interactions</institution>
+<lname>Fernandez-Guerra</lname>
+<fname>Antonio</fname>
+</author>
+<author>
+<email>abuchan@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Buchan</lname>
+<fname>Alison</fname>
+</author>
+<author>
+<institution>Kent State University - Kent Campus</institution>
+<lname>Mou</lname>
+<fname>Xiaozhen</fname>
+</author>
+<author>
+<institution>Department of Coninental Ecology-Biogeodynamics &amp; Biodiversity Interactions</institution>
+<lname>Casamayor</lname>
+<fname>Emilio</fname>
+<mname>O.</mname>
+</author>
+<author>
+<institution>University of La Laguna</institution>
+<lname>Gonzalez</lname>
+<fname>Jose</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Microbiology</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Terminal-Restriction Fragment Length Polymorphism (T-RFLP) is a technique used to analyze complex microbial communities. It allows for the quantification of unique or numerically dominant phylotypes in amplicon pools and it has been used primarily for comparisons between different communities. T-RFPred, Terminal-Restriction Fragment Prediction, was developed to identify and assign taxonomic information to chromatogram peaks of a T-RFLP fingerprint for a more comprehensive description of microbial communities. The program estimates the expected fragment size of representative 16S rRNA gene sequences (either from a complementary clone library or from public databases) for a given primer and restriction enzyme(s) and provides candidate taxonomic assignments.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;To show the accuracy of the program, T-RFLP profiles of a marine bacterial community were described using artificial bacterioplankton clone libraries of sequences obtained from public databases. For all valid chromatogram peaks, a phylogenetic group could be assigned.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;T-RFPred offers enhanced functionality of T-RFLP profile analysis over current available programs. In particular, it circumvents the need for full-length 16S rRNA gene sequences during taxonomic assignments of T-RF peaks. Thus, large 16S rRNA gene datasets from environmental studies, including metagenomes, or public databases can be used as the reference set. Furthermore, T-RFPred is useful in experimental design for the selection of primers as well as the type and number of restriction enzymes that will yield informative chromatograms from natural microbial communities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_micrpubs/54</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1054&amp;amp;context=utk_micrpubs&amp;amp;unstamped=1</fulltext-url>
+<label>54</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1054</articleid>
+<submission-date>2013-07-12T12:43:35-07:00</submission-date>
+<publication-title>Microbiology Publications and Other Works</publication-title>
+<context-key>4310510</context-key>
+<submission-path>utk_micrpubs/54</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Microbiology 2010, 10:262 doi:10.1186/1471-2180-10-262</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-10-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>DESIGN AND IMPLEMENTATION OF ENERGY HARVESTING CIRCUITS FOR MEDICAL DEVICES</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>toh@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Oh</lname>
+<fname>Taeho</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Technological enhancements in a low-power CMOS process have promoted enhancement of advanced circuit design techniques for sensor related electronic circuits such as wearable and implantable sensor systems as well as wireless sensor nodes (&lt;i&gt;WSNs&lt;/i&gt;). In these systems, the powering up the electronic circuits has remained as a major problem because battery technologies are not closely following the technological improvements in semiconductor devices and processes thus limiting the number of sensor electronics modules that can be incorporated in the design of the system. In addition, the traditional batteries can leak which can cause serious health hazards to the patients especially when using implantable sensors. As an alternative solution to prolonging the life of battery or to mitigate serious health problems that can be caused by battery, energy harvesting technique has appeared to be one of the possible solutions to supply power to the sensor electronics. As a result, this technique has been widely studied and researched in recent years. In a conventional sensor system, the accessible space for batteries is limited, which restricts the battery capacity. Therefore, energy harvesting has become an attractive solution for powering the sensor electronics. Power can be scavenged from ambient energy sources such as electromagnetic signal, wind, solar, mechanical vibration, radio frequency (RF), and thermal energy etc. Among these common ambient sources, RF and piezoelectric vibration-based energy scavenging systems have received a great deal of attention because of their ability to be integrated with sensor electronics modules and their moderate available power density. In this research, both RF and piezoelectric vibration-based energy harvesting systems have been studied and implemented in 130 nm standard CMOS process.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5016</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6557&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5016</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6557</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415396</context-key>
+<submission-path>utk_graddiss/5016</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly E. Fathy, Mohamed R. Mahfouz, Nicole McFarlane</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

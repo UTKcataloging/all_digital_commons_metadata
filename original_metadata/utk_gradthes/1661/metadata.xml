@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>De-velopment of Demosaicking Techniques for Multi-Spectral Imaging Using Mosaic Focal Plane Arrays</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baone</lname>
+<fname>Gaurav</fname>
+<mname>Ashok</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The use of mosaicked array technology in commercial digital cameras has madethem smaller, cheaper and mechanically more robust. In a mosaicked sensor, each pixel detector is covered with a wavelength-specific optical filter.  Since only one spectral band is sensed per pixel location, there is an absence of information from the rest of the spectral bands. These unmeasured spectral bands are estimated by using information obtained from the neighborhood pixels. This process  of estimating the unmeasured spectral band information is called demosaicking. The demosaicking  process uses interpolation strategies to estimate the missing pixels. Sophisticated interpolation methods have been developed for performing this task in digital color cameras.&lt;br /&gt;In this thesis we propose to evaluate the adaptation of the mosaicked technol- ogy for multi-spectral cameras. Existing multi-spectral cameras  use traditional methods like  imaging spectrometers to capture a multi-spectral image. These methods are very expensive and delicate in nature.  The objective of using the mosaicked technology  for multi-spectral cameras is to reap the same benefits  it offers in the commercial digital color cameras. However, the problem in using the mosaicked technology for multi-spectral images is the huge amount of missing pixels that need to be estimated  in order to form the multi-spectral image. The estimation process becomes even more complicated  as the number of bands in the multi-spectral image increases. Traditional demosaicking algorithms cannot be used because they have been specifically designed to suit three-band color images.&lt;br /&gt;This thesis focuses  on developing new demosaicking  algorithms for multi- spectral images. The existing demosaicking algorithms for color images have been extended for multi-spectral images. A new variation of the bilinear interpolationbased strategy has been developed to perform demosaicking.  This demosaicking method  uses variable  neighborhood  definitions to interpolate the missing spectral band values at each pixel locations in a multi-spectral image. A novel Maximum a-Posteriori (MAP)  based demosaicking  method has also been developed. This method treats demosaicking  as an image restoration problem. It can derive op- timal estimation result that resembles the original image the best. In addition, it can simultaneously perform interpolation of missing spectral bands at pixel locations and also remove noise and degradations in the image.&lt;br /&gt;Extensive experimentation and comparisons have shown that the new demo- saicking methods for multi-spectral images developed in this thesis perform better than the traditional interpolation trategies. The outputs from the demosaicking methods have been shown to be better reconstructed estimates of the original im- ages and also have the ability to produce good classification results in applicationslike target recognition and discrimination.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1661</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3050&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1661</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3050</articleid>
+<submission-date>2013-08-09T13:39:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4415355</context-key>
+<submission-path>utk_gradthes/1661</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Seong G. Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

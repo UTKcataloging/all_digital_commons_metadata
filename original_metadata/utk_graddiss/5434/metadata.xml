@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>User Behavior-Based Implicit Authentication</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yyang57@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yang</lname>
+<fname>Yingyuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>implicit authentication</keyword>
+<keyword>mobile computing</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this work, we proposed dynamic retraining (RU), wind vane module (WVM), BubbleMap (BMap), and reinforcement authentication (RA) to improve the efficacy of implicit authentication (IA). Motivated by the great potential of implicit and seamless user authentication, we have built an implicit authentication system with adaptive sampling that automatically selects dynamic sets of activities for user behavior extraction. Various activities, such as user location, application usage, user motion, and battery usage have been popular choices to generate behaviors, the soft biometrics, for implicit authentication. Unlike password-based or hard biometric-based authentication, implicit authentication does not require explicit user action or expensive hardware. However, user behaviors can change unpredictably, which renders it more challenging to develop systems that depend on them. In addition to dynamic behavior extraction, the proposed implicit authentication system differs from the existing systems in terms of energy efficiency for battery-powered mobile devices. Since implicit authentication systems rely on machine learning, the expensive training process needs to be outsourced to the remote server. However, mobile devices may not always have reliable network connections to send real-time data to the server for training. In addition, IA systems are still at their infancy and exhibit many limitations, one of which is how to determine the best retraining frequency when updating the user behavior model. Another limitation is how to gracefully degrade user privilege when authentication fails to identify legitimate users (i.e., false negatives) for a practical IA system.To address the retraining problem, we proposed an algorithm that utilizes Jensen-Shannon (JS)-dis(tance) to determine the optimal retraining frequency, which is discussed in Chapter 2. We overcame the limitation of traditional IA by proposing a W-layer, an overlay that provides a practical and energy-efficient solution for implicit authentication on mobile devices. The W-layer is discussed in Chapter 3 and 4. In Chapter 5, a novel privilege-control mechanism, BubbleMap (BMap), is introduced to provide fine-grained privileges to users based on their behavioral scores. In the same chapter, we describe reinforcement authentication (RA) to achieve a more reliable authentication.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5434</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6970&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5434</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6970</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545468</context-key>
+<submission-path>utk_graddiss/5434</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jinyuan Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Max Schuchard, Lee D. Han</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

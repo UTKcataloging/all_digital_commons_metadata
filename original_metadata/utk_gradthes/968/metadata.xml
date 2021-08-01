@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mixture model cluster analysis under different covariance structures using information complexity</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>berar@utk.edu</email>
+<lname>Erar</lname>
+<fname>Bahar</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Gaussian mixture</keyword>
+<keyword>model-based clustering</keyword>
+<keyword>information complexity</keyword>
+<keyword>Gibbs sampler</keyword>
+<keyword>eigenvalue decomposition</keyword>
+</keywords>
+<disciplines><discipline>Multivariate Analysis</discipline>
+<discipline>Statistical Models</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, a mixture-model cluster analysis technique under different covariance structures of the component densities is developed and presented, to capture the compactness, orientation, shape, and the volume of component clusters in one expert system to handle Gaussian high dimensional heterogeneous data sets to achieve flexibility in currently practiced cluster analysis techniques. Two approaches to parameter estimation are considered and compared; one using the Expectation-Maximization (EM) algorithm and another following a Bayesian framework using the Gibbs sampler. We develop and score several forms of the ICOMP criterion of Bozdogan (1994, 2004) as our fitness function; to choose the number of component clusters, to choose the correct component covariance matrix structure among nine candidate covariance structures, and to select the optimal parameters and the best fitting mixture-model. We demonstrate our approach on simulated datasets and a real large data set, focusing on early detection of breast cancer. We show that our approach improves the probability of classification error over the existing methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/968</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2096&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>968</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2096</articleid>
+<submission-date>2011-06-26T21:52:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2076813</context-key>
+<submission-path>utk_gradthes/968</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Russell Zaretzki, Mary Leitnaker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

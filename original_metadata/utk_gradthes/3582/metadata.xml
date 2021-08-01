@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Truckload Carrier Selection, Routing and Cost Optimization</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zhan8@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Han</lname>
+<fname>Zhixin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Carrier selection Stratergy</keyword>
+<keyword>mixed integer linear programming</keyword>
+<keyword>VRP</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Operational Research</discipline>
+</disciplines><abstract>&lt;p&gt;The aim of this thesis was to investigate the routing decision combined with common carrier selection for dedicated contract carriers to reduce full truckload routing cost on pickup and delivery service within time windows in a multiple depots scenario. Mixed Integer Programming and some heuristic algorithms such as the genetic algorithm and annealing algorithm have been successfully used to solve vehicle routing problems for a long time, but researchers seldom simultaneously focus on issues of carrier selection, multiple depots, time window, and the government regulations for a dedicated contract carrier. Therefore, this thesis involved constraints of pickup and delivery with time window, applied exact method to solve this problem and discussed further utilization of equipment, cost variance, and facility location under the influence of the new routing strategy. This thesis used two baseline methods to summarize current popular solutions for this problem. A comprehensive optimization model was proposed to output a better solution comparing to baseline methods, and a greedy algorithm based on this model can reduce solving time significantly. Cost analysis and utilization of equipment were emphasized due to the characteristic of dedicated contract carriers. A case study of Ryder System Inc. was utilized to compare outputs of different methods, as well as a sensitivity analysis on the time window, truck number, and depot locations was conducted. Results indicated that the comprehensive optimization method revealed the lowest cost but the longest running time. The Greedy algorithm was more efficient in solving such a problem but did not reach optimality. Results also recommended that the equipment number should be reviewed once a new routing strategy is accepted and that total cost and variable routing cost fluctuated with the change of a limited number of trucks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3582</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4243&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3582</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4243</articleid>
+<submission-date>2014-10-10T13:06:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6227812</context-key>
+<submission-path>utk_gradthes/3582</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mingzhou Jin, John Bell</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

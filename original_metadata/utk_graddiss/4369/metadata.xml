@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Investigations of Collision Induced Absorption</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lillestolen</lname>
+<fname>Timothy</fname>
+<mname>Carl</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The focus of this dissertation is the computational determination of collision induced absorption spectra. We have focused on two different types of collision induced absorption: that of translational absorption and that broadening of atomic spectral lines. We have focused on generating high quality ab initio potential energy and dipole moment surfaces, and using these surfaces to calculate fully quantum mechanical absorption spectra for the systems of interest, He-Xe and Na-He.&lt;/p&gt;
+&lt;p&gt;In the case of He-Xe we have calculated the potential energy and dipole moment surface using the coupled cluster single and doubles method, with a perturbative triples correction, using large correlation consistent basis sets, midbond functions, and an effective core potential on Xenon. We find our potential to be in excellent agreement with several empirical He-Xe potentials in the literature. Using these calculated surfaces, we generate fully quantum mechanical translational absorption spectra for the dimer at 298 K and 1000 K. Our results at 298 K are in good agreement with experimental results. We have also performed an analysis of the functional derivative of the absorption coefficient with respect to the dipole moment at both these temperatures, and used these derivatives to analyze to analyze differences between the spectra calculated using our ab initio potentials, and the spectra computed by other researchers. Finally, we have presented results for the transition dipole moment integrals of the pure rotational transitions of He-Xe dimers, in order to compare with future theoretical and experimental results.&lt;/p&gt;
+&lt;p&gt;We have also have calculated the potential energy curves for the ground and low-lying excited states of the Na-He dimer using a multi-configurational ab initio approach and large correlation consistent basis sets. We have calculated the ground state dipole moments between the ground and excited states. We have used these surfaces to calculate a fully quantum mechanical translational absorption spectrum for the ground state of Na-He at 300 K and 1000 K, which is in reasonable agreement with previous theoretical results. We have also used these surfaces to calculate the broadening of the Na-D line due to atomic helium at 1000 K. We present results for the wings of the broadened line, which we find in reasonable agreement with other theoretical results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4369</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6136&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4369</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6136</articleid>
+<submission-date>2017-06-13T10:53:00-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10291395</context-key>
+<submission-path>utk_graddiss/4369</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeffrey Kovac, John Turner, J. Larese, James Mancillas</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Universal Geometric Camera Calibration with Statistical Model Selection</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Broaddus</lname>
+<fname>Chistopher</fname>
+<mname>Paul</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Physical Sciences and Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;We propose a new universal camera calibration approach that uses statistical information criteria for automatic camera model selection. It requires the camera to observe a planar pattern from different positions, and then closed-form estimates for the intrinsic and extrinsic parameters are computed followed by nonlinear optimization. In lieu of modeling radial distortion, the lens projection of the camera is modeled, and in addition we include decentering distortion.  This approach is particularly advantageous for wide angle (fisheye) camera calibration because it often reduces the complexity of the model compared to modeling radial distortion. We then apply statistical information criteria to automatically select the complexity of the camera model for any lens type. The complete algorithm is evaluated on synthetic and real data for several different lens projections, and a comparison between existing methods which use radial distortion is done.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1800</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3153&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1800</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3153</articleid>
+<submission-date>2013-09-05T11:37:46-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4554706</context-key>
+<submission-path>utk_gradthes/1800</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Besma Abidi, Seong Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

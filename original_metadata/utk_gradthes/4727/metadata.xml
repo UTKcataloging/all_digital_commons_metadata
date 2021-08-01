@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Practical Realization of a Return Map Immune Lorenz Based Chaotic Stream Cipher in Circuitry</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dbrown63@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Brown</lname>
+<fname>Daniel</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>chaos</keyword>
+<keyword>chaotic encryption</keyword>
+<keyword>communication</keyword>
+<keyword>non linear system</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Some chaotic systems are advantageously capable of self-synchronizing with a like system through a single shared state. Using a plain text binary message, a single system parameter can be modulated to mask this message and transmit it securely through the single shared state. The most simple implementations of this encryption technique are, however, vulnerable to the return map attack. Using a time-scaling factor to further obfuscate the modulation process, a return map attack immunity is gained. We report on the progress towards a realization of this process in real-time analog circuitry using o-the-shelf components.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4727</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5789&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4727</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5789</articleid>
+<submission-date>2017-02-23T12:39:05-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9739763</context-key>
+<submission-path>utk_gradthes/4727</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donatello Materassi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik Djouadi, Nicole McFarlane, Max Schuchard</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

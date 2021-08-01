@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Space-Time Codes Concatenated with Turbo Codes over Fading Channels</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Suh</lname>
+<fname>Junghoon</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The uses of space-time code (STC) and iterative processing have enabled robust communications over fading channels at previously unachievable signal-to-noise ratios. Maintaining desired transmission rate while improving the diversity from STC is challenging, and the performance of the STC suﬀers considerably due to lack of channel state information (CSI). This dissertation research addresses issues of considerable importance in the design of STC with emphasis on eﬃcient concatenation of channel coding and STC with theoretical bound derivation of the proposed schemes, iterative space-time trellis coding (STTC), and diﬀerential space-time codes.&lt;/p&gt;
+&lt;p&gt;First, we concatenate space-time block code (STBC) with turbo code for improving diversity gain as well as coding gain. Proper soft-information sharing is indispensable to the iterative decoding process. We derive the required soft outputs from STBC decoders for passing to outer turbo code. Traditionally, the performance of STBC schemes has been evaluated under perfect channel estimation. For fast time-varying channel, obtaining the CSI is tedious if not impossible. We introduce a scheme of calculating the CSI at the receiver from the received signal without the explicit channel estimation.&lt;/p&gt;
+&lt;p&gt;The encoder of STTC, which is generally decoded using Viterbi like algorithm, is based on a trellis structure. This trellis structure provides an inherent advantage for the STTC scheme that an iterative decoding is feasible with the minimal addition computational complexity. An iteratively decoded space-time trellis coding (ISTTC) is proposed in this dissertation, where the STTC schemes are used as constituent codes of turbo code. Then, the performance upper bound of the proposed ISTTC is derived.&lt;/p&gt;
+&lt;p&gt;Finally, for implementing STBC without channel estimation and maintaining trans- mission rate, we concatenate diﬀerential space-time block codes (DSTBC) with ISTTC. The serial concatenation of DSTBC or STBC with ISTTC oﬀers improving performance, even without an outer channel code. These schemes reduce the system complexity com- pared to the standalone ISTTC and increase the transmission rate under the same SNR condition. Detailed design procedures of these proposed schemes are analyzed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2214</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3700&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2214</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3700</articleid>
+<submission-date>2013-10-09T14:19:37-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4690160</context-key>
+<submission-path>utk_graddiss/2214</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mostofa K. Howlader</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mongi A. Abidi, Paul B. Crilly, Daniel B. Koch. Jan Rosinski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

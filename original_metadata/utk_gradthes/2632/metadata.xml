@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigation of the One-Probe and Two-Probe Calibration Integral Equation Methods using Experimental Data</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>apande@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pande</lname>
+<fname>Abhay</fname>
+<mname>Sanjeev</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Inverse Problems</keyword>
+<keyword>Heat Transfer</keyword>
+<keyword>Calibration</keyword>
+<keyword>Regularization</keyword>
+</keywords>
+<disciplines><discipline>Heat Transfer, Combustion</discipline>
+</disciplines><abstract>&lt;p&gt;This work aims to expand the applicability of the recently devised physics-based Calibration Integral Equation Method (CIEM) at the University of Tennessee Knoxville, for solving the Inverse Heat Conduction Problem (IHCP) as applied to a one-dimensional domain. Contrary to conventional schemes of solving the IHCP, the CIEM does not require the knowledge of the thermo-physical properties of the domain, sensor characterization and sensor probe locations. The pertinent information is implicitly accounted for via an experimental run. The experimental run ‘calibrates’ the physics of the domain and is called the ‘calibration run’. The net surface heat flux during a real ‘unknown’ run can then be reconstructed using measured in-depth real run temperature histories in conjunction with the calibration run data. The calibration integral equation(s) is identified as a Volterra integral equation of the first kind, which is well known to be ill-posed. Hence, some form of regularization is required to facilitate a stable resolution. This thesis will explore the operation of the CIEM in two parts, both using experimentally gathered data. The first part will revisit the one-probe CIEM in the light of suggesting an alternate scheme for the selection of the optimum regularization parameter and also extend its applicability to two-layer domains. The proposed scheme requires solely the calibration run temperature history for establishing an optimal band for the selection of the regularization parameter. The one-probe CIEM demands identical back boundary conditions during the calibration and ‘real’ run stages. This restriction is lifted by means of the two-probe CIEM, which will constitute the second part of this thesis. The two-probe CIEM implicitly registers the effect of the back-boundary condition via a second temperature measurement at a different probe location. This enables the reconstruction of the net surface heat flux during the ‘real’ run, independent of the ‘real’ run back-boundary condition. The considerable difficulty of simulating in the laboratory, the actual boundary conditions prevalent in a space vehicle is thus avoided. The two-probe CIEM is also applicable to multi-layer domains. Highly favorable results are presented for both one and two-probe CIEMs applied to single and two-layer domains.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2632</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2906&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2632</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2906</articleid>
+<submission-date>2013-06-23T19:36:15-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2906/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4252767</context-key>
+<submission-path>utk_gradthes/2632</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Majid Keyhani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay I. Frankel, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

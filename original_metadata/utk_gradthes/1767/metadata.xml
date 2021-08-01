@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Distributed Solution for Visual Sensor Networks to Detect Targets in Crowds</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Qian</lname>
+<fname>Cheng</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Visual sensor networks (VSNs), a novel concept about fulfilling vision tasks by a network of collaborative visual sensors, has been attracting more and more attentions these days. This thesis introduces some pioneering research on developing a distributed algorithm for VSNs to detect targets in a cluttered scene. The algorithm is aimed to achieve excellent performances on both detection accuracy and energy efficiency.&lt;/p&gt;
+&lt;p&gt;Based on a statistical model of the cluttered scene, the development starts with a centralized version where all the nodes send visual data to a central node and the central node invokes an iterative prioritization strategy (IPS) to make globally optimal detecting decisions. Although resulting in excellent detection accuracy, the centralized fashion causes poor performance on energy utilization.&lt;/p&gt;
+&lt;p&gt;The algorithm is then transformed into a distributed version where the entire scene is partitioned into a Voronoi diagram and each node is only responsible for detecting targets inside its local polygon area. There are two challenges in realizing such a transformation. The first challenge is to design an energy-efficient method to exchange visual data among relevant nodes. A “back-projecting” strategy (BBR) is therefore created to tackle this challenge. Instead of sending request to nodes that have relevant data, the method initiates the data communication from source nodes. Each packet of visual data is then relayed towards the place where is located the target corresponding to the visual data. All the relevant data about the target will finally reach there and thereafter can be fused. This strategy enables the parallelism between transmitting visual data and integrating visual data for detection. With this parallelism, knowledge from partial detection results can be used to guide the transmission and therefore improve energy efficiency. The second challenge is to design a method to fuse decisions independently made by each node through small amount of mutual communication. A modified one-shot threshold strategy (MOTS) is proposed to tackle this challenge. By receiving small amount of data from related nodes, a local measure can be constructed to validate or invalidate local decisions. Compared with the centralized algorithm, this distributed algorithm demands less energy cost for a large-scale VSN and at same time sustains satisfactory detection accuracy.&lt;/p&gt;
+&lt;p&gt;An experiment is presented in the end and the experimental results are analyzed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1767</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3118&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1767</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3118</articleid>
+<submission-date>2013-08-27T12:31:37-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4513357</context-key>
+<submission-path>utk_gradthes/1767</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne Parker, Itamar Elhanany</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

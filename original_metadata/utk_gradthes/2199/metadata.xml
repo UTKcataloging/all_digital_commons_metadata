@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Database Similarity Search in Metric Spaces: Limitations and Opportunities</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shen</lname>
+<fname>Zeqian</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Generic database similarity search is one of the most challenging problems in current database research. Generic data are not simply structured data with several keys of numeric or alphabetic types. Traditional search algorithms that only check specified fields and keys are not effective. Similarity searches find the objects that are similar to a target using a specified similarity criterion. Tree-structured indexing techniques based on metric spaces are widely used to solve this problem. Existing methods can be divided into two categories: approaches based upon Voronoi partitions and approaches based upon reference points. The later one is the focus of this research. The problem of database similarity search using reference points in metric spaces is formulated, and the key issues are addressed. This research focuses upon two broad sets of open problems: Analysis of the limitations of approaches to similarity search using metric spaces, and development of criteria that can be and to evaluate the opportunities for new design methods.&lt;/p&gt;
+&lt;p&gt;The performance limitations of similarity search based on metric spaces are analyzed and proved to be imposed by statistical characteristics of the data collection. A new concept, range threshold, is defined to evaluate the feasibility of tree-structured indexing techniques based upon reference points in metric spaces. A method to estimate the range threshold is provided, which makes it possible to check the feasibility of this approach for a data set prior to implementation.&lt;/p&gt;
+&lt;p&gt;The opportunities for different approaches are evaluated by criteria based on search efficiency and utility. Comparison of different Minkowski metrics and data extraction methods using PCA (principle component analysis) are presented. Search utilities are demonstrated by examples. Several issues related to index tree structure are addressed.&lt;/p&gt;
+&lt;p&gt;Experimental results show that a taller tree yields better performance. All these results indicate that the approaches based upon reference points in metric spaces are promising.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2199</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3586&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2199</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3586</articleid>
+<submission-date>2013-10-10T08:02:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4692033</context-key>
+<submission-path>utk_gradthes/2199</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tsewei Wang, John Chiasson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Latin Hypercube Sampling and Partial Rank Correlation Coefficient Analysis Applied to an Optimal Control Problem</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bgomero@utk.edu</email>
+<lname>Gomero</lname>
+<fname>Boloye</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Sensitivity analysis (LHS)</keyword>
+<keyword>optimal control analysis</keyword>
+<keyword>partial rank correlation coefficient (PRCC)</keyword>
+<keyword>cholera</keyword>
+<keyword>ordinary differential equations</keyword>
+</keywords>
+<disciplines><discipline>Control Theory</discipline>
+<discipline>Epidemiology</discipline>
+<discipline>Ordinary Differential Equations and Applied Dynamics</discipline>
+</disciplines><abstract>&lt;p&gt;Latin Hypercube Sampling/Partial Rank Correlation Coefficient (LHS/PRCC) sensitivity analysis is an efficient tool often employed in uncertainty analysis to explore the entire parameter space of a model. Despite the usefulness of LHS/PRCC sensitivity analysis in studying the sensitivity of a model to the parameter values used in the model, no study has been done that fully integrates Latin Hypercube sampling with optimal control analysis.&lt;/p&gt;
+&lt;p&gt;In this thesis, we couple the optimal control numerical procedure to the LHS/PRCC procedure and perform a simultaneous examination of the effects of all the LHS parameter on the objective functional value. To test the effectiveness of our procedure, we examine the sensitive parameters in a deterministic ordinary differential equations cholera model having seven human compartments and two bacterial compartments. Our procedure cuts down on simulation time and helps us perform a more comprehensive analysis of the influential parameters in the cholera model, than would be possible otherwise.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1278</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2443&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1278</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2443</articleid>
+<submission-date>2012-06-29T15:16:18-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3041973</context-key>
+<submission-path>utk_gradthes/1278</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Judy Day, Dr. Yulong Xing</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

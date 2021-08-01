@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evolution of a Monomer Concentration Field in a Micro-Fluidic Channel</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kirsch</lname>
+<fname>Michael</fname>
+<mname>Francis</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this research is to determine how long a micro-channel could be in the production of Non-Linear Optical Thin Film Wave-Guides. In determining this length, it is necessary to compute the monomer diffusion process between two solutions of monomers in a micro channel flow. Two models of this flow were created, the first with no flow in a one dimensional channel making diffusion a function of time and position and the second of flow in a two dimensional channel with an imposed velocity profile. Using these models it was determined that the micro channel could be the longest if there was an imposed velocity profile. This velocity caused the forced convection process to dominate over pure diffusion. The simple model can be easily computed and plotted. Unfortunately the complex model requires the solution of a partial differential equation that is not easily solvable using the technique of separation of variables. This technique requires the numerical solution of an eigenfunction problem through the method of Finite Elements and the determination of the coefficients in a Fourier series. The numerical solution is found using the computer programs Mathematica and MatLab. Using these techniques the concentration of monomers was determined throughout the micro channel for both models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2084</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3444&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2084</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3444</articleid>
+<submission-date>2013-10-03T10:11:59-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4663256</context-key>
+<submission-path>utk_gradthes/2084</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Basil Antar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Frank Collins, Dr. Kenneth Kimble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

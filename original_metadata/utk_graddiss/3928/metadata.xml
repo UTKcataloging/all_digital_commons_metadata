@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Real-time Voltage Stability Monitoring and Control for Load Areas: A Hybrid Approach</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fhu1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hu</lname>
+<fname>Fengkai</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Load center</keyword>
+<keyword>N+1 buses equivalent</keyword>
+<keyword>parameter estimation</keyword>
+<keyword>phasor measurement unit (PMU)</keyword>
+<keyword>power transfer limit</keyword>
+<keyword>Thevenin equivalent</keyword>
+<keyword>voltage stability margin</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation proposes a hybrid approach for real-time monitoring and controlling voltage stability of a load area fed by &lt;em&gt;N&lt;/em&gt; tie lines. This hybrid approach integrates both simulation-based and measurement-based approaches for voltage stability assessment (VSA).&lt;/p&gt;
+&lt;p&gt;First, for measurement-based VSA (MBVSA), a new method is proposed for monitoring and control of load areas, which adopts an &lt;em&gt;N&lt;/em&gt;+1 buses equivalent system so as to model and monitor individual tie lines of a load area compared to a traditional MBVSA method adopting a Thevenin equivalent. For each tie line, the new method solves the power transfer limit against voltage instability analytically as a function of all parameters of that equivalent, which is online identified from real-time synchronized measurements on boundary buses of the load area. Thus, this new MBVSA method can directly calculate the real-time power transfer limit on each tie line.&lt;/p&gt;
+&lt;p&gt;Second, in order to assess the voltage stability margins under an &lt;em&gt;n&lt;/em&gt;-1 contingency, based on the proposed MBVSA method, two sensitivity analyses have been performed, which are respectively for the parameter sensitivity of the equivalent system and the sensitivity of the tie line flow under an &lt;em&gt;n&lt;/em&gt;-1 contingency.&lt;/p&gt;
+&lt;p&gt;Third, the proposed MBVSA method implemented for both the real-time condition and potential &lt;em&gt;n&lt;/em&gt;-1 contingencies is integrated with the simulation-based VSA approach to form a hybrid approach. The MBVSA method helps reduce the computation burden by eliminating the unimportant contingencies while the simulation-based method provides accurate information for specific “&lt;em&gt;what if&lt;/em&gt;” scenarios such as stability limit and margin indices under &lt;em&gt;n&lt;/em&gt;-1 contingency conditions. In addition, simulation using the model of the system can provide recommendations for preventive control if potential voltage instability is identified.&lt;/p&gt;
+&lt;p&gt;This proposed hybrid VSA approach has been validated on the NPCC (Northeast Power Coordinating Council) Large-scale Test Bed (LTB) system developed by the CURENT (Center for Ultra-Wide-Area Resilient Electric Energy Transmission Networks), and also implemented on the CURENT Hardware Test Bed (HTB) system. The effectiveness of the MBVSA in real-time monitoring and closed-loop control against voltage instability has been validated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3928</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5319&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3928</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5319</articleid>
+<submission-date>2016-06-15T10:14:49-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8735157</context-key>
+<submission-path>utk_graddiss/3928</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Fangxing Li, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

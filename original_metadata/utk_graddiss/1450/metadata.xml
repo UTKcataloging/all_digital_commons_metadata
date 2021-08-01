@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vision-Based Robot Control in the Context of Human-Machine Interactions</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>anycz@utk.edu</email>
+<lname>Nycz</lname>
+<fname>Andrzej</fname>
+</author>
+</authors>
+<keywords>
+<keyword>motion control</keyword>
+<keyword>visual servoing</keyword>
+<keyword>human-machine interaction</keyword>
+<keyword>telerobotics</keyword>
+<keyword>fluoroscopy</keyword>
+<keyword>teleoperation</keyword>
+</keywords>
+<disciplines><discipline>Biomechanical Engineering</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Electro-Mechanical Systems</discipline>
+<discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;This research has explored motion control based on visual servoing – in the context of complex human-machine interactions and operations in realistic environments. Two classes of intelligent robotic systems were studied in this context: operator assistance with a high dexterity telerobotic manipulator performing remote tooling-centric tasks, and a bio-robot for X-ray imaging of lower extremity human skeletal joints during natural walking. The combination of human-machine interactions and practical application scenarios has led to the following fundamental contributions: 1) exploration and evaluation of a new concept of acquiring fluoroscope images of musculoskeletal features of interest during natural human motion, 2) creation of a generalized framework for tracking features of interest in visual data, and 3) creation and experimental evaluation of a vision based concept of object acquisition suitable for efficient teleoperation.&lt;/p&gt;
+&lt;p&gt;Several methods were proposed for motion control based on image sensing and processing. These methods were implemented and experimentally evaluated in both application contexts. The fluoroscopy tests included emulated joint tracking using a mechanized mannequin, and actual skeletal joint tracking trials conducted on 30 human subjects. The teleoperation assistance framework was tested using a full-scale telerobotic remote manipulator system with realistic task geometries, loads and lighting conditions.&lt;/p&gt;
+&lt;p&gt;The proposed methods and approaches produced promising results in both cases. It was demonstrated that the vision-based servo control using fluoroscopy images is an effective way to track human skeletal joints during natural movements. The telerobotic demonstration showed that visual servoing is a feasible mechanism to assist operators in acquiring and handling objects of interest in complex work scenes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1450</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2672&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1450</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2672</articleid>
+<submission-date>2012-07-31T23:21:53-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3165352</context-key>
+<submission-path>utk_graddiss/1450</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard D. Komistek, Mohamed Mahfouz, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-08-31T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

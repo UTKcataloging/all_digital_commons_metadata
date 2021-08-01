@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Population Modeling for Resource Allocation and Antimicrobial Stewardship</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbintz@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bintz</lname>
+<fname>Jason</fname>
+</author>
+</authors>
+<keywords>
+<keyword>optimal control</keyword>
+<keyword>reaction-diffusion</keyword>
+<keyword>resource allocation</keyword>
+<keyword>agent-based model</keyword>
+<keyword>Clostridium difficile</keyword>
+<keyword>antimicrobial stewardship</keyword>
+</keywords>
+<disciplines><discipline>Control Theory</discipline>
+<discipline>Epidemiology</discipline>
+<discipline>Other Applied Mathematics</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation contains two types of population models with applications in conservation biology and epidemiology. In particular, it considers models for resource allocation and antimicrobial stewardship.&lt;/p&gt;
+&lt;p&gt;In a population model with a parabolic differential equation and density dependent growth, we study the problem of allocating resources to maximize the net benefit in the conservation of a single species while the cost of the resource allocation is minimized. The net benefit is measured in terms of maximizing population abundance and the goal of maximizing abundance is divided between the goal of maximizing the overall abundance across space and time and the goal of maximizing abundance at the final time. We consider cases that model a fixed amount of resource as well as cases without this constraint. We regard the resource coefficient as a control and we consider cases where this coefficient varies in space and time as well as cases where it varies only in space. We establish the existence and uniqueness of the solution to the state system given a control and the existence of an optimal control. We establish the characterization of the optimal control and demonstrate uniqueness of the optimal control. Numerical simulations illustrate several cases with Dirichlet and Neumann boundary conditions.&lt;/p&gt;
+&lt;p&gt;We implement an agent-based model for &lt;em&gt;Clostridium difficile&lt;/em&gt; transmission in hospitals that accounts for several processes and individual factors including environmental and antibiotic heterogeneity in order to evaluate the efficacy of various control measures aimed at reducing environmental contamination and mitigating the effects of antibiotic use on transmission. In particular, we account for local contamination levels that contribute to the probability of colonization and we account for both the number and type of antibiotic treatments given to patients. Simulations illustrate the relative efficacy of several strategies for the reduction of nosocomial colonizations and nosocomial diseases.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3397</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4923&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3397</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4923</articleid>
+<submission-date>2015-06-19T05:38:12-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7237447</context-key>
+<submission-path>utk_graddiss/3397</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne M. Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy Day, Yulong Xing, Shigetoshi Eda</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

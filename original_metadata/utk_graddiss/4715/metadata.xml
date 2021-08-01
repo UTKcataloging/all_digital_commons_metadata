@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Imaging Approach to Recovery of Target Coordinates Using Orbital Sensor Data</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mvaugha3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Vaughan</lname>
+<fname>Michael</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>computational imaging</keyword>
+<keyword>point spread function</keyword>
+<keyword>super resolution</keyword>
+<keyword>tracking</keyword>
+<keyword>sensor fusion</keyword>
+<keyword>multispectral imaging</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+<discipline>Robotics</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses the components necessary for simulation of an image-based recovery of the position of a target using orbital image sensors. Each component is considered in detail, focusing on the effect that design choices and system parameters have on the accuracy of the position estimate. Changes in sensor resolution, varying amounts of blur, differences in image noise level, selection of algorithms used for each component, and lag introduced by excessive processing time all contribute to the accuracy of the result regarding recovery of target coordinates using orbital sensor data.&lt;/p&gt;
+&lt;p&gt;Using physical targets and sensors in this scenario would be cost-prohibitive in the exploratory setting posed, therefore a simulated target path is generated using Bezier curves which approximate representative paths followed by the targets of interest. Orbital trajectories for the sensors are designed on an elliptical model representative of the motion of physical orbital sensors. Images from each sensor are simulated based on the position and orientation of the sensor, the position of the target, and the imaging parameters selected for the experiment (resolution, noise level, blur level, etc.). Post-processing of the simulated imagery seeks to reduce noise and blur and increase resolution. The only information available for calculating the target position by a fully implemented system are the sensor position and orientation vectors and the images from each sensor. From these data we develop a reliable method of recovering the target position and analyze the impact on near-realtime processing. We also discuss the influence of adjustments to system components on overall capabilities and address the potential system size, weight, and power requirements from realistic implementation approaches.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4715</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5885&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4715</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5885</articleid>
+<submission-date>2017-02-28T11:12:10-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5885/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9761337</context-key>
+<submission-path>utk_graddiss/4715</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Suzanne Lenhart, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

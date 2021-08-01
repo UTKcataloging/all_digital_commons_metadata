@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transient Response of Linear Elastic Structures Determined by the Matrix Exponential Method</title>
+<publication-date>1970-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stoddart</lname>
+<fname>William</fname>
+<mname>Christopher Terrill</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This investigation was undertaken to develop a numerical solution for the transient response of linear, elastic structures based on the matrix exponential solution for first order, linear, constant coefficient differential equations. The investigation was prompted by the need for an economical technique that can be used to analyze multidegree of freedom systems exemplified by piping and structural components associated with nuclear power plants.&lt;/p&gt;
+&lt;p&gt;A mathematical model characterizing the behavior of linear, elastic structures was developed by using state variables of displacement and velocity. The structure consists of beam elements of uniformly distributed mass, weightless springs, and rigid masses. The stiffness and mass matrices for the beam elements and techniques for treating boundary conditions were investigated. A digital computer program was written to perform the transient solution. The transient response was determined for three simple structures by using the computer program, and the results obtained agree favorably with previously reported analytical and experimental data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1356</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2741&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1356</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2741</articleid>
+<submission-date>2013-04-16T10:45:35-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4035005</context-key>
+<submission-path>utk_gradthes/1356</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John E. Akin</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. Raymon Shobe, Paul Nelson, Jr.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>1970-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

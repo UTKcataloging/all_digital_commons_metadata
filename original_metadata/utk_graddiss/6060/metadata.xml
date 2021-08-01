@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploration of Mid to Late Paleozoic Tectonics along the Cincinnati Arch using GIS and Python to Automate Geologic Data Extraction from Disparate Sources</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kboling4@vols.utk.edu</email>
+<lname>Boling</lname>
+<fname>Kenneth Steven</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Geographical Information Science &amp; Systems; Data processing; Structural Geology; Oil and Gas Database Management; Python</keyword>
+</keywords>
+<disciplines><discipline>Data Science</discipline>
+<discipline>Geology</discipline>
+<discipline>Other Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Structure contour maps are one of the most common methods of visualizing geologic horizons as three-dimensional surfaces. In addition to their practical applications in the oil and gas and mining industries, these maps can be used to evaluate the relationships of different geologic units in order to unravel the tectonic history of an area. The construction of high-resolution regional structure contour maps of a particular geologic horizon requires a significant volume of data that must be compiled from all available surface and subsurface sources. Processing these data using conventional methods and even basic GIS tools can be tedious and very time consuming, particularly if there are a large volume of data and manual error correction or data entry are required.&lt;/p&gt;
+&lt;p&gt;A semi-automated process for data aggregation, cleaning, and cross-verification of surface and subsurface data in this project using Python and ArcGIS. This process was then applied to all of the publicly available surface and subsurface geologic data from central Kentucky to northern Alabama, along the southern Cincinnati arch. These data were compiled from 887 published and unpublished digital 1:24,000-scale geologic quadrangle maps acquired from the Tennessee Geological Survey, Kentucky Geological Survey, United States Geological Survey, and Alabama Geological Survey. Subsurface data from 24,833 wells were also compiled from oil and gas well logs, mineral exploration boreholes, and state oil and gas well databases. From these data a total of 7,200,000 data points were generated over an area of 69,000 square miles. The results from this process were compared to a pilot survey that was performed manually in ArcGIS™. The resulting structure contour maps were used to identify structures related to potential far-field effects of the Taconian, Neoacadian, and Alleghanian orogenies along the southern Cincinnati arch. Isopach maps were then used to indicate the location of uplift and erosion that took place over time. With this information it was possible to determine that the majority of the uplift of the Nashville dome occurred between the deposition of the Stones River Group and the pre-Chattanooga unconformity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6060</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7461&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6060</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7461</articleid>
+<submission-date>2020-11-18T17:56:17-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7461/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20235113</context-key>
+<submission-path>utk_graddiss/6060</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert D. Hatcher Jr</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter J. Lemiszki, Gary G. Bible, Micah, J. Jessup, Khalid Alshibli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Geology</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

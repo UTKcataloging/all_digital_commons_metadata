@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Exploration of the ASIC Design Space for Minimum Power-Delay-Area Product at the Register Transfer Level</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Karakaya</lname>
+<fname>Fuat</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Exploring the integrated circuit design space for minimum power-delay-area (PDA) product can be time-consuming and tedious, especially when the target standard-cell library has hundreds of options. In this dissertation, heuristic algorithms that automate this process have been developed, implemented and validated at the reg- ister transfer level. In some cases, the PDA product was 1.9 times better than the initial baseline solution. The parallel search algorithm exhibited 9x speed up when executed on 10 machines simultaneously. These two new methods also characterize the design space for the given RTL code by generating power-delay-area points in addition to the minimum PDA point in case the designer wishes to select a different solution that is a tradeoff among these metrics. As a final step, these two search algorithms are integrated into a fully automated ASIC design flow.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2274</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3800&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2274</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3800</articleid>
+<submission-date>2013-10-15T11:27:45-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4715831</context-key>
+<submission-path>utk_graddiss/2274</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Chandra Tan, Michael A. Langston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

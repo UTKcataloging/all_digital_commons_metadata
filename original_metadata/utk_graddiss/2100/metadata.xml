@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Models for Diusion of Second Messengers in Visual Transduction</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Khanal</lname>
+<fname>Harihar</fname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;The process of phototransduction, whereby light is converted into an electrical response in retinal rod and cone photoreceptors, involves, as a crucial step, the diffusion of cytoplasmic signaling molecules, termed second messengers. A barrier to mathematical and computational modeling is the complex geometry of the rod outer segment which contains about 1000 thin discs. Most current investigations on the subject assume a well stirred bulk aqueous environment thereby avoiding such geometrical complexity. We present theoretical and computational spatio-temporal models for phototransduction in vertebrate rod photoreceptors, which are pointwise in nature and thus take into account the complex geometry of the rod outer segment. We consider both the full model and two forms (strong and weak) of a homogenized limit model which involves simplified geometry. These, spatially resolved, models reduce to simpler (longitudinal and lumped) models proposed by physiologists. We establish well-possedness of the model problems using upper and lower solutions and their associated monotone iterations. Computational models of the mathematical problems have been developed, based on Finite Volume discretion of the partial differential equations and boundary conditions, and implemented in Fortran. Convergence of the finite difference system to the solution of the continuous problem for a similar problem is shown in [41]. Due to the intricate geometry of the cytosol, the full model involves very intensive computations. This is achieved via parallelization for distributed memory clusters of processors. The homogenized limit problem is also tested and the computational model based on its weak form is found to produce qualitatively similar results as from the full model. We also tested a spatially adaptive mesh for the homogenized problem and numerical experiments convinced us that we could get the same qualitative solutions with much less computational effort. Numerical experiments are presented, simulating the single photon response for salamander, with certain activation parameters chosen to produce the experimental 0:8% peak suppression of dark current, kindly communicated by Fred Rieke [45]. The model exhibits highly localized response about the activation site, with longitudinal spread of about 172 discs out of 800 discs. The radial profiles of cGMP become progressively steeper during activation and recede back during recovery. Thus radial diffusion is not negligible.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2100</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3546&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2100</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3546</articleid>
+<submission-date>2013-10-01T09:16:54-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4651971</context-key>
+<submission-path>utk_graddiss/2100</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasilios Alexiades</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ohannes Karakashian, Charles Collins, Solon Georghiou</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization of Spatial Convolution in ConvNets on Intel KNL</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sragate@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Ragate</lname>
+<fname>Sangamesh</fname>
+<mname>Nagashattappa</mname>
+</author>
+</authors>
+<keywords>
+<keyword>convnets</keyword>
+<keyword>winograd</keyword>
+<keyword>KNL</keyword>
+<keyword>minimal filtering</keyword>
+<keyword>deep learning</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Most of the experts admit that the true behavior of the neural network is hard to predict. It is quite impossible to deterministically prove the working of the neural network as the architecture gets bigger, yet, it is observed that it is possible to apply a well engineered network to solve one of the most abstract problems like image recognition with substantial accuracy. It requires enormous amount of training of a considerably big and complex neural network to understand its behavior and iteratively improve its accuracy in solving a certain problem. Deep Neural Networks, which are fairly popular nowadays deal with such complicated and computationally intensive neural networks and their training process usually takes hours,days or, in some cases months,to achieve a particular accuracy. This opens up an opportunity for code modernizers and computer architecture experts to systematically study and optimize the core computational modules of the deep neural networks or simply DNN&#39;s.&lt;/p&gt;
+&lt;p&gt;In this thesis one such module called Spatial Convolution module is selected. This module is seen in most popular DNN architectures today and is also a major computational bottleneck. It is optimized for Intel Architecture, specifically the Knights Landing Architecture which is a powerful many-core processor introduced recently by Intel. The main strategy here was to use an unconventional convolution algorithm called Winograd Convolution algorithm to decrease the number of arithmetic operations. However, the reduction of arithmetic operations in Winograd algorithm comes at the cost of complicating the memory accesses. So the objective was to use some advanced code optimization techniques to make the Winograd convolution as efficient as possible leading to fast spatial convolution in DNN.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4772</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5786&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4772</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5786</articleid>
+<submission-date>2017-02-23T11:42:51-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9738983</context-key>
+<submission-path>utk_gradthes/4772</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stanimire Tomov, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

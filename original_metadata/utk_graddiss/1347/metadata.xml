@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Framework for File Format Fuzzing with Genetic Algorithms</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rseagle@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Seagle</lname>
+<fname>Roger</fname>
+<mname>Lee</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Secure software, meaning software free from vulnerabilities, is desirable in today&#39;s marketplace.  Consumers are beginning to value a product&#39;s security posture as well as its functionality.  Software development companies are recognizing this trend, and they are factoring security into their entire software development lifecycle.  Secure development practices like threat modeling, static analysis, safe programming libraries, run-time protections, and software verification are being mandated during product development. Mandating these practices improves a product&#39;s security posture before customer delivery, and these practices increase the difficulty of discovering and exploiting vulnerabilities.&lt;/p&gt;
+&lt;p&gt;Since the 1980&#39;s, security researchers have uncovered software defects by fuzz testing an application.  In fuzz testing&#39;s infancy, randomly generated data could discover multiple defects quickly. However, as software matures and software development companies integrate secure development practices into their development life cycles, fuzzers must apply more sophisticated techniques in order to retain their ability to uncover defects.  Fuzz testing must evolve, and fuzz testing practitioners must devise new algorithms to exercise an application in unexpected ways.&lt;/p&gt;
+&lt;p&gt;This dissertation&#39;s objective is to create a proof-of-concept genetic algorithm fuzz testing framework to exercise an application&#39;s file format parsing routines.  The framework includes multiple genetic algorithm variations, provides a configuration scheme, and correlates data gathered from static and dynamic analysis to guide negative test case evolution.  Experiments conducted for this dissertation illustrate the effectiveness of a genetic algorithm fuzzer in comparison to standard fuzz testing tools.  The experiments showcase a genetic algorithm fuzzer&#39;s ability to discover multiple unique defects within a limited number of negative test cases.  These experiments also highlight an application&#39;s increased execution time when fuzzing with a genetic algorithm.  To combat increased execution time, a distributed architecture is implemented and additional experiments demonstrate a decrease in execution time comparable to standard fuzz testing tools.  A final set of experiments provide guidance on fitness function selection with a CHC genetic algorithm fuzzer with different population size configurations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1347</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2402&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1347</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2402</articleid>
+<submission-date>2011-12-02T08:25:36-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2384302</context-key>
+<submission-path>utk_graddiss/1347</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael D. Vose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Arel, Bradley Vander Zanden, Sergey Gavrilets</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Thick-target neutron yields for intermediate-energy heavy ion experiments at NSRL</title>
+<publication-date>2018-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hratliff@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ratliff</lname>
+<fname>Hunter</fname>
+<mname>Nathaniel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>galactic cosmic rays</keyword>
+<keyword>thick-target neutron yields</keyword>
+<keyword>benchmark dataset</keyword>
+<keyword>space radiation shielding</keyword>
+<keyword>deconvolution</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recently published NASA simulations emulating an enclosed spacecraft exposed to galactic cosmic rays (GCRs) have shown that an optimal shielding wall thickness beyond which astronaut dose equivalent rises is present when using aluminum walls, though not with polyethylene walls [1]. Neutrons produced in the back wall of the spacecraft were shown to be primarily responsible for the rise in dose for thicknesses beyond the optimal thickness. The NASA research also demonstrated a large variance in dose predictions between the various standard particle transport codes which appeared to be predominately attributable to discrepancies in how the codes handle neutron and complex light ion production in these GCR primary and secondary interactions in the shielding materials.To test these predictions and provide data against which the particle transport codes can be benchmarked, particle beams characteristic of GCRs were accelerated into two thick targets of aluminum and/or polyethylene (materials common to space radiation shielding), emulating the walls of a spacecraft, across three experiments conducted at the NASA Space Radiation Laboratory. In these experiments, double-differential neutron yields from the upstream target were measured at six different angles and characterized using time-of-flight techniques. Additionally, neutrons from background, room scattering, and the downstream target were characterized using a technique developed in this work involving deconvolution of collected pulse height spectra with a response function. Monte Carlo simulations emulating the experiment using MCNP and PHITS were conducted to provide a comparison to the collected data and to bring any discrepancies in the models to light.This work seeks to both provide a detailed look at where the particle transport codes poorly predict the experimental results as well as provide insight to spacecraft shielding design as it pertains to minimizing neutron dose.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5323</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6867&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5323</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6867</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14343200</context-key>
+<submission-path>utk_graddiss/5323</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence H. Heilbronn</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeffrey Moersch, Steven E. Skutnik, Lawrence W. Townsend</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;http://orcid.org/0000-0003-3761-5415&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

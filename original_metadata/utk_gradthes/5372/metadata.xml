@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Online Switching Time Monitoring of SiC Devices Using Intelligent Gate Driver for Converter Performance Improvement</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jdyer11@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Dyer</lname>
+<fname>Jacob</fname>
+<mname>Hamilton</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Most intelligent gate drivers designed for new state of the art WBG devices typically only focus on protection and driving capabilities of the devices. This paper introduces an intelligent gate driver that incorporates online switching time monitoring of silicon carbide (SiC) devices. For this specific case study, three timing conditions (turn-off delay time, turn-off time, and voltage commutation time) of a SiC phase-leg are online monitored. This online monitoring system is achieved through transient detection circuits and a micro-controller. These timing conditions are then utilized to develop converter-level benefits for a voltage-source inverter application using SiC devices. Junction temperature monitoring is realized through turn-off delay time monitoring. Dead-time optimization is achieved with turn-off time monitoring. Dead-time compensation is obtained with turn-off time and voltage commutation time monitoring. The case study converter assembled for testing purposes is a half-bridge inverter using two SiC devices in a phase-leg configuration. All timing conditions are correctly monitored within reasonable difference of the actual condition time. The half-bridge inverter can operate at 600 V DC input and successfully obtain a junction temperature measurement through monitored turn-off delay time and the calibration curve. In addition, dead-time control is realized to reduce device power loss and improve AC output power quality. Furthermore, the proposed online time monitoring system is board-level integrated with the gate driver and suitable for the chip level integration, enabling this practical approach to be cost-effective for end users.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5372</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6782&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5372</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6782</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343199</context-key>
+<submission-path>utk_gradthes/5372</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel Costinett, Leon M. Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

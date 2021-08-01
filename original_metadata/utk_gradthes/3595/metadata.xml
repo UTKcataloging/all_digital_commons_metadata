@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling and Simulation of a Prototypical Advanced Reactor</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xliu71@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Xiaotong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>System modeling</keyword>
+<keyword>Simulink</keyword>
+<keyword>Risk Monitor</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Current online risk monitors provide a point-in-time estimate of the system risk given the current plant configuration (e.g., equipment availability, operational regime, environmental conditions). However, these risk monitors do not account for plant- specific normal, abnormal, and deteriorating states of active components and systems. The lack of operating experience with proposed advanced reactor designs limits our ability to estimate the probability of failure (POF) of key components. Incorporation of unit-specific estimates of POF into dynamic probabilistic risk assessment (PRA) has the potential to enable real-time decisions about stress relief and to support effective maintenance planning while ensuring investment protection. The enhanced risk monitor (ERM) supports the safe and economic operation goals of advanced reactor by providing a dynamic assessment of system risk with real-time estimates of POF and event probability based on equipment condition assessment. A simulation framework for a prototypical advanced reactor (PAR) was developed in this work to provide a platform to demonstrate the ERM.&lt;/p&gt;
+&lt;p&gt;A Simulink model of the PAR was developed, including the primary system, intermediate heat transport loop, steam generator, and balance of plant (BOP). To ensure accuracy across a large range of operating conditions, a nonlinear model for the primary system, including reactor kinetics and heat transfer, was used. A perturbation model of the steam generator showed good performance across the range of conditions and was thus employed. The PAR power block features two independent primary systems, each with dedicated intermediate heat exchangers and steam generators. These two modules are connected to a common BOP through a steam header. To balance the power output of each unit to meet overall power demand, fuzzy control is implemented in the primary system.&lt;/p&gt;
+&lt;p&gt;Degradation of the primary and intermediate sodium pumps is numerically simulated to investigate the effect on overall plant performance. The results indicate that the core power decreases as pump degradation leads to reduced flow in either primary or intermediate loops. The developed PAR model provides simulated power block performance data under component degradation, which can be used to develop and demonstrate the ERM framework.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3595</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4919&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3595</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4919</articleid>
+<submission-date>2015-10-09T06:44:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7698664</context-key>
+<submission-path>utk_gradthes/3595</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jamie B.Coble</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Belle R. Upadhyaya</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

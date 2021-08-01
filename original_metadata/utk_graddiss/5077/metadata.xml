@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sparse Reconstruction Techniques for Solutions of High-Dimensional Parametric PDEs</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Dexter</lname>
+<fname>Nicholas</fname>
+<mname>Calvin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>parameterized PDEs</keyword>
+<keyword>high-dimensional approximation</keyword>
+<keyword>compressed sensing</keyword>
+<keyword>stochastic Galerkin method</keyword>
+<keyword>uncertainty quantification</keyword>
+<keyword>convex optimization</keyword>
+</keywords>
+<abstract>&lt;p&gt;This work studies sparse reconstruction techniques for approximating solutions of high-dimensional parametric PDEs. Such problems are relevant to mathematical modeling in engineering and the sciences, and are inherently difficult to solve due to the exponential relationship between dimension and computational cost of approximation, a phenomenon referred to as the &lt;i&gt;curse of dimensionality&lt;/i&gt;. Nonetheless, for many practical applications, their solutions possess favorable properties, e.g., regularity and compressibility, enabling efficient numerical methods of solution.For the past few decades, polynomial approximations, e.g., &lt;i&gt;stochastic Galerkin&lt;/i&gt; (SG) methods [124], have remained popular for solving parameterized PDEs due to their ability to exploit these properties, achieving fast (sub-exponential) convergence rates. However, in practice the complexity of SG methods depends on the type of parametric dependence in the underlying PDE. Previous analysis on SG complexity neglected this fact, focusing only on the affine case. To resolve this, we prove sharp bounds on the cost of solving SG systems, resulting from discretizing elliptic PDEs with arbitrary parametric dependence, to a prescribed tolerance. We also verify our theoretical results with detailed numerical experiments over a variety of parameterizations.Since the mid-2000s, increasing interest in sparse signal reconstruction through &lt;i&gt;compressed sensing&lt;/i&gt; (CS) [20, 21, 47] has led to a wide array of applications, including sparse polynomial approximation. To improve convergence of CS polynomial approximations, we introduced a novel weighting scheme based on lower sets for smooth function approximation, also relevant to parameterized PDEs. However, standard CS is only capable of approximating functionals of solutions to parameterized PDEs. Therefore, we introduced a novel energy norm-based reformulation of basis pursuit denoising, which enables sparse recovery over tensor products of Hilbert spaces. We also derive the forward-backward iterations for its solution, proving strong convergence in the infinite dimensional setting. To improve efficiency of our solver, we combine Bregman iterations and fixed-point continuation, derived for this setting, with forward-backward iterations. We denote our approach sparse &lt;i&gt;Hilbert-valued vector&lt;/i&gt; (HV) recovery, which we prove achieves sub-exponential rates of convergence. We also conduct detailed numerical experiments, demonstrating the minimal sample complexity requirements of our approach compared to several alternative methods of solution.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5077</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6618&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5077</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6618</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415509</context-key>
+<submission-path>utk_graddiss/5077</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Clayton G. Webster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack Dongarra, Ohannes Karakashian, Abner J. Salgado-Gonzalez, Steven M. Wise</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2418-4735</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in the journals Computers &amp; Mathematics With Applications and Mathematics of Computation, and are currently available on arXiv.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

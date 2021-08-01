@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Experimental and Numerical Study of Open Cavity Flows</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Radhakrishnan</lname>
+<fname>Sekhar</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This work is part of an ongoing study aimed at understanding of cavity flow oscillations. An experimental setup was designed, constructed, and tested to measure the Sound Pressure Levels (SPL) on the floor of four cavities, and to quantitatively visualize the flow-field inside the cavity. Measurements were made for a fixed cavity width by depth ratio of 3.33, for four length by depth (L/D) ratios of 2.0, 2.5, 3.5 and 4.5. Using Particle Image Velocimetry (PIV), the cavity velocity fields were obtained at subsonic speeds ranging from Mach 0.3 to Mach 0.6. Numerical simulations were performed for cavity geometry configurations and for flows corresponding to the experiments. Numerical simulations were carried out using a commercial code called CFD-ACE (U)®. Results of the simulations were used for comparison with experimental data. Numerical simulations led to further understanding of the mechanism of cavity oscillations.&lt;/p&gt;
+&lt;p&gt;Experimentally obtained dynamic pressure data show that for cavity with L/D = 2.5, the onset of oscillations occurs at a freestream Mach number of about 0.5. The measured cavity oscillation frequencies were in excellent agreement with the frequencies predicted by the modified Rossiter’s semi-empirical formula. Sound Pressure Level peaks between the freestream Mach numbers of M = 0.57 and 0.6 exhibited the phenomenon of mode switching. Mode switching occurs when the dominant frequency of the cavity is changed from one mode to another with small changes in the freestream flow conditions. Onset of oscillations for cavity L/D = 4.5 occurred at a freestream Mach number of about 0.6 and the cavity oscillation frequencies were in good agreement with the frequencies predicted by the modified Rossiter’s semi-empirical formula.&lt;/p&gt;
+&lt;p&gt;Post-processing of the PIV velocity data provided velocity, vorticity, turbulence intensity, and Reynolds stress information in the measurement region. Non-dimensional vorticity contours showed the formation of shear layer (vorticity) immediately downstream of the cavity leading edge and its growth (convection) downstream. For cavity L/D = 2.5 and L/D = 4.5, the vorticity plots showed no organized vorticity structures in the shear layer at a freestream Mach number of 0.4. This corresponded to the absence of a large peak in the SPL for either of the cavity L/D ratios at a freestream Mach number of 0.4. On the other hand, for a Mach number of 0.6 vorticity plots for both displayed relatively well - organized vorticity structures in the shear layer. This finding was consistent with the well-defined SPL peak that was observed for both L/D ratios at this Mach number. For the cavity with L/D = 2.5, vorticity contours at M = 0.57 showed a highly non-linear growth of the shear layer that was interpreted as the mechanism responsible for mode switching. Velocity vectors showed periodic entrainment and ejection of fluid at the trailing edge of the cavity and the existence of recirculation zones that tended to occupy the downstream half of the cavity. Velocity contours displayed the growth of the shear layer and the characteristic shear layer motion associated with cavity oscillations.&lt;/p&gt;
+&lt;p&gt;Dynamic pressure data obtained from numerical simulations showed that the onset of oscillations for both cavity L/D ratios 2.5 and 4.5 was at a freestream Mach number of 0.4. This Mach number represented an earlier onset of oscillations numerically as compared with experiments. Frequencies predicted, numerically, were in good agreement with the modified Rossiter’s semi-empirical formula. Mode switching phenomenon was exhibited between Mach numbers of 0.5 and 0.57 for cavity L/D = 2.5. Comparison of the phases between two pressure monitors on the floor of cavity L/D = 4.5 showed the existence of a upstream traveling disturbance (acoustic wave) that modulates the shear layer at its separation point.&lt;/p&gt;
+&lt;p&gt;The numerical simulations modeled the formation of a high concentration of vorticity immediately downstream of the cavity leading edge, the growth of the shear layer, and the oscillation of the shear layer in close agreement with experiments. The numerically simulated velocity fields predicted all the major features of the cavity flow field as seen in experiments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2177</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3644&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2177</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3644</articleid>
+<submission-date>2013-10-08T08:49:42-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4683137</context-key>
+<submission-path>utk_graddiss/2177</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ahmad D. Vakili</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Merkle, Gary Flandro, Bruce Bomar, Kenneth Kimble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

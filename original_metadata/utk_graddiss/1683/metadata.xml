@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control of Partial Di®erential Equations and Variational Inequalities</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hrynkiv</lname>
+<fname>Volodymyr</fname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation deals with optimal control of mathematical models described by partial differential equations and variational inequalities. It consists of two parts. In the first part, optimal control of a two dimensional steady state thermistor problem is considered. The thermistor problem is described by a system of two nonlinear elliptic partial differential equations coupled with some boundary conditions. The boundary conditions show how the thermistor is connected to its surroundings. Based on physical considerations, an objective functional to be minimized is introduced and the convective boundary coefficient is taken to be a control. Existence and uniqueness of the optimal control are proven. To characterize this optimal control, the optimality system consisting of the state and adjoint equations is derived.&lt;/p&gt;
+&lt;p&gt;In the second part we consider a variational inequality of the obstacle type where the underlying partial differential operator is biharmonic. This kind of variational inequality arises in plasticity theory. It concerns the small transverse displacement of a plate when its boundary is fixed and the whole plate is subject to a pressure to lie on one side of an obstacle. We consider an optimal control problem where the state of the system is given by the solution of the variational inequality and the obstacle is taken to be a control. For a given target profile we want to find an obstacle such that the corresponding solution to the variational inequality is close the target profile while the norm of the obstacle does not get too large in the appropriate space. We prove existence of an optimal control and derive the optimality system by using approximation techniques. Namely, the variational inequality and the objective functional are approximated by a semilinear partial differential equation and a corresponding approximating functional, respectively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1683</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3209&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1683</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3209</articleid>
+<submission-date>2013-08-09T11:09:35-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4414053</context-key>
+<submission-path>utk_graddiss/1683</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Sam Jordan, John Chiasson, Vladimir Protopopescu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

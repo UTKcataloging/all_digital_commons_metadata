@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Flight Test and Evaluation of a Low-Cost, Compact, and Reconfigurable Airborne Data Acquisition System Based on Commercial Off-The-Shelf Hardware</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ludwig</lname>
+<fname>Christopher</fname>
+<mname>George</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Digitization of physical parameters for the display and recording by computers is the essential aspect of any airborne data acquisition system. The objective of this thesis was to develop a data acquisition system for General Aviation research and certification flight testing based on a low-cost Commercial Off-The- Shelf (COTS) hardware, in particular, a common glass cockpit system for experimental aircraft. A kneeboard computer was used to monitor data communications between the various devices of the Grand Rapids Technology (GRT) Electronic Flight Information System (EFIS). The monitored data was then displayed for use in-flight, and recorded aboard the aircraft for post-flight data reduction. The developed system and software was tested in simulation on virtual and actual hardware, on an Extra 300 in ground testing, and in flight. An in flight air-data calibration and several common stability and control certification test points were flown to evaluate and demonstrate the usefulness of the system. Special consideration was paid to work flow prior to, during, and after the flight with the overall goal of reducing the time required for data reduction. The output of this research work includes software for decoding data files logged on one common low-cost EFIS, software for monitoring, displaying, and recording EFIS data on a kneeboard computer in-flight, and tools for managing and viewing data files after the flight. From this research work, it is concluded that commercially available EFIS systems do in fact provide a core data set which is useful in flight research and flight test certification programs. The 15 Hz sampling rate of the GRT system was more than sufficient for all the test points evaluated as a part of this research. The cost of the tested hardware was less than $10,000 at current pricing (2009). The resultant system is compact, adds little weight to a test aircraft, has few interfaces to aircraft systems, and allows for future growth and the incorporation of new sensor types and interfaces. The addition of a flight test air-data boom with angle of attack and sideslip vanes and control position and force sensors would create a very complete data acquisition package without the expense of purpose designed hardware.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/49</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1077&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>49</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1077</articleid>
+<submission-date>2010-01-19T10:05:54-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1114502</context-key>
+<submission-path>utk_gradthes/49</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stephen Corda</value>
+</field>
+<field name="advisor2" type="string">
+<value>John F. Muratore, Borja Martos</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

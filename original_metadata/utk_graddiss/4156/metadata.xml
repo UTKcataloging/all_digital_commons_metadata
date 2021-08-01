@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Algorithms and Methods for Optimizing the Spent Nuclear Fuel Allocation Strategy</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gpeters9@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Petersen</lname>
+<fname>Gordon</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Optimization</keyword>
+<keyword>Spent Nuclear Fuel</keyword>
+<keyword>Allocation Strategy</keyword>
+<keyword>Fuel Removal</keyword>
+<keyword>Used Nuclear Fuel</keyword>
+<keyword>Tractable Validation Model</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Commercial nuclear power plants produce long-lasting nuclear waste, primarily in the form of spent nuclear fuel (SNF) assemblies. Spent fuel pools (SFP) and canisters or casks that sit at an independent spent fuel storage installation (ISFSI) at the reactor site store the fuel assemblies that are removed from operating reactors. The federal government has developed a plan to move the SNF from reactor sites to a Consolidated Interim Storage Facility (CISF) or a geological repository. In order to develop a predictable pick-up schedule and give utilities notice of an impending pickup from a reactor site, the federal government developed a queuing strategy based on the first-in-first-out algorithm, known as oldest fuel first (OFF). The OFF algorithm allows the federal government to remove SNF from reactor sites in the same order the assemblies came out of the reactor. While an OFF allocation strategy may result in a fair approach, it is far from the most cost-effective approach.&lt;/p&gt;
+&lt;p&gt;The problem with accepting SNF using an OFF algorithm is that a handful of sites are no longer producing power and exist only to store the SNF they produced. This is an expensive process, which results in an annual cost of ~$8M [22]. Utilizing different algorithms to reduce the amount of time these shutdown reactors keep SNF on site may reduce the total system costs for the federal government.&lt;/p&gt;
+&lt;p&gt;A greedy algorithm, genetic mutation algorithm, simulated annealing algorithm, and an integer programming formulation were all developed to reduce the number of years that reactors were shut down with SNF on site.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4156</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5605&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4156</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5605</articleid>
+<submission-date>2016-10-07T15:14:51-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5605/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9245890</context-key>
+<submission-path>utk_graddiss/4156</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven E. Skutnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>G. Ivan Maldonado, James Ostrowski, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

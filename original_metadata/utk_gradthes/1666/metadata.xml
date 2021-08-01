@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Programming Dense Linear Algebra Kernels on Vectorized Architectures</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jpeyton1@utk.edu</email>
+<lname>Peyton</lname>
+<fname>Jonathan Lawrence</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MIC</keyword>
+<keyword>Vectorization</keyword>
+<keyword>Linear Algebra</keyword>
+<keyword>Matrix Multiply</keyword>
+<keyword>Cholesky</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Computer Engineering</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;The high performance computing (HPC) community is obsessed over the general matrix-matrix multiply (GEMM) routine. This obsession is not without reason. Most, if not all, Level 3 Basic Linear Algebra Subroutines (BLAS) can be written in terms of GEMM, and many of the higher level linear algebra solvers&#39; (i.e., LU, Cholesky) performance depend on GEMM&#39;s performance. Getting high performance on GEMM is highly architecture dependent, and so for each new architecture that comes out, GEMM has to be programmed and tested to achieve maximal performance. Also, with emergent computer architectures featuring more vector-based and multi to many-core processors, GEMM performance becomes hinged to the utilization of these technologies. In this research, three Intel processor architectures are explored, including the new Intel MIC Architecture. Each architecture has different vector lengths and number of cores. The effort given to create three Level 3 BLAS routines (GEMM, TRSM, SYRK) is examined with respect to the architectural features as well as some parallel algorithmic nuances. This thorough examination culminates in a Cholesky (POTRF) routine which offers a legitimate test application. Lastly, four shared memory, parallel languages are explored for these routines to explore single-node supercomputing performance. These languages are OpenMP, Pthreads, Cilk and TBB. Each routine is developed in each language offering up information about which language is superior. A clear picture develops showing how these and similar routines should be written in OpenMP and exactly what architectural features chiefly impact performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1666</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2722&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1666</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2722</articleid>
+<submission-date>2013-04-05T15:56:57-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4000602</context-key>
+<submission-path>utk_gradthes/1666</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Nathanael R. Paul</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

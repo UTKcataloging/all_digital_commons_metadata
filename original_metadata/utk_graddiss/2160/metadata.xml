@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Inferential Modeling and Independent Component Analysis for Redundant Sensor Validation</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ding</lname>
+<fname>Jun</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The calibration of redundant safety critical sensors in nuclear power plants is a manual task that consumes valuable time and resources. Automated, data-driven techniques, to monitor the calibration of redundant sensors have been developed over the last two decades, but have not been fully implemented. Parity space methods such as the Instrumentation and Calibration Monitoring Program (ICMP) method developed by Electric Power Research Institute and other empirical based inferential modeling techniques have been developed but have not become viable options.&lt;/p&gt;
+&lt;p&gt;Existing solutions to the redundant sensor validation problem have several major flaws that restrict their applications. Parity space method, such as ICMP, are not robust for low redundancy conditions and their operation becomes invalid when there are only two redundant sensors. Empirical based inferential modeling is only valid when intrinsic correlations between predictor variables and response variables remain static during the model training and testing phase. They also commonly produce high variance results and are not the optimal solution to the problem.&lt;/p&gt;
+&lt;p&gt;This dissertation develops and implements independent component analysis (ICA) for redundant sensor validation. Performance of the ICA algorithm produces sufficiently low residual variance parameter estimates when compared to simple averaging, ICMP, and principal component regression (PCR) techniques. For stationary signals, it can detect and isolate sensor drifts for as few as two redundant sensors. It is fast and can be embedded into a real-time system. This is demonstrated on a water level control system.&lt;/p&gt;
+&lt;p&gt;Additionally, ICA has been merged with inferential modeling technique such as PCR to reduce the prediction error and spillover effects from data anomalies. ICA is easy to use with, only the window size needing specification.&lt;/p&gt;
+&lt;p&gt;The effectiveness and robustness of the ICA technique is shown through the use of actual nuclear power plant data. A bootstrap technique is used to estimate the prediction uncertainties and validate its usefulness. Bootstrap uncertainty estimates incorporate uncertainties from both data and the model. Thus, the uncertainty estimation is robust and varies from data set to data set.&lt;/p&gt;
+&lt;p&gt;The ICA based system is proven to be accurate and robust; however, classical ICA algorithms commonly fail when distributions are multi-modal. This most likely occurs during highly non-stationary transients. This research also developed a unity check technique which indicates such failures and applies other, more robust techniques during transients. For linear trending signals, a rotation transform is found useful while standard averaging techniques are used during general transients. &lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2160</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3603&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2160</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3603</articleid>
+<submission-date>2013-10-04T11:10:26-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4670767</context-key>
+<submission-path>utk_graddiss/2160</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Uhrig, Belle R. Upadhyaya, Charles F. Moore</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

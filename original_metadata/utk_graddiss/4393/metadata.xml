@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Thermal-Hydraulics Modeling of Twisted Tape Enabled High Heat Flux Components</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ebuckman@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Clark</lname>
+<fname>Emily</fname>
+<mname>Buckman</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Swirl Flow</keyword>
+<keyword>Fusion Energy</keyword>
+<keyword>Monoblock</keyword>
+<keyword>Burnout</keyword>
+<keyword>wall shear stress</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Energy Systems</discipline>
+<discipline>Engineering</discipline>
+<discipline>Heat Transfer, Combustion</discipline>
+<discipline>Nuclear Engineering</discipline>
+<discipline>Other Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The goal of this work was to perform a computational investigation into the thermalhydraulic performance of water-cooled, twisted tape enabled high heat flux components at fusion relevant conditions. Fusion energy is a promising option for future clean energy generation, but the community must overcome significant scientific and engineering challenges before meeting the goal of electricity generation. One such challenge is the high heat flux thermal management of components in fusion and plasma physics experiments. Plasma facing components in the magnetic confinement devices, such as ITER or W7-X, will be subjected to extreme heat loads on the order of 10-20 MW/m&lt;sup&gt;2&lt;/sup&gt;. The heat dissipation issue will become critical as these next generations of experiments come online, and active cooling will be necessary to decrease the thermal loading and prevent failure of the components.&lt;/p&gt;
+&lt;p&gt;Single-phase computational modeling was performed with the ANSYS CFX software to investigate the performance of water-cooled twisted tape devices. Computational investigations were first performed for a general geometry at moderate conditions and were then ramped up to fusion relevant conditions. This work resulted in a wide range of topics including comparisons to experiments and legacy correlations, comparisons of various turbulence models, investigations into local information, a parametric sweep of different tape characteristics, and identification of future opportunities.&lt;/p&gt;
+&lt;p&gt;Key results stemmed from the investigation into the local flow field. The work revealed characteristics of twisted tape enabled swirl flow, which has not yet been noted in the literature. Secondary circulation resulted in so-called “inflow” regions, where the boundary layer was reinjected into the freestream. At moderate, uniform heating conditions, these regions were shown to correspond to regions of low wall shear stress, low heat transfer coefficients, and high surface temperatures making them candidates for early burnout. Investigation of wall shear stress contours revealed apparent “striping” that develops in twisted tape induced swirl flow due to the secondary circulation. While these key qualitative features were still noted in the fusion relevant investigation, the connection between the inflow regions and surface temperature was concluded to be minimal under one-sided, high heat flux conditions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4393</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5757&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4393</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5757</articleid>
+<submission-date>2017-02-14T10:14:45-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9686497</context-key>
+<submission-path>utk_graddiss/4393</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arnold Lumsdaine, Kivanc Ekici</value>
+</field>
+<field name="advisor2" type="string">
+<value>Arthur Ruggles, David Donovan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

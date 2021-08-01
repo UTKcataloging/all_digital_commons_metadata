@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Network and multi-scale signal analysis for the integration of large omic datasets: applications in &lt;i&gt;Populus trichocarpa&lt;/i&gt;</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dweighil@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Weighill</lname>
+<fname>Deborah</fname>
+<mname>Ann</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Bioenergy</keyword>
+<keyword>computational biology</keyword>
+<keyword>Populus trichocarpa</keyword>
+<keyword>signal processing</keyword>
+<keyword>wavelet transform</keyword>
+<keyword>pleiotropy</keyword>
+<keyword>pleiotropy decomposition</keyword>
+</keywords>
+<abstract>&lt;p&gt;Poplar species are promising sources of cellulosic biomass for biofuels because of their fast growth rate, high cellulose content and moderate lignin content. There is an increasing movement on integrating multiple layers of ’omics data in a systems biology approach to understand gene-phenotype relationships and assist in plant breeding programs. This dissertation involves the use of network and signal processing techniques for the combined analysis of these various data types, for the goals of (1) increasing fundamental knowledge of &lt;i&gt;P. trichocarpa&lt;/i&gt; and (2) facilitating the generation of hypotheses about target genes and phenotypes of interest. A data integration “Lines of Evidence” method is presented for the identification and prioritization of target genes involved in functions of interest. A new post-GWAS method, Pleiotropy Decomposition, is presented, which extracts pleiotropic relationships between genes and phenotypes from GWAS results, allowing for identification of genes with signatures favorable to genome editing. Continuous wavelet transform signal processing analysis is applied in the characterization of genome distributions of various features (including variant density, gene density, and methylation profiles) in order to identify chromosome structures such as the centromere. This resulted in the approximate centromere locations on all &lt;i&gt;P. trichocarpa&lt;/i&gt; chromosomes, which had previously not been adequately reported in the scientific literature. Discrete wavelet transform signal processing followed by correlation analysis was applied to genomic features from various data types including transposable element density, methylation density, SNP density, gene density, centromere position and putative ancestral centromere position. Subsequent correlation analysis of the resulting wavelet coefficients identified scale-specific relationships between these genomic features, and provide insights into the evolution of the genome structure of &lt;i&gt;P. trichocarpa&lt;/i&gt;. These methods have provided strategies to both increase fundamental knowledge about the &lt;i&gt;P. trichocarpa&lt;/i&gt; system, as well as to identify new target genes related to biofuels targets. We intend that these approaches will ultimately be used in the designing of better plants for more efficient and sustainable production of bioenergy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5380</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6916&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5380</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6916</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545391</context-key>
+<submission-path>utk_graddiss/5380</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Jacobson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gerald Tuskan, Timothy Tschaplinkski, Wellington Muchero</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-4979-5871</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

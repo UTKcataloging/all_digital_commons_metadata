@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hardware Implementation of the PET Backprojection Algorithm using FPGA Technology</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Harrah</lname>
+<fname>D.</fname>
+<mname>Eric</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Backprojection is used in the recovery of 2D and 3D images in positron emission tomography (PET). PET is used by medical personnel in the detection and location of growths or tumors that lie within the human body. Current image reconstruction using the Backprojection algorithm requires a great deal of processing time to complete. The general method used to decrease processing  time is a multi-processor system with each processor working on a portion of the final image to be reconstructed. This thesis will focus on implementing the Backprojection algorithm utilizing a hardware platform. The Wildcard PCMCIA card, which contains a Virtex 300 FPGA, will be the focus of this effort. The goals of this thesis are to test the validity of using a FPGA to perform lengthy, numerical algorithms, in this case the PET backprojection algorithm, a task that has primarily been left to processors, and to compare the relative speed and accuracy of using the FPGA versus using a processor. The algorithm will be written for and tested by reconstructing a 128x128 2D PET image from sinogram data provided by CTI.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2062</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3428&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2062</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3428</articleid>
+<submission-date>2013-10-02T10:54:19-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4658119</context-key>
+<submission-path>utk_gradthes/2062</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Danny Newport</value>
+</field>
+<field name="advisor2" type="string">
+<value>Don Bouldin, Gregory Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

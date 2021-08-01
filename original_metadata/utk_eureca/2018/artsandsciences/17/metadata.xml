@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Study of Ligand-dependent Oligomerization of Ribonucleotide Reductase</title>
+<publication-date>2018-05-16T14:54:09-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cpham3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Pham</lname>
+<fname>Bill</fname>
+</author>
+</authors>
+<disciplines><discipline>Biophysics</discipline>
+</disciplines><abstract>&lt;p&gt;Certain protein oligomerization can be strongly influenced by its ligand-binding status. We constructed a computational method to investigate how ligand-binding and oligomerization can be coupled. We tackle this issue using an approximate approach of studying the properties of individual monomers and how they associate. By connecting the dynamics at monomeric level and the information of oligomer interface, we quantify the synchronization of two types of contact dynamics: (1) between the ligand and its binding pocket, and (2) the contact dynamics at interface. In this work, we applied our methodology on protein ribonucleotide reductase (RNR), which is an essential enzyme for DNA de novo synthesis. The study of RNR&#39;s regulatory mechanism could lead to new designs of antimicrobial drugs targeting allosteric control of RNR function. We first performed atomistic simulation of RNR with different ligand binding status, and then used statistical analysis to gather the contact dynamics. We observed and quantified the level of resonance between S-site (Specificity allosteric site) ligand binding and the dimer interface formation, where we also revealed insights on RNR dimerization mechanism and potential druggable site. We also studied the (de)activation mechanism via ligand-induced hexamerization at the A-site (Activity allosteric site). There is a drastic change in dynamics of protein when ATP vs. dATP is bound at A-site. ATP-bound protein has a complex and delocalized dynamics, whereas dATP-bound protein has a relatively simple and localized motion around S-site.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2018/artsandsciences/17</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1177&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>17</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1177</articleid>
+<submission-date>2018-04-17T13:22:09-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>11978052</context-key>
+<submission-path>utk_eureca/2018/artsandsciences/17</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Arts &amp; Sciences</value>
+</field>
+<field name="department" type="string">
+<value>Biochemistry &amp; Cellular and Molecular Biology</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Tongye Shen</value>
+</field>
+<field name="year" type="date">
+<value>2018-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computationally Efficient Mixed Pixel Decomposition Using Constrained Optimizations</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Miao</lname>
+<fname>Lidan</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Sensors with spatial resolution larger than targets yield &lt;em&gt;mixed pixel&lt;/em&gt;, i.e., pixel whose measurement is a composite of different sources (&lt;em&gt;endmembers&lt;/em&gt;). The analysis of mixed pixels demands subpixel methods to perform source separation and quantification, which is a problem of blind source separation (BSS). Although various algorithms have been proposed, several important issues remain unresolved. First, assuming the endmembers are known, the abundance estimation is commonly performed by employing a least squares criterion, which however makes the estimation sensitive to noise and outliers, and the endmembers with very similar signatures are difficult to differentiate. In addition, the nonnegative con- straints require iterative approaches that are more computationally expensive than direct methods. Secondly, to extract endmembers from the given image, most algorithms make the assumption of the presence of &lt;em&gt;pure pixels&lt;/em&gt;, i.e., pixels containing only one endmember class, which is not realistic in real world applications.&lt;/p&gt;
+&lt;p&gt;This dissertation presents effective and computationally efficient source separation al- gorithms, which blindly extract constituent components and their fractional abundances from mixed pixels using constrained optimizations. When the image contains pure pixels, we develop a constrained maximum entropy (MaxEnt) approach to perform unmixing. The entropy formulation provides a natural way to incorporate the physical constraints, and gains an optimal solution that goes beyond least squares. However, the assumption of the presence of pure pixels is not always reliable. To solve this problem, we further develop a constrained nonnegative matrix factorization (NMF) method, which integrates the least square analysis and the model of convex geometry. The constrained NMF approach exploits the important fact that the endmembers occupy the vertices of a simplex, and the simplex volume determined by the actual endmembers is the minimum among all possible simplexes that circumscribe the data scatter space. Both methods blindly extract endmembers and abundances with strong robustness to noise and outliers, and admit a generalization to lower and higher dimensional spaces. For images containing pure pixels, the MaxEnt approach exhibits high estimation accuracy; while, the constrained NMF method yields relatively stable performance for data with di®erent endmember purities, which shows improved per- formance over the MaxEnt approach when all image pixels are mixtures.&lt;/p&gt;
+&lt;p&gt;The proposed algorithms are applied to the subject of hyperspectral unmixing. Com- parative analyses with the state-of-the-art methods show their e®ectiveness and merits. To demonstrate the broad application domain of the unmixing schemes, we generalize the proposed idea to solve classic image processing problems, particularly, blind image restora- tion. We reinvestigate the physical image formation process and interpret the classic image restoration from a BSS perspective; that is, the observed image is considered as a linear combination of a set of shifted point spread function (PSF) with the weight coefficients determined by the actual image. A smoothness and block-decorrelation constrained NMF method is developed to estimate the source image.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/245</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1296&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>245</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1296</articleid>
+<submission-date>2010-02-04T08:05:01-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1131931</context-key>
+<submission-path>utk_graddiss/245</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Harold Szu, J. Douglas Birdwell, J. Wesley Hines, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/MiaoLidan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

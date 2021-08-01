@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Silicon-on-Insulator Power Management Integrated Circuit for Thin-Film Solid-State Lithium-Ion Micro-Batteries</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jackson</lname>
+<fname>Jeremy</fname>
+<mname>Ross</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the design and implementation of a power management integrated circuit (IC) that is capable of both current and voltage charging thin-film, solid-state, lithium-ion micro-batteries. The power management system has been fabricated using a single-poly, 0.35-ìm, partially-depleted, silicon-on-insulator process (PD-SOI). The system contains a temperature stable current charger (current generator and a 4-bit current-mode DAC), a regulated voltage supply (voltage amplifier), and a voltage monitoring circuit (2-bit flash ADC). Experimental results of the first version of the power management system show proper functionality was obtained. The current charger produced a 2% worst-case variation in output current over the temperature range 0–100°C. The regulated voltage output was measured to be 4.4 V and the digital outputs of the flash ADC transitioned at 3.45 and 4.76 V.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2018</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3378&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2018</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3378</articleid>
+<submission-date>2013-09-27T13:58:18-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4641555</context-key>
+<submission-path>utk_gradthes/2018</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Syed K. Islam, Dr. Donald W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

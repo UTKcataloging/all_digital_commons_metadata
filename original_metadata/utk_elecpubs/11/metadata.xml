@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Developing measures for microbial genome assembly quality control</title>
+<publication-date>2010-07-23T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>radams29@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Adams</lname>
+<fname>Rachel</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>jharri43@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Harris</lname>
+<fname>Jason</fname>
+<mname>B.</mname>
+</author>
+<author>
+<email>jay@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jay</lname>
+<fname>Jeremy</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Beth</fname>
+<mname>G.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Land</lname>
+<fname>Miriam</fname>
+<mname>L.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Hauser</lname>
+<fname>Loren</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Advances in sequencing technologies are outpacing the rate at which genomes can be thoroughly finished and analyzed. Over the next year, genome sequencing will increase many-fold, but high quality and high-throughput annotation methods have yet to be developed to handle the need. As more microbial genomes are sequenced, whole-genome annotation methods identify many putative genes which need further verification. By analyzing a broad range of annotated genomes we can identify patterns and statistics useful in determining the annotation quality and spurious gene outliers. Our work is attempting to identify quality control measures based on a full inter-genomic comparison instead of individual sequence-level or database-specific statistics. Using these methods to compare and filter, it is possible to narrow the scope of manual gene curation and allow greater scrutiny on putative genes before publication, making higher quality genome annotation possible. Our results plainly show the quality of well-studied genomes, the weaknesses of draft genome builds, and illustrate the need for further high-throughput quality control measures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/11</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1015&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1015</articleid>
+<submission-date>2013-07-12T13:37:33-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4310723</context-key>
+<submission-path>utk_elecpubs/11</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2010, 11(Suppl 4):P14 doi:10.1186/1471-2105-11-S4-P14</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-07-23T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

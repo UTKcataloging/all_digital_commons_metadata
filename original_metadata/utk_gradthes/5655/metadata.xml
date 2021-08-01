@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Zone-based Manufacturing</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>abajpai2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bajpai</lname>
+<fname>Abhay</fname>
+<mname>Rajendra</mname>
+</author>
+</authors>
+<keywords>
+<keyword>scheduling</keyword>
+<keyword>optimization</keyword>
+<keyword>heuristics</keyword>
+<keyword>manufacturing</keyword>
+</keywords>
+<abstract>&lt;p&gt;The biggest improvement possible with productivity and profit in a manufacturing environment is to decrease the production time or cycle time and increase the takt time without any significant or no loss to product quality. But this could come at a cost of unequal work distribution if it is a people-based manufacturing process. This paper provides the best possible schedule by using a heuristic model that gives an optimal schedule. Based on jobs precedence the schedule is made to have the least possible makespan for the process at any given station in an assembly line. Furthermore, the objective is to minimize the difference of the entire duration of work allotted to each employee by an optimization model that performs an unbiased employee assignment Integer programming problem. The computational results are proven by a case study provided later in the paper.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5655</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7189&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5655</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7189</articleid>
+<submission-date>2020-12-11T13:30:06-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20540251</context-key>
+<submission-path>utk_gradthes/5655</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rupy Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Kobza, Lee Martin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

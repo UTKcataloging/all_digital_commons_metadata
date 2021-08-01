@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Use of Optical In-Situ Data of Tensile Samples to Model Porosity for Part Qualification of AM 316L</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>chensl21@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hensley</lname>
+<fname>Caitlin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Additive Manufacturing</keyword>
+<keyword>Optical In-Situ Data</keyword>
+<keyword>Part Qualification</keyword>
+</keywords>
+<abstract>&lt;p&gt;Additively manufactured parts often contain porosity that forms during the building process. These defects can affect the part quality and make individual part qualification difficult. In this study, pores were purposefully designed within tensile samples in combinations of three diameters (200m, 350m, and 500m) and three volume percentages (1%, 3%, and 5%) for a total of nine combinations. Each combination was built twice in order to compare the ability of hot isostatic pressing (HIP) and solution annealing (SA) to mitigate pore effects and produce a part that achieves acceptable tensile properties. Two control samples with no purposeful porosity included were also built to compare the tensile results within the build to an ideal case for both the HIP/SA and as-built conditions. These tensile samples were recorded during the build process using an in-situ optical data collection system with the goal of using in-situ data to model the internal porosity. This internal porosity from optical data was compared to XCT data to validate the porosity detection method. The optical data was used to model internal porosity for finite element simulations, although these simulations became too complex for practical computation due to the highly irregular pore shapes in large amounts. The optical in-situ data was also analyzed statistically, and correlation was observed between clusters of large pores and the location of fracture during tensile testing. The HIP/SA process was shown to successfully reduce tensile property scatter and achieve acceptable standards for all pore sizes and amounts.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5622</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7156&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5622</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7156</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539132</context-key>
+<submission-path>utk_gradthes/5622</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suresh Babu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chad Duty, Brett Compton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

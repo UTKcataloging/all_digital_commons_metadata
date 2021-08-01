@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Graph-Theoretical Tools for the Analysis of Complex Networks</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rhagan@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hagan</lname>
+<fname>Ronald</fname>
+<mname>Dewayne</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;We are currently experiencing an explosive growth in data collection technology that threatens to dwarf the commensurate gains in computational power predicted by Moore’s Law. At the same time, researchers across numerous domain sciences are finding success using network models to represent their data. Graph algorithms are then applied to study the topological structure and tease out latent relationships between variables. Unfortunately, the problems of interest, such as finding dense subgraphs, are often the most difficult to solve from a computational point of view. Together, these issues motivate the need for novel algorithmic techniques in the study of graphs derived from large, complex, data sources. This dissertation describes the development and application of graph theoretic tools for the study of complex networks. Algorithms are presented that leverage efficient, exact solutions to difficult combinatorial problems for epigenetic biomarker detection and disease subtyping based on gene expression signatures. Extensive testing on publicly available data is presented supporting the efficacy of these approaches. To address efficient algorithm design, a study of the two core tenets of fixed parameter tractability (branching and kernelization) is considered in the context of a parallel implementation of vertex cover. Results of testing on a wide variety of graphs derived from both real and synthetic data are presented. It is shown that the relative success of kernelization versus branching is found to be largely dependent on the degree distribution of the graph. Throughout, an emphasis is placed upon the practicality of resulting implementations to advance the limits of effective computation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4464</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5775&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4464</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5775</articleid>
+<submission-date>2017-02-21T07:43:46-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9722425</context-key>
+<submission-path>utk_graddiss/4464</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce MacLennan, Charles Collins, Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

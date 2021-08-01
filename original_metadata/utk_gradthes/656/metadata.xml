@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Application Level Security Sensors</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>crathgeb@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rathgeb</lname>
+<fname>Christopher</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Reverse Engineering</keyword>
+<keyword>software security</keyword>
+<keyword>dynamic sensors</keyword>
+<keyword>data mining</keyword>
+<keyword>code injection</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The battle for cyber supremacy is a cat and mouse game: evolving threats from internal and external sources make it difficult to protect critical systems. With the diverse and high risk nature of these threats, there is a need for robust techniques that can quickly adapt and address this evolution. Existing tools such as Splunk, Snort, and Bro help IT administrators defend their networks by actively parsing through network traffic or system log data. These tools have been thoroughly developed and have proven to be a formidable defense against many cyberattacks. However, they are vulnerable to zero-day attacks, slow attacks, and attacks that originate from within. Should an attacker or some form of malware make it through these barriers and onto a system, the next layer of defense lies on the host. Host level defenses include system integrity verifiers, virus scanners, and event log parsers. Many of these tools work by seeking specific attack signatures or looking for anomalous events. The defenses at the network and host level are similar in nature. First, sensors collect data from the security domain. Second, the data is processed, and third, a response is crafted based on the processing. The application level security domain lacks this three step process. Application level defenses focus on secure coding practices and vulnerability patching, which is ineffective. The work presented in this thesis uses a technique that is commonly employed by malware, dynamic-link library (DLL) injection, to develop dynamic application level security sensors that can extract fine-grain data at runtime. This data can then be processed to provide stronger application level defense by shrinking the vulnerability window. Chapters 5 and 6 give proof of concept sensors and describe the process of developing the sensors in detail.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/656</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1681&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>656</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1681</articleid>
+<submission-date>2010-04-23T11:47:13-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1286452</context-key>
+<submission-path>utk_gradthes/656</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brad Vander Zanden, David Icove</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

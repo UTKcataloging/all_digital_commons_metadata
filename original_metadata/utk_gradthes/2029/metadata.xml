@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Implementation of the Digital Communication System in the F/A-18 Aircraft</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bigalk</lname>
+<fname>Gregory</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<disciplines><discipline>Systems Engineering and Multidisciplinary Design Optimization</discipline>
+</disciplines><abstract>&lt;p&gt;The F/A-18 Hornet is a Navy/Marine Corps carrier-based strike/fighter built by the Boeing Company. The Hornet is a dual role aircraft designed to have all weather intercept and ground attack capabilities. The purpose of this study was to examine the Variable Message Format (VMF) communications capability, integration compatibility and technical suitability of the RT-1824(C) ARC-210 radio as integrated into the F/A-18 aircraft. Normally, this aircraft would utilize two ARC-210 voice capable only RT-1556 radio sets designated Comm 1 and Comm 2. Comm 1 is switchable between an upper AS-4129/ARC antenna and lower AS-3557/A antenna. Comm 2 utilizes a separate lower AS-4129/ARC antenna. The RT-1824(C) provides baseline ARC-210 RT-1556 capabilities as well as embedded COMSEC capability, and digital messaging for use during the Close Air Support (CAS) mission. Tests included range performance, aircraft software integration, E3, ECS, Carrier Suitability, TEMPEST, Reliability, Maintainability, and Supportability. Range performance and software integration testing included Air-to-Air testing using an airborne F/A-18 as a Forward Air Controller Airborne (FAC(A)) and Air to Ground testing using a ground FAC with a Target Location Designation Hand-off System (TLDHS).&lt;/p&gt;
+&lt;p&gt;The study revealed a significant reduction in aircrew workload and a tremendous improvement in aircrew and FAC situational awareness after incorporating the new VMF technology. However, the original specification requirements for this program excluded the FAC(A) mission. The author felt that the inclusion of this mission was very important and included it during the research of this thesis. This study will look into the CAS and FAC(A) roles and provide design changes to enhance this system and make it more useful to the fleet user. The author’s analysis was done on information attained during a Navy developmental test program, however all conclusions and recommendations are independent of the test program. The author’s role in this test program was as lead test pilot and project officer. The identified problems are:&lt;/p&gt;
+&lt;p&gt;1. The need to redesign the touch-sensitive data entry keyboard of the Up Front Control Display to provide an alphanumeric entry capability in addition to providing secondary tactile interface with the weapons system, specifically for the FAC(A) mission.&lt;/p&gt;
+&lt;p&gt;2. Modify the aircraft software and TLDHS software to display the following commands: “Continue”, “Cleared Hot” and “Abort”. These messages should appear in the Pilot’s HUD, FLIR display, Radar display and Joint Helmet Mounted Cueing Sight display to provide the needed situational awareness (SA) in a highly dynamic mission environment, such as CAS.&lt;/p&gt;
+&lt;p&gt;3. Design a modified CAS page to appear after the aircrew selects “USE” to facilitate gaining pertinent information faster when conducting CAS missions.&lt;/p&gt;
+&lt;p&gt;4. Redesign the NETS page to allow more than one “SEND TO” list to appear when the aircraft is serving in the FAC(A) role.&lt;/p&gt;
+&lt;p&gt;5. Modify the software to allow the “Friendly Arc” to appear on the SA display in addition to the HSI display.&lt;/p&gt;
+&lt;p&gt;6. Redesign the CAS status line function to account for total number of aircraft received versus the total number of aircraft on the “Send To” list by modifying the NETS page to incorporate color to allow quick interpretation of which aircraft received the sent messages vice which did not.&lt;/p&gt;
+&lt;p&gt;7. Relay a repeater image of the close air support aircraft’s heads up display, to allow the FAC or FAC(A) to confirm the correct target is being attacked.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2029</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3389&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2029</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3389</articleid>
+<submission-date>2013-09-30T12:02:43-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4647913</context-key>
+<submission-path>utk_gradthes/2029</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mr. R. B. Richards</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. George Garrison, Dr. Ralph Kimberlin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

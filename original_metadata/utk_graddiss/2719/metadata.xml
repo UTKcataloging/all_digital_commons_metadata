@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Particle Modeling of Fuel Plate Melting during Coolant Flow Blockage in HFIR</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hiraku@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nakamura</lname>
+<fname>Hiraku</fname>
+</author>
+</authors>
+<keywords>
+<keyword>flow blockage</keyword>
+<keyword>fuel melt</keyword>
+<keyword>SPH</keyword>
+<keyword>multiphase</keyword>
+<keyword>GPU</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Cooling channel inlet flow blockage has damaged fuel in plate fueled reactors and contributes significantly to the probability of fuel damage based on Probabilistic Risk Assessment. A Smoothed Particle Hydrodynamics (SPH) model for fuel melt from inlet flow blockage for the High Flux Isotope Reactor is created. The model is coded for high throughput graphics processing unit (GPU) calculations. This modeling approach allows movement toward quantification of the uncertainty in fuel coolant flow blockage consequence assessment. The SPH modeling approach is convenient for following movement of fuel and coolant during melt progression and provides a tool for capturing the interactions of fuel melting into the coolant. The development of this new model is presented. The implementation of the model for GPU simulation is described. The model is compared against analytical solutions. Modeling of a scaled fuel melt progression is simulated for different conditions showing the sensitivities of melting fuel to conditions in the coolant channel.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2719</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3959&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2719</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3959</articleid>
+<submission-date>2014-01-15T06:10:30-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4988829</context-key>
+<submission-path>utk_graddiss/2719</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arthur E. Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>David H. Cook, Lawrence W. Townsend, Michael W. Guidry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Case1.avi</archive-name>
+<upload-name>Case1.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=3959&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>Case2.avi</archive-name>
+<upload-name>Case2.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=3959&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>Case3.avi</archive-name>
+<upload-name>Case3.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=3959&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>Case4.avi</archive-name>
+<upload-name>Case4.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=3959&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>Case5.avi</archive-name>
+<upload-name>Case5.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=3959&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+<file>
+<archive-name>Case6.avi</archive-name>
+<upload-name>Case6.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=3959&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

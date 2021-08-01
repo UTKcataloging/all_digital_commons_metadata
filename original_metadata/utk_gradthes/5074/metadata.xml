@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Study of Shock-Wave Boundary Layer Interaction on a Compression Ramp Gap</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Bell</lname>
+<fname>Andrew</fname>
+<mname>Brandon</mname>
+</author>
+</authors>
+<keywords>
+<keyword>SWBLI</keyword>
+</keywords>
+<abstract>&lt;p&gt;The effect of a gap between a  at plate and a compression ramp on the shock wave/boundary layer interaction (SWBLI) at the ramp corner is investigated numerically. The behavior of supersonic flow over compression ramps where SWBLI occurs has been a topic of study, numerically and experimentally, for many years. There have been studies on how the interaction occurs and how to mitigate its effects. This investigation will focus on the effect of placing a gap in front of the ramp.Using ANSYS Fluent and a Spalart-Allmaras turbulence model, two 3D models experience Mach 3 flows at a ramp angle of 24° with and without a gap. Steady state simulations highlight the characteristic features of SWBLIs on compression ramps (separation point, reattachment point, and recirculation region) and how these features are altered by the presence of the gap. Span-wise averaging is performed to represent pressure, temperature, and skin friction surface data, and these data are used to analyze the effect of the gap. The hypothesis is that the addition of the gap will lower the negative effect of the SWBLI on the surface. Additional test cases are created to observe the effect of angle of attack change, boundary layer height change, and Mach number change on the gap.With the addition of the gap, the SWLBI recirculation region is found to move from the corner into the gap and the shock impinges directly from the corner of the ramp. This changes the location of pressure and temperature loading on the surfaces. The average temperature is lower with the addition of the gap, but the amount of pressure loading across the surfaces stays within 1%. The pattern of skin surface friction on the ramp, however, changes dramatically when the gap is added. The skin friction coefficeint value decreases by 100% at top of the ramp when the gap is added. The present research introduces and investigates a scarcely covered technique to help mitigate or control the effects of SWBLI on a compression ramp and addresses possible work to follow-up this study.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5074</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6481&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5074</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6481</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414782</context-key>
+<submission-path>utk_gradthes/5074</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steven Brooks, Gregory D. Power</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

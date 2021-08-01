@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Preliminary Design, Flight Simulation, and Task Evaluation of a Mars Airplane</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Walker</lname>
+<fname>Dodi</fname>
+<mname>DeAnne</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A limited aerodynamic, stability and control, and task evaluation of a new rocket-powered Mars airplane design was conducted. The Mars airplane design, designated the Argo VII, was patterned after the NASA ARES-2 design. The aerodynamic and stability and control parameters of the Argo VII were determined using analytical and computational techniques and were comparable to those of the ARES-2. The Argo VII was predicted to be statically stable and damped in all axes on Earth and Mars. A series of flight tests were performed using a MATLAB Simulink-based flight simulation program to assess the performance, longitudinal flying qualities, and mission effectiveness of the Argo VII flying on Earth and Mars. At an assumed Mars mission flight condition of 2 km (6,562 ft) altitude and 0.65 Mach, the Argo VII had a maximum range lift coefficient of 0.44, a maximum lift-todrag ratio of 15.5, and a maximum endurance lift coefficient of 0.76. The Argo VII was dynamically stable and damped in the longitudinal axis. At the Mars mission flight condition, the long period had a damping ratio of 0.04, damped and undamped natural frequencies of 0.0423 rad/s (2.42 deg/s), and time to half of 409.6 sec. The short period had a damping ratio of 0.2, damped natural frequency of 7.39 rad/s (723 deg/s), undamped natural frequency of 7.54 rad/s (432 deg/s), and time to half of 0.46 sec. At the Mars mission flight condition, the aircraft had a specific excess power of 5.8 m/s (19.02 ft/s). At all Mars altitudes evaluated, the fastest way for the aircraft to change altitudes was to climb to the desired altitude at a constant equivalent airspeed. Mars mission aircraft task evaluations were performed using Mars simulation scenery to validate the predicted aircraft range and climb and descent performance. The aircraft range evaluation resulted in an aircraft maximum range of 373 km (232 mi). The predicted aircraft maximum range was 500 km (311 mi). The climb and descent evaluations resulted in aircraft performance that was similar to the predicted aircraft performance. This research illustrated that the Argo VII Mars aircraft design can provide a viable means of acquiring scientific data on Mars.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/496</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1532&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>496</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1532</articleid>
+<submission-date>2010-02-22T11:04:10-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1161963</context-key>
+<submission-path>utk_gradthes/496</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stephen Corda</value>
+</field>
+<field name="advisor2" type="string">
+<value>Borja Martos, U. Peter Solies</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/WalkerDodiDeAnn.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

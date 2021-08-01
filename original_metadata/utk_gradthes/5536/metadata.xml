@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Whetstone Trained Spiking Deep Neural Networks to Spiking Neural Networks</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jzhao29@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhao</lname>
+<fname>Jiajia</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Spiking Neural Network</keyword>
+<keyword>Deep Neural Network</keyword>
+<keyword>Spiking Deep Neural Network</keyword>
+<keyword>Machine Learning</keyword>
+<keyword>Back Propagation</keyword>
+<keyword>Tensorflow</keyword>
+</keywords>
+<abstract>&lt;p&gt;A deep neural network is a non-spiking artificial neural network which uses multiple structured layers to extract features from the input. Spiking neural networks are another type of artificial neural network which closely mimic biology with time dependent pulses to transmit information. Whetstone is a training algorithm for spiking deep neural networks. It modifies the back propagation algorithm, typically used in deep learning, to train a spiking deep neural network, by converting the activation function found in deep neural networks into a threshold used by a spiking neural network. This work converts a spiking deep neural network trained from Whetstone to a traditional spiking neural network in the TENNLab framework. This conversion decomposes the dot product operation found in the convolutional layer of spiking deep neural networks to synapse connections between neurons in traditional spiking neural networks. The conversion also redesigns the neuron and synapse structure in the convolutional layer to trade time for space. A new architecture is created in the TENNLab framework using traditional spiking neural networks, which behave the same as the spiking deep neural network trained by Whetstone before conversion. This new architecture verifies the converted spiking neural network behaves the same as the original spiking deep neural network. This work can convert networks to run on other architectures from TENNLab, and this allows networks from those architectures to be trained with back propagation from Whetstone. This expands the variety of training techniques available to the TENNLab architectures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5536</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7009&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5536</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7009</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914345</context-key>
+<submission-path>utk_gradthes/5536</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James S. Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

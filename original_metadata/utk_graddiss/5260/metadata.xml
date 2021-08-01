@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ADAPTIVE NONLINEAR MODEL REDUCTION FOR FAST POWER SYSTEM SIMULATION</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dosipov@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Osipov</lname>
+<fname>Denis</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Admittance matrix</keyword>
+<keyword>Model reduction</keyword>
+<keyword>Parallelization</keyword>
+<keyword>Parareal</keyword>
+<keyword>Partitioning</keyword>
+<keyword>Simulation.</keyword>
+</keywords>
+<abstract>&lt;p&gt;The dissertation proposes a new adaptive approach to power system model reduction for fast and accurate time-domain simulation. This new approach is a compromise between linear model reduction for faster simulation and nonlinear model reduction for better accuracy. During the simulation period, the approach adaptively switches among detailed and linearly or nonlinearly reduced models based on variations of the system state: it employs unreduced models for the fault-on period, uses weighted column norms of the admittance matrix to decide which functions are to be linearized in power system differential-algebraic equations for large changes of the state, and adopts a linearly reduced model for small changes of the state.Two versions of the adaptive model reduction approach are introduced. The first version uses traditional power system partitioning where the model reduction is applied to a defined large external area in a power system and the other area that is defined as the study area keeps full detailed models. The second version applies the adaptive model reduction to the whole system.Speed improvement techniques using parallelization are investigated. The first technique uses parallelism in space; it further divides the study area into subareas that can be simulated in parallel. The second technique uses parallelism in time; it integrates the adaptive model reduction into the coarse solver of the Parareal method.In addition, the dissertation proposes integration of tensor decomposition into the adaptive model reduction approach to further improve the speed and accuracy of simulation.All proposed approaches are validated by comprehensive case studies on the 140-bus 48-machine Northeast Power Coordinating Council system, 2383-bus 327-machine Polish system, and 5617-machine 70285-bus Eastern Interconnection system using different dynamic models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5260</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6804&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5260</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6804</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342830</context-key>
+<submission-path>utk_graddiss/5260</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Kevin L. Tomsovic, Xiaopeng Zhao</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-9134-3919</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

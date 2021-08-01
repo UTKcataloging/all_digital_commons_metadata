@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High variance in reproductive success generates a false signature of a genetic bottleneck in populations of constant size: a simulation study</title>
+<publication-date>2013-10-16T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Hoban</lname>
+<fname>Sean</fname>
+<mname>M.</mname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Mezzavilla</lname>
+<fname>Massimo</fname>
+</author>
+<author>
+<lname>Gaggiotti</lname>
+<fname>Oscar</fname>
+<mname>E.</mname>
+</author>
+<author>
+<lname>Benazzo</lname>
+<fname>Andrea</fname>
+</author>
+<author>
+<lname>van Oosterhout</lname>
+<fname>Cock</fname>
+</author>
+<author>
+<lname>Bertorelle</lname>
+<fname>Giorgio</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Conservation</keyword>
+<keyword>Heterozygosity excess</keyword>
+<keyword>M-ratio</keyword>
+<keyword>MSVAR</keyword>
+<keyword>FPR</keyword>
+<keyword>Sweepstakes reproduction</keyword>
+<keyword>Type I error</keyword>
+<keyword>Variance in reproductive success</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Biology</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Demographic bottlenecks can severely reduce the genetic variation of a population or a species. Establishing whether low genetic variation is caused by a bottleneck or a constantly low effective number of individuals is important to understand a species’ ecology and evolution, and it has implications for conservation management. Recent studies have evaluated the power of several statistical methods developed to identify bottlenecks. However, the false positive rate, i.e. the rate with which a bottleneck signal is misidentified in demographically stable populations, has received little attention. We analyse this type of error (type I) in forward computer simulations of stable populations having greater than Poisson variance in reproductive success (i.e., variance in family sizes). The assumption of Poisson variance underlies bottleneck tests, yet it is commonly violated in species with high fecundity.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;With large variance in reproductive success (&lt;em&gt;V&lt;/em&gt;&lt;sub&gt;&lt;em&gt;k&lt;/em&gt;&lt;/sub&gt; ≥ 40, corresponding to a ratio between effective and census size smaller than 0.1), tests based on allele frequencies, allelic sizes, and DNA sequence polymorphisms (heterozygosity excess, M-ratio, and Tajima’s &lt;em&gt;D&lt;/em&gt; test) tend to show erroneous signals of a bottleneck. Similarly, strong evidence of population decline is erroneously detected when ancestral and current population sizes are estimated with the model based method MSVAR.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Our results suggest caution when interpreting the results of bottleneck tests in species showing high variance in reproductive success. Particularly in species with high fecundity, computer simulations are recommended to confirm the occurrence of a population bottleneck.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biolpubs/31</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1030&amp;amp;context=utk_biolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>31</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1030</articleid>
+<submission-date>2013-11-06T08:35:31-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- General Biology</publication-title>
+<context-key>4799162</context-key>
+<submission-path>utk_biolpubs/31</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-11-06T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-10-16T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

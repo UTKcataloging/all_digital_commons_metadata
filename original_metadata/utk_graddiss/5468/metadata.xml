@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Three-Dimensional Trap for Single-Molecule Studies with a Four-Focus Confocal Fluorescence Microscope</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kdissana@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Dissanayaka Mudiyanselage</lname>
+<fname>Kapila</fname>
+<mname>Deshappriya</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This dissertation presents the development of an instrument based on a confocal fluorescence microscope for feedback-driven trapping of a single molecule or nanoparticle in three-dimensions as it undergoes Brownian diffusion within an aqueous medium. Such trapping enables prolonged observation of a molecule while untethered and free from collisions with surfaces, which is needed to improve various studies, such as investigations of protein folding dynamics, molecular heterogeneities, and interactions. In the experiment, a dilute solution (~100 pM) of fluorescent nano-objects is inserted into a microfluidic device, which achieves trapping by control of electroosmotic flows in two crossed channels. The geometry, which is designed using COMSOL Multiphysics, funnels the flows to achieve sufficient electroosmotic speed to counteract Brownian diffusion while maintaining a 4:1 width-to-depth for wide-angle light collection by the microscope objective from the center of the crossing region. A fluorescence excitation volume centered at this point is defined by four overlapping focused laser beams, each with ~0.5 μm beam waist but with centers offset in a tetrahedral arrangement. The beams are derived from a mode-locked laser using a series of beam splitters with the pulses in each beam delayed to provide pulse-interleaved excitation at 304 MHz. Fluorescence is collected through a pinhole and split to two single-photon detectors, which provide signals for an FPGA (Field Programmable Gate Array) for time-gated counting into four channels synchronous with the pulses in each of the laser beams. The FPGA also bins the counts and applies an algorithm to estimate the direction of the position offset of the nano-object and to adjust four voltages. These are applied at the four fluid inlets of the microfluidic cross-channel to electroosmotically drive the fluid to keep the nano-object at the midpoint of the four foci. Movies of camera imaging of trapped nano-objects were acquired. Results show trapping of 40 nm FluoSpheres for ~4 minutes, 20 nm FluoSpheres for ~25 seconds, and 5 nm protein molecules of Streptavidin-Alexa Fluor™ 647 for ~1.5 seconds. In addition, Maximum Likelihood Estimation of positions from binned photons was conducted for the FluoSphere experiments to estimate effective spring constants of the trap.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5468</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7004&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5468</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7004</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545514</context-key>
+<submission-path>utk_graddiss/5468</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lloyd M. Davis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christian G. Parigger, Marianne Breinig, Feng-Yuan Zhang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

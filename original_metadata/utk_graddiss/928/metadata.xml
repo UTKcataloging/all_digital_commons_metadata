@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Differential Equation Models and Numerical Methods for Reverse Engineering Genetic Regulatory Networks</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>myoon@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yoon</lname>
+<fname>Mi Un</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Reverse engineering</keyword>
+<keyword>Gene regulatory network</keyword>
+<keyword>Matrix norm minimization</keyword>
+<keyword>numerical algorithm</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation develops and analyzes differential equation-based mathematical models and efficient numerical methods and algorithms for genetic regulatory network identification. The primary objectives of the dissertation are to design, analyze, and test a general variational framework and numerical methods for seeking its approximate solutions for reverse engineering genetic regulatory networks from microarray datasets using the approach based on differential equation modeling. In the proposed variational framework, no structure assumption on the genetic network is presumed, instead, the network is solely determined by the microarray profile of the network components and is identified through a well chosen variational principle which minimizes a biological energy functional. The variational principle serves not only as a selection criterion to pick up the right biological solution of the underlying differential equation model but also provide an effective mathematical characterization of the small-world property of genetic regulatory networks which has been observed in lab experiments. Five specific models within the variational framework and efficient numerical methods and algorithms for computing their solutions are proposed and analyzed in the dissertation. Model validations using both synthetic network datasets and real world subnetwork datasets of Saccharomyces cerevisiae (yeast) and  E. Coli are done on all five proposed variational models and a performance comparison vs some existing genetic regulatory network identification methods is also provided. As microarray data is typically noisy, in order to take into account the noise effect in the mathematical models, we propose a new approach based on stochastic differential equation modeling and generalize the deterministic variational framework to a stochastic variational framework which relies on stochastic optimization. Numerical algorithms are also proposed for computing solutions of the stochastic variational models. To address the important issue of post-processing computed networks to reflect the small-world property of underlying genetic regulatory networks, a novel threshholding technique based on the Random Matrix Theory is proposed and tested on various synthetic network datasets.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/928</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1969&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>928</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1969</articleid>
+<submission-date>2010-09-14T17:08:17-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1558082</context-key>
+<submission-path>utk_graddiss/928</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaobing Feng</value>
+</field>
+<field name="advisor2" type="string">
+<value>Suzanne Lenhart, Steven Wise, Albrecht von Arnim</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

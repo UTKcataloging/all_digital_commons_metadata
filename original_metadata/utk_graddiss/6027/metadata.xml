@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical methods for fully nonlinear second order partial differential equations</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Neilan</lname>
+<fname>Michael</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Mathematics</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dissertation concerns the numerical approximations of solutions of fully nonlinear second order partial differential equations (PDEs). The numerical methods and analysis are based on a new concept of weak solutions called moment solutions, which unlike viscosity solutions, are defined by a constructive method called the vanishing moment method. The main idea of the vanishing moment method is to approximate fully nonlinear second order PDEs by a family of fourth order quasi-linear PDEs. Because the method is constructive, we can develop a wealth of convergent numerical discretization methods to approximate fully nonlinear second order PDEs. We first study the numerical approximation of the prototypical second order fully nonlilnear PDE, the Monge-Ampère equation, det(D²u) = f (&gt; 0), using C¹ finite element methods, spectral Galerkin methods, mixed finite element methods, and a nonconforming Morley finite element method. We then generalize the analysis to other fully nonlinear second order PDEs including the nonlinear balance equation, a nonlinear formulation of semigeostrophic flow equations, and the equation of prescribed Gauss curvature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6027</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7960&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6027</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7960</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467776</context-key>
+<submission-path>utk_graddiss/6027</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Current Sensor for Wide Bandgap Devices Dynamic Characterization</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wzhang53@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Wen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wide-bandgap semiconductor</keyword>
+<keyword>current sensor</keyword>
+<keyword>measurement bandwidth</keyword>
+<keyword>inductance</keyword>
+</keywords>
+<abstract>&lt;p&gt;High bandwidth sensors are required to measure the wide-bandgap devices&#39; transient behavior because of their very fast switching speed. In addition to high bandwidth, the current sensor must alsointroduce little disturbance to the switching power loop. Specifically, excessive parasitic inductance introduced by the current sensor drastically changes the switching behavior, making the measurement result invalid.Conventional high bandwidth current sensors are first reviewed to understand their limitations. By combining the structure of coaxial shunt resistor and alumina substrate of surface mount thin film resistors, a novel current sensor surface mount coaxial shunt resistor (SMDCSR) is introduced. Its performance is then modeled and experimentally characterized. Experimental testing verifies itscapability of achieving very high bandwidth of up to 2 GHz while introducing little parasitic inductance of less than 0.2 nH. Compared with state-of-the-art commercial products, SMDCSR achieves more than 10x higher bandwidth and less than 1/10 insertion inductance. SMDCSRs are thus ideal for current measurement where high bandwidth and low electrical footprint are required, especially for wide-bandgap devices&#39; dynamic characterization.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5567</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7101&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5567</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7101</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409611</context-key>
+<submission-path>utk_gradthes/5567</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Daniel J. Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

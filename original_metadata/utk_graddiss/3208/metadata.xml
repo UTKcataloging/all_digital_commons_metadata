@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Frequency Monitoring Network (FNET) Data Center Development  and Data Analysis</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhang86@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Ye</fname>
+</author>
+</authors>
+<keywords>
+<keyword>FNET</keyword>
+<keyword>power system event</keyword>
+<keyword>real-time application</keyword>
+<keyword>frequency distribution</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Frequency Monitoring Network (FNET) is an Internet-based, wide-area phasor measurement system that collects power system data using Frequency Disturbance Recorders (FDRs) that are installed at the distribution level. The FNET data center enables the monitoring of bulk power systems, and provides wide-area situational awareness and disturbance analysis for understanding power system disturbances and system operations. Therefore, the data center plays a very critical role in the entire FNET system framework.&lt;/p&gt;
+&lt;p&gt;In recent years, many potential challenges brought by the rapid expansion of the FNET system have underlined the importance of designing the next-generation FNET data center. More discussions about the motivation and guidelines to design the next-generation FNET data center will be presented in Chapter 2, along with a brief introduction of the new infrastructure composing of multiple data storage and application layers. A distributed alarming agent that communicates between real-time applications and near-real-time applications is discussed in detail. Chapter 3 proposes the data storage solutions for FNET time-series measurement data, configuration data and analysis records. Chapter 4 addresses the challenges of the real-time application development. The algorithm, configuration parameters and data processing procedures of the real-time event detection, oscillation detection, and islanding detection are presented in detail. Chapter 5 introduces the implementation of the FNET map-based web display using the measurement data feed provided by the openHistorian data publisher service.&lt;/p&gt;
+&lt;p&gt;Besides contributing to the situation awareness applications, the researches presented here explore novel data analysis perspectives to investigate power grids’ behavior. Chapter 6 introduces a frequency distribution probability calculation method, applies this method to frequency measurement data from 2005-2013 collected by the FNET system, investigates the distribution probability of frequency data over North American and also worldwide power grids, and compares the distribution patterns during different years, seasons, days of a week and periods of a day. Chapter 7 presents a solution method to produce replay videos based on FDRs’ normalized voltage magnitude data and investigates the voltage magnitude pattern changes over the Eastern Interconnection (EI) during events and days by using historical FNET measurement data.&lt;/p&gt;
+&lt;p&gt;Conclusions and possible future research topics are given in Chapter 8.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3208</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4290&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3208</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4290</articleid>
+<submission-date>2014-08-06T07:35:12-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5905237</context-key>
+<submission-path>utk_graddiss/3208</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Cao, Judy Day, Wei Gao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>System-on-Package Low-Power Telemetry and Signal Conditioning unit for Biomedical Applications</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Haider</lname>
+<fname>Mohammad</fname>
+<mname>Rafiqul</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Recent advancements in healthcare monitoring equipments and wireless communication technologies have led to the integration of specialized medical technology with the pervasive wireless networks. Intensive research has been focused on the development of medical wireless networks (MWN) for telemedicine and smart home care services. Wireless technology also shows potential promises in surgical applications. Unlike conventional surgery, an expert surgeon can perform the surgery from a remote location using robot manipulators and monitor the status of the real surgery through wireless communication link. To provide this service each surgical tool must be facilitated with smart electronics to accrue data and transmit the data successfully to the monitoring unit through wireless network.&lt;/p&gt;
+&lt;p&gt;To avoid unwieldy wires between the smart surgical tool and monitoring units and to reap the benefit of excellent features of wireless technology, each smart surgical tool must incorporate a low-power wireless transmitter. Low-power transmitter with high efficiency is essential for short range wireless communication. Unlike conventional transmitters used for cellular communication, injection-locked transmitter shows greater promises in short range wireless communication. The core block of an injection-locked transmitter is an injection-locked oscillator. Therefore, this research work is directed towards the development of a low-voltage low-power injection-locked oscillator which will facilitate the development of a low-power injection-locked transmitter for MWN applications.&lt;/p&gt;
+&lt;p&gt;Structure of oscillator and types of injection are two crucial design criteria for low-power injection-locked oscillator design. Compared to other injection structures, body-level injection offers low-voltage and low-power operation. Again, conventional NMOS/PMOS-only cross-coupled LC oscillator can work with low supply voltage but the power consumption is relatively high. To overcome this problem, a self-cascode LC oscillator structure has been used which provides both low-voltage and low-power operation. Body terminal coupling is used with this structure to achieve injection-locking. Simulation results show that the self-cascode structure consumes much less power compared to that of the conventional structure for the same output swing while exhibiting better phase noise performance. Usage of PMOS devices and body bias control not only reduces the flicker noise and power consumption but also eliminates the requirements of expensive fabrication process for body terminal access.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/544</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1611&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>544</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1611</articleid>
+<submission-date>2010-02-22T11:12:57-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1161972</context-key>
+<submission-path>utk_graddiss/544</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam, Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Ethan D. Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/HaiderMohammadRafiqul.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

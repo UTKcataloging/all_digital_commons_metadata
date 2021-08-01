@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Circle Packing as a Space Decomposition Method for Robot Path Planning and Coverage</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amessing@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Messing</lname>
+<fname>Andrew</fname>
+<mname>Kenneth</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Robot</keyword>
+<keyword>Path Planning</keyword>
+<keyword>Coverage</keyword>
+<keyword>Circle Packing</keyword>
+</keywords>
+<abstract>&lt;p&gt;One of the most important tasks for an autonomous robot is figuring out how to move from its current position and orientation to a new position and orientation. Despite significant progress in this area, active research is constantly looking for better ways to plan paths and traverse them. A specific type of path planning called coverage creates a path so that when the robot traverses the path its footprint covers the entire space. Most classical path planning and coverage path planning algorithms have some form of decomposition method for the target space. This work aims to provide a general way to decompose and represent the space so that it can be used both for classical path planning and for coverage. This work accomplishes the aim through using circle packing to tile a space with tangent circles that are the same size as the robot that will traverse the path. These circles are then converted into a planar graph which can be used for path planning and for coverage. The representation created by this decomposition uses less memory than traditional decomposition methods in practice and allows for shorter paths with less curvature to be created in most situations. These statements are shown to hold true for both planning a path between two points in an environment and planning a path to cover the entire environment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5039</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6446&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5039</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6446</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414713</context-key>
+<submission-path>utk_gradthes/5039</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Charles Cao, Hairong Qi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-0874-0690</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

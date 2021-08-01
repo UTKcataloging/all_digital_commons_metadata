@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Comparison of Verbalized Feedback in Human to Computer Interfacing Versus Human to Human Interaction</title>
+<publication-date>2019-02-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kfranci6@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Francis</lname>
+<fname>Kea</fname>
+</author>
+</authors>
+<disciplines><discipline>Other Mechanical Engineering</discipline>
+<discipline>Robotics</discipline>
+<discipline>Therapeutics</discipline>
+</disciplines><abstract>&lt;p&gt;The project evaluates response to social robots for purposeful tasks. The study uses a social robot, Rapiro, along with a smartphone that serves as a visual interface for the robot system. My role was to design a program on a Raspberry Pi that allows simultaneous control of Rapiro’s actions and a response from a phone application. The phone app is downloaded to an Android phone and designed using MIT App Inventor software. This allows pre-programmed and real-time control of the robot. The user inputs what they want the robot to say through the terminal of the Raspberry Pi. Through serial communication the command is received by the phone and the app outputs the desired message.&lt;/p&gt;
+&lt;p&gt;The experiment’s objective is to observe whether human to human interaction differs from human to machine interaction. The subject will attempt to hit an unseen target distance using a roller ball. For one set of experiments the subject will receive feedback from the experimenter. In another set, feedback will be provided by Rapiro. In both cases, the information will be identical. The results of this study will benefit our understanding of how humans respond to information depending on the delivery mechanism.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_eureca/2019/engineering/8</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1264&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1264</articleid>
+<submission-date>2019-04-18T07:40:14-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>14294430</context-key>
+<submission-path>utk_eureca/2019/engineering/8</submission-path>
+<fields>
+<field name="college" type="string">
+<value>Tickle College of Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical, Aerospace, Biomedical Engineering Department</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Eric Wade</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-02-01T00:00:00-08:00</value>
+</field>
+<field name="year" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

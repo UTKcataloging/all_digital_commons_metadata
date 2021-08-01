@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling and Design of a Low-Level RF Control System for the Accumulator Ring at Spallation Neutron Source</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mtrout1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Trout</lname>
+<fname>Michael</fname>
+<mname>G.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Control Systems</keyword>
+<keyword>RF</keyword>
+<keyword>FPGA</keyword>
+<keyword>Spallation Neutron Source</keyword>
+<keyword>ORNL</keyword>
+<keyword>State-Space</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+</disciplines><abstract>&lt;p&gt;Since its commissioning in 2006, Spallation Neutron Source (SNS) at Oak Ridge National Laboratory has greatly contributed to the field of neutron science, but some critical systems are reaching end-of-life. This obsolescence must be addressed for the accelerator to continue providing world-class research capabilities. One such system needing redesign is the low-level RF (LLRF) control system for the proton accumulator ring. While this system has performed acceptably for over a decade, it is sparsely documented and robust operational models are unavailable. To ensure the new design meets or exceeds current performance metrics, we analyzed the existing LLRF control system and designed a system-accurate controller model. This model included a state-space representation of the RF accelerator cavity dynamics. Both the controller and cavity models are combined to provide complete, functional simulation capabilities for the SNS accumulator ring LLRF control system. We then realized the modeled controller in an FPGA using VHDL cores which were subsequently used to successfully regulate the accumulator ring. The designed controller was functional at repetition rates up to 160 Hz while system specifications only require 60 Hz operation. The designed controller achieved 1 MW beam-on-target operation at 60 Hz repetition rate and a fundamental frequency of approximately 1 MHz.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4907</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6213&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4907</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6213</articleid>
+<submission-date>2017-06-15T14:03:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10310944</context-key>
+<submission-path>utk_gradthes/4907</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donatello Materassi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Sarah M. Cousineau, Seddik M. Djouadi, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

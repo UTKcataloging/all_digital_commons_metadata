@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Root Stage Distributions and their Importance in Plant-Soil Feedback Models</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tpoppenw@vols.utk.edu</email>
+<institution>The University of Tennessee</institution>
+<lname>Poppenwimer</lname>
+<fname>Tyler</fname>
+</author>
+</authors>
+<keywords>
+<keyword>plant-soil feedback</keyword>
+<keyword>soil microbes</keyword>
+<keyword>demographic model</keyword>
+<keyword>theoretical ecology</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Other Applied Mathematics</discipline>
+<discipline>Other Ecology and Evolutionary Biology</discipline>
+<discipline>Other Plant Sciences</discipline>
+<discipline>Population Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Roots are fundamental to PSFs, being a key mediator of these feedbacks by interacting with and affecting the soil environment and soil microbial communities. However, most PSF models aggregate roots into a homogeneous component or only implicitly simulate roots via functions. Roots are not homogeneous and root traits (nutrient and water uptake, turnover rate, respiration rate, mycorrhizal colonization, etc.) vary with age, branch order, and diameter. Trait differences among a plant’s roots lead to variation in root function and roots can be disaggregated according to their function. The impact on plant growth and resource cycling of changes in the distribution of roots in different functional stages is poorly understood largely due to the difficulty of manipulating below-ground processes experimentally. An unresolved question is whether the findings of many PSF models arise due to their simplifying assumptions about plant root structure.&lt;/p&gt;
+&lt;p&gt;This dissertation assesses the impact of root heterogeneity on simulated whole-plant growth and determines the effects of plant allocation strategy, resource availability, and soil microbial community interactions on the spatio-temporal behavior of root stage distributions of simulated plants. An additional objective is to determine the importance of root heterogeneity within PSFs and assess whether PSF model assumptions about roots bias the resulting implications on plant growth.&lt;/p&gt;
+&lt;p&gt;To investigate these objectives, a model is developed to simulate growth of a single perennial woody plant and incorporates explicit root structure and function. A model plant is disaggregated into above-ground photosynthetic capable biomass (ABG) and below-ground resource acquiring biomass (roots), with roots having distinct consecutive stages and associated costs and benefits. Growth and ageing feedbacks are incorporated whereby roots acquire soil resources, which are used by ABG biomass to produce photosynthate, which is allocated to maintenance and production of biomass. This framework is used for three successive models with increasing levels of complexity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6179</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7423&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6179</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7423</articleid>
+<submission-date>2020-09-30T13:03:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19620993</context-key>
+<submission-path>utk_graddiss/6179</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Louis J. Gross</value>
+</field>
+<field name="advisor2" type="string">
+<value>Joe Bailey, Colleen Iversen, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Ecology and Evolutionary Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of an Object-Oriented Space-Time GIS Data Model</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zzhao7@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhao</lname>
+<fname>Ziliang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>space-time GIS</keyword>
+<keyword>GIS data model</keyword>
+</keywords>
+<disciplines><discipline>Geographic Information Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Geographic data are closely related to both spatial and temporal domains. Geographic information systems (GIS) can capture, manage, analyze, and display spatial data. However, they are not suitable for handling temporal data. Rapid developments of data collection and location-aware technologies stimulate the interests of obtaining useful information from the historical data. Researchers have been working to build various spatio-temporal data models to support spatio-temporal query. Nevertheless, the existing models exhibit weaknesses in various aspects. For instance, the snapshot model is plagued with data redundancy and the event-based spatio-temporal data model (ESTDM) is limited to raster dataset. This study reviews existing spatio-temporal data models in order to design an object-oriented space-time GIS data model that makes additional contributions to processing spatio-temporal data. A binary large object (BLOB) data type, labeled Space-Time BLOB, is added to ArcGIS geodatabase data model to store instantiated space-time objects. A Space-Time BLOB is associated with an array that contains the spatial and temporal information for an object at different time points and time intervals. This study also implements a space-time GIS prototype system, along with a set of spatio-temporal query functions, based on the proposed space-time GIS data model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1043</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2060&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1043</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2060</articleid>
+<submission-date>2011-05-23T11:21:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2025222</context-key>
+<submission-path>utk_gradthes/1043</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce Ralston, Liem Tran</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

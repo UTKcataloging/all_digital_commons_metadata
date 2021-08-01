@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effect of Distributed Generation on Distribution System Reliability</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sabir</lname>
+<fname>Nura</fname>
+<mname>Nubee</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Electricity produced and delivered to customers constitutes one of the largest consumer markets in the world. As a nation we have become so dependent that most daily functions would be suspended if there were any interruption in power generation, transmission and distribution. Historically there has been a great deal of effort put into modeling and improving the reliability of the generation and transmission systems. However, when compared to the generation and transmission systems, considerable less resources has been placed on the details of making the distribution system more reliable. Majority of all interruptions experienced by the customer in a given year are due to the distribution system. In addition, since the penetration of distributed generation is projected to increase to at least 20% of peak load by 2020, the inclusion of distributed generation in distribution system reliability assessment is highly desired.&lt;/p&gt;
+&lt;p&gt;This research seeks to model the impact of distributed generation to distribution system reliability. Since utility-connected distributed generation is typically installed close to the consumers, it can reduce the current at the main feeder. Consequently, it increases the chance that a stressed feeder can be reconfigured under a fault at a neighboring feeder. As a comparison, it may be impossible to reconfigure feeder connection because reconfiguration will lead to line overflow without distributed generators to supply part of the load.&lt;/p&gt;
+&lt;p&gt;The reliability assessment in this work is carried out with analytical approach and sequential Monte Carlo simulation. The analytical approach presents the reliability measures like SAIFI and SAIDI during the course of an average year. Hence, the mean values of SAIFI and SAIDI for distribution systems with or without distributed generation are obtained. However, sequential Monte Carlo simulation can give the probabilistic distribution of SAIFI and SAIDI based on a large sample of random failures of system components. Test results from a system modified from the IEEE 34-bus system will be presented based on the analytical approach and the Monte Carlo simulation. It is shown that installation of distributed generators can improve the distribution system reliability considerably&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/489</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1525&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>489</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1525</articleid>
+<submission-date>2010-02-22T09:38:14-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1161331</context-key>
+<submission-path>utk_gradthes/489</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Kevin Tomsovic</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/SabirNuraNubee.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

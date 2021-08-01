@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling Stress Distribution within Structural Materials Through Multi-Resolution Discontinuous Galerkin Method</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eligeut@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Geut</lname>
+<fname>Elina</fname>
+</author>
+</authors>
+<keywords>
+<keyword>VMS</keyword>
+<keyword>MRDG</keyword>
+<keyword>DG</keyword>
+<keyword>Taylor</keyword>
+<keyword>Sachs</keyword>
+</keywords>
+<abstract>&lt;p&gt;A Multi-Resolution Discontinuous Galerkin (MRDG) method for linear elasticity is developed to understand how the remotely applied loading is redistributed within the microstructure of materials. Recent studies supported by in-situ experiments have shown that the stresses between the microstructural regions called grains do not directly correlate to lattice orientations and directions of the loading applied at the bulk. The primary goal of the research targets understanding of grain interactions, called the Neighborhood Effect (NE). Existing Variational Multi-Scale (VMS) methods are not incorporated into a study of those distributions because the NE in elastic materials has not been effectively qualified. Hence, the traditional multiscale methods are forced to impose various restricting assumptions on the essential conditions of continuum mechanics: equilibrium and compatibility. The novelty of the proposed MRDG method lies in the implementation of ideas from VMS methods into existing Discontinuous Galerkin (DG) approach. Thus, providing a robust mechanism to treat discontinuities in displacement and traction fields along grain boundaries (GB) with the ability to distinguish the effects of equilibrium and compatibility in a unified manner. Rigorous derivation accommodates the decomposition of scales such that fine scale contributions are imposed onto the coarse scale solution through displacement jumps and stress fluxes, which leads to fulfillment of the key idea: the ability to identify and consider the neighborhood effects. In this study we consider a small material region called a representative volume element from here on referred to as RVE. The RVE is a set of microstructural, textural, and constitutive properties of a material with a clear presence of NE. The thesis work mainly focuses on RVEs with two-dimensional square domain that has submillimeter dimensions and is loaded by the average macro strain . Various material phases and microstructures are considered, and the numerically obtained results are compared across various methods. The success of the method will provide the meaning to the stress and strain fluctuations with a relatively low cost to high fidelity ratio, which are the key contribution of the research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5633</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7167&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5633</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7167</articleid>
+<submission-date>2020-12-11T13:30:06-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20540211</context-key>
+<submission-path>utk_gradthes/5633</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy Truster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicholas Wierschem, Mark Denavit</value>
+</field>
+<field name="comments" type="string">
+<value>NSF funded project</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

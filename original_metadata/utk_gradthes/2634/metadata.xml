@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Novel Approach to Multiphysics Modeling of Heat and Mass Transfer in Porous Media</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>spember3@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pemberton</lname>
+<fname>Seth</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<keywords>
+<keyword>heat and mass transfer</keyword>
+<keyword>porous media</keyword>
+</keywords>
+<disciplines><discipline>Heat Transfer, Combustion</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis aims to investigate conjugate heat and mass transfer in porous media with an emphasis on textiles. Both hygroscopic materials, those that absorb water vapor, and non-hygroscopic materials are examined. A model was developed that utilizes COMSOL’s equation-based partial differential equation (PDE) interface which allows the user to input any equation(s) to be solved. By the use of experimental and numerical data each part of the model, i.e. flow field, gas diffusion, convection and vapor absorption, is verified. The accuracy of the equation-based unsteady flow field is verified by modeling the flow over a circular cylinder and extracting the lift and pressure coefficients. Gaseous diffusion in a porous medium (PM) is shown to agree with volume averaging theory. Steady state convection and diffusion is modeled and reveals the importance of mass diffusion in PM as well as how changes in material permeability, due to water vapor absorption, affect heat and mass transfer. Water vapor absorption yields a dynamic response under transient conditions, which results in significant temperature changes depending on textile fiber properties.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2634</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3836&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2634</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3836</articleid>
+<submission-date>2013-10-24T10:01:22-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3836/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4760987</context-key>
+<submission-path>utk_gradthes/2634</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici, Rao V. Arimilli</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay I. Frankel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

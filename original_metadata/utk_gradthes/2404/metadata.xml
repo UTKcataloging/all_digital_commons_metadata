@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Secure Reconfigurable System-On-Programmable-Chip Computer System</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wcollin4@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Collins</lname>
+<fname>William</fname>
+<mname>Herbert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>secure embedded reconfigurable trusted cryptology FPGA</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Hardware Systems</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;A System-on-Programmable-Chip (SoPC) architecture is designed to meet two goals: to provide a role-based secure computing environment and to allow for user reconfiguration. To accomplish this, a secure root of trust is derived from a fixed architectural subsystem, known as the Security Controller. It additionally provides a dynamically configurable single point of access between applications developed by users and the objects those applications use. The platform provides a model for secrecy such that physical recovery of any one component in isolation does not compromise the system. Dual-factor authentication is used to verify users. A model is also provided for tamper reaction. Secure boot, encrypted instruction, data, and Field Programmable Gate Array (FPGA) configuration are also explored.&lt;/p&gt;
+&lt;p&gt;The system hardware is realized using Altera Avalon SoPC with a NIOS II processor and custom hardware acting as the Security Controller and a second NIOS II acting as the subject application configuration. A DE2 development kit from Altera hosting a Cyclone II FPGA is used along with a Secure Digital (SD) card and a custom printed circuit board (PCB) containing a second Cyclone II to demonstrate the system.&lt;/p&gt;
+&lt;p&gt;User applications were successfully run on the system which demonstrated the secure boot process, system tamper reaction, dynamic role-based access to the security objects, dual-factor authentication, and the execution of encrypted code by the subject processor. Simulations provided detailed examinations of the system execution. Actual tests were conducted on the physical hardware successfully.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2404</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2874&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2404</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2874</articleid>
+<submission-date>2013-06-20T21:26:23-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4249099</context-key>
+<submission-path>utk_gradthes/2404</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Islam, Nathanael Paul</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

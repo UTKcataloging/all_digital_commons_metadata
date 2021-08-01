@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Artificial Neural Network for Spectrum unfolding Bonner Sphere Data</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hou</lname>
+<fname>Jia</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The use of Bonner Sphere Spectrometer (BSS) is a well-established method of measuring the energy distribution of neutron emission sources. The purpose of this research is to apply the Generalized Regression Neural Network (GRNN), a kind of Artificial Neural Network (ANN), to predict the neutron spectrum using the count rate data from a BSS. The BSS system was simulated with the MCNP5 Monte-Carlo code to calculate the response to neutrons of different energies for each combination of thermal neutron detector and polyethylene sphere. One hundred and sixty-three different types of neutron spectra were then investigated. GRNN Training and testing was carried out in the MATLAB environment. In the GRNN testing, eight-one predicted spectra were obtained as outputs of the GRNN. Comparison with standard spectra shows that 97.5% of the prediction errors were controlled below 1%, indicating ANN could be used as an alternative with high accuracy in neutron spectrum unfolding methodologies. Advantages and further improvements of this technique are also discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/143</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1175&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>143</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1175</articleid>
+<submission-date>2010-02-09T11:34:33-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1137742</context-key>
+<submission-path>utk_gradthes/143</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald E. Pevey, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/HouJia.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data for Broad Host Susceptibility of North American Amphibian Species to Batrachochytrium Salamandrivoran</title>
+<publication-date>2016-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Gray</lname>
+<fname>Matthew</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Wildlife Disease</keyword>
+<keyword>Batrachochytrium salamandrivorans</keyword>
+<keyword>Fungal Pathogen</keyword>
+<keyword>Emerging Infectious Disease</keyword>
+</keywords>
+<abstract>&lt;p&gt;Batrachochytrium salamandrivorans (Bsal) is a fungal pathogen of amphibians that is emerging in Europe and could be introduced to North America through international trade or other pathways. To evaluate the risk of Bsal invasion to amphibian biodiversity, we performed dose-response experiments on 36 North American species from 10 families, including larvae from six species. We discovered that Bsal caused infection in 72% and mortality in 36% of species tested. Both salamanders and frogs became infected and developed Bsal chytridiomycosis. In the United States, predicted biodiversity loss is expected to be greatest in the Appalachian Region and along the West Coast. Indices of infection and disease susceptibility suggest that North American amphibian species span a spectrum of vulnerability to Bsal chytridiomycosis and most amphibian communities will include carrier, amplification, and high-risk species. Given the high diversity and abundance of salamanders in North America, we recommend a trilateral agreement among the United States, Canada, and Mexico to prevent introduction of Bsal and substantial biodiversity loss.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_datasets/28</coverpage-url>
+<label>28</label>
+<document-type>data</document-type>
+<type>article</type>
+<articleid>1027</articleid>
+<submission-date>2021-04-20T09:54:58-07:00</submission-date>
+<publication-title>Data Sets</publication-title>
+<context-key>22572532</context-key>
+<submission-path>utk_datasets/28</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;19 objects comprise this data set:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2361&quot;&gt;README&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2362&quot;&gt;Kcalc_phylosignal.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2363&quot;&gt;Species_Names.nwk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2364&quot;&gt;Kcalc_Table.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2365&quot;&gt;Nature_Survival_Figure.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2366&quot;&gt;AllSpeciesSurvival.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2367&quot;&gt;GIS_Code.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2368&quot;&gt;SalamanderSpecies.nwk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2369&quot;&gt;Nature_Paper_Infection_Mortality_Perc.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2370&quot;&gt;CombinedData.xls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2371&quot;&gt;GIS_Data_Creation.xlsx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2372&quot;&gt;BsalRiskData.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2373&quot;&gt;SalamanderRiskMod_GIS_Dataframe.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2374&quot;&gt;ID50_LD50_Estimation.R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2375&quot;&gt;Mort_Inf_NATURE_ID50_LD50.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2376&quot;&gt;ID50_LD50_Ordination_Data.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2377&quot;&gt;Species_qPCR_NATURE.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2378&quot;&gt;MexicoSp_Bd_Swabs.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2379&quot;&gt;Bsal_Load_Coinfection_Analyses.r&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Gray, Matthew J.; Carter, E. Davis; Cusaac, J. Patrick W.; Peterson, Anna C.; Whetstone, Ross D.; Hertz, Andreas; Muniz-Torres, Anura Y.; Bletz, Molly C.; Woodhams, Douglas C.; Piovia-Scott, Jonah; Romansic, John M.; Olea, Gabriela Parra; Hardman, Rebecca H.; Sutton, William B.; and McCusker, Catherine D. (2021) &quot;Data for Broad host susceptibility of North American amphibian species to Batrachochytrium salamandrivorans suggests high invasion potential and extinction risk.&quot; TRACE Data Sets. https://doi.org/10.7290/pJ8IWH7DuE</value>
+</field>
+<field name="doi" type="string">
+<value>https://doi.org/10.7290/pJ8IWH7DuE</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>https://trace.utk.edu/islandora/object/utk.ir.fg%3A2360</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Reactor Physics Analysis Procedure for the Plank-Based and Liquid Salt-Cooled Advanced High Temperature Reactor</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>Cole-Gentry@utc.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gentry</lname>
+<fname>Cole</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>FHR</keyword>
+<keyword>AHTR</keyword>
+<keyword>MSR</keyword>
+<keyword>Two-Step</keyword>
+<keyword>TRISO</keyword>
+<keyword>Diffusion</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Presented in this dissertation is the investigation and development of an adapted lattice physics-to-core simulator two-step procedure based on the SERPENT 2 and NESTLE neutronics codes for the rapid analysis of the Advanced High Temperature Reactor (AHTR). AHTR specific characteristics, such as its longer neutron diffusion length and double heterogeneity of TRISO fuel particles, were taken into consideration when adapting the traditional Light Water Reactor (LWR) lattice to nodal diffusion procedure to AHTR applications. The coarse energy group structure was re-optimized from the traditional LWR 2-group structure to an alternative 4-group structures to address the AHTR specific flux spectrum and neutronics characteristics. A more accurate treatment of the interface between fuel and reflector was implemented using simplified 1-D models along with the application of an Equivalence Theory based Assembly Discontinuity Factor (ADF) adjustment of the resultant few group constants. A similar ADF adjustment was also applied to treat the insertion of control blades to properly account for inter-assembly leakage. The developed two-step procedure was tested against multiple transport based high fidelity reference benchmark models and was deemed to provide reasonably accurate results, with the exception of some peripheral radial power discrepancies which have been attributed to the inadequacy of the 1-D radial reflector model to capture a 1/3 symmetric and cyclic power tilt unique to the AHTR fuel assembly design and core layout. For 2-D and 3-D full core models, eigenvalue agreement was within 130 pcm and power distribution errors within 3.5% Root Mean Squared (RMS) error. The final implementation of this two-step procedure was used to perform a representative neutronic and thermal hydraulic coupled simulation which demonstrated the ability of the developed procedure to perform 3-D full core neutronics calculations with coupling to thermal hydraulic feedback in an extremely expedient manner. This work paves the way to ultimately performing fuel cycle, core / assembly design, and safety margin assessments for the AHTR. Additionally, this procedure greatly reduces the computational expense of performing such simulations and opens the door toward AHTR design optimization.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3695</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4995&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3695</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4995</articleid>
+<submission-date>2015-10-06T06:32:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7681427</context-key>
+<submission-path>utk_graddiss/3695</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jess C. Gehin, Ronald E. Pevey, Robert Grzywacz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

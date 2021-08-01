@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of Power Receiving Units for 6.78MHz Wireless Power Transfer Systems</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ppham3@vols.utk.edu</email>
+<lname>Pham</lname>
+<fname>Hoang Phuc</fname>
+<mname>Tran</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Wireless Power Transfer</keyword>
+<keyword>Frequency Synchronous Active Rectifier</keyword>
+<keyword>Wireless Power Receive Unit</keyword>
+<keyword>6.78 MHz</keyword>
+<keyword>Discrete-time State-space Modeling</keyword>
+<keyword>Phase-locked-loop</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;In the last decade, the wireless power transfer (WPT) technology has been a popular topic in power electronics research and increasingly adopted by consumers. The AirFuel WPT standard utilizes resonant coils to transfer energy at 6.78 MHz, introducing many benefits such as longer charging distance, multi-device charging, and high tolerance of the coil misalignment. However, variations in coil coupling due to the change in receiving coil positions alter the equivalent load reactance, degrading efficiency.&lt;/p&gt;
+&lt;p&gt;In recent studies, active full-bridge rectifiers are employed on WPT receivers because of their superior efficiency, controllability, and ability to compensate for detuned WPT networks. In order to take advantage of those characteristics, the rectifier switching actions must be synchronized with the magnetic field. In the literature, existing solutions for synchronizing the active rectifier in WPT systems are mostly not reliable and bulky, which is not suitable for small receivers. Therefore, a frequency synchronous rectifier with compact on-board control is proposed in this thesis. The rectifier power stage is designed to deliver 40 W to the load while achieving full zero-voltage switching to minimize the loss. The inherent feedback from the power stage dynamics to the sensed signal is analyzed to design stable and robust synchronization control, even at a low power of 0.02 W. The control system is accomplished using commercial components, including a low-cost microcontroller, which eliminates the need for bulky control and external sensing hardware. This high power density design allows the receiver to be integrated into daily consumer electronics such as laptops and monitors. Finally, a wide-range and high v resolution control scheme of the rectifier input phase is proposed to enable the dynamic impedance matching capability, maintaining high system efficiency over wide loading conditions.&lt;/p&gt;
+&lt;p&gt;In addition, to increase the WPT technology adoption to low-power consumer electronics, a small wireless receiver replacing conventional AA batteries is developed. This receiver can supply power to existing AA battery-powered devices while providing the benefit of WPT technologies to consumers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5852</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6919&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5852</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6919</articleid>
+<submission-date>2020-06-05T21:04:50-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>17999989</context-key>
+<submission-path>utk_gradthes/5852</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel Costinett, Leon Tolbert, Bai Hua</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

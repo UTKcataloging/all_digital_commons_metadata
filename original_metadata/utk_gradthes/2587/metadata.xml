@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Methodology for Acoustic Measurement and Separation of Background Noise</title>
+<publication-date>1998-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Radhakrishnan</lname>
+<fname>Sekhar</fname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An attempt is made at developing experimental methods for the acoustic measurement and separation of background noise in a wind tunnel. To this end, an array beamforming technique known as delay-and- sum beamforming is identified and tested.&lt;/p&gt;
+&lt;p&gt;The theory underlying delay-and-sum beamforming is discussed. Two linear arrays, the seven microphone linear array and the four microphone minimum redundancy array, are designed. A driver is designed based on Helmholtz resonator theory to provide a source of monochromatic sound. Also, the concept of partial coherence as applicable to the separation of background noise from signal noise is investigated.&lt;/p&gt;
+&lt;p&gt;Array beamforming results show that tests conducted with the two linear arrays in the open field provide good resolution of the sound source Direction Of Arrival (DOA) peaks from the background noise, and provide a semianechoic reference with which to compare wind tunnel results. Beamforming results obtained for the driver placed inside the wind tunnel with the tunnel running at 0, 45, and 81 ft/sec successfully resolved the DOA peaks of the driver from the background noise of the tunnel. At a tunnel velocity of 151 ft/sec, the driver signal is completely buried in the background noise of the tunnel, and beamforming was not successful in resolving the peak corresponding to the driver signal.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2587</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3909&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2587</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3909</articleid>
+<submission-date>2014-01-07T11:45:13-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4965959</context-key>
+<submission-path>utk_gradthes/2587</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ahmad D. Vakili</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Merkle, Ching-Fang Lo</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1998-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1998-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transcriptomic Data Analysis Using Graph-Based Out-of-Core Methods</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>grogers3@utk.edu</email>
+<lname>Rogers</lname>
+<fname>Gary L</fname>
+</author>
+</authors>
+<keywords>
+<keyword>high-throughput microarray</keyword>
+<keyword>out-of-core</keyword>
+<keyword>clique-centric</keyword>
+<keyword>graph theory</keyword>
+</keywords>
+<disciplines><discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Biological data derived from high-throughput microarrays can be transformed into finite, simple, undirected graphs and analyzed using tools first introduced by the Langston Lab at the University of Tennessee. Transforming raw data can be broken down into three main tasks: data normalization, generation of similarity metrics, and threshold selection. The choice of methods used in each of these steps effect the final outcome of the graph, with respect to size, density, and structure. A number of different algorithms are examined and analyzed to illustrate the magnitude of the effects.&lt;/p&gt;
+&lt;p&gt;Graph-based tools are then used to extract putative gene networks. These tools are loosely based on the concept of clique, which generates clusters optimized for density. Innovative additions to the paraclique algorithm, developed at the Langston Lab, are introduced to generate results that have highest average correlation or highest density. A new suite of algorithms is then presented that exploits the use of a priori gene interactions. Aptly named the anchored analysis toolkit, these algorithms use known interactions as anchor points for generating subgraphs, which are then analyzed for their graph structure. This results in clusters that might have otherwise been lost in noise.&lt;/p&gt;
+&lt;p&gt;A main product of this thesis is a novel collection of algorithms to generate exact solutions to the maximum clique problem for graphs that are too large to fit within core memory. No other algorithms are currently known that produce exact solutions to this problem for extremely large graphs. A combination of in-core and out-of-core techniques is used in conjunction with a distributed-memory programming model. These algorithms take into consideration such pitfalls as external disk I/O and hardware failure and recovery.&lt;/p&gt;
+&lt;p&gt;Finally, a web-based tool is described that provides researchers access the aforementioned algorithms. The Graph Algorithms Pipeline for Pathway Analysis tool, GrAPPA, was previously developed by the Langston Lab and provides the software needed to take raw microarray data as input and preprocess, analyze, and post-process it in a single package. GrAPPA also provides access to high-performance computing resources, via the TeraGrid.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1122</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2103&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1122</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2103</articleid>
+<submission-date>2011-03-17T12:31:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1883816</context-key>
+<submission-path>utk_graddiss/1122</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Jian Huang, Arnold Saxton, Brynn H. Voy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

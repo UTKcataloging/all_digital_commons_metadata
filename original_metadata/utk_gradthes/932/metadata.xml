@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>GPU-based Implementation of the Variational Path Integral Method</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>smudhasa@utk.edu</email>
+<lname>Mudhasani</lname>
+<fname>Shanthan</fname>
+</author>
+</authors>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Any system in the world constitutes particles like electrons. To analyze the behaviors of these systems the behavior of these particles must be predicted. The ground state energy of a molecule is the most important information about a molecule and can calculate by solving the Schrodinger equation. But as the number of atoms increase, the number of variable (coordinates of the atom) that the equation represent increases by three times. Due to the large state space and the nonlinear nature of the Schrodinger equation, it is very difficult to solver this equation. Quantum Monte Carlo (QMC) is a very efficient method to solve the Schrodinger equation for accurate results. This methods uses random numbers to sample the complex equation and get very accurate results. Due to the large data involved in this method, it exhibits rich amount of data parallelism. Variational path integral (VPI) simulations are a class of QMC methods that permit direct computation of expectation values of coordinate-space observables for the nodeless ground states of many-body quantum systems. High degree of data parallelism involved in this method facilitates the use of Graphical Processing Units (GPUs), a powerful type of processor well known to computer gamers. In comparison to the other parallel systems, like CPU clusters, GPU hardware can be much faster and is significantly cheaper. The goal of this thesis is to implement the VPI simulation algorithm on GPU to compute the coordinate-space observables of a Neon cluster.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/932</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1939&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>932</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1939</articleid>
+<submission-date>2011-01-06T12:54:52-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1720230</context-key>
+<submission-path>utk_gradthes/932</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Hinde, Judy Day</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

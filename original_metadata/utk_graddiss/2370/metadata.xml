@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analytical Modeling of High Performance Reconfigurable Computers: Prediction and Analysis of System Performance.</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Smith</lname>
+<fname>Melissa</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The use of a network of shared, heterogeneous workstations each harboring a Reconfigurable Computing (RC) system offers high performance users an inexpensive platform for a wide range of computationally demanding problems. However, effectively using the full potential of these systems can be challenging without the knowledge of the system’s performance characteristics. While some performance models exist for shared, heterogeneous workstations, none thus far account for the addition of Reconfigurable Computing systems. This dissertation develops and validates an analytic performance modeling methodology for a class of fork-join algorithms executing on a High Performance Reconfigurable Computing (HPRC) platform. The model includes the effects of the reconfigurable device, application load imbalance, background user load, basic message passing communication, and processor heterogeneity. Three fork-join class of applications, a Boolean Satisfiability Solver, a Matrix-Vector Multiplication algorithm, and an Advanced Encryption Standard algorithm are used to validate the model with homogeneous and simulated heterogeneous workstations. A synthetic load is used to validate the model under various loading conditions including simulating heterogeneity by making some workstations appear slower than others by the use of background loading. The performance modeling methodology proves to be accurate in characterizing the effects of reconfigurable devices, application load imbalance, background user load and heterogeneity for applications running on shared, homogeneous and heterogeneous HPRC resources. The model error in all cases was found to be less than five percent for application runtimes greater than thirty seconds and less than fifteen percent for runtimes less than thirty seconds. The performance modeling methodology enables us to characterize applications running on shared HPRC resources. Cost functions are used to impose system usage policies and the results of vii the modeling methodology are utilized to find the optimal (or near-optimal) set of workstations to use for a given application. The usage policies investigated include determining the computational costs for the workstations and balancing the priority of the background user load with the parallel application. The applications studied fall within the Master-Worker paradigm and are well suited for a grid computing approach. A method for using NetSolve, a grid middleware, with the model and cost functions is introduced whereby users can produce optimal workstation sets and schedules for Master-Worker applications running on shared HPRC resources.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2370</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3736&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2370</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3736</articleid>
+<submission-date>2013-10-10T12:35:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4693572</context-key>
+<submission-path>utk_graddiss/2370</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Don W. Bouldin, Hairong Qi, Michael Langston, Lynne Parker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

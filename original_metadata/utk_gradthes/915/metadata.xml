@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>PVT Compensation for Single-Slope Measurement Systems</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ktham@utk.edu</email>
+<lname>Tham</lname>
+<fname>Kevin</fname>
+<mname>Vun Kiat</mname>
+</author>
+</authors>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;A pulse-width locked loop (PWLL) circuit is reported that compensates for process, voltage, and temperature (PVT) variations of a linear ramp generator within a 12-bit multi-channel Wilkinson (single-slope integrating) Analog-to-Digital (ADC). This PWLL was designed and fabricated in a 0.5-um Silicon Germanium (SiGe) BiCMOS process.  The PWLL architecture that is comprised of a phase detector, a charge-pump, and a pulse width modulator (PWM), is discussed along with the design details of the primary blocks. Simulation and silicon measurement data are shown that demonstrate a large improvement in the accuracy of the PVT-compensated ADC over the uncompensated ADC.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/915</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1941&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>915</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1941</articleid>
+<submission-date>2011-01-07T08:35:13-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1721040</context-key>
+<submission-path>utk_gradthes/915</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Britton, Jeremy Holleman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Use of a Computer Program “Hyper-N” to Predict the Performance of Air Vehicles Traveling at Hypersonic Speeds</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ybaalla@utsi.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baalla</lname>
+<fname>Younes</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Hypersonic Flow</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Aeronautical Vehicles</discipline>
+<discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Abstract The main objective of this thesis was to develop a method than can be used to approximate the pressure forces on air vehicles traveling at hypersonic speed (Mach number &gt; 5). The aerodynamic forces such as lift and drag were calculated from the pressure values on the surface of the airplane. Pitching moment was also tabulated.  This work was initiated based on the idea of developing a flow solver proficient and capable of providing aerodynamic data (lift and drag look-up tables) for hypersonic air vehicles that can be fed to a flight simulator (used by the Aviation Systems Department) at the University of Tennessee Space Institute. Several approximation methods are used to solve hypersonic such as shock expansion method. Based on different studies, Computational Fluid Dynamic (CFD) proved to produce very accurate results; however, it is a difficult technique to use.  In this thesis work Newtonian Method was adopted as a technique to approximate the aerodynamic forces and hence the performance of hypersonic airplanes, therefore, a computer program (Hyper-N) has been developed for aerodynamic analysis of three dimensional geometries airplane.  The program is designed to read in a previously configured list of plates and compute the aerodynamic forces and moments for hypersonic free stream conditions. Programming was completed using MatLab language. The results obtained from the Hyper-N program were for the experimental airplane X-43A which were found to match the results when the shock expansion method is used for the same airplane, [1].  Because of the difficulties involve in using CFD or the complete Navier Stocks equation to obtain the aerodynamic forces on bodies traveling at hypersonic speeds, the Newtonian method is considered to be the most efficient technique to use for preliminary evaluation of the performance of hypersonic airplanes. Modified Newtonian theory and the computational requirement of the code are described. A number of geometric configurations, including the X-43A (experimental hypersonic) airplane, are provided as examples of applications of the Hyper-N program.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/684</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1728&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>684</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1728</articleid>
+<submission-date>2010-05-28T11:28:51-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1728/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1335776</context-key>
+<submission-path>utk_gradthes/684</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Peter U. Solies</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stephen Corda, Borja Martos</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

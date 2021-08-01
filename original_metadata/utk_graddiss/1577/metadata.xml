@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization and Learning in Energy Efficient Cognitive Radio System</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kzheng1@utk.edu</email>
+<lname>Zheng</lname>
+<fname>Kun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cognitive radio</keyword>
+<keyword>optimization</keyword>
+<keyword>energy efficiency</keyword>
+<keyword>learning</keyword>
+</keywords>
+<disciplines><discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Energy efficiency and spectrum efficiency are two biggest concerns for wireless communication. The constrained power supply is always a bottleneck to the modern mobility communication system. Meanwhile, spectrum resource is extremely limited but seriously underutilized.&lt;/p&gt;
+&lt;p&gt;Cognitive radio (CR) as a promising approach could alleviate the spectrum underutilization and increase the quality of service. In contrast to traditional wireless communication systems, a distinguishing feature of cognitive radio systems is that the cognitive radios, which are typically equipped with powerful computation machinery, are capable of sensing the spectrum environment and making intelligent decisions. Moreover, the cognitive radio systems differ from traditional wireless systems that they can adapt their operating parameters, i.e. transmission power, channel, modulation according to the surrounding radio environment to explore the opportunity.&lt;/p&gt;
+&lt;p&gt;In this dissertation, the study is focused on the optimization and learning of energy efficiency in the cognitive radio system, which can be considered to better utilize both the energy and spectrum resources. Firstly, &lt;em&gt;drowsy transmission&lt;/em&gt;, which produces optimized idle period patterns and selects the best sleep mode for each idle period between two packet transmissions through joint power management and transmission power control/rate selection, is introduced to cognitive radio transmitter. Both the optimal solution by dynamic programming and flexible solution by reinforcement learning are provided. Secondly, when cognitive radio system is benefited from the theoretically infinite but unsteady harvested energy, an innovative and flexible control framework mainly based on model predictive control is designed. The solution to combat the problems, such as the inaccurate model and myopic control policy introduced by MPC, is given. Last, after study the optimization problem for point-to-point communication, multi-objective reinforcement learning is applied to the cognitive radio network, an adaptable routing algorithm is proposed and implemented. Epidemic propagation is studied to further understand the learning process in the cognitive radio network.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1577</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2719&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1577</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2719</articleid>
+<submission-date>2012-10-08T21:10:57-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3378182</context-key>
+<submission-path>utk_graddiss/1577</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Arel, Qing Cao, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

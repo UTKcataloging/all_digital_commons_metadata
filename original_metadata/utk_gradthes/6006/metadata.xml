@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Installation, testing, and demonstration of discrete ordinates particle transport software (PARTISN 2.64/DANTSYS 3.1) for use on the Y-12 National Security Complex SGI supercomputer (Manhattan)</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Turner</lname>
+<fname>Susan</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The ultimate goal of this work is to provide the capability to evaluate Criticality Accident Alarm Systems (CAAS) placement designs for storage of highly enriched uranium in vault-type storage buildings at the Y-12 National Security Complex. The scope includes the procurement, _installation, verification and validation of the Los Alamos National Laboratory multi-processor discrete ordinat�s transport code PAR TISN 2.64/DANTSYS 3.1 on the Y-12 National Security Complex Engineering Division&#39;s SGI supercomputer (Manhattan). The scope also includes the development of a source term, the procurement of an appropriate cross section library based on the material isotopes of the model and the desired part!cles to be tracked, and the procurement of an appropriate response function set. The validation is accomplished by modeling standardized two-dimensional and three-dimensional benchmark shielding reference calculations from ANSV ANS-6.6.1. The work includes the development of a three-dimensional model of a vault-type storage building design in order to confirm previously performed Monte Carlo (MCNP) code calculations. The model design is developed in accordance with various national standards and federal codes. Future work includes the validation of Kansas State University Skyshine Experiments in two- and three-dimensions, and CAAS placement design evaluation of additional two- and three-dimensional models of vault-type storage buildings for highly enriched uranium.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/6006</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7639&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>6006</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7639</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467668</context-key>
+<submission-path>utk_gradthes/6006</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ronald E. Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of a CMOS-Memristive Mixed-Signal Neuromorphic System with Energy and Area Efficiency in System Level Applications</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gchakma@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Chakma</lname>
+<fname>Gangotree</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The von Neumann architecture has been the backbone of modern computers for several years. This computational framework is popular because it defines an easy, simple and cheap design for the processing unit and memory. Unfortunately, this architecture faces a huge bottleneck going forward since complexity in computations now demands increased parallelism and this architecture is not efficient at parallel processing. Moreover, the post-Moore&#39;s law era brings a constant demand for energy-efficient computing with fewer resources and less area. Hence, researchers are interested in establishing alternatives to the von Neumann architecture and neuromorphic computing is one of the few aspiring computing architectures that contributes to this research effectively. Initially, neuromorphic computing attracted attention because of the parallelism found in the bio-inspired networks and they were interested in leveraging this advantage on a single chip. Moreover, the need for speed in real time performance also escalated the popularity of neuromorphic computing and different research groups started working on hardware implementations of neural networks. Also, neuroscience is consistently building a better understanding of biological networks that provides opportunities for bridging the gap between biological neuronal activities and artificial neural networks. As a consequence, the idea behind neuromorphic computing has continued to gain in popularity. In this research, a memristive neuromorphic system for improved power and area efficiency has been presented. This particular implementation introduces a mixed-signal platform to implement neural networks in a synchronous way. In addition to mixed-signal design, a nano-scale memristive device has been introduced that provides power and area efficiency for the overall system. The system design also includes synchronous digital long term plasticity (DLTP), an online learning methodology that helps train the neural networks during the operation phase, improving the efficiency in learning when considering power consumption and area overhead. This research also proposes a stochastic neuron design with a sigmoidal firing rate. The design introduces variability in the membrane capacitance to reach different membrane potential leading to a variable stochastic firing rate.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5665</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7311&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5665</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7311</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911720</context-key>
+<submission-path>utk_graddiss/5665</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Garrett S. Rose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, James S. Plank, Hugh Medal</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journal and conference papers.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

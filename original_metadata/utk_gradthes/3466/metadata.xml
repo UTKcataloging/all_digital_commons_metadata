@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Low-Power, Laser-Based Delta-Sigma Modulator for the Measurement of Atmospheric Gas Composition</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ccrowde3@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Crowder</lname>
+<fname>Christopher</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Delta Sigma Modulator</keyword>
+<keyword>Atmospheric Composition</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;With the increased attention on monitoring the atmosphere’s gas composition, new ways of accurately measuring these concentrations are needed. Along with the needed increase in measurement accuracy; size, space, and power reduction is also essential in modern systems. As semiconductor technology has advanced, the abilities to meet the previously mentioned criteria are becoming more realizable.&lt;/p&gt;
+&lt;p&gt;Instrumentation used to measure the atmosphere’s composition is traditionally large, taking up much needed space and using larger amounts of power. While the larger instrumentation provides the necessary accuracy, the other constraints are sacrificed. For this reason, a smaller, yet highly accurate solution is needed. The Proof-of-Concept (POC) solution that is proposed in this thesis is a Delta-Sigma (ΔΣ) Modulator designed in a 0.5 micron (µm) Bulk CMOS Process. Using a 1.55 micron (µm) laser as the signal input while using a specified reference, the Delta-Sigma Modulator will use oversampling and noise shaping to provide an accurate, one-bit digital output count that correlates the difference between the reference signal and the laser’s intensity that is input to the system. This allows for the possibility of a high resolution output, with high accuracy, and significant reductions in space used and power consumed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3466</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4651&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3466</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4651</articleid>
+<submission-date>2015-02-27T12:20:46-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4651/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6743878</context-key>
+<submission-path>utk_gradthes/3466</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Nicole McFarlane</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

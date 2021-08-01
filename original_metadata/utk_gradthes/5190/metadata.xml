@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Techniques for publishing real-time data on a local area network</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Anderson</lname>
+<fname>Victor</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The primary objective of this thesis was to develop techniques for publishing real-time data on a Local Area Network (LAN) using the two transport protocols, Transmission Control Protocol (TCP) and User Datagram Protocol (UDP). One of the main restrictions was that the Data Acquisition (DAQ) system, the server, which does time-critical functions, should not be interrupted as it sends the data to monitoring applications. It was also desired that the monitoring applications, the clients, receive most of the published data. The two protocols, TCP and UDP, were evaluated using programs developed in C/C++ and compiled with the Visual C 6.0 compiler under Windows 2000. An ordinary TCP server software, developed in C/C++, published 100,000 1400 Byte TCP segments on a 100 Megabit per second (Mbps) LAN. An ordinary TCP client software was coded in C/C++ which read the published data. After reading 30,000 segments, the client application paused for 5 sec and the effect of the delay on the server was analyzed. The procedure failed to satisfy the requirement not to interrupt the server because the server stopped publishing data during the delay period. A proposed solution put the server&#39;s publishing procedure into a separate thread thereby isolating the server application as a whole from any client interference. The results proved this approach to be successful. It was also found that the server can maintain one-server-tomany-clients interaction if the bandwidth is reduced by the number of connected clients. Using UDP sockets, ordinary server and client applications were developed to evaluate the real-time performance of the standard UDP sockets as was done for the TCP sockets. The client recorded the percentage of datagrams successfully received. Though the client did not block the server, it did not always receive 100% of the published datagrams. The server, however, could use UDP broadcast and publish simultaneously to multiple clients without reducing bandwidth. To solve the delivery reliability problem, the approach implemented allowed the UDP client to detect and request a retransmission of datagrams that it loses. The improved UDP server had the ability to retransmit datagrams that are lost by its clients. It was determined that the server efficiently serviced retransmission requests from the clients for data rates up to 9MB/s. In cases where the client application was engaged in other activities beside reading data from the server, an ordinary UDP client read 100% of all published data only at rates below 4 MB/sec, while the improved client read 100% of data up to 6 MB/sec.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5190</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6598&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5190</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6598</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847018</context-key>
+<submission-path>utk_gradthes/5190</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>B. Bomar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

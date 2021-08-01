@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Tagamajig: Image Recognition via Crowdsourcing</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gsimpso3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Simpson</lname>
+<fname>Gregory</fname>
+<mname>Martin</mname>
+</author>
+</authors>
+<disciplines><discipline>Other Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The University of Tennessee, Knoxville (UTK) Library possesses thousands of unlabeled gray-scale photographs from the Smoky Mountains circa the 1920s - 1940s. Their current method of identifying and labeling attributes of the photographs is to do so manually. This is problematic both because of the scale of the collection as well as the reliance on an individual&#39;s limited knowledge of the area&#39;s numerous landmarks.&lt;/p&gt;
+&lt;p&gt;In the past few years, similar dilemmas have been tackled via an approach known as crowd computing. Some examples include Floating Forests, in which users are asked to identify and mark kelp forests in satellite images, and Ancient Lives, which enlists users help in transcribing 2000-year-old manuscripts that Oxford University researchers had struggled to efficiently translate for over a century.&lt;/p&gt;
+&lt;p&gt;For this particular problem, we propose releasing the image collections to the public through a web application. The application would target outdoor enthusiasts, conservationists, or professionals such as geologists, rangers, or historians who are familiar with the region and would find interest in helping to label the more recognizable photos. Users would &quot;tag&quot; landmarks using a hierarchically sorted data set of landmark names accessible via an incremental search.&lt;/p&gt;
+&lt;p&gt;With sufficient participation, the image collection could be efficiently categorized and labeled beyond what is currently feasible using the librarys limited number of personnel. Furthermore, this application could easily be adapted to categorize other unlabeled image collections if provided with the proper data set for tagging.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4308</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5509&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4308</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5509</articleid>
+<submission-date>2016-09-28T16:31:12-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9208980</context-key>
+<submission-path>utk_gradthes/4308</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark E. Dean</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bradley T. Vander Zanden, Chad A. Steed</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

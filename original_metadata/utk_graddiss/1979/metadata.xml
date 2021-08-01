@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Learning from Data with Localized Regression and Differential Evolution</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Buckner</lname>
+<fname>Mark</fname>
+<mname>A</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;em&gt;Learning from data&lt;/em&gt; is fast becoming the rule rather than the exception for many science and engineering research problems, particularly those encountered in nuclear engineering. Problems associated with learning from data fall under the more general category of &lt;em&gt;inverse problems.&lt;/em&gt; A &lt;em&gt;data-drive inverse problem&lt;/em&gt; involves constructing a &lt;em&gt;predictive model&lt;/em&gt; of a &lt;em&gt;target system&lt;/em&gt; from a collection of input/output observations. One of the difficulties associated with constructing a model that approximates such unknown &lt;em&gt;causes&lt;/em&gt; based solely on observations of their &lt;em&gt;effects&lt;/em&gt; is that collinearities in the input data result in the problem being &lt;em&gt;ill-posed&lt;/em&gt;. &lt;em&gt;Ill-posed problems&lt;/em&gt; cause models obtained by conventional techniques, such as linear regression, neural networks and kernel techniques, to become unstable, producing unreliable results. Methods of regularization using ordinary ridge regression (ORR) and kernel regression (KR) have been proposed as viable solutions to ill-posed problems. Successful application of ORR and KR require the selection of optimal parameter values—ridge parameters for ORR and bandwidth parameters for KR. The common practice for both methods is to select a single parameter based on minimizing an objective function which is an estimate of empirical risk. The single parameter value is then applied to all predictor variables indiscriminately, in a sort of &lt;em&gt;one-size-fits-all&lt;/em&gt; fashion. Versions of ORR and KR have been proposed that make use of individual &lt;em&gt;localized&lt;/em&gt; ridge and a matrix of &lt;em&gt;localized&lt;/em&gt; bandwidth parameters that are optimally selected based on the relevance of their associated predictor variables to reducing empirical risk. While the practical and theoretical value of both &lt;em&gt;localized regression techniques&lt;/em&gt; is recognized they have obtained limited use because of the difficulties associated with selecting multiple optimal ridge parameters for localized ridge regression (LRR)—defined as the localized ridge regression problem—and multiple optimal bandwidth parameters for localized kernel regression (LKR)—defined as the localized kernel regression problem—particularly for multivariate predictor data with more than four variables.&lt;/p&gt;
+&lt;p&gt;This dissertation introduces a method of selecting optimal &lt;em&gt;ridge parameters&lt;/em&gt; for LRR and a method of selecting a matrix of optimal &lt;em&gt;bandwidth parameters&lt;/em&gt; for LKR based on the use of Differential Evolution (DE), a population based direct search global optimization technique. Three different objective functions, selected as prediction risk estimators, were developed and evaluated for LRR: &lt;em&gt;Mallows&#39; CL&lt;/em&gt;, an Information Complexity (ICOMP) based method of regression parameter selection (ICOMPRPS), and Generalized Cross-Validation (GCV). Leave-one-out cross-validation (LOO-CV) was used as the objective function for LKR.&lt;/p&gt;
+&lt;p&gt;Including the two methods of selecting optimal localized regression parameters the original contributions to the field of learning from data described in this dissertation are: i) DE automated selection of localized ridge regression parameters (DEALRR) using an objective function selected as an estimator of prediction risk, ii) DE automated selection of a vector of bandwidth parameters for localized kernel regression (DEALKR&lt;sub&gt;D&lt;/sub&gt;) using LOO-CV as an objective function, iii) a method of optimizing the full bandwidth matrix for localized kernel regression using DE (DEALKR&lt;sub&gt;F&lt;/sub&gt;), iv) automatic selection of relevant input variables using DEALKR&lt;sub&gt;D&lt;/sub&gt;, and v) a method of detecting local minima (ModelM) in multidimensional data.&lt;/p&gt;
+&lt;p&gt;Case studies based on several practical examples using both artificial and real world data demonstrate i) the superior performance of DEALRR over ordinary least-squares and ordinary ridge regression for a) variable prediction and b) inferential sensing, ii) the superior performance of DEALKR&lt;sub&gt;D&lt;/sub&gt; and DEALKR&lt;sub&gt;F&lt;/sub&gt; over global kernel regression, and a hybrid conjugate gradient plus line search method for selecting a vector of LKR bandwidth parameters, for a) output target variable prediction, b) function approximation and c) inferential sensing, iii) the superior performance of DEALKR&lt;sub&gt;D&lt;/sub&gt; for input variable selection, iv) the viability of optimally selecting the full bandwidth matrix LKR using DEALKR&lt;sub&gt;F&lt;/sub&gt; and v) the ability to detect the presence of local minima in multidimensional data using ModelM&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1979</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3410&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1979</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3410</articleid>
+<submission-date>2013-09-20T12:27:41-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4609905</context-key>
+<submission-path>utk_graddiss/1979</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert E. Uhrig</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Hamparsum Bozdogan, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

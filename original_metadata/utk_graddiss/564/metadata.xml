@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Congestion and Price Prediction in Locational Marginal Pricing Markets Considering Load Variation and Uncertainty</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bo</lname>
+<fname>Rui</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This work investigates the prediction of electricity price and power transmission network congestions under load variation and uncertainty in deregulated power systems. The study is carried out in three stages.&lt;/p&gt;
+&lt;p&gt;In the first stage, the mathematical programming models, which produce the generation dispatch solution, the Locational Marginal Price (LMP), and the system statuses such as transmission congestions, are reviewed. These models are often referred to as Optimal Power Flow (OPF) models, and can be categorized into two major groups: Alternating Current OPF (ACOPF) and Direct Current OPF (DCOPF). Due to the convergence issue with the ACOPF model and the concern of inaccuracy with the DCOPF model, a new DCOPF-based algorithm is proposed, using a fictitious nodal demand (FND) model to represent power losses at each individual line. This is an improvement over the previous work that assigns losses to a few user-defined buses, and is capable of achieving a better tradeoff between computational effectiveness and the accuracy of the results.&lt;/p&gt;
+&lt;p&gt;In the second stage, the solution features are explored for each of the three OPF models to predict critical load levels where a step change of LMP occurs due to the change of binding constraints. After careful examinations of the mathematical relationship of the OPF solutions, nodal prices, and congestions, with respect to load variation, simplex-like method, quadratic interpolation method, and variable substitution method are proposed for each of the three OPF models respectively in order to predict price changes and system congestion.&lt;/p&gt;
+&lt;p&gt;In the last stage, the probabilistic feature of the forecasted LMP is investigated. Due to the step change characteristic of the LMP and uncertainty in load forecasting, the forecasted LMP represents only a certain possibility in a lossless DCOPF framework. Additional possible LMP values exist, other than the deterministically forecasted LMP. Therefore, the concept of Probabilistic LMP is introduced and a systematic approach to quantify the probability of the forecasted LMP, with respect to load variation, is proposed. Similar concepts and methodology have been applied to the ACOPF and FND-based DCOPF frameworks, which can be useful for power market participants in making financial decisions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/564</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1632&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>564</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1632</articleid>
+<submission-date>2010-02-23T09:47:01-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1164704</context-key>
+<submission-path>utk_graddiss/564</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing (Fran) Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Leon M. Tolber, Tse-wei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

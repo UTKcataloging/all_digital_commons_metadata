@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Primary User Emulation Attacks in Cognitive Radio - An Experimental Demonstration and Analysis</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bealey@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ealey</lname>
+<fname>Benjamin</fname>
+<mname>James</mname>
+</author>
+</authors>
+<keywords>
+<keyword>cognitive radio</keyword>
+<keyword>machine learning</keyword>
+<keyword>primary user emulation</keyword>
+<keyword>jamming</keyword>
+</keywords>
+<disciplines><discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Cognitive radio networks rely on the ability to avoid primary users, owners of the frequency, and prevent collisions for effective communication to take place. Additional malicious secondary users, jammers, may use a primary user emulation attacks to take advantage of the secondary user&#39;s ability to avoid primary users and cause excessive and unexpected disruptions to communications. Two jamming/anti-jamming methods are investigated on Ettus Labs USRP 2 radios. First, pseudo-random channel hopping schemes are implemented for jammers to seek-and-disrupt secondary users while secondary users apply similar schemes to avoid all primary user signatures. In the second method the jammer uses adversarial bandit algorithms to avoid channels already heavily disrupted from primary user communications and concentrate efforts on channels heavily populated by secondary user communications. In addition the secondary users apply similar methods to avoid channels heavily occupied by jammers and primary users. The performance of these users is compared with and without the algorithm through channel delay, impact of algorithm on probability density functions, and user collision rate. Conclusions on made on the effectiveness of each technique.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/967</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2134&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>967</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2134</articleid>
+<submission-date>2011-07-29T12:34:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2123083</context-key>
+<submission-path>utk_gradthes/967</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul Crilly, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

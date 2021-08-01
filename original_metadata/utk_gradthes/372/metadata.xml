@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>New Consolidation of Emission and Processing for Air Quality Modeling Assessment in Asia</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Du</lname>
+<fname>Yuan</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Gridded Asian emission input with fine resolutions for regional photochemical air quality modeling is absent from current studies. A new top-down emission process based on GIS-FORTRAN program has been developed in this study to consolidate the current available regional emissions in Asia and provide model-ready emission input with more flexibility. The INTEX-B anthropogenic emission inventory in 2006 integrated with biogenic from GEIA, as well as biomass burning and ship emissions from TRACE-P has been adopted as the top-level emissions, which are then spatially allocated into grid-cell level by our GIS application. The spatial allocation factors generated for this process are mainly based on the latest geographic and socio-economic information from LandScan population, updated road network, and landcover from USGS. A chemical species mapping process has been applied to ensure all VOC emission are in CB05 species converted from TRACE-P species. The vertical assignment and temporal allocation are also implemented to obtain gridded hourly emission data with 25 atmospheric layers structure. The spatially gridded annual emissions from GIS are verified to follow most of the spatial distribution pattern of INTEX-B gridded emission in 0.5 by 0.5 degree (~55 by 55 km) resolution. A successful CMAQ test run indicates the results are compatible with air quality models. To sum up, our new emission gridding process could be applied for regions without source specified emission inventory to prepare the model-ready emission input with confidence. In addition, the process to generate the four-domain emission inputs (27/9/3/1km) for Pearl River Delta region has been presented as a study case.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/372</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1405&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>372</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1405</articleid>
+<submission-date>2010-02-15T13:03:31-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1146248</context-key>
+<submission-path>utk_gradthes/372</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joshua Fu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wayne Davis, Terry Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008MastersTheses/DuYuan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Efficient Simulation Of A Simple Evolutionary System</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mduwalsh@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Duwal Shrestha</lname>
+<fname>Mahendra</fname>
+</author>
+</authors>
+<keywords>
+<keyword>evolutionary system</keyword>
+<keyword>genetic algotithm</keyword>
+<keyword>walsh transform</keyword>
+<keyword>random heuristic search</keyword>
+<keyword>periodic orbits</keyword>
+<keyword>oscillation</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Other Computer Sciences</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;An infinite population model is considered for diploid evolution under the influence of crossing over and mutation. The evolution equations show how Vose’s haploid model for Genetic Algorithms extends to the diploid case, thereby making feasible simulations which otherwise would require excessive resources. This is illustrated through computations confirming the convergence of finite diploid population short-term behaviour to the behaviour predicted by the infinite diploid model. The results show the distance between finite and infinite population evolutionary trajectories can decrease in practice like the reciprocal of the square root of population size.&lt;/p&gt;
+&lt;p&gt;Under necessary and sufficient conditions (NS) concerning mutation and crossover, infinite populations show oscillating behavior. We explore whether finite populations can also exhibit oscillation or approximate oscillation. Simulation results confirm that approximate finite population oscillation is possible when NS are satisfied.&lt;/p&gt;
+&lt;p&gt;We also investigate the robustness of finite population oscillation. We show that when the part of NS concerning mutation is violated, the Markov chain which models finite population evolution is regular, and perfect oscillation should not occur. However, our simulation results show finite population approximate oscillation can occur even though the Markov chain is regular. Finite populations can also exhibit approximate oscillating behavior when the part of NS concerning crossover is violated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4735</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5559&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4735</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5559</articleid>
+<submission-date>2016-10-07T14:07:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9245486</context-key>
+<submission-path>utk_gradthes/4735</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael D. Vose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Judy Day</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

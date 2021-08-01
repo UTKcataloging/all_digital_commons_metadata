@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analog VLSI Deep Machine Learning Implementation</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jlu9@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lu</lname>
+<fname>Junjie</fname>
+</author>
+</authors>
+<keywords>
+<keyword>analog signal processing</keyword>
+<keyword>deep machine learning</keyword>
+<keyword>floating gate memory</keyword>
+<keyword>current mode computation</keyword>
+<keyword>k-means clustering</keyword>
+<keyword>power efficiency</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Machine learning systems provide automated data processing and see a wide range of applications. Direct processing of raw high-dimensional data such as images and video by machine learning systems is impractical both due to prohibitive power consumption and the “curse of dimensionality,” which makes learning tasks exponentially more difficult as dimension increases. Deep machine learning (DML) mimics the hierarchical presentation of information in the human brain to achieve robust automated feature extraction, reducing the dimension of such data. However, the computational complexity of DML systems limits large-scale implementations in standard digital computers. Custom analog signal processing (ASP) can yield much higher energy efficiency than digital signal processing (DSP), presenting means of overcoming these limitations.&lt;/p&gt;
+&lt;p&gt;The purpose of this work is to develop an analog implementation of DML system.&lt;/p&gt;
+&lt;p&gt;First, an analog memory is proposed as an essential component of the learning systems. It uses the charge trapped on the floating gate to store analog value in a non-volatile way. The memory is compatible with standard digital CMOS process and allows random-accessible bi-directional updates without the need for on-chip charge pump or high voltage switch.&lt;/p&gt;
+&lt;p&gt;Second, architecture and circuits are developed to realize an online k-means clustering algorithm in analog signal processing. It achieves automatic recognition of underlying data pattern and online extraction of data statistical parameters. This unsupervised learning system constitutes the computation node in the deep machine learning hierarchy.&lt;/p&gt;
+&lt;p&gt;Third, a 3-layer, 7-node analog deep machine learning engine is designed featuring online unsupervised trainability and non-volatile floating-gate analog storage. It utilizes massively parallel reconfigurable current-mode analog architecture to realize efficient computation. And algorithm-level feedback is leveraged to provide robustness to circuit imperfections in analog signal processing. At a processing speed of 8300 input vectors per second, it achieves 1×10&lt;sup&gt;12&lt;/sup&gt; operation per second per Watt of peak energy efficiency.&lt;/p&gt;
+&lt;p&gt;In addition, an ultra-low-power tunable bump circuit is presented to provide similarity measures in analog signal processing. It incorporates a novel wide-input-range tunable pseudo-differential transconductor. The circuit demonstrates tunability of bump center, width and height with a power consumption significantly lower than previous works.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2709</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4023&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2709</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4023</articleid>
+<submission-date>2014-02-25T21:31:00-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4023/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5213646</context-key>
+<submission-path>utk_graddiss/2709</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Itamar Arel, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

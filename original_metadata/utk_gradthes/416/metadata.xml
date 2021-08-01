@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Performance Analysis of Skip-Glide Trajectories for Hypersonic Waveriders in Planetary Exploration</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nguyen</lname>
+<fname>Ngoc-Thuy</fname>
+<mname>Dang</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A performance analysis for skip and glide is being studied to investigate the potential usage of waverider technology for interplanetary explorations. While the skip and glide equations themselves were first explored by Eggers, this thesis will implement his equations, but then add waverider technology, to determine the possibility of using trajectory assist to navigate around four planets (Earth, Mars, Jupiter and Venus). All trajectory calculations will be based on the waverider lift-to-drag ratios for various planets to determine the maximum range distance. For this research, skip and glide trajectory will be handled separately to determine which is best suited in covering the most distance for a given planet. Ballistic trajectory will only be mentioned in reference to the derivation of the skip trajectory equation, but will not be covered by itself in this research. Hence, it is possible to study a total of 98 cases of skip trajectories, 12 cases of glide trajectories and any additional cases for the four planets.&lt;/p&gt;
+&lt;p&gt;Even though the skip and glide equations bear no planetary effect, all results listed in this research are based on Earth with a waverider lift-to-drag (L/D) ratio of 8.61. For a skip trajectory, the maximum number of skips is set to be 3. A high velocity ratio of 1.0 results in a low incidence angle of 0.1° with the highest range parameter of 3.52 after 3 skips. A low velocity ratio of 0.2, on the other hand, would result in a high incidence of angle of 39.5° with the least range parameter coverage of 0.05.&lt;/p&gt;
+&lt;p&gt;lying the same velocity ratio and lift-to-drag to both skip and glide trajectory calculations result in a big percent difference. For example, a L/D = 8.61 and a velocity ratio (V&lt;sub&gt;f&lt;/sub&gt;) of 1.0 will have a skip range parameter of 3.52 (22,451.09 km) after 3 skips. The glide range parameter, on the other hand, comes out to be 20.60 (131,389.89 km). The percent increase turns out to be around 485.23%. Based on these numbers, it is clear that using a glide trajectory by itself would gain the most range distance for Earth.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/416</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1449&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>416</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1449</articleid>
+<submission-date>2010-02-16T12:02:02-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1148255</context-key>
+<submission-path>utk_gradthes/416</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gary A. Flandro</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth R. Kimble, John S. Steinhoff</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/NguyenNgocThuy.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

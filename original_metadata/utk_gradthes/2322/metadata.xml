@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hardware Acceleration of the Embedded Zerotree Wavelet Algorithm</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Polisetty</lname>
+<fname>Suresh</fname>
+<mname>S</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The goal of this project was to gain experience in designing and implementing a microelectronic system to acclerate the execution of a time-consuming software algorithm, the Embedded Zerotree Wavelet (EZW), which is used in multimedia applications. The algorithm was implemented using MATLAB to be certain it was fully understood and to serve as a validation reference. Then, the algorithm was mapped into a hardware description language, VHDL, and its resulting implementation verified with the golden reference. The hardware description was then targeted to a field-programmable gate array (FPGA). Significant acceleration was achieved since the hardware implementation in a FPGA (Xilinx Virtex-1000E using a 8.315 MHz clock) ran 10,000 times faster than the MATLAB implementation on a SUN-220 workstation. Additional speedup exploiting the parallel capabilities of the FPGA was not achieved since the EZW algorithm utilizes only sequential operations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2322</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3726&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2322</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3726</articleid>
+<submission-date>2013-10-16T12:06:11-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4729075</context-key>
+<submission-path>utk_gradthes/2322</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Mohammad Ferdjallah</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

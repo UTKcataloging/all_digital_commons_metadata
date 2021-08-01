@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Load Balancing in Parallel and Distributed Databases</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tang</lname>
+<fname>Zhong</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses the load balancing problem for parallel computations in the presence of time delays from a control system design perspective. Extensive experiments in a parallel computing environment have been made to evaluate load balancing strategies, and have driven the continued evolution of the parallel computation model and the load balancing strategies.&lt;/p&gt;
+&lt;p&gt;The critical feature of the load balancing problem is the delayed receipt of information and transferred load. In this work, load balancing in a parallel computer architecture is first modeled as a deterministic time-delay system with saturations. Three essential properties of the load balancing strategy, including consistency, stability, and conservation of tasks, have been analyzed. The excess load on each sending node is portioned out among the other nodes according to the amounts they are below the sending node&#39;s estimate of network average load. It is found that the feedback gain in the controller (load balancer) on each node affects the performance of load balancing, and a judicious choice of the feedback gain is necessary to achieve a faster balancing response without breaking into oscillatory behavior.&lt;/p&gt;
+&lt;p&gt;Load distribution and task processing contend for the same resources on each computational element (node). A deterministic dynamic nonlinear system is developed to model load balancing for parallel computations and incorporate both time delays and resource constraints. This model accounts for the trade-off between using processor resources to process tasks and the advantage of distributing the load evenly between the nodes to reduce overall processing time. The model is shown to be consistent and the open-loop system is Lyapunov stable, but not asymptotically stable. A distributed closed-loop controller is proposed to balance load dynamically at each node by using not only local estimates of loads at other nodes, but also estimates of the number of tasks in transit to it. Experimental results have demonstrated substantial improvements in performance using a controller based on the anticipated estimates of workloads over using a controller based on the local workloads only.&lt;/p&gt;
+&lt;p&gt;The eventual size and the search requirements for DNA databases necessitate the development of parallel DNA databases. This work presents the design of a parallel DNA database, which is the motivation and an application of the presented load balancing strategies. DNA profiles are assigned in portions to each search engine node of the parallel computer to form distributed databases to be searched in parallel. A multi-threaded search server is designed and implemented to achieve high performance. Experimental results for the parallel DNA database and parallel searches with load balancing integrated with the database demonstrate both the efficiency of the parallel database and the efficacy of the load balancing strategy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2386</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3894&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2386</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3894</articleid>
+<submission-date>2013-10-22T09:49:54-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4751129</context-key>
+<submission-path>utk_graddiss/2386</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell, John Chiasson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Tse-Wei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

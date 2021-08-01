@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Patient-specific quality assurance for IMRT</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Neeley</lname>
+<fname>Michelle</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Physics</keyword>
+</keywords>
+<abstract>&lt;p&gt;In radiation therapy, QA is an integral part of the IMRT treatment process. This study evaluated two different QA modalities, a heterogeneous RANDO phantom and the MatriXX Detector. The RANDO phantom study evaluated the dosimetric accuracy of a helical TomoTherapy system which resulted in a benchmark being established for dosimetric accuracy in heterogeneous materials. The MatriXX study evaluated the performance of the MatriXX Detector to determine if it could be used as a substitute for radiographic film in rotational IMRT delivery techniques. At least twenty test cases were selected for each study, and treatment plans were created using the Hi-Art TomoTherapy treatment planning and delivery system. Kodak EDR2 radiographic films were used and processed in batches of five films at least one hour after irradiation. Horizontal profiles, vertical profiles, and Gamma pass/fail plots were calculated for each test case.For the Gamma calculations, the threshold parameters were set to a 3% dose difference and a 3-mm distance-to-agreement. Analysis of the gamma pass/fail plots for the RANDO phantom study showed the lung cases had 27.2% of the pixels exceeding gamma, while the prostate patients had 14.7%. For the prostate test cases, only two of the films had greater than 20% of the pixels exceeding the gamma threshold, while only four of the lung test cases were below the 20% pixel threshold. Analysis of the gamma pass/fail plots from the MatriXX study showed the percent of pixels exceeding gamma was 10.8 [plus or minus] 6.7% for the film verses 23.4 [plus or minus] 13.8% for the MatriXX detector. The MatriXX appears to function well in high-dose low-gradient regions and low-dose low-gradient regions. However, the MatriXX has difficulty in regions with steep dose gradients due to volume averaging across the ion chambers, and the coarse 7.62 mm center-to-center spacing of the chambers.The RANDO phantom study analysis revealed that discrepancies between calculated and measured dose distributions occurred at tissue-bone interfaces. Further investigation will be needed to determine if these errors are due to film response at heterogeneous tissue interfaces or from actual dose calculation errors in the treatment planning system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5741</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7363&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5741</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7363</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467503</context-key>
+<submission-path>utk_gradthes/5741</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Marianne Breinig</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

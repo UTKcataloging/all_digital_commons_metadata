@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Effective Approach to Nonparametric Quickest Detection and Its Decentralized Realization</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dyang@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yang</lname>
+<fname>Dayu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Quickest Detection</keyword>
+<keyword>Nonparametric</keyword>
+<keyword>Q-Q Distance</keyword>
+<keyword>Decentralized</keyword>
+</keywords>
+<disciplines><discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation focuses on the study of nonparametric quickest detection and its decentralized implementation in a distributed environment. Quickest detection schemes are geared toward detecting a change in the state of a data stream or a real-time process. Classical quickest detection schemes invariably assume knowledge of the pre-change and post-change distributions that may not be available in many applications.    A distribution free nonparametric quickest detection procedure is presented based on a novel distance measure, referred to as the Q-Q distance calculated from the Quantile-Quantile plot. Theoretical analysis of the distance measure and detection procedure is presented to justify the proposed algorithm and provide performance guarantees. The Q-Q distance based detection procedure presents comparable performance compared to classical parametric detection procedure and better performance than other nonparametric procedures. The proposed procedure is most effective when detecting small changes.    As the technology advances, distributed sensing and detection become feasible. Existing decentralized detection approaches are largely parametric. The decentralized realization of Q-Q distance based nonparametric quickest detection scheme is further studied, where data streams are simultaneously collected from multiple channels located distributively to jointly reach a detection decision. Two implementation schemes, binary quickest detection and local decision fusion, are described. Experimental results show that the proposed method has a comparable performance to the benchmark parametric cumulative sum (CUSUM) test in binary detection. Finally the dissertation concludes with a summary of the contributions to the state of the art.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/764</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1149&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>764</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1149</articleid>
+<submission-date>2010-01-08T12:35:39-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1106412</context-key>
+<submission-path>utk_graddiss/764</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Seddik M. Djouadi, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

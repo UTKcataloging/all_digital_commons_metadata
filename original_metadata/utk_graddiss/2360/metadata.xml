@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transportation Shortest Path Search Area Model</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Hui</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Arun Chatterjee</keyword>
+<keyword>Frederick J. Wegmann</keyword>
+<keyword>Mary Sue Younger</keyword>
+</keywords>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Although many studies on shortest-path algorithms have been conducted in the past, few of them have considered the time and effort required to obtain and update the weight property of the network arcs.  For transportation-related problems – due to the size and complexity of the network – preparing, updating, and transmitting the network database on which the shortest-path algorithms perform can be a challenge.&lt;/p&gt;
+&lt;p&gt;This study designed a Transportation Shortest Path Search Area (TSPSA) model to enhance the database preparation and updating step before any shortest-path search algorithm can start processing.  Taking advantage of the characteristics of the transportation networks, this new TSPSA model divides a transportation network into hierarchical levels of areas, and uses an elliptical search area to reduce the amount of data required by existing methods. For testing the designed TSPSA model, the DC-Baltimore metropolitan area roadway network was selected as a performance case study. The network GIS map was obtained by translating Census 2000 Topologically Integrated Geographic Encoding and Referencing system (TIGER) files into GIS shape files.&lt;/p&gt;
+&lt;p&gt;Using the TSPSA model, when the Origin and Destination (OD) Euclidean distance increases, the amount of data saving increases; concurrently, the maximum percent error between the TSPSA model and other traditional models rapidly decreases. The percentage of the data saving is around 75% to 85%, which means the data transmitting time is reduced about 80%. Moreover, the maximum percent error between the TSPSA model and other traditional models reduces to less than 5% when the Euclidean distance between the original and destination points (ED) is greater than 1.8 miles in urban areas.  Similarly, the maximum percent error reduces to less than 5% when ED is greater than 4 miles in suburban areas, and less than 5% when ED is greater than 9 miles in rural areas.&lt;/p&gt;
+&lt;p&gt;The study concludes that the TSPSA model greatly reduces shortest-path search area data size, and increases the data transmitting speed between the information control center and its clients. It contributes to speeding up the shortest-path search process as a whole, as well as reducing the congestion obstacles in data transmission.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2360</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3798&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2360</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3798</articleid>
+<submission-date>2013-10-15T11:07:48-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4715470</context-key>
+<submission-path>utk_graddiss/2360</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

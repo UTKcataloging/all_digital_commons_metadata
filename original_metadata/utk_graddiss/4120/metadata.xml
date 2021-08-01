@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Quantitative Measure of Mono-Componentness for Time-Frequency Analysis</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aalbrig1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Albright</lname>
+<fname>Austin</fname>
+<mname>P.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Time-Frequency Analysis</keyword>
+<keyword>mono-component signals</keyword>
+<keyword>multi-component signals</keyword>
+<keyword>Wigner-Ville Distribution</keyword>
+<keyword>cross-terms</keyword>
+</keywords>
+<disciplines><discipline>Signal Processing</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Joint time-frequency (TF) analysis is an ideal method for analyzing non-stationary signals, but is challenging to use leading to it often being neglected. The exceptions being the short-time Fourier transform (STFT) and spectrogram. Even then, the inability to have simultaneously high time and frequency resolution is a frustrating issue with the STFT and spectrogram. However, there is a family of joint TF analysis techniques that do have simultaneously high time and frequency resolution – the quadratic TF distribution (QTFD) family. Unfortunately, QTFDs are often more troublesome than beneficial. The issue is interference/cross-terms that causes these methods to become so difficult to use. They require that the “proper” joint distribution be selected based on information that is typically unavailable for real-world signals. However, QTFDs do not produce cross-terms when applied to a mono-component signal.&lt;/p&gt;
+&lt;p&gt;Clearly, determining the mono-componentness of a signal provides a key piece of information. However, until now, the means for determining if a signal is a monocomponent or a multi-component has been to choose a QTFD, generate the TF representation (TFR), and visually examine it. The work presented here provides a method for quantitatively determining if a signal is a mono-component. This new capability provides an important step towards finally allowing QTFDs to be used on multi-component signals, while producing few to no interference terms through enabling the use of the quadratic superposition property. The focus of this work is on establishing the legitimacy for “measuring” mono-componentness along with its algorithmic implementation. Several applications are presented, such as quantifying the quality of the decomposition results produced by the blind decomposition algorithm, Empirical Mode Decomposition (EMD).&lt;/p&gt;
+&lt;p&gt;The mono-componentness measure not only provides an objective means to validate the outcome of a decomposition algorithm, it also provides a practical, quantitative metric for their comparison. More importantly, this quantitative measurement encapsulates mono-componentness in a form which can actually be incorporated in the design of decomposition algorithms as a viable condition/constraint so that true mono-components could be extracted. Incorporating the mono-component measure into a decomposition algorithm will eventually allow interference free TFRs to be calculated from multi-component signals without requiring prior knowledge.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4120</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5614&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4120</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5614</articleid>
+<submission-date>2016-10-07T20:51:12-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9246349</context-key>
+<submission-path>utk_graddiss/4120</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark Buckner, Belle R. Upadhyaya, Husheng Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

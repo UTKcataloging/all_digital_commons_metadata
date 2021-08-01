@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ANTHRAX MODELS INVOLVING IMMUNOLOGY, EPIDEMIOLOGY AND CONTROLS</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bpantha@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Pantha</lname>
+<fname>Buddhi</fname>
+<mname>Raj</mname>
+</author>
+</authors>
+<disciplines><discipline>Control Theory</discipline>
+<discipline>Dynamical Systems</discipline>
+<discipline>Dynamic Systems</discipline>
+<discipline>Immunology of Infectious Disease</discipline>
+<discipline>Ordinary Differential Equations and Applied Dynamics</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation is divided in two parts. Chapters 2 and 3 consider the use of optimal control theory in an anthrax epidemiological model. Models consisting system of ordinary differential equations (ODEs) and partial differential differential equations (PDEs) are considered to describe the dynamics of infection spread. Two controls, vaccination and disposal of infected carcasses, are considered and their optimal management strategies are investigated. Chapter 4 consists modeling early host pathogen interaction in an inhalational anthrax infection which consists a system of ODEs that describes early dynamics of bacteria-phagocytic cell interaction associated to an inhalational anthrax infection.&lt;/p&gt;
+&lt;p&gt;First we consider a model with system of four ODEs describing dynamics between animal population and the anthrax spores. Stability analysis is performed for our system and basis reproduction number is calculated for the system. A system of ODEs modeling an anthrax epizootic is formulated. Two controls representing vaccination animals and disposal of infected carcasses are investigated in order to minimize the number of infected animals, number of infected carcasses and the cost of vaccination and carcass disposal. Model parameters are estimated using outbreak data, and some numerical results for the optimal control problem are presented. We extend the model into the system of PDEs coupled with ODEs to include animal movement within a region. both time and space dependent controls are applied into this hybrid system. Existence and uniqueness results are established for weak solutions of the System. The existence of an optimal control pair and the characterization of the controls are derived from corresponding adjoint systems. Numerical results are completed to illustrate various scenarios.&lt;/p&gt;
+&lt;p&gt;The immunological model in Chapter 4 consists of a system of ODEs to describes early host pathogen interaction. The modeling assumptions are close to an experimental setting and the model parameters are estimated using these experimental data. Our goal is to understand the early process such as the spore phagocytosis, spore germination, killing of the germinated spores and their replication. Different functional forms for germination and killing are considered and two different models based on bacterial stage are considered to better fit the experimental data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3869</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5325&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3869</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5325</articleid>
+<submission-date>2016-06-16T07:53:23-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8738620</context-key>
+<submission-path>utk_graddiss/3869</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy Day, Vasilios Alexiades, Shigetoshi Eda</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

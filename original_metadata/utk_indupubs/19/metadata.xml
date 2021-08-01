@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Comparative Analysis of Predictive Data-Mining Techniques</title>
+<publication-date>2009-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xueping.li@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Xueping</fname>
+</author>
+</authors>
+<keywords>
+<keyword>predictive data mining</keyword>
+<keyword>statistical analysis</keyword>
+<keyword>knowledge discovery</keyword>
+<keyword>multiple linear regression</keyword>
+<keyword>MLR</keyword>
+<keyword>principle component regression</keyword>
+<keyword>PCR</keyword>
+<keyword>ridge regression</keyword>
+<keyword>partial least squares</keyword>
+<keyword>nonlinear PLS</keyword>
+</keywords>
+<abstract>&lt;p&gt;It is non-trivial to select the appropriate prediction technique from a variety of existing techniques for a datasets, since the competitive evaluation of techniques (bagging, boosting, stacking and meta-learning) can be time consuming. This paper compares five predictive data mining techniques on four unique datasets that have a combination of the following characteristics: few predictor variables, many predictor variables, highly collinear variables, very redundant variables and the presence of outliers. Different data mining techniques, including multiple linear regression (MLR), principal component regression (PCR), ridge regression, partial least squares (PLS) and non-linear partial least squares (NLPLS), are applied to each of the datasets. The comparisons are based on different criteria: R-square, R-square adjusted, mean square error (MSE), mean absolute error (MAE), coefficient of efficiency, condition number (CN) and the number of variables of features included in the model. The advantages and disadvantages of the techniques are discussed and summarised.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/19</coverpage-url>
+<label>19</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1021</articleid>
+<submission-date>2010-08-31T11:27:41-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1490279</context-key>
+<submission-path>utk_indupubs/19</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Xueping Li, Godswill Chukwugozie Nsofor and Laigang Song (2009) &quot;A Comparative Analysis of Predictive Data-Mining Techniques&quot;, &lt;em&gt;International Journal of Rapid Manufacturing ( IJRM)&lt;/em&gt;, Vol.1, No.2, pp.150-172.</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-08-31T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.inderscience.com/search/index.php?action=record&amp;rec_id=29380</value>
+</field>
+</fields>
+</document>
+</documents>

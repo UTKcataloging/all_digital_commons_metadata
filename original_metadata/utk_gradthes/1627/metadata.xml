@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Conductive Textiles and their use in Combat Wound Detection, Sensing, and Localization Applications</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>shollan6@utk.edu</email>
+<lname>Holland</lname>
+<fname>Stephen</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>conductive textile</keyword>
+<keyword>fabric</keyword>
+<keyword>distributed sensor</keyword>
+<keyword>antenna</keyword>
+<keyword>localization</keyword>
+<keyword>combat wound detection</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Electromagnetics and Photonics</discipline>
+</disciplines><abstract>&lt;p&gt;Conductive textiles, originally used for electromagnetic shielding purposes, have recently been utilized in body area network applications as fabric antennas and distributed sensors used to document and analyze kinematic movement, health vital signs, or haptic interactions. This thesis investigates the potential for using conductive textiles as a distributed sensor and integrated communication system component for use in combat wound detection, sensing, and localization applications. The goal of these proof-of-concept experiments is to provide a basis for robust system development which can expedite and direct the medical response team in the field. The combat wound detection system would have the capability of predicting the presence and location of cuts or tears within the conductive fabric as a realization of bullet or shrapnel penetration. Collected data, along with health vitals gathered from additional sensors, will then be wirelessly transmitted via integrated communication system components, to the appropriate medical response team.&lt;/p&gt;
+&lt;p&gt;A distributed sensing method is developed to accurately predict the location and presence of textile penetrations. This method employs a Wheatstone bridge and multiplexing circuitry to probe a resistor network. Localized changes in resistance illustrate the presence and approximate location of cuts within the conductive textile. Additionally, this thesis builds upon manually defined textile antennas presented in literature by employing a laser cutting system to accurately define antenna dimensions. With this technique, a variety of antennas are developed for various purposes including large data transmission as would be expected from multi-sensor system integration. The fabrication technique also illustrates multilayer antenna development. To confirm simulation results, electrical parameters are extracted using a single-frequency resonance method. These parameters are used in the simulation and design of single-element and two-element wideband slot antennas as well as the design of a wideband monopole antenna. The monopole antenna is introduced to an indoor ultra-wideband (UWB) localization system to illustrate the capability of pinpointing the wearer of textile antennas for localization applications. A cavity-backed dog-bone slot antenna is developed to establish the ability to incorporate conductive vias by sewing conductive thread. This technique can be easily extrapolated to the development of textile substrate integrated waveguide (SIW) technologies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1627</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2619&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1627</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2619</articleid>
+<submission-date>2013-02-27T09:45:55-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2619/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>3798508</context-key>
+<submission-path>utk_gradthes/1627</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Jeremy H. Holleman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

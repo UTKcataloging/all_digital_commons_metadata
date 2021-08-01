@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical investigation of a pitching airfoil and resulting flow field effects on a flexible test cell wall</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Holland</lname>
+<fname>Nicholas</fname>
+<mname>Martin</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This thesis considers a fluid-structure interaction problem wherein an oscillating airfoil creates pressure gradients along the flexible walls in a wind tunnel test celL The walls are constructed of a clear acrylic material with relatively low stiffness characteristics, potentially causing adverse effects in the flow field and affecting data collection from instrumentation on the walls and in the flow stream. The objective is to explore effects of varying pressure distributions along the walls using numerical methods for determining the pressure profiles, and to quantify the deflection resulting from this pressure loading. A two-dimensional model of the problem reduces computational difficulties, although the material properties must be adjusted to maintain structural equivalency in two­dimensions. Numerical methods for obtaining both static and dynamic data for structural and fluid problems are explored, and the results are compared to experimental data for validation. Static CFD analyses conducted for fixed airfoil pitch angles are followed by static structural analyses with pressure loads from the CFD solutions. ANSYS® and FLOTRAN® software will be used to perform finite element analyses. This effort does not seek to provide further understanding of unsteady aerodynamic phenomena surrounding an oscillating airfoil, or to study the airfoil&#39;s structural response to the fluid dynamics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5238</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6646&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5238</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6646</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847092</context-key>
+<submission-path>utk_gradthes/5238</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lou Deken</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

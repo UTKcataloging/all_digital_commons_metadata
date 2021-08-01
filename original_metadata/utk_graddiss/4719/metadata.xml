@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Physical Information Incorporated Clustering Techniques and Their Applications in Transportation Information System</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhan157@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Yang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Clustering</keyword>
+<keyword>Density based clustering</keyword>
+<keyword>hierarchical clustering</keyword>
+<keyword>network clustering</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Transportation Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Massive data from different sources are becoming available in transportation field, and spurring new research on utilizing these data to nurture new intelligent transportation information systems. Clustering algorithms are among the methods that are being applied to the domain but facing challenges. Classical clustering algorithms work fine with \point&quot; based data, which are homogeneous and have no extra constraints. Data in transportation are sometimes involved with specific geometric shapes, have underlying constraints, and can be heterogeneous. There has been no clustering algorithm dedicated to these situations.&lt;/p&gt;
+&lt;p&gt;In this dissertation, we re-examine the mathematical foundation and underlying philosophy of hierarchical, density based, centroid-based clustering algorithms, and reformulate them to incorporate physical information to solve a big variety of transportation problems. In particular, we first show an example that a density-based data-driven geohash method can gain 40 seconds accuracy in ETA prediction. We then design a network space density-based clustering algorithm, Dijk-DBSCAN, which expands density based clustering from n-dimensional space to a transportation network space. We will show that Dijk-DBSCAN makes accident and other types of hotspot detection more accurate. Further, we present an online step-wise regression based clustering strategy, to collect vehicles&#39; movement trajectory at low storage cost while maintaining high accuracy. We also explore clustering over arbitrary geometric shapes, and develop a hierarchical clustering framework. This algorithm can be applied to allocate resources over large road networks with an energy-efficiency constraint. In the last section, we present a hierarchical clustering and greedy algorithm that solves general vehicle routing problems, with pickup and delivery, and with time windows. It handles mutually constrained location and time information by clustering orders (e.g. orders of package delivery, passengers&#39; ride requests) and vehicles. The simple implementation and light computational cost make it superior to traditional optimization solvers, and enables real-time and large scale deployment in applications such as city-wide ride-sharing, time constrained package delivery, etc. Our work bridges the gap between classical clustering algorithms and specific data types and problem configurations in transportation domain. All our algorithms are designed to be highly computational efficient, and easily adaptable to other similar problems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4719</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6017&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4719</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6017</articleid>
+<submission-date>2017-04-27T11:16:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10087738</context-key>
+<submission-path>utk_graddiss/4719</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chris Cherry, Hairong Qi, Hyun Kim</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

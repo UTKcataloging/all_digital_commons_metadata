@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nano-mechanics of a micro cantilever beam excited by interactive atomic forces</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Doane</lname>
+<fname>Lee</fname>
+<mname>Peter</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The objective of this research was to predict the dynamic behavior of a microcantilever tip, commonly used in atomic force microscopes. This was done by examining the horizontal force component of the forces between one atom on the tip of a microcantilever and a single row of atoms lying within an adjacent surface. This model does not include an energy dissipation mechanism between the moving atom on the tip and the surface atoms. The system is conservative and therefore the interactive forces cannot be considered as true friction. The atomic force microscope (AFM) is typically used to measure friction at the atomic and nano-scales, this device will be the basis for our study. In order to understand the mechanisms of friction, it is necessary to understand the dynamics of the microcantilever tip as it engages a surface. Therefore the focus of this analytical research, which was based on Newtonian mechanics, was to predict: 1) tip dynamics 2) related horizontal driving force. The problem is especially challenging because the analysis includes atomic forces, which leads to solving non-linear differential equations. The Newmark Beta method was used to solve the non-linear equations of motion. The horizontal driving force was obtained from the calculated motion of the micro-cantilever tip. Three modes of vibration were examined. These were the horizontal mode and vertical mode, and then the two-dimensional mode. The two-dimensional mode allowed the tip to move in a horizontal and vertical direction independently and thus required a two degrees of freedom analysis. The horizontal mode was driven by the surface being scanned under the microcantilever tip. The vibration and horizontal force in the horizontal mode had a periodic pattern to it. The horizontal force was out of phase with the vibration by ninety degrees. The vertical mode was a free vibration with the tip positioned directly over a single atom. The tip was released from different positions. This set of calculations was most useful in checking the validity of the computer algorithm since the total energy in the conservative system was constant. The two-degree of freedom case best simulates the actual motion of the microcantilever tips. For the set of input parameters used in this study, the vertical component of the tip motion was much greater than, the horizontal component. This dynamic behavior was reflected in the atomic horizontal driving force that was applied to the tip.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5215</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6623&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5215</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6623</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847057</context-key>
+<submission-path>utk_gradthes/5215</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Don Daremg</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

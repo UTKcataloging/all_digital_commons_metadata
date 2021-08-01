@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Predicting Enzyme Targets for Optimization of Metabolic Networks under Uncertainty</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dflower3@utk.edu</email>
+<lname>Flowers</lname>
+<fname>David Christopher</fname>
+</author>
+</authors>
+<keywords>
+<keyword>metabolic engineering</keyword>
+<keyword>ensemble modeling</keyword>
+<keyword>elementary mode analysis</keyword>
+<keyword>DAHP</keyword>
+</keywords>
+<disciplines><discipline>Biochemical and Biomolecular Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Recently, ensemble modeling was applied to metabolic networks for the sake of predicting the effects of genetic manipulations on the observed phenotype of the system. The ensemble of models is generated from experimental wild-type flux data and screened using phenotypic data from gene overexpression and knockout experiments, leaving predictive models. The need for data from multiple genetic perturbation experiments is an inherent limitation to this approach. In this investigation, ensemble modeling is used alongside elementary mode analysis to attempt to predict those enzymatic perturbations that are most likely to result in an increase in a target yield and a target flux when only the wild-type flux distribution is known. Elementary mode analysis indicates the maximum theoretical yield and its associated steady-state flux distribution(s), and the minimal cut set knockouts are determined that eliminate all but the highest-yield elementary modes. These knockouts and other perturbations are simulated using all of the ensemble models, and the distributions of predicted fluxes and yields over the models are compared to elucidate which reactions and metabolites most likely limit the target yield and flux. Additionally, a systematic method is developed to simultaneously identify multiple reactions that are responsible for bottlenecks after the minimal cut set knockouts are performed. These methods are applied to a metabolic network that models 3-deoxy-D-arabinoheptulosonate-7-phosphate (DAHP) production in &lt;em&gt;E. coli&lt;/em&gt;. Results show that pyruvate accumulation due to glucose uptake and erythrose-4-phosphate (E4P) shortages resulting from the slow reaction rate of transketolase (&lt;em&gt;tkt&lt;/em&gt;) limit DAHP production. These results are consistent with published data, indicating that a detailed understanding of metabolic networks can be obtained with minimal experimental data. Additionally, the systematic method identifies four enzymes (&lt;em&gt;Tkt&lt;/em&gt;, &lt;em&gt;Tal&lt;/em&gt;, &lt;em&gt;Pps&lt;/em&gt;, and &lt;em&gt;AroG&lt;/em&gt;) that, when overexpressed experimentally, increase yield to nearly the maximum theoretical limit. Systematic analysis of a toy network also correctly identifies the post-MCS overexpression that results in the largest increases in yield and absolute fluxes. These results indicates that wild-type steady-state flux data can be used to accurately identify enzyme perturbation targets for increasing yield and target flux values.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1375</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2430&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1375</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2430</articleid>
+<submission-date>2012-06-21T16:13:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3016573</context-key>
+<submission-path>utk_gradthes/1375</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tsewei Wang, Cong T. Trinh</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Douglas Birdwell</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Note that Drs. Tsewei Wang and Cong Trinh are co-advisors for this thesis, as approved by S. Kay Reed on July 31, 2012.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Files_for_Web.zip</archive-name>
+<upload-name>Files_for_Web.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2430&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Zip archive containing various scripts used to obtain results.</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

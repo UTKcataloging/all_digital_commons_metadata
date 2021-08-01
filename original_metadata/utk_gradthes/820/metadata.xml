@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of a Signal Conditioning Operational Amplifier for a Reflective Object Sensor</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amaster@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Master</lname>
+<fname>Ankit</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Op amp</keyword>
+<keyword>sensor</keyword>
+<keyword>signal conditioning</keyword>
+<keyword>analog</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Industrial systems often require the acquisition of real-world analog signals for several applications.  Various physical phenomena such as displacement, pressure, temperature, light intensity, etc. are measured by sensors, which is a type of transducer, and then converted into a corresponding electrical signal. The electrical signal obtained from the sensor, usually a few tens mV in magnitude, is subsequently conditioned by means of amplification, filtering, range matching, isolation etc., so that the signal can be rendered for further processing and data extraction.&lt;/p&gt;
+&lt;p&gt;This thesis presents the design and implementation of a general purpose op amp used to condition a reflective object sensor’s output. The op amp is used in a non-inverting configuration, as a current-to-voltage converter to transform a phototransistor current into a usable voltage. The op amp has been implemented using CMOS architecture and fabricated in AMI 0.5-µm CMOS process available through MOSIS.&lt;/p&gt;
+&lt;p&gt;The thesis begins with an overview of the various circuits involving op amps used in signal conditioning circuits. Owing to the vast number of applications for sensor signal conditioning circuits, a brief discussion of an industrial sensor circuit is also illustrated. This is followed by the complete design of the op amp and its implementation in the data acquisition circuit. The op amp is then characterized using simulation results. Finally, the test setup and the measurement results are presented. The thesis concludes with an overview of some possible future work on the sensor-op amp data acquisition circuit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/820</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1850&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>820</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1850</articleid>
+<submission-date>2010-08-17T13:01:30-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1453200</context-key>
+<submission-path>utk_gradthes/820</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed K. Islam, Aly E. Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

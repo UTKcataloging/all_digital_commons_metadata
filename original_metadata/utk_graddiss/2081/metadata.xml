@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptive Nonlinear Optimization Methodology For Installed Capacity Decisions In Distributed Energy/Cooling Heat And Power Applications.</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hudson</lname>
+<fname>Carl</fname>
+<mname>Randolph</mname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Evaluation of potential cooling, heating and power (CHP) applications requires an assessment of the operations and economics of a particular system in meeting the electric and thermal demands of a specific end-use facility.  Given the electrical and thermal load behavior of a facility, the tariff structure for grid-supplied electricity, the price of primary fuel (e.g., natural gas), the operating strategy and characteristics of the CHP system, and an assumed set of installed CHP system capacities (e.g., installed capacity of prime mover and absorption chiller), one can determine the cost of such a system as compared to reliance solely on traditional, grid-supplied electricity and on-site boilers.&lt;/p&gt;
+&lt;p&gt;It has been shown previously in the literature that net present value cost savings of CHP systems exhibit a concave behavior with respect to installed capacity, and thus, an optimum size exists for a given application.  To date, current capacity selection techniques either utilize simple enumeration of candidate choices, heuristic multipliers of the base or peak demand, or apply optimization algorithms on aggregated or averaged demand data.  None of these approaches are likely to result in economic optimality.  This research utilizes hour-by-hour operation simulation of CHP systems to calculate life-cycle net present value (NPV) savings.  Based on maximizing an NPV cost savings objective function, a nonlinear optimization algorithm is used to determine economically optimal CHP system equipment capacities.  This research contributes an improved mechanism that will identify economic optimum capacities for CHP system equipment, thereby producing optimal cost benefits and potentially avoiding economic losses.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2081</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3519&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2081</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3519</articleid>
+<submission-date>2013-09-27T13:08:29-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4641200</context-key>
+<submission-path>utk_graddiss/2081</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adedeji B. Badiru</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chanaka Edirisinghe, Dukwon Kim, William Sullivan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

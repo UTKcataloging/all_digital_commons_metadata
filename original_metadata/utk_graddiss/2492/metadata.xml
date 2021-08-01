@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Structural Health Monitoring and Damage Identification of Bridges Using Triaxial Geophones and Time Series Analysis</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rvashegh@utk.edu</email>
+<lname>Vasheghani Farahani</lname>
+<fname>Reza</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Structural Health Monitoring</keyword>
+<keyword>Damage Identification</keyword>
+<keyword>Geophones</keyword>
+<keyword>Time Series Analysis</keyword>
+<keyword>Bridges</keyword>
+</keywords>
+<disciplines><discipline>Civil Engineering</discipline>
+<discipline>Structural Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This study uses the vibration data of two full-scale bridges, subjected to controlled damage, along the I-40 west, near downtown Knoxville, TN, to evaluate the feasibility of time series-based damage identification techniques for structural health monitoring. The vibration data was acquired for the entrance ramp to James White Parkway from I-40 westbound, and the I-40 westbound bridge over 4th Avenue, before the bridges were demolished during I-40 expansion project called Smartfix40. The vibration data was recorded using an array of triaxial geophones, highly sensitive sensors to record vibrations, in healthy and damaged conditions of the bridges. The vibration data is evaluated using linear stationary time series models to extract damage sensitive-features (DSFs) which are used to identify the condition of bridge. Two time series-based damage identification techniques are used and developed in this study.&lt;/p&gt;
+&lt;p&gt;In the first technique, the vibration data is corrected for sensor transfer function suitable for given geophone type and then convolved with random values to create input for autoregressive (AR) time series models. A two-stage prediction model, combined AR and autoregressive with exogenous input (ARX), is employed to obtain DSFs. An outlier analysis method based on DSF values is used to detect the damage. The technique is evaluated using the vertical vibration data of the two bridges subjected to three controlled amounts of known damage on the steel girders.&lt;/p&gt;
+&lt;p&gt;In the second technique, ARX models and sensor clustering technique is used to obtain prediction errors in healthy and damaged conditions of the bridges. DSF is defined as the ratio of the standard deviations of the prediction errors. The proposed technique is evaluated using the triaxial vibration data of the two bridges.&lt;/p&gt;
+&lt;p&gt;This study also presents finite element analysis of the I-40 westbound bridge over 4th Avenue to obtain simulated vibration data for different damage levels and locations. The simulated data are then used in the ARX models and sensor clustering damage identification technique to investigate the effects of damage location and extent, efficacy of each triaxial vibration, and effect of noise on the vibration-based damage identification techniques.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2492</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3149&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2492</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3149</articleid>
+<submission-date>2013-07-25T23:37:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4350707</context-key>
+<submission-path>utk_graddiss/2492</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dayakar Penumadu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard M. Bennett, Edwin G. Burdette, Vasileios Maroulas</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

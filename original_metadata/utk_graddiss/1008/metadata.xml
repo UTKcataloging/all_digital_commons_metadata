@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Telerobotic Sensor-based Tool Control Derived From Behavior-based Robotics Concepts</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mnoakes@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Noakes</lname>
+<fname>Mark</fname>
+<mname>William</mname>
+</author>
+</authors>
+<keywords>
+<keyword>telerobotics</keyword>
+<keyword>robotics</keyword>
+<keyword>teleoperation</keyword>
+<keyword>tooling</keyword>
+<keyword>behavior-based</keyword>
+</keywords>
+<disciplines><discipline>Electro-Mechanical Systems</discipline>
+</disciplines><abstract>&lt;p&gt;@font-face {   font-family: &quot;TimesNewRoman&quot;; }p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;; }div.Section1 { page: Section1; }&lt;/p&gt;
+&lt;p&gt;Teleoperated task execution for hazardous environments is slow and requires highly skilled operators. Attempts to implement telerobotic assists to improve efficiency have been demonstrated in constrained laboratory environments but are not being used in the field because they are not appropriate for use on actual remote systems operating in complex unstructured environments using typical operators. This work describes a methodology for combining select concepts from behavior-based systems with telerobotic tool control in a way that is compatible with existing manipulator architectures used by remote systems typical to operations in hazardous environment. The purpose of the approach is to minimize the task instance modeling in favor of a priori task type models while using sensor information to register the task type model to the task instance. The concept was demonstrated for two tools useful to decontamination &amp; dismantlement type operations—a reciprocating saw and a powered socket tool. The experimental results demonstrated that the approach works to facilitate traded control telerobotic tooling execution by enabling difficult tasks and by limiting tool damage. The role of the tools and tasks as drivers to the telerobotic implementation was better understood in the need for thorough task decomposition and the discovery and examination of the tool process signature. The contributions of this work include: (1) the exploration and evaluation of select features of behavior-based robotics to create a new methodology for integrating telerobotic tool control with positional teleoperation in the execution of complex tool-centric remote tasks, (2) the simplification of task decomposition and the implementation of sensor-based tool control in such a way that eliminates the need for the creation of a task instance model for telerobotic task execution, and (3) the discovery, demonstrated use, and documentation of characteristic tool process signatures that have general value in the investigation of other tool control, tool maintenance, and tool development strategies above and beyond the benefit sustained for the methodology described in this work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1008</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1987&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1008</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1987</articleid>
+<submission-date>2010-10-23T18:16:32-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1987/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1615660</context-key>
+<submission-path>utk_graddiss/1008</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Lynne E. Parker, Gary V. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>NoakesDissertationFinal0327.pdf</archive-name>
+<upload-name>NoakesDissertationFinal0327.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1987&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

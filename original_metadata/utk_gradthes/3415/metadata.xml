@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>CFD Analysis of Viscosity Effects on Turbine Flow Meter Performance and Calibration</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ctegtmei@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tegtmeier</lname>
+<fname>Carl</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computational Fluid Dynamics (CFD)</keyword>
+<keyword>Turbine Flowmeter</keyword>
+<keyword>6DoF</keyword>
+<keyword>Viscosity Effect</keyword>
+<keyword>Flow Measurement</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Computer-Aided Engineering and Design</discipline>
+</disciplines><abstract>&lt;p&gt;In this research turbine flow meters were studied, using computational fluid dynamics (CFD) modeling to the study effects of viscosity on the flow meters, across a wide range of operation, to improve our understanding and their performance. A three-dimensional computational model was created for a typical flow meter geometry. The work began with a steady state model to provide an acceptable initial condition for further simulations. These results were input into a transient model that has a rotating zone around the rotor to provide insight into the interaction between static and rotational structures. In order to automatically adjust the rotor speed based on the torque imparted on the rotor by the flow, a fluid-structure interaction simulation was employed by treating the rotor as a rigid structure that could freely rotate about its own axis of rotation. This means simulation is better able to match the equilibrium rotor speed and the transient response approaches the true transient response to changing flow rates.&lt;/p&gt;
+&lt;p&gt;A parametric analysis was performed using these models in order to create multiple calibration curves that show the response of the flow meter under various conditions. Each calibration curve consists of running a series of simulations at a range of flow rates for a particular fluid. The calibration curves for a variety of viscosities are assembled to form a Universal Calibration Curve for the meter. This model produced a calibration results that mimics the response seen from experimentation and extensive calibration. The model produces a calibration curve that matches the shape of the curve from the manufacturer’s data. This simulation can be used to model variations in fluids used or changes in the geometry of the flow meter. As the fluid viscosity increases, the average meter factor and linearity decreases. When the kinematic viscosity increase from 1 cSt to 788 cSt the average meter factor decreases from 2227 pulses/ gal to 1390 pulses/gal. This provides a greater understanding of the effects of different fluids on the accuracy of turbine flow meters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3415</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4195&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3415</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4195</articleid>
+<submission-date>2014-09-23T02:01:17-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4195/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6149249</context-key>
+<submission-path>utk_gradthes/3415</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Phuriwat Anusonti-Inthra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ahmad Vakili, Trevor Moeller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

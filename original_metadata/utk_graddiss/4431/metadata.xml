@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Wide-area Analysis of Shifts in Electric Power System Generation Profiles and High-impact Event Scenarios</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mtill@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Till</lname>
+<fname>Micah</fname>
+<mname>Joel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>power system simulation</keyword>
+<keyword>Eastern Interconnection (EI)</keyword>
+<keyword>Western Electricity Coordinating Council (WECC)</keyword>
+<keyword>geomagnetic disturbance (GMD)</keyword>
+<keyword>geomagnetically induced current (GIC)</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Often cited as the largest machine in the world, the electric power grid is a complex system, integral to modern life. Continuous technology advancements over the past hundred years have delivered improvements to both the system itself, e.g., wide-area management systems (WAMS), as well as modeling capabilities in order to better understand how that system functions. Phenomena that could once be simulated only in small, localized settings can now be studied from a wide-area perspective.&lt;/p&gt;
+&lt;p&gt;Chapter 1 briefly introduces the three major U.S. electric interconnections along with wide-area power system analysis tools and the benchmarked models used in this work. It also puts forward two topics that wide-area modeling must address: the effect of generation portfolio changes on dynamic system response and the assessment and hardening of the grid against high-impact, interconnection-wide events.&lt;/p&gt;
+&lt;p&gt;The first topic is investigated in Chapter 2 and Chapter 3. Specifically, Chapter 2 examines dynamic response repercussions of the recent shift from coal-fired generation plants to natural gas turbines. Chapter 3 extends this discussion to the increase in low-inertia renewable sources.&lt;/p&gt;
+&lt;p&gt;Modeling and analysis of wide-area events in line with the second topic, including extreme weather phenomena, solar storms, and physical attacks, as well as methodologies to harden the grid, are investigated in the remainder of this work. Chapter 4 begins with an example of modeling geomagnetically induced current (GIC) effects while Chapter 5 discusses high-altitude electromagnetic pulse (HEMP) components and impacts. Chapter 6, guided by the 2015 Fixing America’s Surface Transportation (FAST) Act, extends the scope of these scenarios and presents a methodology to find the most critical elements for any given system and determine the minimum required spare large power transformer (LPT) reserve that should be available.&lt;/p&gt;
+&lt;p&gt;Conclusions and potential future research directions are presented in Chapter 7.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4431</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5494&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4431</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5494</articleid>
+<submission-date>2016-09-13T05:46:41-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9112890</context-key>
+<submission-path>utk_graddiss/4431</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Kai Sun, Lee Riedinger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Self-Learning License Plate Matching Algorithm: Some Enhancements and Its Role in Travel Time Ground Truth Measurements</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>shargro1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hargrove</lname>
+<fname>Stephanie</fname>
+<mname>Raven Ann</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Transportation</keyword>
+<keyword>License Plate</keyword>
+<keyword>Text-Mining</keyword>
+<keyword>Travel Time</keyword>
+<keyword>Ground Truth</keyword>
+<keyword>Matching Algorithm</keyword>
+</keywords>
+<disciplines><discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Probe vehicle and floating traveler data can provide more detailed information about highway use across a roadway network than traditional transportation data sources. However, there are numerous concerns about accuracy, e.g., road user coverage, locational accuracy, and aggregation methods. To address these concerns, evaluations must be completed using a highly accurate data collection method to capture ideal ground truth. For the purpose of this dissertation, license plate recognition (LPR) technology is considered to be the suitable collection method for, and in lieu of, the all ground truth. The data can be obtained using a pair of mobile LPR units to automatically acquire and record license plates at sequential locations along a study route. LPR acquired license plates are then matched automatically by means of a self-learning text-mining algorithm. The algorithm relies on the weighted edit distances of each license plate character to drastically increase the number of correctly matched license plates (97% matching rate with 1% false-positives). To ensure that LPR technology is the best option for the evaluation of real-time data, the license plate matching algorithm requires enhancements to improve matching accuracy and learning speed.&lt;/p&gt;
+&lt;p&gt;To address the required enhancements, this dissertation evaluates the initial matching process of the algorithm to help increase the speed of learning and matching of license plates. This was completed by updating the starting association matrix- the probability matrix which supplies the similarity measure for the edit distance calculation to determine the likelihood of a match between two associated LPR stations. To further enhance the matching algorithm, the research sought to improve on the procedure for estimating association matrices for problematic LPR stations by deriving an association matrix for a pair of LPR stations. Lastly, the LPR technology and the matching algorithm are employed to capture ground truth and employed to determine the key considerations when evaluating real-time travel times. The overall results are a drastic reduction in learning time, an increase in matching accuracy at problematic LPR stations, and a strong understating of the key considerations when using LPR as ground truth.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3302</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4720&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3302</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4720</articleid>
+<submission-date>2015-02-27T10:23:47-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4720/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6742373</context-key>
+<submission-path>utk_graddiss/3302</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christopher Cherry, Xueping Li, William Seaver</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

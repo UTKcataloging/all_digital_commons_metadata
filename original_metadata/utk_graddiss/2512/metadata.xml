@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fracture Toughness Testing with Notched Round Bars</title>
+<publication-date>1997-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wilson</lname>
+<fname>Christopher</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Current fracture toughness testing is conducted with planar specimens, such as the compact tension C(T) specimen and the single edge bend SE(B) specimen. The crack front in a planar specimen has a constraint condition which varies through the thickness from plane stress on the lateral surfaces to plane strain in the middle of the specimen. This change in constraint makes the geometry of planar specimens three-dimensional; however, two-dimensional analyses based on the assumption of plane stress or plane strain are often performed.&lt;/p&gt;
+&lt;p&gt;An alternative specimen geometry is the notched round bar (NRB). This axisymmetric geometry has the advantage of constant constraint in the circumferential direction. Additionally, the NRB geometry can be modeled using an axisymmetric formulation--essentially a two-dimensional analysis.&lt;/p&gt;
+&lt;p&gt;The suitability of the notched round bar geometry for fracture toughness testing was studied. Notched round bars with finite notch root radii were loaded to failure in tension to generate load-displacement curves. In an effort to simplify test methodology, no fatigue precracking was done. Four different materials with a range of strength and hardening characteristics were tested: 2024-T351 aluminum alloy, averaged 2024, a modified A302B pressure vessel steel and nylon 6/6. Three different notch root radii &lt;em&gt;ρ&lt;/em&gt; were used. The apparent fracture toughness values using finite &lt;em&gt;ρ&lt;/em&gt; were linearly extrapolated to a zero notch root radius to infer sharp-crack fracture toughness.&lt;/p&gt;
+&lt;p&gt;For the 2024-T351 and the modified A302B KRB specimens, apparent fracture toughness K&lt;sub&gt;Jc&lt;/sub&gt;versus √ρ was extrapolated to √ρ  = 0. The extrapolated fracture toughness values closely agreed with fracture toughness values obtained from precracked C (T) specimens. The NRB results for modified A302B were used to determine &lt;em&gt;T&lt;/em&gt;&lt;sub&gt;o&lt;/sub&gt;, the reference temperature in a three-parameter Weibull model for characterizing the ductile to brittle transition. The resulting N RB master curve agreed closely to the master curve developed from precracked C(T) specimens.&lt;/p&gt;
+&lt;p&gt;For the averaged 2024 and the nylon 6/6 NRB specimens, apparent fracture toughness &lt;em&gt;J&lt;/em&gt; = &lt;em&gt;J&lt;/em&gt;(ρ) versus crack extension ∆&lt;em&gt;a&lt;/em&gt; were plotted. A &lt;em&gt;J&lt;sub&gt;Q&lt;/sub&gt;&lt;/em&gt; construction, similar to the construction in the ASTM E813 &lt;em&gt;J&lt;/em&gt;&lt;sub&gt;Ic&lt;/sub&gt; test method, was used to determine apparent initiation fracture toughness &lt;em&gt;J&lt;sub&gt;Q&lt;/sub&gt;&lt;/em&gt;(&lt;em&gt;p&lt;/em&gt;). A plot of &lt;em&gt;J&lt;sub&gt;Q&lt;/sub&gt;&lt;/em&gt;(&lt;em&gt;ρ&lt;/em&gt;) versus &lt;em&gt;p&lt;/em&gt; was linearly extrapolated to &lt;em&gt;p&lt;/em&gt; = 0. The NRB results compared favorably to the results obtained from precracked C(T) and SE(B) specimens. However, the amount of stable crack growth obtained with the NRB geometry was very small---an order of magnitude smaller than that obtained with the planar specimens.&lt;/p&gt;
+&lt;p&gt;In performing this research, three key technological advances in fracture mechanics and plasticity were used. The first advance was the previously mentioned extrapolation procedure to relate apparent fracture toughness for notched specimens with sharp-crack fracture toughness. The second advance was the use of the load separation method to determine &lt;em&gt;J &lt;/em&gt;and ∆a without direct crack length measurement. The third advance was the inclusion of hydrostatic stress effects on yielding in the nonlinear finite element analyses of the KRB geometry. The application of these three technological advances was essential to the successful outcome of this research.&lt;/p&gt;
+&lt;p&gt;The conclusions reached in this study are threefold. First, the notched round bar geometry is a suitable alternative to current planar geometries for &lt;em&gt;K&lt;/em&gt;-based initiation fracture toughness testing. Second. the NRB geometry is an attractive al­ternative for K&lt;sub&gt;&lt;em&gt;Jc&lt;/em&gt;&lt;/sub&gt; fracture toughness testing in the transition range of ferritic steels. Third, although a &lt;em&gt;J-R&lt;/em&gt; curve can be developed using the NRB geometry, the small amount of stable crack growth obtained severely limits the use of notched round bars. Based on these conclusions. it is recommended that further studies involving the notched round bar be made.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2512</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3901&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2512</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3901</articleid>
+<submission-date>2013-11-14T12:02:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4822731</context-key>
+<submission-path>utk_graddiss/2512</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John D. Landes</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald McCabe, Peter K. Liaw, Raymond Krieg</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1997-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1997-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

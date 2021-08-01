@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Application of 3-D Fuel Performance Modeling to Assess Missing Pellet Surface Influence on Pellet Clad Interaction and Clad Failure</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ncapps@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Capps</lname>
+<fname>Nathan</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Pellet Cladding Interaction</keyword>
+<keyword>Missing Pellet Surface</keyword>
+</keywords>
+<disciplines><discipline>Mechanics of Materials</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In the late 1970s PCI related failures caused the implementation of startup ramp restrictions. These ramp restrictions where intended to reduce the stresses caused by pellet cladding contact. These ramp restrictions had a significant impact on Westinghouse fueled PWRs, reducing PCI related failure until 2003. Through investigation into these fuel rod failures lead to the conclusion that missing pellet surfaces (MPS) were the root cause of the failures. MPS are local geometric defects in nuclear fuel pellets that result from pellet mishandling or the manufacturing process. The presence of MPS defects can cause stress concentrations in the clad of sufficient magnitude to produce through-wall cladding failure for certain combinations of fuel burnup, and reactor power level or power change. Consequently, the impact of potential MPS defects has significant ly limited the rate of power increase, or ramp rate, in both pressurized and boiling water reactors (PWRs and BWRs, respectively). Improved three-dimensional (3-D) fuel performance models of MPS defect geometry can provide better understanding of the probability for pellet clad mechanical interaction (PCMI), and correspondingly the available margin against cladding failure by stress corrosion cracking (SCC). The Bison fuel performance code has been developed within the Consortium of Advanced Simulations of Light Water Reactors (CASL) to consider the inherently multi-physics and multi-dimensional mechanisms that control fuel behavior, including cladding stress concentrations resulting from MPS defects. Bison is built upon the Multi-physics Object-Oriented Simulation Environment (MOOSE) developed at Idaho National Laboratory (INL). MOOSE is a massively parallel finite element computational system that uses a Jacobian-free, Newton-Krylov (JFNK) method to solve coupled systems of non-linear partial differential equations. In addition, the MOOSE framework provides the ability to effectively use massively parallel computational capabilities needed to create high fidelity 3-D models of a fuel rod, as well as full-length R-Z rods, and R-Theta geometric representation. This PhD dissertation documents my contributions to the development of Bison, specifically focused on verification and validation of a 2-D, axi-symmetric version of Bison through benchmarking comparisons to Falcon model predictions and Halden Instrumented Fuel Assembly (IFA) experiments of both thermal and mechanical behavior. Initial benchmark comparisons indicate that Bison predictions agree quite well with 2-D Falcon predictions and Halden experimental data on fuel centerline temperature but that further developments are necessary for some models, including fission gas release and gaseous swelling. The mechanical behavior benchmarking study has compared predictions of clad deformation to dilatational measurements, and the results show promising agreement. Subsequently, this dissertation documents my evaluation of the cladding hoop stress distributions as a function of MPS defect geometry and the presence of discrete pellet cracks for a set of typical operating conditions in a PWR fuel rod, as a function of reactor operating history. These results provide a first step in a probabilistic approach to assess cladding failure during power maneuvers. My research provides insight into how varying pellet defect geometries affect the distribution of the cladding stress, as well as the temperature distributions within the fuel and clad; and are used to develop stress concentration factors for comparing 2-D and 3-D models. Finally, the objective of this dissertation is to develop a methodology to determine rod failure, and then to utilize the resulting failure criteria to evaluate specific historical MPS and PCI failures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3685</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5246&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3685</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5246</articleid>
+<submission-date>2016-03-28T07:42:01-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5246/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8388473</context-key>
+<submission-path>utk_graddiss/3685</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian D. Wirth</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Weber, Lawerence Miller, Ivan Maldonado</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

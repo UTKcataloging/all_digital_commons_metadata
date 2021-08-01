@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reconfigurable Hardware Acceleration of Exact Stochastic Simulation</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Thurmon</lname>
+<fname>Brandon</fname>
+<mname>Parks</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis explores the use of reconfigurable hardware in modeling chemical species reacting in a spatially homogeneous environment. The time evolution of biochemical models is often evaluated using a deterministic approach that uses differential equations to describe the chemical interactions of the model. However, such an approach treats species as continuous valued concentrations, is inaccurate for small species populations, and neglects the stochastic nature of biochemical systems. The Stochastic Simulation Algorithm (SSA) developed by Gillespie is able to properly account for these inherent noise fluctuations. This allows the SSA to accurately project the time evolution of a biochemical model. Unfortunately, the SSA can be computationally intensive and require a substantial amount of time to complete.&lt;/p&gt;
+&lt;p&gt;Therefore, it has been proposed that the SSA be implemented on a Field Programmable Gate Array (FPGA) to improve performance. Employing an FPGA allows parallelism to be exploited within the SSA providing a speedup over software implementations executing instructions sequentially. Recent work in this area has focused on implementing the SSA on an FPGA to simulate specific biochemical models. However, this requires re-constructing and re-synthesizing the design in order to simulate a new biochemical system. This work examines the use of a reconfigurable computing platform to allow an implementation of the SSA on an FPGA to simulate a variety of models. The designs presented herein demonstrate a speedup of roughly 1.5X.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2550</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3800&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2550</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3800</articleid>
+<submission-date>2013-10-18T10:25:02-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4738848</context-key>
+<submission-path>utk_gradthes/2550</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Chris D. Cox</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

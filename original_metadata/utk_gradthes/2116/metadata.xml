@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Reconfigurable Computing Solution to the Parameterized Vertex Cover Problem</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mahesh</lname>
+<fname>Dorai</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Active research has been done in the past two decades in the field of computational intractability. This thesis explores parallel implementations on a RC (reconfigurable computing) platform for FPT (&lt;em&gt;fixed-parameter tractable&lt;/em&gt;) algorithms.&lt;/p&gt;
+&lt;p&gt;Reconfigurable hardware implementations of algorithms for solving NP-Complete problems have been of great interest for research in the past few years. However, most of the research that has been done target exact algorithms for solving problems of this nature. Although such implementations have generated good results, it should be kept in mind that the input sizes were small. Moreover, most of these implementations are instance-specific in nature making it mandatory to generate a different circuit for every new problem instance.&lt;/p&gt;
+&lt;p&gt;In this work, we present an efficient and scalable algorithm that breaks out of the conventional instance-specific approach towards a more general parameterized approach to solve such problems. We present approaches based on the theory of &lt;em&gt;fixed-parameter tractability. &lt;/em&gt;The prototype problem used as a case study here is the classic vertex cover problem. The hardware implementation has demonstrated speedups of the order of 100x over the software version of the vertex cover problem.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2116</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3477&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2116</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3477</articleid>
+<submission-date>2013-10-04T14:37:08-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4672202</context-key>
+<submission-path>utk_gradthes/2116</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Donald W. Bouldin, Dr. Michael A. Langston, Dr. Chandra Tan, Dr. Philip Locasio</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

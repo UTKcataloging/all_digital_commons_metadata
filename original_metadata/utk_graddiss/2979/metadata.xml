@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Inverse Dynamics and Control for Nuclear Power Plants</title>
+<publication-date>1991-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Berkan</lname>
+<fname>Riza</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A new nonlinear control technique was developed by reformulating one of the “inverse Problems” techniques in mathematics, namely the reconstruction problem.  The theory identifies an important concept called inverse dynamics which is always a known property for systems already developed or designed.  Accordingly, the paradigm is called “reconstructive inverse dynamics” (RID) control.  The standard state-space representation of dynamic systems constitutes a sufficient foundation to derive an algebraic RID control law that provides solutions in one step computation.  The existence of an inverse solution is guaranteed for a limited dynamic space.  Outside the guaranteed range, existence depends on the nature of the system under consideration.  Derivations include adaptive features to minimize the effects of modeling errors and measurement degradation on control performance.&lt;/p&gt;
+&lt;p&gt;A comparative study is included to illustrate the relationship between the RID control and optimal control strategies.  A set of performance factors were used to investigate the robustness against various uncertainties and the suitability for digital implementation in large scale-systems.  All of the illustrations are based on computer simulations using nonlinear models.  The simulation results indicate a significant improvement in robust control strategies.  The control strategy can be implemented on-line by exploiting its algebraic design property.&lt;/p&gt;
+&lt;p&gt;Three applications to nuclear reactor systems are presented.  The objective is to investigate the merit of the RID control technique to improve nuclear reactor operations and increase plant availability.  The first two applications include xenon induced power oscillations and feed water control in conventional light water reactors.  The third application consists of an automatic control system design for the startup of the Experimental Breeder Reactor-II (EBR-II).  The nonlinear dynamic models used in this analysis were previously validated against available plant data.  The simulation results show that the RID technique has the potential to improve reactor control strategies significantly.  Some of the observations include accurate xenon control, and rapid feed water maneuvers in pressurized water reactors, and successful automated startup of the EBR-II.&lt;/p&gt;
+&lt;p&gt;The scope of the inverse dynamics approach is extended to incorporate artificial intelligence methods within a systematic strategy design procedure.  Since the RID control law includes the dynamics of the system, its implementation may influence plant component and measurement design.  The inverse dynamics concept is further studied in conjunction with artificial neural networks and expert systems to develop practical control tools.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2979</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4469&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2979</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4469</articleid>
+<submission-date>2014-10-24T12:15:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6284316</context-key>
+<submission-path>utk_graddiss/2979</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>John M. Bailey, Robert E. Uhrig, Lefteri Tsoukalas</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1991-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1991-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimizing Boat Hull and Deck Mold Storage Scheduling with Linear Programming</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tdareing@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Dareing</lname>
+<fname>Tron</fname>
+<mname>Bjorn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>linear programming</keyword>
+<keyword>scheduling</keyword>
+<keyword>optimization</keyword>
+<keyword>operations research</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;With a wide range of products, Sea Ray uses a vast amount of large boat molds for each of the different boat models. Storing and transporting these molds can be an issue with introducing high variability in the production process. One of the largest problems deals with the utilization of the employees’ time with the large amount of boat production. Having the boat molds being ready for production is a critical part of the manufacturing of quality boats. There is non-value added time spent on preparing the molds for the lamination process and storing them in various areas. This problem arises from an unstandardized method of picking and storing hull and deck molds unrelated to the production schedule.&lt;/p&gt;
+&lt;p&gt;In order to improve this scenario, the production team needs to know what molds are needed for production, where the molds are located, and that the right maintenance has been conducted. The project scope focused on the hull and deck mold lamination process in the lamination building. This process starts from the pulling of the hull and deck molds from storage to when the part is removed from the mold and taken back to storage or production prepping. Linear programming was applied to minimize the cost of the transportation and preparation of the hull and deck molds as well as mold maintenance. Utilizing linear programing, an optimal mold storing schedule was developed based off of the production schedule and storing constraints.&lt;/p&gt;
+&lt;p&gt;After running the model, there was a direct connection between the storing of the molds and the production schedule. The same production demand for the week could change based on how the production was scheduled each day. Even though higher production yielded a higher total cost, the total cost could be decreased by having molds be continuously used for production. The model used to optimize the mold scheduling could actually be used to schedule the daily production. With the implementation of a standardized mold scheduling system, total weekly costs can be decreased as well as the non-value added time of the mold transportation and maintenance employees.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2805</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4065&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2805</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4065</articleid>
+<submission-date>2014-04-21T13:36:46-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4065/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5504330</context-key>
+<submission-path>utk_gradthes/2805</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rupy Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>H. Lee Martin, Reid Kress</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

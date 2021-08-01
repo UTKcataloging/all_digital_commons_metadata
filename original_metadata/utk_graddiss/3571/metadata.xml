@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigating advection control in competitive PDE systems and environmental transmission in Johne&#39;s Disease ODE models</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kdesilva@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>De Silva</lname>
+<fname>Kokum</fname>
+<mname>Rekha</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Optimal control</keyword>
+<keyword>Advection direction</keyword>
+<keyword>Competitive systems</keyword>
+<keyword>Johne&#39;s Disease</keyword>
+<keyword>Deterministic models</keyword>
+<keyword>Environmental transmission</keyword>
+</keywords>
+<disciplines><discipline>Applied Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;We extend the work on optimal control of advective direction in a reaction-diffusion population model to a system representing two competing populations. We investigate the choice of movement direction to benefit a population. First, the advective direction in one of the populations in a competition model is the control. Next, we extend the work by taking the advective directions of both populations as controls. In both these cases the objective is to maximize a weighted combination of the two populations while minimizing the cost involved in the species movement. Mathematical analysis is completed to derive the optimality system and numerical results illustrating solutions of this system are presented.&lt;/p&gt;
+&lt;p&gt;Johne&#39;s disease is a bacterial infection caused by &lt;em&gt;Mycobacterium avium&lt;/em&gt; subspecies &lt;em&gt;paratuberculosis&lt;/em&gt; (MAP). It is a chronic, progressive, and infectious disease which has a long incubation period and probably not curable. The main problem with the disease is the reduction of milk production in infected dairy cows. We develop a deterministic model to describe the dynamics of the Johne&#39;s disease in a dairy farm. In this model we use a system of ordinary differential equations to describe the behavior of Johne&#39;s disease among dairy cows considering the progression of the disease and the age structure of the cows. We analyze the behavior of the Johne&#39;s disease by investigating the effects of the persistence of the bacteria in the environment. Stability and numerical results are computed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3571</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5008&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3571</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5008</articleid>
+<submission-date>2015-10-08T09:37:04-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7693870</context-key>
+<submission-path>utk_graddiss/3571</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne M. Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy Day, Tuoc Phan, Shigetoshi Eda</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Unique Characteristics of Liquid Metal Extended Meniscus Evaporation</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tipton, Jr.</lname>
+<fname>Joseph</fname>
+<mname>Brown</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The research in this dissertation addresses the steady evaporation of a capillary pore with a liquid metal working fluid. First, the interline region of an extended meniscus thin film is considered for the unique physical case of a liquid metal. A new thin film evaporation model is presented that captures the unsimplified dispersion force along with an electronic disjoining pressure component that is unique to liquid metals. The resulting nonlinear 4th-order ODE is solved using an implicit orthogonal collocation technique along with the Levenberg-Marquardt method. Results show that the electronic component of the disjoining pressure should be considered when modeling liquid metal extended meniscus evaporation for a wide range of work function boundary values, which represent physical properties of dierent liquid metals. For liquid sodium, as an example test material, variation in the work function produces order-of-magnitude dierences in the film thickness and evaporation profile. Second, the extended meniscus thin film model is spliced with a CFD model of the evaporating bulk meniscus. The result is a multiscale model of the total evaporating capillary meniscus with a nonisothermal interface and non-equilibrium evaporation. Integration of the evaporative mass flux across the total meniscus surface area produces total capillary evaporative mass flow rates and enables comparisons between electronic disjoining pressure states. The clear trend from these comparisons is that a larger electronic component of the disjoining pressure leads towards larger extended meniscus thin film surface area, larger total capillary meniscus surface area, and larger net evaporative mass flow rate (which corresponds with larger heat flow rate, as well). Finally, an outline is presented of the scope of the general problem in the application of nonlinear stability theory to a liquid metal evaporating thin film.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/64</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1094&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>64</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1094</articleid>
+<submission-date>2009-12-22T12:18:09-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1096749</context-key>
+<submission-path>utk_graddiss/64</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kenneth D. Kihm</value>
+</field>
+<field name="advisor2" type="string">
+<value>Masood Parang, Jay I. Frankel, Arthur E. Ruggles</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Thermal Feasibility Study and Design of an Air-cooled Rectangular Wide Band Gap Inverter</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jfaulkn4@utk.edu</email>
+<lname>Faulkner</lname>
+<fname>Jacob</fname>
+<mname>Christopher</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Heat Transfer</keyword>
+<keyword>Air Cooling</keyword>
+<keyword>High Temperature Electronic Packaging</keyword>
+<keyword>Inverters</keyword>
+<keyword>COMSOL</keyword>
+</keywords>
+<disciplines><discipline>Heat Transfer, Combustion</discipline>
+</disciplines><abstract>&lt;p&gt;All power electronics consist of solid state devices that generate heat.  Managing the temperature of these devices is critical to their performance and reliability.  Traditional methods involving liquid-cooling systems are expensive and require additional equipment for operation.  Air-cooling systems are less expensive but are typically less effective at cooling the electronic devices.  The cooling system that is used depends on the specific application.&lt;/p&gt;
+&lt;p&gt;Until recently, silicon based devices have been used for the solid-state devices in power electronics.  Newly developed silicon-carbide based wide band gap devices operate at maximum temperatures higher than traditional silicon devices.  Due to the permissible increase in operating temperatures, it has been proposed to develop an air-cooling system for an inverter consisting of silicon carbide devices.&lt;/p&gt;
+&lt;p&gt;This thesis presents recent research efforts to develop the proposed air-cooling system.  The thermal performance of the each design iteration was determined by numerical simulations via the finite element method in both steady state and transient mode using COMSOL Multi-physics software version 3.5a.  For all simulations presented in this thesis, the heat dissipated in the MOSFETS and diodes are specified as functions of current, voltage, switching frequency, and junction temperature.  For both the steady state and transient simulations, the junction temperature was determined iteratively.  Additionally in the transient simulations, the current distribution is a function of time and was deduced from the EPA US06 drive cycle.  After several design iterations, a thermally feasible design has been reached.  This design is presented in detail in this thesis.&lt;/p&gt;
+&lt;p&gt;Under transient simulations of the final design, the maximum junction temperatures were determined to be below 146 ºC for air flow rates of 30 and 60 CFM, which is substantially lower than the 250 ºC maximum allowable junction temperature of Si-C devices.  However for steady state simulations, junction temperatures were found to be much higher than the transient simulations.  It was determined that a minimum flow rate of 50 CFM is required to meet the temperature requirements of the Si-C devices under steady state operating conditions.  The power density of this air-cooled final design is 11.75 kW/L, and it is competitive with liquid-cooled systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/870</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1926&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>870</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1926</articleid>
+<submission-date>2010-12-08T08:19:03-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1926/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1675858</context-key>
+<submission-path>utk_gradthes/870</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rao V. Arimilli</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay Frankel, James Conklin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

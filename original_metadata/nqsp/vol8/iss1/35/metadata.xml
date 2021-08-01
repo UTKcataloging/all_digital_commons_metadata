@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Identification and Mapping of Woody Habitat Using Digital Ortho Imagery</title>
+<publication-date>2017-11-08T08:26:04-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>Keith.wethington@ky.gov</email>
+<institution>Kentucky Department of Fish and Wildlife Resources</institution>
+<lname>Wethington</lname>
+<fname>Keith</fname>
+</author>
+</authors>
+<keywords>
+<keyword>National Agriculture Imagery Program</keyword>
+<keyword>NAIP</keyword>
+<keyword>ortho imagery</keyword>
+<keyword>habitat mapping</keyword>
+<keyword>National Landcover Dataset 2006</keyword>
+<keyword>Kentucky Canopy Closure 2011</keyword>
+<keyword>image classification toolbar</keyword>
+<keyword>aggregate tool</keyword>
+<keyword>interactive unsupervised classification</keyword>
+<keyword>colinus virginianus</keyword>
+<keyword>northern bobwhite</keyword>
+</keywords>
+<disciplines><discipline>Natural Resources and Conservation</discipline>
+</disciplines><abstract>&lt;p&gt;Northern bobwhite (&lt;em&gt;Colinus virginianus&lt;/em&gt;) restoration efforts operate at multiple spatial scales, from landscape (regional) levels to farm level (local). Choosing proper data sources, analysis techniques, and accounting for differences in scale (minimum mapping unit) between sources are critical first steps to successfully delivering habitat information useful for broad regional planning efforts and site specific research and management activities. To this end, we compared 3 methods of creating a habitat map and associated data: National Landcover Dataset (NLCD) 2006, hand digitized from 2010 National Agriculture Imagery Program (NAIP) imagery, and an Interactive Supervised Classification of 1-m NAIP imagery using ArcGIS 10.1. We analyzed a 3,660-ha portion of Peabody Wildlife Management Area in Muhlenberg and Ohio counties in west central Kentucky. We also compared percent cover of forest canopy closure using 2011 NLCD Percent Canopy Closure along with 10-m and 30-m aggregated datasets derived from image classification. Office inspection of aerial imagery and field verification yielded a 94% positive identification of woody vegetation. We found good agreement between NLCD 2006 and Image Classification for habitat classes. Hand digitizing did not compare well and this method is not recommended for creating digital habitat data. Percent Canopy closure yielded similar results between data sources. We found the smaller pixel size of the 10-m aggregate data to better identify small woody patches in open matrix. Use of 30-m national datasets to compare basic habitat across large areas is well warranted. Site specific research and management activities will benefit from image classification of 1-m imagery. We recommend additional research into the relationship between varying pixel size and habitat classification.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/nqsp/vol8/iss1/35</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1512&amp;amp;context=nqsp&amp;amp;unstamped=1</fulltext-url>
+<label>35</label>
+<document-type>bobwhite_restoration</document-type>
+<type>article</type>
+<articleid>1512</articleid>
+<submission-date>2017-10-31T06:37:27-07:00</submission-date>
+<publication-title>National Quail Symposium Proceedings</publication-title>
+<context-key>10974210</context-key>
+<submission-path>nqsp/vol8/iss1/35</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2017-10-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="short_title" type="string">
+<value>Automated Identification and Mapping of Woody Habitat</value>
+</field>
+</fields>
+</document>
+</documents>

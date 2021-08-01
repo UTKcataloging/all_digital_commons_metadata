@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Mining and Machine Learning Applications of Wide-Area Measurement Data in Electric Power Systems</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>markham@utk.edu</email>
+<lname>Markham</lname>
+<fname>Penn</fname>
+<mname>Norris</mname>
+</author>
+</authors>
+<keywords>
+<keyword>phasor measurement unit</keyword>
+<keyword>PMU</keyword>
+<keyword>FNET</keyword>
+<keyword>wide-area measurement systems</keyword>
+<keyword>data mining</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Wide-area measurement systems (WAMS) are quickly becoming an important part of modern power system operation. By utilizing the Global Positioning System, WAMS offer highly accurate time-synchronized measurements that can reveal previously unobtainable insights into the grid’s status. An example WAMS is the Frequency Monitoring Network (FNET), which utilizes a large number of Internet-connected low-cost Frequency Disturbance Recorders (FDRs) that are installed at the distribution level.&lt;/p&gt;
+&lt;p&gt;The large amounts of data collected by FNET and other WAMS present unique opportunities for data mining and machine learning applications, yet these techniques have only recently been applied in this domain. The research presented here explores some additional applications that may prove useful once WAMS are fully integrated into the power system. Chapter 1 provides a brief overview of the FNET system that supplies the data used for this research. Chapter 2 reviews recent research efforts in the application of data mining and machine learning techniques to wide-area measurement data. In Chapter 3, patterns in frequency extrema in the Eastern and Western Interconnections are explored using cluster analysis. In Chapter 4, an artificial neural network (ANN)-based classifier is presented that can reliably distinguish between different types of power system disturbances based solely on their frequency signatures. Chapter 5 presents a technique for constructing electromechanical transient speed maps for large power systems using FNET data from previously detected events. Chapter 6 describes an object-oriented software framework useful for developing FNET data analysis applications.&lt;/p&gt;
+&lt;p&gt;In the United States, recent environmental regulations will likely result in the removal of nearly 30 GW of oil and coal-fired generation from the grid, mostly in the Eastern Interconnection (EI). The effects of this transition on voltage stability and transmission line flows have previously not been studied from a system-wide perspective. Chapter 7 discusses the results of power flow studies designed to simulate the evolution of the EI over the next few years as traditional generation sources are replaced with greener ones such as natural gas and wind.&lt;/p&gt;
+&lt;p&gt;Conclusions, a summary of the main contributions of this work, and a discussion of possible future research topics are given in Chapter 8.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1590</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2752&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1590</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2752</articleid>
+<submission-date>2012-11-01T08:31:18-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3439344</context-key>
+<submission-path>utk_graddiss/1590</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne E. Parker, Leon M. Tolbert, Joshua S. Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

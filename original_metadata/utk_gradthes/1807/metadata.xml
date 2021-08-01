@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Novel Algorithms and Datamining for Clustering Massive Datasets</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Buddana</lname>
+<fname>Aruna</fname>
+<mname>K</mname>
+</author>
+</authors>
+<disciplines><discipline>Statistics and Probability</discipline>
+</disciplines><abstract>&lt;p&gt;Clustering proteomics data is a challenging problem for any traditional clustering algorithm. Usually, the number of samples is much smaller than the number of protein peaks. The use of a clustering algorithm which does not take into consideration the number of feature of variables (here the number of peaks) is needed. An innovative hierarchical clustering algorithm may be a good approach. This work proposes a new dissimilarity measure for the hierarchical clustering combined with a functional data analysis. This work presents a specific application of functional data analysis (FDA) to a highthrouput proteomics study. The high performance of the proposed algorithm is compared to two popular dissimilarity measures in the clustering of normal and Human T Cell Leukemia Virus Type 1 (HTLV-1)-infected patients samples.&lt;/p&gt;
+&lt;p&gt;The difficulty in clustering spatial data is that the data is multi - dimensional and massive. Sometimes, an automated clustering algorithm may not be sufficient to cluster this type of data. An iterative clustering algorithm along with the capability of visual steering may be a good approach. This case study proposes a new iterative algorithm which is the combination of automated clustering methods like the bayesian clustering, detection of multivariate outliers, and the visual clustering. Simulated data from a plasma experiment and real astronomical data are used to test the performance of the algorithm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1807</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3160&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1807</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3160</articleid>
+<submission-date>2013-09-06T11:16:40-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4559764</context-key>
+<submission-path>utk_gradthes/1807</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Halima Bensmail</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mary Leitnaker, Robert Mee</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

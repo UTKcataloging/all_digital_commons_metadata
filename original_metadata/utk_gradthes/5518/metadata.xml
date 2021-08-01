@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Testing and Measurement in a High Voltage and High dv/dt Environment Demonstrated in a 10 kV SiC Based MMC Phase-Leg</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Palmer</lname>
+<fname>James</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SiC</keyword>
+<keyword>testing</keyword>
+<keyword>voltage sensor</keyword>
+<keyword>high dv/dt</keyword>
+<keyword>measurement</keyword>
+<keyword>medium voltage converter</keyword>
+</keywords>
+<abstract>&lt;p&gt;High voltage ($&gt;$ 3 kV) SiC devices have several benefits over their Si counterparts including high blocking voltage and faster turn-on and turn-off times, which leads to less power loss and high converter switching frequencies. These benefits also bring new challenges in measurement and testing due to the insulation design and high dv/dt associated with the device. This thesis focuses on the voltage and current sensing and testing of medium voltage converters. For the testing setup, the challenge is selecting an appropriate source and load, making several measurements simultaneously,  determining the converter’s efficiency, and addressing safety concerns. For the sensors, the main challenges involve reducing the noise caused by high dv/dt in neighboring circuity, and since $i_c = C \frac{dv}{dt}$, this mostly involves reducing  the stray capacitance. A Modular Multilevel Converter (MMC) submodule is used to demonstrate the sensor and testing setup. The voltage sensor and its impact on the control of the MMC will be stressed.  Finally, suggestions for the design of medium voltage sensors will be given.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5518</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6991&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5518</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6991</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914313</context-key>
+<submission-path>utk_gradthes/5518</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Kevin Bai</value>
+</field>
+<field name="comments" type="string">
+<value>Chapter 3 was published in ECCE 2019 proceedings.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

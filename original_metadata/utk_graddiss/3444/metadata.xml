@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A GHz-range, High-resolution Multi-modulus Prescaler for Extreme Environment Applications</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bmccue@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>McCue</lname>
+<fname>Benjamin</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>prescaler divider radiation single-event error correction</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;The generation of a precise, low-noise, reliable clock source is critical to developing mixed-signal and digital electronic systems. The applications of such a clock source are greatly expanded if the clock source can be configured to output different clock frequencies. The phase-locked loop (PLL) is a well-documented architecture for realizing this configurable clock source. Principle to the configurability of a PLL is a multi-modulus divider. The resolution of this divider (or prescaler) dictates the resolution of the configurable PLL output frequency. In integrated PLL designs, such a multi-modulus prescaler is usually sourced from a GHz-range voltage-controlled oscillator. Therefore, a fully-integrated PLL ASIC requires the development of a high-speed, high-resolution multi-modulus prescaler.&lt;/p&gt;
+&lt;p&gt;The design challenges associated with developing such a prescaler are compounded when the application requires the device to operate in an extreme environment. In these extreme environments (often extra-terrestrial), wide temperature ranges and radiation effects can adversely affect the operation of electronic systems. Even more problematic is that extreme temperatures and ionizing radiation can cause permanent damage to electronic devices. Typical commercial-off-the-shelf (COTS) components are not able withstand such an environment, and any electronics operating in these extreme conditions must be designed to accommodate such operation.&lt;/p&gt;
+&lt;p&gt;This dissertation describes the development of a high-speed, high-resolution, multi-modulus prescaler capable of operating in an extreme environment. This prescaler has been developed using current-mode logic (CML) on a 180-nm silicon-germanium (SiGe) BiCMOS process. The prescaler is capable of operating up to at least 5.4 GHz over a division range of 16-48 with a total of 27 configurable moduli. The prescaler is designed to provide excellent ionizing radiation hardness, single-event latch-up (SEL) immunity, and single-event upset (SEU) resistance over a temperature range of −180°C to 125°C.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3444</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4840&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3444</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4840</articleid>
+<submission-date>2015-05-22T07:07:23-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7132194</context-key>
+<submission-path>utk_graddiss/3444</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Britton, Jeremy Holleman, Jayson Hayward</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

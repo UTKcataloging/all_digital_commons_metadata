@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Modeling, Sensor Placement Design, and Fault Diagnosis of Nuclear Desalination Systems</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fli4@utk.edu</email>
+<lname>Li</lname>
+<fname>Fan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Sensor placement design</keyword>
+<keyword>Fault detection and isolation</keyword>
+<keyword>Nuclear desalination</keyword>
+<keyword>Dynamic modeling</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Fault diagnosis of sensors, devices, and equipment is an important topic in the nuclear industry for effective and continuous operation of nuclear power plants. All the fault diagnostic approaches depend critically on the sensors that measure important process variables. Whenever a process encounters a fault, the effect of the fault is propagated to some or all the process variables. The ability of the sensor network to detect and isolate failure modes and anomalous conditions is crucial for the effectiveness of a fault detection and isolation (FDI) system. However, the emphasis of most fault diagnostic approaches found in the literature is primarily on the procedures for performing FDI using a given set of sensors. Little attention has been given to actual sensor allocation for achieving the efficient FDI performance. This dissertation presents a graph-based approach that serves as a solution for the optimization of sensor placement to ensure the observability of faults, as well as the fault resolution to a maximum possible extent. This would potentially facilitate an automated sensor allocation procedure. Principal component analysis (PCA), a multivariate data-driven technique, is used to capture the relationships in the data, and to fit a hyper-plane to the data. The fault directions for different fault scenarios are obtained from the prediction errors, and fault isolation is then accomplished using new projections on these fault directions. The effectiveness of the use of an optimal sensor set versus a reduced set for fault detection and isolation is demonstrated using this technique.&lt;/p&gt;
+&lt;p&gt;Among a variety of desalination technologies, the multi-stage flash (MSF) processes contribute substantially to the desalinating capacity in the world. In this dissertation, both steady-state and dynamic simulation models of a MSF desalination plant are developed. The dynamic MSF model is coupled with a previously developed International Reactor Innovative and Secure (IRIS) model in the SIMULINK environment. The developed sensor placement design and fault diagnostic methods are illustrated with application to the coupled nuclear desalination system. The results demonstrate the effectiveness of the newly developed integrated approach to performance monitoring and fault diagnosis with optimized sensor placement for large industrial systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/991</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2125&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>991</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2125</articleid>
+<submission-date>2011-04-08T08:12:18-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1926843</context-key>
+<submission-path>utk_graddiss/991</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Belle R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Haitao Liao, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

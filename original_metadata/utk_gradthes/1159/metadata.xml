@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design, Implementation, and Analysis of a Time of Arrival Measurement System for Rotating Machinery</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bhayes2@utk.edu</email>
+<lname>Hayes</lname>
+<fname>Bryan Will</fname>
+</author>
+</authors>
+<keywords>
+<keyword>timing</keyword>
+<keyword>photo-detector</keyword>
+<keyword>FPGA</keyword>
+<keyword>rotating machinery</keyword>
+<keyword>turbine engine</keyword>
+<keyword>NSMS</keyword>
+</keywords>
+<disciplines><discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;﻿﻿The Non-contact Stress Measurement System (NSMS) acquires critical time of arrival data from multiple optical probes viewing a rotating piece of machinery, such as blades on a turbine engine rotor. The signal from each probe must be converted from light energy to an electrical signal, conditioned, and timed by a high speed counter to measure the time of arrival of the rotating machinery. This thesis describes, in detail, the design and analysis of the photo-detector electronics, analog signal conditioning electronics, and the timing electronics utilized in measuring the time of arrival. To measure the time of arrival with precision, the design of the signal path should minimize noise, jitter, phase delay, and phase mismatch along with maximizing the analog signal rise time. Upon completeion of the design, the time of arrival measurement system measured a time of arrival within +/- 3.33 nanoseconds (ns) with an analog bandwidth of 12 Megahertz (MHz).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1159</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2259&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1159</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2259</articleid>
+<submission-date>2012-01-26T09:30:52-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2259/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2472925</context-key>
+<submission-path>utk_gradthes/1159</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce W. Bomar</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. Montgomery Smith, Bruce A. Whitehead</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

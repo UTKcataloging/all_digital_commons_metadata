@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vapor−Liquid Equilibrium of Ethanol by Molecular Dynamics Simulation and Voronoi Tessellation</title>
+<publication-date>2007-11-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fern</lname>
+<fname>Jared</fname>
+<mname>T.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Keffer</lname>
+<fname>David</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Steele</lname>
+<fname>William</fname>
+<mname>V.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Explicit atom simulations of ethanol were performed by molecular dynamics using the OPLS-AA potential. The phase densities were determined self-consistently by comparing the distribution of Voronoi volumes from two-phase and single-phase simulations. This is the first demonstration of the use of Voronoi tessellation in two-phase molecular dynamics simulation of polyatomic fluids. This technique removes all arbitrary determination of the phase diagram by using single-phase simulations to self-consistently validate the probability distribution of Voronoi volumes of the liquid and vapor phases extracted from the two-phase molecular dynamics simulations. Properties from the two phase simulations include critical temperature, critical density, critical pressure, phase diagram, surface tension, and molecule orientation at the interface. The simulations were performed from 375 to 472 K. Also investigated were the vapor pressure and hydrogen bonding along the two phase envelope. The phase envelope agrees extremely well with literature values from GEMC at lower temperatures. The combined use of two-phase molecular dynamics simulation and Voronoi tessellation allows us to extend the phase diagram toward the critical point.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/10</coverpage-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1010</articleid>
+<submission-date>2010-05-19T08:06:10-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>1319166</context-key>
+<submission-path>utk_chembiopubs/10</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Copyright (2007) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Fern Jared T., Keffer David J., Steele William V. (2007). Vapor−Liquid Equilibrium of Ethanol by Molecular Dynamics Simulation and Voronoi Tessellation. The Journal of Physical Chemistry B, 111 (46), 13278-13286</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-05-19T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-11-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://pubs.acs.org/doi/abs/10.1021/jp075414u</value>
+</field>
+</fields>
+</document>
+</documents>

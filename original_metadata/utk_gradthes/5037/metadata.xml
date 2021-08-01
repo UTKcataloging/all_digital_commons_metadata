@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Verification of I-131 Yield from the Neutron Irradiation of Tellurium</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rhaffner@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Haffner</lname>
+<fname>Robert</fname>
+<mname>Christopher</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Radioisotope Production</keyword>
+<keyword>Radiopharmaceutical production</keyword>
+<keyword>Iodine-131</keyword>
+<keyword>Neutron Irradiation of tellurium</keyword>
+</keywords>
+<abstract>&lt;p&gt;Radioactive isotopes of iodine have many uses in modern medicine due to the thyroid gland&#39;s affinity for iodine. The University of Missouri Research Reactor (MURR) plans to begin commercial production of iodine-131 (I-131) via the neutron irradiation of tellurium-130 (Te-130) and the subsequent beta decays of the products of the neutron absorption reaction, Te-131 and Te-131m. However, various discrepancies in literature and nuclear databases regarding a range of system parameters have convoluted the expected I-131 yield. In this work, a model constructed by integrating a system of one-group, nuclide-activation, differential rate equations to acquire analytical solutions to the number of atoms of each nuclide during activation formulated a more accurate calculation of the I-131 yield. To obtain the integrated result, the model linearized the equations in matrix form via the Laplace transform before solving them by employing Gaussian elimination. Cauchy&#39;s residue theorem was finally applied to this result to acquire the inverse Laplace transforms. These symbolic analytical solutions were left as functions of the user&#39;s desired parameters and formed a non-linear regression problem between the model&#39;s equations and experimental data provided by MURR, which the Gauss-Newton method determined the best-fit parameters for in a Monte Carlo analysis. A functional estimate for the thermal Te-130 neutron absorption cross-section was determined to be approximately 0.127 ± 0.007 barns for a 170.7 g natural tellurium target. The fractional yield of Te-131 resulting from the neutron absorption of Te-130 followed a normal distribution with a mean and standard deviation of 0.960 ± 0.003. These best fit parameters and the model were then validated against additional experimental data provided by MURR. Finally, the optimal cooling time of the sample to acquire the maximum I-131 activity did not exceed 3.87 ± 0.02 hours.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5037</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6444&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5037</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6444</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414707</context-key>
+<submission-path>utk_gradthes/5037</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Eric D. Lukosi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie B. Baalis, G. Ivan Maldonado</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

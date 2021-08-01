@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards high-throughput analysis of biomolecules using LED-induced fluorescence and zone-electrophoresis based methods</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lcasto@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Casto</lname>
+<fname>Laura</fname>
+<mname>Dawn</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Peptide hormone secretions play a key role in many biological processes and elucidating their secretion profiles is a important step for understanding mechanisms involved in disease pathology. To investigate these processes, analytical tools are required that can probe biomolecules with high spatial and temporal resolution. This often requires analysis methods to interface with sampling techniques with low flow rates and small sample volumes. This work focuses on the development of novel low-cost, automated analytical tools for highly sensitive and selective assays for biomolecules.Capillary electrophoresis (CE) applications are well-suited for this aim due to low sample volume requirements, fast analysis, and automation capabilities. In this dissertation, methods for enhancing CE detection are explored specifically with the goal of minimizing detection limits of a CE-immunoassay. CE-immunoassays combine the advantages of CE with the sensitivity and selectivity of immunoassays where antibodies are used for targeted analysis of biomolecules. Initially, a low-cost, miniature 3D printed LED-IF detector was designed and optimized for high performance CE separations in a commercial CE instrument for CE of immunoassays and CETDA analysis for monitoring a common biomolecule conjugation reaction.Since CE-immunoassays can suffer from poor analyte peak resolution in the time domain, Fourier-transform detection methods were investigated. Specifically, the 3D printed LED-IF detector was integrated into a six-detector array to increase the number of detection points in the electropherogram. This array convolutes the electropherogram with a Shah function for Shah convolution Fourier-transform (SCOFT)-CE. Once the convoluted electropherogram undergoes a Fourier-transform, the frequency domain will contain characteristic frequencies that correspond to each analyte. Multiphysics simulations illustrate the advantages of SCOFT when combined with continuous multiple injection methods. This work presents a continuous injection method termed Sine-injection Fourier-transform (SIFT). SIFT, on it’s own, has been shown in simulation to enhance peak resolution for analytes in the frequency domain, but an even larger enhancement in resolution and S/N was observed when combined with a multi-detector array.This dissertation explored the applications of paper substrates for zonal electrophroesis. Microfluidic paper-based analytical devices (μ[micro]-PADs) were constructed and characterized using various low-adsorption paper types to determine electrokinetic properties and performance for fluorescence detection.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5384</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6920&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5384</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6920</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545395</context-key>
+<submission-path>utk_graddiss/5384</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Christopher Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Zi-Ling Xue, Sharani Roy, Steven M. Abel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

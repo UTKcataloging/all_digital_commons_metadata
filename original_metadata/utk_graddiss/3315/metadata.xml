@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SPATIO-TEMPORAL DYNAMICS OF SHORT-TERM TRAFFIC</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jyang27@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yang</lname>
+<fname>Jianjiang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>short-term traffic forecasting</keyword>
+<keyword>spatio-temporal correlation</keyword>
+<keyword>data imputation</keyword>
+<keyword>kriging</keyword>
+<keyword>self-learning</keyword>
+</keywords>
+<disciplines><discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Short-term traffic forecasting and missing data imputation can benefit from the use of neighboring traffic information, in addition to temporal data alone. However, little attention has been given to quantifying the effect of upstream and downstream traffic on the traffic at current location. The knowledge about temporal and spatial propagation of traffic is still limited in the current literature. To fill this gap, this dissertation research focus on revealing the spatio-temporal correlations between neighboring traffic to develop reliable algorithms for short-term traffic forecasting and data imputation based on spatio-temporal dynamics of traffic.&lt;/p&gt;
+&lt;p&gt;In the first part of this dissertation, spatio-temporal relationships of speed series from consecutive segments were studied for different traffic conditions. The analysis results show that traffic speeds of consecutive segments are highly correlated. While downstream traffic tends to replicate the upstream condition under light traffic conditions, it may also affect upstream condition during congestion and build up situations. These effects were statistically quantified and an algorithm for properly choosing the “best” or most correlated neighbor(s), for potential traffic prediction or imputation purposes was proposed.&lt;/p&gt;
+&lt;p&gt;In the second part of the dissertation, a spatio-temporal kriging (ST-Kriging) model that determines the most desirable extent of spatial and temporal traffic data from neighboring locations was developed for short-term traffic forecasting. The new ST-Kriging model outperforms all benchmark models under various traffic conditions.&lt;/p&gt;
+&lt;p&gt;In the final part of the dissertation, a spatio-temporal data imputation approach was proposed and its performance was evaluated under scenarios with different data missing rates. Compared against previous methods, better flexibility and stable imputation accuracy were reported for this new imputation technique.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3315</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4674&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3315</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4674</articleid>
+<submission-date>2015-02-25T10:26:57-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4674/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6725235</context-key>
+<submission-path>utk_graddiss/3315</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hamparsum Bozdogan, Christopher Cherry, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

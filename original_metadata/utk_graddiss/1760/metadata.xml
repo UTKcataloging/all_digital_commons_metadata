@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Motion Segmentation Aided Super Resolution Image Reconstruction</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mmercime@utk.edu</email>
+<lname>Mercimek</lname>
+<fname>Muharrem</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Background Modeling</keyword>
+<keyword>Gaussian Mixture Model</keyword>
+<keyword>Super Resolution Image Reconstruction</keyword>
+<keyword>Motion Segmentation</keyword>
+</keywords>
+<disciplines><discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses Super Resolution (SR) Image Reconstruction focusing on motion segmentation. The main thrust is Information Complexity guided Gaussian Mixture Models (GMMs) for Statistical Background Modeling. In the process of developing our framework we also focus on two other topics; motion trajectories estimation toward global and local scene change detections and image reconstruction to have high resolution (HR) representations of the moving regions. Such a framework is used for dynamic scene understanding and recognition of individuals and threats with the help of the image sequences recorded with either stationary or non-stationary camera systems.&lt;/p&gt;
+&lt;p&gt;We introduce a new technique called Information Complexity guided Statistical Background Modeling. Thus, we successfully employ GMMs, which are optimal with respect to information complexity criteria. Moving objects are segmented out through background subtraction which utilizes the computed background model. This technique produces superior results to competing background modeling strategies.&lt;/p&gt;
+&lt;p&gt;The state-of-the-art SR Image Reconstruction studies combine the information from a set of unremarkably different low resolution (LR) images of static scene to construct an HR representation. The crucial challenge not handled in these studies is accumulating the corresponding information from highly displaced moving objects. In this aspect, a framework of SR Image Reconstruction of the moving objects with such high level of displacements is developed. Our assumption is that LR images are different from each other due to local motion of the objects and the global motion of the scene imposed by non-stationary imaging system. Contrary to traditional SR approaches, we employed several steps. These steps are; the suppression of the global motion, motion segmentation accompanied by background subtraction to extract moving objects, suppression of the local motion of the segmented out regions, and super-resolving accumulated information coming from moving objects rather than the whole scene. This results in a reliable offline SR Image Reconstruction tool which handles several types of dynamic scene changes, compensates the impacts of camera systems, and provides data redundancy through removing the background. The framework proved to be superior to the state-of-the-art algorithms which put no significant effort toward dynamic scene representation of non-stationary camera systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1760</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2899&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1760</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2899</articleid>
+<submission-date>2013-03-01T01:33:23-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2899/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3813765</context-key>
+<submission-path>utk_graddiss/1760</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andreas Koschan, Seddik M. Djouadi, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

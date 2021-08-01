@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Proposed Framework for Simultaneous Optimization of Evacuation Traffic Distribution and Assignment</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yuan</lname>
+<fname>Fang</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In the conventional evacuation planning process, evacuees are assigned to fixed destinations based mainly on the criterion of geographical proximity.  However, such pre-specified destinations (OD table) almost always lead to sub-optimal evacuation efficiencies due to uncertain road conditions such as congestion, road blockage, and other hazards associated with the emergency.  By relaxing the constraint of assigning evacuees to pre-specified destinations, a one-destination evacuation (ODE) concept has the potential of greatly improving the evacuation efficiency.  A framework for simultaneous optimization of evacuation traffic distribution and assignment is therefore proposed in this study.  Based on the concept of ODE, the optimal destination and route assignment can be determined by solving a one-destination (&lt;em&gt;1D&lt;/em&gt;) traffic assignment problem on a modified network representation.&lt;/p&gt;
+&lt;p&gt;When tested on real-world networks for evacuation studies, the proposed &lt;em&gt;1D&lt;/em&gt; model presents substantial improvement over the conventional multiple-destination (&lt;em&gt;nD&lt;/em&gt;) model.  For instance, for a hypothetical county-wide evacuation, a nearly 80% reduction in the overall evacuation time can be achieved when modeling of traffic routing with en route information in the &lt;em&gt;1D &lt;/em&gt;framework, and the &lt;em&gt;1D &lt;/em&gt;optimization results can also be used to improve the planning OD tables, resulting in an up to 60% reduction in the overall evacuation time.  More importantly, this framework can be actually implemented, and its efficiency enhancement can be realized simply by instructing evacuees to head for more efficient destinations determined from the &lt;em&gt;1D&lt;/em&gt; optimization performed beforehand.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2384</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3888&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2384</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3888</articleid>
+<submission-date>2013-10-21T07:23:32-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4744890</context-key>
+<submission-path>utk_graddiss/2384</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Arun Chatterjee, Frederick J. Wegmann, Yueh-er Kuo</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

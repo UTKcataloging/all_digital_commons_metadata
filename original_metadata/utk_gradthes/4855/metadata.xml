@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of a Hypothetical Criticality Accident Involving Damp Low-enriched UO&lt;sub&gt;2&lt;/sub&gt; Powder</title>
+<publication-date>1992-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Basoglu</lname>
+<fname>Benan</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this work, we report on the development of a computer model for predicting the excursion characteristics of a postulated criticality accident involving a homogeneous mixture of low-enriched UO&lt;sub&gt;2&lt;/sub&gt; powder and water contained in a cylindrical blender. The model uses point neutronics coupled with simple lumped-parameter thermal feedback. The reactivity feedback coefficients, reactivity driving force function, and the mean generation time are computed &lt;em&gt;a priori&lt;/em&gt; using Criticality Safety Analysis Sequences No.1(CSASlX) and No.2(CSAS25) in the SCALE-IV system. The temperature of the system is calculated using a simple time-dependent energy balance where two extreme conditions for the thermal behavior of the system are considered which bound the real life situation. These extremes are zero and infinite heat transfer coefficients(0-HTC and ∞-HTC, respectively) between the major components(i.e., the powder and the water) of the system. Using these extremes, three different models are developed where the first model assumes the 0-HTC. The second model utilizes the ∞-HTC where the system is assumed to be vented(i.e., open at the upper end) under constant atmospheric pressure with any steam produced leaving the system instantly. The third model also assumes ∞-HTC but the system is not vented(i.e., closed at the upper end and the total volume of the system remains constant). The resulting time-dependent coupled set of ordinary differential equations is solved numerically using the Livermore Solver of Ordinary Differential Equations(LSODE). To evaluate the models, we compared our results with the results of the POWDER code which was developed by CEA/UKAEA(France/UK) for damp powder systems. The agreement in these comparisons is quite satisfactory.&lt;/p&gt;
+&lt;p&gt;Results of the excursion studies in this work show that approximately 10&lt;sup&gt;19&lt;/sup&gt; fissions occur as a result of accidental water ingress into powder blenders containing 5000 kg of damp low-enriched(5%) U0&lt;sub&gt;2&lt;/sub&gt; powder.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4855</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6362&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4855</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6362</articleid>
+<submission-date>2018-01-08T12:24:13-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>11336649</context-key>
+<submission-path>utk_gradthes/4855</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>H. L. Dodds, Jr.</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul N. Stevens, Belle R. Upadhyaya</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1992-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1992-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

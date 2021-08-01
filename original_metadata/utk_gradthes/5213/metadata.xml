@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Aircraft design and test planning with unpredictable dynamic derivative values</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>DeGuzman</lname>
+<fname>Susan</fname>
+<mname>J</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Modem aircraft are designed based largely on the results from wind tunnel tests and flight simulations conducted prior to the start of construction. Predicted aircraft characteristics from wind tunnel tests are used in several aspects of aircraft design and often determine critical design criteria. Utilizing these advanced aircraft design methods has proven to significantly reduce the overall aircraft design cost and flight testing efforts. Over the last 50 years major advancements have been achieved in flight predictions, and we depend more and more on the test results. In general, this dependency has proven to be warranted in many aspects. However, there are areas requiring further research before they are to be depended upon completely. One specific area demanding technological breakthrough is that of improving dynamic derivatives predictions at high angles· of attack. These derivatives are presently found through various model tests whose values vary so significantly from one another that it is next to impossible to predict dynamic derivative values with any accuracy. When comparing the predicted derivative values to actual flight test results, the predicted values were seen to vary up to 400% from the actual value. These inadequately predicted values are used to define the flight characteristics of the aircraft in regions including high angles of attack, stalls, spins, and spin recovery, and to define flight control laws. To further examine this issue an evaluation was conducted to determine how unpredictable dynamic derivative values on the US Navy F/A-18E/F could affect the aircraft&#39;s spin characteristics. The derived results show the percentage that the actual derivative values may deviate from the predicted values without significantly altering the aircraft&#39;s expected flying qualities. The data indicated that known variations in derivative values greatly aitered the time elapsed, the altitude lost, and the number of spins occurring before spin recovery. These results were used to determine an acceptable error band between the predicted derivative values and the actual values. While some derivatives displayed minor flight differences with large changes in values, other derivative changes showed extreme differences in spin conditions, including unexpected entry into an unrecoverable spin, within the maximum variation in predicted derivative values. The results conclude that the current methods of obtaining predicted dynamic derivative values generate errors that fail to offe r the adequate values required for aircraft design. To solve this problem more research must be conducted to look into better methodology for testing and predicting these derivative values.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5213</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6621&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5213</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6621</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847053</context-key>
+<submission-path>utk_gradthes/5213</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bob Richards</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

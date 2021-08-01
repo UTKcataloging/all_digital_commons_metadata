@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Charge-Recycling Scheme and Ultra Low Voltage Self-Startup Charge Pump for Highly Energy Efficient Mixed Signal Systems-On-A-Chip</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>culagana@utk.edu</email>
+<lname>Ulaganathan</lname>
+<fname>Chandradevi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Low power</keyword>
+<keyword>Charge recycle</keyword>
+<keyword>Self startup</keyword>
+<keyword>ultra low voltage</keyword>
+<keyword>Charge Pump</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The advent of battery operated sensor-based electronic systems has provided a pressing need to design energy-efficient, ultra-low power integrated circuits as a means to improve the battery lifetime. This dissertation describes a scheme to lower the power requirement of a digital circuit through the use of charge-recycling and dynamic supply-voltage scaling techniques. The novel charge-recycling scheme proposed in this research demonstrates the feasibility of operating digital circuits using the charge scavenged from the leakage and dynamic load currents inherent to digital design. The proposed scheme efficiently gathers the “ground-bound” charge into storage capacitor banks. This reclaimed charge is then subsequently recycled to power the source digital circuit.&lt;/p&gt;
+&lt;p&gt;The charge-recycling methodology has been implemented on a 12-bit Gray-code counter operating at frequencies of less than 50 MHz. The circuit has been designed in a 90-nm process and measurement results reveal more than 41% reduction in the average energy consumption of the counter. The total energy savings including the power consumed for the generation of control signals aggregates to an average of 23%. The proposed methodology can be applied to an existing digital path without any design change to the circuit but with only small loss to the performance. Potential applications of this scheme are described, specifically in wide-temperature dynamic power reduction and as a source for energy harvesters.&lt;/p&gt;
+&lt;p&gt;The second part of this dissertation deals with the design and development of a self-starting, ultra-low voltage, switched-capacitor (SC) DC-DC converter that is essential to an energy harvesting system. The proposed charge-pump based SC-converter operates from 125-mV input and thus enables battery-less operation in ultra-low voltage energy harvesters. The charge pump does not require any external components or expensive post-fabrication processing to enable low-voltage operation. This design has been implemented in a 130-nm CMOS process. While the proposed charge pump provides significant efficiency enhancement in energy harvesters, it can also be incorporated within charge recycling systems to facilitate adaptable charge-recycling levels.&lt;/p&gt;
+&lt;p&gt;In total, this dissertation provides key components needed for highly energy-efficient mixed signal systems-on-a-chip.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1593</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2744&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1593</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2744</articleid>
+<submission-date>2012-10-30T16:45:57-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3434977</context-key>
+<submission-path>utk_graddiss/1593</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, Jeremy Holleman, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

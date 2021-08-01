@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Automated Diagnostic Tool for Predicting Anatomical Response to Radiation Therapy</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Harris</lname>
+<fname>Carley</fname>
+<mname>Elizabeth</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A &quot;Clinical Decision Support System&quot; (CDSS) is a concept which has advanced rapidly in health care over the last few decades, and it is defined as &quot;an interactive computer program that is designed to assist physicians and other health professionals with decision-making tasks.&quot; Radiation therapy oncologists are required to make decisions that do not involve making a disease diagnosis. Therefore this work focuses on developing a modified CDSS which can be used to aid oncology staff in identifying cancer patients who will require adaptive radiation therapy (ART).&lt;/p&gt;
+&lt;p&gt;An image-guided radiation therapy (IGRT) tool was developed that consists of both diagnostic and prognostic processes. Patients who will require ART are those whose crosssectional neck measurements change by more than half of a centimeter over the entire course of treatment. First, the tool allows one to “diagnose” or identify which patients would benefit from adaptive therapy and then make a “prognosis,” or identify when ART is required.&lt;/p&gt;
+&lt;p&gt;Thirty head and neck (H&amp;N) patients were used in this study, and 15 required ART. Each diagnosis was made by predicting if the threshold of 0.5 cm would be crossed for each of the four cross-sectional measurements, and each prediction was made by determining when the threshold would cross. The diagnosis results show that half (61/120) of the measurements predicted that patients would need ART given the first 15 observations and 28 of 120 predicted needing ART within 20 observations. Therefore, 74% of patients&#39; measurements accurately diagnosed that ART would be required given just the first 20 observations. The prediction results indicate that an average of 11 observations is needed to make adequate time predictions with a v reliability of at least 0.5. However, more accurate time predictions with higher reliability values (0.6 and 0.7) could be made given an average of 16 and 18 observations, respectively. These predictions, while requiring more observations, provided additional lead time in knowing when ART is required.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/606</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1674&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>606</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1674</articleid>
+<submission-date>2010-02-23T12:36:46-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1165680</context-key>
+<submission-path>utk_graddiss/606</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Townsend, Chris Pionke, Chester Ramsey, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

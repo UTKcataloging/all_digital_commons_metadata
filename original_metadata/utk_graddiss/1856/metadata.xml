@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adaptive Discontinuous Galerkin Finite Element Methods for Second and Fourth Order Elliptic Partial Differential Equations</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Saum</lname>
+<fname>Michael</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;A unified mathematical and computational framework for implementation of an adaptive discontinuous Galerkin (DG) finite element method (FEM) is developed using the symmetric interior penalty formulation to obtain numerical approximations to solutions of second and fourth order elliptic partial differential equations. The DG-FEM formulation implemented allows for h-adaptivity and has the capability to work with linear, quadratic, cubic, and quartic polynomials on triangular elements in two dimensions. Two different formulations of DG are implemented based on how fluxes are represented on interior edges and comparisons are made. Explicit representations of two a posteriori error estimators, a residual based type and a “local” based type, are extended to include both Dirichlet and Neumann type boundary conditions on bounded domains. New list-based approaches to data management in an adaptive computational environment are introduced in an effort to utilize computational resources in an efficient and flexible manner.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1856</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3282&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1856</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3282</articleid>
+<submission-date>2013-09-03T11:30:49-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4543575</context-key>
+<submission-path>utk_graddiss/1856</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ohannes Karakashian</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chuck Collins, Jack Dongarra, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

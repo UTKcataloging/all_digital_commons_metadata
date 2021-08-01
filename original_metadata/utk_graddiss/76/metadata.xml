@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Current-Mode Multi-Channel Integrating Analog-to-Digital Converter</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nambiar</lname>
+<fname>Neena</fname>
+<mname>Balakrishnan</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Multi-channel analog to digital converters (ADCs) are required where signals from multiple sensors can be digitized. A lower power per channel for such systems is important in order that when the number of channels is increased the power does not increase drastically. Many applications require signals from current output sensors, such as photosensors and photodiodes to be digitized. Applications for these sensors include spectroscopy and imaging. The ability to digitize current signals without converting currents to voltages saves power, area, and the design time required to implement I-to-V converters.&lt;/p&gt;
+&lt;p&gt;This work describes a novel and unique current-mode multi-channel integrating ADC which processes current signals from sensors and converts it to digital format. The ADC facilitates the processing of current analog signals without the use of transconductors. An attempt has been made also to incorporate voltage-mode techniques into the current-mode design so that the advantages of both techniques can be utilized to augment the performance of the system. Additionally since input signals are in the form of currents, the dynamic range of the ADC is less dependant on the supply voltage.&lt;/p&gt;
+&lt;p&gt;A prototype 4-channel ADC design was fabricated in a 0.5-micron bulk CMOS process. The measurement results for a 10Ksps sampling rate include a DNL, which is less than 0.5 LSB, and a power consumption of less than 2mW per channel.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/76</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1106&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>76</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1106</articleid>
+<submission-date>2009-12-23T10:06:13-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098718</context-key>
+<submission-path>utk_graddiss/76</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Milton N. Ericson, Michael J. Roberts, Suzanne Lenhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

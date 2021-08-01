@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparison of Microscopic Modalities for the 3D Model Reconstruction of Nanodevices</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Kammerud</lname>
+<fname>Christopher</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As manufacturing capabilities push nanotechnology to smaller and smaller scales, novel inspection schemes must be developed to ensure product quality. The objective of our research was to implement, refine, and compare 3D reconstruction algorithms that could aid manufacturers in their ability to visualize and inspect nanodevices. Data was collected from three different microscopes: the atomic force microscope (AFM), the scanning electron microscope (SEM), and the laser scanning confocal microscope (LSCM). For each of these microscopes, a specific algorithm was implemented to generate 3D models from the raw microscope data. Scans from the AFM microscope give range information similar to laser range finders, and the conversion to 3D information was also done in a similar manner. For the SEM inspection, stereo methods were used to build dense elevation maps of the specimen. The LCSM focuses on a very thin section of the specimen so that it can optically slice the specimen into a stack of images along the z-axis. From these stacks, multifocus methods can be used to generate a 3D model.&lt;/p&gt;
+&lt;p&gt;These algorithms were implemented and 3D models generated for micro-electromechanical systems (MEMS), donated by MEMSCAP©, as well as calibration gratings that provide step heights of 18 nm, 100 nm, and 500 nm. Contributions are made in the refinement and comparison of each microscope&#39;s results and capabilities, as well as a novel registration method to stitch together 3D models of neighboring regions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4545</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6099&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4545</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6099</articleid>
+<submission-date>2017-04-24T11:05:24-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10067140</context-key>
+<submission-path>utk_gradthes/4545</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Besma Abidi, Sean Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

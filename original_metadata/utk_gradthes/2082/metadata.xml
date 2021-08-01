@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Verification of Intellectual Property Blocks Using Reconfigurable Hardware</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kuan</lname>
+<fname>Koay</fname>
+<mname>Teng</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this thesis is to develop a procedure to verify intellectual property (IP)cores on the Pilchard platform which contains reconfigurable hardware. The hardware and tools used for the verification process are documented.&lt;/p&gt;
+&lt;p&gt;Two IP cores are used as examples of how the Pilchard design flow is to be applied. One core that does a simple logical function is implemented to serve as a demonstration of Pilchard read and write operations. To demonstrate the versatility of the hardware platform, a complex core that performs a Fast Fourier Transform operation was also implemented successfully.&lt;/p&gt;
+&lt;p&gt;Results from these IP implementations indicate that for high performance IP cores to be verified on the Pilchard, careful attention must be exercised to minimize the possible timing delay that occurs during place-and-route.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2082</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3452&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2082</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3452</articleid>
+<submission-date>2013-10-03T11:02:21-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4663610</context-key>
+<submission-path>utk_gradthes/2082</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Michael Langston</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

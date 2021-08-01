@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Programming Models&#39; Support for Heterogeneous Architecture</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wwu12@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wu</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Heterogeneous system</keyword>
+<keyword>HPC</keyword>
+<keyword>GPUs</keyword>
+<keyword>MPI</keyword>
+<keyword>Task Runtime</keyword>
+<keyword>Programming Model</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Programming Languages and Compilers</discipline>
+<discipline>Software Engineering</discipline>
+<discipline>Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Accelerator-enhanced computing platforms have drawn a lot of attention due to their massive peak computational capacity. Heterogeneous systems equipped with accelerators such as GPUs have become the most prominent components of High Performance Computing (HPC) systems. Even at the node level the significant heterogeneity of CPU and GPU, i.e. hardware and memory space differences, leads to challenges for fully exploiting such complex architectures. Extending outside the node scope, only escalate such challenges.&lt;/p&gt;
+&lt;p&gt;Conventional programming models such as data- ow and message passing have been widely adopted in HPC communities. When moving towards heterogeneous systems, the lack of GPU integration causes such programming models to struggle in handling the heterogeneity of different computing units, leading to sub-optimal performance and drastic decrease in developer productivity. To bridge the gap between underlying heterogeneous architectures and current programming paradigms, we propose to extend such programming paradigms with architecture awareness optimization.&lt;/p&gt;
+&lt;p&gt;Two programming models are used to demonstrate the impact of heterogeneous architecture awareness. The PaRSEC task-based runtime, an adopter of the data- ow model, provides opportunities for overlapping communications with computations and minimizing data movements, as well as dynamically adapting the work granularity to the capability of the hardware.&lt;/p&gt;
+&lt;p&gt;To fulfill the demand of an efficient and portable Message Passing Interface (MPI) implementation to communicate GPU data, a GPU-aware design is presented based on the Open MPI infrastructure supporting efficient point-to-point and collective communications of GPU-residential data, for both contiguous and non-contiguous memory layouts, by leveraging GPU network topology and hardware capabilities such as GPUDirect. The tight integration of GPU support in a widely used programming environment, free the developers from manually move data into/out of host memory before/after relying on MPI routines for communications, allowing them to focus instead on algorithmic optimizations.&lt;/p&gt;
+&lt;p&gt;Experimental results have confirmed that supported by such a tight and transparent integration, conventional programming models can once again take advantage of the state-of-the-art hardware and exhibit performance at the levels expected by the underlying hardware capabilities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4510</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5867&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4510</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5867</articleid>
+<submission-date>2017-02-24T13:53:20-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9747559</context-key>
+<submission-path>utk_graddiss/4510</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Michael Berry, Yingkui Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

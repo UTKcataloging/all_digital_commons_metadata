@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Flexible Packing Optimization Approach to Improve Product Quality and Worker Training</title>
+<publication-date>2019-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rakram@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Akram</lname>
+<fname>Roshanak</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Placing items in cases and then forming pallets are among significant steps for distribution and storage of final goods. Suboptimal packing may also lead to bulged cases, which can lead to pallet instability and other transportation hazards. Delicate items such as food packets may suffer quality damage at this step, by way of forced packing. Optimized Standard Operating Procedures (SOPs), which assume all bags are rigid bodies, improve the situation but do not resolve it. The insight offered by this research stems from the observation that there is a growing use of flexible packaging for food items. The flexibility of packages can be used in creating new configurations of the same bag, by folding it in various ways. The presented framework delivers a mathematical model capable of dealing with the increased complexity of flexible configurations. The model is linearized to reduce the run-time. The results are validated by a case study at a packing facility for a large governmental organization in the United States. A user-friendly interface generates an animated SOP to simplify the training process. The impact of flexibility is demonstrated using two metrics: “utilized height” of a packed case, and “unutilized space” in the case. The model easily outperforms rigid body optimization in all examined situations. An automatic visual inspection model is then developed based on a deep learning algorithm that can classify packed cases to acceptable and defective classes. Further analysis has shown that the defect can be localized,which is helpful in identification of the packing step that led to defect formation. The proposed model is a manifest of the smart factory. The intelligent automation model allows packing facilities to be responsive to product innovations and resultant packaging changes.The theoretical contributions made in allowing “flexibility” in the packing model have broad implications for container-loading problems. The integrated SOP generation and worker training framework have a direct benefit to workers as well as managers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5642</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7288&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5642</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7288</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911691</context-key>
+<submission-path>utk_graddiss/5642</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rupy Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Kobza, Russell Zaretzki, Andrew Yu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

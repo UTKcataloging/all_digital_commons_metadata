@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Universal Voltage Rate Sensor Interface</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kruttiventi</lname>
+<fname>Jayanth</fname>
+<mname>Chakradhar</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Measurement of heat flux is required in many aerospace and heat treatment applications. Temperature data collected at embedded sites are noisy especially when measurements are taken in hostile environments. The predicted heat flux, when based on the rate of change of temperature, is more accurate than using temperature data as the latter data form is ill-posed. In the context of heat flux prediction, calculating the rate of change of temperature involves differentiation, which is the primary source of ill-posed effects.&lt;/p&gt;
+&lt;p&gt;This work involves developing a universal voltage rate sensor interface that minimizes these effects and also improves the signal-to-noise ratio. This is based on the concept of amplitude modulating the temperature data and differentiating it at a higher frequency. The proposed concept of improvement in signal-to-noise ratio was verified by the Matlab and PSpice simulations. The experimental outputs matched the simulations results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/161</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1193&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>161</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1193</articleid>
+<submission-date>2010-02-09T13:05:38-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1138057</context-key>
+<submission-path>utk_gradthes/161</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jie Wu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay Frankel, Don W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/KruttiventiJayanth.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

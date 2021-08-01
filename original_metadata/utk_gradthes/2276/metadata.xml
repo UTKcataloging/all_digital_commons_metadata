@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Probabilistic Suffix Models for Windows Application Behavior Profiling: Framework and Initial Results</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mazeroff</lname>
+<fname>Geoffrey</fname>
+<mname>Alan</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Developing statistical/structural models of code execution behavior is of considerable practical importance. This thesis describes a framework for employing probabilistic suffix models as a means of constructing behavior profiles from code-traces of Windows XP applications. Emphasis is placed on the inference and use of probabilistic suffix trees and automata with new contributions in the area of auxiliary symbol distributions. An initial real-time classification system is discussed and preliminary results of detecting known benign and viral applications are presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2276</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3740&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2276</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3740</articleid>
+<submission-date>2013-10-17T09:32:39-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4732904</context-key>
+<submission-path>utk_gradthes/2276</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Thomason, Bradley Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

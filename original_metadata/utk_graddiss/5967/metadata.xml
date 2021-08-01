@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonlinear localized dissipative structures for long-time solution of wave equation</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Chitta</lname>
+<fname>Subhashini</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Aerospace engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this dissertation, a new numerical method, &quot;Wave Confinement&quot; (WC), is developed to efficiently solve the linear wave equation. This is similar to the originally developed &quot;Vorticity Confinement&quot; method for fluid mechanics problems. It involves modification of the discrete wave equation by adding an extra nonlinear term that can accurately propagate the pulses for long distances without numerical dispersion/diffusion. These pulses are propagated as stable codimension-one surfaces and do not suffer phase shift or amplitude exchange in spite of nonlinearity. The pulses remain thin unlike conventional higher order numerical schemes, which only converge as N (number of grid cells across the pulse) becomes large. The additional term does not interfere with conservation of the important integral quantities such as total amplitude, centroid. Also, properties like varying index of refraction, diffraction, multiple reflections are included and tested.The generated short pulses can be best described as solitary waves, which can recover the shape after a collision due to nondestructive interaction between the pulses. Within the pulse, the dissipative effects due to the numerical errors are balanced with those of nonlinearity and the pulse will its their original form and speed even after many collisions. The pulse is also used as a carrier wave to propagate other properties such as direction. Wave equation solutions in the high frequency approximation can be generated using the carrier wave approach. WC, together with Keller&#39;s Approximation is then used to capture diffraction effects from a straight edge. Scattering over complex bodies can be modeled with no use of complicated adaptive grid generation schemes around the bodies. The confinement term smoothens the boundary and prevents stair casing effects but the boundary remains thin.Validation studies have been performed for a number of real flow models and compared to the exact solutions. It is observed that the solutions match quite well with the exact solution. A new approximation for long range propagation of high frequency waves, the &quot;Local Parabolic Method&quot;, is introduced. There is a wide range of applications such as radio wave propagation, cell phone communications, target detection, etc. This approximation has a number of advantages over the existing paraxial approximation used to simulate radio wave propagation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5967</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7900&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5967</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7900</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467574</context-key>
+<submission-path>utk_graddiss/5967</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John S. Steinhoff</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

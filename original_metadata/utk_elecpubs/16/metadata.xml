@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Threshold selection in gene co-expression networks using spectral graph theory techniques</title>
+<publication-date>2009-10-08T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Mississippi State University</institution>
+<lname>Perkins</lname>
+<fname>Andy</fname>
+<mname>D.</mname>
+</author>
+<author>
+<email>langston@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Abstract&lt;/h3&gt;  &lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Gene co-expression networks are often constructed by computing some measure of similarity between expression levels of gene transcripts and subsequently applying a high-pass filter to remove all but the most likely biologically-significant relationships. The selection of this expression threshold necessarily has a significant effect on any conclusions derived from the resulting network. Many approaches have been taken to choose an appropriate threshold, among them computing levels of statistical significance, accepting only the top one percent of relationships, and selecting an arbitrary expression cutoff.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We apply spectral graph theory methods to develop a systematic method for threshold selection. Eigenvalues and eigenvectors are computed for a transformation of the adjacency matrix of the network constructed at various threshold values. From these, we use a basic spectral clustering method to examine the set of gene-gene relationships and select a threshold dependent upon the community structure of the data. This approach is applied to two well-studied microarray data sets from &lt;em&gt;Homo sapiens &lt;/em&gt;and &lt;em&gt;Saccharomyces cerevisiae&lt;/em&gt;.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;This method presents a systematic, data-based alternative to using more artificial cutoff values and results in a more conservative approach to threshold selection than some other popular techniques such as retaining only statistically-significant relationships or setting a cutoff to include a percentage of the highest correlations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/16</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1020&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>16</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1020</articleid>
+<submission-date>2013-07-15T09:15:59-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4312682</context-key>
+<submission-path>utk_elecpubs/16</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2009, 10 (Suppl 11): S4 doi:10.1186/1471-2105-10-S11-S4</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-10-08T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

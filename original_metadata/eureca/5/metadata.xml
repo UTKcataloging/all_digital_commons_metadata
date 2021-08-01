@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Identification of Emergent Collaborative Behaviors in Multi-Agent Systems</title>
+<publication-date>2021-05-11T11:15:22-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bhowel13@vols.utk.edu</email>
+<lname>Howell</lname>
+<fname>Bryson</fname>
+</author>
+</authors>
+<disciplines><discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;Identification of Emergent Collaborative Behaviors in Multi-Agent Systems&lt;/p&gt;
+&lt;p&gt;Bryson Howell&lt;/p&gt;
+&lt;p&gt;Multi-Agent Reinforcement Learning (MARL) has been used to allow groups of autonomous agents to perform complex cooperative tasks. When MARL methods such as the Multi-Agent Deep Deterministic Policy Gradient (MADDPG) algorithm [1] are used to train teams of agents in cooperative tasks, it has been observed that the actions of individual agents are significantly influenced by the actions of their teammates [2]. Additionally, prior work has shown that teams of agents trained independently of one another under identical conditions display a variety of behaviors [3]. Since these teams have been proven to be coordinated, the MADDPG algorithm is implied to be capable of producing emergent collaborative strategies. If agents can identify these strategies, they can become more adaptive to new teammates by adjusting their behavior to match a successful strategy. In order to work towards this objective, we have designed a method to describe the strategy employed by a team of agents performing a predator-prey pursuit game. By collecting behavioral data for multiple metrics, we demonstrate that certain features are particularly useful for differentiating between team strategies. We verify that our method is capable of meaningfully describing team strategies by testing it on teams of agents using known strategies defined by simple controllers. We then experiment with teams composed of both MARL-trained agents and known strategy agents to test the efficacy of our method when used on teams whose strategy is not well-defined. We hope that this work will inform future attempts to classify groups of agents by team strategy.&lt;/p&gt;
+&lt;p&gt;Citations&lt;/p&gt;
+&lt;p&gt;[1] R. Lowe, Y. I. Wu, A. Tamar, J. Harb, O. P. Abbeel, and I. Mordatch, &quot;Multi-agent actor-critic for mixed cooperative-competitive environments,&quot; in Advances in neural information processing systems, 2017, pp. 6379-6390.&lt;/p&gt;
+&lt;p&gt;[2] R. Fernandez, E. Zaroukian, J. D. Humann, B. Perelman, M. R. Dorothy, S. S. Rodriguez, and D. E. Asher, &quot;Emergent heterogeneous strategies from homogenous capabilities in multi-agent systems,&quot;  Internal work-in-progress, 2020.&lt;/p&gt;
+&lt;p&gt;[3] D. Asher, M. Garber-Barron, S. Rodriguez, E. Zaroukian and N. Waytowich, &quot;Multi-Agent Coordination Profiles through State Space Perturbations,&quot; 2019 International Conference on Computational Science and Computational Intelligence (CSCI), Las Vegas, NV, USA, 2019, pp. 249-252.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/eureca/5</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1007&amp;amp;context=eureca&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1007</articleid>
+<submission-date>2021-05-07T11:37:26-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>22835605</context-key>
+<submission-path>eureca/5</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Engineering</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering and Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-05-07T00:00:00-07:00</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Lynne Parker</value>
+</field>
+<field name="url" type="string">
+<value>https://eureca.utk.edu/</value>
+</field>
+<field name="year" type="date">
+<value>2021-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

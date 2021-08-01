@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling Integral Fuel Burnable Absorbers Using the Method of Characteristics</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ewalk@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Walker</lname>
+<fname>Erik</fname>
+<mname>Daniel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>MOC</keyword>
+<keyword>MPACT</keyword>
+<keyword>CASL</keyword>
+<keyword>IFBA</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Modern core designs that utilize Westinghouse fuel technology employ the use of Integral Fuel Burnable Absorbers (IFBA) that consists of very thin coatings of boron absorber material on the fuel pellets. While IFBA has proven to be an effective burnable absorber, it does present a neutronics modeling challenge. The difficulty of modeling IFBA using the Method of Characteristics (MOC) transport method is well known, and arises from the fact that IFBA is a very small, but also very important, region in nuclear fuel. Experience in modeling IFBA at the pin cell and single assembly lattice level requires a decrease in the MOC ray spacing leading to substantial increases in computation times. This would represent a significant computational challenge for modeling cores containing IFBA with new methods that use full 2D planar MOC calculations, such as that being developed for the Consortium for Advanced Simulation of Light Water Reactors (CASL) Virtual Environment for Reactor Applications (VERA).&lt;/p&gt;
+&lt;p&gt;An investigation of modeling IFBA using MOC was performed to address concerns about accurately modeling IFBA. The accuracy of modeling IFBA using MOC at various ray spacings was examined for different problems using the Michigan Parallel Analysis based on Characteristic Tracing (MPACT) MOC code. For a single 2D IFBA pin cell, there is an extreme dependence on ray spacing for accurate results. This dependence was reduced when a 2D assembly containing IFBA was modeled. An AP1000&lt;sup&gt;®&lt;/sup&gt; full core 2D midplane was modeled, and the effect of ray spacing on accuracy was much less drastic. The accuracy assessments were based both on the eigenvalue and pin power differences when compared to a high fidelity Monte Carlo calculation of the same model. The effect of volume weighting the IFBA material and then smearing it into neighboring regions was examined, and was found to be a less accurate method for modeling IFBA. Depletion cases of the AP1000 model were run to determine the impact of IFBA on the life of the core. It was found that standard ray spacing and step sizes are sufficient for accurately performing full core depletion calculations, but special care is needed for problems of smaller scale.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3191</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4249&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3191</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4249</articleid>
+<submission-date>2014-10-10T14:08:22-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6228077</context-key>
+<submission-path>utk_gradthes/3191</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jess C. Gehin</value>
+</field>
+<field name="advisor2" type="string">
+<value>G. Ivan Maldonaldo, Ronald E. Pevey, Lawrence W. Townsend</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

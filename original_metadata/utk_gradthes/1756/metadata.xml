@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Support Vector Regression for Non-Stationary Time Series</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ojemakinde</lname>
+<fname>Bukola</fname>
+<mname>Titilayo</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The difficulty associated with building forecasting models for non-stationary and volatile data has necessitated the development and application of new sophisticated techniques that can handle such data. Interestingly, there are a lot of real-world phenomena where data that are “difficult to analyze” are generated. One of these is the stock market where data series generated are often hard to forecast because of their peculiar characteristics. In particular, the stock market has been referred to as a complex environment and financial time series forecasting is often tagged as the most challenging application of time series forecasting.&lt;/p&gt;
+&lt;p&gt;In this study, a novel approach known as Support Vector Regression (SVR) for forecasting non-stationary time series was adopted and the feasibility of applying this method to five financial time series was examined. Prior to implementing the SVR algorithm, three different methods of transformation namely Relative Difference in Percentages (RDP), Z-score and Natural Logarithm transformations were applied to the data series and the best prediction results obtained along with the associated transformation technique was presented. Our study indicated that the Z-score transformation is the best scaling method for financial time series, exhibiting superior performance than the other two transformations on the basis of five different performance measures.&lt;/p&gt;
+&lt;p&gt;To determine the optimum values of the SVR parameters, a cross-validation method was implemented. For this purpose, the value of C and ε was varied from 5 to 100, and 0.001 and 0.1 respectively. The cross-validation method, though computationally expensive, is better than other proposed techniques for determining the values of these parameters.&lt;/p&gt;
+&lt;p&gt;Another highlight of this study is the comparison of the SVR results to that obtained using 5-day Simple Moving Averages (SMA). The SMA was selected as a comparative method because it has been identified as the most popular quantitative forecasting method used by US corporations. Discussions with financial analysts also suggest that the SMA is one of the widely used in the financial industry. The popularity of the SMA can be explained by the fact that it is easy and cheap to use and it produces forecasts that can be easily interpreted by econometricians and other interested practitioners.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1756</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3107&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1756</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3107</articleid>
+<submission-date>2013-08-26T11:52:37-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4503664</context-key>
+<submission-path>utk_gradthes/1756</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles H. Aikens</value>
+</field>
+<field name="advisor2" type="string">
+<value>Adedeji B. Badiru, Myong K. Jeong, Chanaka Edirisinghe</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

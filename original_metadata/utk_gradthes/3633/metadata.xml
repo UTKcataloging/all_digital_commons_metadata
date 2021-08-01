@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>L-encoder: Video Transcoding in the Logistical Network</title>
+<publication-date>2008-07-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Gonzales</lname>
+<fname>Harold</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Transcoding, the transformation of digital information from one encoding format to another, is a prominent operation in the realm of digital video and audio. This process of changing the encoding formats of multimedia files and streams is now a common task for many users due in part to the prevalence of portable media players and consumer electronic devices for digital media, which place constraints on the file and stream formats they can play. The transcoding process is often both data and compute intensive due to both the large data requirements of modern media formats from sources such as HDTV and the computational complexity of changing encoding formats. There is motivation then to create a network transcoding service that would allow users to leverage the computational and storage resources within a network against this task. The Internet Backplane Protocol (IBP) and the Network Functional Unit form the back-bone of a network computational paradigm called Logistical Network Computing (LoNC), which outlines the design of scalable computational services within a network. A proof- of-concept transcoding service, L-encoder, was created within this paradigm based on the open source mencoder program. L-encoder was designed to allow users to offload computation onto shared computing and storage resources and to allow for parallel processing to achieve improved performance. Experiments were conducted to determine the performance improvements due to parallelization, and an analysis was undertaken to assess the feasibility of deploying the L-encoder service in a large-scale network infrastructure as well as the potential for future research in this area.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3633</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4976&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3633</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4976</articleid>
+<submission-date>2016-02-09T12:04:16-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8119108</context-key>
+<submission-path>utk_gradthes/3633</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Micah Beck</value>
+</field>
+<field name="advisor2" type="string">
+<value>David Straight, Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2008-07-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-07-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

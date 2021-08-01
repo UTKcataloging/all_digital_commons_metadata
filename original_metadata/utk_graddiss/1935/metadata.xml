@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Efficient Image Processing in Resource-constrained Visual Sensor Networks</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Du</lname>
+<fname>Hongtao</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Visual sensor networks (VSNs) that employ content-rich 2-D images or image sequences as the basic media have been evolving rapidly in recent years. Besides the critical resource constraints that are already inherent in any micro-sensor networks, the development of VSNs also faces challenges from device design, image transmission, and onboard image processing, among which efficient onboard processing is the most difficult to tackle. The focus of this dis- sertation is to develop efficient image processing solutions from three aspects: to improve the time-consuming image processing algorithms using pipelined and parallel computing; to dis- tribute the computation more effectively through novel function and image partitioning, clus- tering, and mapping approaches; and to implement these techniques on the virtual microsensor platform for fast onboard image processing. First, to show the efficiency of pipelined and par- allel computing in algorithm improvement, we take independent component analysis (ICA) as an example and design a parallel &lt;em&gt;ICA (pICA)&lt;/em&gt; method using the SPMD (Single Process Multiple Data) structure. Experimental results show that pICA accelerates the processing time by 2.4 to 5.7 times compared to the FastICA algorithm, which is the fastest existing software implementation of ICA. Secondly, in order to efficiently allocate image processing algorithms to microsensors in VSNs, we present a multi-weight operation level function model, a data dependency analysis, two resource-oriented function mapping algorithms, the &lt;em&gt;load attraction&lt;/em&gt; and the &lt;em&gt;communication attraction&lt;/em&gt;, with the Kernighan-Lin algorithm-based local refinements such that the execution of image processing algorithms can be closely coupled with available resources in a heterogeneous environment. A component clustering algorithm and a cyclic process model associated with the operation level function model are also proposed in order to provide appropriate granularity to the mapping process. Experimental results show that function models processed by the component clustering algorithm have the best mapping performance compared to other function models. The cyclic process modeling is very effective for complex image processing algorithms. The proposed load attraction and communication attraction mapping algorithms respectively improve load variances and cut weights compared to existing mapping algorithms by 5 to 15 times, and both exhibit the closest performance to that of the optimal mapping. Finally, we present a &lt;em&gt;virtual microsensor platform&lt;/em&gt; and implement the proposed techniques for application-specific microsensor design. While most existing microsensors are developed for general purposes, the microsensor design we propose is driven by specific applications and moves the reuse and reconfiguration features in hardware implementation to higher abstraction level. We develop an image processing intellectual property (IP) library and design four image processing IPs. Experimental results show that the performance our designs achieved is better than those of existing implementations, and the proposed virtual microsensor platform can efficiently integrate different image processing algorithms according to specific application requirements.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1935</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3366&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1935</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3366</articleid>
+<submission-date>2013-09-18T11:43:07-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4598612</context-key>
+<submission-path>utk_graddiss/1935</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi, Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Louis J. Gross</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

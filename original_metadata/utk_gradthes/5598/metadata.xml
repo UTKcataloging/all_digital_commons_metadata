@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Network Analysis of Protein Structure Networks Upon Ligand Binding</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Foutch</lname>
+<fname>David</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Graph theory</keyword>
+<keyword>protein structure networks</keyword>
+<keyword>protein dynamic networks</keyword>
+<keyword>network analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Network analysis is a computational approach used to describe the structure and dynamics of complex systems.Residue-residue contacts that are made over the course of MD simulations were used to create protein structure networks (PSNs). As a case study, PSNs were generated for two protein systems: the transcription factor constitutive androstane receptor and the enzyme ribonucleotide reductase. In order to understand the changes in residue-residue contacts induced upon ligand-binding in proteins, we performed topological analyses of three CAR systems and four RNR systems under different binding conditions.Four measures of centrality were used to evaluate structural changes between ligand-free and ligand-bound systems: betweenness, closeness, degree, and eigenvector centralities. Although ligand-binding induced contact rearrangements resulting in substantial changes in centrality values for many residues, the distributions of centrality values were generally very similar for all systems. Results obtained here suggested that closeness centrality primarily identifies residues that are physically central to the three-dimensional structure of the protein. Previous reports suggested that closeness centrality identifies important residues in enzyme active sites. However, this may only be true for enzymes whose active site is centrally located. Moreover, the distributions for degree centrality are not power-law distributed, which also raises the question of whether the power-law degree distribution should be assumed for all ”real-world” networks. In summary, this work demonstrated that the centrality distributions for the two representative proteins are remarkably invariant to ligand binding, despite substantial changes in centrality values for residues.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5598</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7132&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5598</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7132</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539092</context-key>
+<submission-path>utk_gradthes/5598</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Albrecht von Arnim</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tongye Shen, Rachel McCord</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

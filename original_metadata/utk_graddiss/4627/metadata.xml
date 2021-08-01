@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Efficient Methods for Multidimensional Global Polynomial Approximation with Applications to Random PDEs</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pjantsch@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jantsch</lname>
+<fname>Peter</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Global interpolation</keyword>
+<keyword>Stochastic Collocation</keyword>
+<keyword>random PDEs</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+</disciplines><abstract>&lt;p&gt;In this work, we consider several ways to overcome the challenges associated with polynomial approximation and integration of smooth functions depending on a large number of inputs. We are motivated by the problem of forward uncertainty quantification (UQ), whereby inputs to mathematical models are considered as random variables. With limited resources, finding more efficient and accurate ways to approximate the multidimensional solution to the UQ problem is of crucial importance, due to the “curse of dimensionality” and the cost of solving the underlying deterministic problem.&lt;/p&gt;
+&lt;p&gt;The first way we overcome the complexity issue is by exploiting the structure of the approximation schemes used to solve the random partial differential equations (PDE), thereby significantly reducing the overall cost of the approximation. We do this first using multilevel approximations in the physical variables, and second by exploiting the hierarchy of nested sparse grids in the random parameter space. With these algorithmic advances, we provably decrease the complexity of collocation methods for solving random PDE problems.&lt;/p&gt;
+&lt;p&gt;The second major theme in this work is the choice of efficient points for multidimensional interpolation and interpolatory quadrature. A major consideration in interpolation in multiple dimensions is the balance between stability, i.e., the Lebesgue constant of the interpolant, and the granularity of the approximation, e.g., the ability to choose an arbitrary number of interpolation points or to adaptively refine the grid. For these reasons, the Leja points are a popular choice for approximation on both bounded and unbounded domains. Mirroring the best-known results for interpolation on compact domains, we show that Leja points, defined for weighted interpolation on R, have a Lebesgue constant which grows subexponentially in the number of interpolation nodes. Regarding multidimensional quadratures, we show how certain new rules, generated from conformal mappings of classical interpolatory rules, can be used to increase the efficiency in approximating multidimensional integrals. Specifically, we show that the convergence rate for the novel mapped sparse grid interpolatory quadratures is improved by a factor that is exponential in the dimension of the underlying integral.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4627</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6126&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4627</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6126</articleid>
+<submission-date>2017-06-12T12:54:29-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10284268</context-key>
+<submission-path>utk_graddiss/4627</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Clayton G. Webster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steven Wise, Ohannes Karakashian, Xiaobing Feng, Jack Dongarra</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

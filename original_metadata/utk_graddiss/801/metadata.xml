@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Method to Accomplish the Optimal Control of Continuous Dynamical Systems with Impulse Controls via Discrete Optimal Control and Utilizing Optimal Control Theory to Explore the Emergence of Synchrony.</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rgraves5@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Graves</lname>
+<fname>Rachel</fname>
+<mname>Natalie</mname>
+</author>
+</authors>
+<keywords>
+<keyword>optimal control</keyword>
+<keyword>impulse control</keyword>
+<keyword>networks</keyword>
+<keyword>synchrony</keyword>
+</keywords>
+<disciplines><discipline>Physical Sciences and Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;This research concerns the development of new optimal control methodologies and applications. In the first chapter we consider systems of ordinary differential equations subject to a restricted number of impulse controls. Examples of such systems include tumor growth, in which case the impulsive control is the administration of medication, and ecological invasion, in which case the impulse control is the release of predator species. Impulse control problems are typically solved via related partial differential equations known as quasi-variational inequalities. We show that these types of impulse control problems can be formulated as a discrete optimal control problems. Furthermore, this formulation is advantageous because it simplifies numerical calculations. In the second chapter we consider how optimal control can be used to investigate the emergence of synchrony in networks of coupled oscillators. In particular, we apply optimal control to a network of Kuramoto oscillators with time-varying coupling in order to relate network synchrony to network connectivity. To the best of our knowledge this is the first such use of optimal control theory.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/801</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1899&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>801</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1899</articleid>
+<submission-date>2010-07-22T09:19:33-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1405655</context-key>
+<submission-path>utk_graddiss/801</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vladimir Protopopescu, Louis Gross, Don Hinton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

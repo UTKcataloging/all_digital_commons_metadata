@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Stability and Adaptive Control of Linear and Nonlinear Multi-Agent Systems</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>vgehlot@utsi.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Gehlot</lname>
+<fname>Vinod</fname>
+<mname>Poonamchand</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nonlinear adaptive control</keyword>
+<keyword>multi-agent stability</keyword>
+<keyword>evolving systems</keyword>
+<keyword>formation and swarm stability</keyword>
+<keyword>adaptive control</keyword>
+</keywords>
+<abstract>&lt;p&gt;The cooperative operation of robotic vehicles is currently under rapid development. Besides the rise in computing capability, algorithms for autonomous control, decision making, path planning, and perception are at the forefront of this endeavor. An often overlooked aspect of dynamical multi-agent systems is of stability. This research develops a comprehensive framework to investigate and mitigate the geometric instabilities due to interactions between dynamical autonomous agents in a formation or a swarm. Inspired by the evolving systems approach to characterize the stability of self-assembling spacecraft structures, this thesis explores several interaction mechanisms and their effect on the behavior of the closed-loop dynamics of a formation system.Furthermore, using graph theory to describe abstract interaction network topology, this research develops several significant coordinate transformations that expose the precise nature of the network’s influence on dynamic instability. This research introduces adaptive-key-components to mitigate network topology induced degradation of stability in formations; it is distributed, highly efficient, and scales well to large multi-agent systems with high cardinality. In the first part of the thesis, all the agents are general linear-time-invariant (LTI) systems or LTI systems with weak nonlinearities. Part two of this thesis work introduces sufficient conditions for direct adaptive control and robust adaptive control of nonlinear affine systems. Finally, this thesis presents local output feedback linearization as a mechanism formation control of multi-agent systems with nonlinear entities. The fundamental theoretical results developed in this research form the basis upon which higher-level cooperative algorithms can safely operate.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5711</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7477&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5711</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7477</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419567</context-key>
+<submission-path>utk_graddiss/5711</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark Balas</value>
+</field>
+<field name="advisor2" type="string">
+<value>Reza Abedi, Mark Whorton, L. Montgomery (Monty) Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

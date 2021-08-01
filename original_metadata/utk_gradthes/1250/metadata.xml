@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Defining and Modeling Parameters Associated with Double-Planted Areas in Row Crop Production Fields</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bjerniga@utk.edu</email>
+<lname>Jernigan</lname>
+<fname>Brandon Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>precision agriculture</keyword>
+<keyword>global positioning system</keyword>
+<keyword>automatic section control</keyword>
+<keyword>double-planting</keyword>
+</keywords>
+<disciplines><discipline>Bioresource and Agricultural Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Automatic Section Control (ASC) utilizes current Global Positioning System (GPS) location of a planter and previously planted coverage maps to control individual planter row units, or sections of planter row units, depending on accuracy desired by equipment operators. ASC eliminates double-planting in areas of agricultural fields where planter overlap is unavoidable, such as end rows, point rows, and around internal field obstacles. Due to costs associated with purchasing ASC, farm managers are interested in rate of return on investment, which depends on several factors such as field boundary irregularity, operator response time, and crop yield response to double-planting.&lt;/p&gt;
+&lt;p&gt;Georeferenced planting data was collected for 52 fields in order to create maps in ArcGIS for calculating percent minimum double-planted area and operator response time. Cotton and corn yield data were collected from test plots at the Research and Education Center at Milan, Tennessee to analyze effects of double-planting on crop yields. Average field size was 33.2 acres and average percent double-planted area was 4.55%. Twenty-two geometry factors were calculated for each field to be used as independent variables in predicting percent minimum double-planted area. Variable selection and Principal Component Analysis (PCA) where conducted to develop best fit models for predicting percent double-planted area and validated using multiple and simple linear regression. The model with the best goodness of fit retained six variables with an R&lt;sup&gt;2&lt;/sup&gt; of 0.83 (p &lt; 0.0001). Two spatial models were also developed in ArcGIS for estimating percent minimum double-planted area of a field. The simplest model only required a field boundary shapefile and could be automated using the Model Builder function in ArcGIS. Operator response time was calculated using original planting maps. Operators over-planted 58.8% of the time by an average of 8.2 feet and under-planted 41.2% of the time by an average of 9.0 feet. Tukey’s mean separation method was used to determine if cotton and corn yields differed significantly between single-planted plots and double-planted plot treatments. Significant differences were identified in cotton yields but not in corn at an alpha level of 5%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1250</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2396&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1250</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2396</articleid>
+<submission-date>2012-05-22T14:40:13-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2396/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2892849</context-key>
+<submission-path>utk_gradthes/1250</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William E. Hart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Buschermohle, John B. Wilkerson, Margarita M. Velandia</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering Technology</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

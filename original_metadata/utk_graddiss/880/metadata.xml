@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Molecular-Level Modeling of Proton Transport in Aqueous Systems and Polymer Electrolyte Membranes: A Reactive Molecular Dynamics Study</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mesaisel@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Esai Selvan</lname>
+<fname>Myvizhi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>reactive molecular dynamics simulation</keyword>
+<keyword>proton transport</keyword>
+<keyword>structural diffusion</keyword>
+<keyword>confinement</keyword>
+<keyword>acidity</keyword>
+<keyword>polymer electrolyte membrane</keyword>
+</keywords>
+<disciplines><discipline>Other Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Proton exchange membrane (PEM) fuel cells are an eco-friendly power source that has great potential to reduce our oil dependence for our stationary and transportation applications. In order to make PEM fuel cells an economically viable option, further effort is needed to improve proton conduction under wide operating conditions and reduce the cost of production. Design and synthesis of novel membranes that have superior characteristics require a fundamental molecular-level understanding of the relationship between the polymer chemistry, water content and proton conduction. The performance of a fuel cell is influenced by the electrochemical and molecular/proton transport processes that occur at the catalytic sites in the electrode/electrolyte interface. Therefore, understanding the molecular-level details of proton transport and structure of the multi-phase interfaces is critical.&lt;/p&gt;
+&lt;p&gt;This work is subdivided into two main tasks. The first task is to model membrane/water vapor interfaces and to study their morphology and the transport properties of water and hydronium ions. Classical molecular dynamics simulation is used as the modeling tool for the characterization of the interface. The second task is to model proton transport through the aqueous domains of PEM. Such a model is inherently challenging since proton transport occurs through a combination of structural and vehicular diffusions that are associated with disparate time scales. Toward this end, we have developed and implemented a new reactive molecular dynamics algorithm to model the structural diffusion of proton that involves breaking and forming of covalent bonds. The proton transport through aqueous channels in PEM is governed by acidity and confinement. Therefore, systems in which the acidity and confinement can be independently varied, including bulk water, aqueous hydrochloric acid solutions and water confined in carbon nanotubes are also examined in addition to the application in PEM.&lt;/p&gt;
+&lt;p&gt;We have developed an understanding of how acidity and confinement independently impact proton transport. The correlation between the two components of charge diffusion and their contribution to the total charge diffusion has also been explored for a basic understanding of the proton transport mechanisms. These studies will eventually help us establish the correlation between the morphology of the membrane and proton conduction.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/880</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1999&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>880</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1999</articleid>
+<submission-date>2010-10-31T19:53:51-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1624924</context-key>
+<submission-path>utk_graddiss/880</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David J. Keffer</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stephen J. Paddison, Brian J. Edwards, Shengting Cui, Jimmy Mays</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

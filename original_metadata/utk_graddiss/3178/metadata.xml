@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Interactive Feature Selection and Visualization for Large Observational Data</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jingyuan@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Jingyuan</fname>
+</author>
+</authors>
+<disciplines><discipline>Graphics and Human Computer Interfaces</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Other Computer Sciences</discipline>
+<discipline>Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Data can create enormous values in both scientific and industrial fields, especially for access to new knowledge and inspiration of innovation. As the massive increases in computing power, data storage capacity, as well as capability of data generation and collection, the scientific research communities are confronting with a transformation of exploiting the advanced uses of the large-scale, complex, and high-resolution data sets in situation awareness and decision-making projects. To comprehensively analyze the big data problems requires the analyses aiming at various aspects which involves of effective selections of static and time-varying feature patterns that fulfills the interests of domain users. To fully utilize the benefits of the ever-growing size of data and computing power in real applications, we proposed a general feature analysis pipeline and an integrated system that is general, scalable, and reliable for interactive feature selection and visualization of large observational data for situation awareness.&lt;/p&gt;
+&lt;p&gt;The great challenge tackled in this dissertation was about how to effectively identify and select meaningful features in a complex feature space. Our research efforts mainly included three aspects:&lt;/p&gt;
+&lt;p&gt;1. Enable domain users to better define their interests of analysis;&lt;/p&gt;
+&lt;p&gt;2. Accelerate the process of feature selection;&lt;/p&gt;
+&lt;p&gt;3. Comprehensively present the intermediate and final analysis results in a visualized way.&lt;/p&gt;
+&lt;p&gt;For static feature selection, we developed a series of quantitative metrics that related the user interest with the spatio-temporal characteristics of features. For timevarying feature selection, we proposed the concept of generalized feature set and used a generalized time-varying feature to describe the selection interest. Additionally, we provided a scalable system framework that manages both data processing and interactive visualization, and effectively exploits the computation and analysis resources. The methods and the system design together actualized interactive feature selections from two representative large observational data sets with large spatial and temporal resolutions respectively. The final results supported the endeavors in applications of big data analysis regarding combining the statistical methods with high performance computing techniques to visualize real events interactively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3178</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4073&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3178</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4073</articleid>
+<submission-date>2014-02-28T15:19:13-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5240572</context-key>
+<submission-path>utk_graddiss/3178</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Joshua Fu, James Plank, Michael Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

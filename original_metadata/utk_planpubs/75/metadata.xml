@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reproducibility and Reliability Assays of the Gene</title>
+<publication-date>2014-04-13T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Copenhagen</institution>
+<lname>Darbani</lname>
+<fname>Behrooz</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stewart</lname>
+<fname>Charles</fname>
+<mname>Neal</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Gene expression; Reliability; Reproducibility</keyword>
+</keywords>
+<disciplines><discipline>Plant Breeding and Genetics</discipline>
+<discipline>Plant Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Reliability and reproducibility are key metrics for gene expression assays. This report assesses the utility of the correlation coefficient in the analysis of reproducibility and reliability of gene expression data.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;The correlation coefficient alone is not sufficient to assess equality among sample replicates but when coupled with slope and scatter plots expression data equality can be better assessed. Narrow-intervals of scatter plots should be shown as a tool to inspect the actual level of noise within the data. Here we propose a method to examine expression data reproducibility, which is based on the ratios of both the means and the standard deviations for the inter-treatment expression ratios of genes. In addition, we introduce a fold-change threshold with an inter-replicate occurrence likelihood lower than 5% to perform analysis even when reproducibility is not acceptable. There is no possibility to find a perfect correlation between transcript and protein levels even when there is not any post-transcriptional regulatory mechanism. We therefore propose an adjustment for protein abundance with that of transcript abundance based on open reading frame length.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Here, we introduce a very efficient reproducibility approach. Our method detects very small changes in large datasets which was not possible through regular correlation analysis. We also introduce a correction on protein quantities which allows us to examine the post-transcriptional regulatory effects with a higher accuracy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_planpubs/75</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1071&amp;amp;context=utk_planpubs&amp;amp;unstamped=1</fulltext-url>
+<label>75</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1071</articleid>
+<submission-date>2014-05-14T12:31:31-07:00</submission-date>
+<publication-title>Plant Sciences Publications and Other Works</publication-title>
+<context-key>5581977</context-key>
+<submission-path>utk_planpubs/75</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Darbani, B. &amp; Stewart, C.N. (2014). Reproducibility and reliability assays of the gene expression-measurements. Journal of Biological Research, 21. doi:10.1186/2241-5793-21-3</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-04-13T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

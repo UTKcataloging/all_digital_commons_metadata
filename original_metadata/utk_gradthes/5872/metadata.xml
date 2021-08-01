@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Tweet diffusion over space and time: A comparison of a winter-weather and tornado-outbreak case study</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>acannist@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Cannistraci</lname>
+<fname>Alyssa</fname>
+<mname>Margaret</mname>
+</author>
+</authors>
+<keywords>
+<keyword>weather</keyword>
+<keyword>Twitter</keyword>
+<keyword>social media</keyword>
+<keyword>tweet</keyword>
+<keyword>tornado</keyword>
+<keyword>storm</keyword>
+</keywords>
+<disciplines><discipline>Nature and Society Relations</discipline>
+<discipline>Other Geography</discipline>
+<discipline>Physical and Environmental Geography</discipline>
+</disciplines><abstract>&lt;p&gt;Social media allows people to receive, engage in, and share weather information. Users of the social media platform Twitter actively share weather content via tweets, which researchers can acquire through an Application Programming Interface (API). APIs return tweet content, as well as temporal and spatial characteristics (latitude and longitude coordinates). Tweets can then be mapped and studied spatiotemporally through Geographic Information System (GIS) software. For this work, I compared how tweets spread (“diffuse”) over space and time during two natural hazard events in the United States. The first case study is a winter weather event that The Weather Channel named “Winter Storm Gia” (WSG). WSG occurred from 11 to 14 January 2019 and impacted the Rockies, Mid-West, Ohio River Valley, and Mid-Atlantic. The second case study is a tornado outbreak in the Southeast that occurred in early March 2019, and resulted in 80 tornadoes (“Storm Prediction Center Storm Reports for 3/3/19,” 2019). I adapted the methods used by Lee, Lay, Chin, Chi, and Hsueh (2014); specifically, I used the Nearest Neighbor Index (NNI) and regression analysis to study tweet diffusion. I also examined the tweet locations using the ArcGIS “Directional Distribution (Standard Deviational Ellipse)” tool. For both events, tweets peaked on the event day, but for the tornado outbreak, there was also a rebound in tweets after the event that was not present after WSG. Tornado-outbreak tweets were also less concentrated in cities than was the case in WSG. This suggests population dynamics (distance to individual tornadoes) affects winter weather (tornado-outbreak) tweet diffusion. Lastly, I found regression analysis of NNI values not to be a suitable method for analyzing tweet diffusion of weather events. The results were limited by a small sample size of tornado-outbreak tweets. Understanding how weather information spreads on Twitter is important for individuals who communicate information to communities. This includes National Weather Service (NWS) forecasters, emergency managers, media personnel, and governmental officials.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5872</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7032&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5872</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7032</articleid>
+<submission-date>2020-09-23T10:35:36-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/7032/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>19519127</context-key>
+<submission-path>utk_gradthes/5872</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kelsey N. Ellis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Shih-Lung Shaw, Qiusheng Wu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2023-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

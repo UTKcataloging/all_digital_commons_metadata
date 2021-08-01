@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Test of an Event Detector and Locator for the ReflectoActive™ Seals System</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stinson</lname>
+<fname>Brad</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this thesis was to research, design, develop and test a novel instrument for detecting fiber optic loop continuity and spatially locating fiber optic breaches. The work is for an active seal system called ReflectoActive™ Seals whose purpose is to provide real time container tamper indication.&lt;/p&gt;
+&lt;p&gt;A Field Programmable Gate Array was used to implement a loop continuity detector and a spatial breach locator based on a high acquisition speed single photon counting optical time domain reflectometer. Communication and other control features were added in order to create a usable instrument that met defined requirements. A host graphical user interface was developed to illustrate system use and performance.&lt;/p&gt;
+&lt;p&gt;The resulting device meets performance specifications by exhibiting a dynamic range of 27dB and a spatial resolution of 1.5 ft. The communication scheme used expands installation options and allows the device to communicate to a central host via existing Local Area Networks and/or the Internet.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1808</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3161&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1808</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3161</articleid>
+<submission-date>2013-09-09T13:05:37-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4567413</context-key>
+<submission-path>utk_gradthes/1808</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

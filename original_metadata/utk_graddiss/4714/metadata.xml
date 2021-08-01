@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Learning Multimodal Structures in Computer Vision</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ataalimi@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Taalimi</lname>
+<fname>Ali</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Robotics</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;A phenomenon or event can be received from various kinds of detectors or under different conditions. Each such acquisition framework is a modality of the phenomenon. Due to the relation between the modalities of multimodal phenomena, a single modality cannot fully describe the event of interest. Since several modalities report on the same event introduces new challenges comparing to the case of exploiting each modality separately.&lt;/p&gt;
+&lt;p&gt;We are interested in designing new algorithmic tools to apply sensor fusion techniques in the particular signal representation of sparse coding which is a favorite methodology in signal processing, machine learning and statistics to represent data. This coding scheme is based on a machine learning technique and has been demonstrated to be capable of representing many modalities like natural images. We will consider situations where we are not only interested in support of the model to be sparse, but also to reflect a-priorily known knowledge about the application in hand.&lt;/p&gt;
+&lt;p&gt;Our goal is to extract a discriminative representation of the multimodal data that leads to easily finding its essential characteristics in the subsequent analysis step, e.g., regression and classification. To be more precise, sparse coding is about representing signals as linear combinations of a small number of bases from a dictionary. The idea is to learn a dictionary that encodes intrinsic properties of the multimodal data in a decomposition coefficient vector that is favorable towards the maximal discriminatory power.&lt;/p&gt;
+&lt;p&gt;We carefully design a multimodal representation framework to learn discriminative feature representations by fully exploiting, the modality-shared which is the information shared by various modalities, and modality-specific which is the information content of each modality individually. Plus, it automatically learns the weights for various feature components in a data-driven scheme. In other words, the physical interpretation of our learning framework is to fully exploit the correlated characteristics of the available modalities, while at the same time leverage the modality-specific character of each modality and change their corresponding weights for different parts of the feature in recognition.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4714</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6082&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4714</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6082</articleid>
+<submission-date>2017-05-25T10:48:21-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10213094</context-key>
+<submission-path>utk_graddiss/4714</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark Dean, Seddik Djouadi, Jens Gregor, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

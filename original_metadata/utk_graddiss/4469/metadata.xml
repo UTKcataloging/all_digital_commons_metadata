@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dataflow Programming Paradigms for Computational Chemistry Methods</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jagode@icl.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jagode</lname>
+<fname>Heike</fname>
+</author>
+</authors>
+<keywords>
+<keyword>dataflow</keyword>
+<keyword>PaRSEC</keyword>
+<keyword>StarPU</keyword>
+<keyword>DAG</keyword>
+<keyword>NWChem</keyword>
+<keyword>coupled cluster methods</keyword>
+</keywords>
+<abstract>&lt;p&gt;The transition to multicore and heterogeneous architectures has shaped the High Performance Computing (HPC) landscape over the past decades. With the increase in scale, complexity, and heterogeneity of modern HPC platforms, one of the grim challenges for &lt;em&gt;traditional programming models&lt;/em&gt; is to sustain the expected performance at scale. By contrast, &lt;em&gt;dataflow programming models&lt;/em&gt; have been growing in popularity as a means to deliver a good balance between performance and portability in the post-petascale era. &lt;em&gt;This work introduces dataflow programming models for computational chemistry methods, and compares different dataflow executions in terms of programmability, resource utilization, and scalability.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This effort is driven by computational chemistry applications, considering that they comprise one of the driving forces of HPC. In particular, many-body methods, such as Coupled Cluster methods (CC), which are the &quot;gold standard&quot; to compute energies in quantum chemistry, are of particular interest for the applied chemistry community. On that account, the latest development for CC methods is used as the primary vehicle for this research, but our effort is not limited to CC and can be applied across other application domains.&lt;/p&gt;
+&lt;p&gt;Two programming paradigms for expressing CC methods into a dataflow form, in order to make them capable of utilizing task scheduling systems, are presented. &lt;em&gt;Explicit dataflow&lt;/em&gt;, is the programming model where the dataflow is explicitly specified by the developer, is contrasted with &lt;em&gt;implicit dataflow&lt;/em&gt;, where a task scheduling runtime derives the dataflow. An abstract model is derived to explore the limits of the different dataflow programming paradigms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4469</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5871&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4469</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5871</articleid>
+<submission-date>2017-02-24T14:30:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9748361</context-key>
+<submission-path>utk_graddiss/4469</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, David J. Keffer, George Bosilca</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

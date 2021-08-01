@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A High-Temperature, High-Voltage SOI Gate Driver Integrated Circuit with High Drive Current for Silicon Carbide Power Switches</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Huque</lname>
+<fname>Mohammad</fname>
+<mname>Aminul</mname>
+</author>
+</authors>
+<keywords>
+<keyword>high temperature</keyword>
+<keyword>microelectronics</keyword>
+<keyword>gate</keyword>
+<keyword>driver</keyword>
+<keyword>integrated</keyword>
+<keyword>circuit</keyword>
+<keyword>current</keyword>
+<keyword>power switches</keyword>
+<keyword>power</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;High-temperature integrated circuit (IC) design is one of the new frontiers in microelectronics that can significantly improve the performance of the electrical systems in extreme environment applications, including automotive, aerospace, well-logging, geothermal, and nuclear. Power modules (DC-DC converters, inverters, etc.) are key components in these electrical systems. Power-to-volume and power-to-weight ratios of these modules can be significantly improved by employing silicon carbide (SiC) based power switches which are capable of operating at much higher temperature than silicon (Si) and gallium arsenide (GaAs) based conventional devices. For successful realization of such high-temperature power electronic circuits, associated control electronics also need to perform at high temperature. In any power converter, gate driver circuit performs as the interface between a low-power microcontroller and the semiconductor power switches. This dissertation presents design, implementation, and measurement results of a silicon-on-insulator (SOI) based high-temperature (&gt;200 _C) and high-voltage (&gt;30 V) universal gate driver integrated circuit with high drive current (&gt;3 A) for SiC power switches. This mixed signal IC has primarily been designed for automotive applications where the under-hood temperature can reach 200 _C. Prototype driver circuits have been designed and implemented in a Bipolar-CMOS- DMOS (BCD) on SOI process and have been successfully tested up to 200 _C ambient temperature driving SiC switches (MOSFET and JFET) without any heat sink and thermal management. This circuit can generate 30V peak-to-peak gate drive signal and can source and sink 3A peak drive current. Temperature compensating and temperature independent design techniques are employed to design the critical functional units like dead-time controller and level shifters in the driver circuit. Chip-level layout techniques are employed to enhance the reliability of the circuit at high temperature. High-temperature test boards have been developed to test the prototype ICs. An ultra low power on-chip temperature sensor circuit has also been designed and integrated into the gate-driver die to safeguard the driver circuit against excessive die temperature (_ 220 _C). This new temperature monitoring approach utilizes a reverse biased p-n junction diode as the temperature sensing element. Power consumption of this sensor circuit is less than 10 uW at 200 _C.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/706</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1800&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>706</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1800</articleid>
+<submission-date>2010-04-27T12:23:31-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1288861</context-key>
+<submission-path>utk_graddiss/706</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Benjamin J. Blalock, Narendra B. Dahotre</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

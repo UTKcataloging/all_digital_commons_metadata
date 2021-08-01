@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accelerating Exact Stochastic Simulation</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>McCollum</lname>
+<fname>James</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Currently, the applicability of computer modeling to whole-cell and multi-cell biochemical models is limited by the accuracy and efficiency of the simulation tools used to model gene regulatory networks. It is widely accepted that exact stochastic simulation algorithms, originally developed by Gillespie and improved by Gibson and Bruck, accurately depict the time-evolution of a spatially homogeneous biochemical model, but these algorithms are often abandoned by modelers because their execution time can be on the order of days to months. Other modeling techniques exist that simulate models much more quickly, such as approximate stochastic simulation and differential equations modeling, but these techniques can be inaccurate for biochemical models with small populations of chemical species. This work analyzes the performance of exact stochastic simulation algorithms by developing software implementations of exact stochastic simulation algorithms and measuring their performance for a wide variety of models. Through this study, several techniques are developed and tested that improve the performance of certain algorithms for specific models. A new algorithm called the Adaptive Method is then presented which attempts to select the optimal simulation algorithm for the particular model based on periodic measurements of simulator performance during execution. Other algorithmic changes are proposed to aid in the development of hardware accelerators for exact stochastic simulation. The work serves as another step in the process of making exact stochastic simulation a practical modeling solution for molecular biologists.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2367</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3819&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2367</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3819</articleid>
+<submission-date>2013-10-18T12:42:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4739737</context-key>
+<submission-path>utk_gradthes/2367</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Chirs D. Cox</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mathematically Modeling Fetal Electrocardiograms</title>
+<publication-date>2014-06-25T17:31:34-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sestes6@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Estes</lname>
+<fname>Samuel</fname>
+</author>
+<author>
+<email>kmutsey@gmail.com</email>
+<institution>Carroll College, Helena</institution>
+<lname>Utsey</lname>
+<fname>Kiersten</fname>
+</author>
+<author>
+<email>ekalobwe352@loc.edu</email>
+<institution>LeMoyne-Owen College, Memphis</institution>
+<lname>Kalobwe</lname>
+<fname>Erick</fname>
+</author>
+</authors>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+<discipline>Other Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Some of the most common and fatal birth defects are those related to the heart. In adults, possible heart conditions are often identified through the use of an electrocardiogram (ECG). However, due to the presence of other signals and noise in the recording, fetal eletrocardiography has not yet proven effective in diagnosing these defects. This paper develops a mathematical model of three-dimensional heart vector trajectories, which was used to generate synthetic maternal and fetal ECG signals. The dipole model is a useful simplification in which the electrical activity of the heart is viewed as a single time-varying vector originating at the center of the body. A system of ordinary differential equations whose numerical solution approximates this cardiac dipole vector was used. To simulate the cardiac activity of both mother and fetus, two sets of these equations must be implemented. When implementing this model, various physiological factors must be accounted for. After realistic maternal and fetal dipole vectors have been simulated, they are projected onto random unit vectors representing the lead axes of the fECG. Noise is then added to the signal. Using this model a database of realistic, synthetic fECG signals with different parameter values and noise levels has been built. Currently algorithms to extract the fetal signal from the fECG are tested on a database of clinical recordings. Our synthetic database will allow for algorithms to be tested on a broader set of data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/pursuit/vol5/iss1/10</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1165&amp;amp;context=pursuit&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1165</articleid>
+<submission-date>2013-08-16T16:27:35-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/pursuit/article/1165/type/native/viewcontent</native-url>
+<publication-title>Pursuit - The Journal of Undergraduate Research at The University of Tennessee</publication-title>
+<context-key>4454955</context-key>
+<submission-path>pursuit/vol5/iss1/10</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>Samuel Estes1*, Erick Kalobwe2*, Kiersten Utsey3*, Heather Finotti4, and Xiaopeng Zhao4
+University of Tennessee-Knoxville1, LeMoyne-Owen College2, Carroll College3, National Institute for Mathematical and Biological Synthesis4
+Acknowledgments
+This work was conducted with funding from the National Institute for Mathematical and Biological Synthesis, an Institute sponsored by the National Science Foundation, the U.S. Department of Homeland Security, and the U.S. Department of Agriculture through NSF Award #EF-0832858, with additional support from The University of Tennessee, Knoxville. This work was in part supported by the NSF under grant number CMMI 0845753.</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-08-16T00:00:00-07:00</value>
+</field>
+<field name="letters_to_reviewers" type="special">
+<value>ARRAY(0xe9f9ad8)</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

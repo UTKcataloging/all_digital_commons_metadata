@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Three-Phase Power Converter Based Real-Time Synchronous Generator Emulation</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lyang17@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yang</lname>
+<fname>Liu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Three-phase converter</keyword>
+<keyword>Synchronous generator</keyword>
+<keyword>power hardware-in-the-loop</keyword>
+<keyword>real time</keyword>
+<keyword>stability</keyword>
+<keyword>microgrid</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;To bridge the gap between power system research and their real application in power grids, a Hardware Test-Bed (HTB) with modular three-phase power converters has been developed at the CURENT center, the University of Tennessee, Knoxville, to emulate transmission level power systems with actual power flowing.&lt;/p&gt;
+&lt;p&gt;This dissertation focuses on the development and verification of a real-time synchronous generator (SG) emulator in the HTB. The research involved in this dissertation aims at designing a proper control to achieve emulator performance goal and investigating the sources of error and its influence on interconnected SG-emulator networks.&lt;/p&gt;
+&lt;p&gt;First, different interface algorithms (IAs) are compared and the voltage type ideal transformer model (ITM) is selected considering the accuracy and stability. At the same time, closed-loop voltage control with current feed-forward is proposed to decrease the error caused by the non-ideality of the power amplifier.&lt;/p&gt;
+&lt;p&gt;The emulation is then verified through two different ways. First, the output waveforms of the emulator in experiment are compared with the simulation under the same condition. Second, a transfer function perturbation (TFP) based error model is obtained and redefined as the relative error for the amplitude and phase between the emulated and the target system over the frequency range of interest. The major cause of the error is investigated through a quantitative analysis of the error with varying parameters.&lt;/p&gt;
+&lt;p&gt;Third, the stability issue associated with the interconnection of two SG emulators is studied. The small signal models of the two-generation system with constant current and constant impedance load are developed, and the main reasons that cause instability are researched and verified. The developed SG emulator is also verified in the two-area system by comparing the system dynamics visually.&lt;/p&gt;
+&lt;p&gt;At last, the 6&lt;sup&gt;th&lt;/sup&gt;-order SG model including transformer voltages and saturation effect is applied in the three-phase symmetrical fault scenario. Control parameters are designed based on the TFP error evaluation of the fault condition. The developed SG emulator is then tested and verified in line-to-line fault condition. In addition, the stability of the new SG emulator is studied again and compared with the previous emulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3620</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4849&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3620</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4849</articleid>
+<submission-date>2015-05-31T11:21:19-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4849/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7160608</context-key>
+<submission-path>utk_graddiss/3620</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Kevin Tomsovic, Judy Day</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

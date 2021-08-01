@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adopting 3D Time-of-Flight Sensing Technology for Design Information Verification in International Safeguards</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mduchene@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Duchene</lname>
+<fname>Matthew</fname>
+<mname>Stephen</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Time-of-Flight</keyword>
+<keyword>Nuclear Safeguards</keyword>
+<keyword>Treaty Monitoring</keyword>
+<keyword>Point Clouds</keyword>
+<keyword>LIDAR</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;International safeguards inspectors periodically perform examinations at sensitive nuclear facilities to verify that the facilities’ designs, layouts, and functions are identical to information declared to the International Atomic Energy Agency (IAEA). Such design information verification (DIV) relies on tools and techniques—such as 3D laser range-finding (3DLR) with light detection and ranging (LIDAR) instruments—that are resource intensive. This research explores 3D Time-of-Flight (TOF) sensors as a possible alternative technology to LIDAR systems for performing spatial change-detection to enhance the DIV process.&lt;/p&gt;
+&lt;p&gt;This research uses the Microsoft Kinect Version 2 (Kinect v2) camera system, one of several commercial depth-sensing instruments that is available off-the-shelf, as a candidate system capable of accurately sensing depth in an indoor environment as a potential replacement to expensive 3DLR systems. The Kinect v2 is built with TOF technology and can generate accurate point cloud images with open-source software. Test data collected in this research proves that the Kinect v2, coupled with the Point Cloud Library software, is capable of detecting spatial changes at the centimeter level.&lt;/p&gt;
+&lt;p&gt;This research also compares the capabilities of the Kinect v2 with those of a 3DLR system, assessing scans taken by both instruments of a piping assembly which was intended to represent process piping found in a nuclear facility. A second set of scans was made after the assembly was modified in several ways. Both the Kinect v2 and 3DLR identified multiple changes made to the piping, demonstrating that the Kinect v2 has a limited change-detection standoff capability. This dissertation also addresses additional factors for exploring TOF as an alternative to 3DLR for IAEA inspections, including the potential for substantial cost savings and the wider adoption of depth sensing to support DIV.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3692</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5192&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3692</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5192</articleid>
+<submission-date>2016-02-26T07:51:55-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5192/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8222899</context-key>
+<submission-path>utk_graddiss/3692</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Howard L. Hall</value>
+</field>
+<field name="advisor2" type="string">
+<value>Joseph Stainback IV, Steven E. Skutnik, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

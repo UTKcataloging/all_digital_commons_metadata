@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Variable selection via penalized regression and the genetic algorithm using information complexity, with applications for high-dimensional -omics data</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tmassaro@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Massaro</lname>
+<fname>Tyler</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Variable selection</keyword>
+<keyword>genetic algorithm</keyword>
+<keyword>penalized regression</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Biostatistics</discipline>
+<discipline>Multivariate Analysis</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation is a collection of examples, algorithms, and techniques for researchers interested in selecting influential variables from statistical regression models. Chapters 1, 2, and 3 provide background information that will be used throughout the remaining chapters, on topics including but not limited to information complexity, model selection, covariance estimation, stepwise variable selection, penalized regression, and especially the genetic algorithm (GA) approach to variable subsetting.&lt;/p&gt;
+&lt;p&gt;In chapter 4, we fully develop the framework for performing GA subset selection in logistic regression models. We present advantages of this approach against stepwise and elastic net regularized regression in selecting variables from a classical set of ICU data. We further compare these results to an entirely new procedure for variable selection developed explicitly for this dissertation, called the post hoc adjustment of measured effects (PHAME). In chapter 5, we reproduce many of the same results from chapter 4 for the first time in a multinomial logistic regression setting. The utility and convenience of the PHAME procedure is demonstrated on a set of cancer genomic data.&lt;/p&gt;
+&lt;p&gt;Chapter 6 marks a departure from supervised learning problems as we shift our focus to unsupervised problems involving mixture distributions of count data from epidemiologic fields. We start off by reintroducing Minimum Hellinger Distance estimation alongside model selection techniques as a worthy alternative to the EM algorithm for generating mixtures of Poisson distributions. We also create for the first time a GA that derives mixtures of negative binomial distributions.&lt;/p&gt;
+&lt;p&gt;The work from chapter 6 is incorporated into chapters 7 and 8, where we conclude the dissertation with a novel analysis of mixtures of count data regression models. We provide algorithms based on single and multi-target genetic algorithms which solve the mixture of penalized count data regression models problem, and demonstrate the usefulness of this technique on HIV count data that were used in a previous study published by Gray, Massaro, et al. (2015) as well as on time-to-event data taken from the cancer genomic data sets from earlier.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3944</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5284&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3944</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5284</articleid>
+<submission-date>2016-05-20T10:41:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8626416</context-key>
+<submission-path>utk_graddiss/3944</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vasileios Maroulas, Xiaobeng Feng, Haileab Hilafu, Michael Vose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

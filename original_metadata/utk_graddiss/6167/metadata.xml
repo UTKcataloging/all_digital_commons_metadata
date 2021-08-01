@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effect of Nuclear Perturbations on the 3D Organization of the Genome</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rgollosh@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Golloshi</lname>
+<fname>Rosela</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Mechanical perturbations</keyword>
+<keyword>Nucleus organization</keyword>
+<keyword>Hi-C</keyword>
+<keyword>3D genome</keyword>
+<keyword>genome compartments</keyword>
+<keyword>cancer metastasis</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Genomics</discipline>
+<discipline>Integrative Biology</discipline>
+<discipline>Molecular Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Cells in our body experience constant mechanical forces that influence biological functions such as growth and development. The nucleus has been implicated as a key mechanosensor and can directly influence chromatin organization and epigenetic alterations leading to gene expression changes. However, the mechanism by which such mechanical forces lead to genomic alterations and expression of mechanosensitive genes is not fully understood. The work presented in this dissertation investigates the effect of mechanical and epigenetic perturbations on the 3D genome organization. To investigate this 3D genome folding, we use Chromosome Conformation Capture followed by high throughput sequencing (Hi-C) (Chapter-1) which identifies a hierarchical organization of the genome to ensure proper gene regulation. We then investigate how this non-random 3D genome organization is affected when cancer cells undergo compressive and tensile forces induced by migration through constricted spaces (Chapter-2) and the pre-existing structural patterns that may enable such dramatic nuclear deformations (Chapter-3). Chapter 4 includes a detailed characterization of structural patterns associated with global decompaction of the chromatin, which has been shown to modulate nuclear mechanical properties. Lastly, Chapter-5 characterizes the effect of mechanical stretching of cells on the 3D genome structure. Overall, these findings provide evidence about the role of the 3D genome organization in ability of cells to withstand mechanical perturbations by not only regulating transcriptional networks but also aiding as a protective barrier from such forces that could jeopardize the nuclear integrity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6167</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7429&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6167</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7429</articleid>
+<submission-date>2020-09-30T14:23:15-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7429/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19620912</context-key>
+<submission-path>utk_graddiss/6167</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rachel Patton McCord</value>
+</field>
+<field name="advisor2" type="string">
+<value>Keerthi Krishnan, Francisco Barrera, Mariano Labrador, Bruce McKee, Christopher Baker</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;&lt;a href=&quot;https://orcid.org/0000-0002-5567-6441&quot; target=&quot;_blank&quot;&gt;https://orcid.org/0000-0002-5567-6441&lt;/a&gt;&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biochemistry and Cellular and Molecular Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2023-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Movie_S1_Top5_2DMigration.avi</archive-name>
+<upload-name>Movie_S1_Top5_2DMigration.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Phase contrast live cell imaging in a 2D culture dish of a Top-5 cell</description>
+</file>
+<file>
+<archive-name>Movie_S2_Bottom5_2DMigration.avi</archive-name>
+<upload-name>Movie_S2_Bottom5_2DMigration.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Phase contrast live cell imaging in a 2D culture dish of Bottom-5 cells</description>
+</file>
+<file>
+<archive-name>Movie_S3_Top5_3D_nuclear_rendering_final.avi</archive-name>
+<upload-name>Movie_S3_Top5_3D_nuclear_rendering_final.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>3D rendering of Top-5 nucleus using Leica Sp8 software</description>
+</file>
+<file>
+<archive-name>Movie_S4_Bottom5_3D_nuclear_rendering_final.avi</archive-name>
+<upload-name>Movie_S4_Bottom5_3D_nuclear_rendering_final.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>3D rendering of Bottom-5 nucleus using Leica Sp8 software</description>
+</file>
+<file>
+<archive-name>Movie_S5_Top5_3D_Collagen_Migration.avi</archive-name>
+<upload-name>Movie_S5_Top5_3D_Collagen_Migration.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Live time-lapse imaging of Top-5 cells migrating through 3D collagen matrices</description>
+</file>
+<file>
+<archive-name>Movie_S6_Bottom5_3D_Collagen_migration.avi</archive-name>
+<upload-name>Movie_S6_Bottom5_3D_Collagen_migration.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>Live time-lapse imaging of Bottom-5 cells migrating through 3D collagen matrices</description>
+</file>
+<file>
+<archive-name>Movie_S7_Top5_3DCollagen_nuclear_rendering_final.avi</archive-name>
+<upload-name>Movie_S7_Top5_3DCollagen_nuclear_rendering_final.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=6&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>3D rendering of nucleus of collagen embedded Top-5 cell</description>
+</file>
+<file>
+<archive-name>Movie_S8_Bottom5_3DCollagen_nuclear_rendering_final.avi</archive-name>
+<upload-name>Movie_S8_Bottom5_3DCollagen_nuclear_rendering_final.avi</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=7&amp;amp;article=7429&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>video/x-msvideo</mime-type>
+<description>3D rendering of nucleus of collagen embedded Bottom-5 cell</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The design and implementation of a sensor fused network security system architecture</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Rudisill</lname>
+<fname>Jason</fname>
+<mname>S.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In this thesis, a sensor fusion inspired system architecture for network security is presented. A protocol for the architecture is presented which is flexible, secure, and uses very little system resources. The message format, actions taken upon receipt and sequence of messages are all defined for the protocol. A sample application was developed to implement six of the messages: Hello, Introduce, Validate, Search, Block IP, and Goodbye. These six messages provide the core behavioral framework for the protocol. Many of the current intrusion detection systems (IDS) are designed to only monitor a single host, or a single network. Many of these IDS have been evaluated in efforts such as the DARPA MIT-Lincoln Lab IDS evaluations of 1998 and 1999. Most of these systems performed with various degrees of success depending on the mode and originality of the attacks. This architecture is designed to be independent of developments in intrusion detection (ID) and firewalling systems by providing an additional layer of defense. This additional layer doesn&#39;t detect the attack; it communicates the attack to the neighboring network so that defensive actions can be taken by the network as a whole not just the host. This technique of fusion would allow IDS that have &#39;&#39;marginal&quot; success rates to combine its output with the output of additional local or remote detection systems and create a more successful judgement of the attack. This information could then be acted upon by the whole network of nodes, iri the form of firewalling or other mechanism, and not just the victim host. Testing showed that the application was able to detect attacks that originate on the Internet or on the local network and actively request and block the attacking IP closest to the source. This eliminates the route on which the attacking packets can pass, thus protecting the network. Additional in field-testing is still needed due to the limitations of the test bed. Future possible uses and expansions of the protocol are presented. Some of these possible expansions include: traffic throttling of attackers, requests for deeper forensic ID analysis, and warning of &quot;spoofed&quot; packets.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5988</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7621&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5988</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7621</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467650</context-key>
+<submission-path>utk_gradthes/5988</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Phillip W. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

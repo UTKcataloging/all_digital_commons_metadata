@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Techniques for Wireless Channel Modeling in Harsh Environments</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pkurugan@utk.edu</email>
+<lname>Kuruganti</lname>
+<fname>Phani Teja</fname>
+</author>
+</authors>
+<disciplines><discipline>Signal Processing</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;With the rapid growth in the networked environments for different industrial, scientific and defense applications, there is a vital need to assure the user or application a certain level of Quality of Service (QoS). Environments like the industrial environment are particularly harsh with interference from metal structures (as found in the manufacturing sector), interference generated during wireless propagation, and multipath fading of the radio frequency (RF) signal all invite novel mitigation techniques. The challenge of achieving the benefits like improved energy efficiency using wireless is closely coupled with maintaining network QoS requirements. Assessment and management of QoS needs to occur, allowing the network to adapt to changes in the RF, information, and operational environments. The capacity to adapt is paramount to maintaining the required operational performance (throughput, latency, reliability and security). This thesis address the need for accurate radio channel modeling techniques to improve the performance of the wireless communication systems. Multiple different channel modeling techniques are considered including statistical models, ray tracing techniques, finite time-difference technique, transmission line matrix method (TLM), and stochastic differential equation-based (SDE) dynamic channel models. Measurement of ambient RF is performed at several harsh industrial environments to demonstrate the existence of uncertainty in channel behavior. Comparison of various techniques is performed with metrics including accuracy, applicability, and computational efficiency. SDE- and TLM-based methods are validated using indoor and outdoor measurements. Fast, accurate techniques for modeling multipath fading in harsh environments is explored. Application of dynamic channel models is explored for improving QoS of wireless communication system. The TLM-based models provide accurate site-specific path loss calculations taking into consideration materials and propagation characteristics of propagating environment. The validation studies confirm the technique is comparable with existing channel models. The TLM-based channel models is extended to compute the site-specific multipath characteristics of the radio channel eliminating the need for experimental measurement. The TLM-based simulator is also integrated with packet-level network simulator to perform end to end-to-end site specific calculation of wireless network performance. The SDE-channel models provide accurate online estimations of the channel performance along with accurate one-step prediction of the signal strength. The validation studies confirm the accuracy of the technique. Application of the SDE-based models for adaptive antenna control is formulated using online recursive estimation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1536</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2722&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1536</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2722</articleid>
+<submission-date>2012-10-10T06:33:00-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3383311</context-key>
+<submission-path>utk_graddiss/1536</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly Fathy, Rapinder Sawhney, Husheng Li, James Nutaro</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Final submission of the dissertation to the thesis consultant&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

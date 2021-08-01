@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploring Magnetism in Solid Lattices with Efficient Monte Carlo Simulations</title>
+<publication-date>2018-05-16T14:52:16-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kkleiner@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Kleiner</lname>
+<fname>Kevin Gordon</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;A Monte Carlo simulation was implemented for a square Isinglattice of interacting atomic spins to collect independent measurements of the crystal’s magnetization at varying times.Due to the stochastic updating algorithm for the spin sites, one system state was strongly correlated with the next state. To retain the validity of the magnetization average and variance calculations and minimize their bias, the simulation needed to only collect data when the states were nearly uncorrelated. Evidently, the time steps required for the 30x30 (dimensions in site numbers) lattice’s spin autocorrelation to drop below 10% ranged from ~20 steps when far from the critical temperature (ferromagnetic to paramagnetic phase change)to ~200 steps when very close to the critical temperature. Thenext step to improve the Monte Carlo simulation efficiency is to train a neural network to more quickly calculate the probabilities of flipping spins on the lattice.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2018/artsandsciences/3</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1202&amp;amp;context=utk_eureca&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1202</articleid>
+<submission-date>2018-04-24T19:29:29-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>12016817</context-key>
+<submission-path>utk_eureca/2018/artsandsciences/3</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Arts &amp; Sciences</value>
+</field>
+<field name="department" type="string">
+<value>Physics and Astronomy</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Steve Johnston</value>
+</field>
+<field name="year" type="date">
+<value>2018-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

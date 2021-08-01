@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Leksell Gamma Knife Treatment Planning via Kernel Regression Data Mining Initialization and Genetic Algorithm Optimization</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbowling@utk.edu</email>
+<lname>Bowling</lname>
+<fname>Joseph Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Gamma Knife</keyword>
+<keyword>Radiation Therapy</keyword>
+<keyword>Genetic Algorithms</keyword>
+<keyword>Treatment Planning Optimization</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Gamma Knife is a medical procedure that is used to treat several types of intracranial disease. The system utilizes gamma rays from Cobalt-60 radiation sources focused at an isocenter and a stereotactic frame system that serves as an immobilization device coordinate system. Treatment is performed by localizing the patient’s disease with a medical imaging study and positioning the diseased area at the focused intersection of the beams. Patient treatment may require multiple treatment positions and varying beam sizes. The treatment position, time, and beam size is determined through a treatment planning process. Traditionally Gamma Knife treatment planning is performed manually by an expert planner. This process can be time consuming and arrival at an optimal plan may depend on the skill of the planner.&lt;/p&gt;
+&lt;p&gt;This work automates the treatment planning process with a multi-module optimization system. First, a kernel regression data mining module compares the treatment volume to a database of past treatment plans to create a set of initial plans. These plans seed a genetic algorithm optimizer that produces an optimized plan. The cost function for the optimization is a weighted average of several traditional metric for assessing stereotactic radiosurgery plan quality. A gradient descent optimizer is utilized to further refine the optimized treatment plan.&lt;/p&gt;
+&lt;p&gt;The developed system was applied to three Gamma Knife planning cases; a solitary metastasis, an acoustic schwannoma, and a pituitary adenoma. The system produced an average percent isodose coverage for the three plans of 94.5% and the average Paddick Conformity index was 0.76 in an average time of 17.16 minutes for the three plans. The system was compared to an expert planner and an optimizer included with the Gamma Knife planning software. The developed system and expert planner performance was essentially equivalent (average percent isodose coverage 95.8%, average Paddick Conformity index 0.70, optimization time 20.52). The developed system performed much better than the Gamma Plan optimizer (average percent isodose coverage 85.8%, average Paddick Conformity index 0.71) however the Gamma Plan optimizer result was obtained quicker (optimization time about 1 minute). The developed system can be utilized for efficient high-quality Gamma Knife treatment planning.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1273</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2465&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1273</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2465</articleid>
+<submission-date>2012-03-07T18:09:32-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2465/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2645466</context-key>
+<submission-path>utk_graddiss/1273</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Larry Miller, Hairong Qi, Chester Ramsey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-05-23T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

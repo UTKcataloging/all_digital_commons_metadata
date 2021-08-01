@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Unveiling cardiac dynamics using a data-driven technique for eigenvalue estimation</title>
+<publication-date>2015-04-13T05:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yjk112@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Go</lname>
+<fname>Veronica</fname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Other Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Cardiac alternans, a beat-to-beat alternation in action potential duration in cardiac cells, is a harbinger of ventricular fibrillation. Ventricular fibrillation is a fatal arrhythmia and leads to sudden cardiac arrest, which takes the lives of about 300,000 Americans each year. Alternans is characterized by an eigenvalue of the Jacobian of the beat-to-beat state-space function approaching -1. Unfortunately, specifying a model to fully describe cardiac dynamics may be impossible. Furthermore, the full state-space may not be physically measured. [6] developed statistical data-driven techniques to estimate dominant eigenvalues and their standard errors by measuring action potential duration values. This work expands the previous technique by introducing random disturbances to the pacing rate. The variances in disturbance improves the robustness of the technique, rendering it more suitable for experimental analyses, where noise and measurement errors impose challenges to data analysis.&lt;/p&gt;</abstract>
+<coverpage-url>http://trace.tennessee.edu/utk_eureca/2015/artsandsciences/12</coverpage-url>
+<label>12</label>
+<document-type>event</document-type>
+<type>event</type>
+<articleid>1062</articleid>
+<submission-date>2015-04-28T07:50:17-07:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>7039558</context-key>
+<submission-path>utk_eureca/2015/artsandsciences/12</submission-path>
+<fields>
+<field name="college" type="string">
+<value>College of Arts and Sciences</value>
+</field>
+<field name="department" type="string">
+<value>Biochemistry &amp; Cellular and Molecular Biology</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Xiaopeng Zhao</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-04-13T05:00:00-07:00</value>
+</field>
+<field name="year" type="date">
+<value>2015-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Distributed Control System for Priority-Based Site-Specific Irrigation</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Miranda</lname>
+<fname>Fabio</fname>
+<mname>Rodrigues de</mname>
+</author>
+</authors>
+<disciplines><discipline>Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;Site-specific irrigation enables maximizing yields and water use efficiency for fields with variation in soil water availability. Distributed control for fixed irrigated systems, with controllers close to the sensors and actuators in the field, is easier to install and maintain, and less susceptible to damage by lightning strikes compared to centralized control, but is only economically viable with affordable, low-power controllers. A low cost, solar-powered, feedback irrigation controller for distributed control of fixed irrigation systems was developed and tested. The system used soil water potential measurements to control the amount of water applied to each specific zone of a field. Priority scheduling and hydraulic pressure measurements were used to allocate water resources among irrigation controllers. Each irrigation controller was autonomously powered, minimizing maintenance and eliminating hard-wire connections among control units. The study methodology involved system design (hardware and software), experimental implementation, performance evaluation, and power supply optimization. The irrigation controller proved to be effective in maintaining the soil water potential in the root zone close to a predetermined set point. Performance of the priority scheduling approach for water allocation among the irrigation controllers was satisfactory, with irrigation of management zones always occurring according to the priority rank, and under adequate operating pressure. Advantages of the control system compared to centralized control systems include significant reduction in wiring costs, lower risk of system shut down, and higher flexibility.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2164</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3627&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2164</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3627</articleid>
+<submission-date>2013-10-07T12:50:48-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4677384</context-key>
+<submission-path>utk_graddiss/2164</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ronald E. Yoder</value>
+</field>
+<field name="advisor2" type="string">
+<value>John B. Wilkerson, Daniel C. Yoder, John R. Buchanan, Richard A. Straw</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

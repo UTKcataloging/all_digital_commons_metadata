@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Maximum Clique Problem: Algorithms, Applications, and Implementations</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jeblen@utk.edu</email>
+<lname>Eblen</lname>
+<fname>John</fname>
+<mname>David</mname>
+</author>
+</authors>
+<keywords>
+<keyword>FPT</keyword>
+<keyword>paraclique</keyword>
+<keyword>NP-complete</keyword>
+<keyword>bioinformatics</keyword>
+<keyword>correlation</keyword>
+<keyword>software</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Discrete Mathematics and Combinatorics</discipline>
+<discipline>Software Engineering</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Computationally hard problems are routinely encountered during the course of solving practical problems. This is commonly dealt with by settling for less than optimal solutions, through the use of heuristics or approximation algorithms. This dissertation examines the alternate possibility of solving such problems exactly, through a detailed study of one particular problem, the maximum clique problem. It discusses algorithms, implementations, and the application of maximum clique results to real-world problems. First, the theoretical roots of the algorithmic method employed are discussed. Then a practical approach is described, which separates out important algorithmic decisions so that the algorithm can be easily tuned for different types of input data. This general and modifiable approach is also meant as a tool for research so that different strategies can easily be tried for different situations. Next, a specific implementation is described. The program is tuned, by use of experiments, to work best for two different graph types, real-world biological data and a suite of synthetic graphs. A parallel implementation is then briefly discussed and tested. After considering implementation, an example of applying these clique-finding tools to a specific case of real-world biological data is presented. Results are analyzed using both statistical and biological metrics. Then the development of practical algorithms based on clique-finding tools is explored in greater detail. New algorithms are introduced and preliminary experiments are performed. Next, some relaxations of clique are discussed along with the possibility of developing new practical algorithms from these variations. Finally, conclusions and future research directions are given.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/793</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1912&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>793</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1912</articleid>
+<submission-date>2010-07-28T20:29:57-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1414661</context-key>
+<submission-path>utk_graddiss/793</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Lynne E. Parker, Arnold M. Saxton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>John_David_Eblen_Dissertation_August_2010.tar.gz</archive-name>
+<upload-name>John_David_Eblen_Dissertation_August_2010.tar.gz</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1912&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>application/x-gzip</mime-type>
+<description>LaTeX source files, BibTeX references, images, and template</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

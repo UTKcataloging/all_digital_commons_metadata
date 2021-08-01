@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Neuroscience-Inspired Approach to Training Spiking Neural Networks</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jghawaly@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ghawaly</lname>
+<fname>James</fname>
+<mname>Michael</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>spiking neural networks</keyword>
+<keyword>machine learning</keyword>
+<keyword>computational cognitive neuroscience</keyword>
+<keyword>biologically inspired learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;Spiking neural networks (SNNs) have recently gained a lot of attention for use in low-power neuromorphic and edge computing. On their own, SNNs are difficult to train, owing to their lack of a differentiable activation function and their inherent tendency towards chaotic behavior. This work takes a strictly neuroscience-inspired approach to designing and training SNNs. We demonstrate that the use of neuromodulated synaptic time dependent plasticity (STDP) can be used to create a variety of different learning paradigms including unsupervised learning, semi-supervised learning, and reinforcement learning. In order to tackle the highly dynamic and potentially chaotic spiking behavior of SNNs both during training and testing, we discuss a variety of neuroscience-inspired hoemeostatic mechanisms for keeping the network&#39;s activity in a healthy range. All of these concepts are brought together in the development of a SNN model that is trained and tested on the MNIST handwritten digits dataset. In order to achieve this, we introduce also introduce a custom Python package called Ganglion that can be used to rapidly design and test SNN architectures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5624</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7158&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5624</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7158</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539135</context-key>
+<submission-path>utk_gradthes/5624</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Amir Sadovnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Catherine D. Schuman, Bruce J. MacLennan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

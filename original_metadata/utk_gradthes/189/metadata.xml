@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Two-Phase Hydraulics State Identification using linear and non-linear time series analysis: Distillation Column Flooding Sensor</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Patel</lname>
+<fname>Alok</fname>
+<mname>Maheshbhai</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A novel sensor to detect and predict hydraulic flooding in the distillation column was developed in this research. High speed (1000 Hz) differential pressure data sets were collected across distillation trays. The distillation column at University of Tennessee, Knoxville (UTK) was the main research and demonstration site. The UTK column is 9 inches inside diameter, has 4 trays each of a different type not counting the reboiler. Many data sets were collected synchronously across the top tray (sieve tray) and across the next tray (bubble cap) from the top. Flooding always occurred on the sieve tray. To prove the application of this ‘flooding sensor’ in the field, data available from a pilot plant distillation column (low pressure, 4 foot diameter) located at Fractionation Research Inc. (FRI), Stillwater, OK was also analyzed. These time series were analyzed using linear and nonlinear methods such as autocorrelation, frequency analysis, mutual information and residual Shannon entropy. There was no separation of material carried out in the distillation column at UTK as it ran with water at total reflux. For the sieve tray, the magnitude of the first maxima peak in the autocorrelation, frequency analysis, mutual information and residual Shannon entropy plots increases, as the column moves towards the flooding. The behavior of the plots for the bubble cap tray also showed clear trends with increasing column throughput. Online monitoring of the chosen peak or peaks allows tracking of the hydraulic state and to predicting flooding.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/189</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1221&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>189</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1221</articleid>
+<submission-date>2010-02-10T08:23:48-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1138840</context-key>
+<submission-path>utk_gradthes/189</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Duane Bruns</value>
+</field>
+<field name="advisor2" type="string">
+<value>David Keffer, Charles Moore</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/PatelAlok.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Single Crystal to Polycrystal Neutron Simulation</title>
+<publication-date>2019-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ldessieu@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Dessieux</lname>
+<fname>Luc</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The holy grail for inspection of manufactured parts is being able to place an arbitrary part in a measurement system that generates a 3-D map of grain size, orientation, and strain within the part at 10μm resolution. Current measurement capabilities are far from this ideal and development of models, instruments and algorithms is needed to reach this ideal. Over the past two decades the technique of Bragg-edge neutron transmission along with computed tomography algorithms has materialized as a potential technique to obtain three-dimensional maps within the bulk of materials. To date, these techniques have been applied only to simplistic three-dimensional strains without consideration of texture. In this work, a new approach to modeling Neutron Bragg-edge transmission is investigated. The basic principle of the Bragg-edge transmission technique is the measurement of transmission of cold and thermal neutrons through polycrystalline materials. The spectral signatures of the transmission are based on the sample’s-crystal symmetry, and atomic parameters. The shape, position, and relative magnitude of these Bragg-edge spectral signatures contain information about grain size, grain orientation, and the average strain within the sample that is collinear with the incident beam. The focal point of this thesis is the development of a new neutron Bragg-edge transmission simulation code in which the user can define distributions for grain size, mosaic distribution per grain, grain orientations (texture), and general three-dimensional strain on the grain systems of the sample. A theoretical neutron cross-section calculation for single crystals dependent on crystallographic description of the sample, granular topology, and the strain state of the grain is applied to each crystal in the defined distribution to model the Bragg-edge effect in polycrystalline materials. The cross-section calculation is implemented using the python scripting language and the simulation tool is used to investigate the transmission spectrum of single crystals and polycrystalline materials. In order to verify the transmission spectrum,simulations spectra are compared to neutron transmission taken at the VULCAN instrument at the Spallation Neutron Source. Comparison of the simulation spectra to those found in literature are also presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5580</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7226&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5580</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7226</articleid>
+<submission-date>2020-08-13T18:48:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911457</context-key>
+<submission-path>utk_graddiss/5580</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Micheal Guidry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Philip Bingham, Alexandru Stoica, Takeshi Egami, Geoffrey Greene</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

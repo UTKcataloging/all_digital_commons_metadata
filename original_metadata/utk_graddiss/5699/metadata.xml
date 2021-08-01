@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>NONLINEAR VIBRATION CONTROL OF THE FLEXIBLE DRIVE-SHAFT SYSTEM WITH NONCONSTANT VELOCITY COUPLING VIA TORSIONAL INPUT</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wyao2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yao</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Driveline</keyword>
+<keyword>Universal Joint</keyword>
+<keyword>Active Vibration Control</keyword>
+<keyword>Sommerfeld Effect</keyword>
+<keyword>Rotordynamics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Driveline system involves a complex interconnected multi-link system with a rigorous actuation scheme. A full understanding and description of such a mechanism are crucial to the design and control of assistive driveline system to decrease the vibration and enhance the stability. Sommerfeld effective is the jump phenomena that are observed in the rotor system driving through the critical speed when there is not enough power to overdrive driveshaft under such situations. Then a proper controller is required to control the power source to provide enough large input to the system to spinup over the critical speed. The purpose of this dissertation is to analyze the Sommerfeld effect in the driveshaft system consisting of Non-Constant Velocity (NCV) flexible couplings and multi-shafts driven by a torque input and develop a torsional control strategy that drives the shaft system through the critical speed smoothly without existence the Sommerfeld effect during the acceleration process. This dissertation explores the Sommerfeld effect performances in the driveshaft system that includes two NCV flexible couplings and multi-shafts when the driveshaft is driven through the critical frequencies with either unlimited power condition or limited power condition. The parametric performance analysis has been studied to investigate the nonlinear vibration and the energy sink phenomenon. The hybrid controller consisting of the sliding mode control (SMC) with the linear quadratic regulator (LQR) strategy is theoretically developed to drive the shaft system through the critical frequency without measuring the Sommerfeld effect. The analysis shows that under the unlimited power condition, the driveshaft system coupled with the proper hybrid SMC/LQR controller by torsional input overdrives the critical speed smoothly. For the practical situation, most of the power sources are under a limited power condition, which causes more difficulty in providing enough torque for the driveline system to overdrive the critical speed. Therefore, the driveshaft system operation under the limited power condition is also explored. The SMC/LQR controller is applied to the control of the voltage of the DC motor, which is powered through the electric circuit to control the input torque of the driveline under the limited power condition.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5699</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7465&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5699</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7465</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419550</context-key>
+<submission-path>utk_graddiss/5699</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hans DeSmidt</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Eric Wade, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

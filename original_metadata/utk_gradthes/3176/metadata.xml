@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Autonomous Online I-V Tracer for PV Monitoring Applications</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>criley5@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Riley</lname>
+<fname>Cameron</fname>
+<mname>William</mname>
+</author>
+</authors>
+<keywords>
+<keyword>I-V Curve</keyword>
+<keyword>I-V Tracer</keyword>
+<keyword>Photovoltaics</keyword>
+<keyword>SEPIC</keyword>
+<keyword>Power Electronics</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;With the unprecedented growth of photovoltaic technologies and their implementation in recent times, more precise methods of determining modules health, degradation, and performance are needed. Current monitoring efforts are helpful in determining these attributes but do not provide all of the information necessary to truly understand the health properties of the PV module in question. The current-voltage curve, or I-V curve, provides a level of insight into a PV module’s health unparalleled by most monitoring efforts. However, the tools which measure the I-V curve exist in an undesirable form—PV must be disconnected from its load and connected to the tool in order to trace the I-V curve. This is undesirable due to the fact that it requires a trained technician to perform, as well as requiring some time to disconnect and reconnect the modules.&lt;/p&gt;
+&lt;p&gt;In this thesis, an I-V tracer which operates autonomously, with no need to be disconnected from its load, will be discussed. The current state of I-V tracers commercially available will be discussed and motivation will be provided for the online autonomous I-V tracer. Design of such an I-V tracer using the single-ended primary inductance converter (SEPIC) will be discussed, and simulation results of such a converter operating as an I-V tracer will be presented. Analysis techniques of the I-V curve are also presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3176</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4250&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3176</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4250</articleid>
+<submission-date>2014-10-10T14:33:02-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4250/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6228131</context-key>
+<submission-path>utk_gradthes/3176</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel Costinett, Fred Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

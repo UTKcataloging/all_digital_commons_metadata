@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Determining anion-quadrupole interactions among protein, DNA, and ligand molecules</title>
+<publication-date>2011-08-05T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jharri43@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Harris</lname>
+<fname>Jason</fname>
+<mname>B.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jekins</lname>
+<fname>David</fname>
+<mname>D.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Reyles</lname>
+<fname>Jonathan</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rickett</lname>
+<fname>Stephanie</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Utley</lname>
+<fname>Jordan</fname>
+<mname>M.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Howell</lname>
+<fname>Elizabeth</fname>
+<mname>E.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baudry</lname>
+<fname>Jerome</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hinde</lname>
+<fname>Robert</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;An extensive search through the Protein Databank (about 4500 nonredundant structures) was previously completed within our lab to analyze the energetic and geometric characteristics of an understudied molecular interaction known as an anion-quadrupole (AQ) interaction. Such an interaction occurs when the positively charged edge of an aromatic ring, resulting from a quadruple moment (i.e., a dual dipole moment), renders the aromatic molecule noncovalently bound to a nearby anionic molecule. The study considered a very limited scenario of molecules that can participate in AQ interactions, consisting of the phenyl group of a phenylalanine (phe) amino acid as the aromatic participant and the carboxylate group of an aspartate (asp) or glutamate (glu) amino acid as the anionic participant. The results revealed anion-quadrupole pairs to be prevalent within most of the protein structures. It was also observed that the interaction energy for AQ pairs was heavily dependent on the angle between the anion and plane of the aromatic ring, favoring a more planar interaction.&lt;/p&gt;
+&lt;p&gt;In light of these critical observations being made from such a limited scenario, only phe-glu and phe-asp pairs and in a reduced sample set of the PDB, we are now continuing this work of identifying AQ interactions using a greatly expanded strategy. We are following these four aims: 1. Optimizing the AQ-search program to run in a semi-parallel fashion and on a large cluster of processors in order to handle larger analyses, 2. Adding to our search additional anionic participants which will include non-protein structures such as DNA and small ligands, 3. Studying a subset of the AQ pairs with molecular dynamics simulations in buried and solvent exposed environments to observe non-static behavioral traits as well as the reproducibility of AQ interactions by force field parameters. 4. Building an online database for public access to our data and search program.  &lt;h3&gt;Acknowledgments&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;We would like to acknowledge the NSF-IGERT traineeship, Scalable Computing and Leading Edge Innovative Technologies (SCALE-IT), for providing the resources for this project.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chempubs/40</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1041&amp;amp;context=utk_chempubs&amp;amp;unstamped=1</fulltext-url>
+<label>40</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1041</articleid>
+<submission-date>2013-07-11T08:20:08-07:00</submission-date>
+<publication-title>Chemistry Publications and Other Works</publication-title>
+<context-key>4304476</context-key>
+<submission-path>utk_chempubs/40</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2011, 12 (Suppl 7): A5 doi:10.1186/1471-2105-12-S7-A5</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-05T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Theoretical Studies on Control and Synchronization of Coupled Nonlinear Systems</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Nair</lname>
+<fname>Niketh</fname>
+<mname>Shyam</mname>
+</author>
+</authors>
+<keywords>
+<keyword>synchronization</keyword>
+<keyword>semiconductor lasers</keyword>
+<keyword>superconducting logic</keyword>
+<keyword>coherent beam combining</keyword>
+<keyword>nonlinear dynamics</keyword>
+<keyword>coupled oscillators</keyword>
+</keywords>
+<abstract>&lt;p&gt;Many natural and engineered systems—including but not limited to laser arrays, neuronal networks, and superconducting circuits—can be modeled as a set of coupled nonlinear oscillators. The generic study of collective behavior in coupled nonlinear oscillators has led to fundamental advances in a wide variety of fields. In this dissertation, we apply the study of coupled nonlinear oscillator systems to two engineering problems.We study the conditions necessary to passively phase lock large arrays of semiconductor diodes in a scalable design. We approach this problem from two angles. First, we develop a novel coupled mode theory model for the electric field in a compound resonator made up of an array of waveguides of non-uniform lengths coupled using an external cavity. Second, we use and extend Master Stability Function (MSF) theory to find the stability of approximately synchronous states of arrays of weakly coupled semiconductor lasers, modeled using the Lang-Kobayashi equations. We show that if the external cavity can be represented using a decayed non-local coupling network, it may be possible to synchronize arrays of hundreds or thousands of lasers. We also present a novel derivation of the Lang-Kobayashi equations from the first-principles coupled mode theory model that we have developed. Finally, we show how our extension of MSF theory can be applied to more general coupled oscillator networks and even to a model for associative memory in neural networks.We present new designs and design principles for ternary cryogenic memory cells based on arrays of inductively coupled Josephson junctions. We show how reading, writing and resetting are implemented using single flux quantum (SFQ) current pulse inputs and outputs from the circuit. We further show how both destructive readout and nondestructive readout can be implemented. The memory states are based on non-local trapping of flux quanta between the junctions in the array. The states correspond to the stable fixed-point solutions of the equations of motion for the circuit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5029</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6570&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5029</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6570</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415416</context-key>
+<submission-path>utk_graddiss/5029</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yehuda Braiman</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Travis S. Humble, Zhili Zhang</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-8871-6286</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published or will be published in:
+1. N. Nair, E. Bochove, and Y. Braiman, &quot;Associative memory in phasing neuron networks,&quot; in Proceedings of the 2014 Biomedical Sciences and Engineering Conference - 5th Annual ORNL Biomedical Sciences and Engineering Conference: Collaborative Biomedical Innovations - The Multi-Scale Brain: Spanning Molecular, Cellular, Systems, Cognitive, Behavi (2014).
+2. N. Nair, E. J. Bochove, A. B. Aceves, M. R. Zunoubi, and Y. Braiman, &quot;Resonator modes and mode dynamics for an external cavity-coupled laser array,&quot; in Proceedings of SPIE - The International Society for Optical Engineering (2015), 9343.
+3. N. Nair, E. Bochove, and Y. Braiman, &quot;Transverse Modes of Coupled Nonlinear Oscillator Arrays,&quot; in Proceedings of the 4th International Conference on Applications in Nonlinear Dynamics (ICAND 2016), V. In, P. Longhini, and A. Palacios, eds. (Springer International Publishing, 2017), pp. 277–288.
+4. N. Nair, E. Bochove, and Y. Braiman, &quot;Phase-locking of arrays of weakly coupled semiconductor lasers,&quot; [Forthcoming] Opt. Exp. (2018).
+5. N. Nair and Y. Braiman, &quot;Ternary memory cell design using small Josephson junction array,&quot; In Prep. (2018).
+Figures and material from these papers are used with permission of IEEE [1], SPIE [2], Springer [3], Optical Society of America [4].</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

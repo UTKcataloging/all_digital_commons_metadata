@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Advanced Studies on Locational Marginal Pricing</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ywei9@utk.edu</email>
+<lname>Wei</lname>
+<fname>Yanli</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Locational Marginal Pricing</keyword>
+<keyword>Electricity Markets</keyword>
+<keyword>Economic Dispatch</keyword>
+<keyword>Ex-Post LMP</keyword>
+<keyword>Renewable Energy</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;The effectiveness and economic aspect of Locational Marginal Price (LMP) formulation to deal with the power trading in both Day-Ahead (DA) and Real-Time (RT) operation are the focus of not only the system operator but also numerous market participants. In addition, with the ever increasing penetration of renewable energy being integrated into the grid, uncertainty plays a larger role in the process of market operation. The study is carried out in four parts.&lt;/p&gt;
+&lt;p&gt;In the first part, the mathematical programming models, which produce the generation dispatch solution for the Ex Post LMP, are reviewed. The existing approach fails to meet the premise that Ex Post LMP should be equal to Ex Ante LMP when all the generation and load combinations in RT operation remain the same as in DA market. Thus, a similar yet effective approach which is based on a scaling factor applied to the Ex Ante dispatch model is proposed.&lt;/p&gt;
+&lt;p&gt;In the second part, the step change characteristic of LMP and the Critical Load Level (CLL) effect are investigated together with the stochastic wind power to evaluate the impacts on the market price volatility. A lookup table based Monte Carlo simulation has been adopted to capture the probabilistic nature of wind power as well as assessing the probabilistic distribution of the price signals.&lt;/p&gt;
+&lt;p&gt;In the third part, a probability-driven, multilayer framework is proposed for ISOs to schedule intermittent wind power and other renewables. The fundamental idea is to view the intermittent renewable energy as a product with a lower quality than dispatchable power plants, from the operator’s viewpoint. The new concept used to handle the scheduling problem with uncertainty greatly relieves the intensive computational burden of the stochastic Unit Commitment (UC) and Economic Dispatch (ED).&lt;/p&gt;
+&lt;p&gt;In the last part, due to the relatively high but similar R/X ratio along the radial distribution feeder, a modified DC power flow approach can be used to simplify the computational effort. In addition, distribution LMP (DLMP) has been formulated to have both real and reactive power price, under the linearized optimal power flow (OPF) model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1791</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2800&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1791</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2800</articleid>
+<submission-date>2012-12-16T12:06:08-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3539613</context-key>
+<submission-path>utk_graddiss/1791</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Yilu Liu, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

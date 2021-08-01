@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Latent Variable Models with Applications to Spectral Data Analysis</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fang</lname>
+<fname>Yi</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Recent technological advances in automatic data acquisition have created an ever increasing need to extract meaningful information from huge amount of data. Multivariate predictive models have become important statistical tools in solving modern engineering problems. The purpose of this thesis is to develop novel predictive methods based on latent variable models and validate these methods by applying them into spectral data analysis.&lt;/p&gt;
+&lt;p&gt;In this thesis, hybrid models of principal components regression (PCR) and partial least squares regression (PLS) is proposed. The basic idea of hybrid models is to develop more accurate prediction techniques by combining the merits of PCR and PLS. In the hybrid models, both principal components in PCR and latent variables in PLS are involved in the common regression process.&lt;/p&gt;
+&lt;p&gt;Another major contribution of this work is to propose the robust probabilistic multivariate calibration model (RPMC) to overcome the drawback of Gaussian assumption in most latent variable models. The RPMC was designed to be robust to outliers by adopting a Student-t distribution instead of the Gaussian distribution. An efficient Expectation- Maximization algorithm was derived for parameter estimation in the RPMC. It can also be shown that some popular latent variables such as probabilistic PCA (PPCA) and supervised probabilistic PCA (SPPCA) are special cases of the RPMC.&lt;/p&gt;
+&lt;p&gt;Both the predictive models developed in this thesis were assessed on the real-life spectral data datasets. The hybrid models were applied into the shaft misalignment prediction problem and the RPMC are tested on the near-infrared (NIR) dataset. For the classification problem on the NIR data, the fusion of the regularized discriminant analysis (RDA) and principal components analysis (PCA) was also proposed. The experimental results have shown the effectiveness and efficiency of the proposed methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1549</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2998&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1549</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2998</articleid>
+<submission-date>2013-08-06T09:05:22-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4395243</context-key>
+<submission-path>utk_gradthes/1549</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Myongkee Jeong</value>
+</field>
+<field name="advisor2" type="string">
+<value>Denise Jackson, Adam Taylor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

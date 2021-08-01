@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Towards Automatic and Adaptive Optimizations of MPI Collective Operations</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pjesivac-Grbovic</lname>
+<fname>Jelena</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+<discipline>Physical Sciences and Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Message passing is one of the most commonly used paradigms of parallel programming. Message Passing Interface, MPI, is a standard used in scientific and high-performance computing. Collective operations are a subset of MPI standard that deals with processes synchronization, data exchange and computation among a group of processes. The collective operations are commonly used and can be application performance bottleneck. The performance of collective operations depends on many factors, some of which are the input parameters (e.g., communicator and message size); system characteristics (e.g., interconnect type); the application computation and communication pattern; and internal algorithm parameters (e.g., internal segment size). We refer to an algorithm and its internal parameters as a method.&lt;/p&gt;
+&lt;p&gt;The goal of this dissertation is a performance improvement of MPI collective operations and applications that use them. In our framework, during a collective call, a system-specific decision function is invoked to select the most appropriate method for the particular collective instance. This dissertation focuses on automatic techniques for system-specific decision function generation. Our approach takes the following steps: first, we collect method performance information on the system of interest; second, we analyze this information using parallel communication models, graphical encoding methods, and decision trees; third, based on the previous step, we automatically generate the system-specific decision function to be used at run-time. In situation when a detailed performance measurement is not feasible, method performance models can be used to supplement the measured method performance information.&lt;/p&gt;
+&lt;p&gt;We build and evaluate parallel communication models of 35 different collective algorithms. These models are built on top of the three commonly used point-to-point communication models, Hockney, LogGP, and PLogP.We use the method performance information on a system to build quadtrees and C4.5 decision trees of variable sizes and accuracies. The collective method selection functions are then generated automatically from these trees. Our experiments show that quadtrees of three or four levels are often enough to approximate experimentally optimal decision with a small mean performance penalty (less than 10%). The C4.5 decision trees are even more accurate (with mean performance penalty of less than 5%). The size and accuracy of C4.5 decision trees can be further improved with use of appropriate composite attributes (such as “total message size”, or “even communicator size”.) Finally, we apply these techniques to tune the collective operations on the Grig cluster at the University of Tennessee and to improve an application performance on the Cray XT4 system at Oak Ridge National Laboratory. The tuned collective is able to achieve more than 40% mean performance improvement over the native broadcast implementation. Using the platform-specific reduce on Cray XT4 lead to 10% improvement in the overall application performance. Our results show that the methods we explored are both applicable and effective for the system-specific optimizations of collective operations and are a right step toward automatically tunable, adaptive, MPI collectives.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/267</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1320&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>267</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1320</articleid>
+<submission-date>2010-02-04T13:34:53-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1132513</context-key>
+<submission-path>utk_graddiss/267</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>George Bosilca, Itamar Elhanany, James Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/PjesivacGrbovicJelena.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

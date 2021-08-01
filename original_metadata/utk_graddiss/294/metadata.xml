@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Process and Temperature Compensated Wideband Injection Locked Frequency Dividers and their Application to Low-Power 2.4-GHz Frequency Synthesizers</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Vijayaraghavan</lname>
+<fname>Rajagopal</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;There has been a dramatic increase in wireless awareness among the user community in the past five years. The 2.4-GHz Industrial, Scientific and Medical (ISM) band is being used for a diverse range of applications due to the following reasons. It is the only unlicensed band approved worldwide and it offers more bandwidth and supports higher data rates compared to the 915-MHz ISM band. The power consumption of devices utilizing the 2.4-GHz band is much lower compared to the 5.2-GHz ISM band. Protocols like Bluetooth and Zigbee that utilize the 2.4-GHz ISM band are becoming extremely popular.&lt;/p&gt;
+&lt;p&gt;Bluetooth is an economic wireless solution for short range connectivity between PC, cell phones, PDAs, Laptops etc. The Zigbee protocol is a wireless technology that was developed as an open global standard to address the unique needs of low-cost, lowpower, wireless sensor networks. Wireless sensor networks are becoming ubiquitous, especially after the recent terrorist activities. Sensors are employed in strategic locations for real-time environmental monitoring, where they collect and transmit data frequently to a nearby terminal. The devices operating in this band are usually compact and battery powered. To enhance battery life and avoid the cumbersome task of battery replacement, the devices used should consume extremely low power. Also, to meet the growing demands cost and sized has to be kept low which mandates fully monolithic implementation using low cost process.&lt;/p&gt;
+&lt;p&gt;CMOS process is extremely attractive for such applications because of its low cost and the possibility to integrate baseband and high frequency circuits on the same chip. A fully integrated solution is attractive for low power consumption as it avoids the need for power hungry drivers for driving off-chip components. The transceiver is often the most power hungry block in a wireless communication system. The frequency divider (prescaler) and the voltage controlled oscillator in the transmitter’s frequency synthesizer are among the major sources of power consumption. There have been a number of publications in the past few decades on low-power high-performance VCOs. Therefore this work focuses on prescalers.&lt;/p&gt;
+&lt;p&gt;A class of analog frequency dividers called as Injection-Locked Frequency Dividers (ILFD) was introduced in the recent past as low power frequency division. ILFDs can consume an order of magnitude lower power when compared to conventional flip-flop based dividers. However the range of operation frequency also knows as the locking range is limited. ILFDs can be classified as LC based and Ring based. Though LC based are insensitive to process and temperature variation, they cannot be used for the 2.4-GHz ISM band because of the large size of on-chip inductors at these frequencies. This causes a lot of valuable chip area to be wasted. Ring based ILFDs are compact and provide a low power solution but are extremely sensitive to process and temperature variations. Process and temperature variation can cause ring based ILFD to loose lock in the desired operating band.&lt;/p&gt;
+&lt;p&gt;The goal of this work is to make the ring based ILFDs useful for practical applications. Techniques to extend the locking range of the ILFDs are discussed. A novel and simple compensation technique is devised to compensate the ILFD and keep the locking range tight with process and temperature variations. The proposed ILFD is used in a 2.4-GHz frequency synthesizer that is optimized for fractional-N synthesis. Measurement results supporting the theory are provided.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/294</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1347&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>294</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1347</articleid>
+<submission-date>2010-02-05T11:01:52-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1133824</context-key>
+<submission-path>utk_graddiss/294</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Charles L. Britton, Stephen F. Smith, Dayakar Penumadu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/VijayaraghavanRaj.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

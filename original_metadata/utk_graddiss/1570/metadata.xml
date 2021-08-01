@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parallel For Loops on Heterogeneous Resources</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fweber1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Weber</lname>
+<fname>Frederick</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Heterogeneous computing</keyword>
+<keyword>parallel</keyword>
+<keyword>GPU</keyword>
+<keyword>multi-core</keyword>
+<keyword>parallel for</keyword>
+<keyword>loop optimization</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Programming Languages and Compilers</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, Graphics Processing Units (GPUs) have piqued the interest of researchers in scientific computing. Their immense floating point throughput and massive parallelism make them ideal for not just graphical applications, but many general algorithms as well. Load balancing applications and taking advantage of all computational resources in a machine is a difficult challenge, especially when the resources are heterogeneous. This dissertation presents the clUtil library, which vastly simplifies developing OpenCL applications for heterogeneous systems. The core focus of this dissertation lies in clUtil&#39;s ParallelFor construct and our novel PINA scheduler which can efficiently load balance work onto multiple GPUs and CPUs simultaneously.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1570</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2731&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1570</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2731</articleid>
+<submission-date>2012-10-18T21:37:08-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3404569</context-key>
+<submission-path>utk_graddiss/1570</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert J. Harrison, Micah Beck, Robert Hettich</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

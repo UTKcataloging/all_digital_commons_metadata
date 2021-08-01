@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Eigenvalue Dependence on Problem Parameters for Stieltjes Sturm-Liouville Problems</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Battle</lname>
+<fname>Laurie</fname>
+<mname>Elizabeth</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;This work examines generalized Stieltjes Sturm-Liouville boundary value problems with particular consideration of self-adjoint problems. Of central importance is determining conditions under which the eigenvalues depend continuously and differentiably on the problem data. These results can be applied to various physical problems, such as constructing beams to maximize the fundamental frequency of vibration, or constructing columns to maximize the height without buckling. These problems involve maximizing the smallest eigenvalues of Sturm-Liouville equations, and the continuous dependence of the eigenvalues on the problem parameters can be used to accomplish this.&lt;/p&gt;
+&lt;p&gt;We first consider the generalized &lt;em&gt;2n&lt;/em&gt;-dimensional initial value problem &lt;em&gt;dy = Aydt + dPz, dz = (dQ − dW)y + Dzdt&lt;/em&gt; on an interval &lt;em&gt;[a, b]&lt;/em&gt;. In the proof of existence and uniqueness of a quasi-continuous solution, we establish some bounds and continuity properties of the solution that will be used throughout this work. Next we define a sequence of initial value problems and prove that the sequence of solutions converges to the solution of the limit problem.&lt;/p&gt;
+&lt;p&gt;We then consider the eigenvalue problem, adding general boundary conditions to the system of equations. The eigenvalues are shown to be the roots of an entire function. Taking a sequence of eigenvalue problems, we show that a sequence of eigenvalues converges. This result establishes conditions under which each eigenvalue depends continuously on the coefficients and on the boundary data. We find separate conditions for the continuous dependence on the endpoints of the interval.&lt;/p&gt;
+&lt;p&gt;We next turn to ascertaining conditions under which each eigenvalue depends differentiably on the problem data. For this topic, we consider the less general 2- iii dimensional Stieltjes Sturm-Liouville problem &lt;em&gt;dy = dPz, dz = (dQ −dW)y&lt;/em&gt; with separated boundary conditions. Considering each eigenvalue as a function of the coefficients and of the boundary data, we conclude that these functions are differentiable under the same conditions we found for continuity. Separate conditions are found to guarantee the differentiability of each eigenvalue with respect to the endpoints. In all cases, we find expressions for the derivatives of the eigenvalues with respect to the problem parameters.&lt;/p&gt;
+&lt;p&gt;We conclude with an application to the problem of finding extremal values of an eigenvalue. For the fourth order problem &lt;em&gt;(ry00)00 + (py0)0 + qy = wy&lt;/em&gt; with boundary conditions &lt;em&gt;y(a) = y0(a) = y(b) = y0(b) = 0&lt;/em&gt;, we consider the smallest eigenvalue 0 as a function of the coefficients. The continuous dependence of the eigenvalue on the coefficients is used to find a sequence of coefficients converging to a function that attains the supremum or infimum of 0 over a certain class of coefficient functions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1957</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3388&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1957</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3388</articleid>
+<submission-date>2013-09-19T14:10:37-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4602735</context-key>
+<submission-path>utk_graddiss/1957</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Don Hinton</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bo Guan, Suzanne Lenhart, Marianne Breinig</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

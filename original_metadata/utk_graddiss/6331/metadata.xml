@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical simulation of freezing shear driven rivulets using an enthalpy method formulation</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Wiberg</lname>
+<fname>Clark</fname>
+<mname>G.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;A numerical simulation of freezing shear driven rivulets is presented herein. The physics of the freezing process is captured in the simulation through application of the “enthalpy method”; a formulation well suited for the Stefan class of problems. The associated system of fully implicit finite difference equations was solved using the Gauss-Seidel iterative technique. The enthalpy method formulation is first applied to the case of a “stationary” freezing rivulet, but with a convective boundary at the free surface. The “stationary” simulation is utilized as a subset of the more complex “traveling”, or shear driven, simulation. The freezing process of shear driven rivulets was divided into three distinct modes based upon macro-scale observations of freezing rivulet flow on a NACA 0012 airfoil. From such observations, a non-dimensional empirical parameter was developed which establishes the bulk rivulet halt criterion for a freezing rivulet during runback.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6331</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=8283&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6331</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>8283</articleid>
+<submission-date>2021-06-21T05:06:03-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>23450441</context-key>
+<submission-path>utk_graddiss/6331</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Roy J. Schulz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

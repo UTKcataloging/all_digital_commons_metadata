@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Review and Characterization of Gallium Nitride Power Devices</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ejones55@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jones</lname>
+<fname>Edward</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Gallium Nitride</keyword>
+<keyword>GaN</keyword>
+<keyword>HEMT</keyword>
+<keyword>HFET</keyword>
+<keyword>Wide Bandgap</keyword>
+<keyword>WBG</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Gallium Nitride (GaN) power devices are an emerging technology that have only recently become available commercially. This new technology enables the design of converters at higher frequencies and efficiencies than those achievable with conventional Si devices. This thesis reviews the characteristics and commercial status of both vertical and lateral GaN power devices from the user perspective, providing the background necessary to understand the significance of these recent developments. Additionally, the challenges encountered in GaN-based converter design are considered, such as the consequences of faster switching on gate driver design and board layout. Other issues include the unique reverse conduction behavior, dynamic on-resistance, breakdown mechanisms, thermal design, device availability, and reliability qualification.&lt;/p&gt;
+&lt;p&gt;Static and dynamic characterization was then performed across the full current, voltage, and temperature range of this device to enable effective GaN-based converter design. Static testing was performed with a curve tracer and precision impedance analyzer. A double pulse test setup was constructed and used to measure switching loss and time at the fastest achievable switching speed, and the subsequent overvoltages due to the fast switching were characterized. The results were also analyzed to characterize the effects of cross-talk in the active and synchronous devices of a phase-leg topology with enhancement-mode GaN HFETs. Based on these results and analysis, an accurate loss model was developed for the device under test.&lt;/p&gt;
+&lt;p&gt;Based on analysis of these characterization results, a simplified model was developed to describe the overall switching behavior and some unique features of the device. The consequences of the Miller effect during the turn-on transient were studied to show that no Miller plateau occurs, but rather a decreased gate voltage slope, followed by a sharp drop. The significance of this distinction is derived and explained. GaN performance at elevated temperature was also studied, because turn-on time increases significantly with temperature, and turn-on losses increase as a result. Based on this relationship, a temperature-dependent turn-on model and a linear scaling factor was proposed for estimating turn-on loss in e-mode GaN HFETs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4048</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5177&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4048</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5177</articleid>
+<submission-date>2016-04-13T12:59:43-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8472625</context-key>
+<submission-path>utk_gradthes/4048</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert, Daniel Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

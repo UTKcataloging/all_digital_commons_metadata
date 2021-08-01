@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of a Stepped Frequency Continuous Wave Radar System for Biomedical Applications</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>snahar@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Nahar</lname>
+<fname>Sabikun</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;There is a need to detect vital signs of human (e.g., the respiration and heart-beat rate) with noncontact method in a number of applications such as search and rescue operation (e.g. earthquakes, fire), health monitoring of the elderly, performance monitoring of athletes Ultra-wideband radar system can be utilized for noncontact vital signs monitoring and tracking of various human activities of more than one subject. Therefore, a stepped-frequency continuous wave radar (SFCW) system with wideband performance is designed and implemented for Vital signs detection and fall events monitoring. The design of the SFCW radar system is firstly developed using off-the-shelf discrete components. Later, the system is implemented using surface mount components to make it portable with low cost. The measurement result is proved to be accurate for both heart rate and respiration rate detection within ±5% when compared with contact measurements. Furthermore, an electromagnetic model has been developed using a multi-layer dielectric model of the human subject to validate the experimental results. The agreement between measured and simulated results is good for distances up to 2 m and at various subjects’ orientations with respect to the radar, even in the presence of more than one subject. The compressive sensing (CS) technique is utilized to reduce the size of the acquired data to levels significantly below the Nyquist threshold. In our demonstration, we use phase information contained in the obtained complex high-resolution range profile (HRRP) to derive the motion characteristics of the human. The obtained data has been successfully utilized for non-contact walk, fall and limping detection and healthcare monitoring. The effectiveness of the proposed method is validated using measured results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5179</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6586&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5179</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6586</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415164</context-key>
+<submission-path>utk_gradthes/5179</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Phani Teja Kuruganti</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

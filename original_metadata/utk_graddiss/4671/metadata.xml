@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Probabilistic Software Framework for Scalable Data Storage and Integrity Check</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sxiong@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Xiong</lname>
+<fname>Sisi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Probabilistic approach</keyword>
+<keyword>Bloom filter</keyword>
+<keyword>data storage</keyword>
+<keyword>integrity check</keyword>
+</keywords>
+<disciplines><discipline>Data Storage Systems</discipline>
+<discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Data has overwhelmed the digital world in terms of volume, variety and velocity. Data- intensive applications are facing unprecedented challenges. On the other hand, computation resources, such as memory, suffer from shortage comparing to data scale. However, in certain applications, it is a must to process large amount of data in a time efficient manner. Probabilistic approaches are compromises between these three perspectives: large amount of data, limited computation resources and high time efficiency, in the sense that those approaches cannot guarantee 100% correctness, their error rates, however, are predictable and adjustable depending on available computation resources and time constraints.&lt;/p&gt;
+&lt;p&gt;Data storage and data integrity check are two fundamental components in data-intensive applications. Among various data storage platforms, key-value storage is crucial for many applications, such as social networks, online retailing, and cloud computing. Such storage provides support for operations on key-value pairs, and can locate in memory to speed up responses to queries. So far, existing methods have been deterministic. Providing such accuracy, however, comes at the cost of memory and CPU time. In contrast, we present an approximate key-value storage that is more compact and efficient than existing methods.&lt;/p&gt;
+&lt;p&gt;Besides data storage, ensuring data integrity during its life-cycle is also paramount important, particularly in large scale high-performance computing (HPC) applications. Since scientific data can take millions of compute hours to generate, the results often need to be sanitized, validated, and archived for long term storage, and shared with scientific community for further analysis. Ensuring the data integrity of the full dataset at scale is a daunting task, considering that most conventional tools are serial and file-based, and cannot scale. To tackle this particular challenge, we presents the design, implementation and evaluation of two Bloom filter based scalable parallel checksumming tools, for data integrity check and data corruption detection purposes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4671</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6116&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4671</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6116</articleid>
+<submission-date>2017-06-09T14:44:51-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10276707</context-key>
+<submission-path>utk_graddiss/4671</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Qing Cao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Yilu Liu, Jindong Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

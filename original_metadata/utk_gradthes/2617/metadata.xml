@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A SiGe BiCMOS LVDS Driver for Space-Borne Applications</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mlaurenc@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Laurence</lname>
+<fname>Matthew</fname>
+<mname>Ian</mname>
+</author>
+</authors>
+<keywords>
+<keyword>SiGe</keyword>
+<keyword>BiCMOS</keyword>
+<keyword>LVDS</keyword>
+<keyword>Space</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Electronic Devices and Semiconductor Manufacturing</discipline>
+</disciplines><abstract>&lt;p&gt;When designing an integrated circuit for use during an interstellar mission, certain precautions must be made. The electronics on any off-earth mission will be exposed to wide temperature swings and harmful radiation due to being outside of the Earth’s protective ionosphere. It is crucial that any data path present be immune to these detrimental effects.&lt;/p&gt;
+&lt;p&gt;The introduction of galactic radiation can not only cause the onboard electronics to fail due to device degradation and single event latchup but can also lead to background radiation being coupled into the signal path as unwanted noise, degrading the signal to noise ratio. Unwanted noise can cause total failure by increasing the noise level and decreasing the signal to noise ratio below one or can cause errors such as single event upsets.&lt;/p&gt;
+&lt;p&gt;The wide temperature swing can cause device degradation and eventually failure. This issue is commonly mitigated by the introduction of an environment chamber but such an enclosure adds unnecessary mass and typically requires a large amount of current to effectively keep the electronics in an Earth-like temperature. The large current implies high power dissipation which is an unnecessary strain on the battery and can shorten the lifetime of a mission where every kilowatt-hour is crucial to success.&lt;/p&gt;
+&lt;p&gt;The solution to these two non-trivial obstacles is to design an electronic circuit such that it can operate in a wide range of temperatures and can withstand the galactic radiation that it will inevitably encounter during its mission’s lifetime. The following thesis will document the design, simulation, and testing of a Si-Ge Bi-CMOS low voltage differential signal driver for space borne applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2617</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3010&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2617</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3010</articleid>
+<submission-date>2013-08-07T10:43:46-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3010/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4401927</context-key>
+<submission-path>utk_gradthes/2617</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chuck Britton, Syed Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

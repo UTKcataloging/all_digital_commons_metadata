@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization of electronic protection testing for the F/A-18 active guidance air-to-air weapon system</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Norman</lname>
+<fname>Cassidy</fname>
+<mname>Clayton</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The AIM-120A Advanced Medium Range Air-to-Air Missile (AMRAAM) is the premier air-to-air missile in the US arsenal. Although designed to counter threats that employ analog-based Electronic Attack (EA), the new threat of digital-based EA, Digital Radio Frequency Memory (DRFM), places a high priority on the capability to evaluate AMRAAM&#39; s Electronic Protection (EP), which is defined as the capability to counter EA. AMRAAM effectiveness is not only dependent on its own capability to counter EA, but also on the ability of the fighter aircraft radar to counter the same EA while supporting the AMRAAM ( via data links) during the AMRAAM&#39; s intercept profile. In the US Navy, the AMRAAM is carried by the F/A-18. EP testing of the two versions of F/A-18 radar has been limited due to funding constraints and other higher priority testing of the various capabilities associated with the air-to-air and air-to-ground F/A-18 mission requirements. In 1996, the US Navy funded the Weapon System Evaluation program, which includes EP testing of the F/A-18 and AMRAAM weapon system. Current test methods involve captive carriage of the AMRAAM against full-scale targets employing specific EA techniques. Radar data links to the missile are recorded in flight and replayed in the Hard-Ware In The Loop (HWIL) simulator to test missile performance during simulated missile intercept of the same EA threat. Twenty simulations are executed in the HWIL for each test flight to calculate missile probability of guidance (Po). For each HWIL simulation, 50 lethality simulations are executed to calculate probability of weapon effectiveness (PWE), Final products of the test program are a table illustrating Po and a bar chart illustrating PWE against several specific EA threats, including in both cases performance of the missile with perfect aircraft radar support to isolate missile performance. Neither the table nor the chart includes uncertainty associated with the calculated probabilities. A closer look at the test methods revealed that only a few tests of aircraft radar are used to characterize aircraft radar performance versus the EA threat while thousands of simulations are used to characterize AMRAAM performance. For the average number of test runs of each radar mode, the uncertainty associated with the aircraft radar performance calculation was found to be± 43.6% while the uncertainty associated with AMRAAM performance calculation was found to be± 1.39% (using 95% confidence interval). The combined uncertainty is± 44.4%, which spans a wide range of performance for any calculation of Po or PWE. The large uncertainty does not offer a solid foundation on which to base fighter tactics. Three methods of increasing the number of radar performance data were investigated for the purpose of decreasing the uncertainty associated with EP testing. First, synthetic data link file generation was determined to be ineffective because the data link error files were not stationary or ergotic, signal characteristics that are required for accurate generation of data link files. Second, time shift expansion, which involves generation of additional data link files (more radar performance data) from the recorded aircraft radar track files, was found to have some potential to reduce uncertainty. More evaluation would be necessary to quantify effectiveness. However, the effectiveness of time shift expansion would be limited at best because it does not add to the general characterization of aircraft radar performance against EA (no new radar performance runs, only more data from existing runs). Third, the NA VAIR Weapons Division China Lake F/A-18 radar laboratory was researched as a method for generating more radar simulations against EA to more fully characterize radar performance. Utilization of the radar laboratory was determined to be by far the best technique for optimizing weapons system testing. The higher cost associated with more independent aircraft radar runs would reduce the number of test flights per year by one (due to the fixed budget), but the dramatic reduction in uncertainty (from± 44.4% to± 20.5%) would be well worth the cost. Calculating PWE against four types of EA within 20.5% is much more valuable than calculating PWE for five types within 44.4%. The AMRAAM will remain in the US arsenal for many more years, and will face many new threats. The AMRAAM Integrated Project Team should pursue incorporation of the radar laboratory simulations into the EP testing process to significantly improve the accuracy associated with evaluation of weapon system performance. Additionally, NA VAIR should work towards long-term co-development of coupled systems such as the F/ A-18 radar and the AMRAAM to save money and to increase overall performance by allowing optimization of the weapon system through coherent development of system components.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5272</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6680&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5272</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6680</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847162</context-key>
+<submission-path>utk_gradthes/5272</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ralph Kimberlin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

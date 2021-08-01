@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>X-Ray Image Processing and Visualization for Remote Assistance of Airport Luggage Screeners</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zheng</lname>
+<fname>Yue</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;X-ray technology is widely used for airport luggage inspection nowadays. However, the ever-increasing sophistication of threat-concealment measures and types of threats, together with the natural complexity, inherent to the content of each individual luggage make x-ray raw images obtained directly from inspection systems unsuitable to clearly show various luggage and threat items, particularly low-density objects, which poses a great challenge for airport screeners.&lt;/p&gt;
+&lt;p&gt;This thesis presents efforts spent in improving the rate of threat detection using image processing and visualization technologies. The principles of x-ray imaging for airport luggage inspection and the characteristics of single-energy and dual-energy x-ray data are first introduced. The image processing and visualization algorithms, selected and proposed for improving single energy and dual energy x-ray images, are then presented in four categories: (1) gray-level enhancement, (2) image segmentation, (3) pseudo coloring, and (4) image fusion. The major contributions of this research include identification of optimum combinations of common segmentation and enhancement methods, HSI based color-coding approaches and dual-energy image fusion algorithms —spatial information-based and wavelet-based image fusions. Experimental results generated with these image processing and visualization algorithms are shown and compared. Objective image quality measures are also explored in an effort to reduce the overhead of human subjective assessments and to provide more reliable evaluation results.&lt;/p&gt;
+&lt;p&gt;Two application software are developed − an x-ray image processing application (XIP) and a wireless tablet PC-based remote supervision system (RSS). In XIP, we implemented in a user-friendly GUI the preceding image processing and visualization algorithms. In RSS, we ported available image processing and visualization methods to a wireless mobile supervisory station for screener assistance and supervision.&lt;/p&gt;
+&lt;p&gt;Quantitative and on-site qualitative evaluations for various processed and fused x-ray luggage images demonstrate that using the proposed algorithms of image processing and visualization constitutes an effective and feasible means for improving airport luggage inspection.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2185</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3572&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2185</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3572</articleid>
+<submission-date>2013-10-09T13:50:00-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4690025</context-key>
+<submission-path>utk_gradthes/2185</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Besma Abidi, Seong Kong, Andreas Koschan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

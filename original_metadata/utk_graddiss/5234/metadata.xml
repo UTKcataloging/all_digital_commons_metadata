@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Spatiotemporal Effects of Transport and Network Topology in Biological Systems</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pmlynarc@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Mlynarczyk</lname>
+<fname>Paul</fname>
+<mname>John</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Stochastic simulation</keyword>
+<keyword>computational biology</keyword>
+<keyword>computational modeling</keyword>
+<keyword>in silico</keyword>
+<keyword>reaction networks</keyword>
+<keyword>transport phenomena</keyword>
+</keywords>
+<abstract>&lt;p&gt;Emergent biological phenomena, although observed experimentally, are often not easily characterized or understood. Biological systems are often comprised of many interacting components, which may yield highly complex dynamics. A thorough understanding of these systems often requires a multi-faceted approach involving both experimental and computational techniques. Computer simulation allows for precise definition of system components and facilitates a wider exploration of the system parameter space, often leading to accelerated scientific discovery. In this thesis, we apply stochastic simulation methods to characterize the spatiotemporal behavior of three distinct biological systems. We first explore the role of spatial confinement and diffusion in a bistable reaction network with positive feedback. We find that confined systems with high molecular mobility promote the active steady state, and stochastic switching occurs unidirectionally by nucleation and growth of single active clusters. The results provide a general framework for studying geometry and diffusion in positive feedback networks, and suggest that confinement can be used to initiate the formation of localized active clusters of molecules that then propagate to activate a system. Next, we study transport properties of single molecular motors traversing cytoskeletal networks with random filament configuration. We find that systems containing few, long filaments exhibit slow and highly variable transport. Particular filaments are capable of having an outsized influence on first-passage times by acting as lynchpins that transport motors to and from regions of the system that act as traps that promote extended occupancy. Finally, we use two distinct models to explore the dynamics of protein organization along an actomyosin ring. We find that a positive feedback circuit can be used to establish and maintain polarized protein distributions, and clustering is suppressed by endocytosis and fast diffusion. In the absence of positive feedback and dissociation from the ring, we find that slow association of large patches leads to clustered distributions of higher variability. These results suggest that homogeneous spatial distribution of proteins in mature actomyosin rings may depend on frequent association of small protein clusters. Taken collectively, these findings suggest that stochastic computational modeling can facilitate the elucidation of key mechanistic features of emergent biological phenomena.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5234</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6778&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5234</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6778</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342625</context-key>
+<submission-path>utk_graddiss/5234</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven M. Abel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul Dalhaimer, Maitreyi Das, Paul Frymier</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in the Journal of Chemical Physics and submitted to Physical Review E.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

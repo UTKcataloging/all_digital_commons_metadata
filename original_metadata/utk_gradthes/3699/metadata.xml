@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using Automated Task Solution Synthesis to Generate Critical Junctures for Management of Planned and Reactive Cooperation between a Human-Controlled Blimp and an Autonomous Ground Robot</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Reardon</lname>
+<fname>Christopher</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis documents the use of an approach for automated task solution synthesis that algorithmically and automatically identifies periods during which a team of less-than-fully capable robots benefit from tightly-coupled, coordinated, cooperative behavior.&lt;/p&gt;
+&lt;p&gt;I test two hypotheses: 1) That a team’s performance can be increased by cooperating during certain specific periods of a mission and 2) That these periods can be identified automatically and algorithmically. I also demonstrate how identification of cooperative periods can be performed both off-line prior to the application and reactively during mission execution.&lt;/p&gt;
+&lt;p&gt;I validate these premises in a real-world experiment using a human-piloted Unmanned Aerial Vehicle (UAV) and an autonomous mobile robot. For this experiment I construct a UAV and use an off-the-shelf robot. To identify the cooperative periods I use the ASyMTRe task solution synthesis system, and I use the Player robot server for control tasks such as navigation and path planning.&lt;/p&gt;
+&lt;p&gt;My results show that teams employing cooperative behaviors during algorithmically identified cooperative periods exhibit better performance than non-cooperative teams in a target localization task. I also present results showing an increased time cost for cooperative behaviors and compare the increased time cost of two cooperative approaches that generate cooperative periods prior to and during mission execution.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3699</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5048&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3699</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5048</articleid>
+<submission-date>2016-02-15T08:51:39-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8147851</context-key>
+<submission-path>utk_gradthes/3699</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bradley Vander Zanden, Dongjun Lee</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

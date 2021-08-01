@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Application of Statistical Methods and Process Models for the Design and Analysis of Activated Sludge Wastewater Treatment Plants (WWTPs)</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Huo</lname>
+<fname>Jinsheng</fname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+<discipline>Civil Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study is to investigate statistical procedures to qualify uncertainty, and explicitly evaluate its impact on wastewater treatment plants (WWTPs). The goal is to develop a statistical-based procedure to design WWTPs that provide reliable protection of water quality, instead of making overly conservative assumptions and adopting empirical safety factors. An innovative Monte Carlo based procedure was developed to quantify the risk of violating effluent as a function of various design decisions. A simulation program called StatASPS was developed to conduct Monte Carlo simulations combined with the ASM1 model.&lt;/p&gt;
+&lt;p&gt;A random influent generator was developed to describe the statistical characteristics of the influent components of WWTPs. Prior to modeling, a two-directional exponential smoothing (TES) method was developed to replace those non-randomly missing data during weekends and holidays. The best models were selected based on various statistics and the ability to forecast future values. The time series models were then used to generate random influent variables with the same statistical characteristics as the original data.&lt;/p&gt;
+&lt;p&gt;The best Monte Carlo simulations were conducted using historical influent data and site-specific parameter distributions, according to the applications to both the Oak Ridge and Seneca WWTPs. This indicates that parameter uncertainty was more effective in predicting uncertainty in plant performance than influent variability. The ultimate simulations were conducted using one-month’s influent data, considering limitations of computing technologies. Application of the method to the two plants demonstrated that this method provided a reliable and reasonable estimate of the uncertainty of plant performance. The best predictions of plant uncertainty were obtained by determining the distribution for the most sensitive parameter and holding all other model parameters constant.&lt;/p&gt;
+&lt;p&gt;The StatASPS procedure proved to be a reliable and reasonable method to design cost-effective WWTPs. With further development, this procedure could provide engineers and regulators with a high degree of confidence that the plant will perform as required, without resorting to overly conservative assumptions or large safety factors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2083</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3521&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2083</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3521</articleid>
+<submission-date>2013-09-27T13:28:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4641399</context-key>
+<submission-path>utk_graddiss/2083</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Chris D. Cox</value>
+</field>
+<field name="advisor2" type="string">
+<value>R. Bruce Robinson, William L. Seaver, Kung-Hui Chu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

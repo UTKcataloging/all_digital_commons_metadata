@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Integrating network storage into information retrieval applications</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Mironova</lname>
+<fname>Svetlana</fname>
+<mname>Y</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The object-oriented software environment GTP (General Text Parser) with network storage capability has been designed to provide a scalable solution to index creation and query processing. GTP allows information retrieval and data mining professionals to parse a large collection of documents and create a vector space information retrieval model for subsequent concept-based query processing (GTPQUERY). The software&#39;s numerous options allow users to tune the model to their specific needs. Depending on the size of the collection, the facilitation of the model may require an enormous amount of local storage. The addition of network storage capability addresses the problem of inadequate local storage and file sharing over the network. Tools defining the Logistical Networking Testbed developed in the Logistical Computing and Intrnetworking (LoCI) Lab at the University of Tennessee are used to demonstrate both the creation and use of remotely stored indices. With the development of new network storage technologies, the software will be able to forgo most local file generation and will allow remote users to share the index created by GTP.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5265</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6673&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5265</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6673</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847143</context-key>
+<submission-path>utk_gradthes/5265</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MODELING AND SIMULATION OF THE DYNAMIC EFFECTS OF PRESSURE VARIATIONS ON HYDRAULIC BLADDER AND PISTON STYLE ACCUMULATORS</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>clouderm@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Loudermilk</lname>
+<fname>Colin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Accumulator</keyword>
+<keyword>hydraulic</keyword>
+<keyword>simulation</keyword>
+<keyword>piston</keyword>
+<keyword>bladder</keyword>
+<keyword>response</keyword>
+</keywords>
+<abstract>&lt;p&gt;Hydraulic accumulators, being critical for system control, must meet performance parameters depending on system requirements.  Multiple types of accumulators exist which provide varying levels of performance.  These levels are not well-defined in most technical literature.  A mathematical model was developed and computer simulation was used to fill some of the gap.  Multiple accumulator systems were mathematically modeled in the Simulink environment and their performance characteristics were determined.  Gas-charged bladder and double-acting piston accumulators were simulated with varying degrees of damping due to friction, the main factor that separates the two types.  It is shown that a bladder accumulator will in fact provide a faster response to the pressure fluctuations of a hydraulic system. However, the faster response is commonly under-damped.  While a piston accumulator produces a slower response, the vast amount of damping provided by the accumulator piston produces a critically-damped to an over-damped response and would be advantageous for the designer looking for a more precise control.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5542</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7015&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5542</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7015</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914353</context-key>
+<submission-path>utk_gradthes/5542</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ahmad Vakili</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steve Brooks, Gregory Power</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

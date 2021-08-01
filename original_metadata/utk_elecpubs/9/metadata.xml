@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Serendipitous discoveries in microarray analysis</title>
+<publication-date>2010-07-23T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sellings@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ellingson</lname>
+<fname>Sally</fname>
+<mname>R.</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Phillips</lname>
+<fname>Charles</fname>
+<mname>A.</mname>
+</author>
+<author>
+<institution>University of British Columbia</institution>
+<lname>Glenn</lname>
+<fname>Randy</fname>
+</author>
+<author>
+<institution>University of British Columbia</institution>
+<lname>Swanson</lname>
+<fname>Douglas</fname>
+</author>
+<author>
+<institution>University of British Columbia</institution>
+<lname>Ha</lname>
+<fname>Thomas</fname>
+</author>
+<author>
+<institution>University of British Columbia</institution>
+<lname>Goldowitz</lname>
+<fname>Daniel</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Plant Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Scientists are capable of performing very large scale gene expression experiments with current microarray technologies. In order to find significance in the expression data, it is common to use clustering algorithms to group genes with similar expression patterns. Clusters will often contain related genes, such as co-regulated genes or genes in the same biological pathway. It is too expensive and time consuming to test all of the relationships found in large scale microarray experiments. There are many bioinformatics tools that can be used to infer the significance of microarray experiments and cluster analysis.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;  &lt;h3&gt;Materials and methods&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;In this project we review several existing tools and used a combination of them to narrow down the number of significant clusters from a microarray experiment. Microarray data was obtained through the Cerebellar Gene Regulation in Time and Space (Cb GRiTS) database &lt;a&gt;&lt;/a&gt;[&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/11/S4/P24#B2&quot;&gt;2&lt;/a&gt;]. The data was clustered using &lt;em&gt;paraclique&lt;/em&gt;, a graph-based clustering algorithm. Each cluster was evaluated using Gene-Set Cohesion Analysis Tool (GCAT) &lt;a&gt;&lt;/a&gt;[&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/11/S4/P24#B3&quot;&gt;3&lt;/a&gt;], ONTO-Pathway Analysis &lt;a&gt;&lt;/a&gt;[&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/11/S4/P24#B4&quot;&gt;4&lt;/a&gt;], and Allen Brain Atlas data &lt;a&gt;&lt;/a&gt;[&lt;a href=&quot;http://www.biomedcentral.com/1471-2105/11/S4/P24#B1&quot;&gt;1&lt;/a&gt;]. The clusters with the lowest p-values in each of the three analysis methods were researched to determine good candidate clusters for further experimental confirmation of gene relationships.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;  &lt;h3&gt;Results and conclusion&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;While looking for genes important to cerebellar development, we serendipitously came across interesting clusters related to neural diseases. For example, we found two clusters that contain genes known to be associated with Parkinson’s disease, Huntington’s disease, and Alzheimer’s disease pathways. Both clusters scored low in all three analyses and have very similar expression patterns but at different expression levels. Such unexpected discoveries help unlock the real power of high throughput data analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/9</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1013&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1013</articleid>
+<submission-date>2013-07-12T13:22:53-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4310630</context-key>
+<submission-path>utk_elecpubs/9</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;h3&gt;References&lt;/h3&gt;
+&lt;ol id=&quot;x-references&quot;&gt;
+&lt;li id=&quot;x-B1&quot;&gt;
+&lt;p&gt;Allen Brain Atlas: &lt;strong&gt; Home. &lt;/strong&gt;[&lt;a href=&quot;http://www.brain-map.org/&quot; target=&quot;_blank&quot;&gt;http://www.brain-map.org/&lt;/a&gt;] &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://www.brain-map.org/&amp;refdoi=10.1186/1471-2105-11-s4-p24&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Allen Institute for Brain Science. Web&lt;/em&gt; 2009. &lt;a href=&quot;http://www.biomedcentral.com/sfx_links?ui=1471-2105-11-S4-P24&amp;bibl=B1&quot;&gt;&lt;img src=&quot;http://www.biomedcentral.com/sfx_links?getImage&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;x-B2&quot;&gt;
+&lt;p&gt;&lt;strong&gt; Cb GRiTS Database. &lt;/strong&gt;[&lt;a href=&quot;http://grits.dglab.org&quot; target=&quot;_blank&quot;&gt;http://grits.dglab.org&lt;/a&gt;] &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://grits.dglab.org&amp;refdoi=10.1186/1471-2105-11-s4-p24&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Web&lt;/em&gt; 2009. &lt;a href=&quot;http://www.biomedcentral.com/sfx_links?ui=1471-2105-11-S4-P24&amp;bibl=B2&quot;&gt;&lt;img src=&quot;http://www.biomedcentral.com/sfx_links?getImage&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;x-B3&quot;&gt;
+&lt;p&gt;GCAT: &lt;strong&gt; Gene-set Cohesion Analysis Tool. &lt;/strong&gt;[&lt;a href=&quot;http://binf1.memphis.edu/gcat/&quot; target=&quot;_blank&quot;&gt;http://binf1.memphis.edu/gcat/&lt;/a&gt;] &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://binf1.memphis.edu/gcat/&amp;refdoi=10.1186/1471-2105-11-s4-p24&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The University of Memphis. Web&lt;/em&gt; 2009. &lt;a href=&quot;http://www.biomedcentral.com/sfx_links?ui=1471-2105-11-S4-P24&amp;bibl=B3&quot;&gt;&lt;img src=&quot;http://www.biomedcentral.com/sfx_links?getImage&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;x-B4&quot;&gt;
+&lt;p&gt;&lt;strong&gt; Intelligent Systems and Bioinformatics Laboratory. &lt;/strong&gt;[&lt;a href=&quot;http://vortex.cs.wayne.edu/ontoexpress/&quot; target=&quot;_blank&quot;&gt;http://vortex.cs.wayne.edu/ontoexpress/&lt;/a&gt;] &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://vortex.cs.wayne.edu/ontoexpress/&amp;refdoi=10.1186/1471-2105-11-s4-p24&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Web&lt;/em&gt; 2009. &lt;a href=&quot;http://www.biomedcentral.com/sfx_links?ui=1471-2105-11-S4-P24&amp;bibl=B4&quot;&gt;&lt;img src=&quot;http://www.biomedcentral.com/sfx_links?getImage&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2010, 11(Suppl 4):P24 doi:10.1186/1471-2105-11-S4-P24</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-07-23T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Model development of dust emission and heterogeneous chemistry within the Community Multiscale Air Quality modeling system and its application over East Asia</title>
+<publication-date>2016-07-06T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Dong</lname>
+<fname>Xinyi</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Fu</lname>
+<fname>Joshua</fname>
+<mname>S.</mname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Huang</lname>
+<fname>Kan</fname>
+</author>
+<author>
+<institution>University of Maryland at College Park</institution>
+<lname>Tong</lname>
+<fname>Daniel</fname>
+</author>
+<author>
+<institution>Fudan University</institution>
+<lname>Zhuang</lname>
+<fname>Guoshun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>aerosol optical depth</keyword>
+<keyword>air quality</keyword>
+<keyword>modeling</keyword>
+<keyword>dust</keyword>
+</keywords>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Community Multiscale Air Quality (CMAQ) model has been further developed in terms of simulating natural wind-blown dust in this study, with a series of modifications aimed at improving the model&#39;s capability to predict the emission, transport, and chemical reactions of dust. The default parameterization of initial threshold friction velocity constants are revised to correct the double counting of the impact of soil moisture in CMAQ by the reanalysis of field experiment data; source-dependent speciation profiles for dust emission are derived based on local measurements for the Gobi and Taklamakan deserts in East Asia; and dust heterogeneous chemistry is also implemented. The improved dust module in the CMAQ is applied over East Asia for March and April from 2006 to 2010. The model evaluation result shows that the simulation bias of PM10 and aerosol optical depth (AOD) is reduced, respectively, from −55.42 and −31.97 % by the original CMAQ to −16.05 and −22.1 % by the revised CMAQ. Comparison with observations at the nearby Gobi stations of Duolun and Yulin indicates that applying a source-dependent profile helps reduce simulation bias for trace metals. Implementing heterogeneous chemistry also results in better agreement with observations for sulfur dioxide (SO2), sulfate (SO42−), nitric acid (HNO3), nitrous oxides (NO&lt;em&gt;x&lt;/em&gt;), and nitrate (NO3−). The investigation of a severe dust storm episode from 19 to 21 March 2010 suggests that the revised CMAQ is capable of capturing the spatial distribution and temporal variation of dust. The model evaluation also indicates potential uncertainty within the excessive soil moisture used by meteorological simulation. The mass contribution of fine-mode particles in dust emission may be underestimated by 50 %. The revised CMAQ model provides a useful tool for future studies to investigate the emission, transport, and impact of wind-blown dust over East Asia and elsewhere.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_civipubs/20</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1024&amp;amp;context=utk_civipubs&amp;amp;unstamped=1</fulltext-url>
+<label>20</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1024</articleid>
+<submission-date>2016-10-13T11:17:06-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Civil &amp; Environmental Engineering</publication-title>
+<context-key>9263508</context-key>
+<submission-path>utk_civipubs/20</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Licensed under a &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;Creative Commons Attribution License (CC BY)&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Dong, X., Fu, J. S., Huang, K., Tong, D., and Zhuang, G.: Model development of dust emission and heterogeneous chemistry within the Community Multiscale Air Quality modeling system and its application over East Asia, Atmos. Chem. Phys., 16, 8157-8180, doi:10.5194/acp-16-8157-2016, 2016.</value>
+</field>
+<field name="doi" type="string">
+<value>10.5194/acp-16-8157-2016</value>
+</field>
+<field name="peer_rev" type="boolean">
+<value>true</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-07-06T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Atmospheric Chemistry and Physics</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Analysis Methods using Persistence Diagrams</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amarche1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Marchese</lname>
+<fname>Andrew</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Machine Learning</keyword>
+<keyword>Data Science</keyword>
+<keyword>Signal Processing</keyword>
+<keyword>Statistics</keyword>
+<keyword>Classification</keyword>
+<keyword>Clustering</keyword>
+</keywords>
+<disciplines><discipline>Statistical Models</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, persistent homology techniques have been used to study data and dynamical systems. Using these techniques, information about the shape and geometry of the data and systems leads to important information regarding the periodicity, bistability, and chaos of the underlying systems. In this thesis, we study all aspects of the application of persistent homology to data analysis. In particular, we introduce a new distance on the space of persistence diagrams, and show that it is useful in detecting changes in geometry and topology, which is essential for the supervised learning problem. Moreover, we introduce a clustering framework directly on the space of persistence diagrams, leveraging the notion of Fréchet means. Finally, we engage persistent homology with stochastic filtering techniques. In doing so, we prove that there is a notion of stability between the topologies of the optimal particle filter path and the expected particle filter path, which demonstrates that this approach is well posed. In addition to these theoretical contributions, we provide benchmarks and simulations of the proposed techniques, demonstrating their usefulness to the field of data analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4700</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5785&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4700</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5785</articleid>
+<submission-date>2017-02-22T08:29:51-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9729266</context-key>
+<submission-path>utk_graddiss/4700</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasileios Maroulas</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jan Rosinski, Michael Langston, Haileab Hilafu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

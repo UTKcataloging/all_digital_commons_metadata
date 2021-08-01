@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Slot-based Calling Context Encoding</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tzhou9@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhou</lname>
+<fname>Tong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>calling context encoding</keyword>
+<keyword>context sensitivity</keyword>
+<keyword>program analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Calling context is widely used in software engineering areas such as profiling, debugging and event logging. It can also enhance some dynamic analysis such as data race detection. To obtain the calling context at runtime, current approaches either perform expensive stack walking to recover contexts or instrument the application and dynamically encode the context into an integer. The current encoding schemes are either not fully precise, or have high instrumentation and detection overhead, and scalability issue for large and highly recursive applications.We propose slot-based calling context encoding (SCCE), which consists of a scalable encoding for acyclic contexts and an efficient encoding for cyclic contexts. Evaluating with CPU 2006 benchmark suite, we show that our acyclic encoding is scalable, has very low instrumentation overhead, and an acceptable detection overhead. We also show that our cyclic encoding also has lower instrumentation and detection overhead than the state-of-the-art approach by significantly reducing the number of bytes pushed and checked for cyclic contexts.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5131</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6538&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5131</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6538</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415054</context-key>
+<submission-path>utk_gradthes/5131</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael R. Jantz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Micah Beck, James S. Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

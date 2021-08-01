@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hyper-Spectral Image Processing Using High Performance Reconfigurable Computers</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>He</lname>
+<fname>Yuan</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this thesis is to investigate the methods of implementing a section of a Matlab hyper-spectral image processing software application into a digital system that operates on a High Performance Reconfigurable Computer. The work presented is concerned with the architecture, the design techniques, and the models of digital systems that are necessary to achieve the best overall performance on HPRC platforms. The application is an image-processing tool that detects the tumors in a chicken using analysis of a hyper-spectral image. Analysis of the original Matlab code has shown that it gives low performance in achieving the result. The implementation is performed using a three-stage approach. In the first stage, the Matlab code is converted into C++ code in order to identify the bottlenecks that require the most resources. During the second stage, the digital system is designed to optimize the performance on a single reconfigurable computer. In the final stage of the implementation, this work explores the HPRC architecture by deploying and testing the digital design on multiple machines. The research shows that HPRC platforms grant a noticeable performance boost. Furthermore, the more hyper-spectral bands exist in the input image data, the better of the speedup can be expected from the HPRC design work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2565</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3646&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2565</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3646</articleid>
+<submission-date>2013-10-11T12:20:44-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4699640</context-key>
+<submission-path>utk_gradthes/2565</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Don Bouldin, Seong-Gon Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

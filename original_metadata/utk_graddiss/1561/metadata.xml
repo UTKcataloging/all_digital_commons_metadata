@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Novel Technique for Predicting Tumor Response in Adaptive Radiation Therapy</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rseiber1@utk.edu</email>
+<lname>Seibert</lname>
+<fname>Rebecca</fname>
+<mname>Marie</mname>
+</author>
+</authors>
+<keywords>
+<keyword>adaptive radiation therapy</keyword>
+<keyword>nonparametric modeling</keyword>
+<keyword>tomotherapy</keyword>
+<keyword>autoassociative kernel regression</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+<discipline>Oncology</discipline>
+<discipline>Other Physics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation concentrates on the introduction of Predictive Adaptive Radiation Therapy (PART) as a potential method to improve cancer treatment. PART is a novel technique that utilizes volumetric image-guided radiation therapy treatment (IGRT) data to actively predict the tumor response to therapy and estimate clinical outcomes during the course of treatment. To implement PART, a patient database containing IGRT image data for 40 lesions obtained from patients who were&lt;em&gt; &lt;/em&gt;imaged and treated with helical tomotherapy was constructed. The data was then modeled using locally weighted regression. This model predicts future tumor volumes and masses and the associated confidence intervals based on limited observations during the first two weeks of treatment. All predictions were made using only 8 days worth of observations from early in the treatment and were all bound by a 95% confidence interval. Since the predictions were accurate with quantified uncertainty, they could eventually be used to optimize and adapt treatment accordingly, hence the term PART (Predictive Adaptive Radiation Therapy).&lt;/p&gt;
+&lt;p&gt;A challenge in implementing PART in a clinical setting is the increased quality assurance that it will demand. To help ease this burden, a technique was developed to automatically evaluate helical tomotherapy treatments during delivery using exit detector data. This technique uses an auto-associative kernel regression (AAKR) model to detect errors in tomotherapy delivery. This modeling scheme is especially suited for the problem of monitoring the fluence values found in the exit detector data because it is able to learn the complex detector data relationships. Several AAKR models were tested using tomotherapy detector data from deliveries that had intentionally inserted errors and different attenuations from the sinograms that were used to develop the model. The model proved to be robust and could predict the correct “error-free” values for a projection in which the opening time of a single MLC leaf had been decreased by 10%. The model also was able to determine machine output errors. The automation of this technique should significantly ease the QA burden that accompanies adaptive therapy, and will help to make the implementation of PART more feasible.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1561</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2718&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1561</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2718</articleid>
+<submission-date>2012-10-07T19:27:13-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3375791</context-key>
+<submission-path>utk_graddiss/1561</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chester Ramsey, Lawrence Townsend, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

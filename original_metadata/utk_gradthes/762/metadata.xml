@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>OPTIMIZATION OF ALTERNATING CURRENT ELECTROTHERMAL MICROPUMP BY NUMERICAL SIMULATION</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qyuan1@utk.edu</email>
+<lname>Yuan</lname>
+<fname>Quan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Micropumping AC electrokinetic AC electro-thermal optimization</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Nanotechnology Fabrication</discipline>
+</disciplines><abstract>&lt;p&gt;Microfluidic technology has been grown rapidly in the past decade. Microfluidics can find wide applications in multiple fields such as medicine, electronics, chemical and biology. Micro-pumping is an essential part of a microfluidic system. This thesis presents the optimization process of AC electro-thermal micropump with respect to the geometry of  electrode array and channel height.&lt;/p&gt;
+&lt;p&gt;The thesis first introduces the theories of AC electrokinetic including dielectrophoresis, AC electro-osmosis (ACEO) and AC electro-thermal (ACET). Also presented are the basic theory and governing equations of microfluidics, the continuity equation, the Navier-Stokes equation, and the conservation of energy equation. AC electro-thermal effect results from the interplays between electric field,  temperature field and fluid mechanics. Since the governing equations are highly non-linear, numerical simulation is extensively used to understand the effects of factors such as  the electrode dimensions and channel height.  By interfacing finite element analysis software COMSOL Multiphysics with Matlab, to the simulation model is able to scan the geometry variables so as to find the optimal micropump design. The optimization has been performed with respect to flow rate and power efficiency of the micropump.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/762</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1786&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>762</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1786</articleid>
+<submission-date>2010-07-25T15:15:01-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1786/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1408554</context-key>
+<submission-path>utk_gradthes/762</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jie Wu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Mohamed Mahfouz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

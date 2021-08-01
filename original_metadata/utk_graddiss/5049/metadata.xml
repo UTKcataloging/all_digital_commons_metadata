@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Software Support for Dynamic Adaptive Neural Network Arrays</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>adisney1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Disney</lname>
+<fname>Adam</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Moore’s Law fairly accurately modelled advancements in traditional computing architectures for multiple decades, but it has come to an end. This has led researchers to put more focus on alternative computing architectures such as neuromorphic computing. DANNA (Dynamic Adaptive Neural Network Array) is a computing architecture that was designed in 2014 to meld features of recurrent, spiking, plastic neuromorphic computing systems with very efficient hardware implementations. Its hardware design and FPGA implementation preceded any software support or simulation. This work describes the software support for DANNA, including four different simulators, that has enabled TennLAB to explore the capabilities of the architectures. Additionally, we generalized a well-known neuromorphic experiment from 2008 to fit within the TennLAB software structure. We use this experiment to compare the capabilities of DANNA and TennLAB’s other neuromorphic models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5049</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6590&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5049</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6590</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415456</context-key>
+<submission-path>utk_graddiss/5049</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James S. Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>Douglas S. Aaron, Mark E. Dean, Garrett S. Rose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

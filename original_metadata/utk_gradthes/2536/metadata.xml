@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Validation Simulation of a Large Pool Fire</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Williams</lname>
+<fname>W.</fname>
+<mname>Reid</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;The capabilities of the &lt;em&gt;Fire Dynamics Simulator (Version 3) &lt;/em&gt;(FDS3) have been examined to determine whether a large pool fire test can be reasonably simulated. Activities undertaken include 2-D and 3-D pool fire modeling in the absence of wind and heat sinks within the fire principally to compare flame height predictions to established correlations, wind field modeling specifically targeted at developing initial velocity and boundary conditions to use in the simulation of an actual pool fire, and simulation of a specific pool fire test conducted by Sandia National Laboratories in 1983. Processes were developed for determining flame heights based on the criterion that flame height is defined as the height at which the flame is observed at least 50% of the time and for transforming wind field data associated with an outdoor test into initial and boundary conditions for simulating the test.&lt;/p&gt;
+&lt;p&gt;It was concluded that modeling of large pool fires should be accomplished with full 3-D models, maximum burn rate should not be specified, the default radiation fraction in FDS3 should be explicitly overridden with a value of zero, and ignitors should be specified to initiate combustion. While the FDS3 simulations reflect the “highly turbulent nature of a large open pool fire and its susceptibility to winds [which] produce temperature and flow fields that are very nonuniform in both a spatial and temporal sense,” further refinement of the grid in the area of the calorimeter and instrumentation modeled and reassessment of the heat of vaporization of JP-4 are expected to improve agreement between simulation results and test data. There is a significant difference between established flame height correlations and simulation results, and a potential explanation is presented. It also appears—other factors being the same—that the minimum pool dimension may be a better correlating parameter for flame height that equivalent diameter or hydraulic diameter. Several recommendations regarding potential enhancements to the FDS code are also included which, if implemented, would facilitate future modeling of outdoor fire tests.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2536</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3822&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2536</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3822</articleid>
+<submission-date>2013-10-18T12:53:57-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4739878</context-key>
+<submission-path>utk_gradthes/2536</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>AJ Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>DJ Icove, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

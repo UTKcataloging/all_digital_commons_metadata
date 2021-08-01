@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Value of Flow Measurement Accuracy in Hydropower Plants with Short Converging Intakes</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mchris18@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Christian</lname>
+<fname>Mark</fname>
+<mname>Herbert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Hydropower</keyword>
+<keyword>Flow Measurement</keyword>
+<keyword>Current Meters</keyword>
+<keyword>Acoustic Time of Flight</keyword>
+<keyword>Hydropower Economics</keyword>
+</keywords>
+<disciplines><discipline>Applied Mechanics</discipline>
+<discipline>Energy Systems</discipline>
+<discipline>Hydraulic Engineering</discipline>
+<discipline>Other Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This report documents research undertaken to determine the value of flow measurement accuracy in hydropower plants with short converging intakes. The motivation was to provide a suite of tools and best practices to streamline flow measurement sensor modeling in any type of hydropower plant. The Lower Granite Lock and Dam hydroplant was leveraged in development of the analysis tool. Computational fluid dynamics (CFD) models of Lower Granite Unit 4 provided necessary information about the hydraulic structures distribution through the unit. Two different CFD models were created. The first was done using the as-built plans; the second was created through modifications of the as-built plans. The two models were necessary to understand the hydraulic characteristics of the intake and the subsequent financial sensitivities. The CFD information was used in the development of a post processing tool that enables the user to simulate any number of the two types of flow sensors traditionally used in short converging intakes (current meters and acoustic time-of-flight transducers). The simulation of five different types of current meters and three different applications of the acoustic time-of-flight transducers are embedded within the code. The economic research component utilized historic plant generation and electrical cost data in concert with the sensor simulation results to determine the impact of flow measurement accuracy on water management. The incremental avoided-opportunity cost due to the error in flow measurement was then compared with the cost of the sensors to determine the incremental cost-benefit ratio, which acts as the primary indicator of sensor value. The investigation into Lower Granite revealed that the opportunity cost associated with suboptimal unit operation ranges from 2.47% to 0.09% of hydroplant revenue, depending on the type and number of sensors used. When the opportunity cost was compared with the cost of the flow sensors, the optimal numbers of instruments in the as-built model were found to be 10, 11, and 15 acoustic paths, transiting current meters, and static current meters. In the case of the modified as-built simulation, the optimal numbers were found to be 11, 15, and 15 acoustic paths, transiting current meters, and static current meters, respectively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4684</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5763&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4684</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5763</articleid>
+<submission-date>2017-02-15T13:44:33-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5763/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9695300</context-key>
+<submission-path>utk_graddiss/4684</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brennan T. Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Thanos Papanicolaou, John Schwartz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of the L-Bone and Logistical Tools</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Atchley</lname>
+<fname>Edward</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this paper is to outline the design criteria and implementation of the Logistical Backbone (L-Bone) and the Logistical Tools. These tools, along with IBP and the exNode Library, allow storage to be used as a network resource. These are components of the Network Storage Stack, a design by the Logistical Computing and Internetworking Lab at the University of Tennessee. Having storage as a network resource enables users to do many things that are either difficult or not possible today, such as moving and sharing very large files across administrative domains, improving performance through caching and improving fault-tolerance through replication and striping.&lt;/p&gt;
+&lt;p&gt;Next, this paper reviews the L-Bone, a directory service for Internet Backplane Protocol (IBP) storage servers (depots) which stores information about the depots and allows clients to query the service for depots matching specific requirements. The L-Bone has three major components: a client API, a stateless RPC server and a database backend. Because the L-Bone is intended to be a service available to anyone on the wide-area network, response time is critical. The current implementation provides a reliable service and a fast service. Average response times from remote clients are less than half a second.&lt;/p&gt;
+&lt;p&gt;Lastly, this paper examines the Logistical Tools. The Logistical Tools are a set of command line tools wrapped around a C API. They provide a higher level of functionality built on top of the exNode Library as well as the L-Bone library, IBP library and the Network Weather Service (NWS) library. This set of tools allows a user to upload a file into an exNode, download the data from that exNode, add more replicas or remove replicas from the exNode, check the status of the exNode and modify the expiration times of the IBP allocations. To highlight the capabilities of these tools and the overall benefits of using exNodes, I perform tests that look at the performance improvements through local replication (caching) as well as tests that look at the higher levels of fault-tolerance through replication. These tests show that using replication for caching can improve access time from 2 to 16 times and that using simple replication can provide nearly 100% availability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2024</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3384&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2024</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3384</articleid>
+<submission-date>2013-09-30T07:43:24-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4646423</context-key>
+<submission-path>utk_gradthes/2024</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James Plank</value>
+</field>
+<field name="advisor2" type="string">
+<value>Micah Beck, Brad Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

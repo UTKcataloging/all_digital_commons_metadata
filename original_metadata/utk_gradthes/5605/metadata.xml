@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Building containerized environments for reproducibility and traceability of scientific workflows</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>polaya@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Olaya</lname>
+<fname>Paula</fname>
+<mname>Fernanda</mname>
+</author>
+</authors>
+<keywords>
+<keyword>containers</keyword>
+<keyword>metadata</keyword>
+<keyword>software systems</keyword>
+<keyword>data provenance</keyword>
+<keyword>computer environments</keyword>
+</keywords>
+<abstract>&lt;p&gt;Scientists use simulations to study natural phenomena, and trusting the simulation results is vital to the integrity of scientific discovery. To trust results, we must ensure the simulations’ reproducibility, replicability, and traceability through the annotation of simulation&#39;s executions. The annotation allows us to build a record trail of data moving within a given simulation workflow. Past efforts advocated for the need to build record trails at the system level but a key hindrance to these approaches was the limits of the system technology. The evolution of virtual machines to containers has opened new opportunities for system-level solutions.In this work, we propose an operative system-level solution that leverages the intrinsic characteristics of containers (i.e., portability, isolation, encapsulation, and unique identifiers) to annotate workflows and capture their metadata. Our solution enables transparent and automatic metadata collection and access, easy-to-read record trail, and tight connections between data and metadata. We build a prototype of a containerized environment that encapsulates each component of a scientific workflow (i.e., data and applications) in individual containers. Our prototype implementation features zero-copy data transfer between containers, requires no modification of the underlying applications, and automatically links the metadata to the workflow. We assess the effectiveness of our prototype for four increasingly complex workflows, ranging from simple visualization applications such as, Gnuplot to machine learning applications such as KKNN and random forest; and show that we are able to build workflow record trails at the OS-level for all four scenarios in an automatic, easy-to-read, and with a tight connection between data and metadata. We measure the costs of our containerized environment in terms of time and space. We observe that time overhead associated with the containerization becomes tolerable when the workflows have a larger size and long runtime applications. We also observe that the space overhead is driven by the OS, software stack, and filesystem. Our containerized environment addresses metadata from OS system-level by leveraging cutting edge container technology to provide a complete, transparent, and automatic collection and management of workflow metadata.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5605</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7139&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5605</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7139</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539104</context-key>
+<submission-path>utk_gradthes/5605</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michela Taufer</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael R. Jantz, Michael W. Berry, Gerald F. Lofstead II</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

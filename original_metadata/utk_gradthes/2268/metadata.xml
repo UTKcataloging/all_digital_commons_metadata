@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Implementation of Block-based Neural Networks on Reconfigurable Computing Platforms</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kothandaraman</lname>
+<fname>Sampath</fname>
+<mname>Kumar</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Block-based Neural Networks (BbNNs) provide a flexible and modular architecture to support adaptive applications in dynamic environments. Reconfigurable computing (RC) platforms provide computational efficiency combined with flexibility. Hence, RC provides an ideal match to evolvable BbNN applications. BbNNs are very convenient to build once a library of neural network blocks is built. This library-based approach for the design of BbNNs is extremely useful to automate implementations of BbNNs and evaluate their performance on RC platforms. This is important because, for a given application there may be hundreds to thousands of candidate BbNN implementations possible and evaluating each of them for accuracy and performance, using software simulations will take a very long time, which would not be acceptable for adaptive environments. This thesis focuses on the development and characterization of a library of parameterized VHDL models of neural network blocks, which may be used to build any BbNN. The use of these models is demonstrated in the XOR pattern classification problem and mobile robot navigation problem. For a given application, one may be interested in fabricating an ASIC, once the weights and architecture of the BbNN is decided. Pointers to ASIC implementation of BbNNs with initial results are also included in this thesis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2268</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3725&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2268</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3725</articleid>
+<submission-date>2013-10-16T12:05:01-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4729007</context-key>
+<submission-path>utk_gradthes/2268</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seong G. Kong, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

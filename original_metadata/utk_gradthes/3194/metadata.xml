@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analytical and Computational Modeling of Membrane Nanotubes</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>smirzaei@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Mirzaeifard</lname>
+<fname>Sina</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Membrane nanotubes</keyword>
+<keyword>actin filaments</keyword>
+<keyword>Monte Carlo simulation</keyword>
+<keyword>semiflexible polymer</keyword>
+<keyword>fluid membrane</keyword>
+<keyword>polymerized membrane</keyword>
+</keywords>
+<disciplines><discipline>Biochemical and Biomolecular Engineering</discipline>
+<discipline>Computational Engineering</discipline>
+<discipline>Polymer Science</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis investigates the interplay between cell membranes and the actin cytoskeleton in cellular structures known as membrane nanotubes. Membrane nanotubes are slender membrane structures that physically connect cells over long distances, and experiments suggest that they play a role in transferring material and information between cells. Disrupting the actin cytoskeleton disrupts membrane nanotubes. Although recent studies have revealed insight into the physical properties and functions of membrane-actin systems, further research is needed to understand their behavior in biological contexts. Membrane nanotubes provide a novel system with which to investigate interactions between the cell membrane and actin.&lt;/p&gt;
+&lt;p&gt;In this thesis, we use analytical theory and computer simulations to better understand actin filaments enclosed in membrane nanotubes. We begin by describing a theoretical framework based on continuum models of membranes and actin polymers. Using analytical theory, we calculate the energies of various polymer-membrane configurations. Although confined biopolymers are often assumed to adopt helical configurations, we demonstrate that an alternative configuration is energetically favorable in a wide range of parameter space. We then employ Monte Carlo simulations to investigate the equilibrium behavior of a semiflexible polymer confined within spatial regions characteristic of membrane nanotube dimensions. To investigate flexible membranes, we use Monte Carlo simulations of discrete, triangulated elastic surfaces. We begin by studying a tubular membrane in isolation and investigate the influence of bending rigidity and tube dimensions on characteristics of the membrane. Finally, we use computer simulations to study a system in which a semiflexible polymer is placed inside of a membrane tube, which serves as a model of a membrane nanotube. We find that the presence of the polymer has small effect on membrane properties for typical cell parameters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3194</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4218&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3194</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4218</articleid>
+<submission-date>2014-10-07T09:36:07-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4218/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6213035</context-key>
+<submission-path>utk_gradthes/3194</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven M. Abel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian J. Edwards, Paul M. Dalhaimer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

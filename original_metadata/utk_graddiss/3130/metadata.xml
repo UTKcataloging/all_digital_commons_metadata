@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Lifetime Estimation of IGBTs in a Grid-connected STATCOM</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lgopired@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gopi Reddy</lname>
+<fname>Lakshmi Reddy</fname>
+</author>
+</authors>
+<keywords>
+<keyword>lifetiem estimation</keyword>
+<keyword>IGBTs</keyword>
+<keyword>STATCOM</keyword>
+<keyword>rainflow algorithm</keyword>
+<keyword>compact thermal model</keyword>
+<keyword>Wirebond</keyword>
+<keyword>failure s in semiconductors</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Lifetime estimation of power semiconductor devices, and IGBT devices in particular, used in the power electronics integrated with power systems has gained technical importance in recent times with increased scope of distributed generation, renewable energy systems and FACTS. Since most of the common failures (wire bond and solder fatigue) are caused by thermo-mechanical stresses, the methodology of lifetime estimation starts with temperature estimation, cycle counting based on rainflow algorithm, and finally degradation calculation based on linear accumulation model.&lt;/p&gt;
+&lt;p&gt;Different number of RC cells for each packaging layer in the module for the thermal model, including the influence of encapsulant is proposed for temperature estimation of IGBTs in power modules. A modified rainflow algorithm with faster execution time and time dependent temperature calculation is introduced for cycle counting. Finally, the lifetime of the IGBT is estimated during STATCOM operation using real-time load profiles for power factor variation. For a power factor variation data for a building, the lifetime is estimated to be about 3 years. Similarly, a month long arc furnace load data is considered to compare the equivalent temperature based calculation to conventional tests. 4% more degradation is observed in the equivalent temperature based calculation than compared with conventional rainflow algorithm.&lt;/p&gt;
+&lt;p&gt;A simulation study on the operation parameter dependence on the stresses in a wire is considered to estimate lifetime from Finite Element Analysis (FEA) in COMSOL. Power cycling tests are conducted on two different modules (600 V, 50 A H-bridge module and a 1200 V, 150 A phase leg module) to validate the lifetime model for four months. The low power module was tested without any protection circuits and hence failed catastrophically. Wire melt-off or fusing failure was dominantly observed, following by dielectric based short circuit failure. The high power module was tested with protection circuits to prevent catastrophic damage for a maximum of 4 months. A maximum of 20% degradation in static characteristics, with decreased on state resistance was observed in the modules. The degradation is attributed to increased junction temperature as the thermal resistance increases owing to solder fatigue.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3130</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4276&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3130</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4276</articleid>
+<submission-date>2014-07-28T13:46:20-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5835732</context-key>
+<submission-path>utk_graddiss/3130</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Burak Ozpineci, Fei Wang, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

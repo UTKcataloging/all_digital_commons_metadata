@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Experiment and simulation of single-molecule recycling</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bwang14@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wang</lname>
+<fname>Bo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>single molecule</keyword>
+<keyword>fluorescence detection</keyword>
+<keyword>diffusivity</keyword>
+</keywords>
+<disciplines><discipline>Atomic, Molecular and Optical Physics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents theoretical, numerical, and experimental research into a technique for extending the observation time of a single molecule in solution, while also enabling measurement of its diffusion coefficient. A confocal microscope is used to observe the fluorescently labelled molecule in aqueous solution, which is confined within a nanochannel. By focusing a laser beam into the nanochannel and applying electrokinetic flow along the tube, a molecule passes through the laser beam and emits a burst of photons. The molecule then passes back and forth through the focus while the voltage is repeatedly reversed at a fixed delay after each detected burst. First, a Monte Carlo simulation of the single-molecule recycling (SMR) process is made to develop algorithms for timing the flow reversals and to study the choice of experimental parameters for diffusivity measurements. To detect fluorescence bursts from the background, a weighted sliding sum algorithm is applied, and the results show it has clear advantages over a previously used photon binning algorithm. Maximum-likelihood methods are developed to measure single-molecule diffusivities and their confidence limits from the variation in the times between detections. The simulations show that SMR can distinguish single molecules with diffusivities differing by a factor of ~1.3 or less, which is smaller than that resolvable in ensemble experiments by fluorescence correlation spectroscopy. Simulations are also developed to study both 1 and 2-photon excitation of ultrasmall CdSe quantum dots, which exhibit fluorescence intermittency or blinking. The simulation incorporates standard photophysics in such a way as to account for the known non-ergodic power-law dependence of the blinking intervals. For SMR experiments, two configurations are implemented: capillary microchannel devices are fabricated and used with a piezo system to provide motion, and nanochannels from a previous research project are used with applied voltage to give electroosmotic motion. A real-time control system that implements the weighted sliding sum and motion switching algorithms studied in the simulations is developed. The results from the experiments demonstrate SMR for 40 nm fluorescently labelled beads for hundreds of times and yield diffusion coefficients in the magnitude of 10&lt;sup&gt;–13&lt;/sup&gt; m&lt;sup&gt;2&lt;/sup&gt;s&lt;sup&gt;–1&lt;/sup&gt; in a nanochannel.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4436</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5613&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4436</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5613</articleid>
+<submission-date>2016-10-07T20:39:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9246343</context-key>
+<submission-path>utk_graddiss/4436</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lloyd M. Davis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Marianne Breinig, Chris Parigger, Feng-Yuan Zhang, Horace W. Crater</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

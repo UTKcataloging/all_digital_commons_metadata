@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Simulating the Effects of Outer-Mold-Line Modification on the University of Tennessee Space Institute&#39;s Aviation Systems&#39; Piper Navajo Research Aircraft</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jkolwyc1@utk.edu</email>
+<lname>Kolwyck</lname>
+<fname>Jonathan Vincent</fname>
+</author>
+</authors>
+<keywords>
+<keyword>outer-mold-line modification</keyword>
+<keyword>aircraft simulation</keyword>
+<keyword>hinge moment</keyword>
+<keyword>real-time parameter identification</keyword>
+<keyword>control loading</keyword>
+</keywords>
+<disciplines><discipline>Other Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Aircraft used as research platforms often have their Outer-Mold-Lines (OML) modified to accommodate instrumentation packages associated with the research being performed. The external modification will change the aerodynamics of the aircraft, thus altering how the aircraft flies. The resulting performance, stability, and control of the aircraft can be effectively determined, but pilot opinion of aircraft handling qualities are largely unknown. The objective of this project is to be able to simulate aircraft flight control systems in the UTSI simulator, thus enabling the evaluation of pilot opinion of handling qualities. The design and implementation of a control loading system is described, as well as a novel real-time parameter identification tool utilized to model the aerodynamic forces acting on the aircraft&#39;s flight control system. The integration of these tools with the existing flight simulator architecture is also described. The results from a proof of concept study performed to evaluate the control loading system show that the control loading system can accurately simulate an aircraft flight control system. Additionally, a simulation test performed to evaluate the real-time parameter identification (RTPID) tool shows that aircraft hinge moments can be accurately calculated in real-time.&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1244</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2364&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1244</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2364</articleid>
+<submission-date>2012-04-11T10:38:25-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2364/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2756000</context-key>
+<submission-path>utk_gradthes/1244</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Borja Martos</value>
+</field>
+<field name="advisor2" type="string">
+<value>Uwe P. Solies, Stephen Corda</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

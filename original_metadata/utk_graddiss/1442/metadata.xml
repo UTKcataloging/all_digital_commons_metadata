@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Coalition Formation and Execution in Multi-robot Tasks</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhang51@utk.edu</email>
+<lname>Zhang</lname>
+<fname>Yu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Multi-robot Systems</keyword>
+<keyword>Coalition Formation</keyword>
+<keyword>Coalition Execution</keyword>
+<keyword>Task Allocation</keyword>
+</keywords>
+<disciplines><discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;In this research, I explore several related problems in distributed robot systems that must be addressed in order to achieve multi-robot tasks, in which individual robots may not possess all the required capabilities. While most previous research work on multi-robot cooperation mainly concentrates on loosely-coupled multi-robot tasks, a more challenging problem is to also address tightly-coupled multi- robot tasks involving close robot interactions, which often require capability sharing. Three related topics towards addressing these tasks are discussed, as follows:&lt;/p&gt;
+&lt;p&gt;Forming coalitions, which determines how robots should form into subgroups (i.e., coalitions) to address individual tasks. To achieve system autonomy, the ability to identify the feasibility of potential solutions is critical for forming coalitions. A general IQ-ASyMTRe architecture, which is formally proven to be sound and complete in this research, is introduced to incorporate this capability based on the ASyMTRe architecture.&lt;/p&gt;
+&lt;p&gt;Executing coalitions, which coordinates different robots within the same coalition during physical execution to accomplish individual tasks. For executing coalitions, the IQ-ASyMTRe+ approach is presented. An information quality measure is introduced to control the robots to maintain the required constraints for task execution in dynamic environment. Redundancies at sensory and computational levels are utilized to enable execution that is robust to internal and external influences.&lt;/p&gt;
+&lt;p&gt;Task allocation, which optimizes the overall performance of the system when multiple tasks need to be addressed. In this research, this problem is analyzed and the formulation is extended. A new greedy heuristic is introduced, which considers inter-task resource constraints to approximate the influence between different assignments in task allocation.&lt;/p&gt;
+&lt;p&gt;Through combining the above approaches, a framework that achieves system autonomy can be created for addressing multi-robot tasks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1442</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2506&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1442</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2506</articleid>
+<submission-date>2012-03-27T14:56:43-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2704370</context-key>
+<submission-path>utk_graddiss/1442</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Bruce MacLennan, Peiling Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

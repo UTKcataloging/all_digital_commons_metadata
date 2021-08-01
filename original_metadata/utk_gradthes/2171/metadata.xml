@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Correlation of Pedal Position to Tail Rotor Power Requirement on the OH-58A+</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tong</lname>
+<fname>Kan-Wai</fname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Every mechanical component has a finite failure life. Excessive usage of a component may cause damage. Therefore, life determination is essential to safe operation. Replacement of mechanical components prior to the end of useful life results in higher costs of maintenance. Monitoring rotating components is not always reliable or cost effective. This thesis attempts to solve this problem for a helicopter tail rotor. The development of an algorithm to calculate the loads on a component using stationary measurements can eliminate the need for rotating measurement equipment.&lt;/p&gt;
+&lt;p&gt;The purpose is to predict the tail rotor power requirement of a helicopter throughout the mission profile by using the algorithm developed.&lt;/p&gt;
+&lt;p&gt;The scope of this investigation was limited to representative flight regimes based upon a survey of Bell 206 jet rangers or OH-58A derivatives operators. Flight test data were collected at University of Tennessee Space Institute (UTSI). These data were then used to correlate with the results of the algorithm model.&lt;/p&gt;
+&lt;p&gt;The model incorporated helicopter blade element theory, momentum theory, fin blockage effects, inertia effects, translational velocity effects, mechanical losses and altitude density correction. The model was executed using Microsoft Excel. The model required input data including helicopter characteristics, altitude, engine shaft horsepower, velocity. Based upon these data, the tail rotor power and pedal position were calculated.&lt;/p&gt;
+&lt;p&gt;The calculation results of pedal position were compared with the flight test data. The accuracy of the tail rotor power was presented in the percentage of the maximum tail rotor power. It was found that the pedal position alone was a poor indicator of tail rotor power. The modeled elements mentioned above were included and resulted in significant improvement. Based on the calculated results, this model and measured pedal positions can provide at least 90&lt;sub&gt;-&lt;/sub&gt;% confidence of the tail rotor power, except at large sideslip angles. Additionally, due to the tail rotor power sensitivity to the pedal position variations, the measurement of pedal positions should be performed precisely.&lt;/p&gt;
+&lt;p&gt;Based on the results of this investigation, utilizing the algorithm model for predicting tail rotor power from pedal position will result in a 90&lt;sub&gt;-&lt;/sub&gt;% confidence of the tail rotor power being applied.&lt;/p&gt;
+&lt;p&gt;Recommend an alternative fuselage yaw moment due to sideslip chart be used to improve sideslip data. Recommend instrumented tail rotor for tail rotor power measurements.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2171</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3513&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2171</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3513</articleid>
+<submission-date>2013-10-08T09:23:13-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4683218</context-key>
+<submission-path>utk_gradthes/2171</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>W. Lewis</value>
+</field>
+<field name="advisor2" type="string">
+<value>R. Kimberlin, F. Stellar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

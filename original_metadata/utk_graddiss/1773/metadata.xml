@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sensitivity and Uncertainty Analysis of a Fixed Source Criticality Accident Alarm System Benchmark Experiment</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kreynol1@utk.edu</email>
+<lname>Reynolds</lname>
+<fname>Kevin Howard</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Nuclear</keyword>
+<keyword>Reactor</keyword>
+<keyword>Benchmark</keyword>
+<keyword>Shielding</keyword>
+<keyword>SILENE</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Department of Energy (DOE) Nuclear Criticality Safety Program (NCSP) funded the development of a criticality accident alarm system (CAAS) benchmark to be published by the International Criticality Safety Benchmark Evaluation Project (ICSBEP) in the International Handbook of Evaluated Criticality Safety Benchmark Experiments (handbook). While there are shielding related benchmark evaluations published in the handbook, the effort in this dissertation concerns a first of its kind experiment that has been conceived from the ground up as a pulsed critical fixed source benchmark.&lt;/p&gt;
+&lt;p&gt;The experiment was designed in conjunction with the French government and conducted at their SILENE reactor facility at the Commissariat a l Energie Atomique et aux Energies Alternatives (CEA) Valduc Laboratory. Oak Ridge National Laboratory (ORNL) was chosen as the lead organization for conducting and evaluating the experiment. This Doctoral research project (1) produced a High Fidelity 3-D computational model of pulse 1 from the experiment; (2) used this model to estimate neutron activation in foils and compare these results to measured activation, (3) used direct perturbation to reduce the complexity of the high fidelity model to an equivalent simplified model, and (4) used the simplified model to perform a sensitivity and uncertainty analysis of aspects of the computational model.&lt;/p&gt;
+&lt;p&gt;The computational code package chosen for this effort was the SCALE code package developed by ORNL. The new MAVRIC computational sequence was used to produce the computational estimates of neutron activation. The MAVRIC sequence uses new automated variance reduction techniques to accelerate the fixed source Monte Carlo calculation.&lt;/p&gt;
+&lt;p&gt;The high fidelity and simplified 3-D models both produced estimates of activation in good agreement with the experimental results. The ratio of computed to experimental (C/E) results ranged from 0.95 to 1.28. Computed sensitivity coefficients revealed that the model was most sensitive to the thickness of the activation foils. The MAVRIC sequence produced estimates of foil activation rates that were in excellent agreement with the measured activation. The overall uncertainty in the computed responses due to uncertainties in the input information was in all cases less than 10% and were the major driver of uncertainty in the final results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1773</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2856&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1773</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2856</articleid>
+<submission-date>2013-02-20T17:09:16-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2856/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3749874</context-key>
+<submission-path>utk_graddiss/1773</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Thomas W. Miller, Lawrence W. Townsend, Dayakar Penumadu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2000-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

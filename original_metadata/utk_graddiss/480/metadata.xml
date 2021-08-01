@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multispectral Imaging For Face Recognition Over Varying Illumination</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chang</lname>
+<fname>Hong</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses the advantage of using multispectral narrow-band images over conventional broad-band images for improved face recognition under varying illumination. To verify the effectiveness of multispectral images for improving face recognition performance, three sequential procedures are taken into action: multispectral face image acquisition, image fusion for multispectral and spectral band selection to remove information redundancy.&lt;/p&gt;
+&lt;p&gt;Several efficient image fusion algorithms are proposed and conducted on spectral narrow-band face images in comparison to conventional images. Physics-based weighted fusion and illumination adjustment fusion make good use of spectral information in multispectral imaging process. The results demonstrate that fused narrow-band images outperform the conventional broad-band images under varying illuminations. In the case where multispectral images are acquired over severe changes in daylight, the fused images outperform conventional broad-band images by up to 78%. The success of fusing multispectral images lies in the fact that multispectral images can separate the illumination information from the reflectance of objects which is impossible for conventional broad-band images.&lt;/p&gt;
+&lt;p&gt;To reduce the information redundancy among multispectral images and simplify the imaging system, distance-based band selection is proposed where a quantitative evaluation metric is defined to evaluate and differentiate the performance of multispectral narrow-band images. This method is proved to be exceptionally robust to parameter changes.&lt;/p&gt;
+&lt;p&gt;Furthermore, complexity-guided distance-based band selection is proposed using model selection criterion for an automatic selection. The performance of selected bands outperforms the conventional images by up to 15%. From the significant performance improvement via distance-based band selection and complexity-guided distance-based band selection, we prove that specific facial information carried in certain narrow-band spectral images can enhance face recognition performance compared to broad-band images. In addition, both algorithms are proved to be independent to recognition engines.&lt;/p&gt;
+&lt;p&gt;Significant performance improvement is achieved by proposed image fusion and band selection algorithms under varying illumination including outdoor daylight conditions. Our proposed imaging system and image processing algorithms lead to a new avenue of automatic face recognition system towards a better recognition performance than the conventional peer system over varying illuminations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/480</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1544&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>480</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1544</articleid>
+<submission-date>2010-02-19T10:19:52-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1155889</context-key>
+<submission-path>utk_graddiss/480</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul B. Crilly, Seddik M. Djouadi, Andreas Koschan, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/ChangHong.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

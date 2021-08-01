@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hierarchical Image Segmentation using The Watershed Algorithim with A Streaming Implementation</title>
+<publication-date>2001-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gothandaraman</lname>
+<fname>Annapoorani</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;We have implemented a graphical user interface (GUI) based semi-automatic hierarchical segmentation scheme, which works in three stages. In the first stage, we process the original image by filtering and threshold the gradient to reduce the level of noise. In the second stage, we compute the watershed segmentation of the image using the rainfalling simulation approach. In the third stage, we apply two region merging schemes, namely implicit region merging and seeded region merging, to the result of the watershed algorithm. Both the region merging schemes are based on the watershed depth of regions and serve to reduce the over segmentation produced by the watershed algorithm. Implicit region merging automatically produces a hierarchy of regions. In seeded region merging, a selected seed region can be grown from the watershed result, producing a hierarchy. A meaningful segmentation can be simply chosen from the hierarchy produced.&lt;/p&gt;
+&lt;p&gt;We have also proposed and tested a streaming algorithm based on the watershed algorithm, which computes the segmentation of an image without iterative processing of adjacent blocks. We have proved that the streaming algorithm produces the same result as the serial watershed algorithm. We have also discussed the extensibility of the streaming algorithm to efficient parallel implementations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1966</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3324&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1966</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3324</articleid>
+<submission-date>2013-09-26T10:30:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4633329</context-key>
+<submission-path>utk_gradthes/1966</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ross T. Whitaker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Hairong Qi, Jens Gregor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

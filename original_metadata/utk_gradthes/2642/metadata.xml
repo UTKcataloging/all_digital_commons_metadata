@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling and Validation of Heat Transfer Present in a Solar Thermal Collector</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>estannar@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stannard</lname>
+<fname>Eric</fname>
+<mname>Ezekiel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>New Norris House</keyword>
+<keyword>Solar Water Heating</keyword>
+<keyword>Solar Collector</keyword>
+<keyword>Renewable Energy</keyword>
+</keywords>
+<disciplines><discipline>Energy Systems</discipline>
+<discipline>Heat Transfer, Combustion</discipline>
+</disciplines><abstract>&lt;p&gt;A solar absorber panel for a solar water heating system located at the College of Architecture’s New Norris House in Norris, TN was modeled and validated against field data in this work. The purpose of this modeling was to create the foundations of a tool that can be used in collector design and building energy simulations. This tool would take into account the radiometric properties of the collector materials, which are essential for an accurate model. Solar water heaters convert the shortwave energy of the Sun into usable heat for residential and industrial applications and have the potential to greatly reduce building energy consumption. Using measured field site data including global solar irradiance, outdoor air temperature, and incoming working fluid temperature, a heat transfer model was created in FORTRAN 95 to predict the energy that the installed collector could deliver to the working fluid. Shortwave radiation and its interaction with glass were also considered. First principles were used to create a system of equations to predict the glass, absorber, and fluid temperatures. Computed capacity and heat gains and losses were used to estimate system efficiency and efficacy. The predicted working fluid temperatures were compared against the field site data for validation. For the days chosen for validation, the model predicted the working fluid temperature at the heat exchanger with an average absolute error of 0.6 °[degrees] C. The model was also benchmarked against two laboratory conditions provided by the collector’s manufacturer, with errors of 0.5 and 0.1 °[degrees] C. Several design aspects of the solar absorber panel were unknown, and a sensitivity analysis was performed to demonstrate unknown parameters’ effects on predicted temperature. Wind speed had a negligible effect at low velocities but became noticeable at speeds that caused turbulent flow on the top plate. The unknown glass reflectance had an insignificant effect.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2642</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3578&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2642</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3578</articleid>
+<submission-date>2013-10-10T05:23:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4691773</context-key>
+<submission-path>utk_gradthes/2642</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William A. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tricia A. Stuth, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

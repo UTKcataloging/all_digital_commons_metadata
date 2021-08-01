@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>DYNAMICS OF COLLABORATIVE NAVIGATION AND APPLYING DATA DRIVEN METHODS TO IMPROVE PEDESTRIAN NAVIGATION INSTRUCTIONS AT DECISION POINTS FOR PEOPLE OF VARYING SPATIAL APTITUDES</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ghe@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>He</lname>
+<fname>Gengen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>collaborative navigation</keyword>
+<keyword>spatial ability</keyword>
+<keyword>navigation aid</keyword>
+<keyword>gis</keyword>
+<keyword>computational salience</keyword>
+<keyword>machine learning</keyword>
+</keywords>
+<disciplines><discipline>Cognition and Perception</discipline>
+<discipline>Geographic Information Sciences</discipline>
+<discipline>Spatial Science</discipline>
+</disciplines><abstract>&lt;p&gt;Cognitive Geography seeks to understand individual decision-making variations based on fundamental cognitive differences between people of varying spatial aptitudes. Understanding fundamental behavioral discrepancies among individuals is an important step to improve navigation algorithms and the overall travel experience. Contemporary navigation aids, although helpful in providing turn-by-turn directions, lack important capabilities to distinguish decision points for their features and importance. Existing systems lack the ability to generate landmark or decision point based instructions using real-time or crowd sourced data. Systems cannot customize personalized instructions for individuals based on inherent spatial ability, travel history, or situations.&lt;/p&gt;
+&lt;p&gt;This dissertation presents a novel experimental setup to examine simultaneous wayfinding behavior for people of varying spatial abilities. This study reveals discrepancies in the information processing, landmark preference and spatial information communication among groups possessing differing abilities.&lt;/p&gt;
+&lt;p&gt;Empirical data is used to validate computational salience techniques that endeavor to predict the difficulty of decision point use from the structure of the routes. Outlink score and outflux score, two meta-algorithms that derive secondary scores from existing metrics of network analysis, are explored. These two algorithms approximate human cognitive variation in navigation by analyzing neighboring and directional effect properties of decision point nodes within a routing network. The results are validated by a human wayfinding experiment, results show that these metrics generally improve the prediction of errors.&lt;/p&gt;
+&lt;p&gt;In addition, a model of personalized weighting for users&#39; characteristics is derived from a SVM&lt;sup&gt;rank&lt;/sup&gt; machine learning method. Such a system can effectively rank decision point difficulty based on user behavior and derive weighted models for navigators that reflect their individual tendencies. The weights reflect certain characteristics of groups. Such models can serve as personal travel profiles, and potentially be used to complement sense-of-direction surveys in classifying wayfinders.&lt;/p&gt;
+&lt;p&gt;A prototype with augmented instructions for pedestrian navigation is created and tested, with particular focus on investigating how augmented instructions at particular decision points affect spatial learning. The results demonstrate that survey knowledge acquisition is improved for people with low spatial ability while decreased for people of high spatial ability.&lt;/p&gt;
+&lt;p&gt;Finally, contributions are summarized, conclusions are provided, and future implications are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4404</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5909&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4404</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5909</articleid>
+<submission-date>2017-03-15T10:02:33-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9860402</context-key>
+<submission-path>utk_graddiss/4404</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce Ralston, Hyun Kim, Garriy Shteynberg</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

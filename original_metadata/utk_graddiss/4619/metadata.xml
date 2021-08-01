@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Linearly Preconditioned Nonlinear Solvers for Phase Field Equations Involving p-Laplacian Terms</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wfeng1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Feng</lname>
+<fname>Wenqiang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>nonlinear equations</keyword>
+<keyword>steepest descent</keyword>
+<keyword>conjugate gradient</keyword>
+<keyword>pre-conditioners</keyword>
+<keyword>thin film epitaxy</keyword>
+<keyword>square phase field crystal model</keyword>
+<keyword>Functionalized Cahn-Hilliard Equation</keyword>
+</keywords>
+<disciplines><discipline>Philosophy of Science</discipline>
+</disciplines><abstract>&lt;p&gt;Phase field models are usually constructed to model certain interfacial dynamics. Numerical simulations of phase-field models require long time accuracy, stability and therefore it is necessary to develop efficient and highly accurate numerical methods. In particular, the unconditionally energy stable , unconditionally solvable, and accurate schemes and fast solvers are desirable.&lt;/p&gt;
+&lt;p&gt;In this thesis, We describe and analyze preconditioned steepest descent (PSD) solvers for fourth and sixth-order nonlinear elliptic equations that include p-Laplacian terms on periodic domains in 2 and 3 dimensions. Such nonlinear elliptic equations often arise from time discretization of parabolic equations that model various biological and physical phenomena, in particular, liquid crystals, thin film epitaxial growth and phase transformations. The analyses of the schemes involve the characterization of the strictly convex energies associated with the equations. We first give a general framework for PSD in Hilbert spaces. Based on certain reasonable assumptions of the linear pre-conditioner, a geometric convergence rate is shown for the nonlinear PSD iteration. We then apply the general theory to the fourth and sixth-order problems of interest, making use of Sobolev embedding and regularity results to confirm the appropriateness of our pre-conditioners for the regularized p-Lapacian problems. The results include a sharper theoretical convergence result for p-Laplacian systems compared to what may be found in existing works. We demonstrate rigorously how to apply the theory in the finite dimensional setting using finite difference discretization methods.&lt;/p&gt;
+&lt;p&gt;Based on the PSD framework, we also proposed two efficient and practical Preconditioned Nonlinear Conjugate Gradient (PNCG) solvers. The main idea of the preconditioned solvers is to use a linearized version of the nonlinear operator as a metric for choosing the initial search direction. And the hybrid conjugate directions as the following search direction. In order to make the proposed solvers and scheme much more practical, we also investigate an adaptive time stepping strategy for time dependent problems.&lt;/p&gt;
+&lt;p&gt;Numerical simulations for some important physical application problems – including thin film epitaxy with slope selection, the square phase field crystal model and functionalized Cahn-Hilliard equation – are carried out to verify the efficiency of the schemes and solvers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4619</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6068&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4619</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6068</articleid>
+<submission-date>2017-05-05T07:05:13-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10123804</context-key>
+<submission-path>utk_graddiss/4619</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven M. Wise</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ohannes Karakashian, Tuoc Van Phan, Abner J. Salgado, Wenjun Zhou</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

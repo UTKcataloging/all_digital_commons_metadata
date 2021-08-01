@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Time-varying Autoregressive Modeling of Nonstationary Signals</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Luo</lname>
+<fname>Xiaolin</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Nonstationary signal modeling is a research topic of practical interest. In this thesis, we adopt a time-varying (TV) autoregressive (AR) model using the basis function (BF) parameter estimation method for nonstationary process identification and instantaneous frequency (IF) estimation. The current TVAR model in direct form (DF) with the blockwise least-squares and recursive weighted-least-squares BF methods perform equivalently well in signal modeling, but the large estimation error may cause temporary instabilities of the estimated model.&lt;/p&gt;
+&lt;p&gt;To achieve convenient model stability monitoring and pole tracking, the TVAR model in cascade form (CF) was proposed through the parameterization in terms of TV poles (represented by second order section coefficients, Cartesian coordinates, Polar coordinates), where the time variation of each pole parameter is assumed to be the linear combination of BFs. The nonlinear system equations for the TVAR model in CF are solved iteratively using the Gauss-Newton algorithm. Using the CF, the model stability is easily controlled by constraining the estimated TV poles within the unit circle. The CF model shows similar performance trends to the DF model using the recursive BF method, and the TV pole representation in Cartesian coordinates outperforms all other representations. The individual frequency variation can be finely tracked using the CF model, when several frequency components are present in the signal.&lt;/p&gt;
+&lt;p&gt;Simulations were carried on synthetic sinusoidal signals with different frequency variations for IF estimation. For the TVAR model in DF (blockwise), the basis dimension (BD) is an important factor on frequency estimation accuracy. For the TVAR model in DF (recursive) and CF (Cartesian), the influences of BD are negligible. The additive white noise in the observed signal degrades the estimation performance, and the the noise effects can be reduce by using higher model order. Experiments were carried on the real electromyography (EMG) data for frequency estimation in the analysis of muscle fatigue. The TVAR modeling methods show equivalent performance to the conventional Fourier transform method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2244</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3598&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2244</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3598</articleid>
+<submission-date>2013-10-10T10:01:07-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4692667</context-key>
+<submission-path>utk_gradthes/2244</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohammed Ferdjallah</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Seddik M. Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Superquadric representation of scenes from multi-view range data</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Zhang</lname>
+<fname>Yan</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Object representation denotes representing three-dimensional (3D) real-world objects with known graphic or mathematic primitives recognizable to computers. This research has numerous applications for object-related tasks in areas including computer vision, computer graphics, reverse engineering, etc. Superquadrics, as volumetric and parametric models, have been selected to be the representation primitives throughout this research. Superquadrics are able to represent a large family of solid shapes by a single equation with only a few parameters.  This dissertation addresses superquadric representation of multi-part objects and multiobject scenes. Two issues motivate this research. First, superquadric representation of multipart objects or multi-object scenes has been an unsolved problem due to the complex geometry of objects. Second, superquadrics recovered from single-view range data tend to have low confidence and accuracy due to partially scanned object surfaces caused by inherent occlusions. To address these two problems, this dissertation proposes a multi-view superquadric representation algorithm. By incorporating both part decomposition and multi-view range data, the proposed algorithm is able to not only represent multi-part objects or multi-object scenes, but also achieve high confidence and accuracy of recovered superquadrics. The multi-view superquadric representation algorithm consists of (i) initial superquadric model recovery from single-view range data, (ii) pairwise view registration based on recovered superquadric models, (iii) view integration, (iv) part decomposition, and (v) final superquadric fitting for each decomposed part.  Within the multi-view superquadric representation framework, this dissertation proposes a 3D part decomposition algorithm to automatically decompose multi-part objects or multiobject scenes into their constituent single parts consistent with human visual perception. Superquadrics can then be recovered for each decomposed single-part object. The proposed part decomposition algorithm is based on curvature analysis, and includes (i) Gaussian curvature estimation, (ii) boundary labeling, (iii) part growing and labeling, and (iv) post-processing. In addition, this dissertation proposes an extended view registration algorithm based on superquadrics. The proposed view registration algorithm is able to handle deformable superquadrics as well as 3D unstructured data sets. For superquadric fitting, two objective functions primarily used in the literature have been comprehensively investigated with respect to noise, viewpoints, sample resolutions, etc. The objective function proved to have better performance has been used throughout this dissertation.  In summary, the three algorithms (contributions) proposed in this dissertation are generic and flexible in the sense of handling triangle meshes, which are standard surface primitives in computer vision and graphics. For each proposed algorithm, the dissertation presents both theory and experimental results. The results demonstrate the efficiency of the algorithms using both synthetic and real range data of a large variety of objects and scenes. In addition, the experimental results include comparisons with previous methods from the literature. Finally, the dissertation concludes with a summary of the contributions to the state of the art in superquadric representation, and presents possible future extensions to this research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5215</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6759&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5215</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6759</articleid>
+<submission-date>2019-02-11T12:24:58-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13800029</context-key>
+<submission-path>utk_graddiss/5215</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

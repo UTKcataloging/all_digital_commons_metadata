@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Use of Capacity and Inventory in a Rate-Based Planning and Scheduling System to Achieve Strategic Goals in Industrial Applications</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Toney</lname>
+<fname>Chad</fname>
+<mname>Aaron</mname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In pull or lean manufacturing, the final production schedule is in the form of takt time (drumbeat). All internal and external suppliers are driven by pull signals to feed the production rate. However, variability can be a problem for this drumbeat as the plan should not change more than the ability of the suppliers’ capability to respond. The supply chain should have sufficient flexibility to react quickly to changes in demand, while minimizing week-to-week production variability.&lt;/p&gt;
+&lt;p&gt;Current planning and scheduling systems do not produce a plan that minimizes fluctuations. If the schedule is frozen for several periods, they are slow to react to changes in demand, which eventually produces many changes in production and inventory (the bullwhip effect). When these systems do not freeze the schedule, variation in the forecast and demand yield nervousness, making the planning difficult.&lt;/p&gt;
+&lt;p&gt;Rate-Based Planning and Scheduling (RPBS) has been proposed as an alternative to current scheduling techniques. But for the most part, it has remained a concept rather than a method that can be implemented. The philosophy behind RBPS is to allow flexibility to adjust the schedule gradually for the near future, and more for periods farther into the future. If flexibility boundaries are defined strategically, the manufacturer will have the ability to respond to changes in demand, yet the schedule will be smooth and long term forecasts for the production rate will anticipate requirements from external suppliers.&lt;/p&gt;
+&lt;p&gt;This dissertation consolidates previous material on RBPS for the first time. In addition, it introduces two algorithms (Retailer Smoothing and Production Smoothing) for RBPS. The Production Smoothing technique focuses on leveling production. Whereas, the Retailer Smoothing model allows the customer to create forecasted orders and then limits how much these orders may change. Through statistical experiments and simulations, the impact of the factors such as the standard deviation of demand, the length of the planning period, and the amount of flexibility in the plan are investigated. Irrelevant factors were eliminated as data from further simulations were compiled into tables. The goal of the tables is to allow practitioners to use one of the RBPS strategies with the appropriate levels of the RBPS factors by weighing the impact of capacity and inventory.&lt;/p&gt;
+&lt;p&gt;For the Retailer Smoothing technique, the closer production follows demand and the shorter the flex fences, less inventory is needed as production will shift more. But as demand varies more, production changes and inventory level will increase significantly. On the other hand, Production Smoothing minimizes production changes by constraining flexibility and lengthening the planning period. This will, in turn, increase inventory. Also, as companies update their plan more frequently, more variation is added to the system which will vastly increase the inventory needed to buffer the production swings.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2323</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3865&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2323</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3865</articleid>
+<submission-date>2013-10-18T10:29:23-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4738907</context-key>
+<submission-path>utk_graddiss/2323</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kenneth E. Kirby</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles H. Aikens, Kenneth Gilbert, Dukwon Kim, Robert Mee</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

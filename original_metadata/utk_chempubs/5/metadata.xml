@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Population size bias in descendant-weighted diffusion quantum Monte Carlo simulations</title>
+<publication-date>2006-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Warren</lname>
+<fname>G.</fname>
+<mname>Lee</mname>
+</author>
+<author>
+<email>rhinde@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hinde</lname>
+<fname>Robert</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Quantum Monte Carlo</subject-area>
+</subject-areas>
+<disciplines><discipline>Atomic, Molecular and Optical Physics</discipline>
+<discipline>Biological and Chemical Physics</discipline>
+<discipline>Chemistry</discipline>
+<discipline>Physical Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;We consider the influence of population size on the accuracy of diffusion quantum Monte Carlo simulations that employ descendant weighting or forward walking techniques to compute expectation values of observables that do not commute with the Hamiltonian. We show that for a simple model system, the &lt;em&gt;d&lt;/em&gt;-dimensional isotropic harmonic oscillator, the population size must increase rapidly with &lt;em&gt;d&lt;/em&gt; in order to ensure that the simulations produce accurate results. When the population size is too small, expectation values computed using descendant-weighted diffusion quantum Monte Carlo simulations exhibit significant systematic biases.&lt;/p&gt;</abstract>
+<fpage>056706</fpage>
+<coverpage-url>https://trace.tennessee.edu/utk_chempubs/5</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1004&amp;amp;context=utk_chempubs&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1004</articleid>
+<submission-date>2010-02-11T16:32:24-08:00</submission-date>
+<publication-title>Chemistry Publications and Other Works</publication-title>
+<context-key>1250082</context-key>
+<submission-path>utk_chempubs/5</submission-path>
+<fields>
+<field name="doi" type="string">
+<value>10.1103/PhysRevE.73.056706</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Physical Review E</value>
+</field>
+</fields>
+</document>
+</documents>

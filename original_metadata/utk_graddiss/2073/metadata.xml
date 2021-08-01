@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Externally-Synchronized Coherent Communication System Design</title>
+<publication-date>2001-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ragsdale</lname>
+<fname>Gary</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The research described within this dissertation was initiated on October 1, 1997 to investigate communication link performance improvements made possible by using a frequency reference supplied by a residual carrier broadcast. The primary link types considered were radio frequency links, although prior research in externally-synchronized bistatic radar was also considered.&lt;/p&gt;
+&lt;p&gt;Conventional radio frequency communications links transfer information from transmitter to receiver by modulating a carrier signal at the transmitter and demodulating the received signal at the receiver. Demodulation can be done coherently or noncoherently. That is, the information on the received signal can be recovered by comparison of the received signal with an exact replica of the transmitter carrier (coherent demodulation) or by other methods that do not require a replica of the transmitter carrier (noncoherent demodulation).&lt;/p&gt;
+&lt;p&gt;Coherent demodulation provides superior link performance in the form of lower bit error rate (BER) for a received signal with a given signal-to-noise-ratio (SNR). Unfortunately, it is not always possible to produce a reliable replica of the carrier signal from the information-bearing signal.&lt;/p&gt;
+&lt;p&gt;The studied approach supplies a residual carrier reference signal as a synchronization reference common to both transmitter and receiver. Research shows that the common reference provides carrier synchronization and stabilizes the link carrier frequency.&lt;/p&gt;
+&lt;p&gt;The investigations performed under this research effort includes developing a model for a radio frequency (RF) link using an external reference signal, determining the effects of noise on the simulated reference signal, and comparing the simulated link performance with conventional links, which recover a carrier from the received signal. The model consists of three parts. The first part consists of a model using conventional synchronization in which the carrier is extracted from the information-bearing signal. The second part models the behavior of phase-locked loops (PLLs) when referenced to a residual carrier reference signal. The third part is a design tool for predicting the synchronization and bit error performance of a transmitter and a receiver synchronized to external residual carrier broadcast (a triad configuration). The models demonstrate that a transceiver referenced to a double-sideband residual carrier broadcast maintains synchronization at a very low received SNR.&lt;/p&gt;
+&lt;p&gt;Results of this research could be used in the development of externally-referenced wireless links for commercial and military applications. The models could serve as design aids to determine the expected performance of such systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2073</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3511&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2073</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3511</articleid>
+<submission-date>2013-09-27T08:13:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4638990</context-key>
+<submission-path>utk_graddiss/2073</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel B. Koch</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael J. Roberts, Paul B. Crilly, Balram S. Rajput</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2001-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

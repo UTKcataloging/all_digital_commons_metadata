@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MODELING WATER QUALITY FOR SWITCHGRASS CROP PRODUCTION: IMPLICATIONS FOR BIOENERGY SUSTAINABILITY IN EAST TENNESSEE</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zseiden@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Seiden</lname>
+<fname>Zachariah</fname>
+<mname>Tzvi</mname>
+</author>
+</authors>
+<keywords>
+<keyword>WEPP</keyword>
+<keyword>SWAT</keyword>
+<keyword>Switchgrass</keyword>
+<keyword>Bioenergy</keyword>
+<keyword>Modeling</keyword>
+<keyword>Buffer Strips</keyword>
+</keywords>
+<disciplines><discipline>Bioresource and Agricultural Engineering</discipline>
+<discipline>Civil Engineering</discipline>
+<discipline>Environmental Engineering</discipline>
+<discipline>Other Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;With passing of the US Energy Independence and Security Act (EISA) of 2007, there has been considerable research conducted on the sustainability of bioenergy crop production in the United States; switchgrass has shown particular potential for bioenergy production in East Tennessee. Many studies evaluating the environmental impact switchgrass has on runoff and water quality use the Soil and Water Assessment Tool (SWAT) for watershed modeling. Because SWAT is a lumped watershed model, it evaluates the result of hydrological processes for each hydrologic response unit (HRU), without accounting for the physical interactions between these HRUs. The Water Erosion Prediction Project (WEPP) model is a physically derived, distributed watershed model that can simulated runoff and sediment transport within the watershed, accounting for the interactions that take place between these response units. This research sought to calibrate both a WEPP and SWAT model to measured data collected from a drainage basin in Lenoir City, Tennessee, an area known for growing switchgrass for bioenergy. In addition, this research evaluated the use of buffer strips as a sustainable approach to switchgrass implementation. Model calibration was evaluated based on the Nash-Sutcliffe Efficiency coefficient, which evaluates the extent to which a model reflects the measured data. Final discharge calibration yielded NSE coefficients of &lt;strong&gt;-0.18&lt;/strong&gt; and &lt;strong&gt;-0.09&lt;/strong&gt; for SWAT and WEPP, respectively. Final sediment calibration for the SWAT and WEPP models, however, could be calibrated to an NSE coefficient of &lt;strong&gt;-0.34&lt;/strong&gt; and &lt;strong&gt;-0.48&lt;/strong&gt;, respectively. Calibration efforts failed, the WEPP model did outperform the SWAT model for runoff calibration. In simulating bioenergy buffer strips (BBSs), the WEPP model indicated that one or two strategically placed BBSs can have a &lt;strong&gt;13%&lt;/strong&gt; reduction in runoff and sediment delivery per storm event; results suggests that strategic use of bioenergy buffer strips can have improved reduction in runoff or sediment yield. The improved calibration results of the WEPP model indicated that a distributed hydrology and erosion model may be valuable for modeling water quality impacts of switchgrass production in a watershed. Results also indicated the potential for further investigation into how sediment transport is addressed in the SWAT and WEPP models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3509</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4794&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3509</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4794</articleid>
+<submission-date>2015-06-05T07:41:57-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4794/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>7184161</context-key>
+<submission-path>utk_gradthes/3509</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John S. Schwartz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Thanos Papanicolaou, Jon Hathaway</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Environmental Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploring Optimization Techniques for an Existing Microgrid and the Unit Commitment with AC Optimal Power Flow Problem</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amcilven@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>McIlvenna</lname>
+<fname>Amelia</fname>
+</author>
+</authors>
+<keywords>
+<keyword>microgrids</keyword>
+<keyword>integer programming</keyword>
+<keyword>stochastic optimization</keyword>
+<keyword>AC optimal power flow</keyword>
+<keyword>benders decomposition</keyword>
+<keyword>unit commitment</keyword>
+</keywords>
+<abstract>&lt;p&gt;The first three chapters of this dissertation will investigate mixed-integer optimization techniques for an existing microgrid system which was constructed in Hoover, Alabama in 2018.Chapter 1 will introduce the details of the microgrid. As with any microgrid system, assets must be controlled and dispatched to provide sufficient power to cover any load. To facilitate optimal dispatch of the natural gas generator, lithium-ion battery, and photovoltaic power devices, a mixed-integer linear program was developed to optimize operation.While operation of the real world system was being handled, the optimization was not solving in sufficient time due to open-source software constraints and limited hardware. Chapter 2 explores a solution to these constraints by implementing a novel relaxation for the rolling-time horizon optimization model developed in Chapter 1. The relaxation method reduces the number of integer variables in the formulation, taking advantage of the fact that on a rolling time horizon time periods close to the present are more important than those farther in the future.Another issue when optimizing dispatch of a microgrid system is inherent uncertainty in the problems. Commonly uncertainty is handled using two-stage stochastic programs broken into stages by commitment variables vs. power variables. While this method is appropriate for day-ahead commitment models, second stage power variables complicate a rolling time horizon model’s need to send power setpoints to the devices in the microgrid. We solve this problem by introducing a novel stage formulation in Chapter 3 broken by time interval instead of variable type. This enables incorporation of robustness while also retaining the ability to operate on a rolling time horizon.The models from the first chapters are small enough that a convex relaxation of an AC optimal power flow formulation could be used with minimal adjustments to the solution in practice to maintain AC feasibility. Unfortunately the canonical unit commitment problem with AC optimal power flow constraints is nonconvex and not computationally tractable. In Chapter 4, we employ a Benders decomposition-like framework with an AC optimal power flow relaxation to find solutions to this problem which are closer to AC feasible than other techniques for large-scale networks such as DC optimal power flow.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5735</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7501&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5735</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7501</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419604</context-key>
+<submission-path>utk_graddiss/5735</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James Ostrowski</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hugh Medal, Anahita Khojandi, Hector Pulgar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

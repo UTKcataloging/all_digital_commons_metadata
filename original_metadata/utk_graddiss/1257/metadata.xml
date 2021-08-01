@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Investigation of the Discharge Coefficient of Bellmouth Flow Meters in Engine Test Facilities</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sebourn</lname>
+<fname>Charles</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis computation of the discharge coefficient of bellmouth flow meters installed in engine test facilities is presented. The discharge coefficient is a critical parameter for accurately calculating flow rate in any flow meter which operates by means of creating a pressure differential. Engine airflow is a critical performance parameter and therefore, it is necessary for engine test facilities to accurately measure airflow.&lt;/p&gt;
+&lt;p&gt;In this report the author investigates the use of computational fluid dynamics using finite difference methods to calculate the flow in bellmouth flow meters and hence the discharge coefficient at any measurement desired.&lt;/p&gt;
+&lt;p&gt;Experimental boundary layer and core flow data was used to verify the capability of the WIND code to calculate the discharge coefficient accurately. Good results were obtained for Reynolds numbers equal to or greater than about three million which is the primary range of interest.&lt;/p&gt;
+&lt;p&gt;After verifying the WIND code performance, results were calculated for a range of Reynolds numbers and Mach numbers. Also the variation in discharge coefficient as a function of measurement location was examined. It is demonstrated that by picking the proper location for pressure measurement, sensitivity to measurement location can be minimized.&lt;/p&gt;
+&lt;p&gt;Also of interest was the effect of bellmouth geometry. Calculations were performed to investigate the effect of duct to bellmouth diameter ratio and the eccentricity of the bellmouth contraction. In general the effects of the beta ratio were seen to be quite small. For the eccentricity, the variation in discharge coefficient was as high as several percent for axial locations less than half a diameter downstream from the throat&lt;/p&gt;
+&lt;p&gt;The second portion of the thesis examined the effect of a turbofan engine stationed just downstream of the bellmouth flow meter. The study approximated this effect by examining a single fan stage installed in the duct. This calculation was performed by making use of a rotating frame of reference.&lt;/p&gt;
+&lt;p&gt;Initial attempts to perform such a calculation were unsuccessful. Careful examination of the results revealed deficiencies in the rotating frame capabilities of the WIND code. These deficiencies were corrected and a test case was performed to demonstrate the correct calculation of the rotating frame.&lt;/p&gt;
+&lt;p&gt;A well known NASA test article, Rotor 67, was selected to emulate the presence of a turbofan engine in the bellmouth duct. Results indicated a very complex flow field upstream of the engine face. The primary disturbance of the flow was the propagation of a shock off the fan blade leading edge. The rotation of the blades traces out a helical pressure distortion which travels upstream. Interference patterns also develop which add complexity to the wall static pressure. Induced rotation of the flow upstream of the fan was found to be very small.&lt;/p&gt;
+&lt;p&gt;The pressure fluctuations on the wall are periodic and varied with location. However, when the results are time averaged the resulting pressure and hence discharge coefficient curve is seen to be smooth and well-behaved.&lt;/p&gt;
+&lt;p&gt;As a result of this study the application of computation fluid dynamic techniques has been verified for the calculation of discharge coefficient in bellmouth flow meters. The results also provide insight on measurement location and technique. As a result of the fan calculation, the WIND code has been improved and a capability to calculate rotating flows in a duct has been developed. Finally, results in the rotating frame have provided insight on discharge coefficient behavior in the presence of a rotating engine component.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1257</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2688&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1257</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2688</articleid>
+<submission-date>2012-08-10T12:54:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3202195</context-key>
+<submission-path>utk_graddiss/1257</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles Merkle</value>
+</field>
+<field name="advisor2" type="string">
+<value>A. D. Norman, Roy J. Shulz, R. C. Reddy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

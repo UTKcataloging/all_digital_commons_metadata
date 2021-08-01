@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Solving Combinatorial Optimization Problems Using Genetic Algorithms and Ant Colony Optimization</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>grajappa@utk.edu</email>
+<lname>Rajappa</lname>
+<fname>Gautham Puttur</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Genetic Algorithms</keyword>
+<keyword>Ant Colony Optimization</keyword>
+<keyword>Metaheuristics</keyword>
+<keyword>Split Delivery Vehicle Routing Problem</keyword>
+<keyword>Physician Scheduling</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Operational Research</discipline>
+<discipline>Other Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents metaheuristic approaches in the areas of genetic algorithms and ant colony optimization to combinatorial optimization problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ant colony optimization for the split delivery vehicle routing problem&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An Ant Colony Optimization (ACO) based approach is presented to solve the Split Delivery Vehicle Routing Problem (SDVRP). SDVRP is a relaxation of the Capacitated Vehicle Routing Problem (CVRP) wherein a customer can be visited by more than one vehicle. The proposed ACO based algorithm is tested on benchmark problems previously published in the literature. The results indicate that the ACO based approach is competitive in both solution quality and solution time. In some instances, the ACO method achieves the best known results to date for the benchmark problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Hybrid genetic algorithm for the split delivery vehicle routing problem (SDVRP&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;) &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Vehicle Routing Problem (VRP) is a combinatory optimization problem in the field of transportation and logistics. There are various variants of VRP which have been developed of the years; one of which is the Split Delivery Vehicle Routing Problem (SDVRP).&lt;strong&gt; &lt;/strong&gt;The SDVRP allows customers to be assigned to multiple routes. A hybrid genetic algorithm comprising a combination of ant colony optimization, genetic algorithm, and heuristics is proposed and tested on benchmark SDVRP test problems.&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Genetic algorithm approach to solve the hospital physician scheduling problem&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emergency departments have repeating 24-hour cycles of non-stationary Poisson arrivals and high levels of service time variation. The problem is to find a shift schedule that considers queuing effects and minimizes average patient waiting time and maximizes physicians’ shift preference subject to constraints on shift start times, shift durations and total physician hours available per day. An approach that utilizes a genetic algorithm and discrete event simulation to solve the physician scheduling problem in a hospital is proposed. The approach is tested on real world datasets for physician schedules.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1478</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2657&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1478</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2657</articleid>
+<submission-date>2012-07-26T10:10:06-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2657/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3135543</context-key>
+<submission-path>utk_graddiss/1478</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph H.Wilck</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Noon, Xueping Li, Xiaoyan Zhu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-08-31T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

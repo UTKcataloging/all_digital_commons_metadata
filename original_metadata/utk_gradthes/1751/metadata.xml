@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cooling of QPS Modular Coils using Embedded Copper Tubes</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Narasimhaswami</lname>
+<fname>Shankar</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In an era of insatiable appetite for energy, mankind is challenged to develop a sustainable, safe and clean means of energy production, which would virtually eliminate the existing dependence on fossil fuels. In this regard, Nuclear Fusion technology would give man a quantum leap to mark a near end to the long-term energy concerns and redefine the basis of energy production on earth and elsewhere. This explanation holds rationale on two principal elements 1-Abundant supply of cheap fusion fuel and 2-Surpassingly superior energy production efficiency.&lt;/p&gt;
+&lt;p&gt;But, as every boon comes with a ‘But’, the criticality of technology is that fusion needs inhumanly high and sustainable reaction temperatures. Such temperatures are realized by producing and sustaining Plasma, popularly called the fourth state of matter. Stellarators are a class of magnetic fusion confinement devices used for this purpose. Quasi-Poloidal Stellarator (QPS) is one such device under development at Oak Ridge National Lab. QPS consists of complex shaped modular coils, which are made of Copper-CTD 403 cyanate ester composite to carry the high current needed to develop the Plasma. Due to electrical resistance offered by the coils, tremendous heat is generated, which should be continuously and efficiently removed.&lt;/p&gt;
+&lt;p&gt;Copper tube embedded coils were identified to provide the best cooling rate through computational analysis [1]. These embedded coils will be hand wound (called lay-up) on a ‘form’ that takes the final shape of the modular coil within very stringent geometric and magnetic tolerance standards. After lay-up, the conductor is vacuum impregnated with CTD 403 cyanate ester polymer.&lt;/p&gt;
+&lt;p&gt;The issues pertaining to ‘no crimp – lay-up’ of the tube embedded conductor have been addressed by having a Low temperature Melting Alloy (LMA) as filler in the tube prior to manufacturing of the conductor. This LMA helps prevent crimps in the tube at sharp bends of ‘race track shapes’ during lay-up and should be flushed out once the lay-up is completed. This retains a clean passage for the flow of cooling water. Problems in filling and flushing the tube with LMA have been investigated experimentally and innovative processes and procedures were developed. Also a complete test modular coil was developed to gain hands on experience in conductor lay-up, impregnation and to understand the cure cycle behavior of CTD 403.&lt;/p&gt;
+&lt;p&gt;A novel approach was developed to conduct parametric studies on heat transfer in the 200-ft long conductor coil and cooling water with some approximations. A basic model was thus setup and numeric code was developed in MATLAB software. The temperature distribution was compared with finite element models developed in FEMLAB software. The results of this new approach are presented in this work and analyzed to understand the heat transfer at different sections along the conductor over time.&lt;/p&gt;
+&lt;p&gt;This technique was used to study the effect of several flow and thermal conditions, and geometry and material parameters on the effectiveness of cooling.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1751</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3102&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1751</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3102</articleid>
+<submission-date>2013-08-26T08:22:33-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4501535</context-key>
+<submission-path>utk_gradthes/1751</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Madhu S. Madhukar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Amold Lumsdaine, Thomas E. Shannon</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

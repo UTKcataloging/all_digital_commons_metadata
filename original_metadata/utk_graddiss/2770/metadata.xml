@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Methods for Quantitative Local Structure Analysis  of Crystalline Materials Employing High Performance Computing</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tmichels@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Michels-Clark</lname>
+<fname>Tara</fname>
+<mname>Marie</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Diffuse Scattering</keyword>
+<keyword>Evolutionary Algorithms</keyword>
+<keyword>Optimization</keyword>
+<keyword>Crystal</keyword>
+</keywords>
+<disciplines><discipline>Materials Chemistry</discipline>
+<discipline>Physical Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;A fundamental computational methodology was investigated to extract quantitative local structure information from single crystal diffuse scattering data. The principles of a highly efficient, parallelizable local structure analysis using massively parallel computing resources at Oak Ridge National Laboratory (ORNL) are demonstrated on an organic hydrocarbon compound containing stacking faults, Tris(bicyclo[2.1.1]hexeno)benzene. A probabilistic model of the stacking variations with a five layer interaction depth was developed. The final model structure motif statistics are verified using the steady state distribution of Markov matrix representing the four to five layer transitions. The computations revealed that highly parallelizable “structure-clones” could replace less computationally efficient “structure lots”. Further testing of the method is under way, using a new comprehensive modeling software suite ZODS (Zürich Oak Ridge Disorder Simulations) developed in Zürich, on synchrotron and lab X-Ray data of a highly efficient light-upconversion member of the NaLnF4&lt;sub&gt;4&lt;/sub&gt; [Sodium Lanthanide tetra fluoride] family. Initially, a synchrotron data set was collected at the high resolution Swiss-Norwegian Beam Line at the European Synchrotron Radiation Facility and is being analyzed. High resolution neutron diffraction data were recently collected at the time-of-flight Laue single crystal diffractometer TOPAZ at the Spallation Neutron Source at ORNL using the newly available event-mode processing. Currently, exploration of the event-mode data treatment and event based corrections for data preparation are under way. Simultaneous massively parallel local structure simulations of NaLaF&lt;sub&gt;4&lt;/sub&gt; [Sodium Lanthanum tetra fluoride] using ZODS on the National Energy Research Scientific Computing Center are in progress. A step-wise modeling approach was adopted. The largest contributors to the X-Ray diffuse scattering, La2 [Lanthanum 2] and Na2 [Sodium 2] column neighbor interactions were modeled first, followed by F1 [Fluorine 1] shift from its average position toward La [Lanthanum] and away from Na [Sodium]. This work provides a basis for streamlining diffuse scattering analysis and yields a quantitative interpretation of the local atomic arrangement of crystalline materials, which may provide valuable information for interpreting their structure property relationships.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2770</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3963&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2770</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3963</articleid>
+<submission-date>2014-01-24T13:19:39-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5015378</context-key>
+<submission-path>utk_graddiss/2770</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>Cynthia B. Peterson, Zi-Ling Xue, Gregory D. Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

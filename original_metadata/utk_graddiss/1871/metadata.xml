@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>New approaches to Risk Management and Scenario Approximation in Financial Optimization</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bychkov</lname>
+<fname>Maksym</fname>
+</author>
+</authors>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;The first part of the thesis addresses the problem of risk management in financial optimization modeling. Motivation for constructing a new concept of risk measurement is given through the history of development: utility theory, risk/return tradeoff, and coherent risk measures. The process of describing investor&#39;s preferences is presented through the proposed collection of Rational Level Sets (RLS). Based on RLS, a new concept termed Rational Risk Measures (RRM) for nancial optimization models is defined. The advantages of RRM over coherent risk measures are discussed. Approximation of a given set of scenarios using tail information is addressed in the second part of the thesis. Motivation for the scenario approximation problem, as a way of reducing computation time and preserving solution accuracy, is given through examples of financial optimization and asset allocation models. Using the basic ideas of Conditional Value at Risk (CVaR), this thesis develops a new methodology for scenario approximation for stochastic portfolio optimization. First, the concepts termed Scenarios-at-Risk (SaR) and Scenarios-at-Gain (SaG) are proposed as for the purpose of partitioning the underlying multivariate domain for a xed investment portfolio and a fixed probability level of CVaR. Then, under a given set of CVaR values, a twostage method is developed for determining a smaller, and discrete, set of scenarios over which CVaR risk control is satisfied for all portfolios of interest. Convergence of the method is shown and numerical results are presented to validate the proposed technique.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1871</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3297&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1871</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3297</articleid>
+<submission-date>2013-09-06T11:32:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4559816</context-key>
+<submission-path>utk_graddiss/1871</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Chanaka Edirisinghe</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Noon, Phillip Daves, Halima Bensmail</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

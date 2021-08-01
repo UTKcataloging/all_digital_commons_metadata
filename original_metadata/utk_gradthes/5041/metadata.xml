@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Analysis of Upper Extremity Movements for People Post-Stroke</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>znelson1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Nelson</lname>
+<fname>Zachariah</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<keywords>
+<keyword>stroke</keyword>
+<keyword>wearable sensor</keyword>
+<keyword>machine learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;Wearable sensors have been beneficial in assessing motor impairment after stroke. Individuals who have experienced stroke may benefit from the use of wearable sensors to quantify and assess quality of motions in unobserved environments. Seven individuals participated in a study wherein they performed various gestures from the Fugl-Meyer Assessment (FMA), a measure of post-stroke impairment. Participants performed these gestures while being monitored by wearable sensors placed on each wrist. A series of MATLAB functions were written to process recorded sensor data, extract meaningful features from the data, and prepare those features for further use with various machine learning techniques. A combination of linear and nonlinear regression was applied to frequency domain values from each gesture to determine which can more accurately predict the time spent performing the gesture, and the associated gesture FMA score. General performance suggests that linear regression techniques appear to better fit paretic gestures, while nonlinear regression techniques appear to better fit non-paretic gestures. A use of classifier techniques were used to determine if a classifier can distinguish between paretic and non-paretic gestures. The combinations include determining if a higher performance is obtained through the use of either accelerometer, rate gyroscope, or both modalities combined. Our findings indicate that, for upper-extremity motion, classifiers trained using a combination of accelerometer and rate gyroscope data performed the best (accuracy of 73.1%). Classifiers trained using accelerometer data alone and rate gyroscope data alone performed slightly worse than the combined data classifier (70.2% and 65.7%, respectively). These results suggest specific features and methods suitable for the quantification of impairment after stroke.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5041</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6448&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5041</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6448</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414717</context-key>
+<submission-path>utk_gradthes/5041</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Eric R. Wade</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay I. Frankel, William R. Hamel, Jeffrey A. Reinbolt, Daniel Caleb Rucker, Jindong Tan</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of chapter 5 were originally published by Zachariah Nelson and Eric Wade: Relative Efficacy of Sensor Modalities for Estimating Post-Stroke Motor Impairment, IEEE Engineering in Medicine and Biology, Honolulu, HI, 2018</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hardware Development of an Ultra-Wideband System for High Precision Localization Applications</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Cemin</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A precise localization system in an indoor environment has been developed. The developed system is based on transmitting and receiving picosecond pulses and carrying out a complete narrow-pulse, signal detection and processing scheme in the time domain. The challenges in developing such a system include: generating ultra wideband (UWB) pulses, pulse dispersion due to antennas, modeling of complex propagation channels with severe multipath effects, need for extremely high sampling rates for digital processing, synchronization between the tag and receivers’ clocks, clock jitter, local oscillator (LO) phase noise, frequency offset between tag and receivers’ LOs, and antenna phase center variation. For such a high precision system with mm or even sub-mm accuracy, all these effects should be accounted for and minimized.&lt;/p&gt;
+&lt;p&gt;In this &lt;em&gt;work&lt;/em&gt;, we have successfully addressed many of the above challenges and developed a stand-alone system for positioning both static and dynamic targets with approximately 2 mm and 6 mm of 3-D accuracy, respectively. The results have exceeded the state of the art for any commercially available UWB positioning system and are considered a great milestone in developing such technology. My contributions include the development of a picosecond pulse generator, an extremely wideband omni-directional antenna, a highly directive UWB receiving antenna with low phase center variation, an extremely high data rate sampler, and establishment of a non-synchronized UWB system architecture. The developed low cost sampler, for example, can be easily utilized to sample narrow pulses with up to 1000 GS/s while the developed antennas can cover over 6 GHz bandwidth with minimal pulse distortion.&lt;/p&gt;
+&lt;p&gt;The stand-alone prototype system is based on tracking a target using 4-6 base stations and utilizing a triangulation scheme to find its location in space. Advanced signal processing algorithms based on first peak and leading edge detection have been developed and extensively evaluated to achieve high accuracy 3-D localization. 1D, 2D and 3D experiments have been carried out and validated using an optical reference system which provides better than 0.3 mm 3-D accuracy. Such a high accuracy wireless localization system should have a great impact on the operating room of the future.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/541</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1608&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>541</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1608</articleid>
+<submission-date>2010-02-22T10:58:48-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1161915</context-key>
+<submission-path>utk_graddiss/541</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Marshall Pace, Mohamed Mahfouz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/ZhangCemin.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

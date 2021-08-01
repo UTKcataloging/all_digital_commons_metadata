@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Algorithm-Based Fault Tolerance for Two-Sided Dense Matrix Factorizations</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yjia@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jia</lname>
+<fname>Yulu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ABFT</keyword>
+<keyword>fault tolerance</keyword>
+<keyword>dense linear algebra</keyword>
+<keyword>two-sided matrix factorizations</keyword>
+<keyword>Hessenberg</keyword>
+<keyword>checksum</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;The mean time between failure (MTBF) of large supercomputers is decreasing, and future exascale computers are expected to have a MTBF of around 30 minutes. Therefore, it is urgent to prepare important algorithms for future machines with such a short MTBF. Eigenvalue problems (EVP) and singular value problems (SVP) are common in engineering and scientific research. Solving EVP and SVP numerically involves two-sided matrix factorizations: the Hessenberg reduction, the tridiagonal reduction, and the bidiagonal reduction. These three factorizations are computation intensive, and have long running times. They are prone to suffer from computer failures.&lt;/p&gt;
+&lt;p&gt;We designed algorithm-based fault tolerant (ABFT) algorithms for the parallel Hessenberg reduction and the parallel tridiagonal reduction. The ABFT algorithms target fail-stop errors. These two fault tolerant algorithms use a combination of ABFT and diskless checkpointing. ABFT is used to protect frequently modified data . We carefully design the ABFT algorithm so the checksums are valid at the end of each iterative cycle. Diskless checkpointing is used for rarely modified data. These checkpoints are in the form of checksums, which are small in size, so the time and storage cost to store them in main memory is small. Also, there are intermediate results which need to be protected for a short time window. We store a copy of this data on the neighboring process in the process grid.&lt;/p&gt;
+&lt;p&gt;We also designed algorithm-based fault tolerant algorithms for the CPU-GPU hybrid Hessenberg reduction algorithm and the CPU-GPU hybrid bidiagonal reduction algorithm. These two fault tolerant algorithms target silent errors. Our design employs both ABFT and diskless checkpointing to provide data redundancy. The low cost error detection uses two dot products and an equality test. The recovery protocol uses reverse computation to roll back the state of the matrix to a point where it is easy to locate and correct errors.&lt;/p&gt;
+&lt;p&gt;We provided theoretical analysis and experimental verification on the correctness and efficiency of our fault tolerant algorithm design. We also provided mathematical proof on the numerical stability of the factorization results after fault recovery. Experimental results corroborate with the mathematical proof that the impact is mild.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3588</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5013&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3588</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5013</articleid>
+<submission-date>2015-10-08T13:37:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7696510</context-key>
+<submission-path>utk_graddiss/3588</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Michael Berry, Ohannes Karakashian</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

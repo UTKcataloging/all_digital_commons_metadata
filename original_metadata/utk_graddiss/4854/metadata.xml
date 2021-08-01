@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Role of Protein Structural Ensembles in Thermostability and Ligand Binding</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Evangelista Falcón</lname>
+<fname>Wilfredo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Molecular Dynamics</keyword>
+<keyword>Protein simulations</keyword>
+<keyword>Docking</keyword>
+<keyword>Thermostability</keyword>
+</keywords>
+<abstract>&lt;p&gt;The role of protein structural ensembles has been shown to be very important for different physical and chemical properties of proteins. The work presented in this dissertation explores two of these properties:i) Thermostability, by characterizing, at three different temperatures, the dynamics of aminoglycoside nucleotidyltransferase 4’ (ANT). This homodimeric enzyme detoxifies antibiotics. It possess two known variants, D80Y and T130K, with higher melting temperatures than the wild type. These mutations, however, would cause changes in the distributions of conformations in the ensemble and, consequently, on the dynamics of the protein. To test this hypothesis, the wild type and variants were examined by using molecular dynamics simulations and the results were compared with previous experimental information in order to characterize the similarities and differences between the, so-called, thermophilic and thermostable variants of this enzyme.ii) Ligand binding: Since proteins are in general dynamic structures, it would be expected that the effectiveness of ligand binding varies as the protein’s conformation changes. One of the most targeted protein family in the field of drug discovery/design is the G-Protein Coupled Receptor (GPCR) family. Over 30% of approved drugs target this family of proteins. This project examines, via in silico experiments, the differences in ligand binding between different conformations of GPCRs. To this end, GPCR ligand structures, actual binding (actives) and non-binding (decoys) ligands, were obtained from public databases, and eight GPCRs structures were selected to generate 5,000 conformational states for each protein. Ensemble-based docking was performed on representative structures of these 5,000 conformers and on a subset of 3,000 conformers from each of the eight proteins. Decoys and statistical analysis were incorporated in the docking simulations to test whether the sampled protein conformations can bind active ligands in greater numbers than the random selection from the pool of active and decoys. The results show that some conformations bind more ligands than other conformations, random selection, or the crystal structure. Characterizing the entire ensemble of protein conformations can improve the number of bound active ligands identified computationally, compared to random selection of compounds or docking using only a single crystal structure.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4854</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6394&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4854</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6394</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276602</context-key>
+<submission-path>utk_graddiss/4854</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jerome Baudry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gladys Alexandre, Jaan Mannik, Engin Serpersu, Jeremy Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biochemistry and Cellular and Molecular Biology</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

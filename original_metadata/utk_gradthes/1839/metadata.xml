@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Reliability Case Study on Estimating Extremely Small Percentiles of Strength Data for the Continuous Improvement of Medium Density Fiberboard Product Quality</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Weiwei</fname>
+</author>
+</authors>
+<disciplines><discipline>Statistics and Probability</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of this thesis is to better estimate extremely small percentiles of strength distributions for measuring failure process in continuous improvement initiatives. These percentiles are of great interest for companies, oversight organizations, and consumers concerned with product safety and reliability.  The thesis investigates the lower percentiles for the quality of medium density fiberboard (MDF). The international industrial standard for measuring quality for MDF is internal bond (IB, a tensile strength test).  The results of the thesis indicated that the smaller percentiles are crucial, especially the first percentile and lower ones.&lt;/p&gt;
+&lt;p&gt;The thesis starts by introducing the background, study objectives, and previous work done in the area of MDF reliability.  The thesis also reviews key components of total quality management (TQM) principles, strategies for reliability data analysis and modeling, information and data quality philosophy, and data preparation steps that were used in the research study.&lt;/p&gt;
+&lt;p&gt;Like many real world cases, the internal bond data in material failure analysis do not follow perfectly the normal distribution.  There was evidence from the study to suggest that MDF has potentially different failure modes for early failures.  Forcing of the normality assumption may lead to inaccurate predictions and poor product quality.  We introduce a novel, forced censoring technique that closer fits the lower tails of strength distributions, where these smaller percentiles are impacted most.  In this thesis, such a forced censoring technique is implemented as a software module, using JMP&lt;sup&gt;®&lt;/sup&gt; Scripting Language (JSL) to expedite data processing which is key for real-time manufacturing settings.&lt;/p&gt;
+&lt;p&gt;Results show that the Weibull distribution models the data best and provides percentile estimates that are neither too conservative nor risky.  Further analyses are performed to build an accelerated common-shaped Weibull model for these two product types using the JMP&lt;sup&gt;®&lt;/sup&gt; Survival and Reliability platform.  The use of the JMP&lt;sup&gt;®&lt;/sup&gt; Scripting Language helps to automate the task of fitting an accelerated Weibull model and test model homogeneity in the shape parameter.  At the end of modeling stage, a package script is written to readily provide the field engineers customized reporting for model visualization, parameter estimation, and percentile forecasting.&lt;/p&gt;
+&lt;p&gt;Furthermore, using the powerful tools of Splida and S Plus, bootstrap estimates of the small percentiles demonstrate improved intervals by our forced censoring approach and the fitted model, including the common shape assumption.    Additionally, relatively more advanced Bayesian methods are employed to predict the low percentiles of this particular product type, which has a rather limited number of observations.  Model interpretability, cross-validation strategy, result comparisons, and habitual assessment of practical significance are particularly stressed and exercised throughout the thesis.&lt;/p&gt;
+&lt;p&gt;Overall, the approach in the thesis is parsimonious and suitable for real time manufacturing settings.  The approach follows a consistent strategy in statistical analysis which leads to more accuracy for product conformance evaluation.  Such an approach may also potentially reduce the cost of destructive testing and data management due to reduced frequency of testing.  If adopted, the approach may prevent field failures and improve product safety.  The philosophy and analytical methods presented in the thesis also apply to other strength distributions and lifetime data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1839</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3194&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1839</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3194</articleid>
+<submission-date>2013-09-12T10:58:24-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4579852</context-key>
+<submission-path>utk_gradthes/1839</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy M. Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank M. Guess, Ramón V. León</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

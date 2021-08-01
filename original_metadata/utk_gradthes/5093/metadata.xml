@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Classifying Building Usages: A Machine Learning Approach on Building Extractions</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Duchscherer</lname>
+<fname>Samantha</fname>
+<mname>Eleanor</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Building Usage</keyword>
+<keyword>Land-Use</keyword>
+<keyword>building extractions</keyword>
+<keyword>building footprints</keyword>
+<keyword>supervised learning</keyword>
+<keyword>classification</keyword>
+<keyword>Convolutional Neural Networks (CNN)</keyword>
+<keyword>remote sensing imagery</keyword>
+<keyword>CoreLogic</keyword>
+<keyword>LiDAR</keyword>
+<keyword>Random Forest (RF)</keyword>
+<keyword>Support Vector Machine (SVM)</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper considers methods to infer building usage from the geographic and geometric spatial distribution of building extractions. Focusing on Knox County, TN, a Random Forest (RF) and Support Vector Machine (SVM) were used to classify a polygonized building map developed from a Convolutional Neural Network (CNN) based upon remote sensing imagery. The resulting classification metrics of nine building usages are then compared to the RF and SVM building usage classification of Knox County’s LiDAR building footprints and CNN building extractions with removal of false positives. It is shown that the raw CNN building extractions have acceptable building usage classification accuracies. This result is a useful addition to our understanding of building usage because the best remote sensing data (LiDAR building footprints) are not always accessible and completing tedious editing work (CNN building extractions with removal of false positives) is not feasible. Using the methods developed here, the effect of increasing CNN building detection training data for Knox County for testing on Knox County is also investigated. This case study assists in the process of examining if training a model on all Knox County CNN building detections can classify building usages in the similar urban-rural geographic location of Hamilton County, TN. ArcMap and R programming are utilized in gathering the data to conduct the machine learning algorithms while the building usage is defined by CoreLogic Parcel Land - Use codes.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5093</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6500&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5093</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6500</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414872</context-key>
+<submission-path>utk_gradthes/5093</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Louis J. Gross</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicholas N. Nagle, Robert N. Stewart</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-2023-3106</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

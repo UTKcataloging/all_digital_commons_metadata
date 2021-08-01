@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MetabR: an R script for linear model analysis of quantitative metabolomic data</title>
+<publication-date>2012-10-30T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jernest1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ernest</lname>
+<fname>Ben</fname>
+</author>
+<author>
+<email>jessica.gooding@duke.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gooding</lname>
+<fname>Jessica</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>campagna@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Campagna</lname>
+<fname>Shawn</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>asaxton@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Saxton</lname>
+<fname>Arnold</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>bhvoy@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Voy</lname>
+<fname>Brynn</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>R script</keyword>
+<keyword>User-friendly</keyword>
+<keyword>Linear mixed model</keyword>
+<keyword>Statistics</keyword>
+<keyword>Normalization</keyword>
+<keyword>Mass spectrometry-based metabolomics</keyword>
+</keywords>
+<disciplines><discipline>Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Metabolomics is an emerging high-throughput approach to systems biology, but data analysis tools are lacking compared to other systems level disciplines such as transcriptomics and proteomics. Metabolomic data analysis requires a normalization step to remove systematic effects of confounding variables on metabolite measurements. Current tools may not correctly normalize every metabolite when the relationships between each metabolite quantity and fixed-effect confounding variables are different, or for the effects of random-effect confounding variables. Linear mixed models, an established methodology in the microarray literature, offer a standardized and flexible approach for removing the effects of fixed- and random-effect confounding variables from metabolomic data.  &lt;h4&gt;Findings&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Here we present a simple menu-driven program, “MetabR”, designed to aid researchers with no programming background in statistical analysis of metabolomic data. Written in the open-source statistical programming language R, MetabR implements linear mixed models to normalize metabolomic data and analysis of variance (ANOVA) to test treatment differences. MetabR exports normalized data, checks statistical model assumptions, identifies differentially abundant metabolites, and produces output files to help with data interpretation. Example data are provided to illustrate normalization for common confounding variables and to demonstrate the utility of the MetabR program.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We developed MetabR as a simple and user-friendly tool for implementing linear mixed model-based normalization and statistical analysis of targeted metabolomic data, which helps to fill a lack of available data analysis tools in this field. The program, user guide, example data, and any future news or updates related to the program may be found at &lt;a href=&quot;http://metabr.r-forge.r-project.org/&quot;&gt;http://metabr.r-forge.r-project.org/&lt;/a&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chempubs/41</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1042&amp;amp;context=utk_chempubs&amp;amp;unstamped=1</fulltext-url>
+<label>41</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1042</articleid>
+<submission-date>2013-07-11T11:08:24-07:00</submission-date>
+<publication-title>Chemistry Publications and Other Works</publication-title>
+<context-key>4305838</context-key>
+<submission-path>utk_chempubs/41</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Research Notes 2012, 5:596 doi:10.1186/1756-0500-5-596</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-10-30T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

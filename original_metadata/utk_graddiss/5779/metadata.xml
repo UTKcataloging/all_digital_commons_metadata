@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assessing Hydrologic Vulnerability and Resilience of Critical Energy-Water Infrastructures in a Changing Environment</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sgangra1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Gangrade</lname>
+<fname>Sudershan</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Critical infrastructures, especially major hydropower reservoirs, play an important role in the energy-water nexus. These reservoirs are susceptible to evolving socio-environmental factors such as climate, urbanization, land use land cover (LULC) change, and population growth. This dissertation research, consists of four components, evaluates hydrologic vulnerability and resilience of such infrastructures in a changing environment through process-based hydrologic, hydraulic, and water management modeling frameworks for Alabama-Coosa-Tallapoosa (ACT) River Basin in the southeastern United States. The first component involves development of a high-resolution integrated hydro-meteorological framework consisting of Weather Research Forecasting (WRF) model and the distributed hydrology soil vegetation model (DHSVM) to assess probable maximum flood (PMF). The PMF, generally used as one of the design criteria for the critical infrastructures, is evaluated in a changing climate and its sensitivity to various factors such as meteorological forcing datasets, climate and LULC change, model parameters, and reservoir operation is assessed. The second component focuses on extending the above framework by incorporating a two-dimensional hydrodynamic model (Flood2D-GPU) to assess flood vulnerability through an ensemble-based approach. It enables development of probabilistic flood maps, providing additional information about probability of flooding in comparison with the flood maps obtained from the conventional deterministic PMF approach. The third component focuses on the generating ensemble future hydroclimate projections using a multi-model framework, including three process based hydrologic models (Precipitation Runoff Modeling System [PRMS], Variable Infiltration Capacity [VIC], and DHSVM) driven by 11 dynamically downscaled and bias-corrected Coupled Models Intercomparison Project phase 5 (CMIP5) Global Climate Models (GCMs) under historical and future climate scenarios. The ensemble projections are used to inform water resource managers regarding the hydrologic response in the region under future conditions and associated underlying uncertainties. The final component utilizes an integrated distributed hydrologic and water management model (DHSVM-Res) to evaluate the sensitivity of reservoir operations under various future scenarios including projected future water availability derived from an ensemble of dynamically downscaled CMIP5 model outputs, and hypothetical future water demand driven by increasing population projections. These studies inform the decision v makers about potential future risks and challenges associated with major reservoirs and their implications for water resources management.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5779</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7545&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5779</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7545</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419678</context-key>
+<submission-path>utk_graddiss/5779</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Chieh Kao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jon Hathaway, Forrest Hoffman, Ryan McManamay, John Schwartz</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;http://orcid.org/0000-0002-0730-0810&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Analysis of Convex Splitting Schemes for Cahn-Hilliard and Coupled Cahn-Hilliard-Fluid-Flow Equations</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>adiegel@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Diegel</lname>
+<fname>Amanda</fname>
+<mname>Emily</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Cahn Hilliard</keyword>
+<keyword>mixed finite element methods</keyword>
+<keyword>convex splitting</keyword>
+<keyword>fluid flow and phase separation</keyword>
+<keyword>energy stability</keyword>
+<keyword>second order accuracy</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation investigates numerical schemes for the Cahn-Hilliard equation and the Cahn-Hilliard equation coupled with a Darcy-Stokes flow. Considered independently, the Cahn-Hilliard equation is a model for spinodal decomposition and domain coarsening. When coupled with a Darcy-Stokes flow, the resulting system describes the flow of a very viscous block copolymer fluid. Challenges in creating numerical schemes for these equations arise due to the nonlinear nature and high derivative order of the Cahn-Hilliard equation. Further challenges arise during the coupling process as the coupling terms tend to be nonlinear as well. The numerical schemes presented herein preserve the energy dissipative structure of the Cahn- Hilliard equation while maintaining unique solvability and optimal error bounds.&lt;/p&gt;
+&lt;p&gt;Specifically, we devise and analyze two mixed finite element schemes: a first order in time numerical scheme for a modified Cahn-Hilliard equation coupled with a non- steady Darcy-Stokes flow and a second order in time numerical scheme for the Cahn- Hilliard equation in two and three dimensions. The time discretizations are based on a convex splitting of the energy of the systems. We prove that our schemes are unconditionally energy stable with respect to a spatially discrete analogue of the continuous free energies and unconditionally uniquely solvable. For each system, we prove that the discrete phase variable is essentially bounded in both time and space with respect to the Lebesque integral and the discrete chemical potential is Lesbegue square integrable in space and essentially bounded in time. We show these bounds are completely independent of the time and space step sizes in two and three dimensions. We subsequently prove that these variables converge with optimal rates in the appropriate energy norms. The analyses included in this dissertation will provide a bridge to the development of stable, efficient, and optimally convergent numerical schemes for more robust and descriptive coupled Cahn-Hilliard-Fluid-Flow systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3332</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4620&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3332</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4620</articleid>
+<submission-date>2015-02-10T09:00:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6633196</context-key>
+<submission-path>utk_graddiss/3332</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven M. Wise</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xiaobing H. Feng, Ohannes Karakashian, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>VaaS: Visualization as a Service</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ahota@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hota</lname>
+<fname>Alok</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Scientific Visualization</keyword>
+<keyword>Cloud Computing</keyword>
+<keyword>Microservice Architecture</keyword>
+<keyword>Data Analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Traditional HPC visualization applications provide scientists with scalable solutions to work with large datasets. However, computation today is moving towards cloud-hosted systems, as they present key advantages over traditional HPC cluster systems, primarily that of high availability. Computation on a cloud-hosted system can be accessed on demand without long queue times and without long resource acquisition times. Existing applications cannot be ported to the cloud as they rely on a monolithic application structure that does not flexibly distribute among virtual cloud instances.In this dissertation, I study the architectural decisions required to transition scientific data analysis and visualization into the cloud. In particular, I focus on a microservice-based architecture model, designed to use loosely couple modular components using a limited communication model. This general scheme allows scalability and flexibility on cloud-hosted systems, and provides &lt;i&gt;Visualization as a Service&lt;/i&gt; that can be deployed on-demand. I present working prototype solutions to the challenges of large data storage and working set management, loosely-coupled rendering and analysis services, and visualization records keeping and reproducibility.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5444</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6980&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5444</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6980</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545482</context-key>
+<submission-path>utk_graddiss/5444</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Mark Dean, Russell Zaretzki, Bradley Vander Zanden</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-3595-3253</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Convection in the Melt</title>
+<publication-date>1991-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Drake</lname>
+<fname>John</fname>
+<mname>Bryant</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;A physical problem involving the melting/freezing of a phase-change material (PCM) is the applied setting of this research. The development of models that couple the partial differential equations for energy transport and fluid motion with phases of differing densities is a primary goal of the research. In Chapter 2, a general framework is developed for the formulation of conservation laws that admit interfaces. A notion of weak solution is developed and its relation with classical and other weak formulations is discussed. Conditions that hold across various kinds of interfaces are also developed. The formulation is examined for the conservation of mass, momentum and energy in Chapter 3. In Chapter 4, a numerical method for the solution of conservation law equations is given. The method uses a Crank-Nicolson time discretization and solves the implicit equations with a Newton/Approximate Factorization technique. The method captures interfaces and is consistent with the control volume weak formulations of Chapter 2. The numerical solution converges to the distributional solution of the conservation law. In Chapter 5, three applications of the theory are developed and numerical computations are presented. First, a one dimensional problem is studied involving conservation of mass. momentum and energy in a phase-change material with a liquid density larger than that of the solid. The second application is a suction problem in two dimensions. The bulk movement of a liquid and void are simulated with and without the effects of surface tension. The third application is to a three-dimensional simulation of the heating of a cylindrical canister of PCM in 1-g and 0-g. For this simulation the Marangoni stress is the important driving force on the flow.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1256</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2668&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1256</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2668</articleid>
+<submission-date>2012-07-31T11:03:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3163368</context-key>
+<submission-path>utk_graddiss/1256</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasilios, Alexiades</value>
+</field>
+<field name="advisor2" type="string">
+<value>Suzanne Lenhart, Henry Simpson, Oscar Koraneel, Eugene Macpherson, Roger Arimillil</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1991-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1991-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

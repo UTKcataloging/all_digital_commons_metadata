@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-Area Synchrophasor Measurement Applications and Power System Dynamic Modeling</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ylei6@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lei</lname>
+<fname>Yin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>wide-area measurement</keyword>
+<keyword>synchrophasor</keyword>
+<keyword>dynamic modeling</keyword>
+<keyword>wind</keyword>
+<keyword>High Voltage Direct Current</keyword>
+<keyword>frequency response</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The use of synchrophasor measurements system-wide has been providing significant assistance for grid dynamic monitoring, situation awareness and reliability improvement. Frequency Monitoring Network (FNET), as an academia-run synchrophasor measurement system, utilizes a large number of Internet-connected low-cost Frequency Disturbance Recorders (FDRs) installed at the distribution level to measure power system dynamics and provide both online and off-line applications, such as event detection, oscillation modes estimation, event replay, etc. This work aims to further explore applications of the FNET measurements and utilize measurement-based method in dynamic modeling.&lt;/p&gt;
+&lt;p&gt;Measurement-based dynamic reduction is an important application of synchrophasor measurement, especially considering the fact that when the system model is large, measurements provide a precise insight of system dynamics in order to determine equivalent regions. Another important application is to investigate Super Bowl games as an example to evaluate the influence of synchronized human activities on the power system. Featured characteristics drawn from the frequency data detected during the Super Bowl games are discussed.&lt;/p&gt;
+&lt;p&gt;Increased penetration levels of wind generation and retirements of conventional plants have caused concerns about a decline of system inertia and primary frequency response. This work evaluates the impact of wind power on the system inertial response, simulation scenarios with different wind penetration levels are developed based on the U.S. Northeast Power Coordinating Council (NPCC) system. A user-defined electrical control model is also introduced to provide inertia and governor control to wind generations.&lt;/p&gt;
+&lt;p&gt;Except for wind generation, frequency regulation can also be achieved by supplementary control of High Voltage Direct Current (HVDC) transmission line. A multi-terminal Voltage Source Converter (VSC) HVDC model is constructed to prove the effective control. In order to transmit large amount of intermittent and remote renewable energy over long distance to load centers, a potential solution is to upgrade the transmission system at a higher voltage by constructing an overlay HVDC grid on top of the original transmission system. The VSC HVDC model is utilized to build the HVDC overlay grid, and the overlay grid is tested with interconnection models.&lt;/p&gt;
+&lt;p&gt;Conclusions and possible future research topics are given in the end.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3549</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4911&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3549</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4911</articleid>
+<submission-date>2015-06-18T09:10:42-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7233573</context-key>
+<submission-path>utk_graddiss/3549</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Fangxing Li, Chen Chien-fei</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

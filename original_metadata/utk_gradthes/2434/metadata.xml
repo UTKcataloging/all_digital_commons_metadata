@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Pose Estimation of 4 to N-Point Targets: Implementation and Applications</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wmartin8@utk.edu</email>
+<lname>Martin</lname>
+<fname>William Rawlins</fname>
+</author>
+</authors>
+<keywords>
+<keyword>pose estimation</keyword>
+<keyword>target handoff</keyword>
+</keywords>
+<disciplines><discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The goal of this thesis is to develop and implement an algorithm capable of handing off target-tracking responsibilities from one sensor to another. In addition, I aspire to perform target tracking by means of reformulation and expansion of an existing pose estimation algorithm. I have developed and implemented solutions to both problems and present my experimental findings for each.&lt;/p&gt;
+&lt;p&gt;The reformulation of an existing 4-point pose estimation algorithm streamlines the mathematics by reducing nearly 100 equations from the original algorithm to just 13 equations. This is accomplished by stripping out the unnecessary (supporting) equations and then condensing the remaining equations into tensor format. In the related experimental work, the 4-point pose estimation algorithm is used to track the pose of a quadrotor UAV (Unmanned Aerial Vehicle) in real-time using a single, inexpensive USB webcam. This experiment highlights an advantage to the approach presented in this thesis – that a multi-camera, expensive motion-capture system can be replaced with one inexpensive camera.&lt;/p&gt;
+&lt;p&gt;Later, I show how to expand the 4-point pose estimation algorithm to accommodate an N-point target (where N is larger than 4). By increasing the number of points defining an object, the accuracy and precision in the determination of that object’s pose should increase. I provide a pipeline by which an N-point problem can be decomposed into “N choose 4” 4-point problems. Among other topics, this pipeline provides methods for consistent labeling between physical control points and image points.&lt;/p&gt;
+&lt;p&gt;In the remaining sections of the thesis, I provide a method for performing target-handoff in 3D space. Experimental results show that the algorithm developed succeeds in initiating and executing intelligent handoff of target-tracking responsibilities between multiple sensors. The material covering target handoff is divided into three parts. The first section presents the development of the theoretical, continuous-domain algorithm. The second section details the implementation of that theoretical material in the discrete domain in the form of a software-based Algorithm-Testing Environment (ATE) and provides results for that experiment. The final section presents potential applications of the pose estimation algorithm to multi-sensor, multi-target scenarios in the ATE.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2434</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2920&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2434</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2920</articleid>
+<submission-date>2013-07-01T13:50:28-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4273025</context-key>
+<submission-path>utk_gradthes/2434</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Andreas Koschan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

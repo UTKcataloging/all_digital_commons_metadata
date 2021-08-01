@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigation of Vorticity Confinement as a High Reynolds Number Turbulence Model</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lynn</lname>
+<fname>Nicholas</fname>
+<mname>F.</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Vorticity Confinement (VC) is a computational technique used to compute fluid flows with thin vortical regions in an accurate and efficient manner. Recent results have shown that it accurately computes the turbulent wake behind blunt bodies at large Reynolds numbers. Physically, these flows are dominated by thin vortices that convect downstream with the flow, which accounts for the important higher-order velocity statistics. These thin vortices are artificially dissipated with traditional methods, whereas VC can accurately compute them.&lt;/p&gt;
+&lt;p&gt;VC consists of a set of discrete equations with the confinement appearing as a source term in the discretized momentum equations. The term is formulated to act solely on the small vortical regions of the flow which are artificially spread with traditional methods. The role of the confinement term is to contract the vortices to counteract the artificial spreading, while maintaining the conservation of properties.&lt;/p&gt;
+&lt;p&gt;Previous VC investigations into turbulence utilized a constant user-specified confinement strength which is analogous to the Boussinesq assumption. Here, two new models for free turbulence are developed and validated along with a near-wall turbulence model. The models replace the user-specified confinement strength with a confinement strength based upon properties of the flows. The models choose the most appropriate confinement strength to conserve energy, and in this way the new models are analogous to dynamic sub-grid models of LES. These models are developed such that energy behaves in a physically consistent manner for high Reynolds number turbulence-energy decays solely at the smallest scales.&lt;/p&gt;
+&lt;p&gt;The new models for free turbulence are validated against experiment, numerical and analytical solutions for the Taylor-Green vortex and the decay of forced homogenous turbulence. Results indicate that the inertial range can extend to the largest wavenumber resolvable by the computational grid. A new near-wall model is validated for the case of flat plate boundary layer flow. A final investigation for the flow over a back-facing step is also conducted and compared against experiment. VC results are found to be comparable to other LES computations but far more economical, since a coarser grid is used.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/235</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1285&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>235</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1285</articleid>
+<submission-date>2010-02-03T14:54:09-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1131303</context-key>
+<submission-path>utk_graddiss/235</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Steinhoff</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary A. Flandro, K. C. Reddy, Lloyd M. Davis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/LynnNicholas.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Software Verification for a Custom Instrument using VectorCAST and CodeSonar</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wardc2@usec.com</email>
+<lname>Ward</lname>
+<fname>Christina</fname>
+<mname>Dawn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>software verification</keyword>
+<keyword>VectorCAST</keyword>
+<keyword>CodeSonar</keyword>
+<keyword>embedded system</keyword>
+</keywords>
+<disciplines><discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The goal of this thesis is to apply a structured verification process to a software package using a set of commercially available verification tools.  The software package to be verified is adapted from a project that was developed to monitor an industrial machine at the Oak Ridge National Laboratory and includes two major subsystems.  One subsystem, referred to as the Industrial Machine Monitoring Instrument (IMMI), connects to a machine and monitors operating parameters using common industrial sensors.  A second subsystem, referred to as the Distributed Control System (DCS), interfaces between the IMMI and a personal computer, which provides a human machine interface using a hyperterminal.  Both the IMMI and DCS are built around Freescale’s MC9S12XDP microcontroller using CodeWarrior as the Integrated Development Environment (IDE).  The software package subjected to the structured verification process includes the main C code with its header file and the code for its interrupt events for the IMMI as well as the main C code for the DCS and its interrupt events.  The software package is exposed to the scrutiny of two verification tools, VectorCAST and CodeSonar.  VectorCAST is used to execute test cases and provide results for code coverage based on statement and branch coverage.  CodeSonar is used to identify issues with the code at compile time such as allocation/deallocation issues, unsafe functions, and language use problems.  The results from both verification tools are evaluated and necessary changes made to the software package.  The modified software is then tested again with VectorCAST and CodeSonar.  The final verification step is downloading the modified code into the IMMI and DCS microcontrollers and testing the overall system to ensure the expected results are achieved with hardware that is developed to simulate realistic signals.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/918</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2013&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>918</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2013</articleid>
+<submission-date>2011-04-20T06:00:50-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1947993</context-key>
+<submission-path>utk_gradthes/918</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Cao, Xiaorui Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

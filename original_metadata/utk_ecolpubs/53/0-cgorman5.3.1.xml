@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="cgorman5.3.1" system="knb" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 eml.xsd"> <access authSystem="knb" order="allowFirst"> <allow><principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+ <dataset> <title>Eucalyptus Functional Trait Data, Tasmania, Australia</title>
+ <creator id="1408903054397"> <individualName><surName>Bailey</surName>
+</individualName>
+<organizationName>The University of Tennessee</organizationName>
+<positionName>Associate Professor</positionName>
+</creator>
+ <creator id="1408903071901"><individualName><surName>Schweitzer</surName>
+</individualName>
+<organizationName>The University of Tennessee</organizationName>
+<positionName>Associate Professor</positionName>
+</creator>
+<abstract><para>This is a dataset of commonly measured plant functional traits (height, internode length, leaf thickness, and specific leaf area) and herbivore responses (insect and mammalian) to those traits used for a comparitive analyses of endemic versus non-endemic Eucalyptus species.</para>
+</abstract>
+<keywordSet><keyword>Eucalyptus</keyword>
+<keyword>Plant functional traits</keyword>
+<keyword>Herbivory</keyword>
+<keyword>Endemism</keyword>
+<keyword>Species Interactions</keyword>
+</keywordSet>
+<intellectualRights><para>This data is intended to be freely available under Creative Commons.</para>
+</intellectualRights>
+<coverage><geographicCoverage><geographicDescription>Tasmania, Australia</geographicDescription>
+<boundingCoordinates><westBoundingCoordinate>114.25</westBoundingCoordinate>
+<eastBoundingCoordinate>156.75</eastBoundingCoordinate>
+<northBoundingCoordinate>-14.5</northBoundingCoordinate>
+<southBoundingCoordinate>-48.25</southBoundingCoordinate>
+</boundingCoordinates>
+</geographicCoverage>
+<temporalCoverage><singleDateTime><calendarDate>2011-12-24</calendarDate>
+</singleDateTime>
+</temporalCoverage>
+</coverage>
+<contact id="1408903100177"><individualName><surName>Gorman</surName>
+</individualName>
+<organizationName>The University of Tennessee</organizationName>
+<positionName>Graduate Student</positionName>
+</contact>
+<methods><methodStep><description><section><title>Functional Trait Collection</title>
+<para>Total tree height was measured to the nearest cm. Two random shoots and two fully expanded leaves were collected from the terminal stems of each tree (juvenile foliage) for measurements of shoot and leaf functional traits. Internode lengths (in mm) were measured on these shoots as the length between the first two fully expanded leaves; typically the 4th and 5th plastochron. Leaf thickness (in mm) was measured with digital calipers. Leaf length, width and area were estimated from the leaf samples using the imaging program ImageJ. Leaves were oven-dried at 70° C for 48 h. Specific leaf area (SLA) was calculated as the average leaf area/average dry weight (cm2/g).</para>
+</section>
+</description>
+<instrumentation>Leaf length, width and area were estimated from the leaf samples using the imaging program ImageJ.</instrumentation>
+</methodStep>
+</methods>
+</dataset>
+ </eml:eml>

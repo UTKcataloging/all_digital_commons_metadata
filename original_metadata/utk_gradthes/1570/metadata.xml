@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Investigation on the Use of Computational Fluid Dynamics to Simulate the Turbulent Phenomena from a Melt-Blowing Die</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Haynes</lname>
+<fname>Jared</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A computational investigation was performed to investigate the capabilities and limitations of the &quot;large eddy simulation&quot; (LES) turbulence model for a two-dimensional, melt-blowing flow field. For computational ease, the simulations were performed with incompressible and isothermal conditions. The internal flow channels of the melt- blowing die were modeled with a steady-state, k-Epsilon turbulence model. Velocity profiles were extracted from the channel exits and implemented as the inlet boundary conditions for the LES simulation of the free flow region. For parametric study, the simulations were carried out using two different jet angles of 30º and 60º. Both time- averaged and time-dependent data were recorded for analysis. Time-averaged results were used to determine if LES produced a realistic average flow field. Time-dependent results were used to determine if LES captured the large, vortex structures that dominate the motion of melt-blown fibers. Finally, a separate LES run was conducted to compare the average flow field with experimental measurements.&lt;/p&gt;
+&lt;p&gt;The time-averaged velocity plots indicated that the 60º jets produced a higher centerline velocity than the 30º jets. The 60º jets also produced more frequent velocity fluctuations than the 30º jets beyond the one-inch downstream position from the die. The LES model predicted a mean flow field that compared well with experimental data in regions close to the die (less than 2-3 cm). However, the model became much less accurate further downstream. Overall, the LES model seemed to expand the jet profile away from the centerline much sooner than shown by experiments. An animation of the velocity field indicated that significant errors were caused by the boundary conditions. The flow field was filled with unorganized, vortex structures, which often traveled in pairs. The lack of numerical information beyond the boundaries caused these vortex pairs to separate in an unrealistic manner.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1570</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3020&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1570</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3020</articleid>
+<submission-date>2013-08-08T08:19:59-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4406162</context-key>
+<submission-path>utk_gradthes/1570</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert E. Bond</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mancil W. Milligan, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hard and Soft Error Resilience for One-sided Dense Linear Algebra Algorithms</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rick.peng.du@gmail.com</email>
+<lname>Du</lname>
+<fname>Peng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>fault tolerance</keyword>
+<keyword>dense linear algebra</keyword>
+<keyword>soft error</keyword>
+<keyword>hard error</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+<discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Dense matrix factorizations, such as LU, Cholesky and QR, are widely used by scientific applications that require solving systems of linear equations, eigenvalues and linear least squares problems. Such computations are normally carried out on supercomputers, whose ever-growing scale induces a fast decline of the Mean Time To Failure (MTTF). This dissertation develops fault tolerance algorithms for one-sided dense matrix factorizations, which handles Both hard and soft errors.&lt;/p&gt;
+&lt;p&gt;For hard errors, we propose methods based on diskless checkpointing and Algorithm Based Fault Tolerance (ABFT) to provide full matrix protection, including the left and right factor that are normally seen in dense matrix factorizations. A horizontal parallel diskless checkpointing scheme is devised to maintain the checkpoint data with scalable performance and low space overhead, while the ABFT checksum that is generated before the factorization constantly updates itself by the factorization operations to protect the right factor. In addition, without an available fault tolerant MPI supporting environment, we have also integrated the Checkpoint-on-Failure(CoF) mechanism into one-sided dense linear operations such as QR factorization to recover the running stack of the failed MPI process.&lt;/p&gt;
+&lt;p&gt;Soft error is more challenging because of the silent data corruption, which leads to a large area of erroneous data due to error propagation. Full matrix protection is developed where the left factor is protected by column-wise local diskless checkpointing, and the right factor is protected by a combination of a floating point weighted checksum scheme and soft error modeling technique. To allow practical use&lt;/p&gt;
+&lt;p&gt;on large scale system, we have also developed a complexity reduction scheme such that correct computing results can be recovered with low performance overhead.&lt;/p&gt;
+&lt;p&gt;Experiment results on large scale cluster system and multicore+GPGPU hybrid system have confirmed that our hard and soft error fault tolerance algorithms exhibit the expected error correcting capability, low space and performance overhead and compatibility with double precision floating point operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1445</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2665&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1445</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2665</articleid>
+<submission-date>2012-07-29T14:06:50-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3154033</context-key>
+<submission-path>utk_graddiss/1445</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, James Plank, Xiaobing Feng, Jack Dongarra</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Classification System for Impedance Spectra</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>csapp@utk.edu</email>
+<lname>Sapp</lname>
+<fname>Carl Gordon</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Classification</keyword>
+<keyword>Electrical Impedance</keyword>
+<keyword>Similarity</keyword>
+<keyword>SVD</keyword>
+</keywords>
+<disciplines><discipline>Biomedical</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>Other Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis documents research, methods, and results to satisfy the requirements for the M.S. degree in Electrical Engineering at the University of Tennessee. This thesis explores two primary steps for proper classification of impedance spectra: data dimension reduction and effectiveness of similarity/dissimilarity measure comparison in classification. To understand the data characteristics and classification thresholds, a circuit model analysis for simulation and unclassifiable determination is studied. The research is conducted using previously collected data of complex valued impedance measurements taken from 1844 similar devices. The results show a classification system capable of proper classification of 99% of data samples with well-separated data and approximately 85% using the full range of data available to this research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/909</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1996&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>909</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1996</articleid>
+<submission-date>2011-04-15T11:22:10-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1942867</context-key>
+<submission-path>utk_gradthes/909</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tse-Wei Wang, Roger Horn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>AppendixFiles.tar.gz</archive-name>
+<upload-name>AppendixFiles.tar.gz</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1996&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/x-gzip</mime-type>
+<description>MATLAB Source Code</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

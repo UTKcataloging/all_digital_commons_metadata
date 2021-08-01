@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>LeaF: A Learning-based Fault Diagnostic System for Multi-Robot Teams</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kannan</lname>
+<fname>Balajee</fname>
+</author>
+</authors>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Computer Sciences</discipline>
+<discipline>Physical Sciences and Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;The failure-prone complex operating environment of a standard multi-robot application dictates some amount of fault-tolerance to be incorporated into every system. In fact, the quality of the incorporated fault-tolerance has a direct impact on the overall performance of the system. Despite the extensive work being done in the field of multi-robot systems, there does not exist a general methodology for fault diagnosis and recovery. The objective of this research, in part, is to provide an adaptive approach that enables the robot team to autonomously detect and compensate for the wide variety of faults that could be experienced. The key feature of the developed approach is its ability to learn useful information from encountered faults, unique or otherwise, towards a more robust system. As part of this research, we analyzed an existing multi-agent architecture, CMM – Causal Model Method – as a fault diagnostic solution for a sample multi-robot application. Based on the analysis, we claim that a causal model approach is effective for anticipating and recovering from many types of robot team errors. However, the analysis also showed that the CMM method in its current form is incomplete as a turn-key solution. Due to the significant number of possible failure modes in a complex multi-robot application, and the difficulty in anticipating all possible failures in advance, one cannot guarantee the generation of a complete &lt;em&gt;a priori&lt;/em&gt; causal model that identifies and specifies all faults that may occur in the system. Therefore, based on these preliminary studies, we designed an alternate approach, called LeaF: Learning based Fault diagnostic architecture for multi-robot teams. LeaF is an adaptive method that uses its experience to update and extend its causal model to enable the team, over time, to better recover from faults when they occur. LeaF combines the initial fault model with a case-based learning algorithm, LID – Lazy Induction of Descriptions — to allow robot team members to diagnose faults and to automatically update their causal models. The modified LID algorithm uses structural similarity between fault characteristics as a means of classifying previously un-encountered faults. Furthermore, the use of learning allows the system to identify and categorize unexpected faults, enable team members to learn from problems encountered by others, and make intelligent decisions regarding the environment. To evaluate LeaF, we implemented it in two challenging and dynamic physical multi-robot applications.&lt;/p&gt;
+&lt;p&gt;The other significant contribution of the research is the development of metrics to measure the fault-tolerance, within the context of system performance, for a multi-robot system. In addition to developing these metrics, we also outline potential methods to better interpret the obtained measures towards truly understanding the capabilities of the implemented system. The developed metrics are designed to be application independent and can be used to evaluate and/or compare different fault-tolerance architectures like CMM and LeaF. To the best of our knowledge, this approach is the only one that attempts to capture the effect of intelligence, reasoning, or learning on the &lt;em&gt;effective&lt;/em&gt; fault-tolerance of the system, rather than relying purely on traditional redundancy based measures. Finally, we show the utility of the designed metrics by applying them to the obtained physical robot experiments, measuring the effective fault-tolerance and system performance, and subsequently analyzing the calculated measures to help better understand the capabilities of LeaF.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/207</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1255&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>207</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1255</articleid>
+<submission-date>2010-02-01T11:33:59-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127713</context-key>
+<submission-path>utk_graddiss/207</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Bruce J. MacLennan, Itamar Elhanany</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/KannanBalajee.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Performance Controlled Power Optimization for Virtualized Internet Datacenters</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yefuwang@utk.edu</email>
+<lname>Wang</lname>
+<fname>Yefu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>datacenter</keyword>
+<keyword>power optimization</keyword>
+<keyword>performance</keyword>
+<keyword>control theory</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Modern data centers must provide performance assurance for complex system software such as web applications. In addition, the power consumption of data centers needs to be minimized to reduce operating costs and avoid system overheating. In recent years, more and more data centers start to adopt server virtualization strategies for resource sharing to reduce hardware and operating costs by consolidating applications previously running on multiple physical servers onto a single physical server. In this dissertation, several power efficient algorithms are proposed to effectively reduce server power consumption while achieving the required application-level performance for virtualized servers.&lt;/p&gt;
+&lt;p&gt;First, at the server level this dissertation proposes two control solutions based on dynamic voltage and frequency scaling (DVFS) technology and request batching technology. The two solutions share a performance balancing technique that maintains performance balancing among all virtual machines so that they can have approximately the same performance level relative to their allowed peak values. Then, when the workload intensity is light, we adopt the request batching technology by using a controller to determine the time length for periodically batching incoming requests and putting the processor into sleep mode. When the workload intensity changes from light to moderate, request batching is automatically switched to DVFS to increase the processor frequency for performance guarantees.&lt;/p&gt;
+&lt;p&gt;Second, at the datacenter level, this dissertation proposes a performance-controlled power optimization solution for virtualized server clusters with multi-tier applications.&lt;/p&gt;
+&lt;p&gt;The solution utilizes both DVFS and server consolidation strategies for maximized power savings by integrating feedback control with optimization strategies. At the application level, a multi-input-multi-output controller is designed to achieve the desired performance for applications spanning multiple VMs, on a short time scale, by reallocating the CPU resources and DVFS. At the cluster level, a power optimizer is proposed to incrementally consolidate VMs onto the most power-efficient servers on a longer time scale.&lt;/p&gt;
+&lt;p&gt;Finally, this dissertation proposes a VM scheduling algorithm that exploits core performance heterogeneity to optimize the overall system energy efficiency.&lt;/p&gt;
+&lt;p&gt;The four algorithms at the three different levels are demonstrated with empirical results on hardware testbeds and trace-driven simulations and compared against state-of-the-art baselines.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1140</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2215&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1140</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2215</articleid>
+<submission-date>2011-06-21T07:18:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2069031</context-key>
+<submission-path>utk_graddiss/1140</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaorui Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dongjun Lee, Seddik M. Djouadi, Gregory D. Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

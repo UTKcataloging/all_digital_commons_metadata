@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scheduling for Service Stability and Supply Chain Coordination</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Yuerong</fname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation studies scheduling for service stability and for supply chain coordination as well. The scheduling problems for service stability are studied from the single perspective of a firm itself, while the scheduling problems for supply chain coordination are investigated from the perspective of a supply chain. Both the studies have broad applications in real life.&lt;/p&gt;
+&lt;p&gt;In the first study, several job scheduling problems are addressed, with the measure of performance being job completion time variance (CTV). CTV minimization is used to represent service stability, since it means that jobs are completed in a relative concentrated period of time. CTV minimization also conforms to the Just-in-time philosophy. Two scheduling problems are studied on multiple identical parallel machines. The one problem does not restrict the idle times of machines before their job processing, while the other does. For these two scheduling problems, desirable properties are explored and heuristic algorithms are proposed. Computational results show the excellent performances of the proposed algorithms. The third scheduling problem in the first study is considered on a single machine and from the users’ perspective rather than the system’s perspective. The performance measure is thus class-based completion time variance (CB-CTV). This problem is shown to be able to be transformed into multiple CTV problems. Therefore, the well-developed desirable properties of the CTV problem can be applied to solve the CB-CTV problem. The tradeoff between the CB-CTV problem and the CTV problem is also investigated.&lt;/p&gt;
+&lt;p&gt;The second study deals with scheduling coordination in a supply chain, since supply chain coordination is increasingly critical in recent years. Usually, different standpoints prevent decision makers in a supply chain from having agreement on a certain scheduling decision. Therefore conflicts arise. In pursuit of excellent performance of the whole supply chain, coordination among decision makers is needed. In this study, the scheduling conflicts are measured and analyzed from different perspectives of decision makers, and cooperation mechanisms are proposed based on different scenarios of the relative bargaining power among decision makers. The cooperation savings are examined as well.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/22</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1052&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>22</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1052</articleid>
+<submission-date>2009-12-18T11:47:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1094161</context-key>
+<submission-path>utk_graddiss/22</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rapinder S. Sawhney, Denise F. Jackson, Frank M. Guess</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

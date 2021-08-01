@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enhanced Performance Monitoring - Extending PAPI to Monitor Multiple Counter Domains</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>London</lname>
+<fname>Kevin</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;High performance computing is playing an increasingly important role in the scientific community. As simulations start replacing physical experiments there will be a need for larger computing resources and better optimized applications. The Performance Application Programming Interface (PAPI) already addresses the concerns for optimizing a serial application by providing a portable interface to the performance counters found on modern processors. Developers can use these counters to understand exactly how their application is running on the processor and use this information to determine the best way to optimize the application. This information is only a portion of the complete picture. As applications become more complex the time to solution increases and the only way for an acceptable time to solution is to parallelize the application. Once an application is parallelized a developer needs more information to determine how to optimize the application. This information is available from the network interface cards, switches, distributed memory performance counters and other off processor locations. This additional information is very valuable to developers who need to optimize a parallel application. The computer systems are growing larger each year to accommodate these parallel applications [16]. Many of the larger systems are thousands of processors and there is one system that is planned to be one hundred thousand processors! Because these systems are getting so large another concern is power consumption and more importantly the thermal properties of the processors. Using thermal sensors is impractical because it is expensive, slow to respond to thermal changes and has design implications. There is ongoing research to use the processors performance counters to estimate the thermal properties of the processor. These algorithms are very complex and many times use more than 20 performance counter metrics for the thermal estimation. The algorithm is processor-specific which means a new algorithm has to be created for every new processor and in some cases even new revisions of an older processor. Because this process is time consuming it would be beneficial to monitor the thermal sensors and the hardware counters at the same time, but currently there is not a single package out there that allows these kinds of features.&lt;/p&gt;
+&lt;p&gt;This thesis will show that it is possible to construct a single interface that allows access to a variety of counters both on processor and off processor. The PAPI interface will be extended to support monitoring the multiple counter domains, but the interface will be preserved as much as possible. The preservation of the interface will ensure that the current PAPI user base will not have to make extensive changes to their applications, but will benefit by gaining the ability to monitor more than processor hardware counters. The extended PAPI interface will then be used to show how the ability to simultaneously monitor multiple counter domains is beneficial in verifying the accuracy of a thermal algorithm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4541</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6104&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4541</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6104</articleid>
+<submission-date>2017-04-24T11:50:50-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10067582</context-key>
+<submission-path>utk_gradthes/4541</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shirley Moore</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack Dongarra, Dali Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

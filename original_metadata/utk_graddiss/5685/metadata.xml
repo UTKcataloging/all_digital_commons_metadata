@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Virtual Synchronous Generator Operation of Full Converter Wind Turbine ‒ Control and Testing in a Hardware Based Emulation Platform</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yma13@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ma</lname>
+<fname>Yiwei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power Electronics</keyword>
+<keyword>Wind Turbine</keyword>
+</keywords>
+<abstract>&lt;p&gt;Wind is one of the most promising renewable energy forms that can be harvested to into the electrical power system. The installation has been rising worldwide in the past and will continue to steadily increase. The high penetration of wind energy has bought about a number of difficulties to the power system operation due to its stochastic nature, lack of exhibited inertia, and differing responses to the traditional energy sources in grid disturbances. Various grid support functions are then proposed to resolve the issues. One solution is to allow the renewable energy sources to behave like a traditional synchronous generator in the system, as a virtual synchronous generator (VSG). On the other hand, testing the control of the future power grid with high penetration renewable often relies on digital simulation or hardware-based experiments. But they either suffer from fidelity and numerical stability issues, or are bulky and inflexible. A power electronics based power system emulation platform is built in the University of Tennessee. This Hardware Testbed (HTB) allows testing of both system level and component level controls, with a good balance between the fidelity of the hardware-based testing platform, and the coverage of the digital simulation.This dissertation proposal investigates the VSG operation of the full converter wind turbine (FCWT), focusing on its control and testing in the HTB. Specifically, a FCWT emulator was developed using a single converter to include its physical model and control strategies. The existing grid support functions are also included to demonstrate their feasibility.The comprehensive VSG controls are then proposed for a FCWT with short term energy storage. The dynamic response of the FCWT can be comparable to the traditional generation during grid disturbance. The control can also allow the FCWT to be dispatched by the system operator, and even operate stand-alone without other grid sources.To study the system response under faults, a short circuit fault emulator was developed in the HTB platform. Four basic types of the short circuit faults with various fault impedance can be emulated using the emulator. The power system transient stability in terms of critical clearing time can be measured using the developed fault emulator.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5685</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7331&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5685</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7331</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911751</context-key>
+<submission-path>utk_graddiss/5685</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fei Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon Tolbert Kevin Tomsovic Mingzhou Jin</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0001-6465-313X</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journal IEEE Transaction of Industrial Electronics, Chinese Journal of Electrical Engineering, and proceedings of IEEE APEC and ECCE conference.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Quantum Monte Carlo simulations of many-dimensional harmonic oscillators: A study of 2&lt;sup&gt;nd&lt;/sup&gt; and 4&lt;sup&gt;th&lt;/sup&gt; order propagators</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Magnusson</lname>
+<fname>Brent-Jon</fname>
+<mname>Bjorgvin</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;Because the Schrödinger equation cannot be solved analytically for systems larger than hydrogen, approximate solution methods must be applied to study systems of chemical interest. Quantum Monte Carlo is one of these methods. Quantum Monte Carlo simulations involve the diffusion of walkers through configuration space and necessitate the use of one of two imaginary time propagators, 2&lt;sup&gt;nd&lt;/sup&gt; or 4&lt;sup&gt;th&lt;/sup&gt; order. The choice of the propagator implemented depends on a balance between accuracy and efficiency. Obtaining accurate solutions is the primary objective; once this is accomplished, finding ways to make the simulations efficient is the next intention. Using a model system of a multidimensional harmonic oscillator, this study intends to compare and contrast both 2&lt;sup&gt;nd&lt;/sup&gt; and 4&lt;sup&gt;th&lt;/sup&gt; order propagators&#39; diminished accuracy as the dimensionality of the system is increased. Two phases of the propagation are sampled to determine accuracy: a single propagation step and the asymptotic limit. To test the accuracy after one step, we start a simulation by placing walkers at the origin, moving them forward one time step in imaginary time, creating normalized histograms of their positions and comparing these with the known result for the imaginary time propagation of the delta function centered at x=0. The convergence of the simulation is determined by observing the change in distribution from the known asymptotic limit distribution. This is done by distributing the walkers in the known asymptotic distribution and observing the change in average weight upon further propagation. A converged distribution’s average weight will not change.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3641</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5016&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3641</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5016</articleid>
+<submission-date>2016-02-10T13:48:30-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8127257</context-key>
+<submission-path>utk_gradthes/3641</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeffrey Kovac, Charles S. Feigerle</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

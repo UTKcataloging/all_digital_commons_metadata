@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Transient, One-Dimensional, Discrete-Element Transport Model for Predicting Hydrodynamic Conditions and Three-Layer Non-Equilibrium Pollutant Concentrations as Dissolved in Water and as Adsorbed on Different Classes of Sediment in Controlled Rivers and Tidal Estuaries</title>
+<publication-date>1980-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zimmerman</lname>
+<fname>Gary</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;A transient one-dimensional mathematical model for simulating the transport of pollutant effluents from industrial plants is presented.&lt;/p&gt;
+&lt;p&gt;The Eulerion fluid-in-discrete-element (FLIDE) formulation employs the integral forms of the conservation principles of water mass, sediment mass, and pollutant mass in variable size discrete elements that span the flow region. The transport of the pollutant effluents are modeled as dissolved and adsorbed suspended sediment in the suspended sediment and slurry sediment layer and as dissolved and stationary resident sediment in the resident sediment layer.&lt;/p&gt;
+&lt;p&gt;The contributions of vertical variations of the velocity components and pollutant concentrations in the suspended sediment and slurry sediment layers are rigorously incorporated in the development of depth-averaged, one-dimensional transport fluxes by spatially integrating the conservation equations over the enclosure surfaces of the discrete elements. Longitudinal transport of pollutants in the bottom layer is not presented. A general non-equilibrium dynamic submodel is used for determining the adsorption and desorption rates of the pollutant for each sediment class in the three layers.&lt;/p&gt;
+&lt;p&gt;The resulting mathematical system is a system of weakly coupled, nonlinear, ordinary differential equations that are numerically integrated from arbitrarily specified initial conditions, by the Runga-Kutta-Gill method with a time step based on a stability criterion for explicit methods.&lt;/p&gt;
+&lt;p&gt;The mathematical model is applied to two hypothetical accidental releases of pollutant effluents into the Hudson River tidal estuary. Flow conditions in the region. are modeled using computer simulation data.&lt;/p&gt;
+&lt;p&gt;During the simulations of a hypothetical accidental release of pollutant effluents into the Hudson River tidal estuary, the model showed that it readily takes into account the interaction of pollutant as dissolved in-water and as adsorbed on different sediment classes in the three layers. Under high flow conditions, it showed the phenomena of the pollutant as adsorbed on sediment in the resident sediment layer being resuspended into the slurry sediment and suspended sediment layers, presenting a realistic simulation of natural conditions. At low flow conditions, the settling of the pollutant as adsorbed on sediments in the suspended sediment and slurry sediment layer into the resident sediment layer was modeled, thus giving an effective simulation of the vertical exchange between the three layers.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4346</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5834&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4346</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5834</articleid>
+<submission-date>2017-02-24T11:51:53-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9745631</context-key>
+<submission-path>utk_gradthes/4346</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arsev H. Eraslan</value>
+</field>
+<field name="advisor2" type="string">
+<value>William T. Snyder, Ebrem V. Kalmarz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1980-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1980-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

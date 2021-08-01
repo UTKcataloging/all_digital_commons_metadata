@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Personalized Health Monitoring Using Evolvable Block-based Neural Networks</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jiang</lname>
+<fname>Wei</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents personalized health monitoring using evolvable block-based neural networks. Personalized health monitoring plays an increasingly important role in modern society as the population enjoys longer life. Personalization in health monitoring considers physiological variations brought by temporal, personal or environmental differences, and demands solutions capable to reconfigure and adapt to specific requirements. Block-based neural networks (BbNNs) consist of 2-D arrays of modular basic blocks that can be easily implemented using reconfigurable digital hardware such as field programmable gate arrays (FPGAs) that allow on-line partial reorganization. The modular structure of BbNNs enables easy expansion in size by adding more blocks. A computationally efficient evolutionary algorithm is developed that simultaneously optimizes structure and weights of BbNNs. This evolutionary algorithm increases optimization speed by integrating a local search operator. An adaptive rate update scheme removing manual tuning of operator rates enhances the fitness trend compared to pre-determined fixed rates. A fitness scaling with generalized disruptive pressure reduces the possibility of premature convergence. The BbNN platform promises an evolvable solution that changes structures and parameters for personalized health monitoring. A BbNN evolved with the proposed evolutionary algorithm using the Hermite transform coefficients and a time interval between two neighboring R peaks of ECG signal, provides a patient-specific ECG heartbeat classification system. Experimental results using the MIT-BIH Arrhythmia database demonstrate a potential for significant performance enhancements over other major techniques.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/202</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1249&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>202</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1249</articleid>
+<submission-date>2010-02-01T11:09:20-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127666</context-key>
+<submission-path>utk_graddiss/202</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seong G. Kong</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Itamar Elhanany, J. Wesley Hines, Gregory D. Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/JiangWei.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

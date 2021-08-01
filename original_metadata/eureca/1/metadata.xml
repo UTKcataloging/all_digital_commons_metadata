@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding Collegiate Football Ticket Prices</title>
+<publication-date>2020-12-01T13:45:11-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dmille83@vols.utk.edu</email>
+<lname>Miller</lname>
+<fname>Ken</fname>
+</author>
+</authors>
+<disciplines><discipline>Business Analytics</discipline>
+<discipline>Sports Management</discipline>
+</disciplines><abstract>&lt;p&gt;The goal of this research is to build, develop, and refine a pricing model to most accurately match the actual value of the seat and section of a college’s home football games so that the revenue of the stadium is capitalized without sacrificing the end customer’s satisfaction. We started our work by reviewing literature to develop an understanding of how to measure customer value in a sports capacity while also looking at different pricing strategies across sports. Our research will build off these studies using ticketing data from the past five seasons (2015-2019) for our college’s football program. The data for the past few years is a collection of primary ticket history and secondary market ticket history. Our research will focus on developing the best model possible but has yet to be identified as we are continuing to understand the nuances of our data. We developed linear models to understand the relationships between all our variables and will continue to explore predictive models to see the best and most important factors in determining the logged ratio of resale price and price. We have also used various R packages to understand variable importance. We have found via variable comparisons that team performance and opponent play a large role in game by game ticket prices, but seat location also greatly determines how much a customer is willing to pay for the ticket. These were verified using the variable importance plot from the Boruta package. This project is still being conducted and more work and analysis need to be performed before drawing conclusions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/eureca/1</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1001&amp;amp;context=eureca&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1001</articleid>
+<submission-date>2020-12-01T12:37:13-08:00</submission-date>
+<publication-title>EURēCA: Exhibition of Undergraduate Research and Creative Achievement</publication-title>
+<context-key>20359891</context-key>
+<submission-path>eureca/1</submission-path>
+<fields>
+<field name="college" type="string">
+<value>Haslam College of Business</value>
+</field>
+<field name="department" type="string">
+<value>Business Analytics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+<field name="faculty_mentor" type="string">
+<value>Dr. Wei Zheng</value>
+</field>
+<field name="year" type="date">
+<value>2020-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

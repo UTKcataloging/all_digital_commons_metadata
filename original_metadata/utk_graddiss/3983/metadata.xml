@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Low-Noise Micro-Power Amplifiers for Biosignal Acquisition</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tyang4@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Yang</lname>
+<fname>Tan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>low noise</keyword>
+<keyword>low power</keyword>
+<keyword>amplifiers</keyword>
+<keyword>bio-potential</keyword>
+</keywords>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;There are many different types of biopotential signals, such as action potentials (APs), local field potentials (LFPs), electromyography (EMG), electrocardiogram (ECG), electroencephalogram (EEG), etc. Nerve action potentials play an important role for the analysis of human cognition, such as perception, memory, language, emotions, and motor control. EMGs provide vital information about the patients which allow clinicians to diagnose and treat many neuromuscular diseases, which could result in muscle paralysis, motor problems, etc. EEGs is critical in diagnosing epilepsy, sleep disorders, as well as brain tumors.&lt;/p&gt;
+&lt;p&gt;Biopotential signals are very weak, which requires the biopotential amplifier to exhibit low input-referred noise. For example, EEGs have amplitudes from 1 μV [microvolt] to 100 μV [microvolt] with much of the energy in the sub-Hz [hertz] to 100 Hz [hertz] band. APs have amplitudes up to 500 μV [microvolt] with much of the energy in the 100 Hz [hertz] to 7 kHz [hertz] band. In wearable/implantable systems, the low-power operation of the biopotential amplifier is critical to avoid thermal damage to surrounding tissues, preserve long battery life, and enable wirelessly-delivered or harvested energy supply. For an ideal thermal-noise-limited amplifier, the amplifier power is inversely proportional to the input-referred noise of the amplifier. Therefore, there is a noise-power trade-off which must be well-balanced by the designers.&lt;/p&gt;
+&lt;p&gt;In this work I propose novel amplifier topologies, which are able to significantly improve the noise-power efficiency by increasing the effective transconductance at a given current. In order to reject the DC offsets generated at the tissue-electrode interface, energy-efficient techniques are employed to create a low-frequency high-pass cutoff. The noise contribution of the high-pass cutoff circuitry is minimized by using power-efficient configurations, and optimizing the biasing and dimension of the devices. Sufficient common-mode rejection ratio (CMRR) and power supply rejection ratio (PSRR) are achieved to suppress common-mode interferences and power supply noises. Our design are fabricated in standard CMOS processes. The amplifiers’ performance are measured on the bench, and also demonstrated with biopotential recordings.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3983</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5224&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3983</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5224</articleid>
+<submission-date>2016-02-26T16:02:05-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5224/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8227020</context-key>
+<submission-path>utk_graddiss/3983</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Islam, Benjamin J. Blalock, Jim Hall</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational modeling of cell mechanics and binding kinetics at T-cell interfaces</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Pullen</lname>
+<fname>Robert</fname>
+<mname>Henry</mname>
+<suffix>III</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>T-cell interfaces</keyword>
+<keyword>binding kinetics</keyword>
+<keyword>computational modeling</keyword>
+<keyword>cell mechanics</keyword>
+</keywords>
+<abstract>&lt;p&gt;T cells orchestrate adaptive immunity, yet how they recognize and respond to small numbers of antigenic ligands remains an open question. T cells use surface receptors (TCRs) to engage membrane-presented ligands (pMHCs) on antigen-presenting cells (APCs). Recent experiments have illuminated the significance of mechanical forces, spatial organization, and dynamics of key proteins at cell-cell interfaces in immunology. For example, studies have shown T cells use actin-based microvillar protrusions to actively search APCs and stimulatory TCR-pMHC bonds exhibit catch-bond behavior, with an average bond lifetime that initially increases with increasing tensile force. It is unclear how mechanical forces at the cell-cell interface and force-dependent TCR-pMHC dissociation kinetics regulate antigen discrimination. Experimental observations raise the interesting question of whether T cells can exploit catch-bond behavior of stimulatory bonds as a physical mechanism in the search of rare antigenic ligands.In this dissertation, we employ computational methods to explore (i) the impact of TCR-pMHC bond formation on the spatial organization and shape of membranes at the cell-cell interface, (ii) the dynamics of TCR cluster formation, and (iii) the mechanical feedback between receptor-ligand binding and active force generation by scanning T-cell microvilli. We find the formation of individual TCR-pMHC bonds drives changes in the membrane organization and shape, leading to time-dependent forces on TCR-pMHC bonds. Using force-dependent lifetime data for TCRs bound to various ligands, we show that stimulatory catch bonds have a markedly enhanced average lifetime compared with non-stimulatory pMHCs. By varying the fraction and density of agonist pMHC on APCs, we demonstrate that stimulatory pMHC molecules play a central role in the formation of TCR clusters, and that TCR-pMHC clustering drives longer surface molecules away from regions of close apposition. Lastly, we find that a small number of catch bonds can initially immobilize T-cell microvilli, after which additional bonds accumulate and increase the cumulative receptor-engagement time. Thus, catch bonds can selectively slow and stabilize scanning microvilli, suggesting a physical mechanism that may contribute to antigen discrimination by T cells. Taken together, our results highlight the importance of force-dependent binding kinetics and cell mechanics for antigen discrimination at the T-cell-APC interface.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5417</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6953&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5417</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6953</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545440</context-key>
+<submission-path>utk_graddiss/5417</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven M. Abel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Francisco Barrera, Eric T. Boder, Manolis Doxastakis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

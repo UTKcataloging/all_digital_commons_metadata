@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Crown Reductions and Decompositions: Theoretical Results and Practical Methods</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Suters, III</lname>
+<fname>William</fname>
+<mname>Henry</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Two kernelization schemes for the vertex cover problem, an NP-hard problem in graph theory, are compared. The first, crown reduction, is based on the identification of a graph structure called a crown and is relatively new while the second, LP-kernelization has been used for some time. A proof of the crown reduction algorithm is presented, the algorithm is implemented and theorems are proven concerning its performance. Experiments are conducted comparing the performance of crown reduction and LP- kernelization on real world biological graphs. Next, theorems are presented that provide a logical connection between the crown structure and LP-kernelization. Finally, an algorithm is developed for decomposing a graph into two subgraphs: one that is a crown and one that is crown free.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2225</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3630&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2225</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3630</articleid>
+<submission-date>2013-10-11T08:44:35-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4697403</context-key>
+<submission-path>utk_gradthes/2225</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert C. Ward, Bruce J. MacLennan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

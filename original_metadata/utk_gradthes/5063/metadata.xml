@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Quantifying Irregular Geographic Exposure on the Internet</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jholla19@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Holland</lname>
+<fname>Jordan</fname>
+<mname>Alexander</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Routing</keyword>
+<keyword>Traffic Exposure</keyword>
+<keyword>Geography</keyword>
+<keyword>Measurement</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this work, we examine to what extent the Internet&#39;s routing infrastructure needlessly exposes network traffic to nations &lt;i&gt;geographically&lt;/i&gt; irrelevant to packet transmission. We quantify what countries are &lt;i&gt;geographically logical&lt;/i&gt; to see on a network path traveling between two nations through the use of convex hulls circumscribing major population centers, and then compare that to the nation states observed in over 14.5 billion measured paths. Our results show that 49% of paths unnecessarily expose traffic to at least one nation. We further explore what nations, regions, and ASes expose and benefit from this geographically illogical traffic. As an example, we see that 23% of source/destination pairs located outside of the United States send their traffic through the US, but only 8% of those paths are geographically logical. Finally, we examine what happens when countries exercise both legal and physical control over ASes transiting traffic, gaining access to traffic outside of their geographic borders, but carried by organizations that fall under a particular country&#39;s legal jurisdiction. When considering both the physical and legal countries that a path traverses, our results show that over 57% of paths expose traffic to a geographically irrelevant country.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5063</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6470&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5063</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6470</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414761</context-key>
+<submission-path>utk_gradthes/5063</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Maxfield J. Schuchard</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Audris Mockus</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effect of Composition and Architecture on Polymer Behavior in Homopolymer Blends and Inter-filament Bonding in 3D Printed Models</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eduranty@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Duranty</lname>
+<fname>Edward</fname>
+<mname>Roy</mname>
+</author>
+</authors>
+<keywords>
+<keyword>copolymer dynamics</keyword>
+<keyword>copolymer architecture</keyword>
+<keyword>3D printing</keyword>
+<keyword>fused deposition modeling</keyword>
+<keyword>Monte Carlo simulation</keyword>
+<keyword>polymer</keyword>
+</keywords>
+<disciplines><discipline>Materials Chemistry</discipline>
+<discipline>Polymer Chemistry</discipline>
+<discipline>Statistical, Nonlinear, and Soft Matter Physics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents work that increases our understanding of the effects of composition and architecture on copolymer structure and dynamics and how they affect material diffusion between filaments in a 3D printed model. Copolymers are polymer chains made up of at least two different monomers. The ordering and arrangement of the two monomer species within a copolymer can have drastic effects on the behavior and properties of the copolymer.&lt;/p&gt;
+&lt;p&gt;The first chapter of this dissertation examines how the copolymer composition affects the structure and dynamics of the chain in a homopolymer blend. This study used a modified Monte Carlo BFM to simulate random polystyrene(PS)-polymethymethacrylate(PMMA) copolymers in a PMMA matrix. The results suggest that the faster moving PS segments in the copolymer chain dominate the chain’s motion. However, concentration fluctuations in the local volume around segments of the chain ultimately slow the chain down. This work sheds light into why a randomly distributed copolymer will move faster than a di-block copolymer of the same monomer composition.&lt;/p&gt;
+&lt;p&gt;The next project focused on the effect of copolymer architecture on the structure and dynamics of branched polymers in a homopolymer matrix using a Monte Carlo simulation. In these simulations, branched polymer consisted of a backbone and the side-chains being unlike monomer species. The number and the molecular weight of the branches was varied to study the effects of branch packing densities on homopolymer copolymer comb structure and motion. Additionally, the temperature varied to determine the effect of available thermal energy on each architectural copolymer configuration. The results of this project concluded that the structure and motion of a branched polymer are a result of the balance in the thermodynamic environment surrounding the copolymer.&lt;/p&gt;
+&lt;p&gt;Finally, the effect of inter-filament heat and copolymer diffusion on inter-filament bonding in 3D printed part was examined. In this study the importance of thermal history in the print environment was determined quantitatively and its effect on the adhesion between acrylonitrile-butadiene-styrene (ABS) copolymer filaments was probed. Additionally, the interface between ABS filaments was improved using a chemical cross-linker. These studies provide insight into improving the mechanical strength of 3D printed parts.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3545</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5024&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3545</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5024</articleid>
+<submission-date>2015-10-09T06:54:26-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5024/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7698699</context-key>
+<submission-path>utk_graddiss/3545</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark D. Dadmun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mike S. Kilbey, Frank Vogt, Chad Duty</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

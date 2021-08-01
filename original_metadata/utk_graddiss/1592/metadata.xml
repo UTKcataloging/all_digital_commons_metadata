@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Quaternionic Attitude Estimation with Inertial Measuring Unit for Robotic and Human Body Motion Tracking using Sequential Monte Carlo Methods with Hyper-Dimensional Spherical Distributions</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>gto@utk.edu</email>
+<lname>To</lname>
+<fname>Gary</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Motion Tracking</keyword>
+<keyword>Sequential Monte Carlo</keyword>
+<keyword>hyper-dimensional statistic</keyword>
+</keywords>
+<disciplines><discipline>Biomedical Devices and Instrumentation</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation examined the inertial tracking technology for robotics and human tracking applications. This is a multi-discipline research that builds on the embedded system engineering, Bayesian estimation theory, software engineering, directional statistics, and biomedical engineering.&lt;/p&gt;
+&lt;p&gt;A discussion of the orientation tracking representations and fundamentals of attitude estimation are presented briefly to outline the some of the issues in each approach. In addition, a discussion regarding to inertial tracking sensors gives an insight to the basic science and limitations in each of the sensing components.&lt;/p&gt;
+&lt;p&gt;An initial experiment was conducted with existing inertial tracker to study the feasibility of using this technology in human motion tracking. Several areas of improvement were made based on the results and analyses from the experiment. As the performance of the system relies on multiple factors from different disciplines, the only viable solution is to optimize the performance in each area. Hence, a top-down approach was used in developing this system.&lt;/p&gt;
+&lt;p&gt;The implementations of the new generation of hardware system design and firmware structure are presented in this dissertation. The calibration of the system, which is one of the most important factors to minimize the estimation error to the system, is also discussed in details. A practical approach using sequential Monte Carlo method with hyper-dimensional statistical geometry is taken to develop the algorithm for recursive estimation with quaternions.&lt;/p&gt;
+&lt;p&gt;An analysis conducted from a simulation study provides insights to the capability of the new algorithms. An extensive testing and experiments was conducted with robotic manipulator and free hand human motion to demonstrate the improvements with the new generation of inertial tracker and the accuracy and stability of the algorithm. In addition, the tracking unit is used to demonstrate the potential in multiple biomedical applications including kinematics tracking and diagnosis instrumentation.&lt;/p&gt;
+&lt;p&gt;The inertial tracking technologies presented in this dissertation is aimed to use specifically for human motion tracking. The goal is to integrate this technology into the next generation of medical diagnostic system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1592</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2746&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1592</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2746</articleid>
+<submission-date>2012-10-31T06:42:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3435970</context-key>
+<submission-path>utk_graddiss/1592</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard Komistek, William Hamel, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

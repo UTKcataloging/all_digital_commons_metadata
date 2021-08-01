@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Low-Voltage Bulk-Driven Amplifier Design and Its Application in Implantable Biomedical Sensors</title>
+<publication-date>2012-04-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lzuo1@utk.edu</email>
+<lname>Zuo</lname>
+<fname>Liang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Low voltage</keyword>
+<keyword>Low power</keyword>
+<keyword>Biomedical</keyword>
+</keywords>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;The powering unit usually represents a significant component of the implantable biomedical sensor system since the integrated circuits (ICs) inside for monitoring different physiological functions consume a great amount of power. One method to reduce the volume of the powering unit is to minimize the power supply voltage of the entire system. On the other hand, with the development of the deep sub-micron CMOS technologies, the minimum channel length for a single transistor has been scaled down aggressively which facilitates the reduction of the chip area as well. Unfortunately, as an inevitable part of analytic systems, analog circuits such as the potentiostat are not amenable to either low-voltage operations or short channel transistor scheme. To date, several proposed low-voltage design techniques have not been adopted by mainstream analog circuits for reasons such as insufficient transconductance, limited dynamic range, etc. Operational amplifiers (OpAmps) are the most fundamental circuit blocks among all analog circuits. They are also employed extensively inside the implantable biosensor systems. This work first aims to develop a general purpose high performance low-voltage low-power OpAmp. The proposed OpAmp adopts the bulk-driven low-voltage design technique. An innovative low-voltage bulk-driven amplifier with enhanced effective transconductance is developed in an n-well digital CMOS process operating under 1-V power supply. The proposed circuit employs auxiliary bulk-driven input differential pairs to achieve the input transconductance comparable with the traditional gate-driven amplifiers, without consuming a large amount of current. The prototype measurement results show significant improvements in the open loop gain (A&lt;sub&gt;O&lt;/sub&gt;) and the unity-gain bandwidth (UGBW) compared to other works. A 1-V potentiostat circuit for an implantable electrochemical sensor is then proposed by employing this bulk-driven amplifier. To the best of the author’s knowledge, this circuit represents the first reported low-voltage potentiostat system. This 1-V potentiostat possesses high linearity which is comparable or even better than the conventional potentiostat designs thanks to this transconductance enhanced bulk-driven amplifier. The current consumption of the overall potentiostat is maintained around 22 microampere. The area for the core layout of the integrated circuit chip is 0.13 mm&lt;sup&gt;2&lt;/sup&gt; for a 0.35 micrometer process.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1376</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2529&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1376</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2529</articleid>
+<submission-date>2012-04-03T21:47:55-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2529/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2722688</context-key>
+<submission-path>utk_graddiss/1376</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeremy Holleman, Benjamin J. Blalock, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-04-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

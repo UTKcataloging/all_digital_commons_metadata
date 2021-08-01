@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improvements in a Hybrid Stochastic/Deterministic Method for Transient Three-Dimensional Neutron Transport</title>
+<publication-date>1996-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bentley</lname>
+<fname>Charles</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This research develops an improved methodology (and corresponding code) for solving the time-dependent, three-dimensional Boltzmann Transport Equation with explicit representation of delayed neutrons. These improvements are incorporated in a modified version of the code TDKENO, entitled TDKENO-M. Specifically, these improvements are:&lt;/p&gt;
+&lt;p&gt;1. Incorporate the improved quasistatic methodology into an existing quasistatic framework. Specifically, include the flux shape derivative in the fixed source term instead of being neglected. Also, compute the point kinetics parameters deterministically by their inner product definitions.&lt;/p&gt;
+&lt;p&gt;2. Incorporate a hierarchy of three different integration time intervals for the numerical solution of the coupled set of ordinary differential equations. The shape function is assumed to vary linearly over the largest time interval. The second largest time interval is used for determining the point kinetics parameters. Finally, the smallest time step is used for solving the point kinetics equations.&lt;/p&gt;
+&lt;p&gt;3. Apply TDKENO-M to benchmark problems to determine the accuracy of the method. Particularly, TDKENO-M is applied to one- and three-dimensional benchmark problems to evaluate its neutronic capabilities.&lt;/p&gt;
+&lt;p&gt;4. Combine input requirements into a single input file so that TDKENO-M is less cumbersome to execute.&lt;/p&gt;
+&lt;p&gt;5. Develop the ability to restart a calculation at an intermediate problem time.&lt;/p&gt;
+&lt;p&gt;6. Develop a &quot;user-friendly&quot; manual for using TDKENO-M which describes in detail the input requirements as well as the output files, subroutines, modules, and the calculational flow.&lt;/p&gt;
+&lt;p&gt;Results show that TDKENO-M is quite accurate in comparison with benchmark calculations (less than 2% error in power trace for ANL Benchmark 16-A1) with as much as a factor of 500 reduction in CPU time relative to TDKENO.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2527</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3928&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2527</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3928</articleid>
+<submission-date>2013-11-26T12:46:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4857005</context-key>
+<submission-path>utk_graddiss/2527</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>H. L. Dodds</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. F. Miller, R. E. Pevey, M. Pace</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1996-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1996-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

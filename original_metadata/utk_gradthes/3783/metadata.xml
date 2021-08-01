@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Application of Nuclear Fuel Cycle Simulators for Evaluating Potential Fuel Cycle Options</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jlittell3@gmail.com</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Littell</lname>
+<fname>Jennifer</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>nuclear fuel cycle</keyword>
+<keyword>ORIGEN</keyword>
+<keyword>Cyclus</keyword>
+<keyword>ORION</keyword>
+</keywords>
+<abstract>&lt;p&gt;The Nuclear Fuel Cycle Evaluation and Screening Study was chartered by the DOE in order to weigh the relative benefits and challenges of potential future fuel cycle options. In order to efficiently implement these alternative fuel cycles, the transition from the current once-through cycle to the most promising of these potential fuel cycles must also be analyzed. This analysis requires the use of fuel cycle simulators which have the capability to quickly calculate the mass flows between numerous facilities over hundreds of years. In this work, Cyclus and ORION have both been utilized to simulate transitions from the current once-through fuel cycle to one which involves fast reactors with continuous reprocessing of spent fuel. This transition was found to take approximately 140 years while staying within the constraints of maintaining the mass of excess plutonium in storage below 100 tonnes, introducing fast reactors gradually in the first years, and waiting until 2050 to begin reprocessing. Before completing this transition analysis, Cyclus was also used to create a handful of less sophisticated simulations in order to demonstrate its range of capabilities.&lt;/p&gt;
+&lt;p&gt;In addition to using Cyclus to contribute to the Evaluation and Screening Study, this work contains the beginning of an ORIGEN-based repository of modules for use with Cyclus. This repository, called CyBORG, incorporates ORIGEN&#39;s isotopic depletion and decay calculations directly into Cyclus. The first module added to CyBORG is a reactor facility which uses ORIGEN to calculate its spent fuel isotopics based on reactor specifications from the user such as assembly type, fresh fuel recipe, and power capacity. By creating problem-specific cross section libraries for the depletion calculations, combined with ORIGEN&#39;s capability to track more than 2000 isotopes, accurate spent fuel isotopics can be created which will reflect how any changes to the system affect the availability of fissile material.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3783</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5130&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3783</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5130</articleid>
+<submission-date>2016-02-26T13:08:25-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8226045</context-key>
+<submission-path>utk_gradthes/3783</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven E. Skutnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ivan G. Maldanado, Ondrej Chvala</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

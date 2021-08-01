@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Confinement Effects of Solvation on a Molecule Physisorbed on a Metal Particle</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jtande@utk.edu</email>
+<lname>Fosso Tande</lname>
+<fname>Jacob</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Confinement</keyword>
+<keyword>Physisorption</keyword>
+<keyword>Solvation</keyword>
+<keyword>Spin splitting</keyword>
+<keyword>Polarizability</keyword>
+<keyword>biradical</keyword>
+</keywords>
+<disciplines><discipline>Biological and Chemical Physics</discipline>
+<discipline>Materials Chemistry</discipline>
+<discipline>Physical Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;We describe and present results of the implementation of the surface and volume polarization for electrostatics~(SVPE) and the iso-density surface solvation models. Unlike most other implementation of the solvation models where the solute and the solvent are described with multiple numerical representation, our implementation uses a multiresolution, adaptive multiwavelet basis to describe both solute and the solvent. This requires reformulation to use integral equations throughout as well as a conscious management of numerical properties of the basis.&lt;/p&gt;
+&lt;p&gt;Likewise, we investigate the effects of solvation on the static properties of a molecule physisorbed on a spherical particle, modeled as a polarizable continuum colloid with a static dielectric constant. The effective polarizability of the physisorbed molecule is enhanced by a factor of 10&lt;sup&gt;5&lt;/sup&gt; in vacuo and by only 10&lt;sup&gt;2&lt;/sup&gt; when solvated. The variation of the polarizability of the molecules with respect to the changes in their environment illustrates the importance of electrostatic interaction in the enhancement of the effective polarizability.&lt;/p&gt;
+&lt;p&gt;Finally, we investigated the optical properties of 1.4-phenylenedinitrene and 4,4&#39;-stilbenedinitrene biraradical molecules. Using our computational model, we establish the structure property relationship in biradical organic compounds. The spin splitting is shown to be inversely proportional to the separation between the two spin carrying centers and is partly driven by the Coulombic interaction. The intense peaks on the absorption spectra is the result of the mixing of transitions from the spin carrying centers with those of pi origin.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1582</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2736&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1582</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2736</articleid>
+<submission-date>2012-10-24T07:17:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3420643</context-key>
+<submission-path>utk_graddiss/1582</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Harrison</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert J. Hinde, Charles Feigerle, Bobby G. Sumpter</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

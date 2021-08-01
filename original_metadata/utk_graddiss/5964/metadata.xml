@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Problem-Specific Nuclide-Transition Selection for Reduced Order Modeling</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sricha31@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Richards</lname>
+<fname>Scott</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Micro-Depletion</keyword>
+<keyword>Reduced Order Modeling</keyword>
+<keyword>Transition System</keyword>
+</keywords>
+<abstract>&lt;p&gt;A method for automated library reduction for the nuclide generation code Origen was developed for increased computational efficiency.  The requirement for a reduced burnup chain micro-depletion code has been identified in many code frameworks in fuel cycles, neutronics, and nonproliferation where the increased accuracy of a micro-depletion code with hundreds, if not thousands, of nuclides is needed.  These large library inventories result in relatively large memory requirements and runtimes that become burdensome within codes that require many depletion zones and/or depletion substeps per time step.  However, the tracked nuclides do not equally contribute to the problem, and therefore a subset of the total nuclides can be removed from the system with little loss of accuracy.  To do this in a generalized manner the application for the libraries need to be considered.  To this end a number of metrics are available to measure library accuracy for a given problem, such as depletion inventory, total activity, gamma dose, decay heat, and individual nuclide inventory.  Using these metrics, and their sensitivities to nuclide inventories, it is possible to reduce Origen&#39;s full inventory of thousands of nuclides to several hundred nuclides while only affecting the metric of interest by less than 1 pcm (per cent mille or 10^(-5)).  The method for this problem specific reduction relies on maintaining the physical meaning of the transition system to the highest degree reasonable. This means maintaining the integrity of the subsystem in relation to its behavior within the full system.  Though a number of methods to achieve this have been studied, with varying degrees of success, the most successful method is one that takes a layered approach.  This method makes an estimate of the final system through the cutting planes method then makes successive corrections to that estimate in each layer to account for the physical behavior of truncating the transition system that is not present in standard system problems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5964</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7750&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5964</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7750</articleid>
+<submission-date>2021-01-24T14:18:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>21246618</context-key>
+<submission-path>utk_graddiss/5964</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steve Skutnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ivan Maldonado, James Ostrowski, Ondrej Chvala</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/https://orcid.org/0000-0001-8290-6751</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

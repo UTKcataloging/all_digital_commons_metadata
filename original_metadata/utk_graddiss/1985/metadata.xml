@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Stability Analysis of Linear Dynamical Systems with Time-Delays</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kamath</lname>
+<fname>Ajeet</fname>
+<mname>Ganesh</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Time-delay systems, which are also sometimes known as hereditary systems or systems with memory, aftereffects or time-lag, represent a class of infinite-dimensional systems, and are used to describe, among other types of systems, propagation and transport phenomena, population dynamics, economic systems, communication net- works and neural network models. A key method for the stability analysis of time- delay dynamical systems is the Lyapunov’s second method, applied to functional differential equations. Specifically, stability of a given linear time-delay dynamical system is typically shown using a Lyapunov-Krasovskii functional, which involves a quadratic part and an integral part. The quadratic part is usually associated with the stability of the forward delay-independent part of the retarded dynamical system, but the integral part of the functional is less understood. We present a concrete method of arriving at the Lyapunov-Krasovskii functional using dissipativity theory. The stability analysis of time-delay systems has been mainly classified into two categories: &lt;em&gt;delay-dependent&lt;/em&gt; and &lt;em&gt;delay-independent&lt;/em&gt; analysis. Delay-independent stability criteria provide sufficient conditions for stability of time-delay dynamical systems in- dependent of the amount of delay, whereas delay-dependent stability criteria provide sufficient conditions that are dependent on an upper bound of the delay. In systems where the time delay is known to be bounded, delay-dependent criteria usually give far less conservative stability predictions as compared to delay-independent results. Hence, for such systems it is of paramount importance to derive the sharpest possible delay-dependent stability margins. We show how the stability criteria may also be interpreted in the frequency domain in terms of a feedback interconnection of a matrix transfer function and a &lt;em&gt;phase&lt;/em&gt; uncertainty block. We develop and present the general framework for a robust stability analysis method to account for phase uncertainties in linear systems. We present new robust stability results for time-delay systems based on pure phase information, and then, using this approach, we derive new and improved time-domain delay-dependent stability criteria for stability analysis of both retarded and neutral type time-delay systems, which we then compare with existing results in the literature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1985</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3416&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1985</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3416</articleid>
+<submission-date>2013-09-20T13:39:28-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4610165</context-key>
+<submission-path>utk_graddiss/1985</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>VijaySekhar Chellaboina</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Dongjun Lee, Seddik M. Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-11-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

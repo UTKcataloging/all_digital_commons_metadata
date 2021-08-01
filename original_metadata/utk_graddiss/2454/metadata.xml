@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of Wireless Communication Networks for Cyber-Physical Systems with Application to Smart Grid</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rmao@utk.edu</email>
+<lname>Mao</lname>
+<fname>Rukun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wireless Communication Networks</keyword>
+<keyword>Cyber-Physical Systems</keyword>
+</keywords>
+<disciplines><discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Cyber-Physical Systems (CPS) are the next generation of engineered systems in which computing, communication, and control technologies are tightly integrated. On one hand, CPS are generally large with components spatially distributed in physical world that has lots of dynamics; on the other hand, CPS are connected, and must be robust and responsive. Smart electric grid, smart transportation system are examples of emerging CPS that have significant and far-reaching impact on our daily life.&lt;/p&gt;
+&lt;p&gt;In this dissertation, we design wireless communication system for CPS. To make CPS robust and responsive, it is critical to have a communication subsystem that is reliable, adaptive, and scalable. Our design uses a layered structure, which includes physical layer, multiple access layer, network layer, and application layer. Emphases are placed on multiple access and network layer. At multiple access layer, we have designed three approaches, namely compressed multiple access, sample-contention multiple access, and prioritized multiple access, for reliable and selective multiple access. At network layer, we focus on the problem of creating reliable route, with service interruption anticipated. We propose two methods: the first method is a centralized one that creates backup path around zones posing high interruption risk; the other method is a distributed one that utilizes Ant Colony Optimization (ACO) and positive feedback, and is able to update multipath dynamically. Applications are treated as subscribers to the data service provided by the communication system. Their data quality requirements and Quality of Service (QoS) feedback are incorporated into cross-layer optimization in our design. We have evaluated our design through both simulation and testbed. Our design demonstrates desired reliability, scalability and timeliness in data transmission. Performance gain is observed over conventional approaches as such random access.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2454</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2941&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2454</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2941</articleid>
+<submission-date>2013-03-22T09:51:59-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3944036</context-key>
+<submission-path>utk_graddiss/2454</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Seddik M. Djouadi, Qing Cao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

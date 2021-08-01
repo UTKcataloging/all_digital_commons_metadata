@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computer Implemented Synthesis of Multiple Level Combinational Networks</title>
+<publication-date>1970-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Caldwell</lname>
+<fname>Alfredo</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this investigation has been to implement, in the form of computer programs, two algorithms which are used in the synthesis of multiple level combinational networks. The algorithms implemented were devised by Professor Paul E. Wood, Jr., of M.I.T., and by Professor Eugene L. Lawler, of The University of Michigan. In the course of the investigation a more efficient way of implementing the two algorithms was discovered. The combined version of the algorithms takes advantage of the best features of the original algorithms.&lt;/p&gt;
+&lt;p&gt;In the synthesis of multiple level combinational networks minimal complexity is high desirable. The whole point of minimizing a network is that this leads to lower manufacturing cost, greater ease of construction, and greater reliability for the electronic circuit being designed.&lt;/p&gt;
+&lt;p&gt;The computer programs which were developed to implement the algorithms can minimize Boolean expressions with as many as seven variables. Theoretically, there is no limit to the number of variables per expression that can be minimized by these algorithms. But when an expression has more than seven variables, the processing time increases dramatically, and for this reason this number was set as a limit.&lt;/p&gt;
+&lt;p&gt;The final solutions obtained from the compute programs are minimal two and three level multiple-input single-output Boolean expressions which realize a given set of conditions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4933</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6376&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4933</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6376</articleid>
+<submission-date>2018-01-22T13:55:19-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>11402700</context-key>
+<submission-path>utk_gradthes/4933</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert E. Bodenheimer</value>
+</field>
+<field name="advisor2" type="string">
+<value>Harvey P. Carter, Randall E. Cline</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1970-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1970-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

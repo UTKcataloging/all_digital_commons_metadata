@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Obtaining High Precision Results from Low Precision Hardware</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Graham</lname>
+<fname>Adam</fname>
+<mname>Donald</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This document describes an attempt at acheiving high precision matrix multiplication results from the Lenslet EnLight256 Optical Signal Processor (OSP), which on its own can only produce results which are hardware limited to 8-bit signed integers. Due to it’s low precision, it’s has only limited applicability to real world problems, and if higher precision results were possible from the machine it could be used for more applications. A C library is developed for this thesis to allow high-precision results from the EnLight256.  The library is described and results are given. Finally an implementation of the Jacobi Method on the EnLight256 is given as an example of the library being used in a real world scenario.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1917</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3274&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1917</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3274</articleid>
+<submission-date>2013-09-20T13:39:01-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4610290</context-key>
+<submission-path>utk_gradthes/1917</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael D. Vose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce MacLennan, David Straight</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

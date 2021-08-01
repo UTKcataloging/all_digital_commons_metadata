@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assessment and Redesign of the Synoptic Water Quality Monitoring Network in the Great Smoky Mountains National Park</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Odom</lname>
+<fname>Kenneth</fname>
+<mname>Ray</mname>
+</author>
+</authors>
+<disciplines><discipline>Civil and Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study was to assess and redesign an existing 83-site synoptic water quality monitoring network in the Great Smoky Mountains National Park. The study involved a spatial analysis of water quality data (pH, ANC, conductivity, chloride, nitrate, sulfate, sodium, and potassium), watershed characteristics (geology, morphology, and vegetation), and collocated site information to determine which sites were redundant and a temporal analysis to determine the effectiveness of the current sampling frequency to detect long-term trends. The spatial analysis employed a simulated annealing algorithm using the variable costs of the network and the results of multivariate data techniques to identify an optimized subset of the existing sampling sites based on a maximization of benefits. A second simulated annealing algorithm was created to identify optimum user-defined monitoring networks of n sites and to validate the results of the first simulated annealing program. The first simulated annealing program identified an optimized network consisting of 67 of the existing 83 sampling sites. The second simulated annealing algorithm bracketed the same 67 sites and also provided a basis for an ordered discontinuation of sampling sites by identifying the best ten-site monitoring network through the best 70-site monitoring network. The temporal analysis employed the “effective” sample method, Sen&#39;s slope estimator, Mann-Kendall test for trend, and a boxplot analysis to determine the effectiveness and the power of the current sampling frequency to detect long-term trends. The results showed that the current sampling frequency of four samples per year presents a low statistical power for short historical records. However, increasing the v sampling frequency to more than 12 samples per year creates serial dependence between samples. By combining the results of the spatial and temporal analyses a new network is proposed by dividing the network into primary, secondary, and tertiary sites with sampling frequencies of six and 12 samples per year. Seventeen new sites are also proposed to collect additional data above 3000 feet MSL because the existing number of sampling sites is not proportional to park area in certain elevation ranges.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2193</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3645&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2193</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3645</articleid>
+<submission-date>2013-10-08T09:24:09-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4683220</context-key>
+<submission-path>utk_graddiss/2193</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>R. Bruce Robinson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Chris D. Cox, William Seaver, Bruce A. Tschantz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

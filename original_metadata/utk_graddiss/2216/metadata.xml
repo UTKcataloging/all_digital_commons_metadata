@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Convergence and Robustness Issues in Computational Fluids</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zeng</lname>
+<fname>Xiaoqiang</fname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The present research develops two methods to improve the convergence and robustness of CFL algorithm, the triple time method and error- limited time step ramping method.&lt;/p&gt;
+&lt;p&gt;A general formulation of the triple time scheme is developed by introducing three pseudo time-marching steps to control three preconditionings for artificial dissipation, non-linear equation iteration convergence and linear equation iteration convergence separately. It is proven that the triple time method can be degenerated to the single time method and the multiple DDLGS iteration method at special cases.&lt;/p&gt;
+&lt;p&gt;Stability analysis is used to choose the optimum combination of three preconditionings from the steady preconditioning, the physical and the unsteady preconditioning matrices, and show that the system with unsteady preconditioning for artificial dissipation and linear equation convergence, and physical Jacobian matrix for the non-preconditioning (UPU) gives slightly better stability results than the other systems. The stability results for the ‘UPU’ triple time system are presented. Some computation results for the linear problem of straight duct flow are given and show a good match with the stability results.&lt;/p&gt;
+&lt;p&gt;The CPU time saving and the storage cost of triple time method over the single time method are analyzed. The analytical results show that the CPU time per inner iteration is proportional to the square of the number of equations of the system while the CPU time per outer iteration is proportional the cube o f the number of equations, and the storage of the triple time costs about four times more than the single time. Some computational results are presented to support the analytical results. The computational results show that the triple time method gains a factor between two and three over the single time in CPU time.&lt;/p&gt;
+&lt;p&gt;The robustness of the triple time method is tested and compared with the single time method for the straight duct flow, choked nozzle flow and non-choked nozzle flow. The results show a good improvement of triple time scheme over the single time scheme in robustness for all three cases.&lt;/p&gt;
+&lt;p&gt;Finally, the error- limited time step ramping method is used to improve the convergence and robustness. A detailed overview of this method is introduced. Some analytical and computational results are provided to prove the feasibility of this method by showing that the implicit error is always less than or equal to the explicit error. Some computational results for the straight duct uniform flow show that the error- limited time step ramping method has improvement in both convergence and robustness.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2216</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3693&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2216</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3693</articleid>
+<submission-date>2013-10-09T12:45:22-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4689752</context-key>
+<submission-path>utk_graddiss/2216</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles L. Merkle</value>
+</field>
+<field name="advisor2" type="string">
+<value>Basil Antar, Kenneth R. Kimble, Joe Majdalani</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

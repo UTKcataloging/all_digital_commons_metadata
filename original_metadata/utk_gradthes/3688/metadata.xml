@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extending Hardware Based Mandatory Access Controls to Multicore Architectures</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sharp</lname>
+<fname>Brian</fname>
+<mname>Lewis</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Memory based vulnerabilities have plagued the computer industry since the release of the Morris worm twenty years ago. In addition to buffer overflow attacks like the Morris worm, format strings, ret-libC, and heap double free() viruses have been able to take advantage of pervasive programming errors. A recent example is the unspecified buffer overflow vulnerability present in Mozilla Firefox 3.0. From the past one can learn that these coding mistakes are not waning. A solution is needed that can close off these security shortcomings while still being of minimal impact to the user. Antivirus software makers continuously overestimate the lengths that the everyday user is willing to go to in order to protect his or her system. The ideal protection scheme will be of little or no inconvenience to the user. A technique that fits this niche is one that is built into the hardware. Typical users will never know of the added protection they&#39;re receiving because they are getting it by default. Unlike the NX bit technology in modern x86 machines, the correct solution should be mandatory and uncircumventable by user programs. The idea of marking memory as non-executable is maintained but in this case the granularity is refined to the byte level. The standard memory model is extended by one bit per byte to indicate whether the data stored there is trusted or not. While this design is not unique in the architecture field, the issues that arise from multiple processing units in a single system causes complications. Therefore, the purpose of this work is to investigate hardware based mandatory access control mechanisms that work in the multicore paradigm. As a proof of concept, a buffer overflow style attack has been crafted that results in an escalation of privileges for a nonroot user. While effective against a standard processor, a CPU modified to include byte level tainting successfully repels the attack with minimal performance overhead.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3688</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5026&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3688</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5026</articleid>
+<submission-date>2016-02-11T08:35:02-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8131410</context-key>
+<submission-path>utk_gradthes/3688</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Greg Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. David Icove, Dr. David Straight</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

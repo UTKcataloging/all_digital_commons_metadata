@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Open Core System-on-chip Platform</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Srivastava</lname>
+<fname>Rishi</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The design cycle required to produce a System-on-Chip can be reduced by providing pre-designed built-in features and functions such as configurable I/O, power and ground grids, block RAMs, timing generators and other embedded intellectual property (IP) blocks. A basic combination of such built-in features is known as a &lt;strong&gt;platform&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The major objective of this thesis was to design and implement one such System-on-Chip platform using open IP cores targeting the TSMC-0.18 CMOS process.&lt;/p&gt;
+&lt;p&gt;The integrated System-on-Chip platform, which contains approximately four million transistors, was synthesized using Synopsys - Design Compiler and placed and routed using Cadence - First Encounter, Silicon Ensemble. Design verification was done at the pre-synthesis, post-synthesis and post-layout levels using Mentor Graphics - ModelSim. Final layout was imported into Cadence - Virtuoso to perform design rule check.&lt;/p&gt;
+&lt;p&gt;A tutorial was written to enable others to create derivative designs of this platform quickly.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2229</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3625&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2229</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3625</articleid>
+<submission-date>2013-10-11T08:01:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4697245</context-key>
+<submission-path>utk_gradthes/2229</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Chandra Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

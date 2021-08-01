@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hardware Design and Implementation of Role-Based Cryptography</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fields</lname>
+<fname>Scott</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Traditional public key cryptographic methods provide access control to sensitive data by allowing the message sender to grant a single recipient permission to read the encrypted message. The Need2Know® system (N2K) improves upon these methods by providing role-based access control. N2K defines data access permissions similar to those of a multi-user file system, but N2K strictly enforces access through cryptographic standards. Since custom hardware can efficiently implement many cryptographic algorithms and can provide additional security, N2K stands to benefit greatly from a hardware implementation. To this end, the main N2K algorithm, the Key Protection Module (KPM), is being specified in VHDL. The design is being built and tested incrementally: this first phase implements the core control logic of the KPM without integrating its cryptographic sub-modules. Both RTL simulation and formal verification are used to test the design. This is the first N2K implementation in hardware, and it promises to provide an accelerated and secured alternative to the software-based system. A hardware implementation is a necessary step toward highly secure and flexible deployments of the N2K system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1880</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3236&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1880</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3236</articleid>
+<submission-date>2013-09-19T10:22:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4601677</context-key>
+<submission-path>utk_gradthes/1880</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Don Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory Peterson, Itamar Elhanany</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

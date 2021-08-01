@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Flatness-Based Control Methodologies to Improve Frequency Regulation in Power Systems with High Penetration of Wind</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mhassani@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hassani Variani</lname>
+<fname>Maryam</fname>
+</author>
+</authors>
+<keywords>
+<keyword>power system</keyword>
+<keyword>flat systems</keyword>
+<keyword>frequency regulation</keyword>
+<keyword>wind power</keyword>
+<keyword>DFIG</keyword>
+<keyword>Control</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;To allow for high penetration of distributed generation and alternative energy units, it is critical to minimize the complexity of generator controls and to minimize the need for close coordination across regions. We propose that existing controls be replaced by a two-tier structure of local control operating within a global context of situational awareness. Flatness as an extension of controllability for non-linear systems is a key to enabling planning and optimization at various levels of the grid in this structure. In this study, flatness-based control for: one, Automatic Generation Control (AGC) of a multi-machine system including conventional generators; and two, Doubly fed Induction Machine (DFIG) is investigated. In the proposed approach applied to conventional generators, the local control tracks the reference phase, which is obtained through economic dispatch at the global control level. As a result of applying the flatness-based method, an $n$ machine system is decoupled into n linear controllable systems in canonical form. The control strategy results in a distributed AGC formulation which is significantly easier to design and implement relative to conventional AGC. Practical constraints such as generator ramping rates can be considered in designing the local controllers. The proposed strategy demonstrates promising performance in mitigating frequency deviations and the overall structure facilitates operation of other non-traditional generators. For DFIG, the rotor flux and rotational speed are controlled to follow the desired values for active and reactive power control. Different control objectives, such as maximum power point tracking (MPPT), voltage support or curtailing wind to contribute in secondary frequency regulation, can be achieved in this two-level control structure.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3137</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4248&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3137</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4248</articleid>
+<submission-date>2014-06-20T23:26:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5711224</context-key>
+<submission-path>utk_graddiss/3137</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Seddik M. Djouadi, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

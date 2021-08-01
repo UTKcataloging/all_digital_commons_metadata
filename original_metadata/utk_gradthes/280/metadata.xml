@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Energy Harvesting using Optimized Piezoelectric Microcantilevers</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Elalfy</lname>
+<fname>Ahmed</fname>
+<mname>Mohamed</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, the energy producing capabilities and efficiency of Piezoelectric materials for ambient energy harvesting from multi-layered micro-cantilevers are analyzed. The cantilevers are then optimized utilizing a homogenization approach involving the redistribution of materials in all regions throughout the three dimensional model to yield the greatest voltage output for a specified tip force under static loading; This would be analogous to having the greatest energy production. The design of the model using the Finite Element Analysis (FEA) software ABAQUS is used in conjunction with a commercial FORTRAN optimization code, where the FEA software handles the mechanical design aspect of creating the model and determining nodal voltage quantities and the FORTRAN code executes the optimization procedure for maximizing the Voltage production. The optimization uses a Sequential Quadratic Programming (SQP) algorithm. An optimal case is found and its topology follows the expected tapered shape.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/280</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1313&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>280</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1313</articleid>
+<submission-date>2010-02-11T08:22:09-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1140649</context-key>
+<submission-path>utk_gradthes/280</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arnold Lumsdaine</value>
+</field>
+<field name="advisor2" type="string">
+<value>S. Islam, J. Landes</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/Theses/ElalfyAhmed.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

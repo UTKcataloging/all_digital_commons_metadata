@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Strategies for Identifying the Optimal Length of K-mer in a Viral Phylogenomic Analysis using Genomic Alignment-free Method</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qzhang24@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Qian</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Whole genome sequencing has been rapidly developed and widely used, made possible by exponentially decreasing cost and computational advances in biological sequence analysis. Massive amount of viral sequences has been produced. By Oct 2016, over 102,000 of records has been archived in NCBI Viral Genome Project and 7730 genomes are RefSeq genomes. To better understand viral classification, phylogenomic analysis, which based on whole-genome information, provides the possibility of reconstructing a “tree of life”. However, there are difficulties to apply phylogenomic methods to large-scale viral genomes. In this study, we designed a 3-step strategy for identifying the optimal length of K-mer in a viral phylogenomic analysis using genomic alignment-free method. These three steps include: 1) Cumulative Relative Entropy, 2) Average Number of Common Features among genomes, and 3) Shannon Diversity Index. A dendrogram of 3905 RefSeq viral genomes has also been constructed by using the optimal K = 9. The resulting dendrogram shows consistency with the viral taxonomy and the Baltimore classification of viruses.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4318</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5552&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4318</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5552</articleid>
+<submission-date>2016-10-07T12:36:50-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9244889</context-key>
+<submission-path>utk_gradthes/4318</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dave Ussery</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mike Leuze, Colleen Jonsson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

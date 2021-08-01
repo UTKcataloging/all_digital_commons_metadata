@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Analysis of a Wide Loop-Bandwidth RF Synthesizer Using Ring oscillator For DECT Receiver</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Rahman</lname>
+<fname>Md.</fname>
+<mname>Hafijur</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;Wireless communication devices including cordless phones and modern digital cellular systems (DCSs) use portable transceiver systems. The frequency synthesis of this type of transceiver system is done using a phase-locked loop oscillator. Traditional on-chip implementation of a complete phase-locked loop using a ring type voltage controlled oscillator contributes higher noise at the output. An alternative architecture, phase-locked loop (PLL) with wide loop-bandwidth, is proposed in this research to suppress the noise from the traditional ring oscillator. The proposed PLL is amendable to on-chip integration as well as commercially suitable for a Digital Enhancement Cordless Telephone (DECT) system which needs flexible noise margin.&lt;/p&gt;
+&lt;p&gt;In this research, a 1.5552 GHz PLL-based frequency synthesizer is designed with a noisy ring oscillator. The wide loop-bandwidth approach is applied in designing the PLL to suppress the VCO noise. In this type of frequency synthesizer, the frequency divider is operated at higher frequencies with less noise and care is taken to design the delay flip-flops and logic gates that can be operated at higher frequencies. Current-mode control can be employed in designing the logic gates and the delay flip-flop to enhance the speed performance of the divider. An alternate approach in designing a high-speed divider using a current-mode control approach is also presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4321</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5735&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4321</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5735</articleid>
+<submission-date>2017-02-03T12:16:28-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9626896</context-key>
+<submission-path>utk_gradthes/4321</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Donald W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

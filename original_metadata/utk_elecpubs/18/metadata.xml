@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Highly interconnected genes in disease-specific networks are enriched for disease-associated polymorphisms</title>
+<publication-date>2012-06-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Linkoping University</institution>
+<lname>Barrenas</lname>
+<fname>Fredrik</fname>
+</author>
+<author>
+<institution>University of Cambridge</institution>
+<lname>Chavali</lname>
+<fname>Sreenivas</fname>
+</author>
+<author>
+<institution>University of Cambridge</institution>
+<lname>Alves</lname>
+<fname>Alexessander</fname>
+<mname>C.</mname>
+</author>
+<author>
+<institution>University of Cambridge</institution>
+<lname>Coin</lname>
+<fname>Lachlan</fname>
+</author>
+<author>
+<institution>University of Cambridge</institution>
+<lname>Jarvelin</lname>
+<fname>Marjo-Riitta</fname>
+</author>
+<author>
+<institution>University of Gothenburg</institution>
+<lname>Jornsten</lname>
+<fname>Rebecka</fname>
+</author>
+<author>
+<email>langston@eecs.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A</mname>
+</author>
+<author>
+<institution>Imperial College</institution>
+<lname>Ramasamy</lname>
+<fname>Adaikalavan</fname>
+</author>
+<author>
+<email>grogers@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rogers</lname>
+<fname>Gary</fname>
+</author>
+<author>
+<institution>Linköping University</institution>
+<lname>Wang</lname>
+<fname>Hui</fname>
+</author>
+<author>
+<institution>Linköping University</institution>
+<lname>Benson</lname>
+<fname>Michael</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Complex diseases are associated with altered interactions between thousands of genes. We developed a novel method to identify and prioritize disease genes, which was generally applicable to complex diseases.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We identified modules of highly interconnected genes in disease-specific networks derived from integrating gene-expression and protein interaction data. We examined if those modules were enriched for disease-associated SNPs, and could be used to find novel genes for functional studies. First, we analyzed publicly available gene expression microarray and genome-wide association study (GWAS) data from 13, highly diverse, complex diseases. In each disease, highly interconnected genes formed modules, which were significantly enriched for genes harboring disease-associated SNPs. To test if such modules could be used to find novel genes for functional studies, we repeated the analyses using our own gene expression microarray and GWAS data from seasonal allergic rhinitis. We identified a novel gene, &lt;em&gt;FGF2&lt;/em&gt;, whose relevance was supported by functional studies using combined small interfering RNA-mediated knock-down and gene expression microarrays. The modules in the 13 complex diseases analyzed here tended to overlap and were enriched for pathways related to oncological, metabolic and inflammatory diseases. This suggested that this union of the modules would be associated with a general increase in susceptibility for complex diseases. Indeed, we found that this union was enriched with GWAS genes for 145 other complex diseases.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Modules of highly interconnected complex disease genes were enriched for disease-associated SNPs, and could be used to find novel genes for functional studies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/18</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1022&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>18</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1022</articleid>
+<submission-date>2013-07-15T12:02:51-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4313305</context-key>
+<submission-path>utk_elecpubs/18</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Genome Biology 2012, 13:R46 doi:10.1186/gb-2012-13-6-r46</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Algorithms for Advection on Hybrid Parallel Computers</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>treywhite@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>White</lname>
+<fname>James</fname>
+<mname>Buford</mname>
+<suffix>III</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>linear advection</keyword>
+<keyword>tracer transport</keyword>
+<keyword>semi-Lagrangian</keyword>
+<keyword>high-performance computing</keyword>
+<keyword>linear stability analysis</keyword>
+<keyword>time integration</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+</disciplines><abstract>&lt;p&gt;Current climate models have a limited ability to increase spatial resolution because numerical stability requires the time step to decrease. I describe initial experiments with two independent but complementary strategies for attacking this &quot;time barrier&quot;. First I describe computational experiments exploring the performance improvements from overlapping computation and communication on hybrid parallel computers. My test case is explicit time integration of linear advection with constant uniform velocity in a three-dimensional periodic domain. I present results for Fortran implementations using various combinations of MPI, OpenMP, and CUDA, with and without overlap of computation and communication. Second I describe a semi-Lagrangian method for tracer transport that is stable for arbitrary Courant numbers, along with a parallel implementation discretized on the cubed sphere. It shows optimal accuracy at Courant numbers of 10-20, more than an order of magnitude higher than explicit methods. Finally I describe the development and stability analyses of the time integrators and advection methods I used for my experiments. I develop explicit single-step methods with stability up to Courant numbers of one in each dimension, hybrid explicit-implict methods with stability for arbitrary Courant numbers, and interpolation operators that enable the arbitrary stability of semi-Lagrangian methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1038</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2085&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1038</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2085</articleid>
+<submission-date>2011-03-03T09:20:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1842493</context-key>
+<submission-path>utk_graddiss/1038</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne E Parker, Jian Huang, John B Drake</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

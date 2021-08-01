@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Analysis of a Delta Sigma Modulator for a Fractional N Phase Locked Loop Frequency Synthesizer Operating at 2.4 GHz</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Grundman</lname>
+<fname>Timothy</fname>
+<mname>R</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;With the advances in communications, frequency synthesizers are becoming essential for many different circuits and broadcast bands. This need led to the creation of the fractional N frequency synthesizer. This synthesizer has proven itself to be a great invention allowing for many improvements over similar concepts. However, it only reaches the full extents of its capabilities when it is combined with a Delta Sigma modulator. This combined circuit shows great advances in noise performance and frequency resolution.&lt;/p&gt;
+&lt;p&gt;The fractional N frequency synthesizer is merely an integer N PLL with the ability to change the division ratio. The first attempts to change this ratio used an accumulator which is a first order Delta Sigma modulator. The single order versions were swiftly discarded for higher order models for their better noise performance.&lt;/p&gt;
+&lt;p&gt;Delta Sigma modulators, or DSM, are separated into two architecture types, MASH and MBSL. MASH modulators are easier to build and unconditionally stable. Unfortunately, they create more noise than MBSL and require more output states for the same division ratio. MBSL modulators create less noise; their noise shaping is more flexible and uses less outputs for the same division. However, MBSL modulators are complex and have some unstable inputs.&lt;/p&gt;
+&lt;p&gt;This work steps through the design of a MASH 1-1-1 modulator using its basic equations. Also, it covers the implementation of the circuit on a FPGA board and its testing as part of a frequency synthesizer operating in the 2.4 GHz frequency band. For this work, the Spartan-3 board is used in addition to a PLL built before to create the circuit. The testing is done using a spectrum analyzer to see if the synthesizer creates the right output frequency. Several tests are performed to see the accuracy of the synthesizer over a portion of the frequency band.&lt;/p&gt;
+&lt;p&gt;The circuit proves to be successful, creating frequencies within one percent of its target values. Initial tests without the DSM were around two percent of the target values. The work goes on to describe future projects. The major one to be the creation of a frequency modulated transmitter by using the synthesizer constructed and adding a digital filter to adjust the data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/358</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1392&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>358</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1392</articleid>
+<submission-date>2010-02-15T10:47:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1145774</context-key>
+<submission-path>utk_gradthes/358</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Ethan Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/GrundmanTimothy.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

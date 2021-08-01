@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Flight Test of a Real-Time Energy Management Display</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>iatuahen@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Atuahene</lname>
+<fname>Isaac</fname>
+</author>
+</authors>
+<disciplines><discipline>Aeronautical Vehicles</discipline>
+</disciplines><abstract>&lt;p&gt;A real-time energy management display is developed and evaluated, and the feasibility and utility of the display in providing real-time guidance and information on the aircraft’s energy state was investigated. Flight simulations were conducted with the UTSI Aviation Systems research flight simulator to validate the display and evaluate its utility for flying along constant specific excess power contours, and directly obtaining specific excess power contours from level acceleration flight test. The display was evaluated for flying optimal paths. This study considered the energy state of the aircraft from the point of view of the relation that exists between specific excess power and the forces in flight. The approach yields as one result a cubic function for the specific excess power, P&lt;sub&gt;s&lt;/sub&gt;, of the aircraft. We then directly solve for velocity, V as the control parameter for a given P&lt;sub&gt;s&lt;/sub&gt;, as a function of altitude, H. This technique is then used to build a real-time energy management display that provides guidance and real-time information of the aircraft’s energy state. Flight simulation results proved the display to be successful in obtaining direct P&lt;sub&gt;s&lt;/sub&gt; contours from level acceleration flight tests and in providing guidance for flights along constant P&lt;sub&gt;s&lt;/sub&gt; contours at low airspeeds although it was difficult to keep the P&lt;sub&gt;s&lt;/sub&gt; constant. However flights along zero P&lt;sub&gt;s&lt;/sub&gt; contours and along constant P&lt;sub&gt;s&lt;/sub&gt; contours at very high speeds were not successful. The application of the display in flying optimal paths was also not very successful with the current structure of the display. This was due to the fact that the display’s guidance information is provided in a digital format which is very sensitive, and tracking a number for guidance is nearly impossible.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/15</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1043&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1043</articleid>
+<submission-date>2010-01-14T08:50:21-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1110744</context-key>
+<submission-path>utk_gradthes/15</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stephen Corda</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Uwe Solies, Borja Martos</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

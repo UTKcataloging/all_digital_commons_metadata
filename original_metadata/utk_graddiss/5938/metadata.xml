@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Implementation of Quantum Key Distribution Protocols</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>emoschan@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Moschandreou</lname>
+<fname>Eleftherios</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;As a wide spectrum of the human activity rapidly transitions to a digital environment, the need for secure and efficient communication intensifies. The currently used public key distribution cryptosystems, such as the Rivest-Shamir-Adleman (RSA) protocol, source their security from the computational difficulty of certain mathematical problems. While widely successful, the security these cryptosystems offer remains heuristic and the development of Quantum computers may render them obsolete. The security that Quantum Key Distribution (QKD) guarantees, stems not from the mathematical complexity of the encryption algorithms but from the laws of Quantum Physics. Implementations of QKD protocols, however, rely on imperfect instruments and devices for information encoding, transmission and detection. Device imperfections limit the rate of information exchange and introduce vulnerabilities which can be exploited by a potential eavesdropper. This work explores practical aspects of QKD as it matures beyond proof-of-principle experiments, focusing on the Measurement Device Independent - QKD, a novel Quantum Communication protocol that offers an exceptional balance between security and efficiency. At the heart of the MDI-QKD lies the Hong-Ou-Mandel (HOM) interference which characterizes the indistinguishability of the photon states that the communicating parties independently send. This study examines the HOM interference in a realistic lab environment and concludes that exceptional interference visibility can be achieved using typical commercially available optical devices and detectors, further demonstrating the applicability of the MDI-QKD protocol. An important limiting factor for every Quantum Communication protocol is the transmission medium. Fiber - based optical networks suffer significant losses that prohibit Quantum Communication beyond metropolitan scales. While Free Space communication is an attractive alternative for long distance communication, is susceptible to losses due to the atmospheric Turbulence of the channel. As a means to improve the key generation efficiency, this work examines and experimentally demonstrates the Prefixed-Threshold Real Time Selection (P-RTS) scheme, which improves the free-space communication efficiency by rejecting detections that occur while the channel transmittance drops below a predetermined threshold.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5938</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7724&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5938</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7724</articleid>
+<submission-date>2021-01-24T14:18:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>21246589</context-key>
+<submission-path>utk_graddiss/5938</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>George Siopsis</value>
+</field>
+<field name="advisor2" type="string">
+<value>Stefan Spanier, Thomas Papenbrock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

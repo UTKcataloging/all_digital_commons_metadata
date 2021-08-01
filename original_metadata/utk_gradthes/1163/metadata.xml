@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Method for Performance Analysis of a Ramjet Engine in a Free-jet Test Facility and Analysis of Performance Uncertainty Contributors</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kholst@utk.edu</email>
+<lname>Holst</lname>
+<fname>Kevin Raymond</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ramjet</keyword>
+<keyword>Engine Performance</keyword>
+<keyword>Uncertainty</keyword>
+<keyword>Free-jet</keyword>
+<keyword>Ground Test</keyword>
+</keywords>
+<disciplines><discipline>Other Mechanical Engineering</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Ramjet and scramjet engines are being developed to provide a more fuel efficient means of propulsion at high Mach numbers. Part of the development of these engines involves test and evaluation of an engine in ground facilities as well as in flight. Ground facilities, like Arnold Engineering Development Center (AEDC) and those at engine manufacturers like General Electric (GE) and Pratt &amp; Whitney (PW), have decades of experience testing traditional turbine engines and much less experience testing full scale ramjet engines.&lt;/p&gt;
+&lt;p&gt;Testing a supersonic engine model in a free-jet mode presents a host of challenges not experienced during traditional direct connect turbine engine tests. Characterizing the performance of an engine in a free-jet test facility is a difficult task due in part to the difficulty in determining how much air the engine is ingesting and the spillage, friction and base drag of the engine installation.&lt;/p&gt;
+&lt;p&gt;As more exotic propulsion systems like DARPA’s Falcon Combined Cycle Engine Test (FaCET) article or NASA’s X-43 are developed, there is a greater need for effective ground tests to determine engine performance and operability prior to flight testing. This thesis proposes a method for calculating three key performance parameters (airflow, fuel flow, and thrust) and investigates the uncertainty influences for these calculations.&lt;/p&gt;
+&lt;p&gt;A data reduction method was developed for this thesis to calculate the engine airflow, net thrust, and specific impulse (ISP) in a ground test of a generic ramjet engine in a free-jet test facility. It considered typical measurements for an engine test (pressures, temperatures, fuel flow, scale force, and engine and cowl geometry).&lt;/p&gt;
+&lt;p&gt;Once the code was developed, an uncertainty analysis of the calculations was conducted, starting with a simplified analytical assessment. A common industry accepted uncertainty approach was then used in conjunction with the data reduction code to determine the sensitivity or influence coefficients of the independent measurements on the dependent parameters by the dithering method. These influence coefficients were used to ascertain where measurement improvements could be made to affect the greatest reduction in uncertainty of the predicted engine performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1163</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2250&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1163</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2250</articleid>
+<submission-date>2012-01-03T08:22:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2427716</context-key>
+<submission-path>utk_gradthes/1163</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Basil N. Antar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert W. McAmis, Roy J. Schulz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

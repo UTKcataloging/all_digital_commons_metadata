@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Hydrological Analysis of Switchgrass Land Cover in East Tennessee</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jhayes35@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Hayes</lname>
+<fname>Jordan</fname>
+<mname>Avery</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Switchgrass</keyword>
+<keyword>RUSLE</keyword>
+<keyword>C-factor</keyword>
+<keyword>Curve Number</keyword>
+<keyword>East Tennessee</keyword>
+<keyword>Hydrology</keyword>
+</keywords>
+<disciplines><discipline>Bioresource and Agricultural Engineering</discipline>
+<discipline>Civil and Environmental Engineering</discipline>
+<discipline>Environmental Engineering</discipline>
+<discipline>Hydraulic Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Energy needs and the recent installation of a cellulosic biofuel plant in Vonore, TN have created a demand for switchgrass in East Tennessee. Switchgrass has many strengths such as erosion protection, nutrient removal, and runoff mitigation. The Soil and Water Assessment Tool (SWAT) was selected to model the impact of transitioning traditional crops into switchgrass land cover. Field data was needed to properly calibrate the SWAT model for East Tennessee. The National Resources Conservation Service (NRCS) curve number (CN) was needed for runoff calibrations. This value was determined by both standard NRCS methods as well as an asymptotic method. The NRCS method provided an average CN of 90 for an initial abstraction of 0.20. The asymptotic method determined the CN to be 69, which is much more reasonable compared to published grassland values. The Revised Universal Soil Loss Equation (RUSLE) was used to determine the erosion reduction potential associated with switchgrass. The cropping factor of RUSLE was determined to be 0.0006 for use in SWAT calibration. The calculated C factor is only marginally better at erosion prevention than other grasses when compared against the worst case scenario, unit plot condition. Nutrient export data was also needed to verify the simulation output for switchgrass. Total phosphorus and total nitrogen were selected to validate nutrient export simulations. Total phosphorus was calculated on the range of 0.11 g/Ha to 400 g/Ha and total nitrogen was calculated on the range of 0.0007 g/Ha to 1519g/Ha. The ranges determined from field data matched published values for switchgrass when compared to traditional crops. Values determined for each previously listed strength should be selected for use in SWAT calibrations in East Tennessee.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2718</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4009&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2718</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4009</articleid>
+<submission-date>2014-02-28T12:48:09-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4009/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5238809</context-key>
+<submission-path>utk_gradthes/2718</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John S. Schwartz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel C. Yoder, Jon M. Hathaway</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Environmental Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

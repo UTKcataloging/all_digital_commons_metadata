@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Applications of Genetic Algorithms to a Variety of Problems in Physics and Astronomy</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Williams</lname>
+<fname>Kevin</fname>
+<mname>Richard</mname>
+</author>
+</authors>
+<disciplines><discipline>Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Genetic algorithms are search techniques that borrow ideas from the biological process of evolution. By means of natural selection, genetic algorithms can be employed as robust numerical optimizers on problems that would normally be extremely problematic due to ill-behaved search spaces. The genetic algorithm has an advantage in that it is a &lt;em&gt;global &lt;/em&gt;optimization strategy, as opposed to more conventional methods, which will often terminate at local maxima.&lt;/p&gt;
+&lt;p&gt;The success and resourcefulness of genetic algorithms as problem-solving strategies are quickly gaining recognition among researchers of diverse areas of study. In this thesis I elaborate on applications of a genetic algorithm to several problems in physics and astronomy.&lt;/p&gt;
+&lt;p&gt;First, the concepts behind functional optimization are discussed, as well as several computational strategies for locating optima. The basic ideas behind genetic algorithms and their operations are then outlined, as well as advantages and disadvantages of the genetic algorithm over the previously discussed optimization techniques. Then the results of several applications of a genetic algorithm are discussed. The majority are relatively simple problems (involving the fitting of only one or two parameters) that nicely illustrate the genetic algorithm’s approach to optimization of “fitness,” and its ability to reproduce familiar results. The last two problems discussed are non-trivial and demonstrate the genetic algorithm’s robustness. The first of these was the calculation of the mass of the radio source Sagittarius A*, believed to be a supermassive black hole at the center of the Milky Way, which required that the genetic algorithm find several orbital elements associated with an orbiting star. The results obtained with the genetic algorithm were in good agreement with those obtained by Genzel &lt;em&gt;et al &lt;/em&gt;[19]. Then discussed was the problem of parametrization of thermonuclear reaction rates. This problem is especially interesting because attempts at fitting several rates prior to the implementation of the genetic algorithm proved to be unsuccessful. Some of the rates varied with temperature over many orders of magnitude, and required the genetic algorithm to find as many as twenty-eight parameters. A relatively good fit was obtained for all of the rates.&lt;/p&gt;
+&lt;p&gt;In the applications of genetic algorithms discussed in this thesis, it has been found that they can outperform conventional optimization strategies for difficult, multidimensional problems, and can perform at least as well as conventional methods when applied to more trivial problems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2535</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3824&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2535</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3824</articleid>
+<submission-date>2013-10-18T12:59:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4739913</context-key>
+<submission-path>utk_gradthes/2535</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>M W Guidry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Marianne Breinig, Chia C. Shih</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

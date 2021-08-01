@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>VIBRATION BASED DAMAGE IDENTIFICATION OF TIME-VARYING DYNAMICAL SYSTEMS</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jzhao11@utk.edu</email>
+<lname>Zhao</lname>
+<fname>Jie</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Damage Identification</keyword>
+<keyword>Floquet</keyword>
+<keyword>Frequency response function</keyword>
+<keyword>Harmonic Balance</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis develops and explores two new kinds of vibration-based damage identification methodologies suitable for dynamical systems with periodically time-varying coefficients; 1) a Floquet based method (Methodology I) and, 2) a Sideband Frequency Response Function (FRF) method (Methodology II). One important class of dynamical systems where periodic time-varying parametric terms naturally arise is rotordynamic systems. For the case of a flexible shaft-rotor system with multiple open cracks, this thesis explores a new Least Squares damage identification approach based on Floquet theory with iterative eigenvector estimate updating. It is found that this method is able to detect the location and severity of multiple cracks with the assistance of control inputs from an Active Magnetic Bearing (AMB). However, it is also found that this method could not effectively identify the crack angle. To overcome this shortcoming, the new Sideband FRF based methodology is developed which utilizes the measured changes in transfer function magnitude and phase due to structural damage at the primary and side-band frequencies of the damaged periodically time-varying dynamical system. This method provides the advantages of arbitrary interrogation frequency and multiple inputs/outputs which greatly enriches the dataset for damage identification. This damage identification algorithm utilizes an iterative least square approach combined with a Newton-Raphson technique to estimate the damage parameters. The effectiveness of this method is thoroughly explored for a flexible rotor system and a planar truss both with breathing cracks. In each case, damage estimation is performed using time-domain vibration data taken from full nonlinear simulations of the cracked structures. The results show that this new method successfully estimated the crack depths, locations and angles for the case of multiple simultaneous damages.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1801</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2826&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1801</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2826</articleid>
+<submission-date>2013-01-30T14:28:11-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2826/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3629774</context-key>
+<submission-path>utk_graddiss/1801</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hans A. DeSmidt</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. A. M. Boulet, Seddik M. Djouadi, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reconfigurable RF Front End Components for Multi-Radio Platform Applications</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Chunna</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;The multi-service requirements of the 3G and 4G communication systems, and their backward compatibility requirements, create challenges for the antenna and RF front-end designs with multi-band and wide-band techniques. These challenges include: multiple filters, which are lossy, bulky, and expensive, are needed in the system; device board size limitation and the associated isolation problems caused by the limited space and crowd circuits; and the insertion loss issues created by the single-pole-multi-through antenna switch.&lt;/p&gt;
+&lt;p&gt;As will be shown, reconfigurable antennas can perform portions of the filter functions, which can help solve the multiple filters problem. Additionally, reconfigurable RF circuits can decrease the circuit size and output ports, which can help solve board size limitation, and isolation and antenna switch insertion loss issues.&lt;/p&gt;
+&lt;p&gt;To validate the idea that reconfigurable antennas and reconfigurable RF circuits are a viable option for multi-service communication system, a reconfigurable patch antenna, a reconfigurable monopole antenna, and a reconfigurable power amplifier (PA) have been developed. All designs adapt state-of-the-art techniques.&lt;/p&gt;
+&lt;p&gt;For the reconfigurable antenna designs, an experiment demonstrating its advantages, such as jamming signal resistance, has been performed. Reconfigurable antennas provide a better out-ofoperating- band noise performance than the multi-band antennas design, decreasing the need for filters in the system. A full investigation of reconfigurable antennas, including the single service reconfigurable antenna, the mixed signal service reconfigurable antenna, and the multi-band reconfigurable antenna, has been completed. The design challenges, which include switches investigation, switches integration, and service grouping techniques, have been discussed.&lt;/p&gt;
+&lt;p&gt;In the reconfigurable PA portion, a reconfigurable PA structure has first been demonstrated, and includes a reconfigurable output matching network (MN) and a reconfigurable die design. To validate the proposed reconfigurable PA structure, a reconfigurable PA for a 3G cell phone system has been designed with a multi-chip module technique. The reconfigurable PA structure can significantly decrease the real-estate, cost, and complexity of the PA design. Further, by decreasing the number of output ports, the number of poles for the antenna switch will be decreased as well, leading to an insertion loss decrease.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/88</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1118&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>88</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1118</articleid>
+<submission-date>2009-12-23T12:12:56-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098959</context-key>
+<submission-path>utk_graddiss/88</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E. Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Marshall O. Pace, Thomas T. Meek</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A systematic comparison of genome-scale clustering algorithms</title>
+<publication-date>2012-06-25T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>The Jackson Laboratory</institution>
+<lname>Jay</lname>
+<fname>Jeremy</fname>
+<mname>J.</mname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Eblen</lname>
+<fname>John</fname>
+<mname>D.</mname>
+</author>
+<author>
+<institution>Pioneer Hi-Bred International Incorporated</institution>
+<lname>Zhang</lname>
+<fname>Yun</fname>
+</author>
+<author>
+<institution>Linkoping University</institution>
+<lname>Benson</lname>
+<fname>Mikael</fname>
+</author>
+<author>
+<institution>Mississippi State University</institution>
+<lname>Perkins</lname>
+<fname>Andy</fname>
+<mname>D.</mname>
+</author>
+<author>
+<email>asaxton@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Saxton</lname>
+<fname>Arnold</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>bhvoy@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Voy</lname>
+<fname>Brynn</fname>
+<mname>H.</mname>
+</author>
+<author>
+<institution>The Jackson Laboratory</institution>
+<lname>Chesler</lname>
+<fname>Elissa</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>langston@eecs.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A</mname>
+</author>
+</authors>
+<disciplines><discipline>Animal Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;A wealth of clustering algorithms has been applied to gene co-expression experiments. These algorithms cover a broad range of approaches, from conventional techniques such as &lt;em&gt;k&lt;/em&gt;-means and hierarchical clustering, to graphical approaches such as &lt;em&gt;k&lt;/em&gt;-clique communities, weighted gene co-expression networks (WGCNA) and paraclique. Comparison of these methods to evaluate their relative effectiveness provides guidance to algorithm selection, development and implementation. Most prior work on comparative clustering evaluation has focused on parametric methods. Graph theoretical methods are recent additions to the tool set for the global analysis and decomposition of microarray co-expression matrices that have not generally been included in earlier methodological comparisons. In the present study, a variety of parametric and graph theoretical clustering algorithms are compared using well-characterized transcriptomic data at a genome scale from &lt;em&gt;Saccharomyces cerevisiae&lt;/em&gt;.  &lt;h4&gt;Methods&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;For each clustering method under study, a variety of parameters were tested. Jaccard similarity was used to measure each cluster&#39;s agreement with every GO and KEGG annotation set, and the highest Jaccard score was assigned to the cluster. Clusters were grouped into small, medium, and large bins, and the Jaccard score of the top five scoring clusters in each bin were averaged and reported as the best average top 5 (BAT5) score for the particular method.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Clusters produced by each method were evaluated based upon the positive match to known pathways. This produces a readily interpretable ranking of the relative effectiveness of clustering on the genes. Methods were also tested to determine whether they were able to identify clusters consistent with those identified by other clustering methods.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Validation of clusters against known gene classifications demonstrate that for this data, graph-based techniques outperform conventional clustering approaches, suggesting that further development and application of combinatorial strategies is warranted.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_animpubs/18</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1017&amp;amp;context=utk_animpubs&amp;amp;unstamped=1</fulltext-url>
+<label>18</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1017</articleid>
+<submission-date>2013-07-15T10:54:02-07:00</submission-date>
+<publication-title>Animal Science Publications and Other Works</publication-title>
+<context-key>4313000</context-key>
+<submission-path>utk_animpubs/18</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2012, 13(Suppl 10):S7 doi:10.1186/1471-2105-13-S10-S7</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-25T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

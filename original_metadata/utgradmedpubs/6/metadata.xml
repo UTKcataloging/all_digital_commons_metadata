@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neighborhood disparities in stroke and myocardial infarction mortality: a GIS and spatial scan statistics approach</title>
+<publication-date>2011-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pedigo</lname>
+<fname>Ashley</fname>
+</author>
+<author>
+<lname>Aldrich</lname>
+<fname>Tim</fname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Odoi</lname>
+<fname>Agricola</fname>
+</author>
+</authors>
+<disciplines><discipline>Cardiovascular Diseases</discipline>
+<discipline>Medicine and Health Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Stroke and myocardial infarction (MI) are serious public health burdens in the US. These burdens vary by geographic location with the highest mortality risks reported in the southeastern US. While these disparities have been investigated at state and county levels, little is known regarding disparities in risk at lower levels of geography, such as neighborhoods. Therefore, the objective of this study was to investigate spatial patterns of stroke and MI mortality risks in the East Tennessee Appalachian Region so as to identify neighborhoods with the highest risks.  &lt;h4&gt;Methods&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Stroke and MI mortality data for the period 1999-2007, obtained free of charge upon request from the Tennessee Department of Health, were aggregated to the census tract (neighborhood) level. Mortality risks were age-standardized by the direct method. To adjust for spatial autocorrelation, population heterogeneity, and variance instability, standardized risks were smoothed using Spatial Empirical Bayesian technique. Spatial clusters of high risks were identified using spatial scan statistics, with a discrete Poisson model adjusted for age and using a 5% scanning window. Significance testing was performed using 999 Monte Carlo permutations. Logistic models were used to investigate neighborhood level socioeconomic and demographic predictors of the identified spatial clusters.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;There were 3,824 stroke deaths and 5,018 MI deaths. Neighborhoods with significantly high mortality risks were identified. Annual stroke mortality risks ranged from 0 to 182 per 100,000 population (median: 55.6), while annual MI mortality risks ranged from 0 to 243 per 100,000 population (median: 65.5). Stroke and MI mortality risks exceeded the state risks of 67.5 and 85.5 in 28% and 32% of the neighborhoods, respectively. Six and ten significant (p &lt; 0.001) spatial clusters of high risk of stroke and MI mortality were identified, respectively. Neighborhoods belonging to high risk clusters of stroke and MI mortality tended to have high proportions of the population with low education attainment.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;These methods for identifying disparities in mortality risks across neighborhoods are useful for identifying high risk communities and for guiding population health programs aimed at addressing health disparities and improving population health.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utgradmedpubs/6</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1001&amp;amp;context=utgradmedpubs&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1001</articleid>
+<submission-date>2013-08-07T09:01:19-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- UT Graduate School of Medicine</publication-title>
+<context-key>4400970</context-key>
+<submission-path>utgradmedpubs/6</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Public Health 2011, 11:644 doi:10.1186/1471-2458-11-644</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-08-07T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

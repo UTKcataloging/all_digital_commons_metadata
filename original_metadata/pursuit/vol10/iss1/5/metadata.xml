@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Modeling of Magnetic Fields for Mirror Neutron Search Experiment</title>
+<publication-date>2020-05-04T08:48:38-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ajohn245@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Johnston</lname>
+<fname>Adam</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Numerical Modeling</keyword>
+<keyword>Bio Savart</keyword>
+<keyword>Magnetics</keyword>
+<keyword>Mirror Matter</keyword>
+</keywords>
+<disciplines><discipline>Electromagnetics and Photonics</discipline>
+<discipline>Other Mechanical Engineering</discipline>
+<discipline>Other Physical Sciences and Mathematics</discipline>
+<discipline>Other Physics</discipline>
+</disciplines><abstract>&lt;p&gt;This paper will outline the configuration of 3D magnetic field model simulated from electric current sources using MATLAB. The model is using 3D arrays allowing for quick and accurate numerical approximations of Bio-Savart integrals, of error &lt; , modeling the behavior of a magnetic field due to current carrying wires. We will discuss the development of a 3D magnetic field configuration produced by the current carrying wires around a large 2.5 m diameter vacuum beam tube in the proposed mirror neutron search experiment at High Flux Isotope Reactor (HFIR) at Oak Ridge National Laboratory (ORNL). The simulations demonstrate that the magnetic field with uniformity better than ± 2.5 mG that will allow for optimal results in experiment within the controlled range of net magnetic field magnitudes |B|&lt;em&gt; &lt;/em&gt;500 mG and in the large vacuum tube along 20-m neutron flight path can be achieved for an approximately 6 cm radius section at the center of the tube.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/pursuit/vol10/iss1/5</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1389&amp;amp;context=pursuit&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1389</articleid>
+<submission-date>2019-02-20T15:25:34-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/pursuit/article/1389/type/native/viewcontent</native-url>
+<publication-title>Pursuit - The Journal of Undergraduate Research at The University of Tennessee</publication-title>
+<context-key>13861005</context-key>
+<submission-path>pursuit/vol10/iss1/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2019-02-20T00:00:00-08:00</value>
+</field>
+<field name="letters_to_reviewers" type="special">
+<value>ARRAY(0xc450a90)</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="short_title" type="string">
+<value>Numerical Modeling of Magnetic Fields</value>
+</field>
+</fields>
+</document>
+</documents>

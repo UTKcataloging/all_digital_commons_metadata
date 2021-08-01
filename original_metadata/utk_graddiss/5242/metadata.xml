@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Comprehensive Frequency Control Framework for High Penetration of Wind</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>swang31@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Wang</lname>
+<fname>Siqi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>DFIG</keyword>
+<keyword>frequency control</keyword>
+<keyword>inertial response</keyword>
+<keyword>rotor security</keyword>
+<keyword>power reserve control</keyword>
+<keyword>weak system</keyword>
+<keyword>dynamic demand control</keyword>
+</keywords>
+<abstract>&lt;p&gt;The increased penetration of wind will have significant impact on power system frequency response and brings new challenge to traditional power system frequency framework. With converter interface, the wind unit&#39;s rotor inertia is effectively decoupled from the system, causing a reduction in inertial response. Moreover, the replacement of conventional synchronous generators with governors also reduces primary control capability. It is expected non-conventional technologies can be used to help improve the frequency response, such as wind turbine generators, energy storage systems, high voltage DC transmission system (HVDC) and demand response. Wind turbine generators especially variable speed wind turbine generators such as doubly-fed induction generators (DFIG) have the potential to increase or decrease the output active power to improve frequency response if controlled properly, and the capability of DFIG can be as similar as conventional generators. Demand side can take actions as well through collectively controlling the thermostatically controlled loads which have the potential to shift active power consumption for a short period of time without compromising consumer&#39;s efforts.This dissertation proposed a comprehensive control framework to allow for high penetration of wind by coordinating DFIG and controllable loads to provide adequate frequency response. The DFIG can be operated in different operating modes with switching among the different modes achieved by modifying reserve inputs. The DFIG is designed to provide adequate inertial response support. To overcome the secondary frequency drop, a dynamic demand control (DDC) strategy is introduced to coordinate with DFIG control. The joint effect of DFIG control and DDC will improve the frequency response from the time-scale of inertial response through primary frequency control. A user-defined DFIG model is developed. The effectiveness of the proposed control framework is verified through case studies on a 181-bus WECC system with 50% wind penetration and demonstrated in CURENT large-scale test bed as well. The simulation results verify that the proposed control framework can allow DFIG to provide frequency support from time-scale of inertial response and ensure and adequate primary frequency response through corporation of TCLs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5242</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6786&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5242</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6786</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14342658</context-key>
+<submission-path>utk_graddiss/5242</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mingzhou Jin, Fangxing Li, Yilu Liu</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in my published paper in journal IEEE Transactions on Power System and conference IEEE PES General Meeting</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

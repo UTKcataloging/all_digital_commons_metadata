@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Methods for Non-divergence Form Second Order Linear Elliptic Partial Differential Equations and Discontinuous Ritz Methods for Problems from the Calculus of Variations</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sschnak1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Schnake</lname>
+<fname>Stefan</fname>
+<mname>Raymond</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Discontinuous Galerkin</keyword>
+<keyword>Finite Element</keyword>
+<keyword>Partial Differential Equations</keyword>
+<keyword>Calculus of Variations</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation consists of three integral parts. Part one studies discontinuous Galerkin approximations of a class of non-divergence form second order linear elliptic PDEs whose coefficients are only continuous. An interior penalty discontinuous Galerkin (IP-DG) method is developed for this class of PDEs. A complete analysis of the proposed IP-DG method is carried out, which includes proving the stability and error estimate in a discrete W&lt;sup&gt;2;p&lt;/sup&gt;-norm [W^2,p-norm]. Part one also studies the convergence of the vanishing moment method for this class of PDEs. The vanishing moment method refers to a PDE technique for approximating these PDEs by a family of fourth order PDEs. Detailed proofs of uniform H&lt;sup&gt;1&lt;/sup&gt; [H^1] and H&lt;sup&gt;2&lt;/sup&gt; [H^2]-stability estimates for the approximate solutions and their convergence are presented.&lt;/p&gt;
+&lt;p&gt;Part two studies finite element approximations of a class of calculus of variations problems which exhibit so-called Lavrentiev gap phenomenon (LGP), whose solutions often contain singularities. The LGP incapacitates all standard numerical methods, especially the finite element method, as they fail to produce a correct approximate solution. To overcome the difficulty, an enhanced finite element method based on a truncation technique is developed in this part of the dissertation. The proposed enhanced finite element method is shown to numerically converge on several benchmark problems with the LGP.&lt;/p&gt;
+&lt;p&gt;Part three of the dissertation develops a discontinuous Galerkin numerical framework for general calculus of variations problems, which is called the discontinuous Ritz (DR) methodology and can be regarded as the counterpart of the discontinuous Galerkin (DG) methodology for PDEs. Conceptually, it approximates the admissible space by the DG spaces which consist of totally discontinuous piecewise polynomials and approximates the underlying energy functional by discrete energy functionals defined on the DG spaces. The main idea here is to construct the desired discrete energy functional by using the newly developed DG finite element calculus theory, which only requires replacing the gradient operator in the energy functional by the corresponding DG finite element discrete gradient and adding the standard interior penalty terms. It is shown that for a certain class of functionals the proposed DR method does indeed converge to the true solution.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4648</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6071&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4648</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6071</articleid>
+<submission-date>2017-05-08T10:53:16-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10132258</context-key>
+<submission-path>utk_graddiss/4648</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaobing Feng</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ohannes Karakashian, Tuoc Phan, Stanimire Tomov</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

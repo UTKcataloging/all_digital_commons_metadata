@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Unit Commitment Methods to Accommodate High Levels of Wind Generation</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amelhorn@utk.edu</email>
+<lname>Melhorn</lname>
+<fname>Alexander Charles</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Unit Commitment</keyword>
+<keyword>Optimization</keyword>
+<keyword>Power Systems</keyword>
+<keyword>Mixed Integer Programming</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The United State’s renewable portfolio standards call for a large increase of renewable energy and improved conservation eﬀorts over today’s current system. Wind will play a ma jor role in meeting the renewable portfolio standards. As a result, the amount of wind capacity and generation has been growing exponentially over the past 10 to 15 years. The proposed unit commitment method integrates wind energy into a scheduable resource while keeping the formulation simple using mixed integer programming. A reserve constraint is developed and added to unit commitment giving the forecasted wind energy an eﬀective cost. The reserve constraint can be scaled based on the needs of the system: cost, reliability, or the penetration of wind energy. The results show that approximately 24% of the load can be met in the given test system, while keeping a constant reliability before and after wind is introduced. This amount of wind will alone meet many of the renewable portfolio standards in the United States.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1006</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2145&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1006</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2145</articleid>
+<submission-date>2011-08-01T18:53:10-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2126755</context-key>
+<submission-path>utk_gradthes/1006</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Leon Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

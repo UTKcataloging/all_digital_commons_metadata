@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Monitoring and Prognosis of Plant Components</title>
+<publication-date>1995-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Banks</lname>
+<fname>Jeffrey</fname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Many predictive maintenance approaches focus primarily on fault monitoring and diagnosis of rotating machinery. Today&#39;s industrial &quot;reliability-based&quot; maintenance programs implement vibrational analysis techniques as a sound foundation in minimizing unnecessary machine downtime. These approaches, based upon on-line data acquisitions and analysis may be used to increase component availability and ultimately forecast remaining life. Depending upon the specific type of machinery under consideration, measurements such as temperature, voltage, current, rotational speed, power, and torque may be analyzed to enhance machinery diagnostics capability.&lt;/p&gt;
+&lt;p&gt;The purpose of the proposed research is to formulate and implement a methodology to estimate the remaining useful life (residual life) of certain rotating machinery in industrial plants. By using experimental and analytical techniques, the research primarily focused on the monitoring of fractional horsepower induction motors. A motor test laboratory was developed to acquire experimental data under certain accelerated testing conditions. Regression models and neural networks were developed for individual accelerated tests, and also for the combined data in order to generate single &quot;generic&quot; prediction models for residual life estimation. These data may be used for on-line estimation of residual life, and to establish models trained using failure data. Motor insulation degradation was also considered, both experimentally and using an analytical formulation. &#39;Virtual trending&#39; of internal parameters, such as the insulation breakdown voltage, was also considered to establish alarm levels in terms of a measurable quantity such as a voltage or motor temperature. This technique was applied to industrial machinery data. An important outcome of this research was the development of a long-term degradation model from test data and physical degradation relationships for electric motors. A systematic approach using adaptive regression models and extrapolative artificial neural networks, was developed for life prediction of rotating machinery.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4645</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6231&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4645</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6231</articleid>
+<submission-date>2017-07-11T12:05:42-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10413922</context-key>
+<submission-path>utk_gradthes/4645</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>B. R. Upadhyaya</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Uhrig, Jack Wasserman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1995-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1995-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>CFD Modeling of Dynamic Inlet Flow Distortion Generation</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Savage</lname>
+<fname>Keith</fname>
+<mname>Patrick</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Integrating a jet engine into an airframe involves many design and testing steps. The development of high performance fighter aircraft has added new requirements to this process. Ground test facilities are used to simulate the effect of inlet shape on the performance of an engine for cruise flight or other fixed conditions. While a static simulation of the inlet shape is adequate for most circumstance, military fighter craft are highly maneuverable, altering the inlet airflow intensely and briefly. These transient distortions can have a significant impact on performance as well as having the potential of causing structural problems. In addition to airflow changes caused by flight maneuvers, the release of weapons stores into the airstream can introduce transient turbulence and add exhaust gas contaminants. Currently, none of these transient effects are evaluated in wind tunnel ground tests.&lt;/p&gt;
+&lt;p&gt;One solution that has been proposed to address this issue is an array of individually controlled wedges placed in the wind tunnel ahead of the test engine. The wedges could be opened and closed, not only to simulate the given inlet shape, but also transient distortions. Coupled with a system to introduce contaminants into the flow, all manner of transient and static inlet flow distortions could be simulated in a controlled environment.&lt;/p&gt;
+&lt;p&gt;Some investigations have already developed mathematical models of variable angle wedges in a free stream and validated those models with experimental data. If these real world experimental results can be duplicated in a CFD model then ultimately the entire wedge array can be developed virtually to arrive at an optimum design with a relatively small investment. To that end, this study focused on developing a two dimensional CFD model to provide solution data to compare with experimental results in order to determine the feasibility of a more elaborate CFD model as a development tool for the wedge array distortion generator.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2179</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3569&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2179</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3569</articleid>
+<submission-date>2013-10-09T12:00:49-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4689572</context-key>
+<submission-path>utk_gradthes/2179</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Gary Flandro</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Frank Collins, Dr. Joseph Majdalani</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

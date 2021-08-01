@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Thermo-mechanical analysis of iron-chromium-aluminum (FeCrAl) alloy cladding for light water reactor fuel elements</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rsweet1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Sweet</lname>
+<fname>Ryan</fname>
+<mname>Terrence</mname>
+</author>
+</authors>
+<keywords>
+<keyword>BISON</keyword>
+<keyword>fuel performance</keyword>
+<keyword>fuel modeling and simulation</keyword>
+<keyword>accident tolerant fuels</keyword>
+<keyword>FeCrAl</keyword>
+</keywords>
+<abstract>&lt;p&gt;Alternative cladding materials have been proposed to replace the currently used zirconium (Zr)-based alloys, in order to improve the accident tolerance of light water reactor (LWR) fuel. Of these materials, there is a particular focus on iron-chromium-aluminum (FeCrAl) alloys that exhibit much slower oxidation kinetics in high-temperature steam than Zr-alloys. This behavior should decrease the energy release due to oxidation and allow the cladding to remain integral longer in the presence of high temperature steam, making accident mitigation more likely.This dissertation documents efforts to develop fuel performance capabilities to assess the behavior of FeCrAl cladding during normal and transient reactor operating scenarios. Within this work, simulations were performed for FeCrAl cladding using constitutive models and representative reactor operating conditions implemented into the finite-element fuel performance code BISON.Simulations were performed targeting the cladding behavior during normal operation of a boiling water reactor using boundary conditions derived from neutronics data. These simulations indicate that the fuel compliance plays a much larger role in the evolution of the cladding stress state after gap closure for the FeCrAl cladding than for Zircaloy. Individual sensitivity analyses of the fuel and cladding creep responses were then performed, which indicated the influence of compliance for each material, separately, on the stress state of the fuel cladding.To improve calculations of the fuel expansion and compliance, an additional investigation was performed to assess the role of creep, relocation, and explicit fracture in the fuel. Fuel rods using each of these models are simulated under representative conditions and compared to test rod measurements. This analysis provides a start toward the development and incorporation of explicit fracture in fuel performance analysis.Additionally, performance and stability under transient conditions must also be demonstrated for FeCrAl cladding. This analysis focused on modeling the integral thermo-mechanical performance of FeCrAl clad uranium dioxide fuel during transient reactor operation. Results from this simple analysis show similar bursting time and temperature between both FeCrAl and Zircaloy cladding, however, beyond cladding burst in these conditions, the superior high temperature oxidation kinetics of the FeCrAl cladding significantly reduce hydrogen gas production and provide longer fuel integrity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5038</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6579&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5038</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6579</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415437</context-key>
+<submission-path>utk_graddiss/5038</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian D. Wirth</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jess C. Gehin, Kurt A. Terrani, William J. Weber</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

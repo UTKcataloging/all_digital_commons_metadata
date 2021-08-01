@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Thermal Feasibility and Performance Characteristics of an Air-Cooled Axial Flow Cylindrical Power Inverter by Finite Element Analysis</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jtawfik@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tawfik</lname>
+<fname>Jonathan</fname>
+<mname>Atef</mname>
+</author>
+</authors>
+<keywords>
+<keyword>turbulent flow</keyword>
+<keyword>power electronics</keyword>
+<keyword>power inverter</keyword>
+<keyword>hybrid electric vehicle</keyword>
+</keywords>
+<disciplines><discipline>Energy Systems</discipline>
+<discipline>Heat Transfer, Combustion</discipline>
+<discipline>Mechanical Engineering</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of the present study is to determine the thermal feasibility of an air-cooled power inverter.  The inverter circuitry layout is designed in tandem with the thermal management of the devices.  The cylindrical configuration of the air-cooled inverter concept accommodates a collinear axial air blower and a cylindrical capacitor with inverter cards oriented radially between them.  Cooling air flows from the axial fan around the inverter cards and through the center hole of the cylindrical capacitor.  The present study is a continuation of the  thermal feasibility study conducted in  fiscal year 2009  for  the Oak Ridge National Laboratory to design a power inverter with a radial inflow cylindrical configuration.  Results in the present study  are obtained  by modeling the inverter concept in computer simulations  using the finite element method.  Air flow rate, ambient air temperature, voltage, and device switching frequency are studied parametrically.  Inlet air temperature was 50°C for all the results reported.  Transient and steady-state simulations are based on inverter current that represents the US06 supplemental federal test procedure from the US EPA.  The source of heat to the system comes from the power dissipated in the form of heat from the switches and diodes and is modeled as a function of the voltage, switching frequency, current, and device temperature.  Since the  device  temperature is a result as well as an input  variable, the  steady-state and transient solution are iterative on this parameter.  The results demonstrate the thermal feasibility of using air to cool an axial-flow power inverter.   This  axial inflow configuration  decreases  the  pressure drop through the system by 63% over the radial inflow configuration, and the ideal blower power input for an inlet air flow rate of 540 cfm is reduced from 936 W to 312 W for the whole inverter.  When the model is subject to one or multiple current cycles, the maximum device temperature does not exceed 164°F (327°F) for an inlet flow rate of 270 cfm, ambient temperature of 120°C, voltage of 650 V, and switching frequency of 20 kHz.  Although the maximum temperature in one cycle is most sensitive to ambient temperature, the ambient temperature affect decays after approximately half the duration of one cycle.  Of the parametric variables considered in the transient simulations, the system is most sensitive to inlet air flow rate.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/912</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1921&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>912</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1921</articleid>
+<submission-date>2010-12-02T14:21:19-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1921/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1669426</context-key>
+<submission-path>utk_gradthes/912</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rao V. Arimilli</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay Frankel, Majid Keyhani, Rao V. Arimilli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Turbine Engine Rotor Blade Damage Detection through the Analysis of Vibration of Stationary Components</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcox65@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Cox</lname>
+<fname>Jon</fname>
+<mname>Rylan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Structural Analysis</keyword>
+<keyword>Modal Analysis</keyword>
+<keyword>Statistical Analysis</keyword>
+<keyword>NSMS</keyword>
+<keyword>ViPA</keyword>
+<keyword>ViPS</keyword>
+</keywords>
+<disciplines><discipline>Aerospace Engineering</discipline>
+<discipline>Mechanical Engineering</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Rotor blade fault detection and health monitoring systems are crucial for gas turbine engine testing and evaluation. The most commonly used techniques involve monitoring blades directly using strain gages, or drilling optical access holes in the engine casing for non-contact probes to monitor blade deflection and vibration. In this work, less intrusive, indirect techniques for rotor blade fault detection are developed, based on the hypotheses that &lt;em&gt;the vibratory response of stationary components excited by the rotor blade dynamic pressure pulse can be used to detect the presence, location, and severity of rotor blade damage and changes in rotor blade natural frequency&lt;/em&gt;. The vibratory responses of a stator probe and the fan casing are processed using two novel techniques and a modified version of an existing technique. The two novel techniques are vibratory peak arrival analysis, used to detect damage causing blade offset, and vibratory peak statistical analysis, used to detect damage causing increased non-integral vibration amplitude. The third technique, spectral sideband tracking analysis, uses an exact solution to a previously published indeterminate technique used to detect damage causing changes in blade natural frequency. Ultimately, the vibratory peak arrival analysis technique was successful in detecting the presence, location, and severity of an offset rotor blade using data from the stator probe. The vibratory peak statistical analysis technique results were less clear, most likely due to the presence of rotor imbalance and lack of blade non-integral vibration. The spectral sideband tracking technique can, in theory, detect changes in rotor blade natural frequency. However, in practice, the required spectral peaks do not rise above the noise present in the casing accelerometer data spectrum, again most likely due to the lack of rotor blade non-integral vibration. The major contributions to the state-of-the- art of rotor blade health monitoring include: 1) a successful method (vibratory peak arrival analysis) of determining the presence, location, and severity of damage causing blade offset using the vibratory response of a stationary component (stator probe), and 2) a solution to a previously published indeterminate equation to calculate rotor blade rotating natural frequency using the casing vibratory response.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4091</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5581&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4091</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5581</articleid>
+<submission-date>2016-10-07T07:06:12-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9242751</context-key>
+<submission-path>utk_graddiss/4091</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Reza Abedi, Rob McAmis, Christian Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

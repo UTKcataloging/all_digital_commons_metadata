@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>INVESTIGATION OF LANGMUIR PROBES IN NON-MAXWELLIAN PLASMA USING PARTICLE-IN-CELL (PIC) MODELING</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>daktas@utsi.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Aktas Lister</lname>
+<fname>Densu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Bi-Maxwellian</keyword>
+<keyword>Druyvesteyn</keyword>
+<keyword>Langmuir probe (LP)</keyword>
+<keyword>Non-Maxwellian method</keyword>
+<keyword>Particle-in-Cell (PIC)</keyword>
+<keyword>Plasma simulation</keyword>
+</keywords>
+<disciplines><discipline>Mechanical Engineering</discipline>
+<discipline>Plasma and Beam Physics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation explores the development of a capability for simulating the plasma dynamics of Langmuir probes (LP) in complex plasmas where the velocity distributions are non-equilibrium and the electron energy spectrum is non-Maxwellian with respect to laboratory and space experiments. The results of this investigation are interpreted to give recommendations for design and use of LPs. This work is conducted using computational techniques to create the exact plasma conditions of the experimental testing environments. The investigations address the following topics:  &lt;ul&gt; &lt;li&gt;development of a technique to model non-Maxwellian physics,&lt;/li&gt; &lt;li&gt;modification of a baseline-technique and optimization of it for this application,&lt;/li&gt; &lt;li&gt;creation of three-dimensional PIC code to include non-Maxwellian physics,&lt;/li&gt; &lt;li&gt;evaluation of effectiveness of enhanced PIC simulations,&lt;/li&gt; &lt;li&gt;demonstration of use of enhanced PIC code to conduct and simulate LP experiments in non-ideal conditions such as in the EP thruster.&lt;/li&gt; &lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Major results can be summarized as follows: PROBEPIC (PIC code) is modified for interpreting data obtained using an electrostatic-probe in an ion-beam to implement OML (thick-sheath) and SL (thin-sheath) current-collection theories. PROBEPIC was modified to model the non-Maxwellian plasmas, and test-cases are presented to validate the simulation against published empirical data. General equations for current-collection and I-V curves for cylindrical, planar and spherical LP in isotropic and anisotropic non-Maxwellian plasmas are examined. Distribution functions are introduced as a method of measuring the deviation from Maxwellian. Existing non-Maxwellian techniques (i.e., Druyvesteyn, bi-Maxwellian) were modified to model the environment around LP in an EP system. The EEDF has been investigated with LP to overcome some limitations of Druyvesteyn method. The EEDF changes from Druyvesteyn to bi-Maxwellian with decreasing pressure. Therefore, bi-Maxwellian method was also implemented in the system to obtain utmost results in modelling non-isotropic plasmas. This innovative model, which was then integrated into PROBEPIC, was used to simulate operation of LP in a series of validation and demonstration cases. The effective-T&lt;sub&gt;e&lt;/sub&gt;, n, and V&lt;sub&gt;p&lt;/sub&gt; were obtained from the LP simulations, and I-V traces were created. The code can predict the high-energy ions, and experimental measurement of the EEDF, providing useful information for the development of a state-of-the-art new plasma and EP diagnostic capabilities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3674</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5038&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3674</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5038</articleid>
+<submission-date>2015-10-09T20:25:34-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5038/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7703163</context-key>
+<submission-path>utk_graddiss/3674</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary Flandro, Roy J. Schulz, Christian G. Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

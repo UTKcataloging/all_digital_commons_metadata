@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Freeform Heat Exchanger Design and Optimization Based on Constructal Law</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ahajihos@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hossein Nejad</lname>
+<fname>Ali</fname>
+</author>
+</authors>
+<keywords>
+<keyword>heat exchanger</keyword>
+<keyword>genetic algorithm optimization</keyword>
+<keyword>cross-flow</keyword>
+<keyword>counter cross-flow</keyword>
+</keywords>
+<abstract>&lt;p&gt;With the recent advancements in advanced manufacturing techniques, it is now possible to fabricate complex geometries that take advantage of well known principles of heat transfer in a way that was not previously possible. Therefore, it is reasonable to consider such unconventional configurations to enhance effectiveness beyond conventional designs. In this work, a novel geometry is proposed for evaporators used in Supercritical Organic Rankine Cycles. Based on the Constructal Law, the proposed geometry consists of successive plenums and tubes at several length-scale levels, creating a multi-scale heat exchanger (HX). The channels at the lowest length-scale levels were considered to have their length determined by the thermal entrance-length of the fluid. The relationship between the size of the channels at one level, $k$, with respect to the size of the channels at the next level, $k$+1, is based on generalization of “Murray’s law.” The main design variables include: tube arrangement, number of channels emanating from the plenum, and number of rows in the tube banks seen by the outside fluid and the number of times the “unit” HX is stacked. In order to assess the potential improvement of the new evaporator designs, baseline traditional shell and tube HXs were designed. Consistent with geothermal applications, the performance of the new HX design was compared to that of the baseline HX design at the same flow rate. With respect to the shell and tube baseline case; the cost per heat load and total cost of new HXs are lowered by approximately 20-26\% and 15-30\%, respectively. The new HX design is further optimized using the genetic algorithm optimization toolbox in MATLAB, to find the optimum configurations that maximize the thermal performance and minimize the cost and cost per heat load. It was found that the genetic algorithm was over eight times faster than using a brute force optimization to determine the optimum HX configuration. The cost savings in the new HX designs compared to those of the shell and tube HXs, at similar heat load performance, indicate that the new HX architectures proposed in this work are valid alternatives to the traditional HX designs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5752</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7518&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5752</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7518</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419636</context-key>
+<submission-path>utk_graddiss/5752</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici, Rao Arimilli</value>
+</field>
+<field name="advisor2" type="string">
+<value>Adrian Sabau, Arthur Ruggles</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Portions of this document were previously published in the proceedings of the ASME Congress and Exposition and the International Journal of Heat and Mass Transfer.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

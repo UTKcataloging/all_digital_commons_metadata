@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The maximum clique enumeration problem: algorithms, applications, and implementations</title>
+<publication-date>2012-06-25T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Eblen</lname>
+<fname>John</fname>
+<mname>D.</mname>
+</author>
+<author>
+<email>cphillip@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Phillips</lname>
+<fname>Charles</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>grogers@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rodgers</lname>
+<fname>Gary</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>langston@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;The maximum clique enumeration (MCE) problem asks that we identify all maximum cliques in a finite, simple graph. MCE is closely related to two other well-known and widely-studied problems: the maximum clique optimization problem, which asks us to determine the size of a largest clique, and the maximal clique enumeration problem, which asks that we compile a listing of all maximal cliques. Naturally, these three problems are &lt;a href=&quot;http://www.biomedcentral.com/1471-2105/13/S10/S5/mathml/M1&quot; title=&quot;View MathML&quot;&gt;View MathML&lt;/a&gt;&quot; /&gt;&lt;/a&gt;-hard, given that they subsume the classic version of the &lt;a href=&quot;http://www.biomedcentral.com/1471-2105/13/S10/S5/mathml/M1&quot; title=&quot;View MathML&quot;&gt;View MathML&lt;/a&gt;&quot; /&gt;&lt;/a&gt;-complete clique decision problem. MCE can be solved in principle with standard enumeration methods due to Bron, Kerbosch, Kose and others. Unfortunately, these techniques are ill-suited to graphs encountered in our applications. We must solve MCE on instances deeply seeded in data mining and computational biology, where high-throughput data capture often creates graphs of extreme size and density. MCE can also be solved in principle using more modern algorithms based in part on vertex cover and the theory of fixed-parameter tractability (FPT). While FPT is an improvement, these algorithms too can fail to scale sufficiently well as the sizes and densities of our datasets grow.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;An extensive testbed of benchmark graphs are created using publicly available transcriptomic datasets from the Gene Expression Omnibus (GEO). Empirical testing reveals crucial but latent features of such high-throughput biological data. In turn, it is shown that these features distinguish real data from random data intended to reproduce salient topological features. In particular, with real data there tends to be an unusually high degree of maximum clique overlap. Armed with this knowledge, novel decomposition strategies are tuned to the data and coupled with the best FPT MCE implementations.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Several algorithmic improvements to MCE are made which progressively decrease the run time on graphs in the testbed. Frequently the final runtime improvement is several orders of magnitude. As a result, instances which were once prohibitively time-consuming to solve are brought into the domain of realistic feasibility.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecutsipubs/1</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1001&amp;amp;context=utk_elecutsipubs&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1001</articleid>
+<submission-date>2013-07-15T09:59:34-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Electrical and Computer Engineering (UTSI)</publication-title>
+<context-key>4312890</context-key>
+<submission-path>utk_elecutsipubs/1</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2012, 13(Suppl 10):S5 doi:10.1186/1471-2105-13-S10-S5</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-25T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

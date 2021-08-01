@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multivariate Nonnormal Regression Models, Information Complexity, and Genetic Algorithms: A Three Way Hybrid for Intelligent Data Mining</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Minhui</fname>
+</author>
+</authors>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation develops a novel computationally feasible intelligent data mining and knowledge discovery technique to select the best subset of predictors in multivariate re- gression (MR) models under the assumption that the random error terms of the model follow a general nonnormal family of distributions. Our approach builds an easy-to-use three way hybrid approach by integrating clever statistical modeling procedures based on the information-theoretic measure of complexity (ICOMP) criterion with genetic algorithm (GA) and multivariate nonnormal regression models with Power Exponential (PE) and fam- ily of elliptically contoured (EC) error distributions. This dissertation is composed of four major parts.&lt;/p&gt;
+&lt;p&gt;First, the information criterion ICOMP is reviewed and the GA’s for model selection and model parameter estimation are developed. The problems of using GA on GA are discussed and a new GA operator, that is, GA Engineering, for improving GA efficiency is introduced.&lt;/p&gt;
+&lt;p&gt;Second, the model selection problem is studied under the assumption that the random error terms are nonnormal. More specifically, the random error terms follow PE and EC distributions which are generalizations of the Normal distribution by adding a shape para- meter related to the parameter kurtosis. The expression of information complexity criterion ICOMP(IFIM) are derived in closed form. Properties of the maximum likelihood estimates (MLEs) are discussed. Both simulated and real data examples are given to test the performance of the proposed new approach in subset selection of variables using ICOMP(IFIM) and a GA on GA approach.&lt;/p&gt;
+&lt;p&gt;Third, we extend the PE regression model to two different types of multivariate PE regression models. The first type of multivariate PE regression model assumes that the observations are independent; and the second type of multivariate PE regression model assumes that the observations are dependent. These two types of multivariate PE regression models coincide only when the shape parameter of the multivariate PE distribution is equal to one which corresponds to the multivariate Normal distribution. Method of moments (MOM) and MLEs of the model parameters are developed. Simulated and real data examples are given for both types of multivariate PE regression model selection using ICOMP (IFIM) and GA.&lt;/p&gt;
+&lt;p&gt;Lastly, model selection problems under multivariate EC error assumptions are investi- gated and the ICOMP(IFIM) expressions for several important EC distributions, including the Pearson Type II, Pearson Type VII, and Kotz’s Type distributions are derived. Simulated and real data examples are used for the demonstration of model selection using ICOMP and GA under different EC assumptions. Multivariate skewed PE regression models, which can handle the &lt;em&gt;skewness&lt;/em&gt; and &lt;em&gt;kurtosis&lt;/em&gt; simultaneously, and model selection problems are also discussed for future research for intelligent data mining when the data do not follow the usual normal assumption.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2007</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3438&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2007</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3438</articleid>
+<submission-date>2013-09-23T14:28:11-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4615623</context-key>
+<submission-path>utk_graddiss/2007</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth Gilbert, Xiaobing Feng, Chanaka Edirisinghe, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

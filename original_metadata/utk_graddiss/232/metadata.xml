@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Robust and Misspecification Resistant Model Selection in Regression Models with Information Complexity and Genetic Algorithms</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Yan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Kenneth Gilbert</keyword>
+<keyword>Mary Leitnaker</keyword>
+<keyword>Mohammed Mohsin</keyword>
+</keywords>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, we develop novel computationally effiient model subset selection methods for multiple and multivariate linear regression models which are both robust and misspecification resistant.  Our approach is to use a three-way hybrid method which employs the information theoretic measure of complexity (ICOMP) computed on robust M-estimators as model subset selection criteria, integrated with genetic algorithms (GA) as the subset model searching engine.&lt;/p&gt;
+&lt;p&gt;Despite the rich literature on the robust estimation techniques, bridging the theoretical and applied aspects related to robust model subset selection has been somewhat neglected.  A few information criteria in the multiple regression literature are robust.  However, none of them is model misspecification resistant and none of them could be generalized to the misspecified multivariate regression.  In this dissertation, we introduce for the first time both robust and misspecification resistant information complexity (ICOMP) criterion to fill in the gap in the literature.&lt;/p&gt;
+&lt;p&gt;More specifically in multiple linear regression, we introduce robust M-estimators with misspecification resistant ICOMP and use the new information criterion as the fitness fuction in GA to carry out the model subset selection.  For multivariate linear regression, we derive the two-stage robust Mahalanobis distance (RMD) estimator and introduce this RMD estimator in the computation of information criteria.  The new information criteria are used as the fitness function in the GA to perform the model subset selection.&lt;/p&gt;
+&lt;p&gt;Comparative studies on the simulated data for both multiple and multivariate regression show that the robust and misspecification resistant ICOMP outperforms the other robust information criteria and the non-robust ICOMP computed using OLS (or MLE) when the data contain outliers and error terms in the model deviate from a normal distribution.  Compared with the all possible model subset selection, GA combined with the robust and misspecification resistant infromation criteria is proved to be an effective method which can quickly find the a near subset, if not the best, without having to search the whole subset model space.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/232</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1282&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>232</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1282</articleid>
+<submission-date>2010-02-03T14:41:14-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1131262</context-key>
+<submission-path>utk_graddiss/232</submission-path>
+<fields>
+<field name="advisor2" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/LiuYan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

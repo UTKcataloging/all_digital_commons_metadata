@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation of IEEE 802.1 Time Sensitive Networking Performance for Microgrid and Smart Grid Power System Applications</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>msmit250@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Smith</lname>
+<fname>Montie</fname>
+<mname>Edwin</mname>
+<suffix>Jr</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>Time Sensitive Networking</keyword>
+<keyword>Microgrids</keyword>
+<keyword>LAN</keyword>
+<keyword>TSN</keyword>
+<keyword>802.1AS</keyword>
+<keyword>802.1Qbv</keyword>
+</keywords>
+<abstract>&lt;p&gt;Proliferation of distributed energy resources and the importance of smart energy management has led to increased interest in microgrids. A microgrid is an area of the grid that can be disconnected and operated independently from the main grid when required and can generate some or all of its own energy needs with distributed energy resources and battery storage. This allows for the microgrid area to continue operating even when the main grid is unavailable. In addition, often a microgrid can utilize waste heat from energy generation to drive thermal loads, further improving energy utilization. This leads to increased reliability and overall efficiency in the microgrid area.As microgrids (and by extension the smart grid) become more widespread, new methods of communication and control are required to aid in management of many different distributed entities. One such communication architecture that may prove useful is the set of IEEE 802.1 Time Sensitive Networking (TSN) standards. These standards specify improvements and new capabilities for LAN based communication networks that previously made them unsuitable for widespread deployment in a power system setting. These standards include specifications for low latency guarantees, clock synchronization, data frame redundancy, and centralized system administration. These capabilities were previously available on proprietary or application specific solutions. However, they will now be available as part of the Ethernet standard, enabling backwards compatibility with existing network architecture and support with future advances.Two of the featured standards, IEEE 802.1AS (governing time-synchronization) and IEEE 802.1Qbv (governing time aware traffic shaping), will be tested and evaluated for their potential utility in power systems and microgrid applications. These tests will measure the latency achievable using TSN over a network at various levels of congestion and compare these results with UDP and TCP protocols. In addition, the ability to use synchronized clocks to generate waveforms for microgrid inverter synchronization will be explored.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5104</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6511&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5104</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6511</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414973</context-key>
+<submission-path>utk_gradthes/5104</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Charles Cao, Fei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

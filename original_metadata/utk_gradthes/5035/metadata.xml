@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effect of Modern Web Content and Caching on The Tor Onion Router</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jdiamon3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Diamond</lname>
+<fname>Joseph</fname>
+<mname>Parker</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Tor</keyword>
+<keyword>AS</keyword>
+<keyword>Aware</keyword>
+<keyword>Anonymity</keyword>
+<keyword>CDN</keyword>
+</keywords>
+<abstract>&lt;p&gt;This work evaluates Tor users&#39; risk of de-anonymization in the presence of a network-level adversary. We evaluate the likelihood that a Tor user, who is consuming modern web content, will be susceptible to a traffic analysis or watermarking attack. This work shows that the previously studied point-to-point model for Tor connections is not realistic and does not fully capture the risk of de-anonymization for Tor users. We show these results by measuring network paths along key parts of a Tor circuit. First, we measure the paths between the Tor exit relays and web resources requested when accessing the Alexa Top 1000 websites. Then, we use available and trusted traceroute data to approximate paths between Tor users and likely guard nodes. Then, the intersection of these paths at an autonomous system level is examined to determine if they share any elements. If the intersection of the paths is non-empty, then a Tor user making a request with those paths is susceptible to de-anonymization.Results from weighted selection of Tor exit and guard relays indicate that a Tor user visiting a random Alexa Top 1000 website is susceptible to de-anonymization with 20% probability for almost half of the Alexa Top 1000. Multiple resources account for significant additional de-anonymization risk over the point-to-point model, and shorter network paths to content distribution nodes do not effectively compensate. Moreover, examining the intersection of paths to resources in the top-level domains of a website does not full eliminate the risk of de-anonymization under the AS-Aware Tor problem.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5035</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6442&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5035</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6442</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414703</context-key>
+<submission-path>utk_gradthes/5035</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Maxfield J. Schuchard</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, Audris Mockus</value>
+</field>
+<field name="comments" type="string">
+<value>Additional measurements, analysis, and related works will be added to this document for submission into conference. Please look for a similar work by this author in conference proceedings in the near future.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

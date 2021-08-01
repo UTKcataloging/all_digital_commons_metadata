@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Robot Learning from Human Demonstration: Interpretation, Adaptation, and Interaction</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>czhang24@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Chi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Robot Learning by Demonstration</keyword>
+<keyword>3D Human Activities</keyword>
+<keyword>Skill Encoding</keyword>
+<keyword>Adaptation</keyword>
+<keyword>Human Robot Interaction</keyword>
+<keyword>Recurrent Neural Networks</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;Robot Learning from Demonstration (LfD) is a research area that focuses on how robots can learn new skills by observing how people perform various activities. As humans, we have a remarkable ability to imitate other human’s behaviors and adapt to new situations. Endowing robots with these critical capabilities is a significant but very challenging problem considering the complexity and variation of human activities in highly dynamic environments.&lt;/p&gt;
+&lt;p&gt;This research focuses on how robots can learn new skills by interpreting human activities, adapting the learned skills to new situations, and naturally interacting with humans. This dissertation begins with a discussion of challenges in each of these three problems. A new unified representation approach is introduced to enable robots to simultaneously interpret the high-level semantic meanings and generalize the low-level trajectories of a broad range of human activities. An adaptive framework based on feature space decomposition is then presented for robots to not only reproduce skills, but also autonomously and efficiently adjust the learned skills to new environments that are significantly different from demonstrations. To achieve natural Human Robot Interaction (HRI), this dissertation presents a Recurrent Neural Network based deep perceptual control approach, which is capable of integrating multi-modal perception sequences with actions for robots to interact with humans in long-term tasks.&lt;/p&gt;
+&lt;p&gt;Overall, by combining the above approaches, an autonomous system is created for robots to acquire important skills that can be applied to human-centered applications. Finally, this dissertation concludes with a discussion of future directions that could accelerate the upcoming technological revolution of robot learning from human demonstration.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4513</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5618&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4513</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5618</articleid>
+<submission-date>2016-10-08T13:16:41-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9246649</context-key>
+<submission-path>utk_graddiss/4513</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Bruce MacLennan, Eric R. Wade, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

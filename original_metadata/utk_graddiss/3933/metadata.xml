@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Advanced sequential Monte Carlo methods and their applications to sparse sensor network for detection and estimation</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kkang2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Kang</lname>
+<fname>Kai</fname>
+</author>
+</authors>
+<keywords>
+<keyword>sequential Monte Carlo</keyword>
+<keyword>multi-target tracking</keyword>
+<keyword>wireless sensor network</keyword>
+<keyword>homotopy</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Probability</discipline>
+<discipline>Statistical Theory</discipline>
+</disciplines><abstract>&lt;p&gt;The general state space models present a flexible framework for modeling dynamic systems and therefore have vast applications in many disciplines such as engineering, economics, biology, etc. However, optimal estimation problems of non-linear non-Gaussian state space models are analytically intractable in general. Sequential Monte Carlo (SMC) methods become a very popular class of simulation-based methods for the solution of optimal estimation problems. The advantages of SMC methods in comparison with classical filtering methods such as Kalman Filter and Extended Kalman Filter are that they are able to handle non-linear non-Gaussian scenarios without relying on any local linearization techniques. In this thesis, we present an advanced SMC method and the study of its asymptotic behavior. We apply the proposed SMC method in a target tracking problem using different observation models. Specifically, a distributed SMC algorithm is developed for a wireless sensor network (WSN) that incorporates with an informative-sensor detection technique. The novel SMC algorithm is designed to surmount the degeneracy problem by employing a multilevel Markov chain Monte Carlo (MCMC) procedure constructed by engaging drift homotopy and likelihood bridging techniques. The observations are gathered only from the informative sensors, which are sensing useful observations of the nearby moving targets. The detection of those informative sensors, which are typically a small portion of the WSN, is taking place by using a sparsity-aware matrix decomposition technique. Simulation results showcase that our algorithm outperforms current popular tracking algorithms such as bootstrap filter and auxiliary particle filter in many scenarios.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3933</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5345&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3933</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5345</articleid>
+<submission-date>2016-06-17T08:12:13-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8744683</context-key>
+<submission-path>utk_graddiss/3933</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vasileios Maroulas</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Kody Law, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

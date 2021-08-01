@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Quantifying the Relationship Among Ground Penetrating Radar Reflection Amplitudes, Horizontal Sub-Wavelength Bedrock Fracture Geometries, and Fluid Conductivities</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ctewksbu@utk.edu</email>
+<lname>Tewksbury-Christle</lname>
+<fname>Carolyn Morgan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ground penetrating radar</keyword>
+<keyword>bedrock fracture</keyword>
+<keyword>analog</keyword>
+<keyword>near surface geophysics</keyword>
+<keyword>contaminant transport</keyword>
+<keyword>groundwater</keyword>
+</keywords>
+<disciplines><discipline>Geology</discipline>
+<discipline>Geophysics and Seismology</discipline>
+<discipline>Hydrology</discipline>
+</disciplines><abstract>&lt;p&gt;Accurate characterization of subsurface fractures is indispensible for contaminant transport and fresh water resource modeling because discharge is cubically related to the fracture aperture; thus, minor errors in aperture estimates may yield major errors in a modeled hydrologic response. Ground penetrating radar (GPR) has been successfully used to noninvasively estimate fracture aperture for sub-horizontal fractures at outcrop scale, but limits on vertical and horizontal resolution are a concern. Theoretical formulations and field tests have demonstrated increased GPR amplitude response with the addition of a saline tracer in a sub-millimeter fracture; however, robust verification of existing theoretical equations without an accurate measure of aperture variation across a fracture surface is difficult. The work presented here is directed at better verification of theoretical predictions of GPR amplitude and phase response. For sub-vertical resolution features, the response of a 1000 MHz PulseEKKO Pro transducer to a fluid-filled bedrock fracture analog composed of two plastic (UHMW-PE) blocks was measured, where fracture aperture ranged from 0-40 ± 0.3 mm and fluid conductivity from 0-5700 ± 5 mS/m. The GPR profiles were acquired down the centerline of the block, horizontally stacked to reduce errors, normalized to the control response at zero aperture, used to calculate reflection coefficient by dividing by the magnitude of the direct wave, and used to calculate the instantaneous phase. For sub-horizontal resolution features, lateral fracture extent ranged from 0-20 cm and fluid conductivity from 20-5700 ± 5 mS/m. GPR profiles were acquired parallel and perpendicular to the fracture. Comparison of the measured GPR response to analytical and numerical modeling suggests that numerical modeling best predicts both amplitude and phase variations due to changes in fracture aperture and conductivity. The Widess equation combined with an empirically derived scaling factor also predicts GPR amplitude response but not phase. Future applications to inversions of field data to map subsurface fracture networks will rely on easily invertible models, and numerical modeling using GPRMax2D can help develop a theoretical model for computationally effective and accurate inversion.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1702</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2735&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1702</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2735</articleid>
+<submission-date>2013-04-12T10:39:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4026774</context-key>
+<submission-path>utk_gradthes/1702</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory S. Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>James A. Mason, Edmund Perfect</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>AppendixD.zip</archive-name>
+<upload-name>AppendixD.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=2735&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>Matlab scripts as described in text in Appendix D</description>
+</file>
+<file>
+<archive-name>AppendixF.zip</archive-name>
+<upload-name>AppendixF.zip</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=2735&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/zip</mime-type>
+<description>GPRMax2D input files as described in text in Appendix F</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

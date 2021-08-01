@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Novel Numerical Approaches for the Resolution of Direct and Inverse Heat Transfer Problems</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Osborne</lname>
+<fname>Gregory</fname>
+<mname>Evan</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation describes an innovative and robust global time approach which has been developed for the resolution of direct and inverse problems, specifically in the disciplines of radiation and conduction heat transfer.&lt;/p&gt;
+&lt;p&gt;Direct problems are generally well-posed and readily lend themselves to standard and well-defined mathematical solution techniques. Inverse problems differ in the fact that they tend to be ill-posed in the sense of Hadamard, i.e., small perturbations in the input data can produce large variations and instabilities in the output. The stability problem is exacerbated by the use of discrete experimental data which may be subject to substantial measurement error. This tendency towards ill-posedness is the main difficulty in developing a suitable prediction algorithm for most inverse problems. Previous attempts to overcome the inherent instability have involved the utilization of smoothing techniques such as Tikhonov regularization and sequential function estimation (Beck’s future information method).&lt;/p&gt;
+&lt;p&gt;As alternatives to the existing methodologies, two novel mathematical schemes are proposed. They are the Global Time Method (GTM) and the Function Decomposition Method (FDM). Both schemes are capable of rendering time and space in a global fashion thus resolving the temporal and spatial domains simultaneously. This process effectively treats time elliptically or as a fourth spatial dimension. AWeighted Residuals Method (WRM) is utilized in the mathematical formulation wherein the unknown function is approximated in terms of a finite series expansion. Regularization of the solution is achieved by retention of expansion terms as opposed to smoothing in the classical Tikhonov sense.&lt;/p&gt;
+&lt;p&gt;In order to demonstrate the merit and flexibility of these approaches, the GTM and FDM have been applied to representative problems of direct and inverse heat transfer. Those chosen are a direct problem of radiative transport, a parameter estimation problem found in Differential Scanning Calorimetry (DSC) and an inverse heat conduction problem (IHCP). The IHCP is resolved for the cases of diagnostic deduction (discrete temperature data at the boundary) and thermal design (prescribed functional data at the boundary). Both methods are shown to provide excellent results for the conditions under which they were tested. Finally, a number of suggestions for future work are offered.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/257</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1310&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>257</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1310</articleid>
+<submission-date>2010-02-04T12:15:40-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1132359</context-key>
+<submission-path>utk_graddiss/257</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. I. Frankel</value>
+</field>
+<field name="advisor2" type="string">
+<value>M. Keyhani, R. V. Arimilli, J. Wu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/OsborneGreg.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

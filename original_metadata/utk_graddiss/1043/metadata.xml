@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Birnbaum Importance Patterns and Their Applications in the Component Assignment Problem</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qyao@utk.edu</email>
+<lname>Yao</lname>
+<fname>Qingzhu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Reliability</keyword>
+<keyword>Birnbaum Importance</keyword>
+<keyword>Component Assignment Problem</keyword>
+<keyword>Linear Consecutive-k-out-of-n System</keyword>
+<keyword>Heuristics</keyword>
+<keyword>Genetic Algorithm</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Birnbaum importance (BI) is a well-known measure that evaluates the relative contribution of components to system reliability. It has been successfully applied to tackling some reliability problems. This dissertation investigates two topics related to the BI in the reliability field: the patterns of component BIs and the BI-based heuristics and meta-heuristics for solving the component assignment problem (CAP).&lt;br /&gt;&lt;br /&gt;There exist certain patterns of component BIs (i.e., the relative order of the BI values to the individual components) for linear consecutive-&lt;em&gt;k&lt;/em&gt;-out-of-&lt;em&gt;n&lt;/em&gt; (&lt;em&gt;Lin/Con/k/n&lt;/em&gt;) systems when all components have the same reliability &lt;em&gt;p&lt;/em&gt;. This study summarizes and annotates the existing BI patterns for &lt;em&gt;Lin/Con/k/n &lt;/em&gt;systems, proves new BI patterns conditioned on the value of &lt;em&gt;p&lt;/em&gt;, disproves some patterns that were conjectured or claimed in the literature, and makes new conjectures based on comprehensive computational tests and analysis. More importantly, this study defines a concept of segment in &lt;em&gt;Lin/Con/k/n&lt;/em&gt; systems for analyzing the BI patterns, and investigates the relationship between the BI and the common component reliability &lt;em&gt;p&lt;/em&gt; and the relationship between the BI and the system size &lt;em&gt;n&lt;/em&gt;. One can then use these relationships to further understand the proved, disproved, and conjectured BI patterns.&lt;br /&gt;&lt;br /&gt;The CAP is to find the optimal assignment of &lt;em&gt;n&lt;/em&gt; available components to &lt;em&gt;n&lt;/em&gt; positions in a system such that the system reliability is maximized. The ordering of component BIs has been successfully used to design heuristics for the CAP. This study proposes five new BI-based heuristics and discusses their corresponding properties. Based on comprehensive numerical experiments, a BI-based two-stage approach (BITA) is proposed for solving the CAP with each stage using different BI-based heuristics. The two-stage approach is much more efficient and capable to generate solutions of higher quality than the GAMS/CoinBonmin solver and a randomization method.&lt;br /&gt;&lt;br /&gt;This dissertation then presents a meta-heuristic, i.e., a BI-based genetic local search (BIGLS) algorithm, for the CAP in which a BI-based local search is embedded into the genetic algorithm. Comprehensive numerical experiments show the robustness and effectiveness of the BIGLS algorithm and especially its advantages over the BITA in terms of solution quality.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1043</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2129&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1043</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2129</articleid>
+<submission-date>2011-04-08T20:19:01-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1928464</context-key>
+<submission-path>utk_graddiss/1043</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Way Kuo, Xiaoyan Zhu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Frank M. Guess</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

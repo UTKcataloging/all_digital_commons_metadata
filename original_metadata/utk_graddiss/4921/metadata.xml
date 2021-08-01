@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Performance Improvement of Wide-Area-Monitoring-System (WAMS) and Applications Development</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Zhao</lname>
+<fname>Jiecheng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power System</keyword>
+<keyword>Wide-Area-Monitoring-System (WAMS)</keyword>
+<keyword>Synchrophasor</keyword>
+<keyword>Frequency</keyword>
+<keyword>Measurement</keyword>
+<keyword>Error</keyword>
+</keywords>
+<abstract>&lt;p&gt;Wide area monitoring system (WAMS), as an application of situation awareness, provides essential information for power system monitoring, planning, operation, and control. To fully utilize WAMS in smart grid, it is important to investigate and improve its performance, and develop advanced applications based on the data from WAMS. In this dissertation, the work on improving the WAMS performance and developing advanced applications are introduced.To improve the performance of WAMS, the work includes investigation of the impacts of measurement error and the requirements of system based on WAMS, and the solutions. PMU is one of the main sensors for WAMS. The phasor and frequency estimation algorithms implemented highly influence the performance of PMUs, and therefore the WAMS. The algorithms of PMUs are reviewed in Chapter 2. To understand how the errors impact WAMS application, different applications are investigated in Chapter 3, and their requirements of accuracy are given. In chapter 4, the error model of PMUs are developed, regarding different parameters of input signals and PMU operation conditions. The factors influence of accuracy of PMUs are analyzed in Chapter 5, including both internal and external error sources. Specifically, the impacts of increase renewables are analyzed. Based on the analysis above, a novel PMU is developed in Chapter 6, including algorithm and realization. This PMU is able to provide high accurate and fast responding measurements during both steady and dynamic state. It is potential to improve the performance of WAMS. To improve the interoperability, the C37.118.2 based data communication protocol is curtailed and realized for single-phase distribution-level PMUs, which are presented in Chapter 7.WAMS-based applications are developed and introduced in Chapter 8-10. The first application is to use the spatial and temporal characterization of power system frequency for data authentication, location estimation and the detection of cyber-attack. The second application is to detect the GPS attack on the synchronized time interval. The third application is to detect the geomagnetically induced currents (GIC) resulted from GMD and EMP-E3. These applications, benefited from the novel PMU proposed in Chapter 6, can be used to enhance the security and robust of power system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4921</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6462&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4921</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6462</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415030</context-key>
+<submission-path>utk_graddiss/4921</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee D. Han, Fangxing Li, Hairong Qi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-1186-8281</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

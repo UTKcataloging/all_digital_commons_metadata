@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Particle simulation of a Langmuir probe in quiescent and flowing plasmas</title>
+<publication-date>1996-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Markusic</lname>
+<fname>Thomas</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;A three dimensional electrostatic Particle-In-Cell (PIC) code has been developed to simulate a Langmuir probe in both quiescent and flowing plasmas. The code was \\&#39;ritten to model the use of the Langmuir probe in plasma regimes for which no closedform analytical solutions exist; this is the case for a probe in an ion beam, such as the plume of an ion thruster. Langmuir probes a.re used to determine local plasma properties, such as electron tPmperature, by careful dissection of the probe&#39;s Voltage-Current (V-I) characteristic. To interpret experimental data from a Langmuir probe, one must separate ion from P]Pctron current. This process is well documented for quiescent plasmas; however, uo systematic techniques a.re available for interpreting data obtained using an electric probe in an ion beam. Ad hoc estimates of probe ion current in beam plasmas may lead to order of magnitude errors in the calculation of electron temperature. The PIC code described in this thesis was written to elucidate the beam-probe interaction and provide systematic techniques for legitimately interpreting experimental data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5807</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7485&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5807</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7485</articleid>
+<submission-date>2021-06-15T05:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23359286</context-key>
+<submission-path>utk_gradthes/5807</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dennis R. Keefer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>1996-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

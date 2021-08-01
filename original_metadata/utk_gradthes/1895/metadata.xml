@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Software Reconfigurability for Heterogeneous Robot Cooperation</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chandra</lname>
+<fname>Maureen</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Previous work in multi-robot cooperation has aimed at gaining autonomy and fault tolerance in the robot team. Most attempt to accomplish this by dynamically assigning roles or tasks to the robots and pre-designing the solution for heterogeneous robot teams with known sensing capabilities. However, pre-designed solutions fail when changes occur in the robot team composition or in the available environmental sensors at run-time. Automated solution design is thus needed to accomplish autonomy and fault tolerance in multi-agent systems. Very little work has been done in automating robot solutions at run-time due to the difficulty of adapting to many unexpected events such as sensor failures and changes in the environment. Therefore, the software reconfigurability approach is introduced. This approach takes into account all available sensors and capabilities on the robot team rather than on individual robots. It views those sensors and capabilities as building blocks and configures a solution by choosing from different ways of combining these blocks. Since the implementation of this approach cannot be completed in a short time, this thesis concentrates on 1) modularizing the robot behaviors to create these building blocks and 2) illustrating different ways to solve a task based on the same blocks. Our approach is based on creating distributed “schema” building blocks across multiple robots and providing a mechanism for the schemas to be reconnected in multiple ways to achieve different solution strategies. We illustrate the fundamental capabilities of this approach through a simple multi-robot application involving robots moving to assigned goal positions. We show how different schema configurations can achieve this task in multiple ways by using different combinations of robot behaviors. This accomplishment enables the development of a fault tolerant and autonomous robot system by providing different solutions to solving a task based on the available sensors and capabilities in the robot team, as well as constructs that allow the team solution to be automated at run-time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1895</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3252&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1895</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3252</articleid>
+<submission-date>2013-09-20T10:15:18-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4608907</context-key>
+<submission-path>utk_gradthes/1895</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Ward, Bradley Vanderzanden</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

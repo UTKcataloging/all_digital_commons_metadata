@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Performance Improvements of Common Sparse Numerical Linear Algebra Computations</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Luszczek</lname>
+<fname>Piotr</fname>
+<mname>Rafal</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Manufacturers of computer hardware are able to continuously sustain an unprecedented pace of progress in computing speed of their products, partially due to increased clock rates but also because of ever more complicated chip designs. With new processor families appearing every few years, it is increasingly harder to achieve high performance rates in sparse matrix computations. This research proposes new methods for sparse matrix factorizations and applies in an iterative code generalizations of known concepts from related disciplines. The proposed solutions and extensions are implemented in ways that tend to deliver efficiency while retaining ease of use of existing solutions. The implementations are thoroughly timed and analyzed using a commonly accepted set of test matrices. The tests were conducted on modern processors that seem to have gained an appreciable level of popularity and are fairly representative for a wider range of processor types that are available on the market now or in the near future. The new factorization technique formally introduced in the early chapters is later on proven to be quite competitive with state of the art software currently available. Although not totally superior in all cases (as probably no single approach could possibly be), the new factorization algorithm exhibits a few promising features. In addition, an all-embracing optimization effort is applied to an iterative algorithm that stands out for its robustness. This also gives satisfactory results on the tested computing platforms in terms of performance improvement. The same set of test matrices is used to enable an easy comparison between both investigated techniques, even though they are customarily treated separately in the literature. Possible extensions of the presented work are discussed. They range from easily conceivable merging with existing solutions to rather more evolved schemes dependent on hard to predict progress in theoretical and algorithmic research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2108</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3560&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2108</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3560</articleid>
+<submission-date>2013-10-01T10:45:51-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4652799</context-key>
+<submission-path>utk_graddiss/2108</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>DR. JACK J. DONGARRA</value>
+</field>
+<field name="advisor2" type="string">
+<value>DR. ALLEN BAKER, DR. MICHAEL BERRY, DR. VICTOR EIJKHOUT</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

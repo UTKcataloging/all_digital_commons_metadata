@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Anomaly detection in unknown environments using wireless sensor networks</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yli15@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>YuanYuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>wireless sensor network</keyword>
+<keyword>signal processing</keyword>
+<keyword>sensor fusion</keyword>
+<keyword>time-series analysis</keyword>
+<keyword>missing data imputation</keyword>
+<keyword>anomaly detection</keyword>
+</keywords>
+<disciplines><discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses the problem of distributed anomaly detection in Wireless Sensor Networks (WSN). A challenge of designing such systems is that the sensor nodes are battery powered, often have different capabilities and generally operate in dynamic environments. Programming such sensor nodes at a large scale can be a tedious job if the system is not carefully designed. Data modeling in distributed systems is important for determining the normal operation mode of the system. Being able to model the expected sensor signatures for typical operations greatly simplifies the human designer’s job by enabling the system to autonomously characterize the expected sensor data streams. This, in turn, allows the system to perform autonomous anomaly detection to recognize when unexpected sensor signals are detected. This type of distributed sensor modeling can be used in a wide variety of sensor networks, such as detecting the presence of intruders, detecting sensor failures, and so forth. The advantage of this approach is that the human designer does not have to characterize the anomalous signatures in advance.&lt;/p&gt;
+&lt;p&gt;The contributions of this approach include: (1) providing a way for a WSN to autonomously model sensor data with no prior knowledge of the environment; (2) enabling a distributed system to detect anomalies in both sensor signals and temporal events online; (3) providing a way to automatically extract semantic labels from temporal sequences; (4) providing a way for WSNs to save communication power by transmitting compressed temporal sequences; (5) enabling the system to detect time-related anomalies without prior knowledge of abnormal events; and, (6) providing a novel missing data estimation method that utilizes temporal and spatial information to replace missing values. The algorithms have been designed, developed, evaluated, and validated experimentally in synthesized data, and in real-world sensor network applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/721</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1796&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>721</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1796</articleid>
+<submission-date>2010-04-23T10:03:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1286251</context-key>
+<submission-path>utk_graddiss/721</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Michael Thomason, Hairong Qi, Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

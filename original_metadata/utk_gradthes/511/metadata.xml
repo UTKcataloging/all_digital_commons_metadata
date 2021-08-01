@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of a High Temperature Fully-Integrated BCD-on-SOI Under Voltage Lock Out Circuit</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bull</lname>
+<fname>Nora</fname>
+<mname>Dianne</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As concern about the environment has grown in recent years, alternatives in the automotive industry have become an important topic for researchers. One alternative being considered is electric vehicles, which utilize electric motors. DC/AC inverters and DC/DC power converters control these electric motors. A logic circuit is needed to power these converters; however, the logic generators inherently operate at a voltage too low to power the motors. A device known as the gate driver is the interface between the logic generators (or microcontroller) and the power devices (power converter). The gate driver provides the power needed to drive the power devices. Circuits are susceptible to voltage and temperature changes though. For this reason, protection circuits must be implemented as an integral part of the gate driver circuits. The Under Voltage Lock Out (UVLO) circuit provides important detection of under voltage conditions in the power supply thus preventing malfunctions. There are multiple power supplies in the gate driver circuit, and it is important to monitor all of these supplies for both surges and reductions in power. If the power supply should drop below the threshold (nominally 80%) there could be issues in the gate driver’s functionality. Since the gate driver will be located under the hood of a hybrid electric vehicles, operating temperatures can reach extremely high values. For this reason, circuit designs must provide reliable operation of the circuits in an extreme environment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/511</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1546&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>511</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1546</articleid>
+<submission-date>2010-02-24T09:57:31-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1168179</context-key>
+<submission-path>utk_gradthes/511</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Ethan Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Biglobal Instability of the Bidirectional Vortex</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbatters@utk.edu</email>
+<lname>Batterson</lname>
+<fname>Joshua Will</fname>
+</author>
+</authors>
+<keywords>
+<keyword>instability</keyword>
+<keyword>vortex</keyword>
+<keyword>biglobal</keyword>
+<keyword>hydrodynamic</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+<discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Heat Transfer, Combustion</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;State of the art research in hydrodynamic stability analysis has moved from classic one-dimensional methods such as the local nonparallel approach and the parabolized stability equations to two-dimensional, biglobal, methods. The paradigm shift toward two dimensional techniques with the ability to accommodate fully three-dimensional base flows is a necessary step toward modeling complex, multidimensional flowfields in modern propulsive applications. Here, we employ a two-dimensional spatial waveform with sinusoidal temporal dependence to reduce the three-dimensional linearized Navier-Stokes equations to their biglobal form. Addressing hydrodynamic stability in this way circumvents the restrictive parallel-flow assumption and admits boundary conditions in the streamwise direction.  Furthermore, the following work employs a full momentum formulation, rather than the reduced streamfunction form, accounting for a nonzero tangential mean flow velocity. This approach adds significant complexity in both formulation and implementation but renders a more general methodology applicable to a broader spectrum of mean flows.  Specifically, we consider the stability of three models for bidirectional vortex flow.  While a complete parametric study ensues, the stabilizing effect of the swirl velocity is evident as the injection parameter, kappa, is closely examined.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1056</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2082&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1056</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2082</articleid>
+<submission-date>2011-03-03T07:14:45-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1841905</context-key>
+<submission-path>utk_graddiss/1056</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph Majdalani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Trevor Moeller, Roy Schulz, Christian Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

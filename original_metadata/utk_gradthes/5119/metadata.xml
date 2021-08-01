@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Efficient Partial-Order Characterization of Admissible Actions for Real-Time Scheduling of Sporadic Tasks</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>shaque6@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Haque</lname>
+<fname>Saajid</fname>
+<mname>Al</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Scheduling</keyword>
+<keyword>Slack</keyword>
+<keyword>Power Systems</keyword>
+<keyword>Optimization</keyword>
+</keywords>
+<abstract>&lt;p&gt;In many scheduling problems involving tasks with multiple deadlines, there is typically a large degree of flexibility in determining which tasks to serve at each time step. Given a cost function it is often possible to cast a scheduling problem as an optimization problem to obtain the most suitable schedule. However, in several applications, especially when the schedule has to be computed in-line or periodically adjusted, the cost function may not be completely known a priori but only partially. For example, in some applications only the cost of the current allocation of resources to the tasks could be available. Under this scenario, a sensible approach is to optimally allocate resources without compromising the schedulability of the tasks. This work follows this approach by introducing a notion of partial ordering on the set of feasible schedules. This partial ordering is particularly useful to characterize which allocations of resources at the current time preserve the feasibility of the problem in the future. This enables the realization of fast algorithms for real-time scheduling. The model and algorithm presented can be utilized in different applications such as electric vehicle charging, cloud computing and advertising on websites. [1]&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5119</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6526&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5119</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6526</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415031</context-key>
+<submission-path>utk_gradthes/5119</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Donatello Materassi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Husheng Li</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in a conference, the 2017 IEEE Conference on Decision and Control.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

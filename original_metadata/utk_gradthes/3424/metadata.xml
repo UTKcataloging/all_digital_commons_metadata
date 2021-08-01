@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Spatiotemporal analysis of taxi availability and pick-ups: A case study of Suzhou, China</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhong5@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhong</lname>
+<fname>Yicong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>GPS trajectory data</keyword>
+<keyword>taxi activity pattern</keyword>
+<keyword>hot-spot analysis</keyword>
+<keyword>global spatial autocorrelation analysis</keyword>
+<keyword>Pearson correlation</keyword>
+</keywords>
+<disciplines><discipline>Geographic Information Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This study utilized a seven-day taxi trajectory dataset to investigate the difficulty of finding vacant taxis in Suzhou, China, by analyzing the imbalance (IMB) between rider pick-ups and the number of vacant taxis on each road segment in Suzhou. To recognize significant local high vs. low frequency patterns of events, and to make the values of imbalance as representative as possible, a hierarchical structure of multi-resolution time windows that split each hour into as many as four parts was developed based on the minimum variance method of hierarchical clustering (Ward, 1963). In addition to imbalance, the second variable to be analyzed was the number of time windows (NTW) for each one-hour period. Two tools from ArcGIS “Global Spatial Autocorrelation (Moran’s I)” and “Hot Spot Analysis (Getis-Ord Gi*)” were the main ones used in the analyses of IMB and NTW. During the analyses, the global spatial autocorrelation, the number of hot spots, and the spatial distribution pattern of both variables were inspected.&lt;/p&gt;
+&lt;p&gt;An evenly-distributed spatiotemporal pattern was observed for the NTW hot spots, and an “early morning–daytime–transition–early morning” spatiotemporal pattern was observed for the IMB hot spots. These patterns helped clarify the two types of difficulties of finding vacant taxis; i.e., the first type was caused by the low frequency of the event, and the second was caused by the competition among riders. Finally, the results of Pearson correlation analyses indicated that he two types of difficulties existed independently from each other.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3424</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3669&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3424</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3669</articleid>
+<submission-date>2013-10-13T17:21:57-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3669/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4702705</context-key>
+<submission-path>utk_gradthes/3424</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicholas Nage, Hyun Kim</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

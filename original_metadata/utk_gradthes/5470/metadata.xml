@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Analysis of a Spatial Neutron Modulator for Neutron Imaging via Compressive Sensing</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dgarza2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Garza</lname>
+<fname>Daniel</fname>
+<mname>Taylor</mname>
+</author>
+</authors>
+<keywords>
+<keyword>compressive sensing</keyword>
+<keyword>vibrational spectroscopy</keyword>
+<keyword>spectral imaging</keyword>
+<keyword>spatial neutron modulator</keyword>
+<keyword>mechatronics</keyword>
+</keywords>
+<abstract>&lt;p&gt;The ability to characterize materials is an important aspect when performing any sort of materials science experiment. When performing studies where understanding the molecular-level characteristics are critical such as for molecular bonding in batteries or complex polymers, analysis techniques such as vibrational spectroscopy are often used. At the Spallation Neutron Source at Oak Ridge National Laboratory the VISION instrument performs vibrational spectroscopy using neutrons. The reason for utilizing neutrons includes aspects such as increased penetration depth into the sample and high sensitivity; however, currently it is only possible to perform bulk sample measurements. By utilizing a technique known as compressive sensing it will be made possible to map material properties and characteristics across an entire sample.This thesis discusses the design process for creating a spatial neutron modulator that will allow for compressive sensing to be used within VISION as well as the creation of a testable prototype and analysis of the prototype’s performance. In order to test the performance of the system as well as the compressive sensing algorithm the prototype is tested using an optical set-up. This approach allows for the concepts to be tested on a cheaper scale to ensure feasibility of the design and compressive sensing algorithm prior to the creation of the final system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5470</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6878&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5470</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6878</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528609</context-key>
+<submission-path>utk_gradthes/5470</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jindong Tan, Eric Wade, Stephen Jesse</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

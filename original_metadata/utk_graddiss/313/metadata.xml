@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis and Optimization of Partial Length, Constrained Damping Layers</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tang</lname>
+<fname>Shing-Jia</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A laminated beam with constrained damping layers is analyzed. The normal strain in the longitudinal direction and shear strain in the viscoelastic layer is considered. Hamilton’s principle is used to derive equations of motion and boundary conditions. A 6th order equation is used to describe the portion of the beam covered with a constrained damping layer and a 4th order equation is used to describe the remainder of the beam. The characteristic equations are solved numerically with a gradient-based optimization method in order to determine normalized loss factor values. The loss parameter (normalized loss factor) is shown to be a function of the shear parameter (&lt;em&gt;g&lt;sub&gt;N&lt;/sub&gt;&lt;/em&gt;), the geometric parameter (&lt;em&gt;Y&lt;sub&gt;N&lt;/sub&gt;&lt;/em&gt;), the normalized coverage length (&lt;em&gt;x/L&lt;/em&gt;), coefficients &lt;em&gt;B&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt;, &lt;em&gt;B&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;, &lt;em&gt;B&lt;/em&gt;&lt;sub&gt;3&lt;/sub&gt; and the core loss factor (η&lt;sub&gt;2&lt;/sub&gt;). It is shown that, in many cases, a beam with partial coverage has more damping effect than fully covered beam. Optimal shear parameter and coverage length values are determined for a variety of configurations. Results demonstrate the optimal values for the shear parameter and coverage length in order to obtain the highest damping levels. Plots are derived in order to determine the optimal coverage length for any shear parameter value for maximum loss factor.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/313</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1367&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>313</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1367</articleid>
+<submission-date>2010-02-08T10:23:53-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1135871</context-key>
+<submission-path>utk_graddiss/313</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arnold Lumsdaine</value>
+</field>
+<field name="advisor2" type="string">
+<value>John D. Landes, J.A.M. Boulet, Richard M. Bennett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/TangShingJia.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

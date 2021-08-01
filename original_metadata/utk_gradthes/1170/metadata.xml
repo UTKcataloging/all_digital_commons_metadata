@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Power Aware Computing on GPUs</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kkasicha@utk.edu</email>
+<lname>Kasichayanula</lname>
+<fname>Kiran Kumar</fname>
+</author>
+</authors>
+<keywords>
+<keyword>GPU</keyword>
+<keyword>Power-Aware</keyword>
+<keyword>MAGMA</keyword>
+<keyword>PAPI NVML</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Energy and power density concerns in modern processors have led to significant computer architecture research efforts in power-aware and temperature-aware computing. With power dissipation becoming an increasingly vexing problem, power analysis of Graphical Processing Unit (GPU) and its components has become crucial for hardware and software system design. Here, we describe our technique for a coordinated measurement approach that combines real total power measurement and per-component power estimation. To identify power consumption accurately, we introduce the Activity-based Model for GPUs (AMG), from which we identify activity factors and power for microarchitectures on GPUs that will help in analyzing power tradeoffs of one component versus another using microbenchmarks. The key challenge addressed in this thesis is real-time power consumption, which can be accurately estimated using NVIDIA&#39;s Management Library (NVML) through Pthreads. We validated our model using Kill-A-Watt power meter and the results are accurate within 10\%. The resulting Performance Application Programming Interface (PAPI) NVML component offers real-time total power measurements for GPUs. This thesis also compares a single NVIDIA C2075 GPU running MAGMA (Matrix Algebra on GPU and Multicore Architectures) kernels, to a 48 core AMD Istanbul CPU running LAPACK.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1170</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2382&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1170</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2382</articleid>
+<submission-date>2012-04-19T12:28:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2782197</context-key>
+<submission-path>utk_gradthes/1170</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Harrison, Shirley V Moore</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

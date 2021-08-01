@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A PUF based Lightweight Hardware Security Architecture for IoT</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>muddin6@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Uddin</lname>
+<fname>Mesbah</fname>
+</author>
+</authors>
+<keywords>
+<keyword>hardware security</keyword>
+<keyword>Internet of things (IoT)</keyword>
+<keyword>physical unclonable function (PUF)</keyword>
+<keyword>memristor</keyword>
+<keyword>emerging nanotechnology</keyword>
+<keyword>IoT security</keyword>
+</keywords>
+<abstract>&lt;p&gt;With an increasing number of hand-held electronics, gadgets, and other smart devices, data is present in a large number of platforms, thereby increasing the risk of security, privacy, and safety breach than ever before. Due to the extreme lightweight nature of these devices, commonly referred to as IoT or `Internet of Things&#39;, providing any kind of security is prohibitive due to high overhead associated with any traditional and mathematically robust cryptographic techniques. Therefore, researchers have searched for alternative intuitive solutions for such devices. Hardware security, unlike traditional cryptography, can provide unique device-specific security solutions with little overhead, address vulnerability in hardware and, therefore, are attractive in this domain. As Moore&#39;s law is almost at its end, different emerging devices are being explored more by researchers as they present opportunities to build better application-specific devices along with their challenges compared to CMOS technology. In this work, we have proposed emerging nanotechnology-based hardware security as a security solution for resource constrained IoT domain. Specifically, we have built two hardware security primitives i.e. physical unclonable function (PUF) and true random number generator (TRNG) and used these components as part of a security protocol proposed in this work as well. Both PUF and TRNG are built from metal-oxide memristors, an emerging nanoscale device and are generally lightweight compared to their CMOS counterparts in terms of area, power, and delay. Design challenges associated with designing these hardware security primitives and with memristive devices are properly addressed. Finally, a complete security protocol is proposed where all of these different pieces come together to provide a practical, robust, and device-specific security for resource-limited IoT systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5813</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7579&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5813</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7579</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522197</context-key>
+<submission-path>utk_graddiss/5813</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Garrett Rose</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicole McFarlane, Jinyuan Sun, Andy Sarles</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-0450-5861</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

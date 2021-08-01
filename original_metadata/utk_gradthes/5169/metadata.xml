@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Gate Drive Design for Paralleled SiC MOSFETs in High Power Voltage Source Converters</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ctimms@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Timms</lname>
+<fname>Craig</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SiC</keyword>
+</keywords>
+<abstract>&lt;p&gt;High power voltage source converters (VSC) are vital in applications ranging from industrial motor drives to renewable energy systems and electrified transportation. In order to achieve high power the semiconductor devices used in a VSC need to be paralleled, making the gate drive design complicated. The silicon carbide (SiC) MOSFET brings much benefit over similarly rated silicon (Si) devices but further complicates the gate drive design in a parallel environment due to it’s fast switching capability and limited short-circuit withstand time. A gate driver design with proper accommodation of key issues for paralleled 1.7 kV SiC MOSFETs in high power VSC applications is developed.Three of the main issues are current imbalance, short-circuit protection, and cross-talk. By characterizing devices and supporting circuitry an understanding of constraints and sensitivities with regards to current balance between devices is developed for design optimization. A short-circuit detection scheme with adequate response time is employed and mitigation steps presented for issues arising from paralleling devices including large transient energy and instability. &lt;i&gt;Cdv/dt&lt;/i&gt; induced gate voltage—cross-talk—is addressed by adapting a mitigation method to multiple devices. Finally, the gate driver is demonstrated in a full scale half-bridge using four devices per switch.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5169</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6576&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5169</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6576</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415139</context-key>
+<submission-path>utk_gradthes/5169</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fei Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Daniel J. Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Online Determination of the Steady-State Condition of an Aerodynamic Test Article Mounted in a Wind Tunnel Test Cell</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fette</lname>
+<fname>Martin</fname>
+<mname>Vincent</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Propulsion Wind Tunnel (PWT) facility at Arnold Engineering Development Center is devoted to aerodynamic and propulsion integration testing of large-scale aerodynamic models. Models of aircraft, missiles and rockets are tested at simulated altitude conditions from sea level to about 150,000 feet.&lt;/p&gt;
+&lt;p&gt;Before the data acquisition sequence, it is necessary to establish that the model position has stabilized following the movement of the test model to a new orientation. The existing procedure requires an extra delay, after moving the model, before data is acquired. This delay, however, may be more or less than necessary, resulting in wasted testing time or compromised data quality. This wasted time can be attributed to excessive delays (i.e. the model was already stabilized) or the need to retake a point that was not adequately settled. In this thesis, an alternate approach is developed and evaluated for estimating in real time when the model position can be considered settled.&lt;/p&gt;
+&lt;p&gt;The research effort determined that a system of this type was both feasible and realizable. Since the raw model position data includes a wide spectrum of noise, two types of digital filters were evaluated. These were a finite impulse response (FIR) filter and an infinite impulse response (IIR) filter. Experimental results showed that the data system should apply an Infinite Impulse Response filter on data sampled independently from the main facility data acquisition system.&lt;/p&gt;
+&lt;p&gt;Once the test data was filtered, a separate algorithm was employed to make the steady state determination. Several algorithms were evaluated and verified against 60 data sets for accuracy and predictive qualities. The final choice compares the derivative of filtered position data with a predetermined threshold value. This approach returned the best results when compared to a visual inspection of the data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2059</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3418&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2059</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3418</articleid>
+<submission-date>2013-10-01T12:48:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4653540</context-key>
+<submission-path>utk_gradthes/2059</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce W. Bomar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy D. Joseph, L. Montgomery Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

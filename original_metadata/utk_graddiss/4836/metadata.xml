@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nuclear Fragmentation Cross Section Modeling for Space Radiation Applications</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wdewet@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>de Wet</lname>
+<fname>Wouter</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;One of the most significant challenges to overcome on the journey to Mars is understanding the biological risk associated with the space radiation environment. Radiation transport codes are one of the tools necessary to quantify this risk. Due to the nature of the space radiation environment, it is of great importance that these transport codes are able to describe the breakup of heavy ions into smaller fragments|light ions in particular. For this, event generators within radiation transport codes rely on nuclear fragmentation codes to predict the products of high energy nuclear collisions. This manuscript documents the development of a nuclear fragmentation code: the Relativistic Abrasion-Ablation and Deexcitation Fragmentation Model (RAADFRG). RAADFRG is the product of a collaboration between the University of Tennessee and NASA&#39;s Langley Research Center (LaRC), and is being developed for space radiation applications. Currently, total isotopic yield is of primary concern; however, future versions of the model must predict double differential isotopic yields. The collision model is a framework of smaller physics packages, each meant to describe a specific physical phenomenon within the abrasion-ablation heavy ion collision theory. The coalescence model, along with the collision framework architecture and development, are my primary original contributions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4836</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6376&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4836</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6376</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276540</context-key>
+<submission-path>utk_graddiss/4836</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence W. Townsend</value>
+</field>
+<field name="advisor2" type="string">
+<value>Thomas Handler, Lawrence H. Heilbronn, Ronald E. Pevey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

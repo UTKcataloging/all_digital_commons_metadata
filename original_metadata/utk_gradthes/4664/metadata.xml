@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Sequential Probability Ratio Test (SPRT) in Feature Extraction and Expert Systems in Nuclear Material Management</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Harrison</lname>
+<fname>Thomas</fname>
+<mname>Jay</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Y-12 National Security Complex in Oak Ridge, TN, maintains the nation’s stockpile of highly enriched uranium (HEU) for use in nuclear weapons. A proposed system for monitoring the HEU is the Continuous Automated Vault Inventory System (CAVIS), which uses radiation and mass detectors. Radionuclides decay stochastically (in a random matter that can be approximated by statistical analysis) and normal electronics and compute failures are inevitable. Therefore the system can and does experience spurious alarms arising from normal decay characteristics and system operation and not from material removal.&lt;/p&gt;
+&lt;p&gt;To reduce the spurious alarms and their associated costs, CAVIS operators desire a system to monitor the monitoring system. This system will alert operators and security personnel in the event of an actual alarm and assist operators in diagnosing and correcting false alarms. The system of choice for this task is an expert system, using a knowledge base to diagnose and propose remedies for system malfunctions.&lt;/p&gt;
+&lt;p&gt;The expert system requires information on which to base its decisions, and thus uses a feature extraction system to provide it the pertinent data. This feature extraction system uses the Sequential Probability Ratio Test (SPRT) to examine the radiation detector data and identify departures from the expected signal characteristics. The SPRT thus proves useful in the management of nuclear material. In addition to the SPRT, the feature extraction system uses several other analytical methods including statistical runs tests.&lt;/p&gt;
+&lt;p&gt;This thesis outlines and explains the development and use of the SPRT and the other methods for the feature extraction and the use of the feature extraction system. Although the CAVIS uses radiation and mass detectors, this research uses only the radiation detector information as its basis for monitoring and feature extraction. This research shows that radiation detector signals, when collectively conscientiously (without changing the statistical characteristics of the measured attribute), do meet the requirement of normality necessary for the correct SPRT operation.&lt;/p&gt;
+&lt;p&gt;Further, this thesis applies the feature extraction system with simulated and real data as collected in a laboratory setting. These applications show that the feature extraction system is an excellent choice for use in a nuclear material management situation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4664</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6241&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4664</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6241</articleid>
+<submission-date>2017-08-02T08:19:32-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10530631</context-key>
+<submission-path>utk_gradthes/4664</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle R. Upadhyaya, Laurence F. Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

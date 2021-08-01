@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Structure and Function of Photosystem I and Photosystem I – Hydrogenase Protein Fusions: An Experimental and Computational Study</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bharri17@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Harris</lname>
+<fname>Bradley</fname>
+<mname>Jordan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>photosystem I</keyword>
+<keyword>hydrogenase</keyword>
+<keyword>membrane proteins</keyword>
+<keyword>multi-protein complexes</keyword>
+<keyword>small-angle neutron scattering</keyword>
+<keyword>molecular dynamics</keyword>
+</keywords>
+<disciplines><discipline>Biochemical and Biomolecular Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Photosystem I (PSI) is a membrane protein involved in the photosynthetic cycle of plants, algae, and cyanobacteria that is of specific interest due to its ability to harness solar energy to generate reducing power. This work seeks to form an &lt;em&gt;in vitro&lt;/em&gt; hybrid protein fusion between the membrane integral PSI protein and the membrane-bound hydrogenase (MBH) enzyme, in an effort to improve electron transport between these two proteins.&lt;/p&gt;
+&lt;p&gt;Small-angle neutron scattering (SANS) was used to characterize the detergent-solubilized solution structure of trimeric PSI from the cyanobacterium &lt;em&gt;Thermosynechococcus elongatus&lt;/em&gt;, which showed that the detergent interacts primarily with the hydrophobic periphery of PSI. The SANS results were used as a guide to constructing a model of trimeric PSI embedded in a detergent belt. Subsequent all-atom molecular dynamics (MD) simulations of the PSI-detergent complex suggested that the detergent environment could negatively impact the long-term stability of PSI, but is not likely to affect PSI activity or hinder its ligation to the MBH.&lt;/p&gt;
+&lt;p&gt;Having verified that the solution structure of the PSI-detergent complex will not affect formation of PSI-MBH fusions, the membrane-bound [NiFe]-hydrogenase of &lt;em&gt;Ralstonia eutropha&lt;/em&gt; was genetically engineered to express a Gly&lt;sub&gt;3&lt;/sub&gt; [Gly-Gly-Gly] tag on the N-terminus of the small subunit to allow for site-specific ligation to the psaE subunit of PSI. H&lt;sub&gt;2&lt;/sub&gt; [hydrogen] uptake activity results show a complete loss of activity in the mutant &lt;em&gt;R. eutropha&lt;/em&gt; strain, possibly due to mutations introduced during previous genetic engineering work. In parallel, MD simulations of the PSI-MBH fusion protein indicate this ligation strategy is not optimal for electron transport between these proteins. This MD approach can be used to evaluate other PSI-MBH fusion strategies, possibly targeting other stromal subunits of PSI. Finally, MD simulations of previously studied PSI-[FeFe]-hydrogenase fusions were conducted, revealing significant distortion of the protein structure that could limit their long-term stability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3142</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4346&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3142</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4346</articleid>
+<submission-date>2014-10-06T15:09:51-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4346/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6210896</context-key>
+<submission-path>utk_graddiss/3142</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Paul D. Frymier</value>
+</field>
+<field name="advisor2" type="string">
+<value>Eric T. Boder, Barry D. Bruce, Hugh O&#39;Neill, Paul M. Dalhaimer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Industry Motivated Advancements of Current Combustion Instability Model: The Conversion of Volume Integrals to Surface Form</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Fischbach</lname>
+<fname>Sean</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This study reports a current development in the widely used combustion stability algorithm employed by propulsion industries as a predictive tool for the design of large combustors.  It has been recently demonstrated that, by incorporating unsteady rotational sources and sinks in the acoustic energy assessment, a more precise formulation of the acoustic instability in rocket motors can be achieved.  The new algorithm, when applied to the linear stability formulation, leads to ten growth rate terms.  In this thesis, these ten stability corrections are converted from volumetric to surface integral form.  They are further converted to an acoustic form that is directly amenable to implementation in the Standard Stability Prediction code.  The reduction to surface form greatly facilitates the evaluation of individual stability growth rates as they become function of quantities distributed along the chamber’s control surface.  This will preclude the need to carry out a rotational flow analysis inside the motor.  Only surface quantities will be needed and these will be converted to acoustic form whenever possible using the no slip condition or other applicable response functions.  Effectively, all needed information will be obtainable directly from the acoustic field.  By precluding the need to evaluate the rotational field (which can be highly uncertain in arbitrary geometry), the evaluation of acoustic stability integrals is made possible in practical motors with variable grain perforation.  The analysis entails acquiring and applying several vortico-acoustic and vector identities, the most notable of which being the Gaussian divergence theorem.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4556</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6086&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4556</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6086</articleid>
+<submission-date>2017-04-24T08:45:21-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10066004</context-key>
+<submission-path>utk_gradthes/4556</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph Majdalani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary Flandro, Kenneth Kimble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

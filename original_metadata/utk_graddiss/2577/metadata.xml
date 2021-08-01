@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bayesian Dictionary Learning for Single and Coupled Feature Spaces</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lhe4@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>He</lname>
+<fname>Li</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Baysian Learning</keyword>
+<keyword>Dictionary Learning</keyword>
+<keyword>Image super-resolution</keyword>
+<keyword>Inverse halftoning</keyword>
+<keyword>Coupled feature spaces</keyword>
+<keyword>Beta process</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+<discipline>Signal Processing</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Over-complete bases offer the flexibility to represent much wider range of signals with more elementary basis atoms than signal dimension. The use of over-complete dictionaries for sparse representation has been a new trend recently and has increasingly become recognized as providing high performance for applications such as denoise, image super-resolution, inpaiting, compression, blind source separation and linear unmixing. This dissertation studies the dictionary learning for single or coupled feature spaces and its application in image restoration tasks. A Bayesian strategy using a beta process prior is applied to solve both problems.&lt;/p&gt;
+&lt;p&gt;Firstly, we illustrate how to generalize the existing beta process dictionary learning method (BP) to learn dictionary for single feature space. The advantage of this approach is that the number of dictionary atoms and their relative importance may be inferred non-parametrically.&lt;/p&gt;
+&lt;p&gt;Next, we propose a new beta process joint dictionary learning method (BP-JDL) for coupled feature spaces, where the learned dictionaries also reflect the relationship between the two spaces. Compared to previous couple feature spaces dictionary learning algorithms, our algorithm not only provides dictionaries that customized to each feature space, but also adds more consistent and accurate mapping between the two feature spaces. This is due to the unique property of the beta process model that the sparse representation can be decomposed to values and dictionary atom indicators. The proposed algorithm is able to learn sparse representations that correspond to the same dictionary atoms with the same sparsity but different values in coupled feature spaces, thus bringing consistent and accurate mapping between coupled feature spaces.&lt;/p&gt;
+&lt;p&gt;Two applications, single image super-resolution and inverse halftoning, are chosen to evaluate the performance of the proposed Bayesian approach. In both cases, the Bayesian approach, either for single feature space or coupled feature spaces, outperforms state-of-the-art methods in comparative domains.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2577</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3541&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2577</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3541</articleid>
+<submission-date>2013-09-30T14:06:31-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4648823</context-key>
+<submission-path>utk_graddiss/2577</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Jens Gregor, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

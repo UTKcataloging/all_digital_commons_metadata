@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mathematical Analysis of a Nonlocal System of Equations Arising in Peridynamics</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Scott</lname>
+<fname>James</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;We analyze a strongly-coupled system of nonlocal equations. The system comes from a linearization of peridynamics, a nonlocal model in continuum mechanics. It is an analogue of the Navier-Lam\&#39;e system of classical elasticity. The leading operator is an integro-differential operator characterized by a distinctive matrix kernel which is used to couple differences of components of a vector field.We first demonstrate the convergence of a class of nonlocal systems to the Navier-Lam\&#39;e system in the event of vanishing nonlocality via the Fourier transform. We then study the Dirichlet problem associated with a wide class of systems. We prove well-posedness and demonstrate optimal interior Sobolev regularity of solutions.Next, we analyze the energy space associated to the system. As the first of our two main results, we show that a certain class of spaces of vector fields whose semi-norms involve projected difference quotients is in fact equivalent to the class of fractional Sobolev spaces. The equivalence can be considered a Korn-type characterization of fractional Sobolev spaces. Second, we show that functions in $L^p$ whose Marcinkiewicz-type integrals are in $L^p$ in fact belong to the Bessel potential space $\mathcal{L}^{p}_s$. The distinction here is that the Marcinkiewicz-type integral exhibits the coupling from the nonlocal model and does not resemble other classes of potential-type integrals found in the literature.We use these equivalence results in two ways. First, we show using the Korn-type equivalence that weak solutions to the system enjoy both improved differentiability and improved integrability. Second, we show that weak solutions belong to a potential space with higher integrability via the potential space characterization. Finally we revisit the question of solvability and prove existence and uniqueness of strong (pointwise) solutions to the time dependent system posed on all of Euclidean space. For a wide class of kernels, we prove the $L^2$-solvability of the steady-state system in a Bessel potential space using the Fourier transform and \textit{a priori} estimates. This $L^2$-solvability and the Hille-Yosida theorem is used to prove the well posedness of the time dependent problem. For the fractional Laplacian kernel we extend the solvability to $L^p$ spaces using classical multiplier theorems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5911</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7677&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5911</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7677</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527849</context-key>
+<submission-path>utk_graddiss/5911</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tadele Mengesha</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Frazier, Abner Salgado, Pablo Seleson</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of the dissertation were previously published in the journals Communications on Pure and Applied Analysis, Discrete and Continuous Dynamical Systems, and SIAM Journal on Mathematical Analysis.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2023-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

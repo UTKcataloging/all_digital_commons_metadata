@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational study on biomass fast pyrolysis: Hydrodynamic effects on the performance of a laboratory-scale fluidized bed reactor</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>eramire2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ramirez</lname>
+<fname>Emilio</fname>
+</author>
+</authors>
+<keywords>
+<keyword>multiphase flow</keyword>
+<keyword>bubble regime transition</keyword>
+<keyword>pressure fluctuations</keyword>
+<keyword>biomass fast pyrolysis thermochemical process</keyword>
+<keyword>low order kinetic</keyword>
+<keyword>hydrodynamics</keyword>
+</keywords>
+<abstract>&lt;p&gt;Bubbling fluidized bed reactors are utilized in a wide range of chemical industries, including biomass conversion, petroleum refining, and pharmaceutical and commodity chemicals production. Establishing a comprehensive understanding of how the gas-solid hydrodynamics, specifically bubbling to slugging, affects interphase mixing and associated chemical reactions is critical for optimizing process performance. Characterization of bench scale bubbling bed hydrodynamics is vital for scaling up to pilot and industrial scale.  This proposal outlines a plan to simulate a bench scale bubbling fluidized bed biomass fast pyrolysis process with emphasis on the effects of the bubbling-to-slugging transition on oil yield. Computational models of the hydrodynamics and the biomass fast pyrolysis reactions in a bubbling bed reactor are investigated using Geldart Group B particles. MFiX, an open-source software package, is utilized using the continuum (two-fluid) approach for modeling the reactor hydrodynamics. The effects of bubblies on oil yield along the reactor height is evaluated. The goal is to use pressure time series approaches to resolve previously unrecognized details of the underlying physics in hydrodynamics that affect oil yield.The implication of this work includes establishing a standard approach to optimize yield and composition from bench and industrial scale reactors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5937</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7723&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5937</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7723</articleid>
+<submission-date>2021-01-24T14:18:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>21246588</context-key>
+<submission-path>utk_graddiss/5937</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>C. Stuart Daw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Finney, Nourredine Abdoulmoumine, David J. Keffer</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-3302-8221</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design, Testing, and Calibration of a Custom Air Data Boom to Obtain Flight Data  For the UTSI Cessna-T210J (N33UT)</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>koegema@utsi.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Oegema</lname>
+<fname>Kristopher</fname>
+<mname>Nathaniel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>flight test</keyword>
+<keyword>air data boom</keyword>
+<keyword>airspeed</keyword>
+<keyword>altitude</keyword>
+<keyword>alpha</keyword>
+<keyword>beta</keyword>
+</keywords>
+<disciplines><discipline>Aeronautical Vehicles</discipline>
+<discipline>Structures and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;Flight testing is dependent on the ability to accurately calculate the flight characteristics of an aircraft during a test. Any error caused by an instrument will grow into potentially larger errors or unacceptable ranges of uncertainty for any flight test calculations. The aircrafts pitot static system is designed to minimize the error in readings caused by the pressure changes resulting in air flying around the aircrafts structure. However, it still does not meet the level of accuracy desired for quality flight testing data. In order to get the most accurate data possible noncommercial equipment is installed on the aircraft for flight testing. One such piece of flight testing equipment is a boom installed on an aircraft wing. The boom extends forward from the wing at least one chord length ahead of the wing’s leading edge. By taking readings far enough ahead of the wing’s leading edge the airflow and pressure that the instruments read are not affected by the aircraft. This is ideal for collecting static pressure, dynamic pressure, angle of attack, and angle of side slip.&lt;/p&gt;
+&lt;p&gt;This thesis details the process of designing, installing, testing, and calibrating a boom for a Cessna-210 that collects data from a pitot/static system and alpha and beta vanes placed on a boom attached to the wing. It starts with a general look at the goals of the project and the aircraft being modified. The second section covers the design process of getting rough measurements, location for installation, and materials to be used. Section three uses these models to calculate the stresses and deflection that occur on the boom structure under the worst flight case scenarios. Finally, section four covers the actual ground testing of the equipment and the calibration of the instruments on the boom.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3397</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4572&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3397</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4572</articleid>
+<submission-date>2015-02-20T07:08:27-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4572/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6694951</context-key>
+<submission-path>utk_gradthes/3397</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steve Brooks</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Solies, Borja Martos</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

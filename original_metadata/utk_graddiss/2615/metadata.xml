@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Virtual Reality Aided Mobile C-arm Positioning for Image-Guided Surgery</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zshao@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shao</lname>
+<fname>Zhenzhou</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Image-guided surgery</keyword>
+<keyword>radiation exposure</keyword>
+<keyword>mobile C-arm positioning</keyword>
+<keyword>2D/3D registration</keyword>
+<keyword>visualization</keyword>
+<keyword>structure from motion</keyword>
+</keywords>
+<disciplines><discipline>Surgical Procedures, Operative</discipline>
+</disciplines><abstract>&lt;p&gt;Image-guided surgery (IGS) is the minimally invasive procedure based on the pre-operative volume in conjunction with intra-operative X-ray images which are commonly captured by mobile C-arms for the confirmation of surgical outcomes. Although currently some commercial navigation systems are employed, one critical issue of such systems is the neglect regarding the radiation exposure to the patient and surgeons. In practice, when one surgical stage is finished, several X-ray images have to be acquired repeatedly by the mobile C-arm to obtain the desired image. Excessive radiation exposure may increase the risk of some complications. Therefore, it is necessary to develop a positioning system for mobile C-arms, and achieve one-time imaging to avoid the additional radiation exposure.&lt;/p&gt;
+&lt;p&gt;In this dissertation, a mobile C-arm positioning system is proposed with the aid of virtual reality (VR). The surface model of patient is reconstructed by a camera mounted on the mobile C-arm. A novel registration method is proposed to align this model and pre-operative volume based on a tracker, so that surgeons can visualize the hidden anatomy directly from the outside view and determine a reference pose of C-arm. Considering the congested operating room, the C-arm is modeled as manipulator with a movable base to maneuver the image intensifier to the desired pose. In the registration procedure above, intensity-based 2D/3D registration is used to transform the pre-operative volume into the coordinate system of tracker. Although it provides a high accuracy, the small capture range hinders its clinical use due to the initial guess. To address such problem, a robust and fast initialization method is proposed based on the automatic tracking based initialization and multi-resolution estimation in frequency domain. This hardware-software integrated approach provides almost optimal transformation parameters for intensity-based registration. To determine the pose of mobile C-arm, high-quality visualization is necessary to locate the pathology in the hidden anatomy. A novel dimensionality reduction method based on sparse representation is proposed for the design of multi-dimensional transfer function in direct volume rendering. It not only achieves the similar performance to the conventional methods, but also owns the capability to deal with the large data sets.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2615</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3710&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2615</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3710</articleid>
+<submission-date>2013-10-10T08:30:44-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4692126</context-key>
+<submission-path>utk_graddiss/2615</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jindong Tan</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Xiaopeng Zhao, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

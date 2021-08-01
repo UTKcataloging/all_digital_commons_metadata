@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Denominators of the Weierstrass Coefficients of the Canonical Lifting</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dli24@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Li</lname>
+<fname>Delong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>elliptic curves</keyword>
+<keyword>canonical lifting</keyword>
+<keyword>Weierstrass coefficients</keyword>
+<keyword>modular functions</keyword>
+<keyword>Witt vectors</keyword>
+</keywords>
+<abstract>&lt;p&gt;Given an ordinary elliptic curve $E/k:y_{0}^{2}=x_{0}^{3}+a_{0}x_{0}+b_{0}$ with characteristic $p \geq 5$, the canonical lifting $\mathbf{E}$ over the ring of Witt vectors is given by $\mathbf{E}/W(k): y^{2}=x^{3}+ax+b$, where $a = (a_0, A_1, A_2, \ldots)$ and $b = (b_0, B_1, B_2, \ldots)$ are functions of $a_0$ and $b_0$.  Finotti has proved that these functions $A_i$ and $B_i$ can be taken to be rational functions on $a_0$ and $b_0$ and raised questions about their denominators.  In this dissertation we will find all the possible factors of the denominators, and give an upper bound for each factor, in the case when these functions are obtained from formulas for the $j$-invariant of the canonical lifting. We will also find an isomorphic canonical lifting that is universal up to the second coordinates. In addition, we will show some computations done with Magma.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5836</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7602&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5836</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7602</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522234</context-key>
+<submission-path>utk_graddiss/5836</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Luis Finotti</value>
+</field>
+<field name="advisor2" type="string">
+<value>Shashikant Mulay, Marie Jameson, Michael Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

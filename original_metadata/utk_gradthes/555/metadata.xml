@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Exploration of Monophonic Instrument Classification Using Multi-Threaded Artificial Neural Networks</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rubin</lname>
+<fname>Marc</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The use of computers for automated music analysis could benefit several aspects of academia and industry, from psychological and music research, to intelligent music selection and music copyright investigation. In the following thesis, one of the first steps of automated musical analysis, i.e., monophonic instrument recognition, was explored. A multi-threaded artificial neural network was implemented and used as the classifier in order to utilize multi-core technology and allow for faster training. The parallelized batch-mode backpropagation algorithm used provided linear speedup, an improvement to the current literature. For the classification experiments, eleven different sets of instruments were used, starting with perceptively dissimilar instruments (i.e., bass vs. trumpet), moving towards more similar sounding instruments (i.e., violin vs. viola; oboe vs. bassoon; xylophone vs. vibraphone, etc.,). From the 70 original musical features extracted from each audio sample, a sequential forward selection algorithm was employed to select only the most salient features that best differentiate the instruments in question. Using twenty runs for each set of instruments (i.e., 10 sets of a 50/50 cross-validation training paradigm), the test results were promising, with classification rates ranging from a mean of 76% to 96%, with many individual runs reaching a perfect 100% score. The conclusion of this thesis confirms the use of multi-threaded artificial neural networks as a viable classifier in single instrument recognition of perceptively similar sounding instruments.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/555</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1589&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>555</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1589</articleid>
+<submission-date>2010-03-01T07:33:38-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1181261</context-key>
+<submission-path>utk_gradthes/555</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Bruce MacLennan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

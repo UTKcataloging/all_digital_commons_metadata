@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bayesian Framework for High Confidence Signal Validation for Online Monitoring Systems in Nuclear Power Plants</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>anair6@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Nair</lname>
+<fname>Anjali</fname>
+<mname>Muraleedharan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>OLM</keyword>
+<keyword>Bayesian Inference</keyword>
+<keyword>Uncertainty Quantification</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Online Monitoring systems may offer an effective alternative to the current intrusive calibration assessment procedure used in the nuclear industry. Apart from optimizing the economic and human resource aspects of the currently utilized technique, OLM increases the opportunities for performance assessment and fault detection for nuclear instrumentation. This can lead to possibly extend or ultimately remove the current time based assessment process. Irrespective of its plausible benefits, OLM sees limited applicability in today’s US fleet. Regulatory constraints that limits the large scale implementation of OLM can be addressed by developing highly sensitive signal validation technique and thereby structurally quantify its associated predictive uncertainty.&lt;/p&gt;
+&lt;p&gt;A multi-tier Bayesian Inference model is developed to fit the high accuracy signal validation requirements set on OLM systems that are developed for instrumentation calibration applications in NPPs. The technique utilizes OLM predictions and original process data as inputs to learn the statistical characteristics of various errors of interest. Here, the implementation focuses on utilizing the uncertainty quantification capacities of this framework to graduate and possibly minimize model based error in OLM systems. This is achieved by a balance between ideal OLM model architecture and sensitivity of hyper parameter selection process for the Bayesian framework. Current implementation of this technique limits the iterative learning process to fewer cycles by marginalizing the hyper parameter distribution based on knowledgeable priors specific to the data set. Mathematically, this eases the number and complexity of the operations (example: integration of posteriors distributions to obtain closed form solutions for parameters of interest). In terms of applications, an extension of this technique is envisioned for performance based calibration status inspection by identifying deviations from calibration bounds using a fault flag system. This model can also be used for fault detection, virtual sensor development, and is suitable for various sensor types and operational modes. The developed framework provides promising results in isolating model inadequacy error for normal data for both stationary and transient ranges. However, currently the model inadequacy error tend to follow the drift, thereby limiting anomaly detection capacities. This can be countered by explicitly modeling the non-stationary error using Gaussian Process.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4060</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5253&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4060</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5253</articleid>
+<submission-date>2016-06-17T16:24:24-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8746529</context-key>
+<submission-path>utk_gradthes/4060</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jamie B Coble</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wes Hines, Richard Wood</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

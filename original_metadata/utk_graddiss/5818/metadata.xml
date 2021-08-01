@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimization of MPI Collective Communication Operations</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xluo12@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Luo</lname>
+<fname>Xi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>MPI</keyword>
+<keyword>Collective Operation</keyword>
+<keyword>Hierarchical Collective Operation</keyword>
+<keyword>Noise</keyword>
+<keyword>Autotuning</keyword>
+</keywords>
+<abstract>&lt;p&gt;High-performance computing (HPC) systems keep growing in scale and heterogeneity to satisfy the increasing need for computation, and this brings new challenges to the design of Message Passing Interface (MPI) libraries, especially with regard to collective operations.The implementations of state-of-the-art MPI collective operations heavily rely on synchronizations, and these implementations magnify noise across the participating processes, resulting in significant performance slowdowns. Therefore, I create a new collective communication framework in Open MPI, using an event-driven design to relax synchronizations and maintain the minimal data dependencies of MPI collective operations.The recent growth in hardware heterogeneity results in increasingly complex hardware hierarchies and larger communication performance differences.Hence, in this dissertation, I present two approaches to perform hierarchical collective operations, and both can exploit the different bandwidths of hardware in heterogeneous systems and maximizing concurrent communications.Finally, to provide a fast and accurate autotuning mechanism for my framework, I design a new autotuning approach by combining two existing methods. This new approach significantly reduces the search space to save the autotuning time and is still able to provide accurate estimations.I evaluate my work with microbenchmarks and applications at different scales. Microbenchmark results show my work speedups MPI_Bcast and MPI_Allreduce up to 7.34X and 4.86X, respectively, on 4096 processes.In terms of applications, I achieve a 24.3% improvement for Hovorod and a 143% improvement for ASP on 1536 processes as compared to the current Open MPI.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5818</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7584&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5818</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7584</articleid>
+<submission-date>2020-12-10T19:18:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20522207</context-key>
+<submission-path>utk_graddiss/5818</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dali Wang, Michela Taufer, Yingkui Li</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in HPDC, 18.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

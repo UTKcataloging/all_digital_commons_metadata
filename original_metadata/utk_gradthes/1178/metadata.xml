@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A High-Energy Neutron Flux Spectra Measurement Method for the Spallation Neutron Source</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nluciano@utk.edu</email>
+<lname>Luciano</lname>
+<fname>Nicholas Patrick</fname>
+</author>
+</authors>
+<keywords>
+<keyword>High Energy</keyword>
+<keyword>Flux</keyword>
+<keyword>Neutron Spectrometry</keyword>
+<keyword>Spallation Neutron Source</keyword>
+<keyword>Gamma-ray Spectrometry</keyword>
+<keyword>Foil</keyword>
+</keywords>
+<disciplines><discipline>Nuclear</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The goal of this work was to develop a foil activation method to measure high-energy (∼1-100 MeV) neutron flux spectra at the Spallation Neutron Source by researching the scientific literature, assembling an experimental apparatus, performing experiments, analyzing the results, and refining the technique based on experience. The primary motivation for this work is to provide a benchmark for the neutron source term used in target station and shielding simulations Two sets of foil irradiations were performed, one at the ARCS beamline and one at the POWGEN beamline. The gamma radiation of the foil activation products was measured with a high purity germanium gamma-ray spectrometer, and the product reaction rates during irradiation were quantified. Corrections, such as self-shielding factors, were applied to the measurements to account for particular effects. The corrected measurement data, along with calculated response functions and an initial guess spectrum, were input to the MAXED neutron spectrum unfolding computer code. MAXED uses the maximum entropy method to unfold an output spectrum that is the minimally modified guess spectrum consistent with the measurement data. The foil irradiation and subsequent analysis from the ARCS spectrum produced a reasonable neutron spectrum, which noticeably differed from the initial guess spectrum. This measurement is regarded as consistent, but yet unverified. The gamma-ray spectrum of the foil irradiation at the POWGEN beamline showed no high-energy activation. This is regarded as an experimental error, and no conclusions can be drawn about the high-energy neutron spectrum. Future foil irradiations are planned to verify and expand the neutron spectrum measurements.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1178</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2237&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1178</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2237</articleid>
+<submission-date>2011-12-05T16:09:51-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2388489</context-key>
+<submission-path>utk_gradthes/1178</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Erik B. Iverson, Ronald E. Pevey</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Final Version.  PUBLISH&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-07T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

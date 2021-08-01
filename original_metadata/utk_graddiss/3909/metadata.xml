@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Essays in Applied Economics: Applications of Transformed Ordinal Quantile Regression</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>oelboeva@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Elboeva</lname>
+<fname>Okila</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Semiparametric estimation</keyword>
+<keyword>quantile regression</keyword>
+<keyword>TORQUE</keyword>
+<keyword>Lasso</keyword>
+<keyword>fertility</keyword>
+<keyword>happiness</keyword>
+<keyword>marijuana</keyword>
+</keywords>
+<disciplines><discipline>Health Economics</discipline>
+<discipline>Other Economics</discipline>
+<discipline>Public Economics</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation consists of three essays on the application of Transformed Ordinal Quantile Regression (TORQUE) developed by Hong and He (2010). TORQUE is based on jittered response, a nonparametric link function, a semiparametric quantile estimation. When the response variable is categorical an application of the standard quantile regression is not optimal. TORQUE technique generalizes ordinary quantile regression, and as a semiparametric method it is more robust than Maximum Likelihood Estimators.&lt;/p&gt;
+&lt;p&gt;In the first essay I estimate conditional quantiles of happiness using the data from British Household Panel Survey (BHPS) for 2006. I find the continuity assumption of happiness ranking does not hold in this framework, implying the direct application of standard quantile regression could produce biased estimators. Results indicate that income, health, and social factors are very important across all quantiles but decreasing in their magnitude. Education has a significant negative association with happiness at upper quantiles and that females are generally happier than their male counterparts.&lt;/p&gt;
+&lt;p&gt;The second essay tests an augmented quantity-quality model of fertility. I focus on the effect of Rosenwald schools on conditional quantiles of fertility for rural black women. Results roughly confirm the model. At the extensive margin, a better access to education increased the probability of having a child from 3.3 to 4.2 percent. I do not find significant effect along the extensive margin. However, OLS estimates infer large and significant negative effects. I also test the same theoretical model for a sample of women who could have attended Rosenwald schools themselves. I find that school exposure decreased the probability of having a child. Results confirm model predictions.&lt;/p&gt;
+&lt;p&gt;The third essay examines the relationship between state medical marijuana laws and marijuana consumption among high school students. Unlike other papers we focus on the frequency of marijuana use rather than only on participation. Using frequency data allows to understand the relationship between MMLs and marijuana use for different demographics, such as light smokers vs. heavy smokers. Results imply that MMLs reduce the probability of smoking. This finding is consistent across different groups and estimators.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3909</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5199&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3909</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5199</articleid>
+<submission-date>2016-02-26T10:25:24-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8224135</context-key>
+<submission-path>utk_graddiss/3909</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Luiz Renato Lima</value>
+</field>
+<field name="advisor2" type="string">
+<value>Celeste Carruthers, William Neilson, Danielle Atkins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Economics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

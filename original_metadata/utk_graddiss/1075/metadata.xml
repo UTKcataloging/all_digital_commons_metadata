@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Challenges for the Accurate Determination of the Surface Thermal Condition via In-Depth Sensor Data</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>belkins1@utk.edu</email>
+<lname>Elkins</lname>
+<fname>Bryan</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<keywords>
+<keyword>inverse heat conduction</keyword>
+<keyword>regularization</keyword>
+<keyword>digital filter</keyword>
+<keyword>real-time sensor</keyword>
+</keywords>
+<disciplines><discipline>Other Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The overall goal of this work is to provide a systematic methodology by which the difficulties associated with the inverse heat conduction problem (IHCP) can be resolved. To this end, two inverse heat conduction methods are presented. First, a space-marching IHCP method (discrete space, discrete time) utilizing a Gaussian low-pass filter for regularization is studied. The stability and accuracy of this inverse prediction is demonstrated to be more sensitive to the temporal mesh than the spatial mesh. The second inverse heat conduction method presented aims to eliminate this feature by employing a global time, discrete space inverse solution methodology. The novel treatment of the temporal derivative in the heat equation, combined with the global time Gaussian low-pass filter provides the regularization required for stable, accurate results.&lt;/p&gt;
+&lt;p&gt;A physical experiment used as a test bed for validation of the numerical methods described herein is also presented. The physics of installed thermocouple sensors are outlined, and loop-current step response (LCSR) is employed to measure and correct for the delay and attenuation characteristics of the sensors. A new technique for the analysis of LCSR data is presented, and excellent agreement is observed between this model and the data.&lt;/p&gt;
+&lt;p&gt;The space-marching method, global time method, and a new calibration integral method are employed to analyze the experimental data. First, data from only one probe is used which limits the results to the case of a semi-infinite medium. Next, data from two probes at different depths are used in the inverse analysis which enables generalization of the results to domains of finite width. For both one- and two-probe analyses, excellent agreement is found between the actual surface heat flux and the inverse predictions. The most accurate inverse technique is shown to be the calibration integral method, which is presently restricted to one-probe analysis. It is postulated that the accuracy of the global time method could be improved if the required higher-time derivatives of temperature data could be more accurately measured. Some preliminary work in obtaining these higher-time derivatives of temperature from a voltage-rate interface used in conjunction with the thermocouple calibration curve is also presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1075</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2284&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1075</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2284</articleid>
+<submission-date>2011-08-01T18:47:17-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2284/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2126739</context-key>
+<submission-path>utk_graddiss/1075</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Majid Keyhani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jay I. Frankel, Rao V. Arimilli, Jayne Wu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

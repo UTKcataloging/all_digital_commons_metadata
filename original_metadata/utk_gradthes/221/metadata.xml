@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Examining Regression Analysis Beyond the Mean of the Distribution using Quantile Regression: A Case Study of Modeling the Internal Bond of Medium Density Fiberboard using Multiple Linear Regression and Quantile Regression with an Example of Reliability Methods using R Software</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shaffer</lname>
+<fname>Leslie</fname>
+<mname>Brooke</mname>
+</author>
+</authors>
+<disciplines><discipline>Statistics and Probability</discipline>
+</disciplines><abstract>&lt;p&gt;The thesis examines the causality of the central tendency of the Internal Bond (IB) of Medium Density Fiberboard (MDF) with predictor variables from the MDF manufacturing process. Multiple linear regression (MLR) models are developed using a best model criterion for all possible subsets of IB for four MDF thickness products reported in inches, e.g., 0.750”, 0.625”, 0.6875”, and 0.500”. Quantile Regression (QR) models of the median IB are also developed.&lt;/p&gt;
+&lt;p&gt;The adjusted coefficient of determination (R&lt;sup&gt;2&lt;/sup&gt; &lt;sub&gt;a&lt;/sub&gt;) of the MLR models range from 72% with 53 degrees of freedom to 81% with 42 degrees of freedom, respectively. The Root Mean Square Errors (RMSE) range from 6.05 pounds per square inch (p.s.i.) to 6.23 p.s.i. A common independent variable for the 0.750” and 0.625” products is “Refiner Resin Scavenger %”. QR models for 0.750” and 0.625” have similar slopes for the median and average but different slopes for the 5&lt;sup&gt;th&lt;/sup&gt; and 95&lt;sup&gt;th&lt;/sup&gt; percentiles. “Face Humidity” is a common predictor for the 0.6875” and 0.500” products. QR models for 0.6875” and 0.500” indicate different slopes for the median and average with different slopes for the outer 5&lt;sup&gt;th&lt;/sup&gt; and 95&lt;sup&gt;th&lt;/sup&gt; percentiles.&lt;/p&gt;
+&lt;p&gt;The MLR and QR validation models for the 0.750”, 0.625” and 0.6875” product types have coefficients of determination for the validation data set ( R&lt;sup&gt;2&lt;/sup&gt;&lt;sub&gt;validation&lt;/sub&gt; ) ranging from 40% to 60% and RMSEP ranging from 26.5 p.s.i. to 27.85 p.s.i.. The MLR validation model for the 0.500” product has a R&lt;sup&gt;2&lt;/sup&gt;&lt;sub&gt;validation&lt;/sub&gt; and RMSEP of 64% and 23.63 p.s.i. while the QR validation model has a R&lt;sup&gt;2&lt;/sup&gt;&lt;sub&gt;validation&lt;/sub&gt; and RMSEP of 66% and 19.18 p.s.i. The IB for 0.500” has departure from normality that is reflected in the results of the validation models. The thesis results provide further evidence that QR is a more defendable method for modeling the central tendency of a response variable when the response variable departs from normality.&lt;/p&gt;
+&lt;p&gt;The use of QR provides MDF manufacturers with an opportunity to examine causality beyond the mean of the distribution. Examining the lower and upper percentiles of a distribution may provide significant insight for identifying process variables that influence IB failure or extreme IB strength. Keywords.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/221</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1253&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>221</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1253</articleid>
+<submission-date>2010-02-10T10:13:36-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1139066</context-key>
+<submission-path>utk_gradthes/221</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy M. Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank Guess, Ramón León</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/ShafferLeslie.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Low-Dose Radiation Effects on Variation in Gene Expression, With Potential Application to Network Construction</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tebbe</lname>
+<fname>Adam</fname>
+</author>
+</authors>
+<disciplines><discipline>Life Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The molecular responses to radiation exposure have been an avidly pursued research topic for many years now. Most of this effort has been focused on large doses of radiation, such as those experienced during a nuclear explosion or cancer treatment. Of equal importance though, are the effects of low doses of radiation, which have received much less attention. This study attempts to analyze the effects of low-dose radiation exposure on different inbred mice strains, each of which represents a unique genetic constitution. The genetic background was found to have a dramatic effect on the variability of gene expression of the irradiated mice, with anywhere from 950 to 6900 genes significantly variable. This effect was found to be more extreme in some strains compared to others, as well as being much more prominent in skin tissue than spleen tissue. Additionally, 200 to 3500 of the genes found to have variable expression were only variable in one of the inbred strains, which again show that the genetic background has an impact on different responses to radiation exposure. It was also found that performing microarray hybridizations using RNA that comes from multiple animals dramatically increases the variability of gene expression, when compared to RNA that comes from a single animal.&lt;/p&gt;
+&lt;p&gt;Pathway analysis and network construction methods have become a popular topic of interest in the bioinformatics community, which has been a result of the large volumes of data being produced through high-throughput genomics experiments. One popular method for building such pathways are through the use of Bayesian Networks. Many questions remain unresolved in their application though, such as how many experiments are required before an accurate model can be produced, and how accurate is that model.&lt;/p&gt;
+&lt;p&gt;Based upon the simulations run, a minimum of 300 data points is required to obtain a graph that resembles the true structure, while more than 300 data points continues to improve the accuracy. The same number of data points also consistently produced the highest scoring graph, and allowed for the identification of modules within the graphs. The accuracy of this decreased though as the size of the graphs increased. Therefore, in consideration of applying such a method to the biological domain, a minimum of 300 experiments should be included before attempting to build a small network.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2362</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3798&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2362</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3798</articleid>
+<submission-date>2013-10-18T10:17:12-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4738743</context-key>
+<submission-path>utk_gradthes/2362</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brynn Voy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Arnold Saxton, Russell L. Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

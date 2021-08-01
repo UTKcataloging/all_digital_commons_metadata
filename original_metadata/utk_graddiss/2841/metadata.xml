@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Some Aspects of Function Theory for Dirichlet-type Spaces</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sluo1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Luo</lname>
+<fname>Shuaibing</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Weak Products</keyword>
+<keyword>Index</keyword>
+<keyword>Corona Theorem</keyword>
+</keywords>
+<abstract>&lt;p&gt;Let μ[mu] be a nonnegative Borel measure on the boundary T[unit circle] of the unit disc and define φμ[phi mu] to be the harmonic function&lt;/p&gt;
+&lt;p&gt;φμ(z)= ∫[integral]&lt;sub&gt;T&lt;/sub&gt; (1-|z|&lt;sup&gt;2&lt;/sup&gt;[square])/(|ζ[zeta]-z|&lt;sup&gt;2&lt;/sup&gt;) dμ(ζ ).&lt;/p&gt;
+&lt;p&gt;The harmonically weighted Dirichlet space D(μ) is defined as the space of all analytic functions on the unit disc D[unit disc] such that&lt;/p&gt;
+&lt;p&gt;∫[integral]&lt;sub&gt;D&lt;/sub&gt; |f&#39;(z)|&lt;sup&gt;2&lt;/sup&gt;φμ(z)dA(z)&lt;/p&gt;
+&lt;p&gt;is finite. When μ is the Lebesgue measure on T, then D(μ) is the Dirichlet space D.&lt;/p&gt;
+&lt;p&gt;The harmonically weighted Dirichlet spaces were introduced by Richter in [50] as he was studying analytic two-isometries. These spaces have been studied extensively throughout the years, see e.g. [3], [21], [22], [23], [24], [52], [53], [62], [63], [64], [66] and [67].&lt;/p&gt;
+&lt;p&gt;The weak product of D denoted by D⊙D [DdotD] is the following set:&lt;/p&gt;
+&lt;p&gt;D⊙D = {h ∈[in] Hol(D) : h = ∑[sum] figi,&lt;/p&gt;
+&lt;p&gt;∑[sum] ||fi|| ||gi|| &lt; ∞ [infinity], fi, gi∈D}.&lt;/p&gt;
+&lt;p&gt;The dual of D⊙D has been characterized in 2010 by Arcozzi, Rochberg, Sawyer and Wick [9] as the space X[script X](D) of analytic functions b on D such that |b&#39;|&lt;sup&gt;2&lt;/sup&gt;dA is a Carleson measure for the Dirichlet space.&lt;/p&gt;
+&lt;p&gt;In this dissertation we show that for functions f in proper weak*-closed M&lt;sub&gt;z&lt;/sub&gt;[M sub z]*-invariant subspaces of &lt;em&gt;X&lt;/em&gt;(D), the functions (zf)&#39; are in the Nevanlinna class of D and have meromorphic pseudocontinuations in the Nevanlinna class of the exterior disc. We then use this result to show that every nonzero M&lt;sub&gt;z&lt;/sub&gt;-invariant subspace &lt;em&gt;N&lt;/em&gt;[script N] of D⊙D has index 1, i.e. satisfies dim &lt;em&gt;N&lt;/em&gt;/z&lt;em&gt;N&lt;/em&gt; =1.&lt;/p&gt;
+&lt;p&gt;In the second part of this dissertation, we study the corona theorem for the D(μ) spaces when μ is a finitely atomic measure. If μ is a finitely atomic measure, we use the observation from Richter and Sundberg [52] that M(D(μ))= D(μ)∩[intersection]H∞(D) to show that the set of multiplicative linear functionals consisting of evaluations at points of D is dense in the maximal ideal space of M(D(μ)). Furthermore, we obtain the corona theorem for infinitely many functions in M(D(μ).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2841</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4146&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2841</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4146</articleid>
+<submission-date>2014-04-24T19:54:55-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5519161</context-key>
+<submission-path>utk_graddiss/2841</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Stefan Richter</value>
+</field>
+<field name="advisor2" type="string">
+<value>Carl Sundberg, Remus Nicoara, George Siopsis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

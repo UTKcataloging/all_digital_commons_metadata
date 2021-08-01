@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analysis of Boosted Regression Trees to Predict the Strength Properties of Wood Composites</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dillon.carty@gmail.com</email>
+<lname>Carty</lname>
+<fname>Dillon</fname>
+<mname>Matthew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Boosted Regression Tree</keyword>
+<keyword>Predictive Models</keyword>
+<keyword>Internal Bond</keyword>
+<keyword>Modulus of Rupture</keyword>
+<keyword>Particleboard</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+</disciplines><abstract>&lt;p&gt;The forest products industry is a significant contributor to the U.S. economy contributing six percent of the total U.S. manufacturing gross domestic product (GDP), placing it on par with the U.S. automotive and plastics industries.  Sustaining business competitiveness by reducing costs and maintaining product quality will be essential in the long term for this industry.  Improved production efficiency and business competitiveness is the primary rationale for this work.  A challenge facing this industry is to develop better knowledge of the complex nature of process variables and their relationship with final product quality attributes.  Quantifying better the relationships between process variables (e.g., press temperature) and final product quality attributes plus predicting the strength properties of final products are the goals of this study.  Destructive lab tests are taken at one to two hour intervals to estimate internal bond (IB) tensile strength and modulus of rupture (MOR) strength properties. Significant amounts of production occur between destructive test samples.  &lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the absence of a real-time model that predicts strength properties, operators may run higher than necessary feedstock input targets (e.g., weight, resin, etc.).  Improved prediction of strength properties using boosted regression tree (BRT) models may reduce the costs associated with rework (i.e., remanufactured panels due to poor strength properties), reduce feedstocks costs (e.g., resin and wood), reduce energy usage, and improve wood utilization from the valuable forest resource.  &lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Real-time, temporal process data sets were obtained from a U.S. particleboard manufacturer.  In this thesis, BRT models were developed to predict the continuous response variables MOR and IB from a pool of possible continuous predictor variables.  BRT model comparisons were done using the root mean squared error for prediction (RMSEP) and the RMSEP relative to the mean of the response variable as a percent (RMSEP%) for the validation data set(s).  Overall, for MOR, RMSEP values ranged from 0.99 to 1.443 MPa, and RMSEP% values ranged from 7.9% to 11.6%.  Overall, for IB, RMSEP values ranged from 0.074 to 0.108 MPa, and RMSEP% values ranged from 12.7% to 18.6%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/954</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2089&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>954</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2089</articleid>
+<submission-date>2011-06-21T23:14:50-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2089/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2070705</context-key>
+<submission-path>utk_gradthes/954</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy M. Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank M. Guess, Russell L. Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Barrier Coverage in Wireless Sensor Networks</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zwang32@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wang</lname>
+<fname>Zhibo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>wireless sensor networks</keyword>
+<keyword>barrier coverage</keyword>
+<keyword>intruder detection</keyword>
+<keyword>fault tolerance</keyword>
+</keywords>
+<disciplines><discipline>Digital Communications and Networking</discipline>
+</disciplines><abstract>&lt;p&gt;Barrier coverage is a critical issue in wireless sensor networks (WSNs) for security applications, which aims to detect intruders attempting to penetrate protected areas. However, it is difficult to achieve desired barrier coverage after initial random deployment of sensors because their locations cannot be controlled or predicted. In this dissertation, we explore how to leverage the mobility capacity of mobile sensors to improve the quality of barrier coverage.&lt;/p&gt;
+&lt;p&gt;We first study the 1-barrier coverage formation problem in heterogeneous sensor networks and explore how to efficiently use different types of mobile sensors to form a barrier with pre-deployed different types of stationary sensors. We introduce a novel directional barrier graph model and prove that the minimum cost of mobile sensors required to form a barrier with stationary sensors is the length of the shortest path from the source node to the destination node on the graph. In addition, we formulate the problem of minimizing the cost of moving mobile sensors to fill in the gaps on the shortest path as a minimum cost bipartite assignment problem and solve it in polynomial time using the Hungarian algorithm.&lt;/p&gt;
+&lt;p&gt;We further study the k-barrier coverage formation problem in sensor networks. We introduce a novel weighted barrier graph model and prove that determining the minimum number of mobile sensors required to form k-barrier coverage is related with but not equal to finding k vertex-disjoint paths with the minimum total length on the WBG. With this observation, we propose an optimal algorithm and a faster greedy algorithm to find the minimum number of mobile sensors required to form k-barrier coverage.&lt;/p&gt;
+&lt;p&gt;Finally, we study the barrier coverage formation problem when sensors have location errors. We derive the minimum number of mobile sensors needed to fill in a gap with a guarantee when location errors exist and propose a progressive method for mobile sensor deployment. Furthermore, we propose a fault tolerant weighted barrier graph to find the minimum number of mobile sensors needed to form barrier coverage with a guarantee.&lt;/p&gt;
+&lt;p&gt;Both analytical and experimental studies demonstrated the effectiveness of our proposed algorithms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2872</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4122&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2872</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4122</articleid>
+<submission-date>2014-04-10T13:57:04-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5468816</context-key>
+<submission-path>utk_graddiss/2872</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi, Qing Cao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

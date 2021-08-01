@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multiple View 3D Reconstruction of Micro- to Nano-Scopic Specimens</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Schultz</lname>
+<fname>Matthew</fname>
+<mname>Alan</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;Range images and 3D modeling are often utilized on large scale specimens, but have been somewhat overlooked on the microscopic scale. This thesis concentrates on overcoming some of the difficulties of capturing images and creating both 3D models and 2D range images on this scale. During the scope of this thesis we take a deeper look into the optical mechanics of the laser scanning confocal microscope (LSCM) and scanning electron microscope (SEM) to understand the formation of the images and use that information to create our algorithms. With the use of the LSCM we can obtain a stack of 2D images of microscopic specimens. Our algorithm is able to process that stack of images and obtain both a 2D range image and a 3D model of a specimen from a single view. Through the use of computational methods and a set of eucentrically tilted images from the SEM we are able to obtain a surface point cloud of the specimen being modeled. By rotating the specimen and imaging it from several different angles a complete 3D model can be obtained. Through the implementation of our LSCM algorithm we have been able to obtain highly complete 3D reconstructions of both industrial and biological specimens of multiple size and shapes. The LSCM results produced and illustrated in this thesis exceed that of the current software available for producing both range images and 3D models. The results obtained from the SEM algorithm are a bit more modest yet offer an important understanding of the 3D characteristics of the specimens modeled. The point clouds produced and illustrated in this thesis show the accurate reconstruction of multiple points in a 3D space and when coupled with the 2D images produced by the SEM can help offer better depth understanding and measurement of features located on the specimen. Through the course of this thesis we have solved a few of the problems associated with 3D modeling on the microscopic level and offered a very good starting point from which to build upon. These reconstruction methods can be utilized individually or together for the use of better understanding and mapping microscopic organisms, reverse engineering, and quality control checks of microscopic parts.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2202</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3580&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2202</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3580</articleid>
+<submission-date>2013-10-10T07:32:34-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4691923</context-key>
+<submission-path>utk_gradthes/2202</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard Jendrucko, Tony English, David Page</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigating the evolution of microtextured region in Ti-6242 using FE-FFT multiscale modeling method</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rma8@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ma</lname>
+<fname>Ran</fname>
+</author>
+</authors>
+<keywords>
+<keyword>crystal plasticity</keyword>
+<keyword>multiscale modeling</keyword>
+<keyword>fast Fourier transform</keyword>
+<keyword>titanium</keyword>
+<keyword>microtextured region</keyword>
+</keywords>
+<abstract>&lt;p&gt;Titanium alloy Ti-6242 (Ti-6Al-2Sn-4Zr-2Mo) is frequently used in the high-pressure compressor of aero engines due to its excellent resistance to fatigue and creep failure at high temperature. While exhibiting high strength at elevated temperatures, it is susceptible to dwell fatigue at temperatures below 473 K due in part to the presence of microtextured regions (MTRs), also known as macrozones. MTRs are clusters of similarly orientated alpha particles, which form during alpha/beta processing and remain stable even after large deformation. The major objective of this dissertation is to quantify the evolution of MTRs under different thermomechanical processing parameters, and predict the optimal processing parameters to eliminate the MTRs.Idealized MTRs with pure initial orientation are first employed as the benchmark case to investigate the loading direction effect on its breakdown efficiency. Three high-temperature compression processes are simulated with different loading directions using crystal plasticity finite element method, and the results are validated against high-temperature compression experiments and EBSD measurement. The evolution of equivalent plastic strain, accumulated shear strain, and misorientation distribution is analyzed in detail to reveal the relationship between loading direction and MTR breakdown efficiency. Lastly, the reorientation velocity divergence of arbitrary loading direction is expressed in the Rodrigues&#39; space in order to predict the optimal processing parameters for MTR elimination.    The MTR breakdown efficiency also depends on the morphology and its position within the specimen. Two different length scales have to be analyzed in order to consider both factors, which present great challenge to the numerical simulation. In this dissertation, a high-efficient FE-FFT multiscale modeling framework is derived and developed to overcome this challenge. The Fourier-Galerkin method is utilized to solve the microscale unit cell problem, while total Lagrangian nite element is used to solve the macroscopic boundary value problems. Several numerical improvements are derived and implemented to further improve its numerical efficiency, including consistent linearization, consistent homogenized tangent stiffness, and inexact Newton method. A series of numerical studies is conducted to investigate the accuracy, efficiency, and robustness of this algorithm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5299</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6843&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5299</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6843</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14343033</context-key>
+<submission-path>utk_graddiss/5299</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy Truster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Reza Abedi, Khalid Alshibli, Dayakar Penumadu</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-6016-693X</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in journal.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

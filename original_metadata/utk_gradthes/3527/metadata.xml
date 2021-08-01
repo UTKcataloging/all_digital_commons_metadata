@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Middleware and Services for Dynamic Adaptive Neural Network Arrays</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jwill221@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Willis</lname>
+<fname>Joshua</fname>
+<mname>Caleb</mname>
+</author>
+</authors>
+<keywords>
+<keyword>neuromorphic computing</keyword>
+<keyword>middleware</keyword>
+<keyword>software engineering</keyword>
+</keywords>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Dynamic Adaptive Neural Network Arrays (DANNAs) are neuromorphic systems that exhibit spiking behaviors and can be designed using evolutionary optimization. Array elements are rapidly reconfigurable and can function as either neurons or synapses with programmable interconnections and parameters. Visualization applications can examine DANNA element connections, parameters, and functionality, and evolutionary optimization applications can utilize DANNA to speedup neural network simulations. To facilitate interactions with DANNAs from these applications, we have developed a language-agnostic application programming interface (API) that abstracts away low-level communication details with a DANNA and provides a high-level interface for reprogramming and controlling a DANNA. The library has also been designed in modules in order to adapt to future changes in the design of DANNA, including changes to the DANNA element design, DANNA communication protocol, and connection. In addition to communicating with DANNAs, it is also beneficial for applications to store networks with known functionality. Hence, a Representational State Transfer (REST) API with a MongoDB database back-end has been developed to encourage the collection and exploration of networks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3527</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4812&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3527</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4812</articleid>
+<submission-date>2015-06-17T13:11:05-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7230471</context-key>
+<submission-path>utk_gradthes/3527</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark E. Dean, James S. Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Genome-wide Associations Detect Allele Dose-dependent Metabolism and Transport Genes as Basis for Variation in Sweetpotato Storage Root Culinary Profiles</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>trickman@vols.utk.edu</email>
+<lname>Rickman</lname>
+<fname>Tara</fname>
+<mname>Elizabeth</mname>
+</author>
+</authors>
+<keywords>
+<keyword>GWAS</keyword>
+<keyword>sugar transport</keyword>
+<keyword>carbohydrate metabolism</keyword>
+<keyword>complex trait</keyword>
+</keywords>
+<disciplines><discipline>Plant Breeding and Genetics</discipline>
+</disciplines><abstract>&lt;p&gt;Previously considered a poor man’s crop, sweetpotato production is increasing globally due to its complex carbohydrates and other health benefits. Developing superior cultivars for various emerging market niches is imperative to sustaining and growing the production of sweetpotatoes. Culinary profiles such as sugar composition, organic acids and storage root color are vital for selecting sweetpotatoes targeted for various value-added products. To determine the genetic architecture and candidate genes underlying these culinary profiles, a genome wide association study on 23 traits was performed in over 700 sweetpotato accessions representing global genetic diversity. A new NGS-based quantitative reduced representation sequencing approach (omeSeq/qRRS), an empirical-based quality filtering pipeline (ngsComposer), and a SNP calling and filtering pipeline (GBSapp) were used to generate a high-density marker dataset comprised of about 80,000 dosage-based SNPs, indels, and CNVs. The phenotypic data were obtained from 20 years of USDA field trials. A R software package, GWASpoly, was used to test marker-trait associations using a mixed linear model while controlling for population structure with a dosage-based additive relationship matrix. The association analysis accounted for additive and all hexaploid dosage-based dominance models. Candidate genes controlling sweetpotato storage root sugars were revealed to be involved in sugar metabolism and transport, while others underscored the role of sugars in plant biotic and abiotic stress response. While various gene dosage models account for the genetic architecture of the culinary profiles, the additive model was the predominant mode of gene action. This information will help enhance the implementation of next-generation marker and genomic assisted breeding in the genetically complex hexaploid sweetpotato.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5853</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7044&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5853</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7044</articleid>
+<submission-date>2020-09-29T13:42:52-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/7044/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>19596707</context-key>
+<submission-path>utk_gradthes/5853</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bode A. Olukolu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bode A. Olukolu, Bonnie H. Ownley, Kurt H. Lamour, Sarah L. Lebeis, Meg E. Staton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Entomology and Plant Pathology</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

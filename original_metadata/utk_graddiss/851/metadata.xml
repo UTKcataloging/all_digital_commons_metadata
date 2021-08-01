@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A High -Temperature, High-Voltage, Fast Response Time Linear Regulator in 0.8um BCD-on-SOI</title>
+<publication-date>2010-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>csu@utk.edu</email>
+<lname>Su</lname>
+<fname>Chia Hung</fname>
+</author>
+</authors>
+<keywords>
+<keyword>High-temperature</keyword>
+<keyword>SOI</keyword>
+<keyword>CMOS</keyword>
+<keyword>voltage regulator</keyword>
+<keyword>high-voltage</keyword>
+<keyword>fast response</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;The sale of hybrid electric vehicles (HEVs) has increased tenfold from the year 2001 to 2009 [1]. With this the demand for high temperature electronics has also increased dramatically making, high temperature electronics for HEV applications desirable in the engine compartment, power train, and brakes where the ambient temperature normally exceeds 150°C.  Power converters (i.e. DC-DC converter, DC-AC inverter) inside the HEVs require gate drivers to control the power switches. An integrated gate driver circuit has been realized in 0.8-um BCD-on-SOI process. This gate driver IC needs a step-down voltage regulator to convert the unregulated high input DC voltage (VDDH) to a regulated nominal CMOS voltage (i.e. 5 V). This step-down voltage regulator will supply voltage to the low-side buffer (pre-driver) and other digital and analog circuits inside the gate driver ICs.  A linear voltage regulator is employed to accomplish this task; however, very few publications on high temperature voltage regulators are available. This research presents a high temperature linear voltage regulator designed and fabricated in a commercially available 0.8-um BCD-on-SOI process. SOI processes typically offer reduced junction leakage current by three orders of magnitude compared to the bulk-CMOS processes at temperatures beyond 150°C. In addition, a pole swap compensation technique is utilized to achieve stability over a wide range (four decades) of load current. The error amplifier inside the regulator is designed using an inversion coefficient based design methodology, and a temperature stable current reference is used to bias the error amplifier. The linear regulator provides an output voltage of 5.3 V at room temperature and can supply a maximum load current of 200 mA.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/851</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1936&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>851</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1936</articleid>
+<submission-date>2010-08-06T11:10:02-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1936/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1429174</context-key>
+<submission-path>utk_graddiss/851</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Leon Tolbert, Joshua S. Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide Dynamic Range, Highly Accurate, Low Power CMOS Potentiostat for Electrochemical Sensing Applications</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>vmohan1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Mohan</lname>
+<fname>Varsha</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Presented is a single-ended potentiostat topology with a new interface connection between sensor electrodes and potentiostat circuit to avoid deviation of cell voltage and linearly convert the cell current into voltage signal. Additionally, due to the increased harmonic distortion quantity when detecting low-level sensor current, the performance of potentiostat linearity which causes the detectable current and dynamic range to be limited is relatively decreased. Thus, to alleviate these irregularitiesthe designed with a wide output voltage swing  were implemented using TSMC 0.18-μm CMOS process for biomedical application. Measurement results show that the fully differential potentiostat performs relatively better in terms of linearity when measuring current from 100 pA to 60 uA.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5484</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6957&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5484</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6957</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914254</context-key>
+<submission-path>utk_gradthes/5484</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin j. Blalock Dr., Syed Kamrul Islam Dr., Nicole McFarlane Dr.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

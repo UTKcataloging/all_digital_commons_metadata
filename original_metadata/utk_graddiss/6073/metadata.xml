@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multiphysics Assessment of Accident Tolerant Fuel, Cladding, and Core Structural Material Concepts</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jgorton@vols.utk.edu</email>
+<lname>Gorton</lname>
+<fname>Jacob Preston</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Accident Tolerant Fuel</keyword>
+<keyword>Multiphysics</keyword>
+<keyword>LWR</keyword>
+<keyword>Sensitivity Analysis</keyword>
+<keyword>Modeling and Simulation</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The severe accident at the Fukushima-Daiichi nuclear power plant in 2011 ignited a global research and development effort to replace traditionally-used materials in Light Water Reactors (LWRs) with Accident Tolerant Fuel (ATF) materials. These materials are intended to extend the coping time of nuclear power plants during severe accident scenarios, but must undergo thorough safety and performance evaluations before being implemented. Four ATF concepts are analyzed in this dissertation using state-of-the-art computer modeling tools: (1) iron-chromium-aluminum (FeCrAl) fuel rod cladding, (2) silicon carbide (SiC) fiber-reinforced, SiC matrix composite (SiC/SiC) boiling water reactor (BWR) channel boxes, (3) mixed thorium mononitride (ThN) and uranium mononitride (UN) fuel, (4) and UO&lt;sub&gt;2&lt;/sub&gt; [uranium dioxide] with embedded high thermal conductivity Mo inserts. The goals and approaches used for each study differed, and portions of this dissertation focused on verifying the accuracy of advanced modeling tools. Although each ATF evaluation is distinct, the underlying theme is the enhancement of safety, efficiency, and economic competitiveness of nuclear power through the use of advanced modeling techniques applied to material characterization studies.&lt;/p&gt;
+&lt;p&gt;Results from the evaluations show the pros and cons of each ATF concept and highlight areas of needed modeling development. Comparisons of simulated and experimental critical heat flux (CHF) data for FeCrAl cladding and subsequent sensitivity analyses emphasized differences between real-world and simulated post-CHF phenomena. The Virtual Environment for Reactor Applications (VERA) multiphysics modeling suite was verified against other widely-used modeling tools for BWR application, and its advanced features were used to generate boundary conditions in SiC/SiC channel boxes used for deformation analyses. Several ThN-UN mixtures were analyzed using reactor physics and thermal hydraulic techniques and were shown to significantly increase the margin to fuel melt compared with UO&lt;sub&gt;2&lt;/sub&gt; [uranium dioxide] in LWRs. Mo inserts for UO&lt;sub&gt;2&lt;/sub&gt; [uranium dioxide] were optimized using sensitivity regression techniques and were also shown to significantly increase the margin to fuel melt compared with traditional UO&lt;sub&gt;2&lt;/sub&gt; [uranium dioxide].&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6073</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7369&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6073</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7369</articleid>
+<submission-date>2020-09-24T06:59:06-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7369/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19527177</context-key>
+<submission-path>utk_graddiss/6073</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicholas R. Brown</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie B. Coble, G. Ivan Maldonado, Benjamin S. Collins, Andrew T. Nelson</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;0000-0002-6980-6083&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

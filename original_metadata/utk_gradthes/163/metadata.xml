@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hardware Accelerated Scalable Parallel Random Number Generation</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lee</lname>
+<fname>Junkyu</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Scalable Parallel Random Number Generators library (SPRNG) is widely used due to its speed, quality, and scalability. Monte Carlo (MC) simulations often employ SPRNG to generate large quantities of random numbers. Thanks to fast Field-Programmable Gate Array (FPGA) technology development, this thesis presents Hardware Accelerated SPRNG (HASPRNG) for the Virtex-II Pro XC2VP30 FPGAs. HASPRNG includes the full set of SPRNG generators and provides programming interfaces which hide detailed internal behavior from users. HASPRNG produces identical results with SPRNG, and it is verified with over 1 million consecutive random numbers for each type of generator. The programming interface allows a developer to use HASPRNG the same way as SPRNG. HASPRNG introduces 4-70 times faster execution than the original SPRNG. This thesis describes the implementation of HASPRNG, the verification platform, the programming interface, and its performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/163</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1195&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>163</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1195</articleid>
+<submission-date>2010-02-09T13:14:17-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1138074</context-key>
+<submission-path>utk_gradthes/163</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Elhanany, Robert J. Harrison</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/LeeJunKyu.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

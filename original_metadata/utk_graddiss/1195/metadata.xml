@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of Wireless Power Transfer and Data Telemetry System for Biomedical Applications</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aislam@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Islam</lname>
+<fname>Ashraf</fname>
+<mname>Bin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>wireless power transfer</keyword>
+<keyword>inductor</keyword>
+<keyword>biomedical</keyword>
+<keyword>pcb</keyword>
+<keyword>on-chip</keyword>
+<keyword>inductive link</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>Electromagnetics and Photonics</discipline>
+<discipline>Electronic Devices and Semiconductor Manufacturing</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;With the advancement of biomedical instrumentation technologies sensor based remote healthcare monitoring system is gaining more attention day by day. In this system wearable and implantable sensors are placed outside or inside of the human body. Certain sensors are needed to be placed inside the human body to acquire the information on the vital physiological phenomena such as glucose, lactate, pH, oxygen, etc. These implantable sensors have associated circuits for sensor signal processing and data transmission. Powering the circuit is always a crucial design issue. Batteries cannot be used in implantable sensors which can come in contact with the blood resulting in serious health risks. An alternate approach is to supply power wirelessly for tether-less and battery- less operation of the circuits.Inductive power transfer is the most common method of wireless power transfer to the implantable sensors. For good inductive coupling, the inductors should have high inductance and high quality factor. But the physical dimensions of the implanted inductors cannot be large due to a number of biomedical constraints. Therefore, there is a need for small sized and high inductance, high quality factor inductors for implantable sensor applications. In this work, design of a multi-spiral solenoidal printed circuit board (PCB) inductor for biomedical application is presented. The targeted frequency for power transfer is 13.56 MHz which is within the license-free industrial, scientific and medical (ISM) band. A figure of merit based optimization technique has been utilized to optimize the PCB inductors. Similar principal is applied to design on-chip inductor which could be a potential solution for further miniaturization of the implantable system. For layered human tissue the optimum frequency of power transfer is 1 GHz for smaller coil size. For this reason, design and optimization of multi-spiral solenoidal integrated inductors for 1 GHz frequency is proposed. Finally, it is demonstrated that the proposed inductors exhibit a better overall performance in comparison with the conventional inductors for biomedical applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1195</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2390&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1195</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2390</articleid>
+<submission-date>2011-11-16T06:47:43-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2352180</context-key>
+<submission-path>utk_graddiss/1195</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Leon M. Tolbert, Thomas T. Meek</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

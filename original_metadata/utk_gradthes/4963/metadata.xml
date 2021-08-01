@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Synthesis of Memristive Neuromorphic Circuits</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>awyer@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wyer</lname>
+<fname>Austin</fname>
+<mname>Richard</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neuromorphic</keyword>
+<keyword>memristor</keyword>
+<keyword>neural network</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;As Moores Law has come to a halt, it has become necessary to explore alternative forms of computation that are not limited in the same ways as traditional CMOS technologies and the Von Neumann architecture. Neuromorphic computing, computing inspired by the human brain with neurons and synapses, has been proposed as one of these alternatives. Memristors, non-volatile devices with adjustable resistances, have emerged as a candidate for implementing neuromorphic computing systems because of their low power and low area overhead. This work presents a C++ simulator for an implementation of a memristive neuromorphic circuit. The simulator is used within a software framework to design and evaluate these circuits.&lt;/p&gt;
+&lt;p&gt;The first chapter provides a background on neuromorphic computing and memristors, explores other neuromorphic circuits and their programming models, and finally presents the software framework for which the simulator was developed. The second chapter presents the C++ simulator and the genetic operators used in the generation of the memristive neuromorphic networks. Next, the third chapter presents a verification of the accuracy of the simulator, and provides some analysis of designs. These analyses focus on variation, the Axon-Hillock neuron model, limited programming resolutions, and online learning mechanisms. Finally, the fourth chapter discusses future considerations.&lt;/p&gt;
+&lt;p&gt;Thus, this thesis presents the C++ simulator as a tool to generate memristive neuromorphic networks. Additionally, it shows how the simulator can be used to understand how the underlying hardware impacts the application level performance of the network.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4963</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6218&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4963</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6218</articleid>
+<submission-date>2017-06-15T16:23:21-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/6218/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>10311636</context-key>
+<submission-path>utk_gradthes/4963</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Garrett S. Rose</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Plank, Mark Dean</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

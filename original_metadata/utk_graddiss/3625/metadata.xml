@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Energy-efficient and Power-dense DC-DC Converters in Data Center and Electric Vehicle Applications Using Wide Bandgap Devices</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wzhang29@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Weimin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Data center power supply</keyword>
+<keyword>Electrical Vehicle</keyword>
+<keyword>GaN</keyword>
+<keyword>High frequency</keyword>
+<keyword>High Efficiency</keyword>
+<keyword>LLC resonant converter</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;The ever increasing demands in the energy conversion market propel power converters towards high efficiency and high power density. With fast development of data processing capability in the data center, the server will include more processors, memories, chipsets and hard drives than ever, which requires more efficient and compact power converters. Meanwhile, the energy-efficient and power-dense converters for the electric vehicle also result in longer driving range as well as more passengers and cargo capacities. DC-DC converters are indispensable power stages for both applications. In order to address the efficiency and density requirements of the DC-DC converters in these applications, several related research topics are discussed in this dissertation.&lt;/p&gt;
+&lt;p&gt;For the DC-DC converter in the data center application, a LLC resonant converter based on the newly emerged GaN devices is developed to improve the efficiency over the traditional Si-based converter. The relationship between the critical device parameters and converter loss is established. A new perspective of extra winding loss due to the asymmetrical primary and secondary side current in LLC resonant converter is proposed. The extra winding loss is related to the critical device parameters as well. The GaN device benefits on device loss and transformer winding loss is analyzed. An improved LLC resonant converter design method considering the device loss and transformer winding loss is proposed.&lt;/p&gt;
+&lt;p&gt;For the DC-DC converter in the electric vehicle application, an integrated DC-DC converter that combines the on-board charger DC-DC converter and drivetrain DC-DC converter is developed. The integrated DC-DC converter is considered to operate in different modes. The existing dual active bridge (DAB) DC-DC converter originally designed for the charger is proposed to operate in the drivetrain mode to improve the efficiency at the light load and high voltage step-up ratio conditions of the traditional drivetrain DC-DC converter. Design method and loss model are proposed for the integrated converter in the drivetrain mode. A scaled-down integrated DC-DC converter prototype is developed to verify the design and loss model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3625</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4897&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3625</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4897</articleid>
+<submission-date>2015-06-16T08:06:23-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7221132</context-key>
+<submission-path>utk_graddiss/3625</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel J. Costinett, Leon M. Tolbert, Benjamin J. Blalock, David K. Irick</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>High Voltage Point of Load Converter for Data Center Power Supplies</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ycui7@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cui</lname>
+<fname>Yutian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power supplies</keyword>
+<keyword>high step down</keyword>
+<keyword>soft switching</keyword>
+<keyword>adaptive voltage positioning</keyword>
+<keyword>input series output parallel</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;With the increased cloud computing and digital information storage, the energy requirement of data centers where a large number of computer systems are housed keeps increasing. However, most of the data centers today are operated inefficiently, both economically and environmentally. Efforts including improving power delivery architecture, power conversion efficiency and thermal management have been made to increase the power delivery efficiency from grid to point of load.&lt;/p&gt;
+&lt;p&gt;In this dissertation, a new power delivery architecture, high voltage point of load (HV POL) architecture, has been proposed in order to improve power conversion and distribution efficiency for data center power supplies.&lt;/p&gt;
+&lt;p&gt;First, the conversion structure has been selected as input series and output parallel (ISOP) to fulfill the high ratio (400: 1) conversion and mitigate the step down stress of a single converter. Also, with multiple output phases, interleaving control technique can be applied to increase equivalent switching frequency and allows smaller output inductor.&lt;/p&gt;
+&lt;p&gt;Then, two different types of converter topologies have been chosen for evaluation in the ISOP structure: phase shift full bridge (PSFB) and half bridge current doubler. High efficiency driven converter design and control method have been performed on both topologies. In PSFB, the output junction capacitance of primary side devices’ impact on converter’s efficiency has been studied. For half bridge current doubler, a novel control method enabling soft switching over the entire load range with simple auxiliary circuit is proposed and verified in experiments.&lt;/p&gt;
+&lt;p&gt;A six phase ISOP connected half bridge current doubler converter was built and tested to realize the single stage 400 V to 1 V conversion. Adaptive voltage positioning (AVP) control is analyzed and performed on the ISOP system to meet the on-board power supply requirement. Also, the impact of mismatches in the ISOP connected modules are calculated and simulated for both static and dynamic performance, and it is shown that the ISOP system is relatively immune to circuit’s mismatches. Therefore, the concept of using the single stage ISOP connected converter has been shown to be feasible as a high efficiency on-board power supply with good transient performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3690</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5096&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3690</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5096</articleid>
+<submission-date>2016-01-27T06:44:46-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5096/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8054356</context-key>
+<submission-path>utk_graddiss/3690</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Daniel J. Costinett, Andrew W. Wereszczak</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

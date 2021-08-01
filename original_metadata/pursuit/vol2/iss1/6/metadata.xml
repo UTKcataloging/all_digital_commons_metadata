@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Exploration of Optimization Algorithms and Heuristics for the Creation of Encoding and Decoding Schedules in Erasure Coding</title>
+<publication-date>2011-03-28T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cschuman@utk.edu</email>
+<lname>Schuman</lname>
+<fname>Catherine Dorothy</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Electrical Engineering and Computer Science</subject-area>
+</subject-areas>
+<abstract>&lt;p&gt;Erasure codes are employed by disk systems to tolerate failures. They are typically characterized by bit-matrices that are used for encoding and decoding. The efficiency of an erasure code using a bit-matrix is directly related to the number of exclusive-or (XOR) operations required during the encoding process. Thus, a problem within the field of erasure coding is how to schedule the XOR operations for any given bit-matrix so that the fewest number of XOR operations are required. This paper develops an algorithm for finding the optimum solution and analyzes the performance of two known heuristics on a set of encoding matrices.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/pursuit/vol2/iss1/6</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1048&amp;amp;context=pursuit&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1048</articleid>
+<submission-date>2011-03-27T17:50:22-07:00</submission-date>
+<publication-title>Pursuit - The Journal of Undergraduate Research at The University of Tennessee</publication-title>
+<context-key>1903536</context-key>
+<submission-path>pursuit/vol2/iss1/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-03-27T00:00:00-07:00</value>
+</field>
+<field name="multimedia_format" type="string">
+<value>flash_audio</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-03-28T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Erasure Coding</value>
+</field>
+</fields>
+</document>
+</documents>

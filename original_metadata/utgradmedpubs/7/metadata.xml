@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational simulation of the predicted dosimetric impact of adjuvant yttrium-90 PET/CT-guided percutaneous ablation following radioembolization</title>
+<publication-date>2016-12-12T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Pasciak</lname>
+<fname>Alexander</fname>
+<mname>S.</mname>
+</author>
+<author>
+<institution>Johns Hopkins Hospital</institution>
+<lname>Lin</lname>
+<fname>Abigail</fname>
+</author>
+<author>
+<institution>Johns Hopkins Hospital</institution>
+<lname>Georgiades</lname>
+<fname>Christos</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Findeiss</lname>
+<fname>Laura</fname>
+<mname>K.</mname>
+</author>
+<author>
+<institution>Miami Valley Hospital</institution>
+<lname>Kauffman</lname>
+<fname>Shannon</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bradley</lname>
+<fname>Yong</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Yttrium-90</keyword>
+<keyword>Y90</keyword>
+<keyword>Radioembolization</keyword>
+<keyword>Interventional Oncology</keyword>
+<keyword>SIRT</keyword>
+<keyword>Ablation</keyword>
+</keywords>
+<disciplines><discipline>Medicine and Health Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; 90Y PET/CT post-radioembolization imaging has demonstrated that the distribution of 90Y in a tumor can be non-uniform. Using computational modeling, we predicted the dosimetric impact of post-treatment 90Y PET/CT-guided percutaneous ablation of the portions of a tumor receiving the lowest absorbed dose. A cohort of fourteen patients with non-resectable liver cancer previously treated using 90Y radioembolization were included in this retrospective study. Each patient exhibited potentially under-treated areas of tumor following treatment based on quantitative 90Y PET/CT. 90Y PET/CT was used to guide electrode placement for simulated adjuvant radiofrequency ablation in areas of tumor receiving the lowest dose. The finite element method was used to solve Penne’s bioheat transport equation, coupled with the Arrhenius thermal cell-death model to determine 3D thermal ablation zones. Tumor and unablated tumor absorbed-dose metrics (average dose, D50, D70, D90, V100) following ablation were compared, where D70 is the minimum dose to 70% of tumor and V100 is the fractional tumor volume receiving more than 100 Gy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; Compared to radioembolization alone, 90Y radioembolization with adjuvant ablation was associated with predicted increases in all tumor dose metrics evaluated. The mean average absorbed dose increased by 11.2 ± 6.9 Gy. Increases in D50, D70, and D90 were 11.0 ± 6.9 Gy, 13.3 ± 10.9 Gy, and 11.8 ± 10.8 Gy, respectively. The mean increase in V100 was 7.2 ± 4.2%. All changes were statistically significant (P &lt; 0.01). A negative correlation between pre-ablation tumor volume and D50, average dose, and V100 was identified (ρ &lt; − 0.5, P &lt; 0.05) suggesting that adjuvant radiofrequency ablation may be less beneficial to patients with large tumor burdens.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; This study has demonstrated that adjuvant 90Y PET/CT-guided radiofrequency ablation may improve tumor absorbed-dose metrics. These data may justify a prospective clinical trial to further evaluate this hybrid approach.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utgradmedpubs/7</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1006&amp;amp;context=utgradmedpubs&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1006</articleid>
+<submission-date>2017-02-16T12:22:18-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- UT Graduate School of Medicine</publication-title>
+<context-key>9701708</context-key>
+<submission-path>utgradmedpubs/7</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article is distributed under the terms of the Creative Commons Attribution 4.0&lt;/p&gt;
+&lt;p&gt;International License (&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot; title=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;).&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Pasciak, A. S., Lin, A., Georgiades, C., Findeiss, L. K., Kauffman, S., &amp; Bradley, Y. C. (2016). Computational simulation of the predicted dosimetric impact of adjuvant yttrium-90 PET/CT-guided percutaneous ablation following radioembolization. EJNMMI research, 6(1), 89.</value>
+</field>
+<field name="doi" type="string">
+<value>10.1186/s13550-016-0244-1</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-12T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>EJNMMI Research</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

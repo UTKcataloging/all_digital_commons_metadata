@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scheduling for Timely Passenger Delivery in a Large Scale Ride Sharing System</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhan157@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Yang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ride sharing</keyword>
+<keyword>greedy algorithm</keyword>
+<keyword>vehicle routing problem</keyword>
+<keyword>mixed integer programming</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Taxi ride sharing is one of the most promising solutions to urban transportation issues, such as traffic congestion, gas insufficiency, air pollution, limited parking space and unaffordable parking charge, taxi shortage in peak hours, etc. Despite the enormous demands of such service and its exciting social benefits, there is still a shortage of successful automated operations of ride sharing systems around the world. Two of the bottlenecks are: (1) on-time delivery is not guaranteed; (2) matching and scheduling drivers and passengers is a NP-hard problem, and optimization based models do not support real time scheduling on large scale systems.&lt;/p&gt;
+&lt;p&gt;This thesis tackles the challenge of timely delivery of passengers in a large scale ride sharing system, where there are hundreds and even thousands of passengers and drivers to be matched and scheduled. We first formulate it as a mixed linear integer programming problem, which obtains the theoretical optimum, but at an unacceptable runtime cost even for a small system. We then introduce our greedy agglomeration and Monte Carlo simulation based algorithm. The effectiveness and efficiency of the new algorithm are fully evaluated: (1) Comparison with solving optimization model is conducted on small ride sharing cases. The greedy agglomerative algorithm can always achieve the same optimal solutions that the optimization model offers, but is three orders of magnitude faster. (2) Case studies on large scale systems are also included to validate its performance. (3) The proposed greedy algorithm is straightforward for parallelization to utilize distributed computing resources. (4) Two important details are discussed: selection of the number of Monte Carlo simulations and proper calculation of delays in the greedy agglomeration step. We find out from experiments that the sufficient number of simulations to achieve a “sufficiently optimal solution” is linearly related to the product of the number of vehicles and the number of passengers. Experiments also show that enabling margins and counting early delivery as negative delay leads to more accurate solutions than counting delay only.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4275</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5539&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4275</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5539</articleid>
+<submission-date>2016-10-06T21:41:07-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5539/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>9242345</context-key>
+<submission-path>utk_gradthes/4275</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi, Lee Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

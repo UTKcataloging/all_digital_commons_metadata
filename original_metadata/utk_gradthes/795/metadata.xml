@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigation of the Effects of Inlet Swirl on Compressor Performance and Operability Using a Modified Parallel Compressor Model</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nicholas.fredrick@arnold.af.mil</email>
+<lname>Fredrick</lname>
+<fname>Nicholas</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Turbine Engine Modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;Serpentine ducts used by both military and commercial aircraft can generate significant flow angularity (inlet swirl) and total pressure distortion at the engine face.  The impact of inlet swirl on the engine performance and operability must be quantified to ensure safe operation of the aircraft and propulsion system and to define installed deficiencies.  Testing is performed over a wide range of flight conditions in the propulsion system flight envelope in order to quantify these effects.  Turbine engine compressor models are based on experimental data which can be collected at a limited number of discrete operating points.  These models can be used as an analysis tool to optimize the engine test plan and help during validation of the design.&lt;/p&gt;
+&lt;p&gt;The Dynamic Turbine Engine Compressor Code (DYNTECC) utilizes parallel compressor theory and quasi-one-dimensional Euler equations to determine compressor performance.  In its standard form, DYNTECC uses user-supplied characteristic stage maps in order to calculate stage forces and shaft work for use in the momentum and energy equations. These maps are typically developed using experimental data.  These maps can also be created using characteristic codes such as the 1-D Mean Line Code or the 2-D Streamline Curvature Code.  The 1-D Mean Line Code was originally created to predict the performance of individual compressor stages and requires greatly reduced computational time when compared to 2-D and 3-D models.&lt;/p&gt;
+&lt;p&gt;This thesis documents work done to incorporate the 1-D Mean Line code into DYNTECC as a subroutine.  The combine DYNTECC/1-D Mean Line Code was then used to analyze the effects of inlet swirl on the fan performance and operability of the Honeywell F109 turbofan engine.  The code was calibrated and validated using the F109 cycle deck.  Additional code validation was performed using experimental data gathered at the United States Air Force Academy.  F109 fan maps were developed for various cases of inlet swirl and results were presented showing shifts in corrected mass flow, fan pressure ratio and fan stability limit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/795</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1878&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>795</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1878</articleid>
+<submission-date>2010-10-25T13:10:00-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/1878/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1617225</context-key>
+<submission-path>utk_gradthes/795</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Basil N. Antar</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert W. McAmis, Milton W. Davis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

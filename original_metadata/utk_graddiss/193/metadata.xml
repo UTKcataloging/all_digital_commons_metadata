@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Sizing and Location of Static and Dynamic Reactive Power Compensation</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Wenjuan</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The key of reactive power planning (RPP), or Var planning, is the optimal allocation of reactive power sources considering location and size. Traditionally, the locations for placing new Var sources were either simply estimated or directly assumed. Recent research works have presented some rigorous optimization-based methods in RPP. Different constraints are the key of various optimization models, identified as Optimal Power Flow (OPF) model, Security Constrained OPF (SCOPF) model, and Voltage Stability Constrained OPF model (VSCOPF).&lt;/p&gt;
+&lt;p&gt;First, this work investigates the economic benefits from local reactive power compensation including reduced losses, shifting reactive power flow to real power flow, and increased transfer capability. Then, the benefits in the three categories are applied to Var planning considering different locations and amounts of Var compensation in an enumeration method, but many OPF runs are needed.&lt;/p&gt;
+&lt;p&gt;Then, the voltage stability constrained OPF (VSCOPF) model with two sets of variables is used to achieve an efficient model. The two sets of variables correspond to the “normal operating point (o)” and “collapse point (*)” respectively. Finally, an interpolation approximation method is adopted to simplify the previous VSCOPF model by approximating the TTC function, therefore, eliminating the set of variables and constraints related to the “collapse point”. In addition, interpolation method is compared with the least square method in the literature to show its advantages. It is also interesting to observe that the test results from a seven-bus system show that it is not always economically efficient if Var compensation increases continuously.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/193</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1240&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>193</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1240</articleid>
+<submission-date>2010-02-01T10:14:23-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127526</context-key>
+<submission-path>utk_graddiss/193</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Jack S. Lawler, Suzanne M. Lenhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/ZhangWenjuan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

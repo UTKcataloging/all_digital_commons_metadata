@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-scale Simulation of Linear, Short-Chain Polyethylene Liquids under Flow Conditions</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jkim31@utk.edu</email>
+<institution>The University of Tennessee</institution>
+<lname>Kim</lname>
+<fname>Jun Mo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Polyethylene</keyword>
+<keyword>Rheology</keyword>
+<keyword>Simulation</keyword>
+</keywords>
+<disciplines><discipline>Complex Fluids</discipline>
+<discipline>Polymer Science</discipline>
+</disciplines><abstract>&lt;p&gt;The rheological and structural properties of polymeric liquids cannot be condensed within a single numerical model. They should be described within hierarchical, multi-level numerical models in which each sub-model is responsible for different time and length scales; atomistic, mesoscopic, and continuum. In this study, the rheological and structural properties of linear, short-chain polyethylene liquids were investigated from the classical atomistic level to the mesoscopic and continuum levels of description. At the atomistic level of description, nonequilibrium molecular dynamics (NEMD) simulations of linear, short-chain polyethylene liquids spanning from C16H24 to C128H256 were performed to advance our knowledge of fundamental characteristic of chain molecules under shear and planar elongational flow. Furthermore, entanglement characteristics, such as the shortest primitive path length, and the network configurations, were investigated as functions of strain rate in both vastly different flow fields using the topological Z-code. At the mesoscopic level of description, Brownian dynamics (BD) simulations of a freely-jointed chain with equivalent contour length to C78H158 were carried out to compare single-chain dynamics in dense liquids (NEMD) and dilute solutions (BD) under shear flow. In addition, the macromolecular configurational diversity of individual chains in dense liquids and dilute solutions was explored using a brightness distribution method inspired by the rheo-optical investigation of DNA solutions. Based on these observations, a simple coarse-grained mesoscopic model for unentangled polymeric liquids and semi-dilute solutions was proposed and compared with NEMD simulation data and experiments of semi-dilute DNA solutions under shear flow in terms of the rheological and structural properties, such as viscosity, normal stress coefficients, conformation tensor, and so on. Moreover, this model was further coarse-grained to the continuum level through pre-averaging and compared with NEMD simulation data to examine the relationships between different levels of description on the rheological and structural properties of unentangled polymeric materials under shear flow.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/713</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1777&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>713</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1777</articleid>
+<submission-date>2010-04-19T11:49:13-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1777/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1279920</context-key>
+<submission-path>utk_graddiss/713</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian J. Edwards</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bamin Khomami, David J. Keffer, Shanfeng Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

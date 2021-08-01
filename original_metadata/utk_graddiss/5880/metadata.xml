@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Learning From the Crowd: Quantitative Analysis for Cooperative and Competitive Cases</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>wyan3@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Yan</lname>
+<fname>Wangcheng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>crowd analytics</keyword>
+<keyword>incentives</keyword>
+<keyword>innovation contests</keyword>
+<keyword>causal inference</keyword>
+</keywords>
+<abstract>&lt;p&gt;Learning from the crowd is extremely useful in many business applications. By leveraging what has been learned from the crowd, managers may better design the system involving the crowd to enhance the crowd’s motivation in participation and obtain the maximized utility. Many existing works have provided insights into the crowd behavior in different environments; however, comprehensive learning and leveraging of crowd incentives are still needed. My dissertation aims at filling in this gap by looking at two cases. The first essay is in a cooperative case—employee ridesharing—where both passengers and drivers may gain benefits. We develop an integrated framework combing reinforcement learning and choice modeling to learn employees’ incentives and concerns as well as risks relative to different transportation modes. By applying our developed methodology to a longitudinal ridesharing dataset, we find that ridesharing imposes more risk than public transit or solo driving, and this risk is higher for passengers than for drivers. Though financial incentives are critical, social relationships with colleagues drive the adoption of the ridesharing service among company employees, especially drivers. The second essay focuses on a competitive case—crowdsourcing innovation contests—where problem solvers compete for awards offered by the solution seeker, and the seeker needs to decide an award scheme before announcing the contest to maximize the expected payoff. In this essay, we consider a unique and unexplored characteristic of many crowdsourced innovation contests, that is, the seeker may benefit from aggregating multiple solutions as an ensemble and achieve a performance that is superior to any individual solution. Our results show that a top-K award scheme may grant a higher payoff to the seeker than the winner-takes-all award scheme. The third essay addresses a methodological challenge of causal inference, a powerful tool in many crowd analytics, including the empirical study about innovation contests conducted in the second essay. We propose to adopt a covariate balancing approach to explore the treatment effect estimation in business research. Overall, the findings of my dissertation contribute to understand crowd behaviors and learn their incentives and inform the practical implications of crowd analytics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5880</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7646&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5880</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7646</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527799</context-key>
+<submission-path>utk_graddiss/5880</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Wenjun Zhou</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paolo Letizia, Russell Zaretzki, Sarah Colby</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Analytics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2026-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Aeroelastic Analysis of a Wind Turbine Blade Using the Harmonic Balance Method</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jhowison@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Howison</lname>
+<fname>Jason</fname>
+<mname>Charles</mname>
+</author>
+</authors>
+<keywords>
+<keyword>wind turbines</keyword>
+<keyword>harmonic balance method</keyword>
+<keyword>transition modeling</keyword>
+<keyword>aeroelasticity</keyword>
+<keyword>CFD</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+</disciplines><abstract>&lt;p&gt;Most current wind turbine aeroelastic codes rely on the blade element momentum method with empirical corrections to compute aerodynamic forces on the wind turbine blades. While efficient, this method relies on experimental data and does not allow designers much flexibility for alternative blade designs. Unsteady solutions to the Navier-Stokes equations offer a significant improvement in aerodynamic modeling, but these are currently too computationally expensive to be useful in a design situation. However, steady-state solutions to the Navier-Stokes equations are possible with reasonable computation times. The harmonic balance method provides a way to represent unsteady, periodic flows through coupled a set of steady-state solutions. This method offers the possibility of unsteady flow solutions at a computational cost on the order of a few steady-state solutions. By coupling a harmonic balance driven aerodynamic model with a mode shape-based structural dynamics model, an efficient aeroelastic model for a wind turbine blade driven by the Navier-Stokes equations is developed in this dissertation.&lt;/p&gt;
+&lt;p&gt;For wind turbine flows, turbulence modeling is essential, especially in the transition of the boundary layer from laminar to turbulent. As part of this dissertation, the Spalart-Allmaras turbulence model and the gamma-Re\_theta-t transition model are included in the aerodynamic model. This marks the first time that this transition model, turbulence model, and the harmonic balance method have been coupled to study unsteady wind turbine aerodynamics. Results show that the transition model matches experimental data more closely than a fully turbulent model for the onset of both static and dynamic stall.&lt;/p&gt;
+&lt;p&gt;Flutter is of particular interest as turbines continue to increase in size, and longer and softer blades continue to enter the field. In this dissertation, flutter is investigated for the 1.5 MW WindPACT rotor blade. The aeroelastic model created, which incorporates the harmonic balance method and a fully turbulent aerodynamic model, is the first of its kind for wind turbine flutter analysis. Predictions match those of other aeroelastic models for the 1.5 MW WindPACT blade, and the first flapwise and edgewise modes are shown to dominate flutter for the rotor speeds considered.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3585</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4945&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3585</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4945</articleid>
+<submission-date>2015-07-01T20:07:27-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7283399</context-key>
+<submission-path>utk_graddiss/3585</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kivanc Ekici</value>
+</field>
+<field name="advisor2" type="string">
+<value>Phuriwat Anusonti-Inthra, Hans DeSmidt, Trevor Moeller, Montgomery Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Export Coefficient Modeling of Water Pollutants with Geographic Information Science: An Examination of Geographic Scale</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Moniodes</lname>
+<fname>Christopher</fname>
+<mname>A</mname>
+</author>
+</authors>
+<disciplines><discipline>Physical and Environmental Geography</discipline>
+</disciplines><abstract>&lt;p&gt;Land cover data are frequently used as a basis for estimating total phosphorus (TP) and total nitrogen (TN) delivered to surface waters. Nutrients, such as TP and TN, are a leading cause of water quality impairment in the United States. Section 305(b) of the Clean Water Act requires each state to report all impaired surface waters every two years. Ideally, this is accomplished with in-stream measurements; however, the cost and time requirements of such a daunting task are too great for most states to incur. Alternatively, the export coefficient model (ECM) uses commonly available land cover and elevation data to screen watershed areas for high levels of nutrient export quickly and inexpensively. Incorporating the ECM into a GIS architecture allows a watershed manager to visualize nutrient export over large areas and prioritize those areas accordingly. Once specific nutrient-yielding areas have been identified and prioritized, the watershed manager can implement more detailed monitoring and analysis programs.&lt;/p&gt;
+&lt;p&gt;New developments in GIS have produced a wide range of commonly available broad-scale geospatial data. For example, the United States Geological Survey (USGS) freely distributes National Land Cover Data (NLCD), which identify 21 classes of land cover for the conterminous United States at 30-m resolution. Conversely, fine-scale, fine-resolution geospatial date, such as locally mapped, 10-m resolution land covers data, are not widely available, costly, and usually developed for small areas on a client-by-client basis. In regions here fine-scale, fine-resolution data are not available, watershed managers need information on the performance of water quality models using fine-scale, fine-resolution versus broad-scale, coarse-resolution data (e.g., 30-m NLCD).&lt;/p&gt;
+&lt;p&gt;The purpose of this thesis is to determine if broad-scale land cover data (e.g., 30-m NLCD), incorporated within a broad-scale hydrologic model, are appropriate for effectively screening county- or smaller smaller-sized areas for excessive nutrient exports, prioritizing those areas, and making management decisions based on the prioritization. I answer five questions for addressing this issue:  &lt;ol&gt; &lt;li&gt;Can broad-scale, coarse- resolution land coverage date capture enough detail to produce usable model results for stream remediation decisions?&lt;/li&gt; &lt;li&gt;At what spatial scale do model results produced from fine- and broad-scale land cover datasets become statistically different?&lt;/li&gt; &lt;li&gt;At what spatial scale does the prioritization of sub-watersheds for nutrient flux change between simulations that use different land cover data?&lt;/li&gt; &lt;li&gt;Within sub-watersheds, is excessive nutrient export more likely to originate in the riparian zone or farther from the stream?&lt;/li&gt; &lt;li&gt;Does the prioritization of areas within watersheds for nutrient flux reduction change between simulations using fine- and broad-scale data, such that model results suggest different management scenarios?&lt;/li&gt; &lt;/ol&gt;&lt;/p&gt;
+&lt;p&gt;Using an ECM, I simulated nutrient loading for Blount County and the Little River watershed (BCLRW), Tennessee. I compare model results produced from an ensemble of model runs that incorporated various land cover datasets (of 10-m, 30-m. and 1-km resolution) at multiple spatial mapping extents, which were represented by 4&lt;sup&gt;th&lt;/sup&gt;, 5&lt;sup&gt;th&lt;/sup&gt;, and 6&lt;sup&gt;th&lt;/sup&gt; order stream contributing areas. Within Acr/Info&lt;sup&gt;©&lt;/sup&gt;GRID&lt;sup&gt;©&lt;/sup&gt;, I constructed an unweighted ECM that simulates cumulative nutrient exports by watershed, and a weighted ECM that considers topographic orientation and nutrient trapping ability for simulating nutrient export within the watershed, allowing the researcher to examine nutrient export on a pixel-by-pixel basis.&lt;/p&gt;
+&lt;p&gt;Overall, results support the hypothesis that broad-scale land cover date (e.g., 30-m NLCD) are appropriate for prioritizing sub-watershed for nutrient flux remediation at the county-mapping scale in study areas similar to BCLRW. Results from unweighted ECM simulations suggest that cumulative nutrient fluxes of 4&lt;sup&gt;th&lt;/sup&gt; order watershed differ significantly between models based on 30-m and 10-m resolution land cover data. However, as the area of analysis increases from watersheds of 4&lt;sup&gt;th&lt;/sup&gt; order streams to those of 5&lt;sup&gt;th&lt;/sup&gt; or 6&lt;sup&gt;th&lt;/sup&gt; order streams, predictions based on 10-m and 30-m input data are not significantly different.&lt;/p&gt;
+&lt;p&gt;Weighted ECM simulations using both broad-scale (30-m) and fine-scale (10-m) data suggest that nutrient fluxes originate in non-riparian areas of the Blount County/Little River watershed study area. Simulations based on coarser-resolution (30-m) land cover data produced similar patterns of nutrient export within watersheds as simulations based on higher resolution (10-m) data, but the former accounted for 9% (TP) to 19% (TN) of the high nutrient export identified by the latter.&lt;/p&gt;
+&lt;p&gt;Findings from this research do not suggest that detailed data are unnecessary for modeling the hydrologic processes and water quality of a particular watershed, only that these data are unnecessary for screening and prioritizing risk areas in a county-sized area. This project was confined to BCLRW, therefore, the findings are empirical rather than theoretical. This research is a first step in exploring the effects that geographic scale and geospatial data resolution have on county-wide hydrologic modeling. Future research should expand this study and determine whether nutrient modeling trends observed in this research are similar to those in other places.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4693</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6284&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4693</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6284</articleid>
+<submission-date>2017-08-16T05:49:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10607797</context-key>
+<submission-path>utk_gradthes/4693</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Carol P. Harden</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce A. Ralston, Kenneth H. Orvis</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

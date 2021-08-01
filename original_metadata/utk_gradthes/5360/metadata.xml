@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>AUTOMATIC ERROR DETECTION AND CORRECTION IN LASER METAL WIRE DEPOSITION - AN ADDITIVE MANUFACTURING TECHNOLOGY</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>adediran@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Adediran</lname>
+<fname>Adeola</fname>
+<mname>Idowu</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Additive Manufacturing</keyword>
+<keyword>Large Scale Metal Additive</keyword>
+<keyword>Laser Metal Deposition</keyword>
+<keyword>Process Control</keyword>
+<keyword>Error Detection</keyword>
+<keyword>Error Correction</keyword>
+</keywords>
+<abstract>&lt;p&gt;Additive manufacturing (AM) technology involves building three-dimensional objects by adding material layer-upon-layer under computer control. Metal additive manufacturing offers new possibilities, not only in design, but also in the choice of materials. However, the additive process remains at a lower maturity level compared to the conventional subtractive processes such as milling, drilling and machining among others. Scientifically, there is a safety concern relating to the accuracy of the AM process, how printed products will perform over time and the consistency of their quality. Process accuracy and eventual part quality is compromised due to errors introduced by each of the building steps in the process.Laser metal deposition with wire (LMD-w) is an additive manufacturing technology that involves feeding metal wire through a nozzle and melting the wire with a high-power laser. The technology is being largely researched for use in the aerospace industry to fabricate large aircraft components. With efficient process control, i.e. sensing, processing, and feedback correction of errors, the LMD-w technology has the potential to change the course of manufacturing. However, a prominent limitation in LMD-w is the difficulty in controlling the process.This work proposes a method for detecting surface geometry errors in a deposited layer in the LMD-w process via laser height scanning and high-speed image processing. The controlled process is simplified into a linear system. The aim is to develop an effective sensing and correction module that automatically detects irregularities in each layer before proceeding to subsequent layers, which will reduce part porosity and improve inter-layer bond integrity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5360</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6770&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5360</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6770</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343122</context-key>
+<submission-path>utk_gradthes/5360</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lonnie J. Love</value>
+</field>
+<field name="advisor2" type="string">
+<value>Sudarsanam Suresh Babu, Subhadeep Chakraborty, Chad Duty</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

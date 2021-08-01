@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multidimensional Compressible Framework for Modeling Biglobal Stability in Rocket Motors</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>makiki@utsi.edu</email>
+<lname>Akiki</lname>
+<fname>Michel</fname>
+<mname>Henry</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Acoustic Instability</keyword>
+<keyword>Hydrodynamic Instability</keyword>
+<keyword>Combustion Instability</keyword>
+<keyword>Rocket Engines</keyword>
+<keyword>Biglobal</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+<discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Rocket motor stability analysis has historically been focused on two fundamental theories: the acoustic and the hydrodynamic. While the acoustic part examines the system at resonant states, the hydrodynamic component focuses on the fluid-wall interactions and the vortex shedding mechanisms which are responsible for exciting the system. Traditionally, the two concepts are studied independently and their results are then superposed for a more complete solution. In this study, we analyze the problem from a hydrodynamic standpoint and extend it to include compressibility. This is realized by reducing the linearized Navier-Stokes and energy equations to their biglobal form assuming a two-dimensional waveform with a sinusoidal temporal dependence. The suggested approach is found to be comprehensive, capturing both hydrodynamic and acoustic fields simultaneously. Doing so unifies the two phenomena commonly associated with combustion instability while accounting for interactions between resonant and non-resonant eigenmodes. In this work, results are compared and validated using analytical solutions of the vortico-acoustic waves, which incorporate a viscous correction at the wall. Regarding the hydrodynamic component, comparisons to numerical results verify the captured modes. Combined, they present an improved agreement with experimental data for the cold air injection setup. By retaining the influence of the mean flow on the unsteady motion, the technique straightforwardly displays a slight frequency shift from the Helmholtz type acoustic modes, thus confirming the behavior observed in numerous experiments. Moreover, the modal analysis extends over both the longitudinal and transverse modes, thus providing the full spectrum of the system modes related to both acoustics and hydrodynamics. In short, the present work provides physical insight into hydrodynamic-acoustic interactions leading to vortex synchronization and frequency shifting that may be associated with the amplified frequencies captured in live rocket firings. The framework presented here may be viewed as a substantial advancement in the field of biglobal stability, namely, in its ability to capture the full effects of compressibility and shearing simultaneously.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2393</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3097&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2393</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3097</articleid>
+<submission-date>2013-06-21T11:12:07-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4250544</context-key>
+<submission-path>utk_graddiss/2393</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Joseph Majdalani</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy J. Schulz, Christian G. Parigger, Jacqueline A. Johnson, Joshua W. Batterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accurate prediction of major histocompatibility complex class II epitopes by sparse representation via ℓ 1-minimization</title>
+<publication-date>2014-11-04T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Aguilar-Bonavides</lname>
+<fname>Clemente</fname>
+</author>
+<author>
+<institution>Wentworth Institute of Technology</institution>
+<lname>Sanchez-Arias</lname>
+<fname>Reinaldo</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lanzas</lname>
+<fname>Cristina</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Peptide binding</keyword>
+<keyword>Sparse representation</keyword>
+<keyword>MHC class II</keyword>
+<keyword>Epitope prediction</keyword>
+<keyword>Immunoinformatics</keyword>
+<keyword>Machine learning</keyword>
+<keyword>Classification algorithms</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;: The major histocompatibility complex (MHC) is responsible for presenting antigens (epitopes) on the surface of antigen-presenting cells (APCs). When pathogen-derived epitopes are presented by MHC class II on an APC surface, T cells may be able to trigger an specific immune response. Prediction of MHC-II epitopes is particularly challenging because the open binding cleft of the MHC-II molecule allows epitopes to bind beyond the peptide binding groove; therefore, the molecule is capable of accommodating peptides of variable length. Among the methods proposed to predict MHC-II epitopes, artificial neural networks (ANNs) and support vector machines (SVMs) are the most effective methods. We propose a novel classification algorithm to predict MHC-II called sparse representation via 1-minimization.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;: We obtained a collection of experimentally confirmed MHC-II epitopes from the Immune Epitope Database and Analysis Resource (IEDB) and applied our 1-minimization algorithm. To benchmark the performance of our proposed algorithm, we compared our predictions against a SVM classifier. We measured sensitivity, specificity abd accuracy; then we used Receiver Operating Characteristic (ROC) analysis to evaluate the performance of our method. The prediction performance of MHC-II epitopes of the 1-minimization algorithm was generally comparable and, in some cases, superior to the standard SVM classification method and overcame the lack of robustness of other methods with respect to outliers. While our method consistently favoured DPPS encoding with the alleles tested, SVM showed a slightly better accuracy when “11-factor” encoding was used.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;: 1-minimization has similar accuracy than SVM, and has additional advantages, such as overcoming the lack of robustness with respect to outliers. With 1-minimization no model selection dependency is involved.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biolpubs/34</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1033&amp;amp;context=utk_biolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>34</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1033</articleid>
+<submission-date>2016-10-13T13:47:16-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- General Biology</publication-title>
+<context-key>9264409</context-key>
+<submission-path>utk_biolpubs/34</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Article (Aguilar-Bonavides2014) Aguilar-Bonavides, C.; Sanchez-Arias, R. &amp; Lanzas, C. Accurate prediction of major histocompatibility complex class II epitopes by sparse representation via ℓ1-minimization BioData Mining, 2014, 7, 23.</value>
+</field>
+<field name="doi" type="string">
+<value>10.1186/1756-0381-7-23</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-11-04T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>BioData Mining</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

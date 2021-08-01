@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bayesian Shrinkage Estimation and Model Selection</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Armagan</lname>
+<fname>Artin</fname>
+</author>
+</authors>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+</disciplines><abstract>&lt;p&gt;We introduce a new shrinkage variable selection operator which we term Adaptive Ridge Selector (ARiS). This approach is inspired by the Relevance Vector Machine (RVM) of Tipping (2001), which uses a Bayesian hierarchical linear model to do sparse estimation. RVM was originally introduced to obtain sparse solutions in the case of kernel regression where one has many highly correlated bases (features).&lt;/p&gt;
+&lt;p&gt;Extending the RVM algorithm, we include a proper prior distribution for the precisions of the regression coefficients along with a hyper-parameter to be chosen. Based upon this model, we derive the full set of conditional posterior distributions for parameters as would typically be done when applying Gibbs sampling. However, instead of simulating samples from the posterior distribution in order to estimate posterior means of quantities, we apply the Lindley-Smith mechanism (Lindley and Smith, 1972). This approach sequentially maximizes the conditional distributions, in order to find the joint maximum of the posterior distribution given the value of the hyper-parameter. An empirical Bayes method is proposed for choosing this hyperparameter leading to ARiS-eB. Having moved from a Bayes argument, we also look at the problem from a penalized least squares estimation angle.&lt;/p&gt;
+&lt;p&gt;From the conventional viewpoint, the proposed method eliminates the need for combinatorial search techniques over a discreet model space, converting the model selection problem into the maximization of the marginal likelihood over a one dimensional continuous space.&lt;/p&gt;
+&lt;p&gt;Close similarities exist between this estimator obtained and the lasso-type shrinkage estimators. The lasso(Tibshirani, 1996) and its variants, as will be thoroughly discussed, use 1-norm for regularization leading to sparse solutions. The estimator proposed here is contrasted with various other shrinkage estimators along with simulation studies and real data examples.&lt;/p&gt;
+&lt;p&gt;Inference is also possible using a very straight forward Gibbs sampling procedure after the active variables are determined in the model. The model is also extended to handle departures from normality in the likelihood.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/410</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1471&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>410</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1471</articleid>
+<submission-date>2010-02-17T09:46:18-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1150342</context-key>
+<submission-path>utk_graddiss/410</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Russell L. Zaretzki</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert W. Mee, Hairong Qi, Ohannes Karakashian</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/August2008Dissertations/ArmaganArtin.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

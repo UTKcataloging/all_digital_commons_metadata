@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Green&#39;s Function Method for Solutions of Fourth Order Nonlinear Boundary Value Problem.</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>oteterin@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Teterina</lname>
+<fname>Olga</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Green&#39;s Function</keyword>
+<keyword>Banach Space</keyword>
+<keyword>Numerical Problems</keyword>
+<keyword>4 order ODE</keyword>
+</keywords>
+<disciplines><discipline>Applied Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis has demonstrated that Green’s functions have a wide range of applications with regard to boundary value problems. In particular, existence and uniqueness of solutions of a large class of fourth order boundary value problems has been established. In fact, given any fourth order ODE with homogeneous boundary conditions, as long as the corresponding Green’s function exists and f satisfies an appropriate Lipschitz condition, Theorem 2.1 guarantees such a solution under equally mild conditions. Similarly, Theorem 2.2 also guarantees such a solution under equally mild conditions. These theorems are contrasted with classical ODE existence theorems in that they get around the use of classical convergence analysis by assuming the existence of the Green’s function. Banach techniques are still used, but the existence of the Green’s function is the primary tool in showing existence and uniqueness. This requires, of course, that the Green’s function exists for particular problem, but the examples in Section 4 show that this s usually not a severe restriction.&lt;/p&gt;
+&lt;p&gt;However, as mild as the restrictions seem to be, one should pay particular detail to the range of values on the Lipschitz constant(s). The Lipschitz constants corresponding to f must satisfy an inequality involving bounds on integrals of G and its derivatives, which, if G is badly behaved, may be a severe restriction. The examples of Section 4 illustrate these ideas. For example, Theorems 4.1-4.2 are specific cases in which Theorem 2.2 is applicable.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2645</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2803&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2645</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2803</articleid>
+<submission-date>2013-05-19T20:03:21-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4154916</context-key>
+<submission-path>utk_gradthes/2645</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Don B. Hinton</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy D. Day, Henry C. Simpson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

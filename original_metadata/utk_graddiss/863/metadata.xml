@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A New Generation of Mixture-Model Cluster Analysis with Information Complexity and the Genetic EM Algorithm</title>
+<publication-date>2009-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Howe</lname>
+<fname>John</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<keywords>
+<keyword>mixture modeling</keyword>
+<keyword>nonparametric estimation</keyword>
+<keyword>subset selection</keyword>
+<keyword>influence detection</keyword>
+<keyword>evidence-based medical diagnostics</keyword>
+<keyword>unsupervised classification</keyword>
+<keyword>robust estimation</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this dissertation, we extend several relatively new developments in statistical model selection and data mining in order to improve one of the workhorse statistical tools - mixture modeling (Pearson, 1894). The traditional mixture model assumes data comes from several populations of Gaussian distributions. Thus, what remains is to determine how many distributions, their population parameters, and the mixing proportions. However, real data often do not fit the restrictions of normality very well. It is likely that data from a single population exhibiting either asymmetrical or nonnormal tail behavior could be erroneously modeled as two populations, resulting in suboptimal decisions. To avoid these pitfalls, we develop the mixture model under a broader distributional assumption by fitting a group of multivariate elliptically-contoured distributions (Anderson and Fang, 1990; Fang et al., 1990). Special cases include the multivariate Gaussian and power exponential distributions, as well as the multivariate generalization of the Student’s T. This gives us the flexibility to model nonnormal tail and peak behavior, though the symmetry restriction still exists. The literature has many examples of research generalizing the Gaussian mixture model to other distributions (Farrell and Mersereau, 2004; Hasselblad, 1966; John, 1970a), but our effort is more general. Further, we generalize the mixture model to be non-parametric, by developing two types of kernel mixture model. First, we generalize the mixture model to use the truly multivariate kernel density estimators (Wand and Jones, 1995). Additionally, we develop the power exponential product kernel mixture model, which allows the density to adjust to the shape of each dimension independently. Because kernel density estimators enforce no functional form, both of these methods can adapt to nonnormal asymmetric, kurtotic, and tail characteristics. Over the past two decades or so, evolutionary algorithms have grown in popularity, as they have provided encouraging results in a variety of optimization problems. Several authors have applied the genetic algorithm - a subset of evolutionary algorithms - to mixture modeling, including Bhuyan et al. (1991), Krishna and Murty (1999), and Wicker (2006). These procedures have the benefit that they bypass computational issues that plague the traditional methods. We extend these initialization and optimization methods by combining them with our updated mixture models. Additionally, we “borrow” results from robust estimation theory (Ledoit and Wolf, 2003; Shurygin, 1983; Thomaz, 2004) in order to data-adaptively regularize population covariance matrices. Numerical instability of the covariance matrix can be a significant problem for mixture modeling, since estimation is typically done on a relatively small subset of the observations. We likewise extend various information criteria (Akaike, 1973; Bozdogan, 1994b; Schwarz, 1978) to the elliptically-contoured and kernel mixture models. Information criteria guide model selection and estimation based on various approximations to the Kullback-Liebler divergence. Following Bozdogan (1994a), we use these tools to sequentially select the best mixture model, select the best subset of variables, and detect influential observations - all without making any subjective decisions. Over the course of this research, we developed a full-featured Matlab toolbox (M3) which implements all the new developments in mixture modeling presented in this dissertation. We show results on both simulated and real world datasets. Keywords: mixture modeling, nonparametric estimation, subset selection, influence detection, evidence-based medical diagnostics, unsupervised classification, robust estimation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/863</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1966&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>863</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1966</articleid>
+<submission-date>2010-09-08T05:59:24-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1546160</context-key>
+<submission-path>utk_graddiss/863</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hamparsum Bozdogan</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohammed Mohsin, Adam Petrie, Michael Vose</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2009/Spring2009Dissertations/HoweJohnA.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

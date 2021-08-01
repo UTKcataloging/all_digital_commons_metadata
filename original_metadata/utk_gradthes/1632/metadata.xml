@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A study of possible optimizations for the task scheduler ‘QUARK’ on the shared memory architecture</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>vjoshi1@utk.edu</email>
+<lname>Joshi</lname>
+<fname>Vijay Gopal</fname>
+</author>
+</authors>
+<keywords>
+<keyword>task schedulers</keyword>
+<keyword>runtime</keyword>
+<keyword>DAG</keyword>
+</keywords>
+<disciplines><discipline>OS and Networks</discipline>
+<discipline>Other Computer Sciences</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Multicore processors are replacing most of the single core processors nowadays.&lt;/p&gt;
+&lt;p&gt;Current trends show that there will be increasing numbers of cores on a single chip in the coming future. However, programming multicore processors remains bug prone and less productive. Thus, making use of a runtime to schedule tasks on multicore processor hides most of the complexities of parallel programming to improve productivity. QUARK is one of the runtimes available for the multicore processors. This work looks at identifying and solving performance bottlenecks for QUARK on the shared memory architecture. The problem of finding bottlenecks is divided into two parts, low level details and high level details. Low level details deal with issues like length of the critical section and locking mechanisms. High level details involve use of a suitable scheduling algorithm and better load balancing. We discuss the possible solutions of the bottlenecks and its impact on the overall performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1632</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2647&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1632</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2647</articleid>
+<submission-date>2013-02-28T19:06:34-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3812647</context-key>
+<submission-path>utk_gradthes/1632</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lynne E. Parker, Stanimire Tomov</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

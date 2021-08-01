@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Advanced eddy current test signal analysis for steam generator tube defect classification and characterization</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>McClanahan</lname>
+<fname>James</fname>
+<mname>Patrick</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Eddy Current Testing (ECT) is a Non-Destructive Examination (NDE) technique that is widely used in power generating plants (both nuclear and fossil) to test the integrity of heat exchanger (HX) and steam generator (SG) tubing. Specifically for this research, laboratory-generated, flawed tubing data were examined The tubing data were acquired from the EPRI NDE Center, Charlotte, NC. The data are catalogued in the Performance Demonstration Database (POD) which is used as a training manual for certification. The specific subset of the data used in this dissertation has an Examination Technique Specification Sheet (ETSS) and a blueprint of the flawed tube specimens. The purpose of this dissertation is to develop and implement an automated method for the classification and an advanced characterization of defects in HX and SG tubing. These two improvements enhanced the robustness of characterization as compared to traditional bobbin-coil ECT data analysis methods. A more robust classification and characterization of the tube flaw insitu (while the SG is on-line but not when the plant is operating), should provide valuable information to the power industry. The following is a summary of the original contributions of this dissertation research. 1. Development of a feature extraction program acquiring relevant information from both the mixed, absolute and differential ECTD Flaw Signal (ECTDFS). 2. Application of the Continuous Wavelet Transformation (CWT) to extract more information from the mixed, complex differential ECTDFS. 3. Utilization of Image Processing (IP) techniques to extract the information contained in the generated CWT. 4. Classification of the ECTDFSs, using the compressed feature vector and a Bayes classification system. 5. Development of an upper bound for the probability of classification error, using the Bhattacharyya distance, for the Bayesian classification. 6. Tube defect characterization based on the classified flaw-type to enhance characterization 7. Development of a diagnostic software system EddyC and user&#39;s guide. The important results of the application of the method are listed. The CWT contains at least enough information to correctly classify the flaws 64% of the time using the IP features. The Bayes classification system, using only the CWT generated features (after PCA compression), correctly identified 64% of the ECTD flaws. The Bayes classification system correctly identified 7 5% of the ECTD flaws using cross validation utilizing all the generated features after PCA compression. Initial template matching results (from the PDD database) yielded correct classification of 69%. The B-distances parallel and bound the percent misclassified cases. The calculated B-distance for 15 PCs were O and 14.22% bounding the 1.1% incorrectly classified. But, these Gaussian-based calculated B-distances may be inaccurate due to non-Gaussian features. The number of outliers seems to have an inverse relationship with the number of misclassifications. Characterization yielded an average error of 12.76 %. This excluded the results from flaw-type 1 (Thinning). The following are the conclusions reached from this research. A feature extraction program acquiring relevant information from both the mixed, absolute and differential data was successfully implemented. The CWT was utilized to extract more information from the mixed, complex differential data. Image Processing techniques used to extract the information contained in the generated CWT, classified the data with a high success rate. The data were accurately classified, utilizing the compressed feature vector and using a Bayes classification system. An estimation of the upper bound for the probability of error, using the Bhattacharyya distance, was successfully applied to the Bayesian classification. The classified data were separated according to flaw-type (classification) to enhance characterization. The characterization routine used dedicated, flaw-type specific ANNs that made the characterization of the tube flaw more robust. The inclusion of outliers may help complete the feature space so that classification accuracy is increased. Given that the eddy current test signals appear very similar, there may not be sufficient information to make an extremely accurate (&gt; 95%) classification or an advanced characterization using this system. It is necessary to have a larger database fore more accurate system learning.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5155</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6699&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5155</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6699</articleid>
+<submission-date>2019-02-11T12:24:58-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13799783</context-key>
+<submission-path>utk_graddiss/5155</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>B. R. Upadhyaya</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

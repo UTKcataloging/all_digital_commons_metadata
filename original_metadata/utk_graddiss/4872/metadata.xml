@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A statistical approach for fracture property realization and macroscopic failure analysis of brittle materials</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pclarke1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Clarke</lname>
+<fname>Philip</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Lacking the energy dissipative mechanics such as plastic deformation to rebalance localized stresses, similar to their ductile counterparts, brittle material fracture mechanics is associated with catastrophic failure of purely brittle and quasi-brittle materials at immeasurable and measurable deformation scales respectively. This failure, in the form macroscale sharp cracks, is highly dependent on the composition of the material microstructure. Further, the complexity of this relationship and the resulting crack patterns is exacerbated under highly dynamic loading conditions. A robust brittle material model must account for the multiscale inhomogeneity as well as the probabilistic distribution of the constituents which cause material heterogeneity and influence the complex mechanisms of dynamic fracture responses of the material. Continuum-based homogenization is carried out via finite element-based micromechanical analysis of a material neighbor which gives is geometrically described as a sampling windows (i.e., statistical volume elements). These volume elements are well-defined such that they are representative of the material while propagating material randomness from the inherent microscale defects. Homogenization yields spatially defined elastic and fracture related effective properties, utilized to statistically characterize the material in terms of these properties. This spatial characterization is made possible by performing homogenization at prescribed spatial locations which collectively comprise a non-uniform spatial grid which allows the mapping of each effective material properties to an associated spatial location. Through stochastic decomposition of the derived empirical covariance of the sampled effective material property, the &lt;i&gt;Karhunen-Loeve&lt;/i&gt; method is used to generate realizations of a continuous and spatially-correlated random field approximation that preserve the statistics of the material from which it is derived. Aspects of modeling both isotropic and anisotropic brittle materials, from a statistical viewpoint, are investigated to determine how each influences the macroscale fracture response of these materials under highly dynamic conditions. The effects of modeling a material both &lt;i&gt;explicitly&lt;/i&gt; by representations of discrete multiscale constituents and/or &lt;i&gt;implicitly&lt;/i&gt; by continuum representation of material properties is studies to determine how each model influences the resulting material fracture response. For the implicit material representations, both a statistical &quot;white noise&quot; (i.e., Weibull-based spatially-uncorrelated) and &quot;colored noise&quot; (i.e., Karhunen-Loeve spatially-correlated model) random fields are employed herein.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4872</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6413&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4872</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6413</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13414903</context-key>
+<submission-path>utk_graddiss/4872</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Reza Abedi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Matthew M. Mench, Trevor M. Moeller, Stephanie C. TerMaath, Timothy J. Truster, Feng-Yuan Zhang, Katherine Acton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

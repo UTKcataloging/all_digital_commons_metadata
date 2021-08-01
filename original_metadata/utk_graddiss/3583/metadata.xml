@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Methodology For Generating Simplified Cross Section Data Sets For Neutron Transport Calculations</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>harrisontj1@ornl.gov</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Harrison</lname>
+<fname>Thomas</fname>
+<mname>Jay</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neutron Cross Section</keyword>
+<keyword>Neutron Shielding</keyword>
+<keyword>Monte Carlo Methods</keyword>
+<keyword>Neutron Flux Spectrum</keyword>
+</keywords>
+<disciplines><discipline>Nuclear</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Neutron shielding problems involve radiation transport calculations over a wide range of energies. Fission neutrons have initial energy on the order of MeV, fusion neutrons have initial energy on the order of 10s of MeV, and space-origin neutrons have initial energy on the order of 100s of MeV or higher. Shielding calculations must track the neutrons from their initial energies until they are no longer of interest; for deep-penetration neutrons, this final energy can be on the order of eV before the neutron is no longer tracked. Thus, for deep-penetration space radiation shielding problems, the calculation may require tracking the neutron energy through eight orders of magnitude.&lt;/p&gt;
+&lt;p&gt;The shielding calculations also require the evaluation of the neutron cross section as a function of the neutron energy. However, the cross section value itself may range from 10&lt;sup&gt;-3&lt;/sup&gt; barn (1 mb) to nearly 10&lt;sup&gt;9&lt;/sup&gt; barn (1 Gb), a range of twelve orders of magnitude. Further complicating the cross section analysis is the existence of resonance peaks; these peaks (or valleys) may show a change spanning multiple orders of magnitude in cross section value over less than a 1% change in neutron energy.&lt;/p&gt;
+&lt;p&gt;The issue of cross section data sets with multiple resonance peaks can be resolved through the use of flux-weighted group cross sections. The most basic group structure is a single cross section; modern analytical codes can use more than 200 groups, or the full cross section data set itself. However, this introduces a tradeoff of efficiency (fewer groups) versus accuracy (more groups), and it also requires an &lt;em&gt;a priori&lt;/em&gt; knowledge of the flux spectrum.&lt;/p&gt;
+&lt;p&gt;This research proposes and tests a method to generate group-wise cross section data sets that do not require the &lt;em&gt;a priori&lt;/em&gt; flux spectrum, which is equivalent to assuming a flat flux spectrum distribution. This method conserves the energy-integrated cross sections, which are an inherent characteristic of an isotope, instead of group-wise reaction rates, which are a function of the overall system. The net result is a reduction in calculation time without a significant loss in neutron survival and penetration results and the transmitted and reflected spectra.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3583</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5020&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3583</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5020</articleid>
+<submission-date>2015-10-09T01:15:47-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7698159</context-key>
+<submission-path>utk_graddiss/3583</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence W. Townsend</value>
+</field>
+<field name="advisor2" type="string">
+<value>Laurence F. Miller, Lawrence H. Heilbronn, Thomas Handler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

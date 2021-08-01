@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Quantitatively Partitioning of microbial function among taxonomic ranks across the tree of life</title>
+<publication-date>2019-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Royalty</lname>
+<fname>Taylor</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>asteen1@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Steen</lname>
+<fname>Andrew</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;&lt;p id=&quot;x-x-x-p-4&quot;&gt;Widely used microbial taxonomies, such as the NCBI taxonomy, are based on a combination of sequence homology among conserved genes and historically accepted taxonomies, which were developed based on observable traits such as morphology and physiology. A recently proposed alternative taxonomy database, the Genome Taxonomy Database (GTDB), incorporates only sequence homology of conserved genes and attempts to partition taxonomic ranks such that each rank implies the same amount of evolutionary distance, regardless of its position on the phylogenetic tree. This provides the first opportunity to completely separate taxonomy from traits and therefore to quantify how taxonomic rank corresponds to traits across the microbial tree of life. We quantified the relative abundances of clusters of orthologous group functional categories (COG-FCs) as a proxy for traits within the lineages of 13,735 cultured and uncultured microbial lineages from a custom-curated genome database. On average, 41.4% of the variation in COG-FC relative abundance is explained by taxonomic rank, with domain, phylum, class, order, family, and genus explaining, on average, 3.2%, 14.6%, 4.1%, 9.2%, 4.8%, and 5.5% of the variance, respectively (&lt;em&gt;P &lt; &lt;/em&gt;0.001 for all). To our knowledge, this is the first work to quantify the variance in metabolic potential contributed by individual taxonomic ranks. A qualitative comparison between the COG-FC relative abundances and genus-level phylogenies, generated from published concatenated protein sequence alignments, further supports the idea that metabolic potential is taxonomically coherent at higher taxonomic ranks. The quantitative analyses presented here characterize the integral relationship between diversification of microbial lineages and the metabolisms which they host.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_eartpubs/8</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1013&amp;amp;context=utk_eartpubs&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1013</articleid>
+<submission-date>2019-08-28T12:33:03-07:00</submission-date>
+<publication-title>Earth and Planetary Sciences Publications and Other Works</publication-title>
+<context-key>15221719</context-key>
+<submission-path>utk_eartpubs/8</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="doi" type="string">
+<value>https://doi.org/10.5281/zenodo.3361565</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

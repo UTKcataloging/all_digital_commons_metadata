@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluating the Effects of Standardized Patient Care Pathways on Clinical Outcomes</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aromanov@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Romanova</lname>
+<fname>Anna</fname>
+<mname>V.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>treatment effects</keyword>
+<keyword>bias correction</keyword>
+<keyword>clinical pathways</keyword>
+<keyword>propensity score matching</keyword>
+<keyword>predicting length of stay</keyword>
+<keyword>readmission model</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Categorical Data Analysis</discipline>
+<discipline>Health Information Technology</discipline>
+<discipline>Statistical Methodology</discipline>
+<discipline>Vital and Health Statistics</discipline>
+</disciplines><abstract>&lt;p&gt;The main focus of this study is to create a standardized approach to evaluating the impact of the patient care pathways across all major disease categories and key outcome measures in a hospital setting when randomized clinical trials are not feasible. Toward this goal I identify statistical methods, control factors, and adjustments that can correct for potential confounding in observational studies. I investigate the efficiency of existing bias correction methods under varying conditions of imbalanced samples through a Monte Carlo simulation. The simulation results are then utilized in a case study for one of the largest primary diagnosis areas, chronic obstructive pulmonary disease (COPD) at the University of Tennessee Medical Center.&lt;/p&gt;
+&lt;p&gt;The analysis of the COPD pathway effects on the readmission rates showed a significant positive impact, with reduction in the probability of readmissions between 12% and 16%. The reduction in the length of stay was reported across all the models with historical controls, but the effect was not statistically significant.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3463</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4862&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3463</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4862</articleid>
+<submission-date>2015-06-08T08:35:35-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7189391</context-key>
+<submission-path>utk_graddiss/3463</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Russell Zaretki</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Noon, Randy Bradley, Bogdan Bichescu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

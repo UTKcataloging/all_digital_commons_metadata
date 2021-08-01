@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Effects of Anharmonicity on Vibrational Frequencies and Molar Absorptivities of Triplet-HON</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>abecke12@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Becker</lname>
+<fname>Andrea</fname>
+<mname>Nicole</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The reaction between NO and atomic hydrogen to form HNO is one that has been studied both experimentally and theoretically due to the observation of HNO in interstellar matter, as well as HNO&#39;s role as an intermediate product in some atmospheric reactions.[5] However, this reaction can also produce the HON molecule when performed in solid argon or para-hydrogen matrix environments at extremely low temperatures (10K and below 5K, respectively). [15, 20] Surprisingly, the HNO and HON products are formed at comparable rates in the para-hydrogen matrix, even though the reaction to form HNO has no energy barrier whilst the formation of HON must surpass a 12 kcal=mol barrier.[20, 5] The molar absorptivities of these two molecules are required to thoroughly study the kinetics of the H + NO reaction occurring within the matrix; since the IR spectrum is taken in situ, these values must be obtained computationally.The Double Harmonic Approximation (DHA) is a common method for calculating the molar absorptivities of a molecule; however, the DHA does not consider anharmonicity or coupling between vibrational levels. We propose both of these additions as important contributors to the molar absorptivities of HON due to the highly anharmonic character of its O-H vibrational mode, and therefore applied Vibrational Second-Order Perturbation Theory (VPT2). Unfortunately, while the VPT2 method provided better models of the potential energies than the DHA, the dipole moment polynomials were less accurate when compared to the ab initio data. Application of the linear variational method instead of VPT2 allowed us to control over whether or not coupling was included in the system, as well as the number of anharmonicity terms added (degree of polynomial), and we found a 10th order polynomial with a linear combination of the harmonic wavefunctions nine lowest energy levels was necessary to best model a single vibrational mode. The combinations of harmonic wavefunctions from each vibrational mode required when modeling the entire system is still unclear, but the inclusion of coupling between the modes has a significant effect on the calculated anharmonic frequencies and should be taken into account in any future analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5429</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6965&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5429</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6965</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545462</context-key>
+<submission-path>utk_graddiss/5429</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bhavya Sharma, Konstantinos Vogiatzis, David Keffer</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

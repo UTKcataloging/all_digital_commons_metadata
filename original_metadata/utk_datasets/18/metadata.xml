@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data for Soil Nematode Functional Diversity, Successional Patterns, and Indicator Taxa Associated with Vertebrate Decomposition</title>
+<publication-date>2017-03-17T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>Ltaylo32@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Taylor</lname>
+<fname>Lois</fname>
+<mname>S</mname>
+</author>
+<author>
+<email>jdebruyn@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>DeBruyn</lname>
+<fname>Jennifer</fname>
+</author>
+<author>
+<email>ebernard@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bernard</lname>
+<fname>Ernest</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>vertebrate decomposition</keyword>
+<keyword>nematode</keyword>
+<keyword>hotspots</keyword>
+<keyword>succession</keyword>
+</keywords>
+<abstract>&lt;p&gt;This dataset is associated with the doctoral dissertation of Lois S. Taylor (forthcoming in TRACE) under the direction of UTK Professors Dr. Jennifer DeBruyn and Dr. Ernest Bernard.&lt;/p&gt;
+&lt;p&gt;This study was supported in part by a National Science Foundation (NSF) award 1549726 to JMD. Additional support was provided by the National Institute of Justice, Office of Justice Programs, U.S. Department of Justice (DOJ) Award No. 2017-R2-CX-0008 to LST.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_datasets/18</coverpage-url>
+<label>18</label>
+<document-type>data</document-type>
+<type>article</type>
+<articleid>1018</articleid>
+<submission-date>2020-10-06T13:16:32-07:00</submission-date>
+<publication-title>Data Sets</publication-title>
+<context-key>19684416</context-key>
+<submission-path>utk_datasets/18</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This dataset is connected with &lt;a href=&quot;https://trace.tennessee.edu/utk_graddiss/6193/&quot;&gt;Lois Taylor&#39;s dissertation&lt;/a&gt;, &lt;a href=&quot;https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7427&amp;context=utk_graddiss&quot;&gt;A high resolution study of long-term vertebrate decomposition in human and animal model systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Five data files comprise this dataset:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2244&quot;&gt;README file&lt;/a&gt; - Orientation to dataset.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2240&quot;&gt;Sensor_data_master_LTAYLOR_Soil nematode functional diversity during vertebrate decomposition&lt;/a&gt; - This is the data originating from the Decagon RT-1 and GS3 probes used to measure environmental parameters.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2241&quot;&gt;Nematode_data_master_LTAYLOR_Soil nematode functional diversity during vertebrate decomposition&lt;/a&gt; - This is the master complied nematode data file that includes all sampling sites and dates.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2242&quot;&gt;Rcode_LTAYLOR_Soil nematode functional diversity during vertebrate decomposition&lt;/a&gt; - This file contains the R code necessary to generate graphs found in all manuscript figures, as well as to perform statistical calculations (ANOVAs, T-tests)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://trace.utk.edu/islandora/object/utk.ir.fg%3A2243&quot;&gt;Nematode_all_indices_LTAYLOR_Soil nematode functional diversity during vertebrate decomposition&lt;/a&gt; - This file is constructed from the master nematode data file (Nematode_data_master_LTAYLOR_Soil nematode functional diversity during vertebrate decomposition). This is a compilation of abundance, Shannon diversity, Richness, EI (a faunal index), and the SI (a faunal index), as calculated in Keenan et al (2018), referenced above.&lt;/li&gt;
+&lt;/ul&gt;</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-03-17T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>https://trace.utk.edu/islandora/object/utk.ir.fg%3A2244</value>
+</field>
+</fields>
+</document>
+</documents>

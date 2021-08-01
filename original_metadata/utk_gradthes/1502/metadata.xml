@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Distributed Self-Deployment in Visual Sensor Networks</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Beall</lname>
+<fname>Christopher</fname>
+<mname>Allan</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Autonomous decision making in a variety of wireless sensor networks, and also in visual sensor networks (VSNs), specifically, has become a highly researched field in recent years. There is a wide array of applications ranging from military operations to civilian environmental monitoring. To make VSNs highly useful in any type of setting, a number of fundamental problems must be solved, such as sensor node localization, self-deployment, target recognition, etc. This presents a plethora of challenges, as low cost, low energy consumption, and excellent scalability are desired.&lt;/p&gt;
+&lt;p&gt;This thesis describes the design and implementation of a distributed self-deployment method in wireless visual sensor networks. Algorithms are developed for the imple- mentation of both centralized and distributed self-deployment schemes, given a set of randomly placed sensor nodes. In order to self-deploy these nodes, the fundamental problem of localization must first be solved. To this end, visual structured marker detection is utilized to obtain coordinate data in reference to artificial markers, which then is used to deduct the location of a node in an absolute coordinate system. Once localization is complete, the nodes in the VSN are deployed in either centralized or distributed fashion, to pre-defined target locations. As is usually the case, in cen- tralized mode there is a single processing node which makes the vast majority of decisions, and since this one node has knowledge of all events in the VSN, it is able to make optimal decisions, at the expense of time and scalability. The distributed mode, however, offers increased performance in regard to time and scalability, but the final deployment result may be considered sub-optimal. Software is developed for both modes of operations, and a GUI is provided as an easy control interface, which also allows for visualization of the VSN progress in the testing environment.&lt;/p&gt;
+&lt;p&gt;The algorithms are tested on an actual testbed consisting of five custom-built Mobile Sensor Platforms (MSPs). The MSPs are configured to have a camera and an ultra-sonic range sensor. The visual marker detection uses the camera, and for obstacle avoidance during motion, the sonic ranger is used. Eight markers are placed in an area measuring 4 &lt;em&gt;× &lt;/em&gt;4 meters, which is surrounded by white background.&lt;/p&gt;
+&lt;p&gt;Both algorithms are evaluated for speed and accuracy. Experimental results show that localization using the visual markers has an accuracy of about 96% in ideal lighting conditions, and the proposed self-deployment algorithms perform as desired. The MSPs suffer from some physical design limitations, such as lacking wheel encoders for reliable movement in straight lines. Experiments show that over 1 meter of travel the MSPs deviate from the path by an average of 7.5 cm in a lateral direction. Finally, the time needed for each algorithm to complete is recorded, and it is found that centralized and distributed modes require an average of 34.3 and 28.6 seconds, respectively, effectively meaning that distributed self-deployment is approximately 16.5% faster than centralized deployment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1502</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2944&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1502</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2944</articleid>
+<submission-date>2013-07-25T10:16:12-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4347199</context-key>
+<submission-path>utk_gradthes/1502</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Itamar Elhanany</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

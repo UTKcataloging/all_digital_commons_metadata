@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of Patient Specific Predictive Treatment Margins to Account for Prostate Motion During Treatment Using Real-Time Intra Fraction Tracking</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mhowar14@utk.edu</email>
+<lname>Howard</lname>
+<fname>Michael Edward</fname>
+</author>
+</authors>
+<keywords>
+<keyword>prostate motion</keyword>
+<keyword>calypso</keyword>
+<keyword>predictive margins</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Radiation therapy for prostate cancer has evolved over time. Intra-fractional motion of the prostate has been a clinical limitation in dose delivery. Reduced margins can lead to less toxicity to critical structures and an overall reduction in the risk of secondary cancers. Three models have been developed to predict prostate margins based on the first five fractions of treatment.&lt;/p&gt;
+&lt;p&gt;An 8&lt;sup&gt;th&lt;/sup&gt; order polynomial model is utilized with the 95% and 99% predictive lines indicating margins. This approach is applied to 24 patients. The maximum values as indicated by the predictive lines are used as the margins for the patient. The resultant margins are then compared with the remaining 34 fractions of treatment to determine whether a model is acceptable for clinical treatment.&lt;/p&gt;
+&lt;p&gt;The cumulative frequency distribution (CFD) is the second approach used in determining margins. The 95% and 99% data points are used as the predictive margins. The computed margins are then used to determine if the model is acceptable. A Bayesian model is the final approach. A posterior distribution is computed by implementing a uniform prior along with a Gaussian likelihood function. The 95% and 99% points along the distribution are utilized for margin determination.&lt;/p&gt;
+&lt;p&gt;Treatment plans are developed comparing the model that is most accurate versus a standard margin set that is in clinical practice. Individual margins derived by using the mathematical model varied significantly from patient to patient with ranges as follows (in mm): +x (1.5 to 2.5), -x (1.5 to 3.7), +y (1.5-5.4), -y (1.6 to 5.7), +z (1.5 to 4.2) and –z (1.5 to 4.6). The percentage of time the prostate moved outside of the individual patient margins based on the model was 0.86 +/- 1.07, 2.56 +/- 3.65 and 4.37 +/- 4.24 respectively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1585</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2773&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1585</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2773</articleid>
+<submission-date>2012-11-14T07:48:21-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3467653</context-key>
+<submission-path>utk_graddiss/1585</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Laurence F. Miller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ronald E. Pevey, Lawrence H. Heilbronn, Dayakar Penumadu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

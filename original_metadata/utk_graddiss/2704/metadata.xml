@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Indefinite Knapsack Separable Quadratic Programming: Methods and Applications</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jjeong3@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jeong</lname>
+<fname>Jaehwan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Optimization</keyword>
+<keyword>Quadratic programming</keyword>
+<keyword>Indefinite</keyword>
+<keyword>Global optimization</keyword>
+<keyword>Portfolio selection</keyword>
+</keywords>
+<disciplines><discipline>Finance and Financial Management</discipline>
+<discipline>Management Sciences and Quantitative Methods</discipline>
+<discipline>Other Mathematics</discipline>
+<discipline>Portfolio and Security Analysis</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Quadratic programming (QP) has received significant consideration due to an extensive list of applications. Although polynomial time algorithms for the convex case have been developed, the solution of large scale QPs is challenging due to the computer memory and speed limitations. Moreover, if the QP is nonconvex or includes integer variables, the problem is NP-hard. Therefore, no known algorithm can solve such QPs efficiently. Alternatively, row-aggregation and diagonalization techniques have been developed to solve QP by a sub-problem, knapsack separable QP (KSQP), which has a separable objective function and is constrained by a single knapsack linear constraint and box constraints.&lt;/p&gt;
+&lt;p&gt;KSQP can therefore be considered as a fundamental building-block to solve the general QP and is an important class of problems for research. For the convex KSQP, linear time algorithms are available. However, if some quadratic terms or even only one term is negative in KSQP, the problem is known to be NP-hard, i.e. it is notoriously difficult to solve.&lt;/p&gt;
+&lt;p&gt;The main objective of this dissertation is to develop efficient algorithms to solve general KSQP. Thus, the contributions of this dissertation are five-fold. First, this dissertation includes comprehensive literature review for convex and nonconvex KSQP by considering their computational efficiencies and theoretical complexities. Second, a new algorithm with quadratic time worst-case complexity is developed to globally solve the nonconvex KSQP, having open box constraints. Third, the latter global solver is utilized to develop a new bounding algorithm for general KSQP. Fourth, another new algorithm is developed to find a bound for general KSQP in linear time complexity. Fifth, a list of comprehensive applications for convex KSQP is introduced, and direct applications of indefinite KSQP are described and tested with our newly developed methods.&lt;/p&gt;
+&lt;p&gt;Experiments are conducted to compare the performance of the developed algorithms with that of local, global, and commercial solvers such as IBM CPLEX using randomly generated problems in the context of certain applications. The experimental results show that our proposed methods are superior in speed as well as in the quality of solutions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2704</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4017&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2704</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4017</articleid>
+<submission-date>2014-02-24T22:22:01-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4017/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5202323</context-key>
+<submission-path>utk_graddiss/2704</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Chanaka Edirisinghe</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hamparsum Bozdogan, Bogdan Bichescu, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Benchmarks and Controls for Optimization with Quantum Annealing</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>egrant8@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Grant</lname>
+<fname>Erica</fname>
+<mname>Kelley</mname>
+</author>
+</authors>
+<keywords>
+<keyword>quantum annealing</keyword>
+<keyword>adiabatic quantum computing</keyword>
+<keyword>tuning strategies</keyword>
+<keyword>optimization</keyword>
+</keywords>
+<disciplines><discipline>Quantum Physics</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;Quantum annealing (QA) is a metaheuristic specialized for solving optimization problems which uses principles of adiabatic quantum computing, namely the adiabatic theorem. Some devices implement QA using quantum mechanical phenomena. These QA devices do not perfectly adhere to the adiabatic theorem because they are subject to thermal and magnetic noise. Thus, QA devices return statistical solutions with some probability of success where this probability is affected by the level of noise of the system. As these devices improve, it is believed that they will become less noisy and more accurate. However, some tuning strategies may further improve that probability of finding the correct solution and reduce the effects of noise on solution outcome. In this dissertation, these tuning strategies are explored in depth to determine the effect of preprocessing, annealing, and post-processing controls on performance. In particular, these tuning strategies were applied to a real-world NP (nondeterministic polynomial time)-hard optimization problem and portfolio optimization. Although the performance improved very little from tuning the spin reversal transforms, anneal time, and embedding, the results revealed that reverse annealing controls improved the probability of success by an order of magnitude over forward annealing alone. The chain strength experiments revealed that increasing the strength of the intra-chain coupling improves the probability of success until the intra-chain coupling strengths begin to overpower the inter-chain couplings. By taking a closer look at each physical qubit in the embedded chains, the probability for each qubit to be faulty was visualized and was used to develop a post-processing strategy that outperformed the standard, which chooses a logical qubit value from a broken chain. The results of these findings provide a guide for researchers to find the optimal set of controls for their unique real-world optimization problem to determine whether QA provides some benefit over classical computing, lay the groundwork for developing new tuning strategies that could further improve performance, and characterize the current hardware for benchmarking future generations of QA hardware.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6074</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7389&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6074</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7389</articleid>
+<submission-date>2020-09-28T18:14:18-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19577794</context-key>
+<submission-path>utk_graddiss/6074</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Travis S. Humble</value>
+</field>
+<field name="advisor2" type="string">
+<value>Travis S. Humble, Peter L. Fuhr, Bruce J. MacLennan, James P. Ostrowski</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;https://orcid.org/0000-0003-1338-4587&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

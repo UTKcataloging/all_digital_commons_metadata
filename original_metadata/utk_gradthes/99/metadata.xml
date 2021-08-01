@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Detection of Stress Corrosion Cracking in Natural Gas Pipelines Using Electromagnetic Acoustic Transducers</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Albright</lname>
+<fname>Austin</fname>
+<mname>P</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis describes the refinement of a non-destructive, in-line inspection system sensor for the detection of stress corrosion cracks (SCCs) in natural gas pipelines. The sensors are prototype electromagnetic acoustic transducers (EMATs) for noncontact ultrasonic inspection. The focus areas discussed involve the statistically validated performance improvements achieved through the addition of 12 more features, the addition of Principal Component Analysis plus Linear Discriminant Analysis (PCA+LDA) to the classification algorithm, and most significantly the creating of a training set. The training set allowed PCA+LDA to be included in the classification algorithm, as well as allowing one set of no-flaw signature features, one PCA projection matrix, and one LDA projection matrix to be used on multiple pipes and on multiple scanned paths from a pipe. A discrete wavelet decomposition is used to separate the frequency content of each EMAT sample (signature) into five distinct bands. From these decomposed signatures, features are extracted for classification. The classification begins with the projection of the features using the PCA projection matrix derived from the training set, immediately followed by the projection of the PCA projected features using the LDA projection matrix that was also derived from the training set. Finally, the PCA+LDA projected features are classified based on their Mahalanobis distances from the PCA+LDA projected no-flaw training set features. Using the improved feature set and this classification procedure, SCC identification improved 14% and there was an 80% reduction in the number of false positives. In addition, there was a 30% improvement in the detection of the most critical SCCs. SCCs whose average through wall depths were between 35% and 54%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/99</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1130&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>99</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1130</articleid>
+<submission-date>2010-02-08T10:25:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1135826</context-key>
+<submission-path>utk_gradthes/99</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Michael J. Roberts</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/AlbrightAustin.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

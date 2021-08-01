@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Use of EHR data in Early Detection Systems: A Case in Sepsis and In-Hospital Mortality Prediction</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>vtansaku@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Tansakul</lname>
+<fname>Varisara</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In this thesis, we aim to use electronic health records (EHRs) to predict sepsis and in-hospital mortality by using machine learning algorithms. We first explored EHRs dataset and performed data cleansing. Then, we extracted 57 features using data of vital signs and white blood cell (WBC) count. Two classification algorithms (i.e., random forest and neural network) were used to develop predictive models using the data from the first few hours after admission to predict sepsis and in-hospital mortality. In addition, we also used the data collected in the last few hours before sepsis developed to predict sepsis.The results show promise in early prediction of sepsis and possibly providing an opportunity for directing early intervention efforts to prevent or treat sepsis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5022</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6429&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5022</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6429</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414676</context-key>
+<submission-path>utk_gradthes/5022</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Anahita Khojandi, Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>John E. Kobza</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

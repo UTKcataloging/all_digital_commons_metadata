@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Finding Functional Gene Relationships Using the Semantic Gene Organizer (SGO)</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Heinrich</lname>
+<fname>Kevin</fname>
+<mname>Erich</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Understanding functional gene relationships is a major challenge in bioninformatics and computational biology. Currently, many approaches extract gene relationships via term co-occurrence models from the biomedical literature. Unfortunately, however, many genes that are experimentally identified to be related have not been previously studied together. As a result, many automated models fail to help researchers understand the nature of the relationships. In this work, the particular schema used tomine genomic data is called Latent&lt;br /&gt;Semantic Indexing (LSI). LSI performs a singular-value decomposition (SVD) to produce a low-rank approximation of the data set. Effectively, it allows queries to be interpreted in a more concept-based space and can allow for gene relationships to be discovered that would ordinarily be overlooked by other models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2566</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3644&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2566</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3644</articleid>
+<submission-date>2013-10-11T12:02:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4698903</context-key>
+<submission-path>utk_gradthes/2566</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ramin Homayouni, Jens Gregor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transient Jet Interaction Force and Moment Reconstruction in Dynamic Wind-Tunnel Testing</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Smith</lname>
+<fname>Mark</fname>
+<mname>Edward</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years there has been an increased interest in understanding the effect of missile divert jets upon the pressure distribution on the surface of a missile. Missile divert jets are jets located near the missile center of mass and thrusting along a lateral axis of a missile. The firing of a divert jet perturbs the pressure dis- tribution and thus alters the aerodynamic force acting on the missile. This is the aerodynamic jet interaction e®ect. It is essential to characterize and understand this effect when designing robust missile autopilots.&lt;/p&gt;
+&lt;p&gt;Testing techniques for determining the transient jet interaction effect must be able to interpret force and moment data in the presence of the modal response of the missile model. Two techniques for accomplishing this have been investigated. One technique is the Sum of Weighted Accelerations Technique (SWAT) developed by Sandia National Laboratories (SNL). The second technique uses the frequency response function (FRF) of the model.&lt;/p&gt;
+&lt;p&gt;In the SWAT the rigid body response of the model is determined by a weighted sum of the accelerations measured at distributed locations on the model. The derivation of the SWAT is described along with several techniques for determin- ing the weights. The SWAT was developed by SNL for an unconstrained body. In wind-tunnel testing the model is constrained by the force balance. We extend the SWAT to accommodate the constraint. We also extend the SWAT for the reconstruction of moments. We show that the SWAT is valid for systems ex-hibiting large rigid body translations and rotations. We demonstrate the SWAT by applying it to simple one and two degree-of-freedom computational models, a simple finite element model, measured laboratory data, and a large translation and rotation finite element model.&lt;/p&gt;
+&lt;p&gt;The FRF technique reconstructs applied force using an inversion of the fre- quency response function. A well known weakness of the FRF technique is its sensitivity to singularity. We present a derivation of the technique and address the singularity issue. We show that the FRF technique is capable of resolving dis- tributed forces. We apply the technique to simple one and two degree-of-freedom computational models, a simple finite element model, and to measured laboratory data.&lt;/p&gt;
+&lt;p&gt;The SWAT is the more promising of the techniques as it does not require an accurate modal model of the test article. It also presents fewer computational problems. Both techniques may be useful in practice to corroborate results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2204</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3677&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2204</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3677</articleid>
+<submission-date>2013-10-09T08:57:07-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4688626</context-key>
+<submission-path>utk_graddiss/2204</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Remi Engels</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Gary Flandro, Dr. Frank Collins, Dr. Kenneth Kimble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

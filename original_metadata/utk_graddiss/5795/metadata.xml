@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Ontological Considerations for Interoperability in Scientific Workflows</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbillin4@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Billings</lname>
+<fname>Jay</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Scientific workflows exist in many different domains and for many different computing platforms. As these systems have proliferated, they have also become increasingly complex and harder to maintain. Furthermore, these systems often exist as self-sufficient islands of capability that can be over-specialized and locked into a specific domain. Some commonality exists and three major workflow types are readily apparent in (i) modeling and simulation, (ii) high-throughput data analysis, and (iii) optimization. A far more detailed understanding of different workflow types is required to determine how large, interdisciplinary workflows that span the types and multiple computing facilities can be created and executed. This work presents a new model of scientific workflows that attempts to create such an understanding with a formal, machine-readable ontology that can be used to answer design questions about interoperability for workflows that need to be executed across distributed workflow management systems. Example instances are presented for simple workflows that do not require decision making, more complicated workflows that can split decision making between external agents and internal state transitions in finite state machines, and purely conceptual workflows that represent notional if not exactly executable workflows purely for communicating ideas. Finally, a perspective on interoperability for workflow systems is presented in the context of the ontology.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5795</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7561&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5795</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7561</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419703</context-key>
+<submission-path>utk_graddiss/5795</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Guidry Sr</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack Dongarra, John Drake, Malikarjun Shankar, John Turner</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/orcid.org/0000-0001-8811-2688</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

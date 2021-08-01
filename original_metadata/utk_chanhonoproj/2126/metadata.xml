@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Project Arduino</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kye2@vols.utk.edu</email>
+<institution>University of Tennessee Knoxville</institution>
+<lname>Ye</lname>
+<fname>Kevin</fname>
+</author>
+<author>
+<email>grouleau@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Rouleau</lname>
+<fname>Gregory</fname>
+</author>
+<author>
+<email>aperson1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Person</lname>
+<fname>Alan</fname>
+</author>
+<author>
+<email>jmuhamm1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Muhammad</lname>
+<fname>Jabril</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Arduino</keyword>
+<keyword>Assembly</keyword>
+</keywords>
+<disciplines><discipline>Programming Languages and Compilers</discipline>
+</disciplines><coverpage-url>https://trace.tennessee.edu/utk_chanhonoproj/2126</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3158&amp;amp;context=utk_chanhonoproj&amp;amp;unstamped=1</fulltext-url>
+<label>2126</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3158</articleid>
+<submission-date>2017-05-12T22:41:18-07:00</submission-date>
+<publication-title>Chancellor’s Honors Program Projects</publication-title>
+<context-key>10161164</context-key>
+<submission-path>utk_chanhonoproj/2126</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael G. Thomason</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Project goal was to implement native support for assembly files in the Arduino IDE.&lt;/p&gt;
+&lt;p&gt;The goals of the project were to:&lt;/p&gt;
+&lt;p&gt;1. Implement a feature in the IDE that allows users to export Arduino code to assembly (ASM) files.&lt;/p&gt;
+&lt;p&gt;2. Filter the exported assembly files to reduce the amount of operating system/non-user defined instructions.&lt;/p&gt;
+&lt;p&gt;3. Implement a feature in the IDE that allows importing, compiling, and executing of assembly files.&lt;/p&gt;
+&lt;p&gt;The overall goal was to improve the experience of learning assembly language for students taking Computer Organization (COSC 130).&lt;/p&gt;</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-05-12T00:00:00-07:00</value>
+</field>
+<field name="major1" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

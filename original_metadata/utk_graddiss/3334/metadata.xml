@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluation, Construction, and Verification of a Subchannel Steady State Heat Transfer Code for Plate-Fueled Reactors</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cgriffar@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Griffard</lname>
+<fname>Cory</fname>
+<mname>Landon</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Several high performance research reactors use plate fuel that is clad with aluminum and cooled with forced convection of subcooled water. High resolution multiphysics simulation tools have been developed to allow the performance of the core in these reactors to be assessed in more detail. The high resolution multiphysics (HRMP) simulation tools must go through verification and validation (V&amp;V) to ensure the additional detail of the outcomes is accompanied with quantifiable uncertainties and confidence intervals. As an example of V&amp;V, a one-dimensional subchannel code with conventional engineering flow and heat transfer models may be used to check the performance of a three-dimensional computational fluid dynamics assessment. This work develops a plate-fueled reactor subchannel steady state heat transfer code (PFSC) using a one-dimensional subchannel model. V&amp;V is done for the PFSC by deriving several key equations, which are used in the subchannel heat transfer analysis, from the Reynolds Transport Theorem. This activity allows the subchannel model to be extended to include uncertainties and biases associated with the modeling simplifications, which can extend the utility of the subchannel model as a tool for testing the HRMP model. The initial basis for the development of the subchannel code is the High Flux Isotope Reactor (HFIR), which is a leading example of a high performance plate-fueled research reactor. The PFSC includes new features from the existing HFIR Steady State Heat Transfer Code (SSHTC) such as density and elevation changes in the momentum and energy equations, friction losses and internal heat generation in the energy equation, more accurate correlations for the thermophysical properties of water, new models used as limiting criteria in the reactor analysis, and flags that separate the heat transfer and fluid flow from fuel plate surface oxidation and deflections. A code to code comparison is done between the new flexible subchannel code and the HFIR SSHTC, as well as a comparison to an analytical solution for a simplified case with uniform heat flux and constant fluid properties. Biases associated with the one-dimensional assessment of the subchannel model are also reviewed. These activities provide quality assurance for the PFSC.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3334</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4792&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3334</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4792</articleid>
+<submission-date>2015-04-10T12:02:35-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6971027</context-key>
+<submission-path>utk_graddiss/3334</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Art E. Ruggles</value>
+</field>
+<field name="advisor2" type="string">
+<value>Guillermo I. Maldonado, David H. Cook, James D. Freels, Kivanc Ekici</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>IAPWS.F90</archive-name>
+<upload-name>IAPWS.F90</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=4792&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>File 6</description>
+</file>
+<file>
+<archive-name>MainProgram.F90</archive-name>
+<upload-name>MainProgram.F90</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=4792&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>File 1</description>
+</file>
+<file>
+<archive-name>PartI.F90</archive-name>
+<upload-name>PartI.F90</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=2&amp;amp;article=4792&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>File 2</description>
+</file>
+<file>
+<archive-name>PartII.F90</archive-name>
+<upload-name>PartII.F90</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=3&amp;amp;article=4792&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>File 3</description>
+</file>
+<file>
+<archive-name>PartIII.F90</archive-name>
+<upload-name>PartIII.F90</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=4&amp;amp;article=4792&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>File 4</description>
+</file>
+<file>
+<archive-name>Subprograms.F90</archive-name>
+<upload-name>Subprograms.F90</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=5&amp;amp;article=4792&amp;amp;context=utk_graddiss&amp;amp;type=additional</url>
+<mime-type>text/plain</mime-type>
+<description>File 5</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reducing Power Consumption and Latency in Mobile Devices using a Push Event Stream Model, Kernel Display Server, and GUI Scheduler</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>stephen.marz@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Marz</lname>
+<fname>Stephen</fname>
+<mname>Gregory</mname>
+</author>
+</authors>
+<keywords>
+<keyword>mobile devices</keyword>
+<keyword>power consumption</keyword>
+<keyword>kernel push event model</keyword>
+<keyword>reduced latency</keyword>
+</keywords>
+<disciplines><discipline>OS and Networks</discipline>
+</disciplines><abstract>&lt;p&gt;The power consumed by mobile devices can be dramatically reduced by improving how mobile operating systems handle events and display management. Currently, mobile operating systems use a pull model that employs a polling loop to constantly ask the operating system if an event exists. This constant querying prevents the CPU from entering a deep sleep, which unnecessarily consumes power.&lt;/p&gt;
+&lt;p&gt;We’ve improved this process by switching to a push model which we refer to as the event stream model (ESM). This model leverages modern device interrupt controllers which automatically notify an application when events occur, thus removing the need to constantly rouse the CPU in order to poll for events. Since the CPU rests while no events are occurring, power consumption is reduced. Furthermore, an application is immediately notified when an event occurs, as opposed to waiting for a polling loop to recognize when an event has occurred. This immediate notification reduces latency, which is the elapsed time between the occurrence of an event and the beginning of its processing by an application.&lt;/p&gt;
+&lt;p&gt;We further improved the benefits of the ESM by moving the display server, a central piece of the graphical user interface (GUI), into the kernel. Existing display servers duplicate some of the kernel code. They contain important information about an application that can assist the kernel with scheduling, such as whether the application is visible and able to receive events. However, they do not share such information with the kernel. Our new kernel-level display server (KDS) interacts directly with the process scheduler to determine when applications are allowed to use the CPU. For example, when an application is idle and not visible on the screen, the KDS prevents that application from using the CPU, thus conserving power. These combined improvements have reduced power consumption by up to 31.2% and latency by up to 17.1 milliseconds in our experimental applications. This improvement in power consumption roughly increases battery life by one to four hours when the device is being actively used or fifty to three-hundred hours when the device is idle.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3943</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5277&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3943</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5277</articleid>
+<submission-date>2016-05-16T13:43:50-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8607462</context-key>
+<submission-path>utk_graddiss/3943</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brad T. Vander Zanden</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wei Gao, Jian Huang, Peiling Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

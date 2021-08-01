@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Theory and Construction Methods for Large Regular Resolution IV Designs</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Block</lname>
+<fname>Robert</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+</disciplines><abstract>&lt;p&gt;We define 2k-p fractional factorial designs which use all of their degrees of freedom to estimate main effects and two-factor interactions as second order saturated (sos) designs. We prove that resolution IV sos designs project to every other resolution IV design, and show the details of these projections for every n = 32 and n = 64 run fraction. For k &gt; (5/16)n, all resolution IV designs are a projection from the even sos design at k = n/2. For k ≤ (5/16)n the minimum aberration design resolution IV designs are projections of sos designs with both even and odd words in the defining relation. While even resolution IV designs are limited to estimating fewer than n/2 two-factor interactions (in addition to the k main effects), resolution IV designs with odd-length words in the defining relation may devote more than half of their degrees of freedom to two-factor interactions. We propose a method to search for good resolution IV designs using naïve projections from even/odd sos designs. We introduce the alias length pattern as a tool to help characterize designs. We describe how the matrix T = DD&#39; for a design D is useful in searching for designs. We list the resolution IV even/odd minimum aberration designs for n = 128 and provide a catalog of the best resolution IV even/odd designs for n = 128. These results are based on an isomorphic check using a convenient function of T, as well as the set of projections of a design. Finally, we suggest a new method for finding good regular resolution IV designs for large n (&gt; 128) and provide a preliminary table of good resolution IV even/odd designs for n = 256.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1975</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3406&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1975</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3406</articleid>
+<submission-date>2013-09-20T11:50:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4609410</context-key>
+<submission-path>utk_graddiss/1975</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert W. Mee</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth E. Kirby, Mary G. Leitnaker, William C. Parr</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Temperature Control of the Online Rheological Sensor</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Spencer</lname>
+<fname>Larry</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Rheometers are devices that can be used to measure the rheological properties of polymers. Online rheometers test for rheological properties during a polymer process. Real-time rheological data would eliminate any time delays that accompany off-line rheometers and would provide the feedback information needed for tighter polymer process control. A real-time control system would eliminate the need for an offline rheometer to analyze polymer product properties, thus saving both time and money.&lt;/p&gt;
+&lt;p&gt;The Online Rheological Sensor was used to estimate the shear and elongational viscosities of a polymer from measured variables during processing. The Online Rheological Sensor was mounted on a twin-screw extruder in order to measure polymer viscosities for a melt blowing process. The Online Rheological Sensor was equipped with process measurement devices that interfaced with National Instrument’s LabVIEW. The LabVIEW program calculated and plotted the shear and elongational viscosities of a polymer, along with the process pressures and temperatures. The goal of this research was to work towards using the Online Rheological Sensor as a device to monitor and control polymer viscosities during processing.&lt;/p&gt;
+&lt;p&gt;The following paper explores methods to control the temperature of the Online Rheological Sensor block to help maintain a constant polymer viscosity. This research also outlines methods in which the Online Rheological Sensor can be used as a feedback control device for a melt blowing line during processing.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2360</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3790&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2360</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3790</articleid>
+<submission-date>2013-10-18T08:36:31-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4737990</context-key>
+<submission-path>utk_gradthes/2360</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles Moore</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Collier, Simioan Petrovan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

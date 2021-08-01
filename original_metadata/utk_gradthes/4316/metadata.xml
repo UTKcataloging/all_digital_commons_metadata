@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Monitoring and Life Prediction of Internal Strain-Gage Balances</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dyoder2@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Yoder</lname>
+<fname>David</fname>
+<mname>Leon</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Fatigue</keyword>
+<keyword>Wind tunnel</keyword>
+<keyword>AEDC</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+<discipline>Applied Mechanics</discipline>
+<discipline>Computer-Aided Engineering and Design</discipline>
+<discipline>Other Aerospace Engineering</discipline>
+<discipline>Other Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Wind tunnel test customers continue to push the limits by producing air vehicle designs that produce high aerodynamic loads at the desired test conditions. These loads are a combination of steady aerodynamic, unsteady aerodynamic, and inertial forces. A methodology to monitor the health of a wind tunnel strain-gage balance has been developed. The objective of this methodology is to define the stress limits of the balance and monitor these limits so the balance can be safely tested without failure of the balance. A balance failure could result in costly damage to the wind tunnel model, support system, and the wind tunnel facility itself. The health monitoring method incorporates elements of signal processing, finite element analysis (FEA), cycle counting in fatigue analysis, and cumulative damage model theory. From these areas a new balance monitoring methodology that is capable of computing balance loads and stresses, factors of safety, counting fatigue cycles, and providing guidance for inspection of the balance. An example of implementation of this methodology using dynamic balance readings collected from a wind tunnel test is discussed. Results show a maximum load calculation error reduction of 71% and an overall accuracy of at least 95%. Additionally, the new methodology identified 17% more exceedances than the legacy method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4316</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5255&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4316</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5255</articleid>
+<submission-date>2016-06-17T20:20:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8747745</context-key>
+<submission-path>utk_gradthes/4316</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ahmad Vakili, Montgomery L. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

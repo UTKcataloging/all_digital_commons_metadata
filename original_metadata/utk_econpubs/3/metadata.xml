@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Intraday Load Forecasts with Uncertainty</title>
+<publication-date>2019-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Colorado School Mines, Golden</institution>
+<lname>Kozak</lname>
+<fname>David</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Holladay</lname>
+<fname>Scott</fname>
+</author>
+<author>
+<institution>Colorado School Mines, Golden</institution>
+<lname>Fasshauer</lname>
+<fname>Gregory</fname>
+<mname>E.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;We provide a comprehensive framework for forecasting five minute load using Gaussian processes with a positive definite kernel specifically designed for load forecasts. Gaussian processes are probabilistic, enabling us to draw samples from a posterior distribution and provide rigorous uncertainty estimates to complement the point forecast, an important benefit for forecast consumers. As part of the modeling process, we discuss various methods for dimension reduction and explore their use in effectively incorporating weather data to the load forecast. We provide guidance for every step of the modeling process, from model construction through optimization and model combination. We provide results on data from the largest deregulated wholesale U.S. electricity market for various periods in 2018. The process is transparent, mathematically motivated, and reproducible. The resulting model provides a probability density of five minute forecasts for 24 h.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_econpubs/3</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1013&amp;amp;context=utk_econpubs&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1013</articleid>
+<submission-date>2020-06-01T10:24:35-07:00</submission-date>
+<publication-title>Economics Publications and Other Works</publication-title>
+<context-key>17934906</context-key>
+<submission-path>utk_econpubs/3</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="doi" type="string">
+<value>https://doi.org/10.3390/en12101833</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Energies</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

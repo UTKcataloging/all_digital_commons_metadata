@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis and Characterization of a SiGe BiCMOS Low Power Operational Amplifier</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yarlagadda</lname>
+<fname>Archana</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Integrated circuit design for space applications can require radiation immunity, cryogenic operation and low power consumption. This thesis provides analysis and characterization of a SiGe BiCMOS low power operational amplifier (op amp) designed for lunar surface applications. The op amp has been fabricated on a commercially available 0.35-micron Silicon-Germanium (SiGe) BiCMOS process. The Heterojunction bipolar transistors (HBT) available in the SiGe process have been used in this op amp to take advantage of the total ionizing dose (TID) irradiation immunity and superb cryogenic operation, along with PMOS devices that show better TID immunity than their NMOS counterparts. The key features of the op amp include rail-to-rail output voltage swing, low input offset voltage, high open-loop gain and low supply current. The characterization of op amp is done for extreme temperatures and the results demonstrate that the op amp is fully functional across the lunar surface temperature range of −180°C to +120°C. The wide temperature operation of this op amp is tested using different bias current techniques such as proportional-to-absolute-temperature current, constant current and constant inversion coefficient current sources to investigate optimal biasing strategies for BiCMOS analog design. In addition, the SiGe BiCMOS low power op amp provides lower power consumption with the same or better unity-gain bandwidth when compared to a CMOS op amp with similar circuit topology.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/198</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1229&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>198</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1229</articleid>
+<submission-date>2010-02-10T09:25:35-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1138954</context-key>
+<submission-path>utk_gradthes/198</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed Islam, Ethan Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/YarlagaddaArchana.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

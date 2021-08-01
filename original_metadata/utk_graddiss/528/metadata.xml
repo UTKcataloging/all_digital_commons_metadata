@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SB-CoRLA: Schema-Based Constructivist Robot Learning Architecture</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tang</lname>
+<fname>Yifan</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation explores schema-based robot learning. I developed SB-CoRLA (Schema- Based, Constructivist Robot Learning Architecture) to address the issue of constructivist robot learning in a schema-based robot system. The SB-CoRLA architecture extends the previously developed ASyMTRe (Automated Synthesis of Multi-team member Task solutions through software Reconfiguration) architecture to enable constructivist learning for multi-robot team tasks. The schema-based ASyMTRe architecture has successfully solved the problem of automatically synthesizing task solutions based on robot capabilities. However, it does not include a learning ability. Nothing is learned from past experience; therefore, each time a new task needs to be assigned to a new team of robots, the search process for a solution starts anew. Furthermore, it is not possible for the robot to develop a new behavior.&lt;/p&gt;
+&lt;p&gt;The complete SB-CoRLA architecture includes off-line learning and online learning processes. For my dissertation, I implemented a schema chunking process within the framework of SB-CoRLA that involves off-line evolutionary learning of partial solutions (also called “chunks”), and online solution search using learned chunks. The chunks are higher level building blocks than the original schemas. They have similar interfaces to the original schemas, and can be used in an extended version of the ASyMTRe online solution searching process.&lt;/p&gt;
+&lt;p&gt;SB-CoRLA can include other learning processes such as an online learning process that uses a combination of exploration and a goal-directed feedback evaluation process to develop new behaviors by modifying and extending existing schemas. The online learning process is planned for future work.&lt;/p&gt;
+&lt;p&gt;The significance of this work is the development of an architecture that enables continuous, constructivist learning by incorporating learning capabilities in a schema-based robot system, thus allowing robot teams to re-use previous task solutions for both existing and new tasks, to build up more abstract schema chunks, as well as to develop new schemas. The schema chunking process can generate solutions in certain situations when the centralized ASyMTRe cannot find solutions in a timely manner. The chunks can be re-used for different applications, hence improving the search efficiency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/528</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1595&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>528</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1595</articleid>
+<submission-date>2010-02-22T09:56:33-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1161475</context-key>
+<submission-path>utk_graddiss/528</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce J. MacLennan, Michael W. Berry, Dongjun Lee</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/TangYifan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

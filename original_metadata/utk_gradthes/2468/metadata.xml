@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Short-term Electrical Load Forecasting for an Institutional/Industrial Power System Using an Artificial Neural Network</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>etaylo10@utk.edu</email>
+<institution>University of Tennessee – Knoxville.</institution>
+<lname>Taylor</lname>
+<fname>Eric</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>short-term</keyword>
+<keyword>load forecast</keyword>
+<keyword>STLF</keyword>
+<keyword>artificial neural network</keyword>
+<keyword>industrial power system</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;For optimal power system operation, electrical generation must follow electrical load demand. The generation, transmission, and distribution utilities require some means to forecast the electrical load so they can utilize their electrical infrastructure efficiently, securely, and economically. The short-term load forecast (STLF) represents the electric load forecast for a time interval of a few hours to a few days. This thesis will define STLF as a 24-hour-ahead load forecast whose results will provide an hourly electric load forecast in kilowatts (kW) for the future 24 hours (a 24-hour load profile).&lt;/p&gt;
+&lt;p&gt;This thesis will use the method of Artificial Neural Networks (ANN) to create a STLF algorithm for the U.S. Department of Energy’s Oak Ridge National Laboratory (ORNL). ORNL’s power system can be described as an institutional/industrial-type electrical load. The ANN is a mathematical tool that mimics the thought processes of the human brain. The ANN can be created and trained to receive historical load and future weather forecasts as input and produce a load forecast as its output. Most ANNs in the literature are used to forecast the next day 24-hour load profile for a transmission-level system with resulting load forecast errors ranging from approximately 1 % to 3 %. This research will show that an ANN can be used to forecast the smaller, more chaotic load profile of an institutional/industrial-type power system and results in a similar forecast error range. In addition, the operating bounds of the ORNL electric load will be analyzed along with the weather profiles for the site. Correlations between load and weather and load and calendar descriptors, such as day of week and month, will be used as predictor inputs to the ANN to optimize is size and accuracy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2468</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2753&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2468</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2753</articleid>
+<submission-date>2013-04-22T02:43:05-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4051174</context-key>
+<submission-path>utk_gradthes/2468</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Kai Sun</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2014-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

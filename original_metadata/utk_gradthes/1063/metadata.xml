@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Short Distance Ground Wave Propagation  Modeling in Irregular and Forested Environments</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zcrane@utk.edu</email>
+<lname>Crane</lname>
+<fname>Zachary Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Electromagnetic Wave Propagation</keyword>
+<keyword>Ground Wave Propagation</keyword>
+<keyword>Navigation</keyword>
+<keyword>GPS</keyword>
+<keyword>Radio Navigation</keyword>
+</keywords>
+<disciplines><discipline>Electromagnetics and Photonics</discipline>
+<discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;A model for the phase of a ground wave propagating over irregular and forested terrain has been developed and tested for a transmission system operating at 3.315 MHz.&lt;/p&gt;
+&lt;p&gt;In this model, the time delay induced beyond that of the standard velocity of radio waves in air is modeled as a combination of 3 effects: the finite conductivity of the earth, the irregularity of the terrain over which the wave is propagating, and the forestation of the terrain.&lt;/p&gt;
+&lt;p&gt;The finite conductivity model is based on a small curvature formula developed by Van Der Pol and Bremmer. The terrain irregularity model models additional delay as a perturbation of the surface impedance and is a function of the slope angle.&lt;/p&gt;
+&lt;p&gt;The additional delay due to forestation is modeled as a dissipative dielectric slab which introduces a velocity factor. The foliage on the range was quantized into three levels of density: open, thin, and thick. The foliage thickness was determined manually from commercial satellite imagery.&lt;/p&gt;
+&lt;p&gt;The ground based network used to measure propagation times consists of 5 perimeter transmitter sites and 5 receiver sites. Results for 1 of the 5 receiver sites have already been obtained. The results accurately predict the additional delay time introduced. The additional delays predicted over the 5 paths vary widely, ranging from 400 to almost 1000 nanoseconds. The lengths of these paths vary between 2 and 3 miles. The relative permittivity of each grade of forest density along each path was found to be in agreement.&lt;/p&gt;
+&lt;p&gt;The significance of this work revolves around navigating in GPS denied environments, areas of chronic GPS unavailability, such as urban areas, canyons, under dense foliage, or when a GPS signal is being unintentionally or intentionally jammed. In order to provide a path forward to a robust augmentation to GPS, the propagation phenomena associated with ground-based navigation must be understood, and more effectively modeled.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1063</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2184&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1063</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2184</articleid>
+<submission-date>2011-09-28T10:46:16-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2184/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2262676</context-key>
+<submission-path>utk_gradthes/1063</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Paul B. Crilly</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly E. Fathy, Seddik M. Djouadi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

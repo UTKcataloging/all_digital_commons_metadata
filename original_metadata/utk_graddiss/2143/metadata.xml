@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Study of Rheological Properties of Polymeric Liquids by Using Multiple-Mode Models</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jiang</lname>
+<fname>Bangwu</fname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Knowledge of the rheological properties of non-Newtonian fluids is critical for modeling in polymer-processing equipment such as injection molders, extruders, and blow molders. Rheological measurements can be obtained through standard flows, such as shear flow and elongational flow. In our research, we modeled the rheological properties of polymeric fluids in several types of experiments: transient and steady shear flow, small amplitude oscillatory shear flow, transient elongational flow, and step-strain shear flow.&lt;/p&gt;
+&lt;p&gt;The accuracy of modeling calculations depends critically on the performance of the rheological model used. Differential constitutive models with a single relaxation time can be used for exploratory fluid dynamics research and provide insight into the qualitative effects of viscoelasticity in complex flow fields. However, differential models with a single relaxation time give a poor quantitative description of rheological properties, since most non-Newtonian media exhibit not just one, but a whole spectrum of relaxation times; therefore multiple relaxation modes models were used in our research.&lt;/p&gt;
+&lt;p&gt;One of the coupled linear relaxation models, the Two Coupled Maxwell Modes (TCMM) Model, was used to describe quantitatively shear-thickening behavior, which can be observed under certain conditions for high molecular weight polymers dissolved in low viscosity solvents. In this case, the shear viscosity of the polymer solution increases with increasing shear rate. A full parameterization of the TCMM Model to the experimental data from the literature provided a thorough understanding of the significance of the model parameters and a clear insight into the peculiar behavior of shear thickening in dilute polymer solutions.&lt;/p&gt;
+&lt;p&gt;The primary part of the research focused on models with linear springs. A typical, industrial-grade, low-density polyethylene polymer was studied using three types of multi-mode models: i) uncoupled linear relaxation models; ii) coupled linear relaxation models; iii) uncoupled non-linear relaxation models. The data from small amplitude oscillatory shear flow and steady shear flow were fitted to obtain the parameters of the different models using the Nelder and Mead Downhill Simplex method. Then the predictions for the other standard flows mentioned in the first paragraph were compared with experimental data. This allowed us to determine the degree of the performance of the different models with regards to the corresponding system studied. Overall evaluations of model performance were presented in detail.&lt;/p&gt;
+&lt;p&gt;Finally, we tested the effects of spring type on the performance of the models described above. We replaced the linear elastic springs in all of the prior models with nonlinear springs to determine whether this would improve model performance in elongational flow. The Finitely-Extensible Nonlinear Elastic Spring Model was used to describe the nonlinear elastic springs. The result was negative, however: no improvement was obtained over the linear spring models and more parameters were present which required further fitting to experimental data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2143</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3587&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2143</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3587</articleid>
+<submission-date>2013-10-03T10:33:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4663397</context-key>
+<submission-path>utk_graddiss/2143</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian J. Edwards</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Collier, Simioan Petrovan, Bin Hu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

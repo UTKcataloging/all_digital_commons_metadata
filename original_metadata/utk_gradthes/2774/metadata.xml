@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Testing Platform for Secondary-Use Electric Vehicle Batteries as Community Energy Storage Systems</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tollis@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ollis</lname>
+<fname>Thomas</fname>
+<mname>Benjamin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>battery</keyword>
+<keyword>energy storage</keyword>
+<keyword>secondary-use</keyword>
+<keyword>electric vehicle</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Energy storage is quickly transforming from a commodity to a necessity for electric utilities. The peak demand on the electric grid continues to grow, requiring more sources of generation and upgrades to infrastructure. The variability of renewable generation sources, such as wind and solar, has created more uncertainty on the generation side of the electric grid. Energy storage represents one possible solution to mitigate the demand and uncertainty; however, energy storage systems have historically been too expensive to recoup their capital cost. More recently, research into electric vehicle batteries has brought their cost down and improved performance. As they continue to evolve and become more affordable, people are more likely to adopt electric vehicles as their primary mode of transportation. Eventually, the batteries will degrade to about 80 percent of their original capacity; at which time they are no longer viable to be used in a vehicle. Instead of dismantling these batteries, they can be repurposed as secondary-use community energy storage devices and used for grid applications.&lt;/p&gt;
+&lt;p&gt;This thesis examines the use of five Chevrolet Volt battery packs from General Motors repackaged by ABB with an interfacing inverter to perform real world tests on the viability of secondary-use electric vehicle batteries as community energy storage systems. Residential load profile predictions are used in conjunction with a programmable load bank and genetic algorithm optimization to test residential load factor control. A 14 kilowatt photovoltaic array is used to determine how effectively the unit smooths power fluctuations using neural network photovoltaic power predictions. Historical regulation signals from the Pennsylvania-Jersey-Massachusetts (PJM) independent system operator (ISO) are used to demonstrate the performance of the unit while providing regulation services. The control, data routing, and hardware communication of each of these applications is done through a MATLAB graphical user interface built specifically for this project. LabVIEW is used as the data acquisition system.&lt;/p&gt;
+&lt;p&gt;Finally, the performance of the community energy storage unit is analyzed and presented to show the potential and limitations of secondary-use electric vehicle batteries to perform grid applications. Future works regarding life cycle analysis and economic practicality are discussed in the conclusion.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2774</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3992&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2774</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3992</articleid>
+<submission-date>2014-02-28T07:34:23-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3992/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5235859</context-key>
+<submission-path>utk_gradthes/2774</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing (Fran) Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Yilu Liu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

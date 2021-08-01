@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Health Economic Models</title>
+<publication-date>2018-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>laurence.djatche@jefferson.edu</email>
+<institution>Thomas Jefferson University</institution>
+<lname>Djatche</lname>
+<fname>Laurence</fname>
+</author>
+<author>
+<email>stefan.varga@jefferson.edu</email>
+<institution>Thomas Jefferson University</institution>
+<lname>Varga</lname>
+<fname>Stefan</fname>
+</author>
+<author>
+<email>rliebert@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lieberthal</lname>
+<fname>Robert</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>cost-effectiveness analysis</keyword>
+<keyword>aspirin</keyword>
+<keyword>secondary prevention</keyword>
+<keyword>cardiovascular disease</keyword>
+<keyword>adherence</keyword>
+<keyword>health economic modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;These health economic models calculate the impact of aspirin adherence on healthcare costs and quality adjusted life years in patients with a prior cardiovascular event from a payer perspective. The “no diabetes” model is for patients with a history of cardiovascular disease who do not have diabetes as a comorbid condition. The “diabetes” model is for patients with a history of cardiovascular disease who have type II diabetes as a comorbid condition. These .trex files are designed to be loaded and run in TreeAge software Pro Core 2016 health economic modeling software.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_publichealth/4</coverpage-url>
+<label>4</label>
+<document-type>data</document-type>
+<type>article</type>
+<articleid>1003</articleid>
+<submission-date>2018-03-05T06:40:09-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_publichealth/article/1003/type/native/viewcontent</native-url>
+<publication-title>Public Health Publications and Other Works</publication-title>
+<context-key>11698110</context-key>
+<submission-path>utk_publichealth/4</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Data associated with the following article: https://link.springer.com/article/10.1007%2Fs41669-018-0075-2&lt;/p&gt;
+&lt;p&gt;Laurence M. Djatche, Stefan Varga, and Robert D. Lieberthal. &quot;Cost-Effectiveness of Aspirin Adherence for Secondary Prevention of Cardiovascular Events.&quot; PharmacoEconomics 2018&lt;/p&gt;</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>QALYs_NoDiabetes_FINAL.trex</archive-name>
+<upload-name>QALYs_NoDiabetes_FINAL.trex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1003&amp;amp;context=utk_publichealth&amp;amp;type=additional</url>
+<mime-type>application/xml</mime-type>
+</file>
+<file>
+<archive-name>QALYs_ComorbidDiabetes_FINAL.trex</archive-name>
+<upload-name>QALYs_ComorbidDiabetes_FINAL.trex</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=1&amp;amp;article=1003&amp;amp;context=utk_publichealth&amp;amp;type=additional</url>
+<mime-type>application/xml</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Face Centered Image Analysis Using Saliency and Deep Learning Based Techniques</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rguo1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Guo</lname>
+<fname>Rui</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Image Analysis</keyword>
+<keyword>Saliency Detection</keyword>
+<keyword>Facial Landmark Detection</keyword>
+<keyword>Facial Biometrics</keyword>
+<keyword>Deep Learning</keyword>
+</keywords>
+<disciplines><discipline>Computer Engineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Image analysis starts with the purpose of configuring vision machines that can perceive like human to intelligently infer general principles and sense the surrounding situations from imagery. This dissertation studies the face centered image analysis as the core problem in high level computer vision research and addresses the problem by tackling three challenging subjects: Are there anything interesting in the image? If there is, what is/are that/they? If there is a person presenting, who is he/she? What kind of expression he/she is performing? Can we know his/her age? Answering these problems results in the saliency-based object detection, deep learning structured objects categorization and recognition, human facial landmark detection and multitask biometrics.&lt;/p&gt;
+&lt;p&gt;To implement object detection, a three-level saliency detection based on the self-similarity technique (SMAP) is firstly proposed in the work. The first level of SMAP accommodates statistical methods to generate proto-background patches, followed by the second level that implements local contrast computation based on image self-similarity characteristics. At last, the spatial color distribution constraint is considered to realize the saliency detection. The outcome of the algorithm is a full resolution image with highlighted saliency objects and well-defined edges.&lt;/p&gt;
+&lt;p&gt;In object recognition, the Adaptive Deconvolution Network (ADN) is implemented to categorize the objects extracted from saliency detection. To improve the system performance, L1/2 norm regularized ADN has been proposed and tested in different applications. The results demonstrate the efficiency and significance of the new structure.&lt;/p&gt;
+&lt;p&gt;To fully understand the facial biometrics related activity contained in the image, the low rank matrix decomposition is introduced to help locate the landmark points on the face images. The natural extension of this work is beneficial in human facial expression recognition and facial feature parsing research.&lt;/p&gt;
+&lt;p&gt;To facilitate the understanding of the detected facial image, the automatic facial image analysis becomes essential. We present a novel deeply learnt tree-structured face representation to uniformly model the human face with different semantic meanings. We show that the proposed feature yields unified representation in multi-task facial biometrics and the multi-task learning framework is applicable to many other computer vision tasks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3920</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5009&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3920</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5009</articleid>
+<submission-date>2015-10-08T11:13:41-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7694942</context-key>
+<submission-path>utk_graddiss/3920</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jens Gregor, Lynne Parker, Yulong Xing</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

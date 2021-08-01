@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Integrated Visualization of Diffusion Tensor and Functional MRI</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fout</lname>
+<fname>Nathaniel</fname>
+<mname>Richard</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;To understand the morphology, structure, and function of the human brain and the underlying relationships therein has long been a goal of mankind. Technologies are constantly emerging and evolving in an effort to realize this goal, with each new development potentially providing another piece of the puzzle. Among those technologies are advanced imaging modalities such as Diffusion Tensor MRI (DT-MRI) [2] and Functional MRI (fMRI) [8], whose purpose is to provide deeper insight into the neural network connecting functional units of the cerebral cortex. More specifically, DT-MRI captures a description of the fibrous structures (such as nerve fibers) in the brain, whereas fMRI studies the activity of various parts of the cerebral cortex when tasks are performed, thereby identifying the functional regions of the cerebral cortex and their correlation. Without knowledge of the underlying neural connections, however, the relationship between functional regions revealed by fMRI lacks structural support. Therefore, if DT-MRI could be coupled with fMRI, our view of the complex network within the brain could be revolutionized. Based on a comprehensive study of tensor field reconstruction, we have developed new methods for (i) white matter segmentation, (ii) nerve fiber reconstruction directly from tensors, (iii) discovery of globally optimal neuronal pathways, (iv) construction of consistent nerve bundles, and finally (v) integrated visualization of fMRI Regions Of Interest (ROI) with globally optimal neural networks constructed using techniques developed in (i) through (iv).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1941</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3299&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1941</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3299</articleid>
+<submission-date>2013-09-24T09:08:46-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4617872</context-key>
+<submission-path>utk_gradthes/1941</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brad Vander Zanden, Jens Gregor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

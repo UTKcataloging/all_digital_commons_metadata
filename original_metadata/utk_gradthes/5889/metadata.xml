@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Lessons learned from the developmental flight testing of the Terrain Awareness Warning System</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Bresnik</lname>
+<fname>Randolph</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The Ground Proximity W aming System (GPWS) currently fielded on the F/A-18A/B/C/D/E/F and AV-8B aircraft&quot;is a great safety-backup system that alerts the pilot of an impending Controlled Flight Into Terrain (CFIT) condition. However, it does have one major limitation: the reliance on the look-down radar altimeter, which results in little or no CFiT protection in rising terrain. The Terrain Awareness Warning System (TAWS) is the generational evolution of GPWS that provides the predictive, or look-ahead, capability sorely missing &#39;rrom the current system. Utilizing aircraft positioning from the Global Positioning System (GPS) and an onboard Digital Terrain Elevation Data (DTED), TA WS computes recovery trajectories and presents a combination of aural and visual warnings when necessary to cue the pilot to avoid a CFiT condition. TA WS, without being solely reliant on the radar altimeter, has the ability to calculate and present appropriate warnings regardless of aircraft position or attitude. Ultimately, TA WS has to walk a fine line between providing timely warnings that allow the pilot to conduct maximum performance maneuvering during all mission roles, without the impedance of nuisance cues. At the heart of TA WS is a generic algorithm that can be tailored to specific aircraft performance and mission characteristics.                                                                                                                                                                                                                                                                                                                                                                This thesis examines all aspects of the flight test of TA WS: the history of GPWS and TA WS in aviation, the conundrum of how to plan a flight test of a terrain avoidance system in close proximity to the ground without endangering aircrew or aircraft, the use of simulation, additional safety precautions, results, lessons learned for program managers and test pilots, and future applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5889</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7522&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5889</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7522</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467544</context-key>
+<submission-path>utk_gradthes/5889</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>R. Richards</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

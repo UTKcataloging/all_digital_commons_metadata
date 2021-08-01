@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Characteristics Finite Element Algorithm for Computational Open Channel Flow Analysis</title>
+<publication-date>2000-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Chambers</lname>
+<fname>Zachariah</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;For the reliable determination of open channel flows, a minimally dissipative flux jacobian decomposition finite element algorithm is developed for the one- and two-dimensional inviscid open channel flow equation systems. The modifed form of the parent kinetic flux divergence is biased by the characteristic speeds, i.e. eigenvalues of the kinetic flux divergence jacobian, to induce along all wavelike propogation directions a dissipation level proportional to the propogation speeds of the solution to the hyperbolic problem statement.&lt;/p&gt;
+&lt;p&gt;The analysis rigorously investigates the inviscid open channel equation system via non-linear, wave-like solutions and reveals linear dependency issues for the momentum equations in steady state flow for all values of the Froude number, which is subsequently eliminated by the modified equation. The modified equation is developed on the continuum level via decomposition of the kinetic flux divergence into components which physically correspond to convection and celerity propagation. These decomposition components are then combined to satisfy the demanding conditions that the eigenvalues of the resulting matrix within the dissipative flux divergence, hence dissipation level, correlate with the eigenvalues of the hyperbolic problem statement, for algorithm accuracy, while remaining positive and real, for algorithm stability.&lt;/p&gt;
+&lt;p&gt;In both one and two dimensions, for sub- and supercritical flows induced by various dam-break verifications and benchmarks, the algorithm is verified to yield reliable determination of the depth averaged momentum and height fields by generating accurate and essentially non-oscillatory numerical solutions in the presence of hydraulic jumps while remaining second-order accurate in both space and time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4181</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5727&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4181</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5727</articleid>
+<submission-date>2017-02-03T10:50:26-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9624047</context-key>
+<submission-path>utk_graddiss/4181</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Iannelli</value>
+</field>
+<field name="advisor2" type="string">
+<value>A.J. Baker, Jay Frankel, Chris Pionke, Debra Polignone</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2000-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using GPU to Accelerate Linear Computations in Power System Applications</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xli44@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Xue</fname>
+</author>
+</authors>
+<keywords>
+<keyword>power flow</keyword>
+<keyword>cuda</keyword>
+<keyword>gpu</keyword>
+<keyword>linear solving</keyword>
+<keyword>preconditioner</keyword>
+<keyword>iterative solver</keyword>
+</keywords>
+<disciplines><discipline>Computer Engineering</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;With the development of advanced power system controls, the industrial and research community is becoming more interested in simulating larger interconnected power grids. It is always critical to incorporate advanced computing technologies to accelerate these power system computations. Power flow, one of the most fundamental computations in power system analysis, converts the solution of non-linear systems to that of a set of linear systems via the Newton method or one of its variants. An efficient solution to these linear equations is the key to improving the performance of power flow computation, and hence to accelerating other power system applications based on power flow computation, such as optimal power flow, contingency analysis, etc.&lt;/p&gt;
+&lt;p&gt;This dissertation focuses on the exploration of iterative linear solvers and applicable preconditioners, with graphic processing unit (GPU) implementations to achieve performance improvement on the linear computations in power flow computations. An iterative conjugate gradient solver with Chebyshev preconditioner is studied first, and then the preconditioner is extended to a two-step preconditioner. At last, the conjugate gradient solver and the two-step preconditioner are integrated with MATPOWER to solve the practical fast decoupled load flow (FDPF), and an inexact linear solution method is proposed to further save the runtime of FDPF. Performance improvement is reported by applying these methods and GPU-implementation. The final complete GPU-based FDPF with inexact linear solving can achieve nearly 3x performance improvement over the MATPOWER implementation for a test system with 11,624 buses. A supporting study including a quick estimation of the largest eigenvalue of the linear system which is required by the Chebyshev preconditioner is presented as well. This dissertation demonstrates the potential of using GPU with scalable methods in power flow computation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3550</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4908&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3550</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4908</articleid>
+<submission-date>2015-06-17T14:03:56-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7230992</context-key>
+<submission-path>utk_graddiss/3550</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Yilu Liu, Xueping Li, Mallikarjun Shankar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

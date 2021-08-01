@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Framework for Federated Two-Factor Authentication Enabling Cost-Effective Secure Access to Distributed Cyberinfrastructure</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>matt@mattezell.com</email>
+<lname>Ezell</lname>
+<fname>Matthew Allan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Authentication</keyword>
+<keyword>Two-Factor</keyword>
+<keyword>RADIUS</keyword>
+<keyword>OTP</keyword>
+</keywords>
+<disciplines><discipline>Digital Communications and Networking</discipline>
+<discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As cyber attacks become increasingly sophisticated, the security measures used to mitigate the risks must also increase in sophistication. One time password (OTP) systems provide strong authentication because security credentials are not reusable, thus thwarting credential replay attacks. The credential changes regularly, making brute-force attacks significantly more difficult. In high performance computing, end users may require access to resources housed at several different service provider locations. The ability to share a strong token between multiple computing resources reduces cost and complexity.&lt;/p&gt;
+&lt;p&gt;The National Science Foundation (NSF) Extreme Science and Engineering Discovery Environment (XSEDE) provides access to digital resources, including supercomputers, data resources, and software tools. XSEDE will offer centralized strong authentication for services amongst service providers that leverage their own user databases and security profiles. This work implements a scalable framework built on standards to provide federated secure access to distributed cyberinfrastructure.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1151</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2368&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1151</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2368</articleid>
+<submission-date>2012-04-15T18:18:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2765342</context-key>
+<submission-path>utk_gradthes/1151</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jinyuan Sun, Mark R. Fahey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Tor Bridge Distribution Powered by Threshold RSA</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jdeyton@utk.edu</email>
+<lname>Deyton</lname>
+<fname>Jordan Hunter</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Tor</keyword>
+<keyword>Bridge</keyword>
+<keyword>Distribution</keyword>
+<keyword>Threshold</keyword>
+<keyword>RSA</keyword>
+</keywords>
+<disciplines><discipline>Digital Communications and Networking</discipline>
+<discipline>OS and Networks</discipline>
+<discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Since its inception, Tor has offered anonymity for internet users around the world. Tor now offers bridges to help users evade internet censorship, but the primary distribution schemes that provide bridges to users in need have come under attack. This thesis explores how threshold RSA can help strengthen Tor&#39;s infrastructure while also enabling more powerful bridge distribution schemes. We implement a basic threshold RSA signature system for the bridge authority and a reputation-based social network design for bridge distribution. Experimental results are obtained showing the possibility of quick responses to requests from honest users while maintaining both the secrecy and the anonymity of registered clients and bridges.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1607</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2618&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1607</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2618</articleid>
+<submission-date>2013-02-27T08:02:57-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3797581</context-key>
+<submission-path>utk_gradthes/1607</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jinyuan Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>James S. Plank, Bradley T. Vander Zanden</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;To compile this pdf, I used LaTeX and modified the UT thesis LaTeX template provided on the thesis website. Many modifications were necessary.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

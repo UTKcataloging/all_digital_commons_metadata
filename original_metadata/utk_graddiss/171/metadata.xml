@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Statistical and Machine Learning Techniques Applied to Algorithm Selection for Solving Sparse Linear Systems</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fuentes</lname>
+<fname>Erika</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+<discipline>Theory and Algorithms</discipline>
+</disciplines><abstract>&lt;p&gt;There are many applications and problems in science and engineering that require large-scale numerical simulations and computations. The issue of choosing an appropriate method to solve these problems is very common, however it is not a trivial one, principally because this decision is most of the times too hard for humans to make, or certain degree of expertise and knowledge in the particular discipline, or in mathematics, are required. Thus, the development of a methodology that can facilitate or automate this process and helps to understand the problem, would be of great interest and help. The proposal is to utilize various statistically based machine-learning and data mining techniques to analyze and automate the process of choosing an appropriate numerical algorithm for solving a specific set of problems (sparse linear systems) based on their individual properties.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/171</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1218&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>171</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1218</articleid>
+<submission-date>2010-01-29T09:53:04-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1125464</context-key>
+<submission-path>utk_graddiss/171</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>J.D. Birdwell, Victor Eijkhout, Lynne Parker, Tsewei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/FuentesErika.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

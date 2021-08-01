@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modelling Supercomputer Maintenance Interrupts:  Maintenance Policy Recommendations</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcheruku@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cherukuri</lname>
+<fname>Jagadish</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Supercomputer</keyword>
+<keyword>Repairable system</keyword>
+<keyword>Maintenance interrupts</keyword>
+<keyword>GPIM</keyword>
+<keyword>Availability</keyword>
+<keyword>Maintenance</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Other Engineering</discipline>
+<discipline>Risk Analysis</discipline>
+<discipline>Statistical Models</discipline>
+</disciplines><abstract>&lt;p&gt;A supercomputer is a repairable system with large number of compute nodes interconnected to work in harmony to achieve superior computational performance. Reliability of such a complex system depends on an effective maintenance strategy that involves both emergency and preventive maintenance. This thesis analyzes the maintenance records of four supercomputers operational at The National Institute of Computational Science located at Oak Ridge National Laboratory. We propose to use the generalized proportional intensities model (GPIM) to model the maintenance interrupts as it can capture both the reliability parameters and maintenance parameters and allows the inclusion of both emergency and preventive maintenance. We use this model to obtain the reliability parameters indicating the system performance and maintenance parameters indicating the effectiveness of maintenance actions for each of the four supercomputers. System performance measures such as reliability and availability are used to evaluate the effectiveness of the existing maintenance policy and to propose a new maintenance policy that increases the system availability and reduces maintenance cost.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3442</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4145&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3442</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4145</articleid>
+<submission-date>2014-06-20T20:09:37-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4145/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>5711215</context-key>
+<submission-path>utk_gradthes/3442</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaoyan Zhu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ramon V. Leon, Alberto Garcia, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Reliability and Maintainability Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

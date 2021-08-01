@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Computer Vision System for the Automatic Inspection of Geometric Distortions in Television Displays</title>
+<publication-date>2001-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yerem</lname>
+<fname>Geoffrey</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The ability to automatically measure the image quality of a television display is a valuable resource. In display manufacturing, automatic inspection enables automatic television alignment, which reduces manufacturing costs and improves product quality. Automatic inspection also comes in handy during competitive analysis and engineering review. Primarily though, commercial inspection systems are built and used for manufacturing.&lt;/p&gt;
+&lt;p&gt;In the past two decades, the advent of microcomputers has made automatic inspection feasible through the use of computer vision. Most of the approaches developed can be divided into two groups: fixtured systems, with fixed or movable cameras, and &lt;em&gt;&lt;em&gt;position independent systems&lt;/em&gt;&lt;/em&gt;, which can use one or more cameras. A fixtured system involves placing the television-under-test in a rig with attached cameras. The cameras are either fixed or moved robotically. On the other hand, a position independent system allows one or more cameras to be placed anywhere as long as the cameras can view the television’s image.&lt;/p&gt;
+&lt;p&gt;This thesis describes the development of a position-independent, two-camera television inspection system. Chapter One defines the problem and gives an overview of existing systems. Chapter Two covers camera calibration, the mathematical modeling of the way a camera forms an image. Camera calibration makes it possible to use off-the-shelf cameras as measurement sensors. Chapter Three discusses how to take stereo measurements from a pair of cameras. Stereo measurements taken from two or more cameras result in the determination of three-dimensional positions. Finally, Chapter Four mentions some results taken with the developed inspection system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2005</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3365&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2005</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3365</articleid>
+<submission-date>2013-09-27T12:55:12-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4641070</context-key>
+<submission-path>utk_gradthes/2005</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel B. Koch</value>
+</field>
+<field name="advisor2" type="string">
+<value>Phillip W. Smith, Michael J. Roberts</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

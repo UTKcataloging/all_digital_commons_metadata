@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modification of a One-Dimensional Dynamic Compression System Model To Calculate Stage Characteristics Internally</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tibboel</lname>
+<fname>Grady</fname>
+<mname>Alan</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A one-dimensional, dynamic gas turbine engine performance analysis program, based on a modified parallel compressor theory, was enhanced with an added capability to calculate compressor stage characteristics given basic blade correlations, blade and casing geometry, and flow conditions. Total pressure ratio and total temperature ratio across rotors and stators had previously been provided solely by stage characteristics maps created using experimental data or computational means. The user now has the option to have those ratios, or characteristics, calculated via a one-dimensional code during the simulation. Experimental data is still required for calibration of this characteristics prediction code. An existing characteristics prediction code was integrated as a subroutine of the performance analysis program. With flow conditions at the stage inlet and basic stage geometry information provided, the characteristics prediction code calculates the desired ratios and feeds them back to the analysis code. The performance analysis program interacts with the characteristic prediction code whenever rotor or stator performance is required, so it can be run in a steady state or dynamic condition, with or without parallel compressor segments. The performance analysis code, called DYNTECC, operates on a modified parallel compressor theory. The modifications allow it to simulate radial and circumferential mass redistribution, as well as radial work redistribution between the parallel flow segments. These, in turn, make it possible to model the effects of radial and circumferential inlet flow distortion on overall compressor performance. The interface iv with the characteristic prediction code enables separate characteristics to be calculated for each parallel flow segment. The characteristics prediction code calculates the stage pressure and temperature ratios along an averaged streamline, or meanline. Called the Meanline Code (capitalized to specify the particular algorithm used here), this code uses a correlation to provide stage loss and deviation. Since the correlation used is not sufficiently general, add-loss and add-deviation values are tabulated, or mapped, against corrected mass flow. The onedimensional Meanline Code performs its calculations along a streamline specified by the meanline velocity density ratio (MVDR), also tabulated against mass flow in the map. The modeling technique and calibration process were validated using experimental data from NASA Rotor 1B, a single rotor compressor test bed. The new capability to calculate stage characteristics directly makes it possible to perform analyses of an engine without detailed compressor stage performance data. It also takes an important step toward increasing DYNTECC’s capabilities. With further development of this integrated capability, the performance analysis program will have the flexibility to operate at points other than those specified by available characteristics maps.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2345</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3686&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2345</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3686</articleid>
+<submission-date>2013-10-15T09:35:46-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4713250</context-key>
+<submission-path>utk_gradthes/2345</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Roy J. Schulz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Milt W. Davis Jr., Gary Flandro</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

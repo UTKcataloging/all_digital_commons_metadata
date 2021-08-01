@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Genome-Wide Protein Domain Exploration</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rekepalli</lname>
+<fname>Bhanu</fname>
+<mname>Prasad</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Exploiting the exponentially growing genomics and proteomics data requires high quality, automated analysis. Protein domain modeling is a key area of molecular biology as it unravels the mysteries of evolution, protein structures, and protein functions. A plethora of sequences exist in protein databases with incomplete domain knowledge. Hence this research explores automated bioinformatics tools for faster protein domain analysis. Automated tool chains described in this dissertation generate new protein domain models thus enabling more effective genome-wide protein domain analysis. To validate the new tool chains, the &lt;em&gt;Shewanella oneidensis&lt;/em&gt; and &lt;em&gt;Escherichia coli&lt;/em&gt; genomes were processed, resulting in a new peptide domain database, detection of poor domain models, and identification of likely new domains. The automated tool chains will require months or years to model a small genome when executing on a single workstation. Therefore the dissertation investigates approaches with grid computing and parallel processing to significantly accelerate these bioinformatics tool chains.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/273</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1326&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>273</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1326</articleid>
+<submission-date>2010-02-05T08:46:37-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1133336</context-key>
+<submission-path>utk_graddiss/273</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Igor Jouline, Michael Berry, Ethan Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/RekapalliBhanu.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

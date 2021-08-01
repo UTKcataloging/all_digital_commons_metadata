@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Developing Predictive Models for Upper Extremity Post–Stroke Motion Quality Estimation Using Decision Trees and Bagging Forest</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mvieira@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Chaeibakhsh</lname>
+<fname>Sarvenaz</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Machine leaning</keyword>
+<keyword>Post-stroke</keyword>
+<keyword>supervised learning</keyword>
+<keyword>bagging forest</keyword>
+<keyword>decision tree</keyword>
+<keyword>orediction model</keyword>
+</keywords>
+<disciplines><discipline>Biomechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Stroke is one of the leading causes of long–term disability. Approximately twothirds of stroke survivors require long-term rehabilitation, which suggests the importance of understanding the post-stroke recovery process during his activities of daily living. This problem is formulated as quantifying and estimating the poststroke movement quality in real world settings. To address this need, we have developed an approach that quantifies physical activities and can evaluate the performance quality. Wearable accelerometer and gyroscope are used to measure the upper extremity motions and to develop a mathematical framework to objectively relates sensors’ data to clinical performance indices. In this article we employ two machine learning classification methods, Bootstrap Aggregating (Bagging) Forest and Decision Tree (DT), to relate the post-stroke kinematic data to quality of the corresponding motion. We then compare the accuracy of the resulted two prediction models using cross-validation approaches. Our findings indicate that Bagging forest approach is superior to the computationally simpler DTs for unstable data sets including those derived from stroke survivors in this project.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4027</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5235&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4027</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5235</articleid>
+<submission-date>2016-06-17T09:03:17-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5235/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>8745190</context-key>
+<submission-path>utk_gradthes/4027</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Eric Wade</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Hamel, Jindong Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

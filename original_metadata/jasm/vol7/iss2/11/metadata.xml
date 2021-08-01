@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sport Analytics: Using Open Source Logistic Regression Software to Classify Upcoming Play Type in the NFL</title>
+<publication-date>2015-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Baker</lname>
+<fname>Robert</fname>
+<mname>E.</mname>
+</author>
+<author>
+<lname>Kwartler</lname>
+<fname>Ted</fname>
+</author>
+</authors>
+<keywords>
+<keyword>sport analytics</keyword>
+<keyword>sport management</keyword>
+<keyword>data mining</keyword>
+<keyword>NFL</keyword>
+<keyword>regression</keyword>
+</keywords>
+<abstract>&lt;p&gt;The purpose of this study was to utilize data analytics as means to classify National  Football League offensive play types. The open source software R was employed to  create a logistic regression based on data for the Cleveland Browns and Pittsburgh  Steelers from 13 recent seasons. The regression is based on all first, second, and  third downs within regulation play, totaling 26,310 data points. The initial algorithms  classify rush or pass for each offense. Revealed through differing coefficients  of the independent variables, each team shows a slightly different approach  to play selections in response to in-game situations. Identifying the driving factors  to play selection is possible by isolating each attribute within the regression. Further  examination could yield improved precision to control for changes in head  coach, offensive coordinators, player personnel and other factors such as weather  because these may influence play type. Logistic regression shows promise as an  in-game aid to determining opponent behavior. Specifically, Cleveland&#39;s offensive  play selection algorithm was correct for 66.4% of plays versus 66.9% for Pittsburgh.  Use of open source software and logistic regression of NFL play selection  could be beneficial in aiding future game decisions. Further research is recommended  to explore possible improvement of the algorithm accuracy.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/jasm/vol7/iss2/11</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1321&amp;amp;context=jasm&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1321</articleid>
+<submission-date>2020-12-08T09:06:18-08:00</submission-date>
+<publication-title>Journal of Applied Sport Management</publication-title>
+<context-key>20479263</context-key>
+<submission-path>jasm/vol7/iss2/11</submission-path>
+<fields>
+<field name="publication_date" type="date">
+<value>2015-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

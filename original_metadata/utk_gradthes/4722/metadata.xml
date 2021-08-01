@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reducing Wait Time Prediction In Hospital Emergency Room: Lean Analysis Using a Random Forest Model</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>garha@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Arha</lname>
+<fname>Gajanan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wait Time Prediction</keyword>
+<keyword>Emergency Department</keyword>
+<keyword>Health Care Management</keyword>
+<keyword>Regression Models</keyword>
+</keywords>
+<disciplines><discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Most of the patients visiting emergency departments face long waiting times due to overcrowding which is a major concern across the hospital in the United States. Emergency Department (ED) overcrowding is a common phenomenon across hospitals, which leads to issues for the hospital management, such as increased patient s dissatisfaction and an increase in the number of patients choosing to terminate their ED visit without being attended to by a medical healthcare professional. Patients who have to Leave Without Being Seen (LWBS) by doctors often leads to loss of revenue to hospitals encouraging healthcare professionals to analyze ways to improve operational efficiency and reduce the operational expenses of an emergency department. To keep patients informed of the conditions in the emergency room, recently hospitals have started publishing wait times online. Posted wait times help patients to choose the ED which is least overcrowded thus benefiting patients with shortest waiting time and allowing hospitals to allocate and plan resources appropriately. This requires an accurate and efficient method to model the experienced waiting time for patients visiting an emergency medical services unit.&lt;/p&gt;
+&lt;p&gt;In this thesis, the author seeks to estimate the waiting time for low acuity patients within an ED setting; using regularized regression methods such as Lasso, Ridge, Elastic Net, SCAD and MCP; along with tree-based regression (Random Forest). For accurately capturing the dynamic state of emergency rooms, queues of patients at various stage of ED is used as candidate predictor variables along with time patient s arrival time to account for diurnal variation. Best waiting time prediction model is selected based on the analysis of historical data from the hospital. Tree-based regression model predicts wait time of low acuity patients in ED with more accuracy when compared with regularized regression, conventional rolling average, and quantile regression methods. Finally, most influential predictors for predictability of patient wait time are identified for the best performing model.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4722</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5541&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4722</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5541</articleid>
+<submission-date>2016-10-07T00:03:56-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9242440</context-key>
+<submission-path>utk_gradthes/4722</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder S. Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>John E. Kobza, Haileab Hilafu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

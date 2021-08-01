@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-Area Control Schemes to Improve Small Signal Stability in Power Systems</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mmahmoud@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Mahmoudi</lname>
+<fname>Meimanat</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wide-Area Control</keyword>
+<keyword>Small Signal Stability</keyword>
+<keyword>Power systems</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;One of the main concerns for the secure and reliable operation of power systems is the small signal stability problem. In the complex and highly interconnected structure of future power systems, relying solely on operator responses and conventional controls cannot assure reliability. Therefore, there is a need for advanced Wide-Area Control Schemes (WACS) that can automatically respond to degradation of reliability in the system.&lt;/p&gt;
+&lt;p&gt;The main objective of this dissertation is to address two key challenges regarding the design and implementation of wide-area control schemes for damping inter-area oscillations. First is the high communication cost associated with optimal centralized control approaches. As power networks are large-scale systems, both the synthesis and the implementation of centralized controllers suggested by most of the previous studies are often impossible in practice. Second is the difficulty of obtaining accurate system-wide dynamic models for initiating and updating the control design.&lt;/p&gt;
+&lt;p&gt;In this research, we introduced wide-area damping control strategies that not only ensure the small signal stability with the desired performance but also consider communication and model information limitations in the design. A state feedback formulation is proposed that aims to simultaneously optimize a standard Linear Quadratic Regulator (LQR) cost criterion and induce a pre-defined communication structure. We solved the proposed problem with three different objectives to target a specific wide-area damping control design challenge in each setting. First, the communication structure is enforced as a constraint in the optimization and solved for a large idealized power network with information symmetry. Second, to make the method suitable for systems with arbitrary structures and information patterns, we proposed a group-sparse regularization to be added to the optimization cost function. Applications of the method for inducing the desired communication network and finding effective measurement and control signal combinations were also investigated. Third, we paired the proposed optimal control with a real-time model identification approach, to create a wide-area control framework that is capable of dealing with model information limitations and inaccuracies in online implementation. The performances of the proposed wide-area damping control architectures are validated through nonlinear simulations on different test systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4775</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6212&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4775</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6212</articleid>
+<submission-date>2017-07-23T18:58:21-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10464908</context-key>
+<submission-path>utk_graddiss/4775</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Fangxing Li, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

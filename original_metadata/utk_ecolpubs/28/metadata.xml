@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Estimating ancestry and heterozygosity of hybrids using molecular markers</title>
+<publication-date>2012-07-31T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>benfitz@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fitzpatrick</lname>
+<fname>Benjamin</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Ecology and Evolutionary Biology</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Hybridization, genetic mixture of distinct populations, gives rise to myriad recombinant genotypes. Characterizing the genomic composition of hybrids is critical for studies of hybrid zone dynamics, inheritance of traits, and consequences of hybridization for evolution and conservation. Hybrid genomes are often summarized either by an estimate of the proportion of alleles coming from each ancestral population or classification into discrete categories like F1, F2, backcross, or merely “hybrid” vs. “pure”. In most cases, it is not realistic to classify individuals into the restricted set of classes produced in the first two generations of admixture. However, the continuous ancestry index misses an important dimension of the genotype. Joint consideration of ancestry together with interclass heterozygosity (proportion of loci with alleles from both ancestral populations) captures all of the information in the discrete classification without the unrealistic assumption that only two generations of admixture have transpired.  &lt;h4&gt;Methods&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;I describe a maximum likelihood method for joint estimation of ancestry and interclass heterozygosity. I present two worked examples illustrating the value of the approach for describing variation among hybrid populations and evaluating the validity of the assumption underlying discrete classification.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Naively classifying natural hybrids into the standard six line cross categories can be misleading, and false classification can be a serious problem for datasets with few molecular markers. My analysis underscores previous work showing that many (50 or more) ancestry informative markers are needed to avoid erroneous classification.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Although classification of hybrids might often be misleading, valuable inferences can be obtained by focusing directly on distributions of ancestry and heterozygosity. Estimating and visualizing the joint distribution of ancestry and interclass heterozygosity is an effective way to compare the genetic structure of hybrid populations and these estimates can be used in classic quantitative genetic methods for assessing additive, dominant, and epistatic genetic effects on hybrid phenotypes and fitness. The methods are implemented in a freely available package “HIest” for the R statistical software ( &lt;a href=&quot;http://cran.r-project.org/web/packages/HIest/index.html&quot;&gt;http://cran.r-project.org/web/packages/HIest/index.html&lt;/a&gt; &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://cran.r-project.org/web/packages/HIest/index.html&amp;refdoi=10.1186/1471-2148-12-131&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_ecolpubs/28</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1027&amp;amp;context=utk_ecolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>28</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1027</articleid>
+<submission-date>2013-07-12T12:54:33-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Ecology and Evolutionary Biology</publication-title>
+<context-key>4310564</context-key>
+<submission-path>utk_ecolpubs/28</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Evolutionary Biology 2012, 12:131 doi:10.1186/1471-2148-12-131</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-07-31T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

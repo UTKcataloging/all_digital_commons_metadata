@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Reliability of Signal Strength for Localization of High-Density ZigBee Wireless Networks</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rogers</lname>
+<fname>Brandon</fname>
+<mname>Jeremy</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis investigates the reliability of ZigBee signal strength within a high-density wireless network, specifically looking at the Link Quality Indicator (LQI) as provided by the physical layer and accessible at the networking and application layers within the stack protocol. It also investigates methods by which LQI can be used for discovery, identification, and localization of nodes within a ZigBee wireless network. The thesis concentrates on practical approaches specifically as it would pertain to commissioning a high-density network for an application such as lighting control in building automation. There are seven potential algorithms proposed using factors such as minimum distance error, perceived confidence, and triangulation. Experiments, which explore the reliability of signal strength indicators, reveal that the fluctuations of the signal strength indicate that a simple, inexpensive algorithm is insufficient. Simulations, which explore varying conditions such as network layouts, node-count, and node-density, reinforce this notion; however, this thesis also shows that more complicated and expensive methods do show promising results. Using the simplest of methodologies, the experiments and simulations result in 30-35% accuracy. However, with the more complicated methodologies (using techniques such as reiteration, emulation, and cooperation), the results reveal accuracies of 80-90%. This thesis concludes from these results that a simple algorithm and methodology may not be sufficient but that there are approaches that can improve the results. However, the cost of these approaches may be deemed too high for practical use. Further exploration in these methodologies, though, should show promise that more sufficient accuracies without sacrificing too much cost are attainable.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/199</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1231&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>199</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1231</articleid>
+<submission-date>2010-02-10T09:29:14-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1138960</context-key>
+<submission-path>utk_gradthes/199</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Greg Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Elhanany, Paul Crilly</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/RogersBrandon.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cophasal Excitation of Circular Antenna Arrays</title>
+<publication-date>1963-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kuo</lname>
+<fname>Chang-keng</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;[&lt;em&gt;From the Introduction&lt;/em&gt;]&lt;br /&gt;&lt;br /&gt;An antenna array consists of a set of individual radiating elements, each having a current of some amplitude and phase. If the each of the phases is chosen so that there is some direction in space for which the fields from the individual radiators add in phase, the array is said to be cophased, and the excitation is said to be cophasal. This thesis is concerned with some of the characteristics of cophased circular antenna arrays.&lt;/p&gt;
+&lt;p&gt;By far the most common antenna array is the linear array, in which the elements are equally spaced along a straight line. Such arrays have been the subject of exhaustive studies, and their properties are well understood. Such arrays are usually cophased, and techniques are well known by which the amplitudes of the currents can be chosen to give precise control of side-lobe levels. The method of synthesis using Tchebyscheff polynomials assures an optimum pattern. It is also well known that current distributions can be found for linear arrays that result in extremely high gains. Such super-gain arrays are not cophased, and the high gain is accompanied by undesirable side effects; a very precise control of the currents is required to achieve the desired pattern, and the terminal impedances are highly reactive. These drawbacks are so serious in practice that many antenna engineers have come to be highly suspicious of any antenna array which is not cophased, reasoning in a fallacious manner that if some non-cophased arrays have undesired properties, all such arrays are to be avoided.&lt;/p&gt;
+&lt;p&gt;All alternative geometry to the linear array is the circle. Stenzel¹ gave the first analysis of radiators equally spaced on the circumference of a circle. He considered only uniform, cophasal excitation, and his results were restricted to an even number of elements. Knudsen² extended this to any number of elements. The uniform, cophasal circular array does not have very desirable patterns, since the first side lobe is about 8 db below the main beam, regardless of the radius, which is intolerably high.&lt;/p&gt;
+&lt;p&gt;DuHamel³ and Hickman⁴, Neff, and Tillman developed methods for exciting circular arrays which lead to the synthesis of any desired pattern, and in particular, these methods allow the use of the Tchebyscheff polynomial technique. With these methods the excitation is not cophasal. Hickman and Tillman⁵ have shown that the undesirable properties of super-gain arrays do not accompany these designs. It is, however, of considerable interest to determine if amplitude distributions can be found for cophasal excitations which will result in low side lobes, and it is with this problem that this thesis is concerned.&lt;/p&gt;
+&lt;p&gt;The problem of the radiation pattern of the cophased circular array is approached from a different point of attack than used by Stenzel. Stenzel obtained a rather simple closed form, involving a Bessel function; the present approach gives a Fourier series. Examination of the coefficients indicates why the patterns are unsatisfactory, and suggests methods of improving the result. Finally a method using concentric, cophased rings is outlined, that allows the use of the Tchebyscheff polynomial method.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3078</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4428&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3078</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4428</articleid>
+<submission-date>2015-01-08T10:45:54-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6512271</context-key>
+<submission-path>utk_gradthes/3078</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J.D. Tillman</value>
+</field>
+<field name="advisor2" type="string">
+<value>ARRAY(0x7f6ffec8ca48)</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1963-08-13T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1963-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

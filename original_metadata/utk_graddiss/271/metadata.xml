@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of a Cost-Efficient Reconfigurable Pipeline ADC</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Qu</lname>
+<fname>Wenchao</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Power budget is very critical in the design of battery-powered implantable biomedical instruments. High speed, high resolution and low power usually cannot be achieved at the same time. Therefore, a tradeoff must be made to compromise every aspect of those features. As the main component of the bioinstrument, high conversion rate, high resolution ADC consumes most of the power. Fortunately, based on the operation modes of the bioinstrument, a reconfigurable ADC can be used to solve this problem. The reconfigurable ADC will operate at 10-bit 40 MSPS for the diagnosis mode and at 8-bit 2.5 MSPS for the monitor mode. The ADC will be completely turned off if no active signal comes from sensors or if an off command is received from the antenna.&lt;/p&gt;
+&lt;p&gt;By turning off the sample hold stage and the first two stages of the pipeline ADC, a significant power saving is achieved. However, the reconfigurable ADC suffers from two drawbacks. First, the leakage signals through the extra off-state switches in the third stage degrade the performance of the data converter. This situation tends to be even worse for high speed and high-resolution applications. An interference elimination technique has been proposed in this work to solve this problem. Simulation results show a significant attenuation of the spurious tones. Moreover, the transistors in the OTA tend to operate in weak inversion region due to the scaling of the bias current. The transistor in subthreshold is very slow due to the small transit frequency. In order to get a better tradeoff between the transconductance efficiency and the transit frequency, reconfigurable OTAs and scalable bias technique are devised to adjust the operating point from weak inversion to moderate inversion.&lt;/p&gt;
+&lt;p&gt;The figure of merit of the reconfigurable ADC is comparable to the previously published conventional pipeline ADCs. For the 10-bit, 40 MSPS mode, the ADC attains a 56.9 dB &lt;em&gt;SNDR&lt;/em&gt; for 35.4 mW power consumption. For the 8-bit 2.5 MSPS mode, the ADC attains a 49.2 dB &lt;em&gt;SNDR&lt;/em&gt; for 7.9 mW power consumption. The area for the core layout is 1.9 mm2 for a 0.35 micrometer process.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/271</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1324&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>271</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1324</articleid>
+<submission-date>2010-02-05T08:30:18-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1133282</context-key>
+<submission-path>utk_graddiss/271</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin Blalock, Ethan Farquhar, Mohamed Mahfouz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/QuWenchao.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

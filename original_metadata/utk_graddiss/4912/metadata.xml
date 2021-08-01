@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding Micro-Level Lane Change and Lane Keeping Driving Decisions: Harnessing Big Data Streams from Instrumented Vehicles</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mzhang27@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Meng</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;It is important to get a deeper understanding of instantaneous driving behaviors, especially aggressive and extreme driving behaviors such as hard acceleration, as they endanger traffic efficiency and safety by creating unstable flows and dangerous situations. The aim of the dissertation is to understand micro-level instantaneous driving decisions related to lateral movements such as lane change or lane keeping events on various roadway types. The impacts of these movements are fundamental to microscopic traffic flow and safety. Sufficient geo-referenced data collected from connected vehicles enables analysis of these driving decisions. The “Big Data” cover vehicle trajectories, reported at 10 Hz frequency, and driving situations, which make it possible to establish a framework.The dissertation conducts several key analyses by applying advanced statistical modeling and data mining techniques. First, the dissertation proposes an innovative methodology for identifying normal and extreme lane change events by analyzing the lane-based vehicle positions, e.g., sharp changes in distance of vehicle centerline relative to the lane boundaries, and vehicle motions captured by the distributions of instantaneous lateral acceleration and speed. Second, since surrounding driving behavior influences instantaneous lane keeping behaviors, the dissertation investigates correlations between different driving situations and lateral shifting volatility, which quantifies the variability in instantaneous lateral displacements. Third, the dissertation analyzes the “Gossip effect” which captures the peer influence of surrounding vehicles on the instantaneous driving decisions of subject vehicles at micro-level. Lastly, the dissertation explores correlations between lane change crash propensity or injury severity and driving volatility, which quantifies the fluctuation variability in instantaneous driving decisions.The research findings contribute to the ongoing theoretical and policy debates regarding the effects of instantaneous driving movements. The main contributions of this dissertation are: 1) Quantification of instantaneous driving decisions with regard to two aspects: vehicle motions (e.g., lateral and longitudinal acceleration, and vehicle speed) and lateral displacement; 2) Extraction of critical information embedded in large-scale trajectory data; and 3) An understanding of the correlations between lane change outcomes and instantaneous lateral driving decisions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4912</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6453&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4912</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6453</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415008</context-key>
+<submission-path>utk_graddiss/4912</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Asad J. Khattak</value>
+</field>
+<field name="advisor2" type="string">
+<value>Candace E. Brakewood, Subhadeep Chakraborty, Wenjun Zhou</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2019-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

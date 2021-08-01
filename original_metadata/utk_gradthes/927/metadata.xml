@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using Volunteer Tracking Information for Activity-Based Travel Demand Modeling and Finding Dynamic Interaction-Based Joint-Activity Opportunities</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yxu22@utk.edu</email>
+<institution>the University of Tennessee, Knoxville</institution>
+<lname>Xu</lname>
+<fname>Yitu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>tracking</keyword>
+<keyword>activity-based</keyword>
+<keyword>travel demand</keyword>
+<keyword>location-based service</keyword>
+<keyword>time geography</keyword>
+<keyword>space-time GIS</keyword>
+</keywords>
+<disciplines><discipline>Geographic Information Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Technology used for real-time locating is being used to identify and track the movements of individuals in real time.  With the increased use of mobile technology by individuals, we are now able to explore more potential interactions between people and their living environment using real-time tracking and communication technologies.&lt;/p&gt;
+&lt;p&gt;One of the potentials that has hardly been taken advantage of is to use cell phone tracking information for activity-based transportation study.  Using GPS-embedded smart phones, it is convenient to continuously record our trajectories in a day with little information loss.  As smart phones get cheaper and hence attract more users, the potential information source for self-tracking data is pervasive.  This study provides a cell phone plus web method that collects volunteer cell phone tracking data and uses an algorithm to identify the allocation of activities and traveling in space and time.  It also provides a step that incorporates user-participated prompted recall attribute identification (travel modes and activity types) which supplements the data preparation for activity-based travel demand modeling.&lt;/p&gt;
+&lt;p&gt;Besides volunteered geospatial information collection, cell phone users’ real-time locations are often collected by service providers such as Apple, AT&amp;T and many other third-party companies.  This location data has been used in turn to boost new location-based services.  However, few applications have been seen to address dynamic human interactions and spatio-temporal constraints of activities.  This study sets up a framework for a new kind of location-based service that finds joint-activity opportunities for multiple individuals, and demonstrates its feasibility using a spatio-temporal GIS approach.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/927</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2033&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>927</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2033</articleid>
+<submission-date>2011-04-21T11:23:27-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2033/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>1950407</context-key>
+<submission-path>utk_gradthes/927</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce A. Ralston, Liem Tran</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

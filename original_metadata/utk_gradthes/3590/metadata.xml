@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling Route Choice of Utilitarian Bikeshare Users from GPS Data</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rkhatri@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Khatri</lname>
+<fname>Ranjit</fname>
+</author>
+</authors>
+<keywords>
+<keyword>GPS</keyword>
+<keyword>ROUTE CHOICE</keyword>
+<keyword>BIKESHARE</keyword>
+<keyword>CYCLISTS&#39; BEHAVIOR</keyword>
+<keyword>Grid BIKESHARE</keyword>
+</keywords>
+<disciplines><discipline>Transportation Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This research examines the behavior of bikeshare users from Grid Bikeshare Program in Phoenix, Arizona under two behavioral frameworks: facility usage assessment and route choice assessment. The analysis is performed for the two different categories of subscribers: registered and casual subscribers. This is the first study that uses the real-time GPS data from bikeshare users to model their route preferences. The data used for this study were obtained from 9,101 trips made by 1,866 bikeshare. An important aspect of this bikeshare is that it allows non-station origin and destinations. The GPS points collected from the trips made by bikeshare users were matched to the street base network to determine the attributes of the route followed by the cyclists. Facility usage assessment included the determinations of use of roadway segments based on Annual Average Daily Traffic, posted speed limit, and roadway classification. Similarly, wrong direction riding behavior on the road was compared for one-way versus two-way roads and road segments with bicycle facilities versus without bicycle-facilities. Route choice decisions were modeled using the Path Size Logit model, which is based on a Multinomial Logit framework. The major findings include behavioral differences between the two groups of users such as average distance travelled, time of the day and day of the week variation and composition of the total users. Registered users, although fewer in number, made significant number of trips. Casual users were involved more in wrong direction riding in forty selected road segments from Downtown of Phoenix. The results from the discrete route choice model show that riders were very sensitive to travel distance, with positive utility towards using bike-friendly infrastructure. Having bike-specific infrastructures for the complete route is equivalent to decreasing distance by 44.9% (53.3% for casual users). Left turns imposed higher disutility for casual users as compared to right turns. A number of signalized intersections had a positive effect in selecting the route whereas the proportion of one-way segments, traffic volume and length of the route had a negative influence on route choice.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3590</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4837&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3590</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4837</articleid>
+<submission-date>2015-06-19T09:56:30-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>7239108</context-key>
+<submission-path>utk_gradthes/3590</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Christopher R. Cherry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Shashi S. Nambisan, Lee D. Han</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

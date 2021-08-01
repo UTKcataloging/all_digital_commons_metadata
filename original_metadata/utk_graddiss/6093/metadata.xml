@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Neuromechanical Sets for Locomotion</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>asundar4@vols.utk.edu</email>
+<institution>University Of Tennessee Knoxville</institution>
+<lname>Sundararajan</lname>
+<fname>Aravind</fname>
+</author>
+</authors>
+<keywords>
+<keyword>feasible</keyword>
+<keyword>muscle</keyword>
+<keyword>activation</keyword>
+<keyword>probability</keyword>
+<keyword>dynamics</keyword>
+</keywords>
+<disciplines><discipline>Applied Mechanics</discipline>
+<discipline>Biomechanical Engineering</discipline>
+<discipline>Dynamical Systems</discipline>
+<discipline>Engineering Physics</discipline>
+<discipline>Geometry and Topology</discipline>
+<discipline>Probability</discipline>
+</disciplines><abstract>&lt;p&gt;Most biological systems employ multiple redundant actuators, which is a complicated problem of controls and analysis. Unless assumptions about how the brain and body work together, and assumptions about how the body prioritizes tasks are applied, it is not possible to find the actuator controls. The purpose of this research is to develop computational tools for the analysis of arbitrary musculoskeletal models that employ redundant actuators. Instead of relying primarily on optimization frameworks and numerical methods or task prioritization schemes used typically in biomechanics to find a singular solution for actuator controls, tools for feasible sets analysis are instead developed to find the bounds of possible actuator controls. Previously in the literature, feasible sets analysis has been used in order analyze models assuming static poses. Here, tools that explore the feasible sets of actuator controls over the course of a dynamic task are developed. The cost-function agnostic methods of analysis developed in this work run parallel and in concert with other methods of analysis such as principle components analysis, muscle synergies theory and task prioritization. Researchers and healthcare professionals can gain greater insights into decision making during behavioral tasks by layering these other tools on top of feasible sets analysis.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6093</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7095&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6093</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7095</articleid>
+<submission-date>2020-07-16T07:45:46-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18543631</context-key>
+<submission-path>utk_graddiss/6093</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeffrey A. Reinbolt</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel C. Rucker, Eric Espinoza-Wade, Cyril J. Donnelly</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

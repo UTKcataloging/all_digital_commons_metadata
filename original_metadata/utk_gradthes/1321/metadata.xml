@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Two Studies on Controlling the Outflow from Sediment Basins:  1) Developing Discharge Coefficients for  Circular Orifices in Round Riser Pipes, and  2) Optimizing the Solid State Skimmer</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>amclemo1@utk.edu</email>
+<lname>McLemore</lname>
+<fname>Alex James</fname>
+</author>
+</authors>
+<keywords>
+<keyword>stormwater</keyword>
+<keyword>sediment basin</keyword>
+<keyword>orifice</keyword>
+<keyword>skimmer</keyword>
+<keyword>sediment retention</keyword>
+<keyword>overflow method</keyword>
+</keywords>
+<disciplines><discipline>Hydraulic Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Sediment pollution is a major contributor to stream and river impairment. Often, the source of sediment pollution is from a construction site’s runoff stormwater. A sediment retention basin, especially one with skimming outlet, can help minimize the sediment pollution from constructions sites. A sediment retention basin and outlet are specifically designed for each site to retain as much sediment as possible while satisfying other requirements such as peak flow rates and retention times. Because the modern designs needs have increased requirements, there is an increased need to be as accurate as possible when modeling the hydraulics and the sediment trapping efficiency. This research focuses on two components related to the performance of sediment retention basins; 1) flow through a circular orifice cut into the side of a round riser pipes and 2) an optimization process to increase the efficiency of a sediment retention basin when using a Solid State Skimmer. It was determined that the true area of a circular orifice cut into a round riser pipe is greater than the normally assumed area, area of the bit that cut the orifice, and that flow rate varied because of the unique shape formed by the cut. Three area equations are presented to model the orifice area, and an empirical coefficient of discharge equation was developed to increase orifice equation accuracy. The coefficient of discharge decreased as the orifice diameter approached the size of the riser diameter, but slightly increases as head neared the orifice. In order to quantify the efficiency of a sediment basin with a skimming outlet, the commonly applied overflow method was modified to account for the elevation and quantity of discharging polluted stormwater from the basin. The modified overflow method was implemented as the objective function in a MATLAB program that automatically determines the parameters of the Solid State Skimmer for increased sediment trapping efficiency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1321</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2393&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1321</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2393</articleid>
+<submission-date>2012-05-14T08:35:05-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2393/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2847514</context-key>
+<submission-path>utk_gradthes/1321</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John S. Tyner</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel C. Yoder, John R. Buchanan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

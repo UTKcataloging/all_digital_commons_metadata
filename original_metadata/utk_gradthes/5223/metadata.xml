@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Combination of PCA and DWT features from hyperspectral images for skin tumor detection</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Fletcher</lname>
+<fname>John</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In this paper, the detection of skin tumors using hyperspectral fluorescence images of poultry carcasses is investigated. Skin tumors are not always visually obvious. The visual region of the spectrum may be too limited to meet all the requirements so that the tumors may be accurately classified so the multiple bands from hyperspectral imaging may be of some use. Each of the hyperspectral fluorescence images will consist of 65 spectral bands ranging from 425 nm to 711 nm. Multiple detection schemes will utilized to provide adequate classification rates. Principal component analysis PCA) and discrete wavelet transforms (DWT) are utilized to transform the data from the spectral space to a feature space. A small number of features are selected to provide dimensionality reduction without a significant loss of information. A support vector machine (SVM) classifier is used to determine if a pixel falls in a normal skin or tumorous skin categories. To provide additional classifier accuracy, an algorithm based on the average intensity of the pixel signal, is used to combine the two classifiers. The accuracy of the three classifiers was tested using 11 hyperspectral fluorescence images with a combined total of 38 tumors. The PCA-SVM classifier provided a tumor detection rate of 86.8% with 17 false positives and 5 missed tumors. The DWT-SVM classifier provided a tumor detection rate of only 42.1 % with 18 false positives and 12 missed tumors. The classifier that selected the best method showed that the PCA/DWT-SVM classifier provided a classification rate of 94. 7% with 6 false positives and only one missed tumor.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5223</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6631&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5223</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6631</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847069</context-key>
+<submission-path>utk_gradthes/5223</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seong Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

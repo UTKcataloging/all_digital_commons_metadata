@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Novel software package for cross-platform transcriptome analysis (CPTRA)</title>
+<publication-date>2009-10-08T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Texas A &amp; M University - College Station</institution>
+<lname>Zhou</lname>
+<fname>Xin</fname>
+</author>
+<author>
+<institution>China Agricultural University</institution>
+<lname>Su</lname>
+<fname>Zhen</fname>
+</author>
+<author>
+<institution>Monsanto Co.</institution>
+<lname>Sammons</lname>
+<fname>Douglas</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>ypeng9@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Peng</lname>
+<fname>Yanhui</fname>
+</author>
+<author>
+<institution>University of Illinois at Urbana-Champaign</institution>
+<lname>Tranel</lname>
+<fname>Patrick</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>nealstewart@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Stewart</lname>
+<fname>Neal</fname>
+<mname>C.</mname>
+</author>
+<author>
+<institution>Texas A &amp; M University - College Station</institution>
+<lname>Yuan</lname>
+<fname>Joshua</fname>
+<mname>S.</mname>
+</author>
+</authors>
+<disciplines><discipline>Plant Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Abstract&lt;/h3&gt; &lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Next-generation sequencing techniques enable several novel transcriptome profiling approaches. Recent studies indicated that digital gene expression profiling based on short sequence tags has superior performance as compared to other transcriptome analysis platforms including microarrays. However, the transcriptomic analysis with tag-based methods often depends on available genome sequence. The use of tag-based methods in species without genome sequence should be complemented by other methods such as cDNA library sequencing. The combination of different next generation sequencing techniques like 454 pyrosequencing and Illumina Genome Analyzer (Solexa) will enable high-throughput and accurate global gene expression profiling in species with limited genome information. The combination of transcriptome data acquisition methods requires cross-platform transcriptome data analysis platforms, including a new software package for data processing.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Here we presented a software package, CPTRA: &lt;strong&gt;C&lt;/strong&gt;ross-&lt;strong&gt;P&lt;/strong&gt;latform &lt;strong&gt;TR&lt;/strong&gt;anscriptome &lt;strong&gt;A&lt;/strong&gt;nalysis, to analyze transcriptome profiling data from separate methods. The software package is available at &lt;a href=&quot;http://people.tamu.edu/%7Esyuan/cptra/cptra.html&quot;&gt;http://people.tamu.edu/~syuan/cptra/cptra.html&lt;/a&gt; &lt;a href=&quot;http://www.webcitation.org/query.php?url=http://people.tamu.edu/%7Esyuan/cptra/cptra.html&amp;refdoi=10.1186/1471-2105-10-s11-s16&quot; title=&quot;Archive copy of webpage&quot;&gt;webcite&lt;/a&gt;. It was applied to the case study of non-target site glyphosate resistance in horseweed; and the data was mined to discover resistance target gene(s). For the software, the input data included a long-read sequence dataset with proper annotation, and a short-read sequence tag dataset for the quantification of transcripts. By combining the two datasets, the software carries out the unique sequence tag identification, tag counting for transcript quantification, and cross-platform sequence matching functions, whereby the short sequence tags can be annotated with a function, level of expression, and Gene Ontology (GO) classification. Multiple sequence search algorithms were implemented and compared. The analysis highlighted the importance of transport genes in glyphosate resistance and identified several candidate genes for down-stream analysis.  &lt;h4&gt;Conclusion&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;CPTRA is a powerful software package for next generation sequencing-based transcriptome profiling in species with limited genome information. According to our case study, the strategy can greatly broaden the application of the next generation sequencing for transcriptome analysis in species without reference genome sequence.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_planpubs/63</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1061&amp;amp;context=utk_planpubs&amp;amp;unstamped=1</fulltext-url>
+<label>63</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1061</articleid>
+<submission-date>2013-07-15T10:01:14-07:00</submission-date>
+<publication-title>Plant Sciences Publications and Other Works</publication-title>
+<context-key>4312888</context-key>
+<submission-path>utk_planpubs/63</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2009, 10 (Suppl 11): S16 doi:10.1186/1471-2105-10-S11-S16</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-10-08T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

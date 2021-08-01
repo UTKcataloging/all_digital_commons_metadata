@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Textual Influence Modeling Through Non-Negative Tensor Decomposition</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rlowe8@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Lowe</lname>
+<fname>Robert</fname>
+<mname>Earl</mname>
+</author>
+</authors>
+<keywords>
+<keyword>tensors</keyword>
+<keyword>text mining</keyword>
+<keyword>decomposition</keyword>
+<keyword>non-negative decomposition</keyword>
+<keyword>PARAFAC</keyword>
+<keyword>CANDECOMP</keyword>
+</keywords>
+<abstract>&lt;p&gt;No document is created in a vacuum. In all literature, there exists some influencing factor either in the form of cited documents, collaboration, or documents which authors have read. This influence can be seen within their works, and is present as a latent variable. This dissertation introduces a novel method for quantifying these influences and representing them in a semantically understandable fashion. The model is constructed by representing documents as tensors, decomposing them into a set of factors, and then searching the corpus factors for similarity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5007</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6548&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5007</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6548</articleid>
+<submission-date>2018-12-03T14:08:07-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415382</context-key>
+<submission-path>utk_graddiss/5007</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy D. Day, Audris Mockus, Bradley T. Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

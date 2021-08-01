@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design of an adaptive cable equalizer using 0.5 [mu]m [i.e. micrometer] CMOS process</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Ahad</lname>
+<fname>Mohammad</fname>
+<mname>Abdul</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Data transmitted over a long length of cable at high rates must be equalized in order to compensate for the loss and phase dispersion of the cable. The more the cable length, the more the loss is in it. As the data transfer rate is increasing, more bandwidth is needed and the data communication industries are demanding an equalizer system with more bandwidth. A pole-zero model for the coax cable- equalizer is developed which shows that the poles and zeros of the cable transfer function decrease linearly with the increase of the cable length. Thus an adaptive equalizer system has been designed where the length of the cable will be estimated through the peak detector circuitry and the equalizer filter will be tuned automatically according to the estimated cable length using this linearity. All the circuits of the system have been designed using AMI 0.5µm CMOS technology and simulated on Cadence&#39;s Spectre tools.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5879</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7512&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5879</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7512</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467533</context-key>
+<submission-path>utk_gradthes/5879</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Marshall O. Pace, M. Mostofa Hawlader</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

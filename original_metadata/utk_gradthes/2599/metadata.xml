@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Molecular Dynamics Simulations of Cascade Evolution near Pre-Existing Defects</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ncapps@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Capps</lname>
+<fname>Nathan</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Radiation damage causes significant changes to material microstructure and properties as a result of the processes of atomic defect creation followed by the inherently multiscale defect diffusion and reaction processes. In particular, the overlap of displacement cascades is believed important in the development of visible defect clusters in thin film, in-situ ion irradiation studies. In this work, we use molecular dynamics simulations to investigate how impurities and damage induced by displacement cascades impact damage creation as well as the mobility of a pre-existing interstitial-type dislocation loop in BCC iron. It is well known that impurities, such as oxygen, carbon, and nitrogen impact the mobility of interstitial dislocation loops, and are likely responsible for the difference in loop diffusivities between computer simulations and experimental observations by transmission electron microscopy. We have used molecular dynamics simulations to evaluate whether a displacement cascade could de-trap an interstitial cluster from interstitial impurity atoms. By varying the energy and directional velocity of the primary knock on atom (PKA), we observe how the trapped defect reacts with the cascade damage. Our simulation results reveal that cascades with PKA energy greater than 10 keV can cause the loop to de-trap from impurities, but the loop often rapidly becomes trapped in the cascade debris. Furthermore, on several occasions, the cascade induces a change in orientation, or Burgers vector, in addition to modifying the size of the dislocation loop. The thesis summarizes the molecular dynamics simulation results as a function of PKA energy, distance from the trapped loop and direction, as well as the effect of loop size, in terms of the probability for de-trapping and subsequent diffusion. Furthermore, molecular dynamics simulations results will be presented that quantify on the impact of pre-existing vacancies on defect production as a function of PKA energy and concentration. These simulation results provide a basis to inform cluster dynamics models of dislocation loop evolution in irradiated ferritic/martensitic alloys.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2599</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3840&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2599</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3840</articleid>
+<submission-date>2013-11-08T07:25:24-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/3840/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4805070</context-key>
+<submission-path>utk_gradthes/2599</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian D. Wirth</value>
+</field>
+<field name="advisor2" type="string">
+<value>Maik K. Lang, Lawrence H. Heilbronn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

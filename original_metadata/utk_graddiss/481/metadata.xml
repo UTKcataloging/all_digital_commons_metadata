@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bandwidth on Demand for Laser Communications Satellites</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Melin</lname>
+<fname>Alexander</fname>
+<mname>M</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Narrow beamwidth satellites such as laser communication or imaging satellites present a unique problem in control and scheduling. The narrow beamwidth limits the sources of information avail- able to the satellite. This is especially true for laser communication satellites who can only point the laser at one user at a time. For the most part, this restricts the use of laser communications satellites to fixed connections or dedicated temporary connections. However, some classes of users can benefit from the speed and security of the lasercom connection. For example, a Globalhawk unmanned aerial vehicle with time sensitive battlefield imaging would be in this class. For this class of users a lasercom bandwidth-on-demand system would allow for high speed, secure, timely data transfer capability. The consequence of this narrow beamwidth is that the switching time for the system can no longer be ignored. In this dissertation, we will formulate the bandwidth-on- demand lasercom problem mathematically and determine several objective functions for improving the performance and quality of service. Next, we will derive equations that describe the limiting behavior of this system from a queueing standpoint. Next, we will also analyze the performance of the proposed objective functions, and look at real time solution methods and their performance. Next, we present a new algorithm for solving the traveling salesman problem that is easily applied to the systems such a bandwidth-on-demand lasercom, whose behavior cost cannot be described by a cost matrix that characterizes a standard traveling salesman problem. Finally, we present a system for emulating global coverage with a constellation of narrow beamwidth satellites such as imaging or laser communications satellite.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/481</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1545&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>481</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1545</articleid>
+<submission-date>2010-02-19T10:28:00-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1155914</context-key>
+<submission-path>utk_graddiss/481</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Vijay Sekhar Chellaboina</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik Djouadi, William Hamel, Dongjun Lee</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/August2008Dissertations/MelinAlexanderM.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

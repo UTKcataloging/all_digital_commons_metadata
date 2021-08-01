@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>\A Ro- bust Node Selection Strategy for Lifetime Extension in Wireless Sensor Networks</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Oyeyele</lname>
+<fname>Olawoye</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Distributed Wireless Sensor Networks (WSNs) consist of energy-constrained sensor nodes that may be deployed in large numbers in order to monitor a given area, track military targets, detect civilian targets or for other purposes. In such densely deployed environments, multiple transmissions can lead to collisions resulting in packet losses and network congestion. This can increase latency and reduce energy efficiency. These networks also feature significant redundancy since nodes close to each other often sense similar data. Therefore, it may be adequate to employ only a subset of the deployed nodes at any given time in the network. In this thesis, node subsets are selected in a manner that coverage and connectivity are consistently achieved. The working subsets are changed after predetermined durations. A framework using concepts from spatial statistics is developed as an approach to selecting the subset of sensor nodes. Proximal nodes negotiate with each other using energy information, to decide which nodes stay working while others go to sleep mode. The algorithm is executed autonomously by the network. The approach presented ensures that the selected subsets while not necessarily exclusive of previous selections covers the region of interest. Simulation results show that the algorithm is robust and retains some level of redundancy. The algorithm shows significant improvement in energy consumption compared with a network with no selection. The selected subset is shown to be able to withstand significant levels of fault in the network. Conclusions regarding the flexibility and application scenarios of the algorithm are drawn and opportunities for future work indicated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2313</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3737&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2313</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3737</articleid>
+<submission-date>2013-10-16T13:15:41-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4729391</context-key>
+<submission-path>utk_gradthes/2313</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel B. Koch, Mongi A. Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

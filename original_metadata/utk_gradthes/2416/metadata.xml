@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Novel Applications for Phasor Measurement Units and Synchrophasor Data</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bgreen20@utk.edu</email>
+<lname>Greene</lname>
+<fname>Bradley</fname>
+<mname>Kerwin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>synchrophasor</keyword>
+<keyword>phasor measurement unit</keyword>
+<keyword>instrument transformer</keyword>
+<keyword>audio authentication</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;The last decade has seen an intensified effort towards an improved, technologically advanced electric grid. This effort is largely in part to the need for cleaner and renewable sources of energy. Another motivator for this “smarter grid” is the need for a more reliable and efficiently operated of the wide scale electric infrastructure. The impact of these changes can expect to be seen at both the transmission and distribution level. At the transmission level phasor measurement units and synchrophasor data has emerged as one of the most enabling technologies for the smart grid movement. These devices measure and time synchronize, the magnitude and phase angle of the electrical quantities over wide areas of an electric grid. These measurements are then made available to utilities and system operators to facilitate new and improved applications that foster enhanced grid reliability, security and efficiency.&lt;/p&gt;
+&lt;p&gt;Synchrophasor data provides increased visibility into the phenomenon occurring within the electric grid, as measurements are taken at rates up to 60 Hz. This is a stark improvement compared to traditional supervisory control and data acquisition systems which operate at a rate of once every 2 to 5 seconds. This increased data rate therefore has the potential to feed applications that would not have traditionally been seen with SCADA, and improve the operation of those that are already functional. These applications can vary from real-time operation to off-line applications for post-event analysis and planning. Some of the more well known of these appplications are state estimation, inter-area oscillation, and wide area monitoring and control.&lt;/p&gt;
+&lt;p&gt;There are however, some novel applications of synchrophasor data less publicized and deployed within the industry. One such application developed by the Power IT lab at the University of Tennessee involves using synchrophasor data to authenticate digital audio recordings. Another application developed by Dominion Virginia Power involves the automatic calibration of instrument transformers across a system using this synchrophasor data. This thesis outlines these novel applications and the work I performed to facilitate their implementations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2416</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2871&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2416</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2871</articleid>
+<submission-date>2013-06-20T16:21:37-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2871/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>4248691</context-key>
+<submission-path>utk_gradthes/2416</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Kai Sun</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Visual Approach to Automated Text Mining and Knowledge Discovery</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>apuretsk@gmail.com</email>
+<lname>Puretskiy</lname>
+<fname>Andrey</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Databases and Information Systems</discipline>
+<discipline>Other Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;The focus of this dissertation has been on improving the non-negative tensor factorization technique of text mining. The improvements have been made in both pre-processing and post-processing stages, with the goal of making the non-negative tensor factorization algorithm accessible to the casual user. The improved implementation allows the user to construct and modify the contents of the tensor, experiment with relative term weights and trust measures, and experiment with the total number of algorithm output features. Non-negative tensor factorization output feature production is closely integrated with a visual post-processing tool, FutureLens, that allows the user to perform in depth analysis and has a great potential for discovery of interesting and novel patterns within a large collection of textual data. This dissertation necessitated a number of significant modifications and additions to FutureLens in order to facilitate its integration into the analysis environment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/907</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1983&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>907</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1983</articleid>
+<submission-date>2010-10-17T08:45:51-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1983/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1607457</context-key>
+<submission-path>utk_graddiss/907</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Bradley Vander Zanden, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

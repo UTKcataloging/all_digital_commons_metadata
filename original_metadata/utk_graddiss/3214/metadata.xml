@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Application of Positive Feedback Techniques to Charge-Sensitive Preamplifiers</title>
+<publication-date>1970-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Albritton</lname>
+<fname>Willaim</fname>
+<mname>Pinkston</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The application of positive feedback techniques to charge-sensitive preamplifiers for the purpose of improving their performance characteristics and versatility is considered. Improvements in sensitivity of charge gain in input capacitance, preamplifier output pulse rise-time, and ability to terminate long input cables are discussed. In each case, theoretical developments are carried out in order to determine the optimum positive feedback conditions. A practical charge-sensitive preamplifier design is discussed and the effects of applying positive feedback are delineated.&lt;/p&gt;
+&lt;p&gt;For the experimental preamplifier, the application of positive feedback resulted in a reduction in charge gain sensitivity to input capacitance changes of almost an order of magnitude for a 100 pf. change in input capacitance. The output pulse rise-time without positive feedback  was approximately 90 nsec. with 100 pf. detector capacitance. This was reduced  to approximately 15 nsec. by the application of positive feedback. The equivalent noise charge of the experimental preamplifier was approximately 4 x 10&lt;sup&gt;-17&lt;/sup&gt; rms coulombs with 0 pf. detector capacitance and for 1 μsec. RC-RC shaping. The use of positive feedback did not affect the noise performance. The experimental preamplifier was not designed with low noise as a prime requisite.&lt;/p&gt;
+&lt;p&gt;The application of positive feedback was shown to provide tremendous improvement in the ability of the experimental preamplifier to terminate long input cables. Different cables with characteristic impedances, Z&lt;sub&gt;0&lt;/sub&gt;, from 50 ohms to 950 ohms were attached to the input of the preamplifier. Theoretical equations were developed for the positive feedback conditions which would cause the input impedance of he preamplifier to be equal to the Z&lt;sub&gt;0&lt;/sub&gt; of the cables. Experimental results provided excellent confirmation of the theory. Output signal waveforms, which formerly were completely useless for normal pulse-shaping networks, were in many cases essentially undistorted after correct use of the cable-termination theory.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3214</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4622&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3214</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4622</articleid>
+<submission-date>2015-02-10T14:02:18-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6635362</context-key>
+<submission-path>utk_graddiss/3214</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>E. J. Kennedy</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. H. Turner, M. W. Hill, T. V. Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1970-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1970-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

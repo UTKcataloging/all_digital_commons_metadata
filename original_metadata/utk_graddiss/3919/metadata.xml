@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Analytics and Application Developments Based on Synchrophasor Measurements</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jguo7@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Guo</lname>
+<fname>Jiahui</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Synchrophasor</keyword>
+<keyword>WAMS</keyword>
+<keyword>Islanding</keyword>
+<keyword>Big Data</keyword>
+<keyword>Distributed</keyword>
+<keyword>Application.</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Frequency Monitoring Network (FNET) is an Internet‐based, wide‐area phasor measurement system that collects power system data using Frequency Disturbance Recorders (FDRs) that are installed at the distribution level. These synchrophasor measurements enable the monitoring of bulk power systems, and provides wide‐area situational awareness and disturbance analysis for understanding power system disturbances and system operations. Various data analytics and applications are built based on these valuable measurements.&lt;/p&gt;
+&lt;p&gt;Real-time situational awareness tools are of critical importance to power system operators. Knowledge of the scope and extent of facilities impacted, as well as the duration of their dependence on backup power, enables emergency response officials to plan for contingencies and provide a better overall response. Based on the measurement data acquired by the FDRs deployed in the North American power grids, an off-grid detection method is proposed and implemented, which monitors the critical electrical loads and detects the transition of these loads from an on-grid operation to an off-grid operation. And two visualization tools are developed to display the real-time system operation condition in an intuitive manor.&lt;/p&gt;
+&lt;p&gt;Moreover, electromechanical oscillation is an inherent property of power systems which cannot be fully eliminated, and poorly damped low-frequency oscillations would hazard the system stability, reliable real-time mode estimation of low frequency oscillation and visualization is necessary, such that appropriate actions can be taken to maintain the stability of the power system and furthermore to provide guidelines to tune the parameters in PSS. With the aid of synchrophasor technology, pure measurement-based approach is proposed to estimate the oscillation frequency and damping regardless of ring-down or ambient condition in real-time environment.&lt;/p&gt;
+&lt;p&gt;In large interconnected power systems, changes in load, generation, topology, and control may initiate disturbances, e.g. generation trip, line trip, load shedding, oscillation, etc., that could be dangerous for system security and reliability. During these disturbances, frequency, phase angle and voltage magnitude will change simultaneously correspondingly. Some of these recorded events are analyzed for to identify relative characteristic to understand the dynamic behaviors from a wide area measurement perspective.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3919</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5294&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3919</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5294</articleid>
+<submission-date>2016-05-29T18:16:13-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8662927</context-key>
+<submission-path>utk_graddiss/3919</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Qing Cao, Chien-fei Chen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

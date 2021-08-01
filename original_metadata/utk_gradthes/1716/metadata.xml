@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modal Analysis of a Helicopter Wing-Pylon Structure Using Flexible Multibody Dynamics</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Khude</lname>
+<fname>Naresh</fname>
+<mname>Nilkanth</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;With the new software tools being developed for simulation of flexible multibody systems it is possible to develop the models with various missiles and launchers and study their dynamic behavior in the design stages. In most of the flexible multibody models, the flexibility modal data is obtained from the corresponding detailed finite element model.&lt;/p&gt;
+&lt;p&gt;This thesis presents the flexible multibody model development of the simplified wing- pylon structure using the Craig-Bampton approach. Since the Craig-Bampton method of Component Mode Synthesis is used, the component finite element models are developed separately without inclusion of the local joint details. This approach is used to reduce the substantial amount of modeling effort required to build the detailed finite element model, and the corresponding finite element problem size.&lt;/p&gt;
+&lt;p&gt;The modal analysis of the flexible multibody model has been done and the effects of selection of different sets of fixed interface normal modes and of different cut off frequencies on natural frequencies of the pylon structure are shown. The modal analysis results of the flexible multibody model i.e. natural frequencies and the mode shapes are found to be consistent with those obtained using previously developed detailed FE model and the experimental modal model [1].&lt;/p&gt;
+&lt;p&gt;The simplified flexible multibody modeling approach suggested in this thesis can be used to model the complex missile systems in order to reduce the modeling as well as the computational effort.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1716</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3065&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1716</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3065</articleid>
+<submission-date>2013-08-19T09:49:25-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4462402</context-key>
+<submission-path>utk_gradthes/1716</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. A. M. Boulet</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jeffrey S. Freeman, Tsewei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

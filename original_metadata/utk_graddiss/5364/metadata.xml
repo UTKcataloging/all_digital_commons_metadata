@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Simulations of Unsteady Shocks via a Finite-Element Solver with High-Order Spatial and Temporal Accuracy</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kholst@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Holst</lname>
+<fname>Kevin</fname>
+<mname>Raymond</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This research aims to improve the modeling of stationary and moving shock waves by adding an unsteady capability to an existing high-spatial-order, finite-element, streamline upwind/Petrov-Galerkin (SU/PG), steady-state solver and using it to examine a novel shock capturing technique. Six L-stable, first- through fourth-order time-integration methods were introduced into the solver, and the resulting unsteady code was employed on three canonical test cases for verification and validation purposes: the two-dimensional convecting inviscid isentropic vortex, the two-dimensional circular cylinder in cross  ow, and the Taylor-Green vortex. Shock capturing is accomplished in the baseline solver through the application of artificial diffusion in supersonic cases. When applied to inviscid problems, especially those with blunt bodies, numerical errors from the baseline shock sensor accumulated in stagnation regions, resulting in non-physical wall heating. Modifications were made to the solver&#39;s shock capturing approach that changed the calculation of the artificial diffusion flux term (&lt;i&gt;F&lt;sub&gt;ad&lt;/sub&gt;&lt;/i&gt;) and the shock sensor. The changes to &lt;i&gt;F&lt;sub&gt;ad&lt;/sub&gt;&lt;/i&gt;were designed to vary the application of artificial diffusion directionally within the momentum equations. A novel discontinuity sensor, derived from the entropy gradient, was developed for use on inviscid cases. The new sensor activates for shocks, rapid expansions, and other  ow features where the grid is insufficient to resolve the high-gradient phenomena. This modified shock capturing technique was applied to three inviscid test cases: the blunt-body bow shock of Murman, the planar Noh problem, and the Mach 3 forward-facing step of Colella and Woodward.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5364</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6900&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5364</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6900</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545371</context-key>
+<submission-path>utk_graddiss/5364</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Schmisseur</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ryan Glasby, James Coder, Ryan Bond, Gregory Peterson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

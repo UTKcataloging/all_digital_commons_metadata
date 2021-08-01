@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bayesian Analysis of Threshold Autoregressive Models</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kwon</lname>
+<fname>Yongjae</fname>
+</author>
+</authors>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+</disciplines><abstract>&lt;p&gt;Threshold Autoregression is a powerful statistical tool for modeling structural nonlinear relationships. This study presents a Bayesian modeling procedure for threshold autoregressions. To this end, the analytical framework of Bayesian analysis for a univariate SETAR and a threshold VAR were developed. For the estimation of parameters, a Markov-Chain Monte Carlo (MCMC) simulation and an importance/rejection sampling are used to obtain posterior samples. In model determination, this study shows that Bayes factors are reliable testing procedures in model comparison, lag order selection, and threshold nonlinearity tests. However, it is difficult to get the exact figure of a Bayes factor because the analytical form of the marginal likelihood is occasionally unavailable. In this regard, a few approximation methods for the marginal likelihood as an element of Bayes factor are discussed and appropriate computational algorithms are investigated. Although the Laplace approximation method is a computationally convenient way of approximating marginal likelihood, the validity on small samples is doubtful. Together with Bayes factors, it provided a large scale simulation study on the performance of some information criteria such as SBC, AIC, ICOMP, CAICFE, and BMS, and recommended they might be good alternatives in small samples or to avoid heavy computational burdens. As a model validation and sensitivity analysis on hyperparameter specifications, both a within-sample and an out-of-sample forecasting are recommended. This study also provided empirical evidences of the proposed methodology through simulation studies and real data applications. The estimation algorithm of the delay and iii threshold parameters is proved to be a stable process. In addition, the Laplace approximation method and Gelfand and Dey (1994) approximation method were used to obtain the marginal likelihoods as elements of Bayes factors. Also, the forecasting functions are approximated by a Monte Carlo simulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2114</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3551&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2114</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3551</articleid>
+<submission-date>2013-10-01T09:54:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4652380</context-key>
+<submission-path>utk_graddiss/2114</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Halima Bensmail</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hamprasum Bozdogan, George C. Philippatos, John Barkoulas</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

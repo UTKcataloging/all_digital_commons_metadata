@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of SystemC Modules from HDL for System-on-Chip Applications</title>
+<publication-date>2004-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Devalapalli</lname>
+<fname>Siddhartha</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Designs are becoming bigger in size, faster in speed and larger in complexity with the emergence of System-on-Chip designs. Hardware components and embedded software co-exist in such designs making it necessary to describe designs at higher levels of abstraction. Describing designs at higher levels of abstraction enables faster simulation, hardware software co-simulation and architectural exploration. SystemC is a solution.&lt;/p&gt;
+&lt;p&gt;Also the time to market can be reduced greatly if previously designed intellectually property (IP) described in a hardware description language (HDL) can be reused in SystemC.&lt;/p&gt;
+&lt;p&gt;In this research SystemC modules were successfully developed and verified from Verilog using existing tools. &lt;em&gt;Verilator&lt;/em&gt; is a tool that translates synthesizable Verilog into C++ or SystemC code with certain limitations. The generated SystemC code was simulated and compared against the simulation results of the original Verilog code. To add credibility several simple and a few large cores were transformed into SystemC and the simulation results of the Verilog and the SystemC code were compared.&lt;/p&gt;
+&lt;p&gt;Pure SystemC code was synthesized using Synopsys’ SystemC Compiler and DC Shell and an area report based on the TSMC 0.18 technology was generated. The synthesis produced a Verilog code, which was simulated, and the simulations compared to the SystemC simulations&lt;/p&gt;
+&lt;p&gt;Available VHDL to Verilog and vice-versa conversion tools were also investigated. Mentor Graphics’ HDL Designer and Ocean Logic’s VHDL to Verilog converter were used for this purpose. Simulation results before and after the conversions were compared.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2119</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3468&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2119</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3468</articleid>
+<submission-date>2013-10-04T11:24:04-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4670894</context-key>
+<submission-path>utk_gradthes/2119</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Donald W. Bouldin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Gregory D. Peterson, Dr. Chandra Tan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

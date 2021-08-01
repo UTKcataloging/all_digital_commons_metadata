@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Pollen Image Classification</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nhaas2@utk.edu</email>
+<lname>Haas</lname>
+<fname>Nicholas Quentin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>image classification</keyword>
+<keyword>computer vision</keyword>
+<keyword>pollen grain classification</keyword>
+<keyword>shape matching</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;This Master of Science thesis reviews previous research, proposes a method anddemonstrates proof-of-concept software for the automated matching of pollen grainimages to satisfy degree requirements at the University of Tennessee. An ideal imagesegmentation algorithm and shape representation data structure is selected, alongwith a multi-phase shape matching system. The system is shown to be invariantto synthetic image translation, rotation, and to a lesser extent global contrast andintensity changes. The proof-of-concept software is used to demonstrate how pollengrains can be matched to images of other pollen grains, stored in a database, thatshare similar features with up to a 75% accuracy rate.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1113</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2178&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1113</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2178</articleid>
+<submission-date>2011-08-16T09:25:45-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2164112</context-key>
+<submission-path>utk_gradthes/1113</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Douglas Birdwell</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tse-Wei Wang, Roger Horn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

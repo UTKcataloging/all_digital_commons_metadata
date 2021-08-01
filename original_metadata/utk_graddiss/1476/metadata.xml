@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Analysis of First and Second Order Unconditional Energy Stable Schemes for Nonlocal Cahn-Hilliard and Allen-Cahn Equations</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zguan@utk.edu</email>
+<lname>Guan</lname>
+<fname>Zhen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Nonlocal</keyword>
+<keyword>DDFT</keyword>
+<keyword>Unconditional Energy Stable Schemes</keyword>
+<keyword>Efficient Multigrid Solver</keyword>
+<keyword>Anisotropic Nucleation</keyword>
+</keywords>
+<disciplines><discipline>Numerical Analysis and Computation</discipline>
+</disciplines><abstract>&lt;p&gt;This PhD dissertation concentrates on the numerical analysis of a family of fully discrete, energy stable schemes for nonlocal Cahn-Hilliard and Allen-Cahn type equations, which are integro-partial differential equations (IPDEs). These two IPDEs -- along with the evolution equation from dynamical density functional theory (DDFT), which is a generalization of the nonlocal Cahn-Hilliard equation -- are used to model a variety of physical and biological processes such as crystallization, phase transformations, and tumor growth. This dissertation advances the computational state-of-the-art related to this field in the following main contributions: (I) We propose and analyze a family of two-dimensional unconditionally energy stable schemes for these IPDEs. Specifically, we prove that the schemes are (a) uniquely solvable, independent of time and space step sizes; (b) energy stable, independent of time and space step sizes; and (c) convergent, provided the time step sizes are sufficiently small. (II) We develop a highly efficient solver for schemes we propose. These schemes are semi-implicit and contain nonlinear implicit terms, which makes numerical solutions challenging. To overcome this difficulty, a nearly-optimally efficient nonlinear multigrid method is employed. (III) Via our numerical methods, we are able to simulate crystal nucleation and growth phenomena, with arbitrary crystalline anisotropy, with properly chosen parameters for nonlocal Cahn-Hilliard equation, in a very efficient and straightforward way. To our knowledge these contributions do not exist in any form in any of the previous works in the literature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1476</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2658&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1476</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2658</articleid>
+<submission-date>2012-07-26T11:21:31-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3135914</context-key>
+<submission-path>utk_graddiss/1476</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven M. Wise</value>
+</field>
+<field name="advisor2" type="string">
+<value>Grozdena Todorova, Vasilios Alexiades, Yanfei Gao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-08-31T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

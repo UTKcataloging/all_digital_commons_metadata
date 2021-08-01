@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fully Coupled Fluid and Electrodynamic Modeling of Plasmas: A Two-fluid Isomorphism and a Strong Conservative Flux-coupled Finite Volume Framework</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rthompso@utsi.edu</email>
+<lname>Thompson</lname>
+<fname>Richard</fname>
+<mname>Joel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>fluid</keyword>
+<keyword>electrodynamic</keyword>
+<keyword>plasma</keyword>
+<keyword>cfd</keyword>
+<keyword>modeling</keyword>
+<keyword>mathematics</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Engineering Physics</discipline>
+<discipline>Fluid Dynamics</discipline>
+<discipline>Mechanical Engineering</discipline>
+<discipline>Partial Differential Equations</discipline>
+<discipline>Plasma and Beam Physics</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Ideal and resistive magnetohydrodynamics (MHD) have long served as the incumbent framework for modeling plasmas of engineering interest. However, new applications, such as hypersonic flight and propulsion, plasma propulsion, plasma instability in engineering devices, charge separation effects and electromagnetic wave interaction effects may demand a higher-fidelity physical model. For these cases, the two-fluid plasma model or its limiting case of a single bulk fluid, which results in a single-fluid coupled system of the Navier-Stokes and Maxwell equations, is necessary and permits a deeper physical study than the MHD framework. At present, major challenges are imposed on solving these physical models both analytically and numerically.&lt;/p&gt;
+&lt;p&gt;This dissertation alleviates these challenges by investigating new frameworks that facilitate efficient modeling of plasmas beyond the MHD description. Two investigations are performed: first, an isomorphism is constructed between the two-fluid plasma model and the Maxwell equations. This permits a set of unified Maxwell equations for both the electrodynamic and hydrodynamic behavior, but introduces an analogous notion of charge and current density for a fluid, which must be modeled to solve the new equations. We examine the homogeneous case (where these sources vanish), and then discuss iterative approaches and empirical modeling of the sources. We calculate some simple source models for fluid problems, including Blasius boundary layer flow. We demonstrate solution approaches using Green&#39;s functions methods and the method of images, for which a closed-form solution to Blasius boundary layer flow is achieved.&lt;/p&gt;
+&lt;p&gt;The second investigation recasts the single-fluid model into a strong conservative form. This permits the coupled Navier-Stokes and full Maxwell equations to be written exactly, but with no source terms present, which tend to cause numerical instability during simulation. The removal of the source terms is shown to improve the stability and robustness of the equations, but at the cost of introducing a significantly more complicated eigenstructure; we present the new eigenstructure for this system of equations and demonstrate an effective Riemann solver and flux splitting approach. Validation tests including magnetohydrodynamic problems, radio wave propagation tests and plasma instabilities and turbulence are presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2491</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2936&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2491</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2936</articleid>
+<submission-date>2013-03-12T13:12:08-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3893293</context-key>
+<submission-path>utk_graddiss/2491</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary A. Flandro, Roy Schulz, Christian G. Parigger</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

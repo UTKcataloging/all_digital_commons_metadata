@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>3D Robotic Sensing of People: Human Perception, Representation and Activity Recognition</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hzhang29@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Hao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>robotics</keyword>
+<keyword>machine learning</keyword>
+<keyword>computer vision</keyword>
+<keyword>human-centered robotics</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;The robots are coming. Their presence will eventually bridge the digital-physical divide and dramatically impact human life by taking over tasks where our current society has shortcomings (e.g., search and rescue, elderly care, and child education). Human-centered robotics (HCR) is a vision to address how robots can coexist with humans and help people live safer, simpler and more independent lives.&lt;/p&gt;
+&lt;p&gt;As humans, we have a remarkable ability to perceive the world around us, perceive people, and interpret their behaviors. Endowing robots with these critical capabilities in highly dynamic human social environments is a significant but very challenging problem in practical human-centered robotics applications.&lt;/p&gt;
+&lt;p&gt;This research focuses on robotic sensing of people, that is, how robots can perceive and represent humans and understand their behaviors, primarily through 3D robotic vision. In this dissertation, I begin with a broad perspective on human-centered robotics by discussing its real-world applications and significant challenges. Then, I will introduce a real-time perception system, based on the concept of Depth of Interest, to detect and track multiple individuals using a color-depth camera that is installed on moving robotic platforms. In addition, I will discuss human representation approaches, based on local spatio-temporal features, including new “CoDe4D” features that incorporate both color and depth information, a new “SOD” descriptor to efficiently quantize 3D visual features, and the novel AdHuC features, which are capable of representing the activities of multiple individuals. Several new algorithms to recognize human activities are also discussed, including the RG-PLSA model, which allows us to discover activity patterns without supervision, the MC-HCRF model, which can explicitly investigate certainty in latent temporal patterns, and the FuzzySR model, which is used to segment continuous data into events and probabilistically recognize human activities. Cognition models based on recognition results are also implemented for decision making that allow robotic systems to react to human activities. Finally, I will conclude with a discussion of future directions that will accelerate the upcoming technological revolution of human-centered robotics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2885</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4214&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2885</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4214</articleid>
+<submission-date>2014-06-18T18:57:21-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5702833</context-key>
+<submission-path>utk_graddiss/2885</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Husheng Li, Wenjun Zhou</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

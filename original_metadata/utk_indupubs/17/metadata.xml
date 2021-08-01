@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Key Establishment for Layered Group-based Wireless Sensor Networks</title>
+<publication-date>2010-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xueping.li@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Xueping</fname>
+</author>
+<author>
+<lname>Yang</lname>
+<fname>Dengfeng</fname>
+</author>
+<author>
+<lname>Sawhney</lname>
+<fname>Rapinder</fname>
+</author>
+</authors>
+<keywords>
+<keyword>WSNs</keyword>
+<keyword>wireless sensor networks</keyword>
+<keyword>network security</keyword>
+<keyword>key establishment</keyword>
+<keyword>scalability</keyword>
+<keyword>group-based deployment</keyword>
+<keyword>wireless networks</keyword>
+<keyword>pairwise keys</keyword>
+<keyword>secure communications</keyword>
+</keywords>
+<abstract>&lt;p&gt;Establishing pairwise keys for sensors is crucial to secure communications in Wireless Sensor Networks (WSNs). Several key pre-distribution schemes have been proposed to establish pairwise keys, but they are not scalable and suffer from a dramatic degradation of security when the number of compromised sensor exceeds a threshold. In this paper, we propose a Layered Group-based Key Establishment (LGKE) scheme, in which a logic top layer ensures the scalability through an Exclusion Basic System (EBS) technique while a logic low layer adopts a group-based key preload scheme to ensure the security. The security analysis and quantitative evaluation show the superiority of LGKE with regard to scalability, resilience, robustness and communication overhead.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_indupubs/17</coverpage-url>
+<label>17</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1018</articleid>
+<submission-date>2010-08-31T10:57:49-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Industrial &amp; Information Engineering</publication-title>
+<context-key>1489982</context-key>
+<submission-path>utk_indupubs/17</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Xueping Li, Dengfeng Yang and Rapinder Sawhney (2010) &quot;Key Establishment for Layered Group-based Wireless Sensor Networks&quot;, &lt;em&gt;International Journal of Ad Hoc and Ubiquitous Computing (IJAHUC)&lt;/em&gt;, Vol 5, No. 3, pp. 150-162.</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2010-08-31T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-01-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://www.inderscience.com/search/index.php?action=record&amp;rec_id=32228&amp;prevQuery=&amp;ps=10&amp;m=or</value>
+</field>
+</fields>
+</document>
+</documents>

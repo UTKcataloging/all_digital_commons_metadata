@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Gyrator Capacitor Modeling Approach to Study the Impact of Geomagnetically Induced Current on Single-Phase Core Transformer</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>pkausha1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Kaushal</lname>
+<fname>Parul</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Among various approaches used for determining the behavior of power transformers to model the geomagnetically induced current (GIC), the gyrator-capacitor approach is proposed. This approach offers a better understanding of magnetic components compared to other methods, particularly for multi-winding devices and is used to model GIC in a single-phase core type power transformer. In the gyrator-capacitor approach, the gyrator acts as a bridge between the electric and the magnetic circuits making it possible to simulate the two circuits simultaneously.&lt;/p&gt;
+&lt;p&gt;Under GIC conditions, the transformer core suffers a half-cycle saturation, which is the main cause of the disturbances in the power system. In addition, the design of the transformer core is one of the other important factor to analyze the impact of GIC, as the single-phase and the three-phase transformers have different core design. The single-phase transformers are known to be more susceptible to GIC than their three-phase counterparts and even a small range of DC is sufficient to drive the core of a single-phase transformer in the saturation region. The behavior of single-phase transformer is analyzed as half-cycle saturation in the fluxes, following the simulations achieved for voltages, magnetizing current, exciting current and harmonics at different levels of DC by using different magnitude of GIC (increasing order). The harmonics obtained from the proposed approach are validated with the previously published research for single-phase transformers experiencing half-cycle saturation. Since the GIC affects the current waveforms and therefore, the deviation of the current waveform is also calculated in the form of total harmonic distortion (THD).To model a transformer using the gyrator-capacitor approach, P-SPICE software tool is used.The results from the analysis reveal that, the behavior of the transformer model is dependent on the source impedance and the half-cycle saturation is dependent on the DC source setting.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4752</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5544&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4752</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5544</articleid>
+<submission-date>2016-10-07T07:19:10-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9242889</context-key>
+<submission-path>utk_gradthes/4752</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Benjamin J. Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

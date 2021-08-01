@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Development, Implementation, and Evaluation of Depletion Perturbation Theory in a Light Water Reactor Nodal Code</title>
+<publication-date>1981-03-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bowman</lname>
+<fname>Stephen</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A generalized depletion perturbation (DPT) theory formulation for light water reactor (LWR) depletion problems is developed and implemented into the three-dimensional LWR nodal code SIMULATE. This development applies the principles of the original derivation by M. L. Williams to the nodal equations solved by SIMULATE. The present formulation is first described in detail, and the nodal coupling methodology in SIMULATE is used to determine partial derivatives of the coupling coefficients. The modifications to the original code and the new DPT options available to the user are discussed. Finally, the accuracy and the applicability of the new DPT capability to LWR design analysis is examined for several LWR depletion test cases.&lt;/p&gt;
+&lt;p&gt;The cases range from simple static cases to a realistic PWR model for an entire fuel cycle. Responses of interest included K&lt;sub&gt;eff&#39;&lt;/sub&gt; nodal peaking, and peak nodal exposure. The nonlinear behavior of responses with respect to perturbations of the various types of cross sections was also investigated. The time-dependence of the sensitivity coefficients for different responses were examined and compared.&lt;/p&gt;
+&lt;p&gt;Comparison of DPT results for these examples to direct calculations reveals the limited applicability of depletion perturbation theory to LWR design calculations at the present. The reasons for these restrictions are discussed, and several methods which might improve the computational accuracy of DPT are proposed for future research.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3960</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5443&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3960</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5443</articleid>
+<submission-date>2016-09-14T05:55:58-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9117897</context-key>
+<submission-path>utk_gradthes/3960</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>H. Lee Dodds</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. F. Miller, P. F. Pasqua, Paul C. Polard</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1981-03-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1981-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

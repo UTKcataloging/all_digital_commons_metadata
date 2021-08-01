@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Safeguards Monitoring System for Special Nuclear Facilities</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jhenkel@utk.edu</email>
+<lname>Henkel</lname>
+<fname>James Joseph</fname>
+</author>
+</authors>
+<keywords>
+<keyword>nuclear safeguards</keyword>
+<keyword>process monitoring</keyword>
+<keyword>load cell monitoring</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Two important issues related to nuclear materials safeguards are the continuous monitoring of nuclear processing facilities to verify that undeclared uranium is not processed or enriched and to verify that declared uranium is accounted for.  The International Atomic Energy Agency (IAEA) is tasked with ensuring special nuclear facilities are operating as declared and that proper material safeguards have been followed.  Traditional safeguards measures have relied on IAEA personnel inspecting each facility and verifying material with authenticated instrumentation.&lt;/p&gt;
+&lt;p&gt;In newer facilities most plant instrumentation data are collected electronically and stored in a central computer.  Facilities collect this information for a variety of reasons, most notably for process optimization and monitoring.  The field of process monitoring has grown significantly over the past decades, and techniques have been developed to detect and identify changes and to improve reliability and safety.  Several of these techniques can also be applied to international and domestic safeguards.&lt;/p&gt;
+&lt;p&gt;This dissertation introduces a safeguards monitoring system developed for both a simulated Uranium blend down facility, and a water-processing facility at the Oak Ridge National Laboratory.  For the simulated facility, a safeguards monitoring system is developed using an Auto-Associative Kernel Regression model, and the effects of incorporating facility specific radiation sensors and preprocessing the data are examined.  The best safeguards model was able to detect diversions as small as 1.1%.  For the ORNL facility, a load cell monitoring system was developed.   This monitoring system provides an inspector with an efficient way to identify undeclared activity and to identify atypical facility operation, included diversions as small as 0.1 kg.  The system also provides a foundation for an on-line safeguards monitoring approach where inspectors remotely facility data to draw safeguards conclusion, possibly reducing the needed frequency and duration of a traditional inspection.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1081</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2246&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1081</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2246</articleid>
+<submission-date>2011-07-14T15:54:31-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2246/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2101506</context-key>
+<submission-path>utk_graddiss/1081</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. W. Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle Upadhyaya, Jason Hayward, Mary Leitnaker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

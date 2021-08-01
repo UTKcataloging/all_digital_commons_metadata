@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Conversion of the HP3577A Network Analyzer to a Spectrum Analyzer Mode of Operation with Low Noise and Cross-Talk</title>
+<publication-date>1987-03-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Crowley</lname>
+<fname>John</fname>
+<mname>E.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A system has been designed which modifies the HP3577A Network Analyzer so that arbitrary signals in the range from 5 Hz to 10 MHz can be compared in amplitude and phase. The system will be used to sample density or potential fluctuations at two points in a turbulent plasma, and measure the frequency, amplitude, and phase of signals detected by the probes. This modification is totally external to the HP3577A Network Analyzer, and has been designed to minimize the cross-talk between the two channels, so that nonlinear mode coupling processes in the plasma can be distinguished from mode coupling (cross-talk) originating within the instrumentation itself. The composite has a dynamic range from 0 dBm to -60 dBm, crosstalk of no more than -40 dB between channels, a maximum spurious response -40 dB below the maximum input signal, and an amplitude and phase accuracy of 1 dB and 5 degrees, respectively.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2895</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4276&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2895</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4276</articleid>
+<submission-date>2014-10-22T10:28:46-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6267576</context-key>
+<submission-path>utk_gradthes/2895</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David Rosenberg</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. R. Roth, T. V. Blalock</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1987-03-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1987-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

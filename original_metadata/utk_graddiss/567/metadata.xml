@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Stochastic Modeling and Estimation of Wireless Channels with Application to Ultra Wide Band Systems</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Yanyan</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis is concerned with modeling of both space and time variations of Ultra Wide Band (UWB) indoor channels. The most common empirically determined amplitude distribution in many UWB environments is Nakagami distribution. The latter is generalized to stochastic diffusion processes which capture the dynamics of UWB channels. In contrast with the traditional models, the statistics of the proposed models are shown to be time varying, but converge in steady state to their static counterparts.&lt;/p&gt;
+&lt;p&gt;System identification algorithms are used to extract various channel parameters using received signal measurement data, which are usually available at the receiver. The expectation maximization (EM) algorithm and the Kalman filter (KF) are employed in estimating channel parameters as well as the inphase and quadrature components, respectively. The proposed algorithms are recursive and therefore can be implemented in real time. Further, sufficient conditions for the convergence of the EM algorithm are provided. Comparison with recursive Least-square (LS) algorithms is carried out using experimental measurements.&lt;/p&gt;
+&lt;p&gt;Distributed stochastic power control algorithms based on the fixed point theorem and stochastic approximations are used to solve for the optimal transmit power problem and numerical results are also presented.&lt;/p&gt;
+&lt;p&gt;A framework which can capture the statistics of the overall received signal and a methodology to estimate parameters of the counting process based on the received signal is developed. Furthermore, second moment statistics and characteristic functions are computed explicitly and considered as an extension of Rice’s shot noise analysis.&lt;/p&gt;
+&lt;p&gt;Another two important components, input design and model selection are also considered. Gel’fand n-widths and Time n-widths are used to represent the inherent error introduced by input design. Kolmogorov n-width is used to characterize the representation error introduced by model selection. In particular, it is shown that the optimal model for reducing the representation error is a finite impulse response (FIR) model and the optimal input is an impulse at the start of the observation interval.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/567</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1635&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>567</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1635</articleid>
+<submission-date>2010-02-23T09:54:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1164762</context-key>
+<submission-path>utk_graddiss/567</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul Crilly, Michael Roberts, Jie Xiong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/LiYanyan.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

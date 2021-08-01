@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dimensionality reduction using parallel ICA and its implementation on FPGA in hyperspectral image analysis</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Du</lname>
+<fname>Hongtao</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Hyperspectral images, although providing abundant information of the object, also bring high computational burden to data processing. This thesis studies the challenging problem of dimensionality reduction in Hyperspectral Image (HSI) analysis. Currently, there are two methods to reduce the dimension: band selection and feature extraction. This thesis presents a band selection technique based on Independent Component Analysis (ICA), an unsupervised signal separation algorithm. Given only the observations of hyperspectral images, the ICA –based band selection picks the independent bands which contain most of the spectral information of the original images. Due to the high volume of hyperspectral images, ICA -based band selection is a time consuming process. This thesis develops a parallel ICA algorithm which divides the decorrelation process into internal decorrelation and external decorrelation such that computation burden can be distributed from single processor to multiple processors, and the ICA process can be run in a parallel mode. Hardware implementation is always a faster and real -time solution to HSI analysis. Until now, there are few hardware designs for ICA -related processes. This thesis synthesizes the parallel ICA -based band selection on Field Programmable Gate Array (FPGA), which is the best choice for moderate designs and fast implementations. Compared to other design syntheses, the synthesis present in this thesis develops three ICA re-configurable components for the purpose of reusability. In addition, this thesis demonstrates the relationship between the design and the capacity utilization of a single FPGA, then discusses the features of High Performance Reconfigurable Computing (HPRC) to accomodate large capacity and design requirements. Experiments are conducted on three data sets obtained from different sources. Experimental results show the effectiveness of the proposed ICA -based band selection, parallel ICA and its synthesis on FPGA.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5216</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6624&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5216</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6624</articleid>
+<submission-date>2019-02-19T05:36:07-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13847059</context-key>
+<submission-path>utk_gradthes/5216</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Statistical Analysis of Disturbances in Power Transmission Systems</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lliu25@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Liu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>statistical analysis</keyword>
+<keyword>distribution</keyword>
+<keyword>disturbance</keyword>
+<keyword>power system</keyword>
+<keyword>pattern recognition</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+<discipline>Power and Energy</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Disturbance analysis is essential to the study of the power transmission systems. Traditionally, disturbances are described as megawatt (MW) events, but the access to data is inefficient due to the slow installation and authorization process of the monitoring device. In this paper, we propose a novel approach to disturbance analysis conducted at the distribution level by exploiting the frequency recordings from Frequency Disturbance Recorders (FDRs) of the Frequency Monitoring Network (FNET/GridEye), based on the relationship between frequency change and the power loss of disturbances - linearly associated by the Frequency Response. We first analyze the real disturbance records of North America (1992 to 2009) and confirm the power law distribution; we discover that small disturbances are log-normal distributed. Then based on the real records from 2011 to 2013 (EI), the disturbances in megawatt and the corresponding frequency change records are studied in parallel. We prove that the frequency change of disturbances and its megawatt records share similar power law distribution when the disturbances are large; the frequency change can be delineated by a log-normal distribution with its numerically approximated coefficient when the disturbances are small.&lt;/p&gt;
+&lt;p&gt;Meanwhile, activities like FIDVR in the power systems reflected as voltage signature patterns recorded at the transmission level are worth studying since each pattern corresponds to a certain type of behavior. Pattern recognition is used in this problem. Initially the records are preprocessed through eliminating ineligible records and rescaling. Feature extraction is applied to obtain a better representation of signature dataset by statistics of amplitude, wavelet transform and Fourier transform. With the extracted features, k-means, an unsupervised clustering algorithm is exploited to generate root patterns; furthermore we use heuristic selection to remove the mis-classified patterns. The extracted root patterns then serve as training dataset to train a support vector machine (SVM). After the parameters of kernel function in SVM is optimized, a subset of voltage signature records is generated as testing dataset, based on which the performance of SVM is evaluated. With all patterns we achieve an accuracy of 80.12% of multi-label classification; and if only considering dominant patterns, the accuracy reaches 86.20%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2830</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4169&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2830</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4169</articleid>
+<submission-date>2014-07-23T12:39:08-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>5823239</context-key>
+<submission-path>utk_gradthes/2830</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Leon M. Tolbert</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;This work is associated with CURENT center in EECS dept. and NSF funding.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

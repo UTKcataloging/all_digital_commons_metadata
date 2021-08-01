@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sensor Based PLC Programming for a Discrete Event Control System</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Dasari</lname>
+<fname>Siva</fname>
+<mname>Kali Prasad</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In the manufacturing industry, automation in material handling has increased the overall profitability of the product with an improvement in the quality and productivity of the system. This is primarily due to two reasons. First, automation reduces the total production cycle time, and second, it helps smooth flow of raw materials and finished products to their desired location with little or no human interference. But, such an implementation involves several problems. One significant problem is the location of sensors that perceive the system environment. A correct choice of sensors at precise locations enables the controller to collect the required information and take a suitable decision that makes the system more robust. Moreover, the sensor logic is vital to control the system.&lt;/p&gt;
+&lt;p&gt;This thesis addresses the sensor placement and control logic issues in an automated material handling system that was developed by The Providence Group, Applied Technology (TPGAT) at Knoxville, Tennessee. The proposed design prevents deadlock and controller jamming. This is achieved by a suitable control on the occurrence of events in the system. This solution also allows the controller to take decisions for the smooth movement of material. In addition, recommendations for an overall improvement in the structural aspects of the system are discussed. However, additional sensors need to be installed to implement this design. Although similar systems exist this thesis attempts a cost effective solution.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1931</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3289&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1931</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3289</articleid>
+<submission-date>2013-09-23T12:46:35-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4615164</context-key>
+<submission-path>utk_gradthes/1931</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary V. Smith, Arnold Lumsdaine</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

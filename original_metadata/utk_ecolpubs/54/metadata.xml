@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>iteRates: An R Package for Implementing a Parametric Rate Comparison on Phylogenetic Trees</title>
+<publication-date>2014-06-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jfordyce@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fordyce</lname>
+<fname>James</fname>
+<mname>A</mname>
+</author>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Shah</lname>
+<fname>Premal</fname>
+</author>
+<author>
+<email>benfitz@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fitzpatrick</lname>
+<fname>Benjamin M</fname>
+</author>
+</authors>
+<keywords>
+<keyword>chronogram</keyword>
+<keyword>diversification-rate</keyword>
+<keyword>phylogeny</keyword>
+<keyword>rate-variation</keyword>
+</keywords>
+<disciplines><discipline>Ecology and Evolutionary Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Patterns of diversification rate variation detected in phylogenetic hypotheses are frequently used to infer historical, ecological, and evolutionary processes. The parametric rate comparison (PRC) is a method for detecting rate variation in trees that models branch lengths as random variables drawn from familiar statistical distributions. iteRates is a library of functions for the R statistical computing environment for implementing PRC on phylogenetic trees. Here, we describe some of the functions in iteRates for subtree identification, tree manipulation, applying the PRC and K-clades PRC analyses, and conducting a whole-tree randomization test.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_ecolpubs/54</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1055&amp;amp;context=utk_ecolpubs&amp;amp;unstamped=1</fulltext-url>
+<label>54</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1055</articleid>
+<submission-date>2014-09-16T07:02:21-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Ecology and Evolutionary Biology</publication-title>
+<context-key>6122449</context-key>
+<submission-path>utk_ecolpubs/54</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Licensed under a &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/us/&quot;&gt;Creative Commons Attribution-Noncommercial 3.0 License&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Fordyce, J. A.; Shah, P. &amp; Fitzpatrick, B. M. iteRates: An R Package for Implementing a Parametric Rate Comparison on Phylogenetic Trees Evolutionary Bioinformatics, 2014, 10, 127-130. doi: 10.4137/EBO.S16487</value>
+</field>
+<field name="doi" type="string">
+<value>10.4137/EBO.S16487</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2015-11-04T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-06-01T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Evolutionary Bioinformatics</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

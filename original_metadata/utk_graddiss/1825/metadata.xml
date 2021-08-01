@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Thermodynamic Characterization of Polymeric Materials Subjected to Non-isothermal Flows: Experiment, Theory and Simulation</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ionescu</lname>
+<fname>Tudor</fname>
+<mname>Constantin</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Frictional or viscous heating phenomena are found in virtually every industrial operation dealing with processing of polymeric materials. This work is aimed at addressing some of the existing shortcomings in modeling non-isothermal polymer flowing processes. Specifically, existing theories suggest that when a polymer melt is subjected to deformation, its internal energy changes very little compared to its conformational entropy. This statement forms the definition of the Theory of Purely Entropic Elasticity (PEE) applied to polymer melts. Under the auspices of this theory, the temperature evolution equation for modeling the polymer melt under an applied deformation is greatly simplified. In this study, using a combination of experimental measurements, continuum-based computer modeling and molecular simulation techniques, the validity of this theory is tested for a wide range of processing conditions. First, we present experimental evidence that this theory is only valid for low deformation regimes. Furthermore, using molecular theory, a direct correlation is found between the relaxation characteristics of the polymer and the flow regime where this theory stops being valid. We present a new and improved form of the temperature equation containing an extra term previously neglected under the PEE assumption, followed by a recipe for evaluating the extra term. The corrected temperature equation is found to give more accurate predictions for the temperature profiles in the high flow rate regimes, in excellent agreement with our experimental measurements. Next, in order to gain a molecular-level understanding of our experimental findings, a series of polydisperse linear alkane systems with average chain lengths between 24 and 78 carbon atoms are modeled with an applied “orienting field” using a highly efficient non- equilibrium Monte Carlo scheme. Our simulation results appear to substantiate our experimental findings. The internal energy change of the oriented conformations is found to be similar in magnitude with the free energy change, indicating that it is not reasonable to be neglected from a macroscopic energy balance. Furthermore, the inter- molecular interactions are found to play a crucial role in the energy balance of the system, which explains why PEE is not obeyed when high degrees of orientation are achieved. In the end, a structural study is performed on highly oriented configurations of n-eicosane generated through steady-state non-equilibrium molecular dynamics (NEMD). We compare the simulated oriented structures to x-ray diffraction data for crystalline n-eicosane, and conclude that a crystalline precursor is formed during the simulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1825</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3247&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1825</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3247</articleid>
+<submission-date>2013-08-20T12:44:45-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4470323</context-key>
+<submission-path>utk_graddiss/1825</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian J. Edwards, David J. Keffer</value>
+</field>
+<field name="advisor2" type="string">
+<value>John R. Collier, James R. Morris</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

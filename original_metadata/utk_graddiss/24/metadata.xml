@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accelerating Quantum Monte Carlo Simulations with Emerging Architectures</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gothandaraman</lname>
+<fname>Akila</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Scientific computing applications demand ever-increasing performance while traditional microprocessor architectures face limits. Recent technological advances have led to a number of emerging computing platforms that provide one or more of the following over their predecessors: increased energy efficiency, programmability/flexibility, different granularities of parallelism, and higher numerical precision support. This dissertation explores emerging platforms such as reconfigurable computing using fieldprogrammable gate arrays (FPGAs), and graphics processing units (GPUs) for quantum Monte Carlo (QMC), a simulation method widely used in physics and physical chemistry. This dissertation makes the following significant contributions to computational science. First, we develop an open-source userfriendly hardware-accelerated simulation framework using reconfigurable computing. This framework demonstrates a significant performance improvement over the optimized software implementation on the Cray XD1 high performance reconfigurable computing (HPRC) platform. We use novel techniques to approximate the kernel functions, pipelining strategies, and a customized fixed-point representation that guarantees the accuracy required for our simulation. Second, we exploit the enormous amount of data parallelism on GPUs to accelerate the computationally intensive functions of the QMC application using NVIDIA’s Compute Unified Device Architecture (CUDA) paradigm. We experiment with single-, double- and mixed- precisions for the CUDA implementation. Finally, we present analytical performance models to help validate, predict, and characterize the application performance on these architectures. Together, this work that combines novel algorithms and emerging architectures, along with the performance models, will serve as a starting point for investigating related scientific applications on present and future heterogeneous architectures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/24</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1054&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>24</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1054</articleid>
+<submission-date>2009-12-21T08:44:01-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1095403</context-key>
+<submission-path>utk_graddiss/24</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Arel, Robert J. Harrison, Robert J. Hinde, Xiaorui Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

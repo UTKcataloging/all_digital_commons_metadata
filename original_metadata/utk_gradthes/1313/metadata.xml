@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Real-Time Mobile Stereo Vision</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bbodkin@utk.edu</email>
+<lname>Bodkin</lname>
+<fname>Bryan Hale</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Stereo</keyword>
+<keyword>Vision</keyword>
+<keyword>Real</keyword>
+<keyword>Time</keyword>
+<keyword>SSE</keyword>
+<keyword>SIMD</keyword>
+<keyword>OpenCV</keyword>
+<keyword>Parallel</keyword>
+<keyword>C++</keyword>
+<keyword>Correspondence</keyword>
+<keyword>Block</keyword>
+<keyword>matching</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Robotics</discipline>
+<discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Computer stereo vision is used extract depth information from two aligned cameras and there are a number of hardware and software solutions to solve the stereo correspondence problem. However few solutions are available for inexpensive mobile platforms where power and hardware are major limitations. This Thesis will proposes a method that competes with an existing OpenCV stereo correspondence method in speed and quality, and is able to run on generic multi core CPU’s.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1313</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2196&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1313</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2196</articleid>
+<submission-date>2011-10-12T13:33:11-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2196/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>2292250</context-key>
+<submission-path>utk_gradthes/1313</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Cao, Jens Gregor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

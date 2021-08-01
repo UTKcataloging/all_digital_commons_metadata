@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design Considerations for Paralleling Multiple Chips in SiC Power Modules</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fyang17@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Yang</lname>
+<fname>Fei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SiC</keyword>
+<keyword>Package</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;With the benefits of fast switching speed, low on-resistance and high thermal conductivity, silicon carbide (SiC) devices are being implemented in converter designs with high efficiency and high power density. Consequently, SiC power modules are needed. However, some of the preestablished package designs for silicon based power modules are not suitable to manifest the advantages of SiC devices. Therefore, this thesis aims at optimizing the package design to utilize the fast switching capability of SiC devices.&lt;/p&gt;
+&lt;p&gt;First, the power loop parasitic inductance induced by the package can lead to large voltage spikes with the fast switching SiC device. It can potentially exceed the device’s voltage ratings and affect its safe operation.&lt;/p&gt;
+&lt;p&gt;Second, to achieve high power density design with SiC devices, the package’s cooling performance needs to be improved.&lt;/p&gt;
+&lt;p&gt;Third, to design a package for high current applications with multiple chips in parallel, a proper scaling method is needed to ensure all the devices undertake the same voltage stress in switching transients. For P-cell/N-cell designs with split scaling, a new parasitic parameter, namely, middle-point parasitic inductance L&lt;sub&gt;middle&lt;/sub&gt; will be introduced. Its role should be understood.&lt;/p&gt;
+&lt;p&gt;Lastly, the unbalanced dynamic switching loss can lead to different state junction temperatures among paralleled devices. Thermal coupling can help to reduce the temperature imbalance, and its role should be quantitatively investigated.&lt;/p&gt;
+&lt;p&gt;To meet the first two requirements, a new package design is proposed with reduced parasitic inductance and double-sided cooling. Compared to a baseline package, more than 60% reduction of parasitic inductance is achieved.&lt;/p&gt;
+&lt;p&gt;The middle-point parasitic inductance’s effect on device’s switching transients is analyzed in the frequency domain. Then a dedicated power module is fabricated with the capability of varying L&lt;sub&gt;middle&lt;/sub&gt;. Experiment results show that as L&lt;sub&gt;middle&lt;/sub&gt; increases, different voltage stresses are imposed on the MOSFET and anti-parallel diode.&lt;/p&gt;
+&lt;p&gt;Electrothermal simulations are implemented to investigate steady state junction temperatures of paralleled devices considering unbalanced switching losses at different thermal coupling conditions. It is observed that both devices’ junction temperatures will increase as the coupling coefficient is increased. However, the junction temperature imbalance will decrease. This is verified by the experiment result.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4964</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6215&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4964</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6215</articleid>
+<submission-date>2017-06-15T15:22:55-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10311366</context-key>
+<submission-path>utk_gradthes/4964</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Daniel J. Costinett</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Prediction of dose-time profiles for solar particle events using neural networks</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Hoff</lname>
+<fname>Jennifer</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;When planning long duration space missions, radiation effects due to large solar particle events (SPEs) can become a major concern. As time in space increases, the chance that a measurable amount of dose is received from a SPE also increases. Therefore, a prediction mechanism for SPEs needs to be in place, which allows spacecraft operators to estimate the time until certain doses are reached following the onset of one of these events. Typical dose-time profiles of these events exhibit a Weibull functional form, which can be described by three fitting parameters. Since the profiles are nonlinear, the use of neural networks to approximate the profiles is ideal. The purpose of this research is to use neural networks to forecast the dose-time profiles of SPEs. A network set comprised of three networks is used to forecast each of the three Weibull parameters based on doses during the early stages of the SPE. The networks either utilize sliding or conventional time delay techniques. Once all three parameters have been forecasted, profiles are determined and compared to actual profiles. Sometimes a second, or even third event occurs before the first event is complete; therefore, the network set also has the ability to determine when one of these &quot;multiple-rise&quot; events occurs and can determine the profile for each subsequent event. From these profiles, radiation doses from a particular event and the length of time until applicable dose limits are reached can be forecasted. This research showed that neural networks do have the ability to forecast the Weibull parameters necessary for describing dose-time profiles of SPEs, both single and multiple-rise. Typically the forecasts were within thirty percent error of the actual profile before half of the event dose was received. Sometimes one or more of the parameters was not adequately forecasted, which caused the event to be either over- or under-predicted. However, when comparing times and doses exceeding particular dose limits, forecasts and actual values were always within a few percent of each other.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5140</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6684&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5140</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6684</articleid>
+<submission-date>2019-02-11T12:24:58-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13799735</context-key>
+<submission-path>utk_graddiss/5140</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence W. Townsend</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

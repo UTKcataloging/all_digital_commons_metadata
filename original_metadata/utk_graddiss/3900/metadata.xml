@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-Area Measurement-Based Applications for Power System Monitoring and Dynamic Modeling</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jchai@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Chai</lname>
+<fname>Jidong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wide-Area Measurement System (WAMS)</keyword>
+<keyword>FNET/GridEye</keyword>
+<keyword>Phasor Measurement Unit (PMU)</keyword>
+<keyword>Power System Monitoring</keyword>
+<keyword>Power System Dynamic Simulation</keyword>
+<keyword>Electric Network Frequency (ENF)</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Due to the increasingly complex behavior exhibited by large-scale power systems with more uncertain renewables introduced to the grid, wide-area measurement system (WAMS) has been utilized to complement the traditional supervisory control and data acquisition (SCADA) system to improve operators’ situational awareness. By providing wide-area GPS-time-synchronized measurements of grid status at high time-resolution, it is able to reveal power system dynamics which cannot be captured before and has become an essential tool to deal with current and future power grid challenges. According to the time requirements of different power system applications, the applications can be roughly divided into online applications (e.g., data visualization, fast disturbance and oscillation detection, and system response prediction and reduction) and offline applications (e.g., measurement-driven dynamic modeling and validation, post-event analysis, and statistical analysis of historical data).&lt;/p&gt;
+&lt;p&gt;In this dissertation, various wide-area measurement-based applications are presented. Firstly a pioneering WAMS deployed at the distribution level, the frequency monitoring network (FNET/GridEye) is introduced. For conventional large-scale power grid dynamic simulation, two major challenges are 1) accuracy of detailed dynamic models, and 2) computation burden for online dynamic assessment. To overcome the restrictions of the traditional approach, a measurement-based system response prediction tool using a Multivariate AutoRegressive (MAR) model is developed. It is followed by a measurement-based power system dynamic reduction tool using an autoregressive model vi to represent the external system. In addition, phasor measurement unit (PMU) data are employed to perform the generator dynamic model validation study. It utilizes both simulation data and measurement data to explore the potentials and limitations of the proposed approach. As an innovative application of using wide-area power system measurement, digital recordings could be authenticated by comparing the extracted frequency and phase angle from recordings with power system measurement database. It includes four research studies, i.e., oscillator error removal, ENF phenomenology, tampering detection, and frequency localization. Finally, several preliminary data analytics studies including inertia estimation and analysis, fault-induced delayed voltage recovery (FIDVR) detection, and statistical analysis of oscillation database, are presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3900</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5288&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3900</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5288</articleid>
+<submission-date>2016-05-24T12:00:32-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8642471</context-key>
+<submission-path>utk_graddiss/3900</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Husheng Li, Chien-fei Chen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

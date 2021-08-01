@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Visual Monitoring of Machining Equipment</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>traglan4@utk.edu</email>
+<lname>Ragland</lname>
+<fname>Timothy Wayne</fname>
+</author>
+</authors>
+<keywords>
+<keyword>image processing</keyword>
+<keyword>image segmentation</keyword>
+<keyword>object recognition</keyword>
+<keyword>visual monitoring</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Metalworking equipment is designed to modify a sheet, rod, or block of metal material in order to shape it for a specific application.  This equipment can operate on the metal by bending it, drilling through it, or by cutting it.  For small-scale operations, many tools require a significant amount of manual input.  Unless the operator has extensive training and experience, the manual input may not be precise enough for fine details that may be needed in some applications.  For example, with a bending brake, obtaining an accurate angle for the bend may be quite difficult.  For a particular application, an error of one degree may not be acceptable.&lt;/p&gt;
+&lt;p&gt;For large-scale operations, the process of metalworking can be automated to be done by machines alone.  However, even with this equipment, certain issues may arise that the machines do not currently consider.  For example, when a cutting tool begins to become dull, it may not be detected immediately.  This dull tip may result in defective or low-quality modifications.  Typically, these potential issues result in the need for humans to spend time inspecting the tools and products, or perhaps even to watch the system during operation to stop it under non-ideal circumstances.&lt;/p&gt;
+&lt;p&gt;This thesis describes an application for detecting excessive metal shavings in the pan of a lathe and applies various algorithms that may be used for this application to determine a successful process for performing this detection in near real-time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1094</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2214&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1094</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2214</articleid>
+<submission-date>2011-11-04T11:21:48-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2331691</context-key>
+<submission-path>utk_gradthes/1094</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andreas F. Koschan, Hairong Qi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

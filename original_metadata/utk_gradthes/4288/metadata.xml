@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>CMOS Based Impedance Sensing</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jgu3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Gu</lname>
+<fname>Jinlong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>impedance sensor</keyword>
+<keyword>silicon cochlea</keyword>
+<keyword>lock-in amplifier</keyword>
+<keyword>ramp ADC</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis focuses on a compact, low power circuit design for biological cell impedance sensing. Cell impedance sensing provides a new way to diagnose the cancers. Experiments done previously have shown that cancer cells have lower impedance than the normal cells, due to the thinner membrane of cancer cells. Traditional methods of cancer diagnosis require special chemicals, skilled personnel, and take long time to obtain the results. Two circuit structures are proposed in this work. One is a silicon cochlea based architecture. The other one is a current mode lock-in amplifier. Both of these two structures are able to measure the cell impedance at four different frequencies simultaneously, a significant advantage over commercially available equipment. Implementation in CMOS also significantly lowers the cost per unit device. A ramp ADC is used to perform data conversion for the silicon cochlea or the LIA. Using one comparator in each channel, it is a low-power structure for multi-channel data conversion.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4288</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5312&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4288</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5312</articleid>
+<submission-date>2016-08-09T11:39:05-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8949186</context-key>
+<submission-path>utk_gradthes/4288</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicole McFarlane</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ben Blalock, Syed Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

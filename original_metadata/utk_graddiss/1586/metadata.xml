@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Engineering Transcriptional Control and Synthetic Gene Circuits in Cell Free systems</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>siyer@utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Iyer</lname>
+<fname>Sukanya</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cell-free systems</keyword>
+<keyword>Synthetic gene circuits</keyword>
+<keyword>Aptamers</keyword>
+<keyword>T7 promoters</keyword>
+</keywords>
+<disciplines><discipline>Biotechnology</discipline>
+</disciplines><abstract>&lt;p&gt;Engineering gene networks offers an opportunity to harness biological function for biotechnological and biomedical applications. In contrast to cell-based systems, cell free extracts offer a flexible and well-characterized context in which to implement predictable gene circuits. Critical to these efforts is the availability of a library of ligand sensitive gene regulatory systems. Here, I describe efforts to develop molecular tools to control gene expression and implement a negative feedback circuit in &lt;em&gt;E.coli&lt;/em&gt; cell extracts. First, a strategy to regulate T7 RNA polymerase using DNA aptamers is detailed. I test the hypothesis that a DNA aptamer, when placed near the transcription start site, interferes with transcription in the presence of the target molecule. A DNA aptamer that binds thrombin is used as a model system for demonstrating feasibility of the approach. I show that for the hybrid T7-aptamer promoter, thrombin addition results in up to a 5-fold reduction in gene expression. I further demonstrate that gene expression be tuned by altering the position of the aptamer relative to the transcription start site. I then devised a mechanism to engineer dual regulation of T7 promoters using LacI and TetR repressor proteins. To achieve this, a LacI binding site (lacO) was positioned 92bp upstream from a T7lacO promoter, which resulted in an increased repression from T7lacO promoters presumably by a looping based mechanism. TetR binding sites were introduced into this framework to disrupt the DNA looping to create T7 promoters that respond to both LacI and TetR. I show that positioning a tetO operator between the upstream lacO and the T7lacO promoter results in relieving lacO mediated repression by TetR. Finally, a negative feedback circuit was realized using T7lacO promoters. To this end, mono-cistronic and bi-cistronic system assembly approaches for system assembly are examined leading to the realization of an inducible negative feedback circuit in cell free systems. Collectively, the tools developed in this work pave the way for expanding the library of ligands that can be used for regulating gene expression, enabling signal integration at T7 promoters and facilitating engineering of gene networks in cell free systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1586</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2747&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1586</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2747</articleid>
+<submission-date>2012-10-31T08:18:33-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2747/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3436237</context-key>
+<submission-path>utk_graddiss/1586</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mitchel J. Doktycz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael L. Simpson, Albrecht G. von Arnim, Barry D. Bruce, Jennifer L. Morrell-Falvey</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-11T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

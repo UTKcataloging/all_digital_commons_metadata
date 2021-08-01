@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Iron Pnictides: Superconductivity in Multi-Orbital Systems</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>anicho13@utk.edu</email>
+<lname>Nicholson</lname>
+<fname>Andrew David</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Superconductivity</keyword>
+<keyword>Correlated Electrons</keyword>
+<keyword>Pnictides</keyword>
+</keywords>
+<disciplines><discipline>Condensed Matter Physics</discipline>
+</disciplines><abstract>&lt;p&gt;This work focuses on the development and implementation of microscopic models as well as their numerical and analytical study to elucidate the properties of the iron pnictides. There are many first principle and phenomenological studies of these materials, but there is a need for unbiased numerical calculations following an approach similar to the one used in the study of the Hubbard and t-J models for the cuprates.&lt;/p&gt;
+&lt;p&gt;First a two orbital model for the pnictides, focusing on two hybridized Fe-d orbitals (dxz and dyz) is formulated, including hoppings between nearest and next nearest neighbors as well as on site Coulomb interactions. This model is studied numerically on a tilted 8-site cluster. The magnetic tendencies and the pairing operators allowed by lattice and orbital symmetries are calculated including a study of which of these operators are favored in the model.&lt;/p&gt;
+&lt;p&gt;Next, Heisenberg terms, deduced from a strong coupling expansion, are added to enhance magnetic order found experimentally as well as to increase carrier attraction. Superconducting pairing symmetries are studied in both the hole and electron doped cases. In both cases, many pairing symmetries compete (A1g, B2g, B1g) in the physical parameter regime suggesting that small changes in parameters may render any of these three channels stable. In the hole doped case, ground states with pseudocrystal momentum k=(pi,pi) in the unfolded Brillouin zone are found. In the two Fe-atom unit cell, this indicates that the ground state involves anti-bonding, rather than bonding, combinations of the orbitals. The lowest state with k=(0,0) has only a slightly higher energy and may become the favored state in some regions of parameter space.&lt;/p&gt;
+&lt;p&gt;To investigate the role that degeneracy, hybridization and nesting play in the origin of magnetic order in the pnictides we introduce a phenomenological two orbital model composed of non-hybridized bands. Using a variety of techniques, in the weak coupling regime it is shown that only the model with hybridized bands develops magnetic order while the other does not have local magnetization. However, both models display similar insulating magnetic order in the strong coupling limit. These results indicate that nesting is a necessary but not sufficient condition for the development of ordered states with local magnetization in multi-orbital Hubbard systems; the additional requirement is that the nested portions of the bands have the same orbital flavor. This condition can be achieved via strong hybridization of the orbitals in the weak coupling limit or via Fermi surface reconstruction induced by Coulomb interactions in the strong coupling regime.&lt;/p&gt;
+&lt;p&gt;Finally, a three orbital model is developed which, in addition to the Fe 3-dxz and dyz orbitals, takes into account the Fe 3-dxy orbital, which is found to have weight in a small region around the Fermi surface in bandstructure calculations. Mean field calculations are performed guided by the results of the two orbital model. The proceeds of this work include the discovery of four distinct magnetic phases in the model as well as the tabulation of a variety of pairing operators and their single particle spectral functions to be compared with experimental observations. Good agreement is found between both models for the magnetic tendencies and pairing symmetries.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1411</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2638&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1411</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2638</articleid>
+<submission-date>2012-07-09T09:38:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3065819</context-key>
+<submission-path>utk_graddiss/1411</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adriana Moreo</value>
+</field>
+<field name="advisor2" type="string">
+<value>Elbio Dagotto, Michael Guidry, Janice Musfeldt</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Low Power Mid-Rail Dual Slope Analog-To-Digital Converter for Biomedical Instrumentation</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dhamlin1@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Hamlin</lname>
+<fname>Dallas</fname>
+<mname>Wayne</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;There are an estimated 15 million babies born preterm every year and it is on the rise. The complications that arise from this can be quite severe and are the leading causes of death among children under 5 years of age. Among these complications is a condition known as apnea. This disorder is defined as the suspension of breathing during sleep for usually 10 to 30 seconds and can occur up to 20-30 times per hour for preterm infants. This lack of oxygen in the bloodstream can have troubling effects, such as brain damage and death if the apnea period is longer than expected. This creates a dire need to continuously monitor the respiration state of babies born prematurely. Given that the breathing signal is in analog form, a conversion to its digital counterpart is necessary.In this thesis, a novel low power analog-to-digital converter (ADC) for the digitization and analyzation of the respiration signal is presented. The design of the ADC demonstrates an innovative approach on how to operate on a single polarity supply system, which effectively doubles the sampling speed. The ADC has been realized in a standard 130 nm CMOS process.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5027</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6434&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5027</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6434</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414688</context-key>
+<submission-path>utk_gradthes/5027</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Nicole McFarlane</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

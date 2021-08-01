@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Characterization Methodology, Modeling, and Converter Design for 600 V Enhancement-Mode GaN FETs</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Jones</lname>
+<fname>Edward</fname>
+<mname>Andrew</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Gallium Nitride (GaN) power devices are an emerging technology that have only become available commercially in the past few years. This new technology enables the design of converters at higher frequencies and efficiencies than those achievable with conventional Si devices. This dissertation reviews the unique characteristics, commercial status, and design challenges that surround GaN FETs, in order to provide sufficient background to potential GaN-based converter designers.Methodology for experimentally characterizing a GaN FET was also presented, including static characterization with a curve tracer and impedance analyzer, as well as dynamic characterization in a double pulse test setup. This methodology was supplemented by additional tests to determine losses caused by Miller-induced cross talk, and the tradeoff between these losses and overlap losses was studied for one example device.Based on analysis of characterization results, a simplified model was developed to describe the overall switching behavior and some unique features of the device. The impact of the Miller effect during the turn-on transient was studied, as well as the dynamic performance of GaN at elevated temperature.Furthermore, solutions were proposed for several key design challenges in GaN-based converters. First, a driver-integrated overcurrent and short-circuit protection scheme was developed, based on the relationship between gate voltage and drain current in GaN gate injection transistors. Second, the limitations on maximum utilization of current and voltage in a GaN FET were studied, particularly the voltage overshoots following turn-on and turn-off switching transients, and the effective cooling of GaN FETs in higher power operation. A thermal design was developed for heat extraction from bottom-cooled surface-mount devices. These solutions were verified in a GaN-based full-bridge single-phase inverter.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4932</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6473&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4932</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6473</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415078</context-key>
+<submission-path>utk_graddiss/4932</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fei Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel J. Costinett, Lee L. Riedinger, Leon M. Tolbert</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-0636-7810</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

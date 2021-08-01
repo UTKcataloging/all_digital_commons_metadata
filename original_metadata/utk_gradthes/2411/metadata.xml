@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Control of Differential Equations with Pure State Constraints</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sfassino@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fassino</lname>
+<fname>Steven</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<keywords>
+<keyword>optimal control</keyword>
+<keyword>state constraint</keyword>
+</keywords>
+<abstract>&lt;p&gt;Our work stems from examining a mathematical model that uses ordinary differential equations to describe the dynamics of running. Previous work determined the optimal running strategy for how a runner should control his/her force to maximize the distance run in a given time. Distance covered is determined by the runner&#39;s velocity. The runner&#39;s velocity is subject to the state differential equations that are based on Newton&#39;s Second Law and general energy flux. For physical reasonableness, we must assume energy cannot be non-negative, which is a pure state constraint. Thus we solve the optimal control problem applied to running that involves differential equations with pure state constraints.&lt;/p&gt;
+&lt;p&gt;Before solving the runner problem with the pure state constraint, we start by solving simpler problems through implementing both direct and indirect methods. Applying optimal control theory, these methods append to the Hamiltonian a penalty function that either multiplies the state constraint directly or indirectly. Some of our examples can be solved explicitly by using optimal control techniques and solving ordinary differential equations exactly. Regardless for all of our examples, we illustrate numerical solutions approximating the optimality system.&lt;/p&gt;
+&lt;p&gt;When analyzing the runner problem and its state constraint, we vary the type of control implemented. We first look at the problem with a linear dependence on the control. We have difficulty achieving the singular interval and maintaining non-negativity of energy, thus realizing the challenge of solving this problem. So we approximate the runner problem with a small quadratic dependence on the control. In this case, to satisfy the energy constraint, we first attempt to find the penalty function and then try placing a terminal condition on the energy state. We show the numerical results for the optimality systems of the various formulations of the runner problem. We conclude that the pure state constraint of energy proves difficult to implement regardless the type of control.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2411</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2867&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2411</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2867</articleid>
+<submission-date>2013-06-20T13:34:32-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4247877</context-key>
+<submission-path>utk_gradthes/2411</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Steven M. Wise, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

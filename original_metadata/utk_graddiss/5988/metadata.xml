@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Concept-driven visualization for terascale data analytics</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Glatter</lname>
+<fname>Markus</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer science</keyword>
+</keywords>
+<abstract>&lt;p&gt;Over the past couple of decades the amount of scientific data sets has exploded. The science community has since been facing the common problem of being drowned in data, and yet starved of information. Identification and extraction of meaningful features from large data sets has become one of the central problems of scientific research, for both simulation as well as sensory data sets. The problems at hand are multifold and need to be addressed concurrently to provide scientists with the necessary tools, methods, and systems. Firstly, the underlying data structures and management need to be optimized for the kind of data most commonly used in scientific research, i.e. terascale time-varying, multi-dimensional, multi-variate, and potentially non-uniform grids. This implies avoidance of data duplication, utilization of a transparent query structure, and use of sophisticated underlying data structures and algorithms.Secondly, in the case of scientific data sets, simplistic queries are not a sufficient method to describe subsets or features. For time-varying data sets, many features can generally be described as local events, i.e. spatially and temporally limited regions with characteristic properties in value space. While most often scientists know quite well what they are looking for in a data set, at times they cannot formally or definitively describe their concept well to computer science experts, especially when based on partially substantiated knowledge. Scientists need to be enabled to query and extract such features or events directly and without having to rewrite their hypothesis into an inadequately simple query language. Thirdly, tools to analyze the quality and sensitivity of these event queries itself are required. Understanding local data sensitivity is a necessity for enabling scientists to refine query parameters as needed to produce more meaningful findings.Query sensitivity analysis can also be utilized to establish trends for event-driven queries, i.e. how does the query sensitivity differ between locations and over a series of data sets. In this dissertation, we present an approach to apply these interdependent measures to aid scientists in better understanding their data sets. An integrated system containing all of the above tools and system parts is presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5988</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7921&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5988</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7921</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467611</context-key>
+<submission-path>utk_graddiss/5988</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

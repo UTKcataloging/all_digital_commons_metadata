@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Remote Monitoring of Barowell Pumps Using a Radio Link</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Schwer</lname>
+<fname>Paul</fname>
+<mname>R</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Barowell pumps are notorious for having problems and failures, which sometimes occur at the most inopportune times during aeropropulson testing. These failures could be better predicted with proper health monitoring. Continuous monitoring of changes in the health of the pump would allow timely preventive and corrective maintenance to be performed as necessary to reduce failures and reduce plant downtime.&lt;/p&gt;
+&lt;p&gt;This thesis addresses a wireless method to monitor these pumps remotely by a user located in the control room. The operator can note the ultrasonic amplitude of the bearings on the pumps and make a decision to schedule preventive maintenance.&lt;/p&gt;
+&lt;p&gt;An UE Ultra-Trak 750 ultrasonic microphone was used to produce the analog data. Its output was put through an anti-alias filter and then digitized. An Analog Devices ADuC 7024 microcontroller was used to sample and digitize the data. Digital data was then sent out over the UART to a MaxStream 9XTend RF Module. This module sent the data over a radio link where it was received and processed using the Computer Assisted Dynamic Data Monitoring and Analysis System (CADDMAS) at AEDC. The design and development of this system is described in detail herein.&lt;/p&gt;
+&lt;p&gt;The system was designed with a two-channel capacity. The system used a 4 kHz multiplexed A/D to obtain a 2 kHz sample rate per channel and the data was sent out at baud rate of 115200 via a 900 MHz serial RF modem. After development, the system performed the desired function of transmitting the ultrasonic vibration data to the user for evaluation. Data was reliably transmitted at 10mW over the air to a host computer located approximately 120 ft where it was successfully processed.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/438</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1474&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>438</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1474</articleid>
+<submission-date>2010-02-17T09:53:11-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1150382</context-key>
+<submission-path>utk_gradthes/438</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Bruce W. Bomar</value>
+</field>
+<field name="advisor2" type="string">
+<value>L. Montgomery Smith, Bruce A. Whitehead</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/SchwerPaul.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

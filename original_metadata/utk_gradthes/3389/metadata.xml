@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Time Series Analysis of MODIS NDVI data with Cloudy Pixels: Frequency-domain and SiZer analyses of vegetation change in Western Rwanda</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>elove4@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Love</lname>
+<fname>Ephraim</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Spatial Statistics</keyword>
+<keyword>GAM</keyword>
+<keyword>Frequency Domain</keyword>
+<keyword>Rwanda</keyword>
+<keyword>NDVI</keyword>
+<keyword>Remote Sensing</keyword>
+</keywords>
+<disciplines><discipline>African Studies</discipline>
+<discipline>Environmental Studies</discipline>
+<discipline>Geographic Information Sciences</discipline>
+<discipline>Nature and Society Relations</discipline>
+<discipline>Peace and Conflict Studies</discipline>
+<discipline>Physical and Environmental Geography</discipline>
+<discipline>Policy Design, Analysis, and Evaluation</discipline>
+<discipline>Remote Sensing</discipline>
+<discipline>Social Policy</discipline>
+<discipline>Spatial Science</discipline>
+</disciplines><abstract>&lt;p&gt;Remote sensing is a valuable source of data for the study of human ecology in rural areas. In this thesis, I attempt to analyze the presence of a long-term trend indicative of post-resettlement adaptation in the vegetation signals of Western Rwanda. There is a dearth of research utilizing medium resolution imagery to study difficult environments, such as tropical-montane regions, where complex topography and cloud cover diminish image accuracy. I attempt to add to the extant literature on frequency-domain smoothing methods as well as the literature on human-environment interaction in tropical-montane regions by applying a &lt;em&gt;harmonic filtering and smoothing algorithm&lt;/em&gt; to the ‘MOD13Q1’, 16-day composite, 250m, NDVI, MODIS imagery. To create a more robust time-series, I combine Gaussian generalized additive models and discrete Fourier analysis of the residuals to impute values to a filtered time series, based on MODIS’s own pixel reliability data. These methods significantly improve the quality of the time-series being analyzed, compared with the raw data, or imputation of the mean signal. To control for conflating variables, I take a &lt;em&gt;difference-in-differences&lt;/em&gt; (DD) approach (Abadie, 2005) comparing resettled regions to older regions, identified in Google Earth. Harmonic filtering and smoothing shows a definite long-term trend of post-resettlement changes in the vegetation signal, demonstrated by the DD approach, analyzed in SiZer maps (Chaudhuri &amp; Marron, 1999). Further research will be needed to determine whether this is indicative of cropping changes, or other impacts of post-resettlement adaptation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3389</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4754&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3389</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4754</articleid>
+<submission-date>2015-04-13T06:36:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6974753</context-key>
+<submission-path>utk_gradthes/3389</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Nicholas N. Nagle</value>
+</field>
+<field name="advisor2" type="string">
+<value>Liem Tran, Yingkui Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

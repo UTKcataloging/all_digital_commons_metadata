@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Energy Based Blending of Classical Elasticity and Peridynamics</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Berry</lname>
+<fname>Kileen</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The aim of this dissertation is to study both the analytical and numerical properties of the Energy-Based Blending Model. This model was proposed in \cite{lubineau2012morphing} as a way to model material behavior and deformation under forces, that could capture discontinuous deformations accurately while remaining computationally cost effective. Starting by looking through the lens of differential equations and functional analysis, properties analogous to ones that are well-known for the Laplace equation are established for the energy-based blended model. These properties include a weak formulation of the Dirichlet-type boundary value problem, a norm under which the function space is Hilbert, embeddings, a Poincare’-type inequality, and existence/uniqueness of solutions. In this dissertation, proofs of these properties are also included for the classical model, the bond-based peridynamic model for analogy.Looking at the model through the lens of numerical analysis, these models are solved using the finite element method. A Cea-type lemma and a best approximation theorem are shown for all three models. Further a discussion of the implementation of the finite element method for the models is included. In this discussion, the differences in the approaches are highlighted.  Through $L^2$ and $H^1$ error analysis, it is shown that for smooth solutions the convergence rates of the models agree. Although for both the classical and the PD models, zero force results in a linear solution, the same cannot be said for the blended model. The analysis shows that the size of this \emph{ghost} force is dependent on the smoothness of the blending function and the ratio of the length of the blending region to the material horizon, $\delta$. As expected, increasing the length of the blending region, decreases the size of the ghost force. Although it was previously believed that a smoother blending function would cause a smaller ghost force, the included analysis has shown the optimal smoothness for the blending function depends on the ratio of length of the blending region to the horizon. Specifically, when this ratio is small, using the continuous piecewise linear rather than the continuously differentiable piecewise cubic blending function leads to a smaller ghost force.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5615</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7261&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5615</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7261</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911658</context-key>
+<submission-path>utk_graddiss/5615</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tadele Mengesha, Steven Wise</value>
+</field>
+<field name="advisor2" type="string">
+<value>Abner Salgado, Pablo Seleson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

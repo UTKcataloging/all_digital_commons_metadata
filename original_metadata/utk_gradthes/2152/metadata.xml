@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Civilian Target Recognition using Hierarchical Fusion</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Lakshminarayanan</lname>
+<fname>Balasubramanian</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The growth of computer vision technology has been marked by attempts to imitate human behavior to impart robustness and confidence to the decision making process of automated systems. Examples of disciplines in computer vision that have been targets of such efforts are Automatic Target Recognition (ATR) and fusion. ATR is the process of aided or unaided target detection and recognition using data from different sensors. Usually, it is synonymous with its military application of recognizing battlefield targets using imaging sensors. Fusion is the process of integrating information from different sources at the data or decision levels so as to provide a single robust decision as opposed to multiple individual results. This thesis combines these two research areas to provide improved classification accuracy in recognizing civilian targets. The results obtained reaffirm that fusion techniques tend to improve the recognition rates of ATR systems.&lt;/p&gt;
+&lt;p&gt;Previous work in ATR has mainly dealt with military targets and single level of data fusion. Expensive sensors and time-consuming algorithms are generally used to improve system performance. In this thesis, civilian target recognition, which is considered to be harder than military target recognition, is performed. Inexpensive sensors are used to keep the system cost low. In order to  compensate for the reduced system ability, fusion is performed at two different levels of the ATR system { event level and sensor level. Only preliminary image processing and pattern recognition techniques have been used so as to maintain low operation times. High classification rates are obtained using data fusion techniques alone. Another contribution of this thesis is the provision of a single framework to perform all operations from target data acquisition to the final decision making.&lt;/p&gt;
+&lt;p&gt;The Sensor Fusion Testbed (SFTB) designed by Northrop Grumman Systems has been used by the Night Vision &amp; Electronic Sensors Directorate to obtain images of seven different types of civilian targets. Image segmentation is performed using background subtraction. The seven invariant moments are extracted from the segmented image and basic classification is performed using k Nearest Neighbor method. Cross-validation is used to provide a better idea of the classification ability of the system. Temporal fusion at the event level is performed using majority voting and sensor level fusion is done using Behavior-Knowledge Space method.&lt;/p&gt;
+&lt;p&gt;Two separate databases were used. The first database uses seven targets (2 cars, 2 SUVs, 2 trucks and 1 stake body light truck). Individual frame, temporal fusion and BKS fusion results are around 65%, 70% and 77% respectively. The second database has three targets (cars, SUVs and trucks) formed by combining classes from the first database. Higher classification accuracies are observed here. 75%, 90% and 95% recognition rates are obtained at frame, event and sensor levels. It can be seen that, on an average, recognition accuracy improves with increasing levels of fusion. Also, distance-based classification was performed to&lt;/p&gt;
+&lt;p&gt;study the variation of system performance with the distance of the target from the cameras. The results are along expected lines and indicate the efficacy of fusion techniques for the ATR problem. Future work using more complex image processing and pattern recognition routines can further improve the  classification performance of the system. The SFTB can be equipped with these algorithms and field-tested to check real-time performance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2152</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3529&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2152</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3529</articleid>
+<submission-date>2013-10-08T11:12:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4684075</context-key>
+<submission-path>utk_gradthes/2152</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Daniel B. Koch, Seong G. Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

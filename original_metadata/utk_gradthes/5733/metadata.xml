@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical simulation ( a lumped transient model) for QPS modular coils with embedded copper tubes and subsequent experimental verification</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Kandala</lname>
+<fname>Bhargav</fname>
+<mname>Telikicherla</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Mechanical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;The Quasi-Poloidal Stellerator (QPS) consists of complex shaped modular coils consisting of a tightly packed Cu-polymer composite to carry the high current needed to develop the plasma. During this process, the conductor temperature rises to about 60°C. Before the next current pulse, the conductor must be cooled to room temperature in order to prevent temperature ratcheting over the duty cycle. Computational analysis on various cooling schemes across the conductor cross-section showed that the best results are achieved by internal cooling via copper tubes embedded in the middle of each conductor. The motivation for this research was to develop a simple engineering tool capable of predicting the cooling response of the centrally cooled long conductors and for this purpose a lumped transient model was developed. In this model, the conductor length was divided into equal number of segments of uniform length.Each water element underwent heat transfer with each composite element as it moved through inlet of tube to outlet. The effect of temperature gradient across the conductor width was modeled by introducing a radial heat resistance length parameter (L*). To verify the model predictions, a 5.5 m long conductor with embedded copper tube in the middle was cast in a racetrack shape by vacuum impregnating the conductor with CTD 403 cyanate ester polymer. The conductor was then heated to two different temperatures (T = 60°C &amp; 80°C) and then cooled by water flowing through the tube at different flow rates. The exit water temperature and the outer surface temperature of the conductor at various points across its length were monitored during the entire experiment. One of the experimental data sets was used to obtain the value of L* and the same L* was used to predict the cooling curves for all other T and flow rate combinations.The comparison between experiments and model predictions show that the transient lumped analysis in conjunction with the radial heat resistance parameter provided a good engineering tool to understand the cooling behavior of long conductors. The model was then applied to the actual QPS conductor (36 m long) and its cooling curves were predicted.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5733</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7355&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5733</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7355</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467495</context-key>
+<submission-path>utk_gradthes/5733</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Madhu S. Madhukar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

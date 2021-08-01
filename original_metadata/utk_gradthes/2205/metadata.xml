@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mechanical Design and Analysis of a Discrete Variable Transmission System for Transmission-Based Actuators</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sridharan</lname>
+<fname>Sriram</fname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Over the past few years, replacing the hydraulic servo actuators with their electrical counter parts for robotics and remote handling systems has been an active field of research. These systems are of particular interest for tasks involved with the US Department of Energy, where the level of radiation exposure is high and the tasks are highly repetitive. With the hydraulic servo actuators, one is concerned with the issues like the high complexity, cost of the system and the difficulty of maintenance of the system. For high payload operations, the hydraulic systems provide an order of magnitude increase in the power density, which is almost impossible to achieve using the electrical servo actuators. Hence, for the electrical servo actuators to be used for high payload operations, the fundamental issue concerning the power and torque density must be addressed. Previous research conducted on this front suggested the use of a variable speed transmission system to spread the servomotor’s torque-speed characteristics across a wider output speed range. This has the effect of allowing smaller high power motors to also deliver high torques at low speeds. By using a variable speed transmission, the motor size can be reduced dramatically while increasing the overall actuator power density in the process. This work goes further into the detailed design of the discrete variable transmission system. A three-stage planetary gear transmission system is considered for the analysis and design.&lt;/p&gt;
+&lt;p&gt;With the use of the three-stage planetary gear transmission, there are a complex and varied design issues involved. Selecting a configuration for the transmission is the first question to be answered. With the given configuration, and the ratios required the individual gears have to be sized accordingly. Other design elements involve the design of the shafting, achieving the desired configuration, bearings, housing and the design of a gear shifting mechanism. A detailed kinematic and dynamic analysis of the entire gear system is required for the design of the various components mentioned above. Analytical results are presented along with a computer-aided analysis of the work using the Pro-Engineer design and analysis software. Future work on this will be to turn this into a commercially available system, which comes down to optimizing the current design. Possibilities of optimization for the current design will be identified. A discussion on the prototype evaluation of the transmission system along with a sample test result is presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2205</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3619&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2205</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3619</articleid>
+<submission-date>2013-10-10T12:52:54-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4693725</context-key>
+<submission-path>utk_gradthes/2205</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Arnold Lumsdaine</value>
+</field>
+<field name="advisor2" type="string">
+<value>William R. Hamel, Frank H. Speckhart</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

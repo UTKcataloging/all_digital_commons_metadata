@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Visual analytics for relationships in scientific data</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>New</lname>
+<fname>Joshua</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer science</keyword>
+</keywords>
+<abstract>&lt;p&gt;Domain scientists hope to address grand scientific challenges by exploring the abundance of data generated and made available through modern high-throughput techniques. Typical scientific investigations can make use of novel visualization tools that enable dynamic formulation and fine-tuning of hypotheses to aid the process of evaluating sensitivity of key parameters. These general tools should be applicable to many disciplines: allowing biologists to develop an intuitive understanding of the structure of coexpression networks and discover genes that reside in critical positions of biological pathways, intelligence analysts to decompose social networks, and climate scientists to model extrapolate future climate conditions. By using a graph as a universal data representation of correlation, our novel visualization tool employs several techniques that when used in an integrated manner provide innovative analytical capabilities. Our tool integrates techniques such as graph layout, qualitative subgraph extraction through a novel 2D user interface, quantitative subgraph extraction using graph-theoretic algorithms or by querying an optimized B-tree, dynamic level-of-detail graph abstraction, and template-based fuzzy classification using neural networks. We demonstrate our system using real-world workflows from several large-scale studies. Parallel coordinates has proven to be a scalable visualization and navigation framework for multivariate data. However, when data with thousands of variables are at hand, we do not have a comprehensive solution to select the right set of variables and order them to uncover important or potentially insightful patterns. We present algorithms to rank axes based upon the importance of bivariate relationships among the variables and showcase the efficacy of the proposed system by demonstrating autonomous detection of patterns in a modern large-scale dataset of time-varying climate simulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5986</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7919&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5986</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7919</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467599</context-key>
+<submission-path>utk_graddiss/5986</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

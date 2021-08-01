@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Mixed-Mode Dynamic Crack Propagation using the Discontinuous Galerkin Method</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rhollman@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hollman</lname>
+<fname>Russell</fname>
+<mname>Thomas</mname>
+</author>
+</authors>
+<keywords>
+<keyword>cohesive zone modeling</keyword>
+<keyword>Kalthoff-Winkler</keyword>
+<keyword>discontinuous galerkin</keyword>
+<keyword>nonlinear fracture mechanics</keyword>
+<keyword>impact-loaded prenotched plate</keyword>
+<keyword>numerical fracture mechanics</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A recently proposed Discontinuous Galerkin (DG) method for modeling nonlinear fracture mechanics problems in the context of the finite element method is investigated. The DG method provides a framework for fracture mechanics by employing interface elements within the region of interest where cracking is expected. Previous studies have shown that the use of traction-separation laws within the DG method have enhanced stability for dynamic problems by removing the issue of artificial compliance compared to intrinsic cohesive zone elements. The purpose of this thesis is to apply the DG method to a mixed-mode dynamic crack propagation problem, namely the Kalthoff-Winkler experiment. The Kalthoff-Winkler experiment is a benchmark dynamic fracture problem for predicting crack propagation in an impact-loaded prenotched plate. While this problem has been simulated using other numerical methods, the DG method has not yet been investigated in this mixed-mode dynamic context. Mesh sensitivity has been found in the case of intrinsic cohesive zone models; the inherent stability of the DG method in the dynamic context may lessen the degree of sensitivity. The DG method is applied to the Kalthoff-Winkler experiment using multiple meshes: structured and unstructured, linear and quadratic, coarse and refined, and the resultant crack paths from several simulations do not agree closely. An additional contribution of this thesis is a novel technique for visualizing cohesive element data through wireframe figures. The technique produces illustrations for visualizing zero-thickness interface elements as thin lines, upon which cohesive element data can be conveyed with color contouring. Possible explanations regarding the disagreement of simulated crack paths are suggested.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4749</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5248&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4749</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5248</articleid>
+<submission-date>2016-06-17T13:48:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8746601</context-key>
+<submission-path>utk_gradthes/4749</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy J. Truster</value>
+</field>
+<field name="advisor2" type="string">
+<value>Nicholas E. Wierschem, Dayakar Penumadu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

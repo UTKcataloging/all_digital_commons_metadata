@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Parallel Simulation of Individual-Based, Physiologically-Structured Population and Predator-Prey Ecology Models</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Nichols</lname>
+<fname>Jeffrey</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Utilizing as testbeds physiologically-structured, individual-based models for fish and &lt;em&gt;Daphnia&lt;/em&gt; populations, techniques for the parallelization of the simulation are developed and analyzed. The techniques developed are generally applicable to individual-based models. For rapidly reproducing populations like &lt;em&gt;Daphnia&lt;/em&gt; which are load balanced, then global birth combining is required. Super-scalar speedup was observed in simulations on multi-core desktop computers.&lt;/p&gt;
+&lt;p&gt;The two populations are combined via a size-structured predation module into a predator-prey system with sharing of resource weighted by relative mass. The individual-based structure requires multiple stages to complete predation.&lt;/p&gt;
+&lt;p&gt;Two different styles of parallelization are presented. The first distributes both populations. It decouples the populations for parallel simulation by compiling, at each stage, tables of information for each of the distributed predators. Predation is completed for all fish at one time. This method is found to be generally applicable, has near perfect scaling with increasing processors, and improves performance as the workload to communications ratio improves with increasing numbers of predator cohorts. But it does not take best advantage of our testbed models.&lt;/p&gt;
+&lt;p&gt;The second design decouples the workload for parallel simulation by duplicating the predator population on all nodes. This reduces communications to simple parallel reductions similar to the population models, but increases the number of cycles required for predation. The performance of the population models is mimicked.&lt;/p&gt;
+&lt;p&gt;Finally, the extinction and persistence behaviors of the predator-prey model are analyzed. The roles of the predation parameters, individual models, and initial populations are determined. In the presence of density-dependent mortality moderating the prey population, competition via resource of the larger fish versus the smaller is found to be a vital control to prevent extinction of prey population. If unconstrained, the juvenile fish classes can — through their rapid initial growth and predation upon the juvenile prey classes — push the prey population to extinction. Persistence of the predator-prey community is thus threatened when the fish population is dominated by juveniles. Conversely, the presence of larger fish moderates the juveniles and stabilizes the community via competition for shared resource.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/368</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1429&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>368</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1429</articleid>
+<submission-date>2010-02-16T10:18:31-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1147794</context-key>
+<submission-path>utk_graddiss/368</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Thomas G. Hallam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Don Hinton, Lou Gross, Charles Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/NicholsJeff.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Low-Power BFSK/OOK Transmitter for Wireless Sensors</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mjahan@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jahan</lname>
+<fname>Mohammed</fname>
+<mname>Shahriar</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Transmitter</keyword>
+<keyword>Low-Power</keyword>
+<keyword>ISM</keyword>
+<keyword>915 MHz</keyword>
+<keyword>Gain-boosted</keyword>
+<keyword>BFSK</keyword>
+<keyword>OOK</keyword>
+<keyword>Hybrid prescaler</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, significant improvements in semiconductor technology have allowed consistent development of wireless chipsets in terms of functionality and form factor. This has opened up a broad range of applications for implantable wireless sensors and telemetry devices in multiple categories, such as military, industrial, and medical uses. The nature of these applications often requires the wireless sensors to be low-weight and energy-efficient to achieve long battery life. Among the various functions of these sensors, the communication block, used to transmit the gathered data, is typically the most power-hungry block. In typical wireless sensor networks, transmission range is below 10 meters and required radiated power is below 1 milliwatt. In such cases, power consumption of the frequency-synthesis circuits prior to the power amplifier of the transmitter becomes significant. Reducing this power consumption is currently the focus of various research endeavors. A popular method of achieving this goal is using a direct-modulation transmitter where the generated carrier is directly modulated with baseband data using simple modulation schemes.&lt;/p&gt;
+&lt;p&gt;Among the different variations of direct-modulation transmitters, transmitters using unlocked digitally-controlled oscillators and transmitters with injection or resonator-locked oscillators are widely investigated because of their simple structure. These transmitters can achieve low-power and stable operation either with the help of recalibration or by sacrificing tuning capability. In contrast, phase-locked-loop-based (PLL) transmitters are less researched. The PLL uses a feedback loop to lock the carrier to a reference frequency with a programmable ratio and thus achieves good frequency stability and convenient tunability.&lt;/p&gt;
+&lt;p&gt;This work focuses on PLL-based transmitters. The initial goal of this work is to reduce the power consumption of the oscillator and frequency divider, the two most power-consuming blocks in a PLL. Novel topologies for these two blocks are proposed which achieve ultra-low-power operation. Along with measured performance, mathematical analysis to derive rule-of-thumb design approaches are presented. Finally, the full transmitter is implemented using these blocks in a 130 nanometer CMOS process and is successfully tested for low-power operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3427</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4809&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3427</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4809</articleid>
+<submission-date>2015-04-21T10:02:12-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7013793</context-key>
+<submission-path>utk_graddiss/3427</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin B. Blalock, Syed K. Islam, Christopher Cherry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

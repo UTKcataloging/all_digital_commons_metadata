@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated System to Debug Under-performing Network Flows in Wide Area Networks</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Tandra</lname>
+<fname>Harika</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Locating the cause of performance losses in large high performance Wide Area Networks (WAN) is an extremely challenging problem. This is because WANs comprise several distributed sub-networks (Autonomous Networks), with their own independent network monitoring systems. Each individual monitoring system has limited or no access to network devices outside its own network. Moreover, conventional network monitoring systems are designed only to provide information about the health of individual network devices, and do not provide sufficient information to monitor endto- end performance – thus, adding severe overhead on debugging end-toend performance issues.&lt;/p&gt;
+&lt;p&gt;In this thesis, an automated tool is designed that requires no special access to network devices and no special software installations on the network devices or end hosts. The system detects performance losses and locates the most likely problem nodes (routers/links) in the network. A key component of this system is the novel hybrid network monitoring/data collection system. The monitoring/data collection sub-system is designed to obtain the best of both active and passive monitoring techniques. Then, pattern analysis algorithms are designed. They locate the causes of performance loss using the data collected from above sub-system.&lt;/p&gt;
+&lt;p&gt;This system is being tested on the GLORIAD (Global Ring Network for Advanced Application Development) network. One of the future goals is to in tegrate this system into the GLORIAD’s network monitoring tool set, to provide end-to-end network monitoring and problem mitigation capabilities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/562</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1595&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>562</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1595</articleid>
+<submission-date>2010-03-01T09:52:25-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1182486</context-key>
+<submission-path>utk_gradthes/562</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Itamar Arel, Robert C.Ward</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

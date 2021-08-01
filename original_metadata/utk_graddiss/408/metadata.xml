@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling Coordinate Measuring Machine Scanning Operations</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennesse - Knoxville</institution>
+<lname>Moor</lname>
+<fname>Pamela</fname>
+<mname>Murray</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;International standards require that dimensional inspection operations include an assessment of measurement uncertainty. Scanning coordinate measuring machines (CMMs) are frequently used to measure part surfaces and features, and there is a continuing need to improve their performance for high precision measurement applications. This research provides a mechanism for minimizing the uncertainty of measurements made with a CMM in scanning mode by developing a model of CMM scanning that allows selection of optimum scanning parameters.&lt;/p&gt;
+&lt;p&gt;The method for selecting scanning parameters is based on models developed from measurements of a ring with a constant five micrometer amplitude swept sine wave machined on the inner and outer diameters. The inputs to the model are the scanning force, scanning speed, low-pass filter cut-off frequency, rotary table action, probe tip diameter, and ring orientation. The methods used in this work are based on techniques developed for point-to-point probing. The first phase of research develops a calibration method for the ring artifact and determines the calibration measurement uncertainty. The second phase develops models of CMM scanning operations based on measurements of the wavy ring. The final phase generates a measurement protocol to select scanning parameters based on these models.&lt;/p&gt;
+&lt;p&gt;The primary significance of this research is that it provides a method to develop and validate a model of probe/workpiece interaction for a scanning CMM. Additionally, a method is provided to select the scanning parameters such as probe tip diameter, filters, scanning speed, and probing force to minimize measurement uncertainty. Finally, this work establishes a framework for future modeling of precision scanning operations. The methodology used is applicable to other precision metrology applications. This work will reduce uncertainty in scanning measurements and will minimize the number of measurement operations required to measure part features as well as surface texture. Therefore, this research has extended the capabilities of CMMs.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/408</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1469&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>408</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1469</articleid>
+<submission-date>2010-02-17T09:29:43-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1150282</context-key>
+<submission-path>utk_graddiss/408</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gary V. Smith, Jay Frankel, Lynne E. Parker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/MoorPamelaMurray.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

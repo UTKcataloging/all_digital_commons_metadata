@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Merging Data Sources to Predict Remaining Useful Life – An Automated Method to Identify Prognostic Parameters</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jcoble1@utk.edu</email>
+<lname>Coble</lname>
+<fname>Jamie Baalis</fname>
+</author>
+</authors>
+<keywords>
+<keyword>prognostics</keyword>
+<keyword>empirical</keyword>
+<keyword>individual-based</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The ultimate goal of most prognostic systems is accurate prediction of the remaining useful life (RUL) of individual systems or components based on their use and performance.  This class of prognostic algorithms is termed Degradation-Based, or Type III Prognostics.   As equipment degrades, measured parameters of the system tend to change; these sensed measurements, or appropriate transformations thereof, may be used to characterize degradation.  Traditionally, individual-based prognostic methods use a measure of degradation to make RUL estimates.  Degradation measures may include sensed measurements, such as temperature or vibration level, or inferred measurements, such as model residuals or physics-based model predictions.  Often, it is beneficial to combine several measures of degradation into a single parameter.  Selection of an appropriate parameter is key for making useful individual-based RUL estimates, but methods to aid in this selection are absent in the literature.  This dissertation introduces a set of metrics which characterize the suitability of a prognostic parameter.   Parameter features such as trendability, monotonicity, and prognosability can be used to compare candidate prognostic parameters to determine which is most useful for individual-based prognosis.  Trendability indicates the degree to which the parameters of a population of systems have the same underlying shape.  Monotonicity characterizes the underlying positive or negative trend of the parameter.  Finally, prognosability gives a measure of the variance in the critical failure value of a population of systems.  By quantifying these features for a given parameter, the metrics can be used with any traditional optimization technique, such as Genetic Algorithms, to identify the optimal parameter for a given system.  An appropriate parameter may be used with a General Path Model (GPM) approach to make RUL estimates for specific systems or components.  A dynamic Bayesian updating methodology is introduced to incorporate prior information in the GPM methodology.  The proposed methods are illustrated with two applications: first, to the simulated turbofan engine data provided in the 2008 Prognostics and Health Management Conference Prognostics Challenge and, second, to data collected in a laboratory milling equipment wear experiment.  The automated system was shown to identify appropriate parameters in both situations and facilitate Type III prognostic model development.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/683</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1735&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>683</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1735</articleid>
+<submission-date>2010-04-01T13:36:23-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/1735/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1258624</context-key>
+<submission-path>utk_graddiss/683</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Belle Upadhyaya, Haitao Liao, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

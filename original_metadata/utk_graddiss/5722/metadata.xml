@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Hierarchical Neural Architectures for Classifying Cancer Pathology Reports</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sgao15@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Gao</lname>
+<fname>Shang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Deep learning</keyword>
+<keyword>natural language processing</keyword>
+<keyword>pathology reports</keyword>
+<keyword>neural networks</keyword>
+<keyword>clinical text</keyword>
+<keyword>electronic health records</keyword>
+</keywords>
+<abstract>&lt;p&gt;Electronic health records (EHRs) are the primary method for documenting and storing patient outcomes in modern healthcare; data mining and machine learning approaches utilize the information stored in EHRs to assist in clinical decision support and other critical healthcare applications. Important information in EHRs is often stored in the form of unstructured clinical text. Unfortunately, the state-of-the-art methods used to automatically extract useful information from unstructured clinical text lags significantly behind the state-of-the-art methods used in the general natural language processing (NLP) community for other tasks such as machine translation, question answering, and sentiment analysis. In this work, we attempt to bridge this gap by applying and developing hierarchical neural approaches to classify key data elements in cancer pathology reports, such as cancer site, histology, grade, and behavior. We (1) show that a hierarchical attention network (HAN), which has strong performance on classifying general text such as Yelp reviews and news snippets, achieves better classification accuracy and macro F-score on identifying cancer site and grade than previous state-of-the-art approaches, (2) develop a novel hierarchical self-attention network (HiSAN) which not only achieves better accuracy and macro F-score in cancer pathology pathology report classification than the HAN but also trains over 10x faster, and (3) introduce a hierarchical framework for incorporating case-level context when classifying cancer pathology reports and show that it gives a significant boost in accuracy and macro F-score.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5722</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7488&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5722</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7488</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419583</context-key>
+<submission-path>utk_graddiss/5722</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Georgia Tourassi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Arvind Ramanathan, Hairong Qi, Russell Zaretzki</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0003-1803-1457</value>
+</field>
+<field name="comments" type="string">
+<value>This dissertation is a manuscript-style dissertation in which each of the three core chapters is a previously published journal paper or is a paper currently undergoing the submission process.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>INTRUSION DETECTION OF A SIMULATED SCADA SYSTEM USING A DATA-DRIVEN MODELING APPROACH</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bjeffri1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Jeffries</lname>
+<fname>Brien</fname>
+<mname>Alen</mname>
+</author>
+</authors>
+<keywords>
+<keyword>SCADA</keyword>
+<keyword>empirical modeling</keyword>
+<keyword>intrusion detection</keyword>
+<keyword>SPRT</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Supervisory Control and Data Acquisition (SCADA) are large, geographically distributed systems that regulate help processes in industries such as nuclear power, transportation or manufacturing. SCADA is a combination of physical, sensing, and communications equipment that is used for monitoring, control and telemetry acquisition actions. Because SCADA often control the distribution of vital resources such as electricity and water, there is a need to protect these cyber-physical systems from those with possible malicious intent. To this end, an Intrusion Detection System (IDS) is utilized to monitor telemetry sources in order to detect unwanted activities and maintain overall system integrity.&lt;/p&gt;
+&lt;p&gt;This dissertation presents the results in developing a behavior-based approach to intrusion detection using a simulated SCADA test bed. Empirical modeling techniques known as Auto Associative Kernel Regression (AAKR) and Auto Associative Multivariate State Estimation Technique (AAMSET) are used to learn the normal behavior of the test bed. The test bed was then subjected to repeated intrusion injection experiments using penetration testing software and exploit codes. Residuals generated from these experiments are then supplied to an anomaly detection algorithm known as the Sequential Probability Ratio Test (SPRT). This approach is considered novel in that the AAKR and AAMSET, combined with the SPRT, have not been utilized previously in industry for cybersecurity purposes.&lt;/p&gt;
+&lt;p&gt;Also presented in this dissertation is a newly developed variable grouping algorithm that is based on the Auto Correlation Function (ACF) for a given set of input data. Variable grouping is needed for these modeling methods to arrive at a suitable set of predictors that return the lowest error in model performance.&lt;/p&gt;
+&lt;p&gt;The developed behavior-based techniques were able to successfully detect many types of intrusions that include network reconnaissance, DoS, unauthorized access, and information theft. These methods would then be useful in detecting unwanted activities of intruders from both inside and outside of the monitored network. These developed methods would also serve to add an additional layer of security. When compared with two separate variable grouping methods, the newly developed grouping method presented in this dissertation was shown to extract similar groups or groups with lower average model prediction errors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4695</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5993&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4695</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5993</articleid>
+<submission-date>2017-04-11T11:05:40-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10006053</context-key>
+<submission-path>utk_graddiss/4695</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie B. Coble, Richard R. Wood, Mark Dean, Kenny C. Gross</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

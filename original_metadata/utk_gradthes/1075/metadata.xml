@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of an Environmental Monitoring System for Greenhouse Disease Management</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cdillar1@utk.edu</email>
+<lname>Kelly</lname>
+<fname>Crystal Marie</fname>
+</author>
+</authors>
+<keywords>
+<keyword>sensors</keyword>
+<keyword>wireless</keyword>
+<keyword>networks</keyword>
+<keyword>plants</keyword>
+<keyword>greenhouse</keyword>
+<keyword>disease</keyword>
+</keywords>
+<disciplines><discipline>Agriculture</discipline>
+<discipline>Other Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A commercial African violet (&lt;em&gt;Saintpaulia ionantha&lt;/em&gt;) grower experiences yield loss due to a leaf spot disease known as &lt;em&gt;Corynespora casssiicola&lt;/em&gt;.  Spotted leaves make the plants unmarketable.  Outbreaks of the disease are costly and difficult to prevent.  Greenhouse monitoring systems currently available on the commercial market do not have sufficient spatial or temporal resolution to be able to correlate the environmental conditions of the greenhouse with disease outbreaks.  A new system was designed specifically to monitor for disease favorable conditions.  The system developed for this project consists of several sensor stations and a coordinator station.  The coordinator station is connected to a PC and periodically collects data from all sensor stations through a wireless communications network.  Data enters the PC in an easy to analyze comma-delimited format.  Each sensor station is entirely self-contained and battery operated to minimize inconvenience to producers. The stations are small enough to fit into the footprint of a four inch potted plant.  Each station measures temperature, relative humidity, and light levels and can last for at least two months on a single battery charge.  When tested in a commercial greenhouse, sensor stations were able to detect significant spatial differences in environmental conditions.  By placing these stations at regular, close intervals throughout the greenhouse producers can gain a more accurate picture of current environmental conditions in their crop than they have been able to obtain in the past.  If these readings are combined with disease outbreak information, producers will be able to determine if there is a correlation between certain environmental conditions and disease outbreaks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1075</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2177&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1075</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2177</articleid>
+<submission-date>2011-08-15T22:52:27-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2162572</context-key>
+<submission-path>utk_gradthes/1075</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John B. Wilkerson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark T. Windham, John R. Buchanan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

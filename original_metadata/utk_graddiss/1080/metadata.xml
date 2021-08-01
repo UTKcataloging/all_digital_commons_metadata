@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Low Communication Condensation-based Linear System Solver Utilizing Cramer&#39;s Rule</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>khabgood@utk.edu</email>
+<lname>Habgood</lname>
+<fname>Kenneth C</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Cramer&#39;s Rule</keyword>
+<keyword>Parallel Computing</keyword>
+<keyword>Chio&#39;s Condensation</keyword>
+<keyword>Linear Systems</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Systems of linear equations are central to many science and engineering application domains. Given the abundance of low-cost parallel processing fabrics, the study of fast and accurate parallel algorithms for solving such systems is receiving attention. Fast linear solvers generally use a form of LU factorization. These methods face challenges with workload distribution and communication overhead that hinder their application in a true broadcast communication environment.&lt;/p&gt;
+&lt;p&gt;Presented is an efficient framework for solving large-scale linear systems by means of a novel utilization of Cramer&#39;s rule. While the latter is often perceived to be impractical when considered for large systems, it is shown that the algorithm proposed has an order N^3 complexity with pragmatic forward and backward stability. To the best of our knowledge, this is the first time that Cramer&#39;s rule has been demonstrated to be an order N^3 process. Empirical results are provided to substantiate the stated accuracy and computational complexity, clearly demonstrating the efficacy of the approach taken.&lt;/p&gt;
+&lt;p&gt;The unique utilization of Cramer&#39;s rule and matrix condensation techniques yield an elegant process that can be applied to parallel computing architectures that support a broadcast communication infrastructure. The regularity of the communication patterns, and send-ahead ability, yields a viable framework for solving linear equations using conventional computing platforms. In addition, this dissertation demonstrates the algorithm&#39;s potential for solving large-scale sparse linear systems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1080</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2267&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1080</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2267</articleid>
+<submission-date>2011-07-25T15:01:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2115816</context-key>
+<submission-path>utk_graddiss/1080</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Arel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fangxing Li, Gregory Peterson, Xiaobing H. Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

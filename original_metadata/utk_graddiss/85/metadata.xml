@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>QoS Provision for Wireless Sensor Networks</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yang</lname>
+<fname>Dengfeng</fname>
+</author>
+</authors>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Wireless sensor network is a fast growing area of research, receiving attention not only within the computer science and electrical engineering communities, but also in relation to network optimization, scheduling, risk and reliability analysis within industrial and system engineering. The availability of micro-sensors and low-power wireless communications will enable the deployment of densely distributed sensor/actuator networks. And an integration of such system plays critical roles in many facets of human life ranging from intelligent assistants in hospitals to manufacturing process, to rescue agents in large scale disaster response, to sensor networks tracking environment phenomena, and others.&lt;/p&gt;
+&lt;p&gt;The sensor nodes will perform significant signal processing, computation, and network self-configuration to achieve scalable, secure, robust and long-lived networks. More specifically, sensor nodes will do local processing to reduce energy costs, and key exchanges to ensure robust communications. These requirements pose interesting challenges for networking research. The most important technical challenge arises from the development of an integrated system which is 1)energy efficient because the system must be long-lived and operate without manual intervention, 2)reliable for data communication and robust to attackers because information security and system robustness are important in sensitive applications, such as military.&lt;/p&gt;
+&lt;p&gt;Based on the above challenges, this dissertation provides Quality of Service (QoS) implementation and evaluation for the wireless sensor networks. It includes the following 3 modules, 1) energy-efficient routing, 2) energy-efficient coverage, 3). communication security. Energy-efficient routing combines the features of minimum energy consumption routing protocols with minimum computational cost routing protocols. Energy-efficient coverage provides on-demand sensing and measurement. Information security needs a security key exchange scheme to ensure reliable and robust communication links. QoS evaluation metrics and results are presented based on the above requirements.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/85</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1115&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>85</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1115</articleid>
+<submission-date>2009-12-23T11:57:46-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1098918</context-key>
+<submission-path>utk_graddiss/85</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rapinder S. Sawhney, Denise F. Jackson, Xiaorui Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

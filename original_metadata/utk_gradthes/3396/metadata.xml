@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Phase Dynamics of LOCSET Control Methodology</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bneschk1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Neschke</lname>
+<fname>Brendan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Laser Array</keyword>
+<keyword>Control Theory</keyword>
+<keyword>System Dynamics</keyword>
+<keyword>LOCSET</keyword>
+<keyword>Active Feedback</keyword>
+<keyword>Kuramoto Model</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+<discipline>Dynamical Systems</discipline>
+<discipline>Dynamics and Dynamical Systems</discipline>
+<discipline>Engineering</discipline>
+<discipline>Mechanical Engineering</discipline>
+<discipline>Optics</discipline>
+</disciplines><abstract>&lt;p&gt;Single-mode fiber amplifiers produce diffraction-limited beams very efficiently. Maximum beam intensity requires that an array of these amplifiers have their beams coherently combined at the target. Optical path differences and noise adversely affect beam quality. An existing closed loop phase control methodology, called the locking of optical coherence by single-detector electronic-frequency tagging (LOCSET), corrects phase errors in real time by electronically detecting path length differences and sending signals to lithium niobate phase adjusters. Broadening the line-width using “jitter” of the input signal can increase the output power of an individual amplifier by suppressing nonlinearity. The system dynamics of LOCSET are derived in consideration of laser line-width, phase jitter for SBS mitigation, path length errors, and noise. It is shown that the system dynamics satisfies differential equations of Kuramoto type when the response dynamics are low. Stability analysis is applied to this model to describe the region of stable operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3396</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4593&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3396</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4593</articleid>
+<submission-date>2015-02-25T07:49:41-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>6723437</context-key>
+<submission-path>utk_gradthes/3396</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yehuda Braiman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, J. A. M. Boulet</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

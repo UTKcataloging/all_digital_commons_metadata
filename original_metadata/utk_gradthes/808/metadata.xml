@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bayesian Logistic Regression Model for Siting Biomass-using Facilities</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xhuang8@utk.edu</email>
+<lname>Huang</lname>
+<fname>Xia</fname>
+</author>
+</authors>
+<keywords>
+<keyword>biorefineries</keyword>
+<keyword>agricultural residues</keyword>
+<keyword>site location</keyword>
+<keyword>prediction</keyword>
+<keyword>Bayesian logistic regression models</keyword>
+<keyword>Classification Trees</keyword>
+</keywords>
+<disciplines><discipline>Applied Statistics</discipline>
+<discipline>Statistical Methodology</discipline>
+<discipline>Statistical Models</discipline>
+</disciplines><abstract>&lt;p&gt;Key sources of oil for western markets are located in complex geopolitical environments that increase economic and social risk.  The amalgamation of economic, environmental, social and national security concerns for petroleum-based economies have created a renewed emphasis on alternative sources of energy which include biomass.  The stability of sustainable biomass markets hinges on improved methods to predict and visualize business risk and cost to the supply chain.&lt;/p&gt;
+&lt;p&gt;This thesis develops Bayesian logistic regression models, with comparisons of classical maximum likelihood models, to quantify significant factors that influence the siting of biomass-using facilities and predict potential locations in the 13-state Southeastern United States for three types of biomass-using facilities.  Group I combines all biomass-using mills, biorefineries using agricultural residues and wood-using bioenergy/biofuels plants.  Group II included pulp and paper mills, and biorefineries that use agricultural and wood residues.  Group III included food processing mills and biorefineries that use agricultural and wood residues.  The resolution of this research is the 5-digit ZIP Code Tabulation Area (ZCTA), and there are 9,416 ZCTAs in the 13-state Southeastern study region.&lt;/p&gt;
+&lt;p&gt;For both classical and Bayesian approaches, a training set of data was used plus a separate validation (hold out) set of data using a pseudo-random number-generating function in SAS® Enterprise Miner.  Four predefined priors are constructed.  Bayesian estimation assuming a Gaussian prior distribution provides the highest correct classification rate of 86.40% for Group I; Bayesian methods assuming the non-informative uniform prior has the highest correct classification rate of 95.97% for Group II; and Bayesian methods assuming a Gaussian prior gives the highest correct classification rate of 92.67% for Group III.  Given the comparative low sensitivity for Group II and Group III, a hybrid model that integrates classification trees and local Bayesian logistic regression was developed as part of this research to further improve the predictive power.  The hybrid model increases the sensitivity of Group II from 58.54% to 64.40%, and improves both of the specificity and sensitivity significantly for Group III from 98.69% to 99.42% and 39.35% to 46.45%, respectively.  Twenty-five optimal locations for the biomass-using facility groupings at the 5-digit ZCTA resolution, based upon the best fitted Bayesian logistic regression model and the hybrid model, are predicted and plotted for the 13-state Southeastern study region.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/808</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1902&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>808</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1902</articleid>
+<submission-date>2010-11-16T11:45:54-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1644564</context-key>
+<submission-path>utk_gradthes/808</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Timothy M. Young</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank M. Guess, Russell L. Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Statistics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

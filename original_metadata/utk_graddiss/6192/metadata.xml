@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Robust Wideband GNSS RF Frontend With Resilient Interference Blocking</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ftamjid@vols.utk.edu</email>
+<lname>Tamjid</lname>
+<fname>Farshid</fname>
+</author>
+</authors>
+<keywords>
+<keyword>GNSS Antennas</keyword>
+<keyword>GNSS Feed Networks</keyword>
+<keyword>Wideband Baluns</keyword>
+<keyword>Interference Cancellation Systems</keyword>
+<keyword>Power Optimization</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Recently, there has been an increasing demand for GNSS systems’ use for numerous applications such as public security, disaster relief, weather forecast, transportation, hydrologic monitoring, aviation, navigation positions and so on. Such systems must have a wideband performance (1.16 GHz to 1.61 GHz), high quality reception (which requires antenna with low AR, high RHCP gain, high F/B ratio, and high RL), portable size, and low cost. Our efforts here are geared towards the receiving side of such communication. The antennas are the first stage of the long receiver chain. Development of such wideband high quality antennas is challenging as most of the available antennas are limited due to their feed networks bandwidth limitations. Here, we will propose, design, and test various wideband GNSS antennas covering 1.16 GHz to 1.61 GHz. Additionally GNSS reception is susceptible to in-band or out of band intentional/unintentional interference. Relatively high power interference can either saturates the front-end of the receiver, or makes the system useless upon reducing the C/N0 of the received signals-- given that the power level of GNSS signals on earth is significantly lower than the noise level. So, it is essential to attenuate any in-band interfering signal, upon using spatial filtering for example. Using an adaptive system that can operate over the entire GNSS band can reduce the power level of the interference significantly by allocating nulls in their direction. In this dissertation we develop a portable low cost adaptive frontend structure. Meanwhile, to reject any out of band interference, SAW filters are popular, but they have very narrow bandwidth and are not reconfigurable, i.e. meaning that the entire GNSS band will not be covered which is a huge disadvantage. Hence, we propose to develop a reconfigurable filter based on N-path structure as well.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6192</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7092&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6192</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7092</articleid>
+<submission-date>2020-07-06T21:27:31-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7092/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18390049</context-key>
+<submission-path>utk_graddiss/6192</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly E Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly E Fathy, Ozlem Kilic, Nicole McFarlane, Hao Gan</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Portions of this dissertation were previously published in: 1. F. Tamjid, F. Foroughian, C. M. Thomas, A. Ghahreamani, R. Kazemi and A. E. Fathy, &quot;Toward High-Performance Wideband GNSS Antennas-Design Tradeoffs and Development of Wideband Feed Network Structure,&quot; in IEEE Transactions on Antennas and Propagation, vol. 68, no. 8, pp. 5796-5806, Aug. 2020, doi: 10.1109/TAP.2020.2983800. 2. F. Tamjid C. M. Thomas A. E. Fathy, &quot;A compact wideband balun design using double‐sided parallel strip lines with over 9:1 bandwidth,&quot; in International Journal of RF and Microwave Computer-aided Engineering, vol. 30, no. 11, Sep. 2020, DOI: 10.1002/mmce.22425 3. F. Tamjid et al., &quot;Implementation of a Low Cost Interfering Signal Cancellation Approach Based on a Fast Power Minimization Technique Using Particle Swarm Optimization Algorithm,&quot; 2020 IEEE Radio and Wireless Symposium (RWS), San Antonio, TX, USA, 2020, pp. 116-118, doi: 10.1109/RWS45077.2020.9050114.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2023-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

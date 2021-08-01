@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Study of Colloquial Place Names through Geotagged Social Media Data</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yliu89@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Yuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>GIS</keyword>
+<keyword>colloquial place names</keyword>
+<keyword>Flickr</keyword>
+<keyword>kernel density estimation</keyword>
+<keyword>spatio-temporal analysis</keyword>
+</keywords>
+<disciplines><discipline>Geographic Information Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;em&gt;Place&lt;/em&gt; is a rich but vague geographic concept. Much work has been done to explore the collective understanding and perceived location of place. The last few decades have seen rapid expansion in the use of online social media and data sharing services, which provide a large amount of valuable data for research of colloquial place names. This study explored how geotagged social media data can be used to understand geographic place names, and delimit the perceived geographic extent of a place. The author proposes a probabilistic method to map the perceived geographic extent of a place using Kernel Density Estimation (KDE) based on the geotagged data uploaded by users. The author also used spatio-temporal analysis methods in GIS to explore characteristics, hidden patterns, and trends of the places. Flickr, a popular online social networking service that features image hosting and sharing, was selected as the main data source for this project. The results show that outcomes of KDE with different functions and parameters differ from each other; therefore, it is crucial to select the proper KDE bandwidth in order to obtain appropriate geographic extents. Official boundaries and reference boundaries can be used to assess the geographic extents. Google Maps Street View is another useful source to examine the visual characteristics of places. Spatio-temporal analysis of the geographic extents over time reveals significant location changes of the places composed of man-made structures. Besides names and variations of place names, related colloquial terms, like Cades Cove of the Great Smoky Mountains National Park, are also useful sources when delimiting a place. Several examples are analyzed and discussed. Studies like this research can improve our understanding of geotagged Online Social Network (OSN) data in the study of colloquial place names as well as provide a temporal perspective to the analysis of their perceived geographic extents.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3336</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4234&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3336</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4234</articleid>
+<submission-date>2014-10-10T08:26:46-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/4234/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>6225918</context-key>
+<submission-path>utk_gradthes/3336</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lee F. Han, Hyun Kim</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2016-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

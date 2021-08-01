@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Errors and Truths from Transportation Data Aggregation: Some Implications for Research and Practice</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hlim4@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lim</lname>
+<fname>Hyeonsup</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Data Aggregation</keyword>
+<keyword>Harmonic Mean</keyword>
+<keyword>Space Mean Speed</keyword>
+<keyword>Approximate Bayesian Computation</keyword>
+<keyword>Connected Vehicle</keyword>
+<keyword>Multi-source Data</keyword>
+</keywords>
+<disciplines><discipline>Transportation Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Data aggregation, which is a process to combine information by defined groups for statistical analysis, summary, data size reduction, or other purposes, has fundamental challenges, such as loss of the original information. Improper data aggregation, such as sampling bias or incorrect calculation of average, may cause misreading of information. In first chapter, it is revealed that the harmonic mean, which is used to calculate space mean speed for fixed segment, has a sampling bias, i.e., overestimation with small samples. The several impact analyses show that the sampling bias is affected by sampling rate, time interval, segment length, and distribution type.&lt;/p&gt;
+&lt;p&gt;If the data aggregation is properly used, it can help us improve analytical efficiency, encounter some of critical problems, or reveal its casualties and other relevant information. Second and third chapters utilize the aggregation of multi-source data to estimate error distributions of data sources and improve accuracy of their measurements. This is a leaping point of evaluating data sources as the proposed model does not require ground truth data. Second chapter focuses more on the methodology, i.e., a modified Approximate Bayesian Computation, incorporated to construct the error distribution with numerous simulations. In the simulated experiment, the proposed model outperformed the alternative approach, which is a conventional way of evaluating data source that is gathering error information by comparing with ground data source. Several sensitivity analyses explore that how the model performance is affected by sample size, number of data sources, and distribution types. The proposed model in chapter II is limited to one dimensional variable, and then the application is expanded to improving the position and distance measurement of connected vehicle environment. The proposed model can be used to further improve the accuracy of vehicle positioning with other existing methods, such as simultaneous localization and mapping (SLAM). The estimation process can be conducted in real-time operation, and the learning process will try to keep improving the accuracy of estimation. The results show that the proposed model noticeably improves the accuracy of position and distance measurements.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4477</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5835&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4477</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5835</articleid>
+<submission-date>2017-02-24T08:46:33-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9743590</context-key>
+<submission-path>utk_graddiss/4477</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Shashi Nambisan, Christopher Cherry, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

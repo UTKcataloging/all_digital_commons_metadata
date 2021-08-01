@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A parallel implementation of ALFISH : simulating hydrological compartmentalization effects on fish dynamics in the Florida Everglades</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Immanuel</lname>
+<fname>Alphons</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;A landscape modeling system called the Across Trophic-Level System Simulation (or ATLSS) has been developed in an effort to predict the consequences of proposed water regulation plans for restoration of the South Florida Everglades. The ATLSS Landscape Fish Model (ALFISH) is a component of the ATLSS package (written in C++), which is used to provide a dynamic measure of the spatially-explicit food resources available to wading birds, namely fish. The original (serial) ALFISH model requires as much as 30 hours for 31-year simulations of specified scenarios. The model&#39;s execution time has been successfully improved (by a factor of 4.5) by partitioning its data input and executes the model simultaneously (in parallel) on those partitions. Further, this thesis also presents how the model&#39;s communications between partitioned data have been blocked to simulate compartmentalization effects on the input data. A minimal effect (mostly below 1 %) on the output of the original (serial) version is demonstrated. With regard to portability, both models (serial and parallel) have been successfully executed on two different computing environments: an SMP (Symmetric Multi-Processor) with 14 processors and a 14-processor network cluster.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5938</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7571&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5938</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7571</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467597</context-key>
+<submission-path>utk_gradthes/5938</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Louis J. Gross, Bradley T. Vander Zanden</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

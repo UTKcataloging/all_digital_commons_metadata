@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Class-based color image synthesis and object recognition under spatially and spectrally varying illuminants</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Wilson</lname>
+<fname>Andrew</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The process of creating a synthetic image of a given example image under arbitrary pose and illumination is known as image synthesis or re-rendering. Existing class-based rerendering methods require large basis image sets and accurate pixel alignment for accurate image synthesis. In addition to this, these synthesis methods have focused primarily on gray-scale images. Based on the novel concept of surface reflectance quotients, two new image synthesis techniquess have been developed that produce highl quality images given only a small image set constructed using a single basis object. The image synthesis ability of the two new techniques is demonstrated using both synthetic and real image sets. The concept of surface reflectance quotients has also been applied to object recognition in which a test object is compared and classified against a set of known objects. In such tasks, variations in illumination conditions may cause difficulties in producing a correct match. The strength of the object recognition technique based on the calculation of the surface reflectance quotient will be shown to be the ability to eliminate the illumination component from the image comparison process. This allows the object recognition task to be carried out without the errors associated with variations in lighting. The operation of this object recognition technique is demonstrated through the use of a image set of human faces.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/6017</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7650&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>6017</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7650</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467679</context-key>
+<submission-path>utk_gradthes/6017</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Philip W. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

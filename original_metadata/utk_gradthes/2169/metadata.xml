@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Timing Jitter in Symmetric Load Ring Oscillators and the Estimation of Aperture Uncertainty in A-D Converters</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Srinivasan</lname>
+<fname>Venkatesh</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Timing jitter in clock signals presents a limitation to the performance of a variety of applications and systems. The criticality of the issue is discussed with the A-D converter as the backdrop. Timing errors in the sampling clock, the analog input signal and the aperture uncertainty of the A-D converter degrade the signal-to-noise ratio performance. In this thesis, a method to estimate the aperture uncertainty of the converter has been developed. The model accounts for the converter’s quantization noise and differential non-linearity errors and thereby improves the accuracy of the estimation. The technique was applied to a 10-Bit converter and the results are presented.&lt;/p&gt;
+&lt;p&gt;For clock generation using PLLs, ring oscillators are attractive from an integration and cost point of view for use as a VCO. Their timing jitter can be improved by increasing the output voltage swing, the gate overdrive of the transistors of the differential pair and the power dissipation while maintaining just a minimum required small signal gain for the delay stage. In this thesis, it is shown that the maximum possible output voltage swing is dependent entirely on technology parameters. The proposed oscillator topology uses an n- MOS differential pair with a class of load elements called the ‘symmetric loads’ and is designed for the maximum possible output voltage swing. Frequency variation is achieved by driving the body of the symmetric loads in order to keep the swing and hence phase noise constant across frequencies. Also, the frequency vs. body voltage characteristics has been derived and found to be linear. Finally, the proposed theoretical predictions have been validated with simulation results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2169</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3534&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2169</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3534</articleid>
+<submission-date>2013-10-08T12:10:49-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4684523</context-key>
+<submission-path>utk_gradthes/2169</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Donald W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

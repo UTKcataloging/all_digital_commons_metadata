@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Experimental Analysis of Wireless High Accuracy Ultra-Wideband Localization Systems for Indoor Medical Applications</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mkuhn1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kuhn</lname>
+<fname>Michael</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<keywords>
+<keyword>biomedical</keyword>
+<keyword>wireless</keyword>
+<keyword>ultra wideband</keyword>
+<keyword>3-D tracking</keyword>
+</keywords>
+<disciplines><discipline>Biomechanics and Biotransport</discipline>
+<discipline>Biomedical</discipline>
+<discipline>Biomedical Devices and Instrumentation</discipline>
+<discipline>Electromagnetics and Photonics</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Signal Processing</discipline>
+<discipline>Systems and Integrative Engineering</discipline>
+<discipline>Systems Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses several interesting and relevant problems in the field of wireless technologies applied to medical applications and specifically problems related to ultra-wideband high accuracy localization for use in the operating room. This research is cross disciplinary in nature and fundamentally builds upon microwave engineering, software engineering, systems engineering, and biomedical engineering. A good portion of this work has been published in peer reviewed microwave engineering and biomedical engineering conferences and journals. Wireless technologies in medicine are discussed with focus on ultra-wideband positioning in orthopedic surgical navigation. Characterization of the operating room as a medium for ultra-wideband signal transmission helps define system design requirements.&lt;/p&gt;
+&lt;p&gt;A discussion of the first generation positioning system provides a context for understanding the overall system architecture of the second generation ultra-wideband positioning system outlined in this dissertation. A system-level simulation framework provides a method for rapid prototyping of ultra-wideband positioning systems which takes into account all facets of the system (analog, digital, channel, experimental setup). This provides a robust framework for optimizing overall system design in realistic propagation environments.&lt;/p&gt;
+&lt;p&gt;A practical approach is taken to outline the development of the second generation ultra-wideband positioning system which includes an integrated tag design and real-time dynamic tracking of multiple tags. The tag and receiver designs are outlined as well as receiver-side digital signal processing, system-level design support for multi-tag tracking, and potential error sources observed in dynamic experiments including phase center error, clock jitter and drift, and geometric position dilution of precision.&lt;/p&gt;
+&lt;p&gt;An experimental analysis of the multi-tag positioning system provides insight into overall system performance including the main sources of error. A five base station experiment shows the potential of redundant base stations in improving overall dynamic accuracy. Finally, the system performance in low signal-to-noise ratio and non-line-of-sight environments is analyzed by focusing on receiver-side digitally-implemented ranging algorithms including leading-edge detection and peak detection.&lt;/p&gt;
+&lt;p&gt;These technologies are aimed at use in next-generation medical systems with many applications including surgical navigation, wireless telemetry, medical asset tracking, and in vivo wireless sensors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1317</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2343&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1317</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2343</articleid>
+<submission-date>2011-10-12T11:36:53-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2343/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2291830</context-key>
+<submission-path>utk_graddiss/1317</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly E. Fathy, Richard D. Komistek, William R. Hamel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

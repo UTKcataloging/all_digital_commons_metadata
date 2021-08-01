@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Explicit Asymptotic Approach Applied To Neutrino-Electron Scattering In The Neutrino Transport Problem</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>alackeys@vols.utk.edu</email>
+<lname>Lackey - Stewart</lname>
+<fname>Aaron</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Supernova</keyword>
+<keyword>Core Collapse</keyword>
+<keyword>Neutrino-Electron</keyword>
+<keyword>Implicit</keyword>
+<keyword>Explicit</keyword>
+<keyword>Neutrino Transport</keyword>
+</keywords>
+<disciplines><discipline>Other Physics</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents results of explicit asymptotic calculations applied to neutrino-electron collisions in the neutrino transport problem; a problem that is generally solved using implicit methods when simulating core collapsed supernovae. It is shown that the explicit asymptotic method provides stable solutions to these stiff systems of equations while also yielding comparative accuracy and time stepping to standard implicit treatments such as Backward Euler, Fixed Point Iteration, and Anderson Accelerated Fixed Point. Because implicit methods are found to be less efficient for large systems of stiff, coupled equations, these results could help cut costs in solving this problem while also serving as a baseline for what the method can be used for in other scientific contexts; much the same as with the thermonuclear network calculations detailed by Guidry [5]. The particular algorithm detailed in this thesis is only applied to a simplified problem using the spatially homogenous transport equation where we consider relaxation problems. When using our time stepping algorithm that limits the error with each iteration, explicit asymptotic generates results that are competitive even for large time steps given a sufficient choice of parameters.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5845</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6912&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5845</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6912</articleid>
+<submission-date>2020-06-05T12:32:51-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>17995329</context-key>
+<submission-path>utk_gradthes/5845</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Marianne Breinig</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mike Guidry, Eirik Endeve, Sean Lindsay</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Physics</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Approaches for MATLAB Applications Acceleration Using High Performance Reconfigurable Computers</title>
+<publication-date>2003-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Merchant</lname>
+<fname>Saumil</fname>
+<mname>Girish</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A lot of raw computing power is needed in many scientific computing applications and simulations. MATLAB®† is one of the popular choices as a language for technical computing. Presented here are approaches for MATLAB based applications acceleration using High Performance Reconfigurable Computing (HPRC) machines. Typically, these are a cluster of Von Neumann architecture based systems with none or more FPGA reconfigurable boards. As a case study, an Image Correlation Algorithm has been ported on this architecture platform. As a second case study, the recursive training process in an Artificial Neural Network (ANN) to realize an optimum network has been accelerated, by porting it to HPC Systems. The approaches taken are analyzed with respect to target scenarios, end users perspective, programming efficiency and performance. Disclaimer: Some material in this text has been used and reproduced with appropriate references and permissions where required. † MATLAB® is a registered trademark of The Mathworks, Inc. ©1994-2003.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2127</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3503&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2127</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3503</articleid>
+<submission-date>2013-10-07T13:00:52-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4677481</context-key>
+<submission-path>utk_gradthes/2127</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Donald W. Bouldin, Dr. Michael A. Langston, Dr. Seong G. Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

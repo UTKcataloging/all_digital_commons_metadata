@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonlinear Unsteady Combustion of a Solid Propellant</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Olles</lname>
+<fname>Mark</fname>
+<mname>William</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A nonlinear burning model is developed, valid across a wide range of frequencies, to allow for the incorporation of an admittance function into a nonlinear combustion instability (CI) framework. This is accomplished by extending two existing models to incorporate the effects of nonlinearity, the QSHOD ( Α Β ) model as described by Culick in his 1968 review paper and the 1973 T’ien model. The classical QSHOD model is marred by major limitations due to the simplifications and assumptions made. The most evident is the exclusion of the unsteady gas phase eliminating the high frequency response. The less recognized T’ien model includes the high frequency unsteady gas phase effects while successfully capturing the low frequency response.&lt;/p&gt;
+&lt;p&gt;An overlooked and unexpected finding on the sensitivity of a propellant’s response on temperature was discovered while recreating the original linear work by T’ien. This temperature sensitivity was first recognized by Brownlee during his Tburner experiments at the Caltech Jet Propulsion Laboratory in 1959, but was not fully understood. Lowering the cold propellant temperature yields an inverse primary admittance peak inferring damping of pressure oscillations. Inversely, by increasing the cold propellant temperature to a value close to that at the burning surface, the lowfrequency primary admittance peak is “flattened,” also reducing the ability to drive pressure oscillations.&lt;/p&gt;
+&lt;p&gt;When extended to encompass the second-order nonlinear corrections, the QSHOD model yields a definitive increase in the amplitude of the primary low frequency response peak. This result is also observed in the extended T’ien model, along with the observed enhancement of wave-amplifying at high frequency due to nonlinear gas phase resonance corrections. The inclusion of the nonlinear highfrequency gas phase interactions explains effects important in understanding the growth of waves from noise to finite-amplitude pressure oscillations observed in Brownlee’s data [13], as well as in Shuttle SRB measurements. The occurrence of a mean pressure rise (DC shift) regularly encountered in combustion instability research is found to be partially attributable to the nonlinear steady correction of the burning rate. The appearance of maximum instability occurring in the first tangential mode observed in the Brownlee- Marble data [13] may correspond to the formation of a secondary positive admittance peak due solely to the nonlinear corrections from the extension of T’ien’s work. Throughout this work the validity and the limitations of the models are investigated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/370</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1431&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>370</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1431</articleid>
+<submission-date>2010-02-16T10:28:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1147829</context-key>
+<submission-path>utk_graddiss/370</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gary A. Flandro</value>
+</field>
+<field name="advisor2" type="string">
+<value>John S. Steinhoff, Bruce W. Bomar, Kenneth R. Kimble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/OllesMark.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

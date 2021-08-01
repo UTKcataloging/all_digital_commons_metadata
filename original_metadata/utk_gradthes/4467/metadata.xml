@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Transportation Network Model for Complex Economic and Infrastructure Simulations</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Downes</lname>
+<fname>Paula</fname>
+<mname>S.</mname>
+</author>
+</authors>
+<disciplines><discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The intent of this effort is to add a transport network to an agent-based economic simulation model, thereby increasing the fidelity of the economic results reported. The majority of existing agent-based work regarding transportation infrastructures deals with traffic management and urban planning. However, little work has been done in modeling the transport system as a basic infrastructure dependency for an agent-based representation of the economy. In an agent-based modeling environment the transportation component derives its demand from the activities of the agents as they buy and sell goods which require transportation services. The Network Shipper agent was added to allow transportation based on the existing U.S. interstate highway system. The agent determines the shortest path between a buyer and seller and estimates a time of arrival. To represent the dynamic nature of a highway system capacity and speed constraints are imposed on the network.&lt;/p&gt;
+&lt;p&gt;The transportation network was then tested using data for the US milk supply chain. The strongest result of this work is the demonstration that inventory levels in a supply chain must buffer the delivery time uncertainty created when rigorous pursuit of minimum cost supply creates chum in the set of preferred suppliers for a firm. The current geographic distribution of supply and demand, along with variations in the effective time-dependent throughput capacity of the transportation network across the country, creates differential regional sensitivities. In particular, the North Atlantic region is most susceptible to this condition, and as a consequence experiences almost twice the price fluctuation  of the South Atlantic region for cheese, despite having half the average supply distance of the south.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4467</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5995&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4467</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5995</articleid>
+<submission-date>2017-04-11T12:01:21-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10006681</context-key>
+<submission-path>utk_gradthes/4467</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Adedeji B. Badiru</value>
+</field>
+<field name="advisor2" type="string">
+<value>Denise Jackson, Tyler Owen</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Studies of Uncertainties in Smart Grid: Wind Power Generation and Wide-Area Communication</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>chuang16@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Huang</lname>
+<fname>Can</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wind Power</keyword>
+<keyword>Optimal Control</keyword>
+<keyword>Wide-Area Measurement System</keyword>
+<keyword>Data Quality</keyword>
+<keyword>Data Loss</keyword>
+<keyword>Delay</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;This research work investigates the uncertainties in Smart Grid, with special focus on the uncertain wind power generation in wind energy conversion systems (WECSs) and the uncertain wide-area communication in wide-area measurement systems (WAMSs).&lt;/p&gt;
+&lt;p&gt;For the uncertain wind power generation in WECSs, a new wind speed modeling method and an improved WECS control method are proposed, respectively. The modeling method considers the spatial and temporal distributions of wind speed disturbances and deploys a box uncertain set in wind speed models, which is more realistic for practicing engineers. The control method takes maximum power point tracking, wind speed forecasting, and wind turbine dynamics into account, and achieves a balance between power output maximization and operating cost minimization to further improve the overall efficiency of wind power generation. Specifically, through the proposed modeling and control methods, the wind power control problem is developed as a min-max optimal problem and efficiently solved with semi-definite programming.&lt;/p&gt;
+&lt;p&gt;For the uncertain communication delay and communication loss (i.e. data loss) in WAMSs, the corresponding solutions are presented. First, the real-world communication delay is measured and analyzed, and the bounded modeling method for the communication delay is proposed for widearea applications and further applied for system-area and substation-area protection applications, respectively. The proposed bounded modeling method is expected to be an important tool in the planning, design, and operation of time-critical wide-area applications. Second, the real synchronization signal loss and synchrophasor data loss events are measured and analyzed. For the synchronization signal loss, the potential reasons and solutions are explored. For the synchrophasor data loss, a set of estimation methods are presented, including substitution, interpolation, and forecasting. The estimation methods aim to improve the accuracy and availability of WAMSs, and mitigate the effect of communication failure and data loss on wide-area applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4141</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5372&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4141</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5372</articleid>
+<submission-date>2016-06-17T14:06:41-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/5372/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8747114</context-key>
+<submission-path>utk_graddiss/4141</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Leon M. Tolbert, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

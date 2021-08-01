@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of Vehicle Use Patterns during Military Field Exercises to Identify Potential Roads</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wu</lname>
+<fname>Chunxia</fname>
+</author>
+</authors>
+<disciplines><discipline>Biochemistry, Biophysics, and Structural Biology</discipline>
+<discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Military training is an intensive land use and can cause negative environmental effects. Many studies conducted under Integrated Training Area Management (ITAM) for quantifying the impact resulted from the military training exercise found that off-road vehicular activities during training exercises cause the major impact to the training land. Vehicle land use patterns at a certain location affect the impact severity: concentrated and repeated traffic create more serious damage to the land compared to the dispersed offroad vehicle movements. Those areas heavily disturbed by off-road traffic may require a longer period of time or special treatments for the land to return to its pre-disturbed status.&lt;/p&gt;
+&lt;p&gt;Based on the impact severity and the shape of the disturbed area, some areas can be considered as potential roads, defined as the roads newly formed by concentrated offroad traffic during the military training exercises, or the roads currently exist but have not been mapped. Potential roads need to be rehabilitated, have traffic dispersed to return the land to its natural status, or to be included in the established road construction and maintenance programs.&lt;/p&gt;
+&lt;p&gt;As Global Positioning System (GPS) has been used for monitoring vehicles&#39; activities during military training exercises; it enables the analysis of vehicle movement patterns. The vehicle movement patterns are characterized as the percentage of vehicle travel every day, vehicles&#39; on and off road travel, the frequencies of vehicle&#39;s off-road velocity and turning radius. GPS vehicle tracking data collected during an eight-day reconnaissance training exercises in Yakima Training Center (YTC) in October 2001 were analyzed for vehicle movement patterns. Comparison of the on-road and off-road movement patterns indicates that potential roads may exist on the locations where the concentrated traffic or a high speed movement occurred.&lt;/p&gt;
+&lt;p&gt;Based on the analysis of the movement patterns, factors were extracted to characterize the special movement patterns that indicate the vehicles moved on a potential road. The YTC was divided into small study units, and a multicriteria method was developed to determine if a study unit is a portion of a potential road. The multicriteria method was evaluated by comparing the predictions to the site visit results on 34 selected road segments that met different criteria levels. Results show that locations met higher criteria levels have higher possibilities to be roads: the location met all five criteria has an approximately 91% possibility for road existence; those met four criteria has an approximately 55% possibility; and for those met criteria level two or three, there is an approximately 14% probability for road existence. The analysis of updated off-road shows the percentage of vehicle off-road movement drops from 20.0% to 15.8% after excluding the potential road moving data.&lt;/p&gt;
+&lt;p&gt;As an alternative method, a neural network approach for identifying the potential roads was introduced and compared to the multicriteria method. The neural network method obtained an approximately 85% accuracy when tested by on-road grids, successfully identified the high-way segment as road, and predicted approximately 31% off-road grids as potential road grids. Results show that the neural network method, although emphasized in factors different from the multicriteria method, has approximately 78% accuracy for identifying the potential road locations. The prediction from the neural network method was found highly correlated to the one of the criterion: vehicles travel in different directions.&lt;/p&gt;
+&lt;p&gt;Simplified methods were also developed to identify potential roads by investigating the GPS point density, vehicle velocity, and the number of passes within a study unit. A simple linear relationship was found between the number of passes and the possibility for road existence. Although using vehicle velocity for identifying the potential roads may not be the best choose, velocity is still considered as one of the most important features to characterize vehicle movements and to locate special movement patterns. Considering the discrete situation in the predicted potential road areas, a kernel smoothing technique was introduced and applied to smooth the results to improve the continuity of the potential roads. The application found the kernel smoothing technique was able to obtain continuous potential road grids by selecting reasonable bandwidth.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2308</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3886&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2308</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3886</articleid>
+<submission-date>2013-10-18T13:36:22-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4740139</context-key>
+<submission-path>utk_graddiss/2308</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Paul D. Ayers</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Wesley Hines, Shih-Lung Shaw, John B. Wilkerson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

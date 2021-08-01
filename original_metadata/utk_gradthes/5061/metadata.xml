@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Calculating Molar Absorptivities for &lt;i&gt;cis&lt;/i&gt;-HNNO and &lt;i&gt;trans&lt;/i&gt;-HNNO Using Computational Methods</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Smith</lname>
+<fname>James</fname>
+<mname>Roger</mname>
+<suffix>III</suffix>
+</author>
+</authors>
+<abstract>&lt;p&gt;The David Anderson group at the University of Wyoming is currently investigating several chemical reactions that take place in solid parahydrogen (pH&lt;sub&gt;2&lt;/sub&gt;), using a technique that is commonly known as parahydrogen matrix isolation. One of the reactions they are studying is between H and N&lt;sub&gt;2&lt;/sub&gt;O, yielding a product of &lt;i&gt;cis&lt;/i&gt;-HNNO which isomerizes over time into &lt;i&gt;trans&lt;/i&gt;-HNNO. Molar absorptivities for &lt;i&gt;cis&lt;/i&gt;-HNNO and &lt;i&gt;trans&lt;/i&gt;-HNNO were calculated for the Anderson group because the isotope of HNNO (H&lt;sup&gt;15&lt;/sup&gt;N&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;18&lt;/sup&gt;O) that they are studying does not have calculated values. A paper by Peterson and Francisco had already calculated molar absorptivity values for a different isotope of HNNO (H&lt;sup&gt;14&lt;/sup&gt;N&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;16&lt;/sup&gt;O). These literature values were used to ensure that our computational methods were being implemented correctly. The literature values assume the double harmonic approximation (DHA). We were able to recreate frequency values and get reasonably close molar absorptivities for the normal isotope of both isomers assuming the DHA. Additionally, we computed frequencies and molar absorptivities for the heavy isotope assuming the DHA. Our results for the molar absorptivity ratios of the heavy HNNO isotope did not match the experimental results gathered by the Anderson group, suggesting that we needed to go beyond the DHA. We did this by calculating molar absorptivities when considering a non-linear dipole moment function and calculating molar absorptivities when considering anharmonic vibrations. While both of these new assumptions generally improved ratios of molar absorptivities, they still did not match the Anderson group’s ratios, meaning there are more things we must consider. Geometric analysis of normal modes suggests that coupling is likely involved in the potential energy function of the molecule and must be considered for calculating molar absorptivities for future work.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5061</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6468&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5061</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6468</articleid>
+<submission-date>2018-12-03T13:06:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414756</context-key>
+<submission-path>utk_gradthes/5061</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>Katherine L. Grzywacz-Jones, Konstantinos Vogiatzis, Bin Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

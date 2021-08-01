@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sensitivity Analysis for Best-Estimate Thermal Models of Vertical Dry Cask Storage Systems</title>
+<publication-date>2017-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>DeVoe</lname>
+<fname>Remy</fname>
+<mname>R</mname>
+</author>
+<author>
+<email>robbkr@ornl.gov</email>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Robb</lname>
+<fname>Kevin</fname>
+<mname>R</mname>
+</author>
+<author>
+<email>sskutnik@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Skutnik</lname>
+<fname>Steven</fname>
+</author>
+</authors>
+<keywords>
+<keyword>COBRA-SFS</keyword>
+<keyword>Dry cask storage</keyword>
+<keyword>Used nuclear fuel</keyword>
+<keyword>Peak clad temperature</keyword>
+<keyword>Sensitivity analysis</keyword>
+</keywords>
+<disciplines><discipline>Energy Systems</discipline>
+<discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Loading requirements for dry cask storage of spent nuclear fuel are driven primarily by decay heat capacity limitations, which themselves are determined through recommended limits on peak cladding temperature within the cask. This study examines the relative sensitivity of peak material temperatures within the cask to parameters that influence both the stored fuel residual decay heat as well as heat removal mechanisms. These parameters include the detailed reactor operating history parameters (e.g., soluble boron concentrations and the presence of burnable poisons) as well as factors that influence heat removal, including non-dominant processes (such as conduction from the fuel basket to the canister and radiation within the canister) and ambient environmental conditions. By examining the factors that drive heat removal from the cask alongside well-understood factors that drive decay heat, it is therefore possible to make a contextual analysis of the most important parameters to evaluation of peak material temperatures within the cask.&lt;/p&gt;
+&lt;p&gt;The goal of this analysis is to afford modelers the ability to develop best-estimate thermal models for vertical dry cask storage systems useful for material degradation studies. In contrast to more conservative bounding analyses used for safety and licensing studies (which are primarily intended to illustrate that recommended temperature limits are not exceeded), material degradation phenomena are frequently temperature-dependent, requiring best-estimate thermal models to properly evaluate.&lt;/p&gt;
+&lt;p&gt;The canister-level parameters that have the greatest impact on peak fuel material temperatures drive convective heat transfer in the cask annulus (comprised of the region between the storage canister and the concrete overpack) and within the canister basket. These parameters include the ambient air temperature, the canister fill gas pressure, and the pressure drop between the annular region inlet and outlet. Other cask design parameters which would be expected to contribute substantially to the peak clad temperature were overall proved to be of marginal significance, including material properties such as the fuel basket thermal conductivity and emissivity, along with frictional flow losses from the spacer grid. Meanwhile, factors that drive conduction from the fuel basket region and material properties which drive radiative transport between the fuel and basket likewise exhibit low sensitivity for peak clad temperature estimates.&lt;/p&gt;
+&lt;p&gt;Fuel irradiation history parameters that drive decay heat (such as the discharge burnup and average moderator density) nevertheless dominate peak clad temperature sensitivity. While the assembly power history significantly influences short-term decay heat post-discharge, it manifests minimal sensitivity for cooling times over 10 years and is thus of negligible importance for assemblies stored in wet storage for at least this time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_nuclpubs/4</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1007&amp;amp;context=utk_nuclpubs&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1007</articleid>
+<submission-date>2018-10-24T07:07:44-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Nuclear Engineering</publication-title>
+<context-key>13153035</context-key>
+<submission-path>utk_nuclpubs/4</submission-path>
+<fields>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Remy R. DeVoe, Kevin R. Robb, Steven E. Skutnik, &quot;Sensitivity analysis for best-estimate thermal models of vertical dry cask storage systems,&quot; Nuclear Engineering and Design, Volume 320, 2017, Pages 282-297, ISSN 0029-5493</value>
+</field>
+<field name="doi" type="string">
+<value>10.1016/j.nucengdes.2017.06.005</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-15T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Nuclear Engineering and Design</value>
+</field>
+<field name="submission_type" type="string">
+<value>Post-print</value>
+</field>
+</fields>
+</document>
+</documents>

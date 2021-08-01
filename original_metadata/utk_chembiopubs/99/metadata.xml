@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploring complex cellular phenotypes and model-guided strain design with a novel genome-scale metabolic model of Clostridium thermocellum DSM 1313 implementing an adjustable cellulosome</title>
+<publication-date>2016-09-06T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Thompson</lname>
+<fname>R.</fname>
+<mname>Adam</mname>
+</author>
+<author>
+<institution>Oak Ridge Natinoal Laboratory</institution>
+<lname>Dahal</lname>
+<fname>Sanjeev</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Garcia</lname>
+<fname>Sergio</fname>
+</author>
+<author>
+<institution>Oak Ridge National Laboratory</institution>
+<lname>Nookaew</lname>
+<fname>Intawat</fname>
+</author>
+<author>
+<email>ctrinh@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Trinh</lname>
+<fname>Cong</fname>
+<mname>T</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Clostridium thermocellum</keyword>
+<keyword>Genome-scale model</keyword>
+<keyword>Consolidated bioprocessing</keyword>
+<keyword>Biofuels</keyword>
+<keyword>Bioenergetics</keyword>
+<keyword>Elementary mode analysis</keyword>
+<keyword>Flux balance analysis</keyword>
+<keyword>Rational strain design</keyword>
+<keyword>Minimal cut sets</keyword>
+</keywords>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; Clostridium thermocellum is a gram-positive thermophile that can directly convert lignocellulosic material into biofuels. The metabolism of C. thermocellum contains many branches and redundancies which limit biofuel production, and typical genetic techniques are time-consuming. Further, the genome sequence of a genetically tractable strain C. thermocellum DSM 1313 has been recently sequenced and annotated. Therefore, developing a comprehensive, predictive, genome-scale metabolic model of DSM 1313 is desired for elucidating its complex phenotypes and facilitating model-guided metabolic engineering.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt; We constructed a genome-scale metabolic model iAT601 for DSM 1313 using the KEGG database as a scaffold and an extensive literature review and bioinformatic analysis for model refinement. Next, we used several sets of experimental data to train the model, e.g., estimation of the ATP requirement for growth-associated maintenance (13.5 mmol ATP/g DCW/h) and cellulosome synthesis (57 mmol ATP/g cellulosome/h). Using our tuned model, we investigated the effect of cellodextrin lengths on cell yields, and could predict in silico experimentally observed differences in cell yield based on which cellodextrin species is assimilated. We further employed our tuned model to analyze the experimentally observed differences in fermentation profiles (i.e., the ethanol to acetate ratio) between cellobiose- and cellulose-grown cultures and infer regulatory mechanisms to explain the phenotypic differences. Finally, we used the model to design over 250 genetic modification strategies with the potential to optimize ethanol production, 6155 for hydrogen production, and 28 for isobutanol production.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; Our developed genome-scale model iAT601 is capable of accurately predicting complex cellular phenotypes under a variety of conditions and serves as a high-quality platform for model-guided strain design and metabolic engineering to produce industrial biofuels and chemicals of interest.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_chembiopubs/99</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1103&amp;amp;context=utk_chembiopubs&amp;amp;unstamped=1</fulltext-url>
+<label>99</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1103</articleid>
+<submission-date>2017-02-16T11:57:22-08:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Chemical and Biomolecular Engineering</publication-title>
+<context-key>9701220</context-key>
+<submission-path>utk_chembiopubs/99</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article is distributed under the terms of the Creative Commons Attribution 4.0 International License: (http://creativecommons.org/licenses/by/4.0/)&lt;/p&gt;</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Thompson, R. A., Dahal, S., Garcia, S., Nookaew, I., &amp; Trinh, C. T. (2016). Exploring complex cellular phenotypes and model-guided strain design with a novel genome-scale metabolic model of Clostridium thermocellum DSM 1313 implementing an adjustable cellulosome. Biotechnology for Biofuels, 9(1), 194.</value>
+</field>
+<field name="doi" type="string">
+<value>10.1186/s13068-016-0607-x</value>
+</field>
+<field name="peer_rev" type="boolean">
+<value>true</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-09-06T00:00:00-07:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Biotechnology for Biofuels</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

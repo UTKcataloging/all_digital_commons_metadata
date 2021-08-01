@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Implementation of a Computational Surgical Planning Model for Pre-Operative Planning and Post-Operative Assessment and Analysis of Total Hip Arthroplasty</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dta@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Ta</lname>
+<fname>Manh</fname>
+<mname>Duc</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Total Hip Arthroplasty</keyword>
+<keyword>Surgical Planning</keyword>
+<keyword>Mathematical Modeling</keyword>
+<keyword>Surgical Outcomes</keyword>
+<keyword>Hip Separation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Total hip arthroplasty (THA) is most often used to treat osteoarthritis of the hip joint. Due to lack of a better alternative, newer designs are evaluated experimentally using mechanical simulators and cadavers. These evaluation techniques, though necessary, are costly and time-consuming, limiting testing on a broader population. Due to the advancement in technology, the current focus has been to develop patient-specific solutions. The hip joint can be approximated as encompassing a bone socket geometry, and therefore the shapes of the implant are well constrained. The variability of performance after the surgery is mostly driven by surgical procedures. It is believed that placing the acetabular component within the “safe zone” will commonly lead to successful surgical outcomes [1]. Unfortunately, recent research has revealed problems with the safe zone concept, and there is a need for a better tool which can aid surgeons in planning for surgery.With the advancement of computational power, more recent focus has been applied to the development of simulation tools that can predict implant performances. In this endeavor, a virtual hip simulator is being developed at the University of Tennessee Knoxville to provide designers and surgeons alike instant feedback about the performance of the hip implants. The mathematical framework behind this tool has been developed.In this dissertation, the primary focus is to further expand the capabilities of the existing hip model and develop the front-end that can replicate a total hip arthroplasty surgery procedure pre-operatively, intra-operatively, and post-operatively. This new computer-assisted orthopaedic surgical tool will allow surgeons to simulate surgery, then predict, compare, and optimize post-operative THA outcomes based on component placement, sizing choices, reaming and cutting locations, and surgical methods. This more advanced mathematical model can also reveal more information pre-operatively, allowing a surgeon to gain ample information before surgery, especially with difficult and revision cases. Moreover, this tool could also help during the implant development design process as designers can instantly simulate the performance of their new designs, under various surgical, simulated in vivo conditions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5457</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6993&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5457</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6993</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545500</context-key>
+<submission-path>utk_graddiss/5457</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Richard Komistek</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mohamed Mahfouz, Jeffrey Reinbolt, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

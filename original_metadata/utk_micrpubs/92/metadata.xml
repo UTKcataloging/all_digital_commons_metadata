@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Kinetics of HIV-Specific CTL Responses Plays a Minimal Role in Determining HIV Escape Dynamics</title>
+<publication-date>2018-02-08T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Yang</lname>
+<fname>Yiding</fname>
+</author>
+<author>
+<email>vitaly@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Ganusov</lname>
+<fname>Vitaly</fname>
+<mname>V.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>HIV</keyword>
+<keyword>CTL escape</keyword>
+<keyword>multiple responses</keyword>
+<keyword>mathematical model</keyword>
+<keyword>model fitting</keyword>
+<keyword>likelihood</keyword>
+</keywords>
+<abstract>&lt;p&gt;Cytotoxic T lymphocytes (CTLs) have been suggested to play an important role in controlling human immunodeficiency virus (HIV-1 or simply HIV) infection. HIV, due to its high mutation rate, can evade recognition of T cell responses by generating escape variants that cannot be recognized by HIV-specific CTLs. Although HIV escape from CTL responses has been well documented, factors contributing to the timing and the rate of viral escape from T cells have not been fully elucidated. Fitness costs associated with escape and magnitude of the epitope-specific T cell response are generally considered to be the key in determining timing of HIV escape. Several previous analyses generally ignored the kinetics of T cell responses in predicting viral escape by either considering constant or maximal T cell response; several studies also considered escape from different T cell responses to be independent. Here, we focus our analysis on data from two patients from a recent study with relatively frequent measurements of both virus sequences and HIV-specific T cell response to determine impact of CTL kinetics on viral escape. In contrast with our expectation, we found that including temporal dynamics of epitope-specific T cell response did not improve the quality of fit of different models to escape data. We also found that for well-sampled escape data, the estimates of the model parameters including T cell killing efficacy did not strongly depend on the underlying model for escapes: models assuming independent, sequential, or concurrent escapes from multiple CTL responses gave similar estimates for CTL killing efficacy. Interestingly, the model assuming sequential escapes (i.e., escapes occurring along a defined pathway) was unable to accurately describe data on escapes occurring rapidly within a short-time window, suggesting that some of model assumptions must be violated for such escapes. Our results thus suggest that the current sparse measurements of temporal CTL dynamics in blood bear little quantitative information to improve predictions of HIV escape kinetics. More frequent measurements using more sensitive techniques and sampling in secondary lymphoid tissues may allow to better understand whether and how CTL kinetics impacts viral escape.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_micrpubs/92</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1094&amp;amp;context=utk_micrpubs&amp;amp;unstamped=1</fulltext-url>
+<label>92</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1094</articleid>
+<submission-date>2018-07-23T07:31:26-07:00</submission-date>
+<publication-title>Microbiology Publications and Other Works</publication-title>
+<context-key>12525234</context-key>
+<submission-path>utk_micrpubs/92</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Yang, Yiding and Vitaly V. Ganusov. “Kinetics of HIV-Specific CTL Responses Plays a Minimal Role in Determining HIV Escape Dynamics.”  Frontiers in Immunology 9 (2018). https://doi.org/10.3389/fimmu.2018.00140.</value>
+</field>
+<field name="doi" type="string">
+<value>10.3389/fimmu.2018.00140</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-02-08T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>Frontiers in Immunology</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>data_sheet_1.pdf</archive-name>
+<upload-name>data_sheet_1.pdf</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1094&amp;amp;context=utk_micrpubs&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+</file>
+</supplemental-files>
+</document>
+</documents>

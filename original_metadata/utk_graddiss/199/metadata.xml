@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Programmable Frequency Divider Having a Wide Division Ratio Range, and Close-to-50% Output Duty-Cycle</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Mo</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In Radio Frequency (RF) integrated circuit design field, programmable dividers are getting more and more attentions in recent years. A programmable frequency divider can divide an input frequency by programmable ratios [1]. It is a key component of a frequency synthesizer. It also can be used to generate variable clock-signals for: switched-capacitor filters (SCFs), digital systems with different power-states, as well as multiple clock-signals on the same system-on-a-chip (SOC). These circuits need high performance programmable frequency dividers, operating at high frequencies and having wide division ratio ranges, with binary division ratio controls and 50% output duty-cycle.&lt;/p&gt;
+&lt;p&gt;Different types of programmable frequency dividers are reviewed and compared. A programmable frequency divider with a wide division ratio range of (8 ~ 524287) has been reported [2]. Because the output duty-cycle of this reported divider is far from 50%, the circuit in [2] has very limited applications. The proposed design solves this problem, without compromising other advantages of the design in [2]. The proposed design is fabricated in a 0.18-μm RF CMOS process. Test results show that the output duty-cycle is 50% when the division ratio is an even number. The duty-cycle is 44.4% when the division ratio is 9. The output duty-cycle becomes closer to 50% when the division ratio is an increasing odd number. For each division ratio, the output duty-cycle remains constant, with different input frequencies from GHz down to kHz ranges, with different temperatures and power supply voltages. This thesis provides an explanation of the design details and test results.&lt;/p&gt;
+&lt;p&gt;A Phase Locked-Loop (PLL) based frequency synthesizer can generate different output frequencies. A programmable frequency divider is an important component of this type of PLL. Since bandwidth is expensive, it is preferred to reduce the frequency channel distance of a frequency synthesizer. Using a fractional programmable divider, the frequency channel distance of a PLL can be reduced, without reducing the reference frequency or increasing the settling time of the PLL. A frequency synthesizer with a programmable fractional divider is designed and fabricated. A brief description of the PLL design and test results are presented in this dissertation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/199</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1246&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>199</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1246</articleid>
+<submission-date>2010-02-01T10:56:47-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127636</context-key>
+<submission-path>utk_graddiss/199</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed Kamrul Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Charles L. Britton,  Jr., Xiaobing Feng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/ZhangMo.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

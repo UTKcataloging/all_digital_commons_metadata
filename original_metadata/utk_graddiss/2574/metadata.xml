@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Decoding the `Nature Encoded&#39; Messages for Wireless Networked Control Systems</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sgong1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Gong</lname>
+<fname>Shuping</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wireless Networked Control System</keyword>
+<keyword>State Estimation</keyword>
+<keyword>Channel Decoding</keyword>
+</keywords>
+<disciplines><discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Because of low installation and reconfiguration cost wireless communication has been widely applied in networked control system (NCS). NCS is a control system which uses multi-purpose shared network as communication medium to connect spatially distributed components of control system including sensors, actuator, and controller. The integration of wireless communication in NCS is challenging due to channel unreliability such as fading, shadowing, interference, mobility and receiver thermal noise leading to packet corruption, packet dropout and packet transmission delay. In this dissertation, the study is focused on the design of wireless receiver in order to exploit the redundancy in the system state, which can be considered as a `nature encoding&#39; for the messages. Firstly, for systems with or without explicit channel coding, a decoding procedures based on Pearl&#39;s Belief Propagation (BP), in a similar manner to Turbo processing in traditional data communication systems, is proposed to exploit the redundancy in the system state. Numerical simulations have demonstrated the validity of the proposed schemes, using a linear model of electric generator dynamic system. Secondly, we propose a quickest detection based scheme to detect error propagation, which may happen in the proposed decoding scheme when channel condition is bad. Then we combine this proposed error propagation detection scheme with the proposed BP based channel decoding and state estimation algorithm. The validity of the proposed schemes has been shown by numerical simulations. Finally, we propose to use MSE-based transfer chart to evaluate the performance of the proposed BP based channel decoding and state estimation scheme. We focus on two models to evaluate the performance of BP based sequential and iterative channel decoding and state estimation. The numerical results show that MSE-based transfer chart can provide much insight about the performance of the proposed channel decoding and state estimation scheme.&lt;/p&gt;
+&lt;p&gt;In this dissertation, the study is focused on the design of wireless receiver in order to exploit the redundancy in the system state, which can be considered as a `nature encoding&#39; for the messages. Firstly, for systems with or without explicit channel coding, a decoding procedures based on Pearl&#39;s Belief Propagation (BP), in a similar manner to Turbo processing in traditional data communication systems, is proposed to exploit the redundancy in the system state. Numerical simulations have demonstrated the validity of the proposed schemes, using a linear model of electric generator dynamic system.&lt;/p&gt;
+&lt;p&gt;Secondly, we propose a quickest detection based scheme to detect error propagation, which may happen in the proposed decoding scheme when channel condition is bad. Then we combine this proposed error propagation detection scheme with the proposed BP based channel decoding and state estimation algorithm. The validity of the proposed schemes has been shown by numerical simulations.&lt;/p&gt;
+&lt;p&gt;Finally, we propose to use MSE-based transfer chart to evaluate the performance of the proposed BP based channel decoding and state estimation scheme. We focus on two models to evaluate the performance of BP based sequential and iterative channel decoding and state estimation. The numerical results show that MSE-based transfer chart can provide much insight about the performance of the proposed channel decoding and state estimation scheme.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2574</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3116&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2574</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3116</articleid>
+<submission-date>2013-06-23T20:59:49-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4252847</context-key>
+<submission-path>utk_graddiss/2574</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Husheng Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Cao, Seddik M. Djouadi, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

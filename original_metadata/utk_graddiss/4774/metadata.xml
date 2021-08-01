@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bioinformatic and Experimental Approaches for Deeper Metaproteomic Characterization of Complex Environmental Samples</title>
+<publication-date>2017-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>riyer@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Iyer</lname>
+<fname>Ramsunder</fname>
+<mname>Mahadevan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Metaproteomics</keyword>
+<keyword>de novo peptide sequencing</keyword>
+<keyword>Multi-dimensional Chromatography</keyword>
+<keyword>Unique Peptide Identification</keyword>
+<keyword>Mass Spectrometry</keyword>
+<keyword>community proteomics</keyword>
+</keywords>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Biotechnology</discipline>
+<discipline>Computational Biology</discipline>
+<discipline>Environmental Microbiology and Microbial Ecology</discipline>
+<discipline>Genomics</discipline>
+<discipline>Marine Biology</discipline>
+<discipline>Other Biochemistry, Biophysics, and Structural Biology</discipline>
+<discipline>Other Genetics and Genomics</discipline>
+<discipline>Systems Biology</discipline>
+</disciplines><abstract>&lt;p&gt;The coupling of high performance multi-dimensional liquid chromatography and tandem mass spectrometry for characterization of microbial proteins from complex environmental samples has paved the way for a new era in scientific discovery. The field of metaproteomics, which is the study of protein suite of all the organisms in a biological system, has taken a tremendous leap with the introduction of high-throughput proteomics. However, with corresponding increase in sample complexity, novel challenges have been raised with respect to efficient peptide separation via chromatography and bioinformatic analysis of the resulting high throughput data. In this dissertation, various aspects of metaproteomic characterization, including experimental and computational approaches have been systematically evaluated. In this study, robust separation protocols employing strong cation exchange and reverse phase have been designed for efficient peptide separation thus offering excellent orthogonality and ease of automation. These findings will be useful to the proteomics community for obtaining deeper non-redundant peptide identifications which in turn will improve the overall depth of semi-quantitative proteomics.&lt;/p&gt;
+&lt;p&gt;Secondly, computational bottlenecks associated with screening the vast amount of raw mass spectra generated in these proteomic measurements have been addressed. Computational matching of tandem mass spectra via conventional database search strategies lead to modest peptide/protein identifications. This seriously restricts the amount of information retrieved from these complex samples which is mainly due to high complexity and heterogeneity of the sample containing hundreds of proteins shared between different microbial species often having high level of homology. Hence, the challenges associated with metaproteomic data analysis has been addressed by utilizing multiple iterative search engines coupled with &lt;em&gt;de novo&lt;/em&gt; sequencing algorithms for a comprehensive and in-depth characterization of complex environmental samples.&lt;/p&gt;
+&lt;p&gt;The work presented here will utilize various sample types ranging from isolates and mock microbial mixtures prepared in the laboratory to complex community samples extracted from industrial waste water, acid-mine drainage and methane seep sediments. In a broad perspective, this dissertation aims to provide tools for gaining deeper insights to proteome characterization in complex environmental ecosystems.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4774</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6089&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4774</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6089</articleid>
+<submission-date>2017-06-01T10:44:47-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10238357</context-key>
+<submission-path>utk_graddiss/4774</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert L Hettich</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gladys Alexandre, Maria Cekanova, Margaret E. Staton, Dale A. Pelletier</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

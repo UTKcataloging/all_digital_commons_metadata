@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Various Topics on Graphical Structures Placed on Commutative Rings</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dweber3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Weber</lname>
+<fname>Darrin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>zero-divisor</keyword>
+<keyword>graph</keyword>
+<keyword>ideal</keyword>
+<keyword>cut-set</keyword>
+<keyword>commutative</keyword>
+<keyword>ring</keyword>
+</keywords>
+<disciplines><discipline>Algebra</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, we look at two types of graphs that can be placed on a commutative ring: the zero-divisor graph and the ideal-based zero-divisor graph. A zero-divisor graph is a graph whose vertices are the nonzero zero-divisors of a ring and two vertices are connected by an edge if and only if their product is 0. We classify, up to isomorphism, all commutative rings without identity that have a zero-divisor graph on 14 or fewer vertices.&lt;/p&gt;
+&lt;p&gt;An ideal-based zero-divisor graph is a generalization of the zero-divisor graph where for a ring &lt;em&gt;R&lt;/em&gt; and ideal &lt;em&gt;I&lt;/em&gt; the vertices are {&lt;em&gt; x&lt;/em&gt; ∈ &lt;em&gt;R&lt;/em&gt; \ &lt;em&gt;I&lt;/em&gt; | there exists &lt;em&gt;y&lt;/em&gt; ∈ &lt;em&gt;R&lt;/em&gt; \ &lt;em&gt;I&lt;/em&gt; such that &lt;em&gt;xy&lt;/em&gt; ∈ &lt;em&gt;I&lt;/em&gt; }, and two vertices are connected by an edge if and only if their product is in &lt;em&gt;I&lt;/em&gt;. We consider cut-sets in the ideal-based zero-divisor graph. A cut-set is a set of vertices that when they and their incident edges are removed from the graph, separate the graph into several connected components. We will describe all cut-sets in the ideal-based zero-divisor graph for commutative rings with identity.&lt;/p&gt;
+&lt;p&gt;We also give some additional results about two other graphical structures, as well as include a classification of realizable zero-divisor graphs that have a specified girth and diameter for commutative rings with and without identity.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4666</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5807&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4666</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5807</articleid>
+<submission-date>2017-02-23T12:52:22-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9739850</context-key>
+<submission-path>utk_graddiss/4666</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David F. Anderson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Shashikant Mulay, Marie Jameson, Vasileios Maroulas, Michael Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

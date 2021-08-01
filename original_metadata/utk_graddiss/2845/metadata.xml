@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Models Linking Epidemiology with Immunology and Ecology</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>enumfor@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Numfor</lname>
+<fname>Eric</fname>
+<mname>Shu</mname>
+</author>
+</authors>
+<keywords>
+<keyword>within-host dynamics</keyword>
+<keyword>between-host dynamics</keyword>
+<keyword>immuno-epidemiology</keyword>
+<keyword>eco-epidemiology</keyword>
+<keyword>stability</keyword>
+<keyword>optimal control</keyword>
+</keywords>
+<disciplines><discipline>Physical Sciences and Mathematics</discipline>
+</disciplines><abstract>&lt;p&gt;Optimal control can be used to design intervention strategies for the control of infectious diseases and predator-prey systems. In this dissertation, we studied models encapsulating two relatively new areas of mathematical biology, which combine epidemiology with immunology and ecology.&lt;/p&gt;
+&lt;p&gt;We formulated immuno-epidemiological models of coupled within-host model of ordinary differential equations and between-host model of ordinary differential equations and partial differential equations, using the Human Immunodeficiency Virus (HIV) for illustration, and set a framework for optimal control of immuno-epidemiological models. By constructing an iterative sequence from a representation formula for a solution to the linked model and using the fixed-point argument, existence and uniqueness of solution to the immuno-epidemiological model are obtained. An explicit expression for the basic reproduction number, R0 (R zero), of the linked model is derived, and local asymptotic and global stability results are obtained when R01, it is shown that the endemic equilibrium point is locally asymptotically stable. An optimal control problem with drug-treatment control on the within-host system is formulated and analyzed; these results are novel for optimal control of ODEs linked with such first order PDEs. Numerical simulations based on a forward-backward sweep method are obtained. Our analysis and control techniques give a new tool for investigating immuno-epidemiological models for other diseases.&lt;/p&gt;
+&lt;p&gt;An eco-epidemiological model of predator and prey, motivated by cats and birds on the Marion Island, is formulated and analyzed. Basic and demographic reproduction numbers are obtained, and stability analysis of equilibria is investigated. An optimal control problem involving scalar and time-dependent controls is formulated and analyzed. Existence, characterization and uniqueness results are obtained. Numerical simulations based on a forward-backward sweep method illustrate the possibility of eradicating predators and conserving prey when a combination of control strategies are applied.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2845</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4178&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2845</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4178</articleid>
+<submission-date>2014-05-24T13:47:43-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5619480</context-key>
+<submission-path>utk_graddiss/2845</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Suzanne M. Lenhart</value>
+</field>
+<field name="advisor2" type="string">
+<value>Judy Day, Yulong Xing, Shigetoshi Eda</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

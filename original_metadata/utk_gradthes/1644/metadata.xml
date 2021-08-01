@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonparametric Discriminant Analysis in Forensic Ancestry Estimation: An Assessment of Utilitzed and Alternative Statistical Methods</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dmercer2@utk.edu</email>
+<lname>Mercer</lname>
+<fname>David Anthony</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ancestry Estimation</keyword>
+<keyword>Forensic Anthropology</keyword>
+<keyword>Discriminant Analysis</keyword>
+</keywords>
+<disciplines><discipline>Biological and Physical Anthropology</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis evaluates and compares the performances of four discriminant analysis techniques in forensic ancestry estimation using craniometric variables. Giles and Elliot (1962) were the first anthropologists to use discriminant analysis for ancestry estimation. They used Linear Discriminant Analysis (LDA) in an attempt to predict American White, American Black, and American Indian ancestry from craniometric variables. LDA has since been the dominant discriminant technique used for this purpose. It is the method that is exclusively used in FORDISC (Ousley and Jantz, 2005) and, until recently, was the only method applied to forensic craniometric ancestry estimation.&lt;/p&gt;
+&lt;p&gt;LDA, however, assumes the data for each group in the analysis are multivariate normally distributed and the group covariance matrices are equal. These assumptions are not usually addressed in research; they are often assumed as satisfied (Feldesman, 2002). In fact FORDISC includes a test for equal covariances, but not multivariate normality. It assumes the latter condition is met (Ousley and Jantz, 2012). Furthermore, it does not provide an alternative option when LDA’s assumptions are violated.&lt;/p&gt;
+&lt;p&gt;This thesis evaluates and compares the assumptions and performances of LDA and three other discriminant techniques (i.e., quadratic discriminant analysis, k-nearest neighbor analysis, and classification trees) in craniometric ancestry estimation. Each method has unique assumptions about the data, so each may be appropriate for different situations. It is important to apply methods with satisfied assumptions because the results may not be interpretable or gerneralizable otherwise.&lt;/p&gt;
+&lt;p&gt;The results show that a few outliers are often the cause of violations of multivariate normality. However, covariance equality is difficult to achieve and was not present for any evaluation. LDA had the best overall classification performance. However, its assumptions are often violated. Classification trees are the recommended alternative when LDA’s assumptions are not met. Though its performance is likely lower than that of LDA, it offers many advantages that make it a useful method, such as its lack of data assumptions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1644</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2637&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1644</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2637</articleid>
+<submission-date>2013-02-28T11:55:03-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/2637/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>3808053</context-key>
+<submission-path>utk_gradthes/1644</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Amy Z. Mundorff</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Seaver, Richard Jantz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Arts</value>
+</field>
+<field name="department" type="string">
+<value>Anthropology</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

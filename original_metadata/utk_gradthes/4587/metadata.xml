@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Inverse Application of Conformal Mapping Techniques to Describe Groundwater Flow-Regimes through a Window in the Upper Claiborne Confining Layer</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>McMahon</lname>
+<fname>Patrick</fname>
+<mname>Lasater</mname>
+</author>
+</authors>
+<disciplines><discipline>Environmental Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The purpose of this study was to establish an inverse algorithm to solve the analytic element groundwater modeling equations, developed by Anderson (2001), for state parameters based on head data from an appropriate field site. The analytical element model (AEM) equations developed by Anderson (2001) are a complex variable technique to describe flow regimes through a gap in a confining layer that otherwise separates two confined aquifers. Anderson’s equations are based on the assumptions that hydraulic conductivity is constant in the respective confined aquifers. It also assumes a hydraulic conductivity of zero for the confining layers in the system.&lt;/p&gt;
+&lt;p&gt;A Levenberg-Marquardt based inverse algorithm was developed and applied to synthetic data created by the forward application of Anderson’s AEM equations based on state variables similar to those presented in the literature (Anderson 2001). The inverse algorithm was used to solve for the state parameters describing &lt;em&gt;window length&lt;/em&gt; (L) and &lt;em&gt;flux through the window&lt;/em&gt; (Q) given four head values observed in the forward solution. The inverse algorithm successfully predicted values for window length and flux through the window within 20% of the values used to create the synthetic head data. A study on the effect of an added observation point in the flow field was also performed. It was observed that an added observation point in the flow field resulted in better approximations of L and Q by the inverse algorithm.&lt;/p&gt;
+&lt;p&gt;The algorithm was then applied to an actual field case, the Shelby Farms Site in Memphis, Tennessee, in an attempt to predict the window extent and flux through the window based on head observations from four wells installed within the window. Based on data from three separate occasions, the algorithm produced a value for window length of L=573.9 ft and flow through a unit slice of the window of Q= -525.0 ft&lt;sup&gt;3&lt;/sup&gt;/day, which compares well with the value of 35,627 ft&lt;sup&gt;3&lt;/sup&gt;/day for the entire window profile from other recent studies at the Shelby Farms Site.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4587</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6115&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4587</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6115</articleid>
+<submission-date>2017-04-25T09:47:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10072567</context-key>
+<submission-path>utk_gradthes/4587</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Randall Gentry</value>
+</field>
+<field name="advisor2" type="string">
+<value>John Schwartz, Larry McKay</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Environmental Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

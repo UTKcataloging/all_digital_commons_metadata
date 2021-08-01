@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vulnerability Assessment and Privacy-preserving Computations in Smart Grid</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xniu@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Niu</lname>
+<fname>Xiangyu</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Modern advances in sensor, computing, and communication technologies enable various smart grid applications which highlight the vulnerability that requires novel approaches to the field of cybersecurity. While substantial numbers of technologies have been adopted to protect cyber attacks in smart grid, there lacks a comprehensive review of the implementations, impacts, and solutions of cyber attacks specific to the smart grid.In this dissertation, we are motivated to evaluate the security requirements for the smart grid which include three main properties: confidentiality, integrity, and availability. First, we review the cyber-physical security of the synchrophasor network, which highlights all three aspects of security issues. Taking the synchrophasor network as an example, we give an overview of how to attack a smart grid network. We test three types of attacks and show the impact of each attack consisting of denial-of-service attack, sniffing attack, and false data injection attack.Next, we discuss how to protect against each attack. For protecting availability, we examine possible defense strategies for the associated vulnerabilities.For protecting data integrity, a small-scale prototype of secure synchrophasor network is presented with different cryptosystems. Besides, a deep learning based time-series anomaly detector is proposed to detect injected measurement. Our approach observes both data measurements and network traffic features to jointly learn system states and can detect attacks when state vector estimator fails.For protecting data confidentiality, we propose privacy-preserving algorithms for two important smart grid applications. 1) A distributed privacy-preserving quadratic optimization algorithm to solve Security Constrained Optimal Power Flow (SCOPF) problem. The SCOPF problem is decomposed into small subproblems using the Alternating Direction Method of Multipliers (ADMM) and gradient projection algorithms. 2) We use Paillier cryptosystem to secure the computation of the power system dynamic simulation. The IEEE 3-Machine 9-Bus System is used to implement and demonstrate the proposed scheme. The security and performance analysis of our implementations demonstrate that our algorithms can prevent chosen-ciphertext attacks at a reasonable cost.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5317</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6861&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5317</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6861</articleid>
+<submission-date>2019-04-24T08:36:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>14343133</context-key>
+<submission-path>utk_graddiss/5317</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jinyuan Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Hairong Qi, Kevin Tomsovic</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

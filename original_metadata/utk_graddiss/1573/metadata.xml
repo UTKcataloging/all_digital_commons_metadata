@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computer modeling and signal analysis of cardiovascular physiology</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>hxia@utk.edu</email>
+<lname>Xia</lname>
+<fname>Henian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>cardiovascular</keyword>
+<keyword>computer modeling</keyword>
+<keyword>ECG</keyword>
+<keyword>finite element</keyword>
+<keyword>machine learning</keyword>
+<keyword>ICU</keyword>
+</keywords>
+<disciplines><discipline>Other Biomedical Engineering and Bioengineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation aims to study cardiovascular physiology from the cellular level to the whole heart level to the body level using numerical approaches.&lt;/p&gt;
+&lt;p&gt;A mathematical model was developed to describe electromechanical interaction in the heart. The model integrates cardio-electrophysiology and cardiac mechanics through excitation-induced contraction and deformation-induced currents. A finite element based parallel simulation scheme was developed to investigate coupled electrical and mechanical functions. The developed model and numerical scheme were utilized to study cardiovascular dynamics at cellular, tissue and organ levels. The influence of ion channel blockade on cardiac alternans was investigated. It was found that the channel blocker may significantly change the critical pacing period corresponding to the onset of alternans as well as the alternans’ amplitude. The influence of electro-mechanical coupling on cardiac alternans was also investigated. The study supported the earlier assumptions that discordant alternans is induced by the interaction of conduction velocity and action potential duration restitution at high pacing rates. However, mechanical contraction may influence the spatial pattern and onset of discordant alternans.&lt;/p&gt;
+&lt;p&gt;Computer algorithms were developed for analysis of human physiology. The 12-lead electrocardiography (ECG) is the gold standard for diagnosis of various cardiac abnormalities. However, disturbances and mistakes may modify physiological waves in ECG and lead to wrong diagnoses. This dissertation developed advanced signal analysis techniques and computer software to detect and suppress artifacts and errors in ECG. These algorithms can help to improve the quality of health care when integrated into medical devices or services. Moreover, computer algorithms were developed to predict patient mortality in intensive care units using various physiological measures.&lt;/p&gt;
+&lt;p&gt;Models and analysis techniques developed here may help to improve the quality of health care.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1573</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2713&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1573</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2713</articleid>
+<submission-date>2012-09-26T09:29:47-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2713/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3351276</context-key>
+<submission-path>utk_graddiss/1573</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaopeng Zhao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jindong Tan, Adam Petrie, Kivanc Ekici, Kwai Wong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Biomedical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The design and analysis of circular rings for splicing sign columns</title>
+<publication-date>2002-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Baird</lname>
+<fname>Derrick</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Circular rings are used extensively in the sign industry to splice columns of different sizes together. Typically two or three rings are used to splice the columns. Due to the complex geometry no straightforward design approach is applicable. The scope of this thesis limits the applied load to that from lateral wind pressure only. To analyze the rings an indeterminate static model is applied in spreadsheet form. The analysis is greatly simplified by only using four effective sections of the ring. The virtual sections are rectangular shaped and defined by a variable angle. The top column is treated as a rigid beam and the effective sections as springs. Finite element models are created to determine the actual stress in the rings. The stresses found in the finite element models are made to equal the stresses for the spreadsheet model by adjusting the angle defining the effective section. The angle and variables used in the model are entered into a statistical analysis platform to determine an approximation for the effective section angle. The approximation of the angle is entered in the spreadsheet model and the approximate stress is compared to the stress found from finite element analysis. The effective section method is applicable to designing circular rings if used with the approximation of effective section angle. Many configurations can be analyzed quickly with the approximation in spreadsheet form. The rigidity of the top column has more affect on the ring_ stress when the inertia of the top column is low. This result requires that larger factor of safety be used when the top column is small. The highest stress areas of the rings are the sections in tension and compression which lie in the same plane as the direction of applied lateral load. The percent difference between the actual and approximate stress averaged 9.2 percent for the top and bottom rings and 12.7 percent for the middle ring when used. The section angle required ranged between 2.8 and 21.5 degrees for the configurations tested here.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5884</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7517&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5884</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7517</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467538</context-key>
+<submission-path>utk_gradthes/5884</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John Landes</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

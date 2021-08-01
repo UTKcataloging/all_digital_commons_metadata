@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Compressed Sensing in Resource-Constrained Environments: From Sensing Mechanism Design to Recovery Algorithms</title>
+<publication-date>2015-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sli22@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Shuangjiang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Compressed Sensing</keyword>
+<keyword>Visual Sensor Networks</keyword>
+<keyword>Smartphone Sensing</keyword>
+<keyword>Image Recovery</keyword>
+<keyword>Nonlocal Filtering</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Engineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Compressed Sensing (CS) is an emerging field based on the revelation that a small collection of linear projections of a sparse signal contains enough information for reconstruction. It is promising that CS can be utilized in environments where the signal acquisition process is extremely difficult or costly, e.g., a resource-constrained environment like the smartphone platform, or a band-limited environment like visual sensor network (VSNs). There are several challenges to perform sensing due to the characteristic of these platforms, including, for example, needing active user involvement, computational and storage limitations and lower transmission capabilities. This dissertation focuses on the study of CS in resource-constrained environments.&lt;/p&gt;
+&lt;p&gt;First, we try to solve the problem on how to design sensing mechanisms that could better adapt to the resource-limited smartphone platform. We propose the compressed phone sensing (CPS) framework where two challenging issues are studied, the energy drainage issue due to continuous sensing which may impede the normal functionality of the smartphones and the requirement of active user inputs for data collection that may place a high burden on the user.&lt;/p&gt;
+&lt;p&gt;Second, we propose a CS reconstruction algorithm to be used in VSNs for recovery of frames/images. An efficient algorithm, NonLocal Douglas-Rachford (&lt;strong&gt;NLDR&lt;/strong&gt;), is developed. NLDR takes advantage of self-similarity in images using nonlocal means (NL) filtering. We further formulate the nonlocal estimation as the low-rank matrix approximation problem and solve the constrained optimization problem using Douglas-Rachford splitting method.&lt;/p&gt;
+&lt;p&gt;Third, we extend the NLDR algorithm to surveillance video processing in VSNs and propose&lt;strong&gt; &lt;/strong&gt;recursive Low-rank and Sparse estimation through Douglas-Rachford splitting (&lt;strong&gt;rLSDR&lt;/strong&gt;) method for recovery of the video frame into a low-rank background component and sparse component that corresponds to the moving object. The spatial and temporal low-rank features of the video frame, e.g., the nonlocal similar patches within the single video frame and the low-rank background component residing in multiple frames, are successfully exploited.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3438</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4833&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3438</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4833</articleid>
+<submission-date>2015-05-20T10:17:27-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7123074</context-key>
+<submission-path>utk_graddiss/3438</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Russell Zaretzki, Qing Cao, Husheng Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

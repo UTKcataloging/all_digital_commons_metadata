@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Power Management for Cloud-Scale Data Centers</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yzhang82@utk.edu</email>
+<lname>Zhang</lname>
+<fname>Yanwei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Power Management</keyword>
+<keyword>Cloud-Scale Data Centers</keyword>
+<keyword>Renewable Energy</keyword>
+</keywords>
+<disciplines><discipline>Other Computer Sciences</discipline>
+<discipline>Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Recent years have seen the rapid growth of large and geographically distributed data centers deployed by Internet service operators to support various services such as cloud computing. Consequently, high electricity bills, as well as negative environmental implications (e.g., CO2 emission and global warming) come along. In this thesis, we first propose a novel electricity bill capping algorithm that not only minimizes the electricity cost, but also enforces a cost budget on the monthly bill for cloud-scale data centers that impact the power markets. Our solution first explicitly models the impacts of the power demands induced by cloud-scale data centers on electricity prices and the power consumption of cooling and networking in the minimization of electricity bill. In the second step, if the electricity cost exceeds a desired monthly budget due to unexpectedly high workloads, our solution guarantees the quality of service for premium customers and trades off the request throughput of ordinary customers. We formulate electricity bill capping as two related constrained optimization problems and propose efficient algorithms based on mixed integer programming. We then propose GreenWare, a novel middleware system that conducts dynamic request dispatching to maximize the percentage of renewable energy used to power a network of distributed data centers, subject to the desired cost budget of the Internet service operator. Our solution first explicitly models the intermittent generation of renewable energy, e.g., wind power and solar power, with respect to varying weather conditions in the geographical location of each data center. We then formulate the core objective of GreenWare as a constrained I optimization problem and propose an efficient request dispatching algorithm based on linear-fractional programming (LFP).&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1413</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2444&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1413</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2444</articleid>
+<submission-date>2012-06-30T10:48:57-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>3042445</context-key>
+<submission-path>utk_gradthes/1413</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaorui Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Gregory D. Peterson, Fangxing Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

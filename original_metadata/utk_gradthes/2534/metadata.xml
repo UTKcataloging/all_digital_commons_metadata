@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Investigation of the Current Distribution in an HTS Triaxial Power Cable and its Operational Impacts on a Power System</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Young II</lname>
+<fname>Marcus</fname>
+<mname>Aaron</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;An investigation of the current distribution in a 3-phase triaxial superconducting cable was conducted to study the phase imbalance under steady-state operation and to assist in the construction of a transient model to study operational impacts in a power grid.&lt;/p&gt;
+&lt;p&gt;The triaxial cable consisted of three superconducting concentric phases inside a copper shield, with each phase composed of multiple layers of BSCCO tape wound helically in opposite directions. Current distribution within the cable was determined by using an electric circuit (EC) model containing the self and mutual inductances resulting from both axial and tangential magnetic fields. An AC loss term was also included in the model. Building on the EC model, a lumped cable model was used to investigate the effects of the triaxial cable on a power grid when faults are applied to the system. Cable lengths for future applications (~16 km) were considered.&lt;/p&gt;
+&lt;p&gt;Steady-state simulation of the EC model revealed that the electrical imbalance associated with the phases of the triaxial cable may be negligible for cable lengths less than one mile, but become more of a concern at greater lengths. Transient simulations showed that fault currents approaching 30 kAB&lt;sub&gt;peak&lt;/sub&gt;&lt;sub&gt;B&lt;/sub&gt; may be possible under certain conditions and that resulting induced shield currents may be substantial.&lt;/p&gt;
+&lt;p&gt;Recommendations for further research are provided as well as possible suggestions for alleviating the electrical imbalance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2534</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3825&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2534</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3825</articleid>
+<submission-date>2013-10-18T13:20:19-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4740032</context-key>
+<submission-path>utk_gradthes/2534</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Marshall O. Pace</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly Fathy, Michael J. Gouge</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

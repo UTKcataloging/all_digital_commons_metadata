@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Yield Measurement System for Seed Corn: Improving Dynamic Weight Accuracy and Harvest Area Determination</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>fmurillo@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Murillo</lname>
+<fname>Fatima</fname>
+<mname>Ellyn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer-vision</keyword>
+<keyword>effective header width</keyword>
+<keyword>mass-based yield monitoring</keyword>
+<keyword>rule-based system</keyword>
+<keyword>hybrid seed corn</keyword>
+</keywords>
+<disciplines><discipline>Bioresource and Agricultural Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A prototype weight-based yield mapping system for seed corn production was developed at the University of Tennessee (UTK) and field tested in Iowa. The first chapter of the following study focuses on assessing the accuracy of this yield mapping system which employs a novel yield prediction and analysis software called Yield Analyzer. Yield Analyzer was designed using a rule-based system for producing yield maps with minimal user input by automatically determining acceptable ranges for known dependent variables that contribute to dynamic weight measurement errors.&lt;/p&gt;
+&lt;p&gt;The second chapter of this thesis covers the development of a non-intrusive, machine vision technique to measure true width of crop entering a header during harvesting. The development of this technology would further contribute to the overall yield prediction accuracy by providing necessary information for calculating real-time changes in the area component of yield.&lt;/p&gt;
+&lt;p&gt;Using a rule-based system for yield data processing, Yield Analyzer produces two levels of site-specific yield measurements. At the first level of data acquisition, cart weight measurements compared to certified scale weights at an average absolute difference of 6.07 %. At the second level of data acquisition, weight, length, and yield measurements had a higher degree of variance.&lt;/p&gt;
+&lt;p&gt;For determination of effective header width, two vision-based classification methods were tested from real-time harvesting video data. The first method used color features for crop detection performed &gt; 90 % accuracy at 0.50 - 0.75 standard deviations from mean color feature descriptors. A linear support vector machine classifier trained with image SURF descriptors performed at &gt; 95 % classification accuracy when images from the entire video dataset were used for training.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4299</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5265&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4299</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5265</articleid>
+<submission-date>2016-07-09T11:44:33-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8818984</context-key>
+<submission-path>utk_gradthes/4299</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>John B. Wilkerson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul D. Ayers, Mongi A. Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Biosystems Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

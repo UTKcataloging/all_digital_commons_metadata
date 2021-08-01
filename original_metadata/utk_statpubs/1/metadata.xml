@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bias correction and Bayesian analysis of aggregate counts in SAGE libraries</title>
+<publication-date>2010-01-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zaretzki</lname>
+<fname>Russell</fname>
+<mname>L</mname>
+</author>
+<author>
+<lname>Gilchrist</lname>
+<fname>Michael</fname>
+<mname>A</mname>
+</author>
+<author>
+<lname>Briggs</lname>
+<fname>William</fname>
+<mname>M</mname>
+</author>
+<author>
+<lname>Armagan</lname>
+<fname>Artin</fname>
+</author>
+</authors>
+<disciplines><discipline>Veterinary Medicine</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Tag-based techniques, such as SAGE, are commonly used to sample the mRNA pool of an organism&#39;s transcriptome. Incomplete digestion during the tag formation process may allow for multiple tags to be generated from a given mRNA transcript. The probability of forming a tag varies with its relative location. As a result, the observed tag counts represent a biased sample of the actual transcript pool. In SAGE this bias can be avoided by ignoring all but the 3&#39; most tag but will discard a large fraction of the observed data. Taking this bias into account should allow more of the available data to be used leading to increased statistical power.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Three new hierarchical models, which directly embed a model for the variation in tag formation probability, are proposed and their associated Bayesian inference algorithms are developed. These models may be applied to libraries at both the tag and aggregate level. Simulation experiments and analysis of real data are used to contrast the accuracy of the various methods. The consequences of tag formation bias are discussed in the context of testing differential expression. A description is given as to how these algorithms can be applied in that context.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Several Bayesian inference algorithms that account for tag formation effects are compared with the DPB algorithm providing clear evidence of superior performance. The accuracy of inferences when using a particular non-informative prior is found to depend on the expression level of a given gene. The multivariate nature of the approach easily allows both univariate and joint tests of differential expression. Calculations demonstrate the potential for false positive and negative findings due to variation in tag formation probabilities across samples when testing for differential expression.&lt;/p&gt;
+&lt;p&gt;doi:10.1186/1471-2105-11-72&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_statpubs/1</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1000&amp;amp;context=utk_statpubs&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1000</articleid>
+<submission-date>2013-12-30T13:58:44-08:00</submission-date>
+<publication-title>Business Analytics &amp; Statistics Publications and Other Works</publication-title>
+<context-key>4947600</context-key>
+<submission-path>utk_statpubs/1</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article has been funded by the University of Tennessee&#39;s &lt;a href=&quot;http://www.lib.utk.edu/scholar/open-access/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-30T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

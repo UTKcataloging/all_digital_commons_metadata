@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Accelerating Exact Stochastic Simulation of Biochemical Systems</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>McCollum</lname>
+<fname>James</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The ability to accurately and efficiently simulate computer models of biochemical systems is of growing importance to the molecular biology and pharmaceutical research communities. Exact stochastic simulation is a popular approach for simulating such systems because it properly represents genetic noise and it accurately represents systems with small populations of chemical species. Unfortunately, the computational demands of exact stochastic simulation often limit its applicability. To enable next-generation whole-cell and multi-cell stochastic modeling, advanced tools and techniques must be developed to increase simulation efficiency. This work assesses the applicability of a variety of hardware and software acceleration approaches for exact stochastic simulation including serial algorithm improvements, parallel computing, reconfigurable computing, and cluster computing. Through this analysis, improved simulation techniques for biological systems are explored and evaluated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1829</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3252&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1829</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3252</articleid>
+<submission-date>2013-08-21T12:49:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4476174</context-key>
+<submission-path>utk_graddiss/1829</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson, Chris D. Cox</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Donald W. Bouldin, Michael L. Simpson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

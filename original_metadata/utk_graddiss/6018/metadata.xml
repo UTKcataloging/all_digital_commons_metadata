@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Discovering gene functional relationships using a literature-based NMF model</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Tjioe</lname>
+<fname>Elina</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Life sciences</keyword>
+</keywords>
+<abstract>&lt;p&gt;The rapid growth of the biomedical literature and genomic information presents a major challenge for determining the functional relationships among genes. Several bioinformatics tools have been developed to extract and identify gene relationships from various biological databases. However, an intuitive user-interface tool that allows the biologist to determine functional relationships among genes is still not available. In this study, we develop a Web-based bioinformatics software environment called FAUN or Feature Annotation Using Nonnegative matrix factorization (NMF) to facilitate both the discovery and classification of functional relationships among genes. Both the computational complexity and parameterization of NMF for processing gene sets are discussed. We tested FAUN on three manually constructed gene document collections, and then used it to analyze several microarray-derived gene sets obtained from studies of the developing cerebellum in normal and mutant mice. FAUN provides utilities for collaborative knowledge discovery and identification of new gene relationships from text streams and repositories (e.g., MEDLINE). It is particularly useful for the validation and analysis of gene associations suggested by microarray experimentation. The FAUN site is publicly available at http://grits.eecs.utk.edu/faun.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6018</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7951&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6018</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7951</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467737</context-key>
+<submission-path>utk_graddiss/6018</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

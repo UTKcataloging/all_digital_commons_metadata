@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Intelligent Fault Tolerant Control for Telerobotic System in Operational Space</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kim</lname>
+<fname>Sewoong</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering Science and Materials</discipline>
+</disciplines><abstract>&lt;p&gt;Telerobotic systems combine conventional teleoperation with industrial automation techniques, such as control, vision, planning, etc, to improve work efficiency, and have been expanding their applications from hazardous and remote areas to unstructured industrial uses. Unstructured environments and uncertainties in task space require human-in-the loop control to ensure and supervise safe operation since present autonomous capabilities cannot handle the vast range of tasks and uncertainties. The inherent characteristics of telerobotic systems make operational faults more likely, and require autonomous fault detection, isolation (FDI) and recovery abilities since the nature of task space makes it difficult for human operators to detect and recover from faults in a timely manner.&lt;/p&gt;
+&lt;p&gt;This dissertation addresses the issues of developing operational fault detection, isolation, and recovery strategies, and combines the developed methodologies with overall telerobotic system design. First, the framework for FDI and the associated supervisory control scheme are proposed to effectively integrate the FDI approaches into telerobotic systems. Secondly, for the generalization of the proposed FDI methodologies, the characteristics of operational faults and the relevant sensor signals are classified, and then typical operational faults, which can represent the other operational faults and telerobotic systems, are selected using classification and appropriate criteria. Next, the fault detection methodologies for the selected operational faults are proposed considering the characteristics of the sensory data. In this way, the proposed methodologies are generalized for operational FDI of telerobotic systems. The proposed methodologies are tested with an experimental telerobotic system or a computer simulation, and test results demonstrate the methodologies are feasible.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2137</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3583&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2137</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3583</articleid>
+<submission-date>2013-10-03T10:05:47-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4663215</context-key>
+<submission-path>utk_graddiss/2137</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>G.V. Smith, Reid L. Kress, J. Wesley Hines, Lynne E. Parker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

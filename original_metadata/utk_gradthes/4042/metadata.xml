@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Autonomous Android: Autonomous 3D Environment Mapping with Android Controlled Multicopters</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>thawkers@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hawkersmith</lname>
+<fname>Tate</fname>
+<mname>Glick</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Autonomous</keyword>
+<keyword>Robotics</keyword>
+<keyword>Multicopters</keyword>
+<keyword>3D</keyword>
+<keyword>Mapping</keyword>
+<keyword>Android</keyword>
+</keywords>
+<disciplines><discipline>Robotics</discipline>
+</disciplines><abstract>&lt;p&gt;Autonomous robots are robotic platforms with a high degree of autonomy, programmed to perform various behaviors or tasks. They can either be semi-autonomous, only operable within the strict confines of their direct environment, or fully autonomous, capable of sensing and navigating their environments without any human interaction.&lt;/p&gt;
+&lt;p&gt;In this thesis, I focus on fully autonomous robotic platforms, specifically multicopters, controlled by an onboard Android-driven device, a widely available operating system for smartphones and tablets with over 1.4 billion active monthly users worldwide [Callaham 2015]. The main objective of this research is to create a plug and play solution for autonomous 3D aerial mapping using consumer off-the-shelf multicopters and an Android device. I begin with an overview of 3D mapping using a depth sensor and fully autonomous multicopters as separate entities and then discuss the process of combining them into a single, self-contained unit using a modified version of a computer vision technique called SLAM (Simultaneous Localization and Mapping). My modified SLAM uses an internal map of locations and altitudes already visited, as well as obstacles detected, by the onboard depth sensor while creating a 3D map of the environment.&lt;/p&gt;
+&lt;p&gt;While using a combination of a major phone and tablet operating system and an affordable consumer multicopter makes scanning the real-world into a digital form available to millions of people, there are currently still limitations of this autonomous platform. My Android-based autonomous aerial mapping application serves as a base for future research into more detailed aspects of autonomous mapping for multicopters, such as object detection, recognition, and avoidance. I conclude with an analysis of the current applications of this technology with a more robust platform and the possible real-world applications for the future.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4042</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5233&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4042</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5233</articleid>
+<submission-date>2016-06-17T07:35:31-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8744497</context-key>
+<submission-path>utk_gradthes/4042</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne E. Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed K. Islam, Mongi A. Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

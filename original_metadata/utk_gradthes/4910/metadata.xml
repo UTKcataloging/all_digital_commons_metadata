@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enhancing License Plate Matching Algorithm: A New Evaluation Measurement and Threshold Determination</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bwhetsel@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Whetsel</lname>
+<fname>Brandon</fname>
+<mname>Cole</mname>
+</author>
+</authors>
+<keywords>
+<keyword>license plate</keyword>
+<keyword>text mining</keyword>
+<keyword>similarity</keyword>
+<keyword>edit distance</keyword>
+</keywords>
+<disciplines><discipline>Transportation Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The process of license plate matching has continued to improve over the last decade, moving from manually intensive to automated. The text-mining technique of edit distance has been crucial to this improvement. Edit distance is not without limitations, such as determining a threshold, intuitiveness of the measurement, and character length issues.&lt;/p&gt;
+&lt;p&gt;This paper proposes an alternative evaluation method for determining plate matches. The method utilizes conditional probability rules to calculate the likelihood that two plates are a match. The alternative method is not a replacement for the traditional edit distance calculation, but rather an additional tool for practitioners. Depending on the location and number of plates captured either calculation may outperform the other.&lt;/p&gt;
+&lt;p&gt;A derived measurement, i.e., z-score of travel time, was utilized to determine the threshold for both the probability and edit distance measurements. In this method, the standard deviation of the z-scores (of the travel time) is used to estimate number of true and false license plate matches. The number of matches is then inserted into a cost objective function to provide a tool of evaluating model performance by threshold without manually investigating true matches. The proposed methods will enable practitioners logically determine the evaluation measurement and its threshold based on the purpose of their LPR matching applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4910</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5780&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4910</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5780</articleid>
+<submission-date>2017-02-23T09:24:06-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_gradthes/article/5780/type/native/viewcontent</native-url>
+<publication-title>Masters Theses</publication-title>
+<context-key>9737702</context-key>
+<submission-path>utk_gradthes/4910</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lee D. Han</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christopher R. Cherry, Baoshan Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

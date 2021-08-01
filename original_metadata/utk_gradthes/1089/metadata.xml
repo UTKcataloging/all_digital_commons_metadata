@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>cytonGrasp: Cyton Alpha Controller via GraspIt! Simulation</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>noverfie@utk.edu</email>
+<lname>Overfield</lname>
+<fname>Nicholas Wayne</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ROS</keyword>
+<keyword>GraspIt!</keyword>
+<keyword>robotics</keyword>
+<keyword>Cyton</keyword>
+<keyword>grasp planning</keyword>
+<keyword>Denavit-Hartenberg Parameters</keyword>
+</keywords>
+<disciplines><discipline>Artificial Intelligence and Robotics</discipline>
+<discipline>Other Electrical and Computer Engineering</discipline>
+<discipline>Software Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis addresses an expansion of the control programs for the Cyton Alpha 7D 1G arm. The original control system made use of configurable software which exploited the arm’s seven degrees of freedom and kinematic redundancy to control the arm based on desired behaviors that were configured off-line. The inclusions of the GraspIt! grasp planning simulator and toolkit enables the Cyton Alpha to be used in more proactive on-line grasping problems, as well as, presenting many additional tools for on-line learning applications. In short, GraspIt! expands what is possible with the Cyton Alpha to include many machine learning tools and opportunities for future research. Noteworthy features of GraspIt!:&lt;/p&gt;
+&lt;p&gt;• A 3D user interface allowing the user to see and interact virtual objects, obstacles, and robots, in addition to a 3D representation of the Cyton Alpha&lt;/p&gt;
+&lt;p&gt;• A collision detection and contact determination system within simulation • On-line grasp analysis routines&lt;/p&gt;
+&lt;p&gt;• Visualization methods for determining the weak points within a grasp, as well as, creating projections of grasp quality and ability to resist dynamic forces.&lt;/p&gt;
+&lt;p&gt;• Computation of numerical grasp quality metrics and visualization methods for proposed grasps&lt;/p&gt;
+&lt;p&gt;• Dynamics engine&lt;/p&gt;
+&lt;p&gt;• Support for lower-dimensional hand posture subspaces&lt;/p&gt;
+&lt;p&gt;• Interaction with sensors (Flock of Birds tracker) and hardware (Pioneer robot) within simulation&lt;/p&gt;
+&lt;p&gt;• GraspIt! can generate huge databases of labeled grasp data, which can be used for data-driven grasp-planning algorithms and has built in support for the Columbia Grasp Database.&lt;/p&gt;
+&lt;p&gt;By making use of the GraspIt! simulator, it is possible to test algorithms for grasp manipulation, grasp planning, or grasp synthesis more quickly and with greater repeatability than would be possible on the real robot. Contributions of this system include:&lt;/p&gt;
+&lt;p&gt;1. A joint based 3D rendering of the Cyton Alpha 7D 1G arm&lt;/p&gt;
+&lt;p&gt;2. Simulated bodies for several objects in the DI Lab&lt;/p&gt;
+&lt;p&gt;3. Support for multiple representations of joint data within three-dimensional space&lt;/p&gt;
+&lt;p&gt;• Euler Angles&lt;/p&gt;
+&lt;p&gt;• Quaternions&lt;/p&gt;
+&lt;p&gt;• Denavit-Hartenberg Parameters&lt;/p&gt;
+&lt;p&gt;4. Framework for future work in grasp-planning, grasp synthesis, cooperative grasping tasks, and transfer learning applications with the Cyton Alpha arm.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1089</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2163&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1089</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2163</articleid>
+<submission-date>2011-08-06T12:13:09-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2136541</context-key>
+<submission-path>utk_gradthes/1089</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lynne Parker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Bruce MacLennan</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;Final Revision&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

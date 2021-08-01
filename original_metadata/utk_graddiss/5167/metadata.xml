@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Part decomposition of 3D surfaces</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Page</lname>
+<fname>David</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This dissertation describes a general algorithm that automatically decomposes realworld scenes and objects into visual parts. The input to the algorithm is a 3 D triangle mesh that approximates the surfaces of a scene or object. This geometric mesh completely specifies the shape of interest. The output of the algorithm is a set of boundary contours that dissect the mesh into parts where these parts agree with human perception. In this algorithm, shape alone defines the location of a bom1dary contour for a part. The algorithm leverages a human vision theory known as the minima rule that states that human visual perception tends to decompose shapes into parts along lines of negative curvature minima. Specifically, the minima rule governs the location of part boundaries, and as a result the algorithm is known as the Minima Rule Algorithm. Previous computer vision methods have attempted to implement this rule but have used pseudo measures of surface curvature. Thus, these prior methods are not true implementations of the rule. The Minima Rule Algorithm is a three step process that consists of curvature estimation, mesh segmentation, and quality evaluation. These steps have led to three novel algorithms known as Normal Vector Voting, Fast Marching Watersheds, and Part Saliency Metric, respectively. For each algorithm, this dissertation presents both the supporting theory and experimental results. The results demonstrate the effectiveness of the algorithm using both synthetic and real data and include comparisons with previous methods from the research literature. Finally, the dissertation concludes with a summary of the contributions to the state of the art.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5167</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6711&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5167</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6711</articleid>
+<submission-date>2019-02-11T12:24:58-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13799828</context-key>
+<submission-path>utk_graddiss/5167</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

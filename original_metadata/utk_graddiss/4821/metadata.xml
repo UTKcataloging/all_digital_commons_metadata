@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Optimal Allocation of Dynamic Var Sources Addressing FIDVR Issues</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>whuang12@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Huang</lname>
+<fname>Weihong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>dynamic var support</keyword>
+<keyword>FIDVR</keyword>
+<keyword>optimal siting</keyword>
+<keyword>optimal size</keyword>
+<keyword>voltage stability</keyword>
+<keyword>angular stability</keyword>
+</keywords>
+<abstract>&lt;p&gt;Dynamic reactive power sources, also called dynamic var sources such as SVCs and STATCOMs; can effectively mitigate fault-induced delayed voltage recovery (FIDVR) and short-term voltage stability issues. Allocation of dynamic var sources has become an essential research topic. Currently, the allocation of dynamic var sources needs to address three problems, including the optimal placement, optimal sizes, and optimal settings of var sources, which are usually solved separately.Optimization of placement, sizing, and setting of dynamic var sources are complicated nonlinear optimization problems due to their non-convexity and the dependence of the constraints on time-series trajectories of post-fault responses. Thus, solving those problems needs to utilize both a nonlinear optimization solver and a power system differential-algebraic equation (DAE) solver.In this dissertation, the placement of dynamic var sources is addressed by the empirical controllability covariance (ECC), which is calculated for representative operating conditions of a power system and is applied to quantify the degree of controllability of system voltage by dynamic var sources at specific locations. An optimal dynamic var source placement method addressing FIDVR issues is further formulated as an optimization problem that maximizes the determinant of the ECC. Then, selection of the sizes of dynamic var sources is addressed by multiple algorithms proposed by this work: 1) a linear programming (LP) based heuristic search algorithm, 2) a Voronoi diagram based algorithm, 3) an enhanced Voronoi diagram based algorithm integrating linear programming, and 4) a mesh adaptive direct search (MADS) based algorithm, which are all interfaced with power system simulation software for accurate voltage recovery trajectories with or without var supports. Those four algorithms can be applied under different conditions of the problem depending on the complexity of the power system, the number of dynamic var sources, and the requirements on computational time. Further, a MADS-based method is proposed to optimize five parameters of leading-lag controllers with dynamic var sources at predetermined locations with predetermined sizes to ensure post-fault fast voltage recovery and enhance angular stability. Meanwhile, case studies validate the effectiveness and efficiency of the proposed approaches.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4821</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6361&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4821</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6361</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276462</context-key>
+<submission-path>utk_graddiss/4821</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kai Sun</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mingzhou Jin, Fangxing Li, Leon M. Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

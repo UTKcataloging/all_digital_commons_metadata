@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An enriched network motif family regulates multistep cell fate transitions with restricted reversibility</title>
+<publication-date>2019-03-07T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Ye</lname>
+<fname>Yujie</fname>
+</author>
+<author>
+<institution>Fudan University, Shanghai</institution>
+<lname>Kang</lname>
+<fname>Xin</fname>
+</author>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bailey</lname>
+<fname>Jordan</fname>
+</author>
+<author>
+<institution>Fudan University, Shanghai</institution>
+<lname>Li</lname>
+<fname>Chunhe</fname>
+</author>
+<author>
+<email>hongtian@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Hong</lname>
+<fname>Tian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Network motifs</keyword>
+<keyword>T cells</keyword>
+<keyword>Notch signaling</keyword>
+<keyword>Network analysis</keyword>
+<keyword>Cell differentiation</keyword>
+<keyword>Gene expression</keyword>
+<keyword>Topology</keyword>
+<keyword>Transcriptional control</keyword>
+</keywords>
+<abstract>&lt;p&gt;Multistep cell fate transitions with stepwise changes of transcriptional profiles are common to many developmental, regenerative and pathological processes. The multiple intermediate cell lineage states can serve as differentiation checkpoints or branching points for channeling cells to more than one lineages. However, mechanisms underlying these transitions remain elusive. Here, we explored gene regulatory circuits that can generate multiple intermediate cellular states with stepwise modulations of transcription factors. With unbiased searching in the network topology space, we found a motif family containing a large set of networks can give rise to four attractors with the stepwise regulations of transcription factors, which limit the reversibility of three consecutive steps of the lineage transition. We found that there is an enrichment of these motifs in a transcriptional network controlling the early T cell development, and a mathematical model based on this network recapitulates multistep transitions in the early T cell lineage commitment. By calculating the energy landscape and minimum action paths for the T cell model, we quantified the stochastic dynamics of the critical factors in response to the differentiation signal with fluctuations. These results are in good agreement with experimental observations and they suggest the stable characteristics of the intermediate states in the T cell differentiation. These dynamical features may help to direct the cells to correct lineages during development. Our findings provide general design principles for multistep cell linage transitions and new insights into the early T cell development. The network motifs containing a large family of topologies can be useful for analyzing diverse biological systems with multistep transitions.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_biocpubs/99</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1109&amp;amp;context=utk_biocpubs&amp;amp;unstamped=1</fulltext-url>
+<label>99</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1109</articleid>
+<submission-date>2019-07-30T22:26:56-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Biochemistry, Cellular and Molecular Biology</publication-title>
+<context-key>15024660</context-key>
+<submission-path>utk_biocpubs/99</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;This article was published openly thanks to the University of Tennessee &lt;a href=&quot;https://www.lib.utk.edu/scholar/services/opsf/&quot;&gt;Open Publishing Support Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;Creative Commons Attribution 4.0 International license&lt;/a&gt;.&lt;/p&gt;</value>
+</field>
+<field name="custom_citation" type="string">
+<value>Ye Y, Kang X, Bailey J, Li C, Hong T (2019) An enriched network motif family regulates multistep cell fate transitions with restricted reversibility. PLoS Comput Biol 15(3): e1006855. https://doi.org/10.1371/journal.pcbi.1006855</value>
+</field>
+<field name="doi" type="string">
+<value>10.1371/journal.pcbi.1006855</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-03-07T00:00:00-08:00</value>
+</field>
+<field name="source_publication" type="string">
+<value>PLOS Computational Biology</value>
+</field>
+<field name="submission_type" type="string">
+<value>Publisher&#39;s Version</value>
+</field>
+</fields>
+</document>
+</documents>

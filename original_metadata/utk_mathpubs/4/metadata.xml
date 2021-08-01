@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ADAM: Analysis of Discrete Models of Biological Systems Using Computer Algebra</title>
+<publication-date>2013-07-11T10:18:18-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>Virginia Tech</institution>
+<lname>Hinkelmann</lname>
+<fname>Franziska</fname>
+</author>
+<author>
+<email>mbrando1@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Brandon</lname>
+<fname>Madison</fname>
+</author>
+<author>
+<institution>Harvey Mudd College</institution>
+<lname>Guang</lname>
+<fname>Bonny</fname>
+</author>
+<author>
+<institution>University of North Carolina</institution>
+<lname>McNeil</lname>
+<fname>Rustin</fname>
+</author>
+<author>
+<institution>Virginia Tech</institution>
+<lname>Blekherman</lname>
+<fname>Grigoriy</fname>
+</author>
+<author>
+<institution>Virginia Tech</institution>
+<lname>Veliz-Cuba</lname>
+<fname>Alan</fname>
+</author>
+<author>
+<institution>Virginia Tech</institution>
+<lname>Laubenbacher</lname>
+<fname>Reinhard</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;&lt;h3&gt;Abstract&lt;/h3&gt;  &lt;h4&gt;Background&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Many biological systems are modeled qualitatively with discrete models, such as probabilistic Boolean networks, logical models, Petri nets, and agent-based models, to gain a better understanding of them. The computational complexity to analyze the complete dynamics of these models grows exponentially in the number of variables, which impedes working with complex models. There exist software tools to analyze discrete models, but they either lack the algorithmic functionality to analyze complex models deterministically or they are inaccessible to many users as they require understanding the underlying algorithm and implementation, do not have a graphical user interface, or are hard to install. Efficient analysis methods that are accessible to modelers and easy to use are needed.  &lt;h4&gt;Results&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;We propose a method for efficiently identifying attractors and introduce the web-based tool Analysis of Dynamic Algebraic Models (&lt;em&gt;ADAM&lt;/em&gt;), which provides this and other analysis methods for discrete models. &lt;em&gt;ADAM &lt;/em&gt;converts several discrete model types automatically into polynomial dynamical systems and analyzes their dynamics using tools from computer algebra. Specifically, we propose a method to identify attractors of a discrete model that is equivalent to solving a system of polynomial equations, a long-studied problem in computer algebra. Based on extensive experimentation with both discrete models arising in systems biology and randomly generated networks, we found that the algebraic algorithms presented in this manuscript are fast for systems with the structure maintained by most biological systems, namely sparseness and robustness. For a large set of published complex discrete models, &lt;em&gt;ADAM &lt;/em&gt;identified the attractors in less than one second.  &lt;h4&gt;Conclusions&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Discrete modeling techniques are a useful tool for analyzing complex biological systems and there is a need in the biological community for accessible efficient analysis tools. &lt;em&gt;ADAM &lt;/em&gt;provides analysis methods based on mathematical algorithms as a web-based tool for several different input formats, and it makes analysis of complex models accessible to a larger community, as it is platform independent as a web-service and does not require understanding of the underlying mathematics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_mathpubs/4</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1004&amp;amp;context=utk_mathpubs&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1004</articleid>
+<submission-date>2013-07-11T10:17:38-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- Mathematics</publication-title>
+<context-key>4305639</context-key>
+<submission-path>utk_mathpubs/4</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2011, 12:295 doi:10.1186/1471-2105-12-295</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling and Analysis of Active Front-End Induction Motor Drive for Reactive Power Compensation</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Pandit</lname>
+<fname>Pankaj</fname>
+<mname>Prabhakar</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In this thesis, an active front end induction motor drive for reactive power compensation is analyzed. The classical vector control approach for high performance control of an induction motor drive is a well established industry standard today. The same idea of decoupled control is extended to the line-side PWM converter for achieving better dynamic performance.&lt;/p&gt;
+&lt;p&gt;The system model is obtained using &lt;em&gt;d-q&lt;/em&gt; rotating frame theory. The &lt;em&gt;i&lt;sub&gt;qe&lt;/sub&gt;&lt;/em&gt; component of line currents is used to control the reactive power. The &lt;em&gt;i&lt;sub&gt;de&lt;/sub&gt;&lt;/em&gt;component is used to control the dc-link voltage and also to supply active power required by the motor. A high gain feedback controller with input-output linearization is presented to remove coupling between &lt;em&gt;i&lt;sub&gt;qe&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;i&lt;sub&gt;de&lt;/sub&gt;&lt;/em&gt; currents. A load power feed-forward loop is added to the dc-link voltage controller for fast dynamic response.&lt;/p&gt;
+&lt;p&gt;The drive performance is analyzed to define system specifications. The motor acceleration, deceleration, and variable power factor operation (reactive power compensation) of the active drive system are demonstrated. The motor load is varied from no load to full load in steps of 10% each.  For each step the device currents, switching power loss, line harmonics, and dc-link ripples are plotted. This data is used to derive conclusions that define system specifications and also state operating limits.&lt;/p&gt;
+&lt;p&gt;The control of the drive system is implemented in MATLAB-SIMULINK. The complete system hardware is implemented in commercially available simulation tool, PSIM.  The two software packages are interlinked using an interface module.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2301</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3757&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2301</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3757</articleid>
+<submission-date>2013-10-17T11:58:37-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4733674</context-key>
+<submission-path>utk_gradthes/2301</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack S. Lawler, John N. Chiasson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Classification of ActiGraph GT9X Accelerometer and Gyroscope Data for Characterizing Youth Physical Activity</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>slamunio@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>LaMunion</lname>
+<fname>Samuel</fname>
+<mname>Robert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>machine learning</keyword>
+<keyword>activity classification</keyword>
+<keyword>wearable sensors</keyword>
+<keyword>validation</keyword>
+<keyword>physical activity</keyword>
+<keyword>youth</keyword>
+</keywords>
+<abstract>&lt;p&gt;PURPOSE: The purpose of this study is two-fold: 1) to determine if using gyroscope sensor data in place of accelerometer sensor data improves the classification of PA in youth compared to using only accelerometer sensor data, and 2) to determine if using a combined sensor approach improves classification of PA in youth compared to using either sensor independently. METHODS: These aims were evaluated two ways: 1) a within-sample cross-validation using semi-structured simulated free-living activities from 99 youth participants ages 6-18 years old, and 2) an out-of-sample validation using unstructured free-living activities from 42 youth participants ages 6-18 years old. PA data were collected using a GT9X device worn on the hip, left wrist, and right wrist. Participant’s PA behaviours were directly observed for both phases of the study to create criterion activity labels for each second of data. Four machine learning model types were developed (decision tree, random forest, logistic regression (lasso), and neural network) to classify 1) 14 individual activity classes, and 2) six activity group classes. Each model was trained using 1) accelerometer only data, 2) gyroscope only data, and 3) accelerometer + gyroscope data. RESULTS: For the within-sample cross-validation the combined sensor models achieved average classification accuracies of 61.5% for the individual activity classes and 82.0% for the activity groups, which outperformed the individual sensor models by an average of 10.4% for the individual activity classes and 5.3% for the activity groups, across all attachment sites. For the out-of-sample validation, the accelerometer only and combined sensor models classification accuracy decreased by 4.0%, 76.7% to 72.7% and 82.0% to 78.0%, respectively while the gyroscope only models maintained a classification accuracy of 76.7%. Adding transitions as a seventh activity group resulted in decreases in classification accuracy of 11.1% (within-sample) and 12.1% (out-of-sample) when compared to models excluding transitions. CONCLUSION: These studies conclude that using accelerometer and gyroscope sensor data together improves activity classification compared to using data from either single sensor alone when evaluated using semi-structured simulated free-living activity data and when using unstructured free-living activity data.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5886</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7652&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5886</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7652</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527808</context-key>
+<submission-path>utk_graddiss/5886</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Scott Crouter</value>
+</field>
+<field name="advisor2" type="string">
+<value>Eugene Fitzhugh, Joshua Weinhandl, Haileab Hilafu</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-7290-5189</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Kinesiology and Sport Studies</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2026-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

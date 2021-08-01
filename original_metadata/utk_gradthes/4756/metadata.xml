@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Z Deviation Based Demand Side Control to Reduce FIDVR</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>dlusby1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Lusby</lname>
+<fname>Derek</fname>
+<mname>Brittian</mname>
+</author>
+</authors>
+<keywords>
+<keyword>fidvr</keyword>
+<keyword>air conditioner</keyword>
+<keyword>load modeling</keyword>
+<keyword>power system</keyword>
+<keyword>voltage stability</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Accurate load modeling is key to depicting realistic system behavior in power system simulations. In the past, the use of static load models resulted in overly optimistic results, which led to unforeseen outages and issues following faults. One common cause of these types of unforeseen issues is Fault Induced Delayed Voltage Recovery (FIDVR). FIDVR occurs due to the stalling of single-phase residential air conditioners (A/C), and causes the voltage recovery after a fault to be slow. Improvements in load models over time have resulted in the capability of modeling load dynamics, and therefore better FIDVR.&lt;/p&gt;
+&lt;p&gt;A composite load model based on real world composition data is applied to a 179 bus system representing the WECC system. Then through mathematical derivation and fault analysis, a method, Z Deviation, is proposed as a way to identify the occurrence of FIDVR. Z Deviation is then implemented in a control scheme used to improve voltage recovery following FIDVR, and its effectiveness is compared to a device level protection scheme.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4756</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5538&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4756</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5538</articleid>
+<submission-date>2016-10-06T21:01:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>9242322</context-key>
+<submission-path>utk_gradthes/4756</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kevin L. Tomsovic</value>
+</field>
+<field name="advisor2" type="string">
+<value>Seddik M. Djouadi, Fangxing Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

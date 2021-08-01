@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fault Diagnostic System for Cascaded H-bridge Multilevel Inverter Drives Based on Artificial Intelligent Approaches Incorporating a Reconfiguration Technique</title>
+<publication-date>2007-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<lname>Khomfoi</lname>
+<fname>Surin</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A fault diagnostic and reconfiguration system in a multilevel inverter drive (MLID) using artificial intelligent based techniques is developed in this dissertation. Output phase voltages of a MLID can be used as valuable information to diagnose faults and their locations. It is difficult to diagnose a MLID system using a mathematical model because MLID systems consist of many switching devices and their system complexity has a nonlinear factor. Therefore, a neural network (NN) classification is applied to the fault diagnosis of a MLID system. Multilayer perceptron (MLP) networks are used to identify the type and location of occurring faults. The principal component analysis (PCA) is utilized in the feature extraction process to reduce the NN input size. A lower dimensional input space will also usually reduce the time necessary to train a NN, and the reduced noise may improve the mapping performance. The genetic algorithm is also applied to select the valuable principal components. The comparison among MLP neural network (NN), principal component neural network (PC-NN), and genetic algorithm based selective principal component neural network (PC-GA-NN) are performed.&lt;/p&gt;
+&lt;p&gt;Proposed neural networks are evaluated with simulation test set and experimental test set. The PC-NN has improved overall classification performance from NN by about 5% points, whereas PC-GA-NN has better overall classification performance from NN by about 7.5% points. Therefore, the application of a genetic algorithm improves the classification from PC-NN by about 2.5% point. The overall classification performance of the proposed networks is more than 90%.&lt;/p&gt;
+&lt;p&gt;A reconfiguration technique is also developed. The effects of using the developed reconfiguration technique at high modulation index are addressed. The developed fault diagnostic system is validated with experimental results. The developed fault diagnostic system requires about 6 cycles at 60 Hz to clear an open circuit and about 9 cycles at 60 Hz to clear a short circuit fault. The experimental results show that the developed system performs satisfactorily to detect the fault type, fault location, and reconfiguration.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/212</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1259&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>212</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1259</articleid>
+<submission-date>2010-02-01T12:03:55-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1127879</context-key>
+<submission-path>utk_graddiss/212</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack S. Lawler, J. Wesley Hines, Fangxing Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/KhomfoiSurin.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

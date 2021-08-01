@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Calibration and Rescaling Principles for Nonlinear Inverse Heat Conduction and Parameter Estimation Problems</title>
+<publication-date>2015-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>cyinyuan@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Yinyuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Inverse Problem</keyword>
+<keyword>Thermophysics</keyword>
+<keyword>Nonlinear Problem</keyword>
+<keyword>Parameter Estimation</keyword>
+</keywords>
+<disciplines><discipline>Heat Transfer, Combustion</discipline>
+<discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation provides a systematic method for resolving nonlinear inverse heat conduction problems based on a calibration formulation and its accompanying principles. It is well-known that inverse heat conduction problems are ill-posed and hence subject to stability and uniqueness issues. Regularization methods are required to extract the best prediction based on a family of solutions. To date, most studies require sophisticated and combined numerical methods and regularization schemes for producing predictions. All thermophysical and geometrical properties must be provided in the simulations. The successful application of the numerical methods relies on the accuracy of the related system parameters as previously described. Due to the existence of uncertainties in the system parameters, these numerical methods possess bias of varying magnitudes. The calibration based approaches are proposed to minimize the systematic errors since system parameters are implicitly included in the mathematical formulation based on several calibration tests. To date, most calibration inverse studies have been based on the assumption of constant thermophysical properties. In contrast, this dissertation focuses on accounting for temperature-dependent thermophysical properties that produces a nonlinear heat equation. A novel rescaling principle is introduced for linearzing the system. This concept generates a mathematical framework similar to that of the linear formulation. Unlike the linear formulation, the present approach does require knowledge of thermophysical properties. However, all geometrical properties and sensor characterization are completely removed from the system.&lt;/p&gt;
+&lt;p&gt;In this dissertation, a linear one-probe calibration method is first introduced as background. After that, the calibration method is generalized to the one-probe and two-probe, one-dimensional thermal system based on the assumption of temperature-dependent thermophysical properties. All previously proposed calibration equations are expressed in terms of a Volterra integral equation of the first kind for the unknown surface (net) heat flux and hence requires regularization owning to the ill-posed nature of first kind equations. A new strategy is proposed for determining the optimal regularization parameter that is independent of the applied regularization approach. As a final application, the described calibration principle is used for estimating unknown thermophysical properties above room temperature.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3328</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4679&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3328</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4679</articleid>
+<submission-date>2015-02-25T20:28:26-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6730888</context-key>
+<submission-path>utk_graddiss/3328</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jay Frankel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Majid Keyhani, Rao Arimilli, Jayne Wu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Methods for the Self-Consistent Determination of Thermophysical Properties from Two-Phase Molecular Dynamics Simulations</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Fern</lname>
+<fname>Jared</fname>
+<mname>T</mname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;There are many tools available to measure the thermophysical properties of compounds. Experimental measurements have been evolving for many years and are very accurate at determining the properties of most compounds. However, many of the measurements are unreliable when the compound of interest is thermally unstable.&lt;/p&gt;
+&lt;p&gt;Throughout the years molecular simulation techniques have been developed to understand the thermophysical properties of thermally unstable compounds. There are primarily two methods to study Vapor-Liquid Equilibrium by molecular simulation Gibbs Ensemble Monte Carlo and Molecular Dynamics. MD is a technique that allows one to simulate the vapor and the liquid in the same simulation cell. The advantage to having the vapor and liquid in the same simulation cell is that an interface forms and properties not available by GEMC can be investigated. However, the inclusion of the interface complicates the determination of the phase densities.&lt;/p&gt;
+&lt;p&gt;There are two methods available in the literature to determine the phase densities from a two-phase MD simulation. The first utilizes a hyperbolic tangent function to fit the density profile across the axis normal to the interface. The second method calculates the average of a local property spatially and then determines the resulting distribution function. The distribution function is used to determine the phases from user defined phase cut-offs. These methods only work well far from the critical point and have many adjustable parameters. These adjustable parameters make it difficult to reliably obtain accurate results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/167</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1214&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>167</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1214</articleid>
+<submission-date>2010-01-29T09:22:01-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1125394</context-key>
+<submission-path>utk_graddiss/167</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David Keffer</value>
+</field>
+<field name="advisor2" type="string">
+<value>William Steele, Brian Edwards, Robert Compton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/FernJared.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

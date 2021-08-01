@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Low-Power, Reconfigurable, Pipelined ADC with Automatic Adaptation for Implantable Bioimpedance Applications</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>trandall@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Randall</lname>
+<fname>Terence</fname>
+<mname>Cordell</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Pipelined ADC</keyword>
+<keyword>low-power data converter</keyword>
+<keyword>bioimpedance</keyword>
+<keyword>reconfigurable data converter</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Electrical and Electronics</discipline>
+<discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;Biomedical monitoring systems that observe various physiological parameters or electrochemical reactions typically cannot expect signals with fixed amplitude or frequency as signal properties can vary greatly even among similar biosignals. Furthermore, advancements in biomedical research have resulted in more elaborate biosignal monitoring schemes which allow the continuous acquisition of important patient information. Conventional ADCs with a fixed resolution and sampling rate are not able to adapt to signals with a wide range of variation. As a result, reconfigurable analog-to-digital converters (ADC) have become increasingly more attractive for implantable biosensor systems. These converters are able to change their operable resolution, sampling rate, or both in order convert changing signals with increased power efficiency.&lt;/p&gt;
+&lt;p&gt;Traditionally, biomedical sensing applications were limited to low frequencies. Therefore, much of the research on ADCs for biomedical applications focused on minimizing power consumption with smaller bias currents resulting in low sampling rates. However, recently bioimpedance monitoring has become more popular because of its healthcare possibilities. Bioimpedance monitoring involves injecting an AC current into a biosample and measuring the corresponding voltage drop. The frequency of the injected current greatly affects the amplitude and phase of the voltage drop as biological tissue is comprised of resistive and capacitive elements. For this reason, a full spectrum of measurements from 100 Hz to 10-100 MHz is required to gain a full understanding of the impedance. For this type of implantable biomedical application, the typical low power, low sampling rate analog-to-digital converter is insufficient. A different optimization of power and performance must be achieved.&lt;/p&gt;
+&lt;p&gt;Since SAR ADC power consumption scales heavily with sampling rate, the converters that sample fast enough to be attractive for bioimpedance monitoring do not have a figure-of-merit that is comparable to the slower converters. Therefore, an auto-adapting, reconfigurable pipelined analog-to-digital converter is proposed. The converter can operate with either 8 or 10 bits of resolution and with a sampling rate of 0.1 or 20 MS/s. Additionally, the resolution and sampling rate are automatically determined by the converter itself based on the input signal. This way, power efficiency is increased for input signals of varying frequency and amplitude.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3162</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4362&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3162</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4362</articleid>
+<submission-date>2014-10-08T10:07:42-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/4362/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>6217586</context-key>
+<submission-path>utk_graddiss/3162</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Syed K. Islam</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Nicole McFarlane, Jeremy Holleman, Joshua Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

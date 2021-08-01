@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Design of a Fast Neutron Radiography System for Non-Destructive Analysis of Thick, Dense Objects</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>aswift2@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Swift</lname>
+<fname>Alicia</fname>
+<mname>Lauren</mname>
+</author>
+</authors>
+<keywords>
+<keyword>non-destructive analysis</keyword>
+<keyword>time-of-flight</keyword>
+<keyword>fast neutron radiography</keyword>
+<keyword>ICCD camera</keyword>
+<keyword>scatter rejection</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation describes the development of a novel time-of-flight (TOF) fast neutron radiography system, TiGReSSE (&quot;Time Gating to Reject Scatter and Select Energy&quot;), for non-destructive analysis of thick, dense objects, such as a spent nuclear fuel cask. Such objects create large scatter fields that mask interior flaws in an image, and are impenetrable with traditional x-ray or low-energy neutron radiography. By using a fast pulsed, high-energy monoenergetic neutron source with TiGReSSE, TOF methods may be employed to completely reject this problematic scatter. If using TOF methods with a fast pulsed, high-energy polyenergetic neutron source instead, partial scatter rejection is possible, as is the variation of image contrast by selecting the neutron interrogation energy(ies). To accomplish scatter rejection and energy selection, the system uses a fast plastic scintillator to convert neutrons to visible light, which then enter an intensified charge coupled device camera to form a radiograph. The camera shutter is opened and closed at specific times to apply TOF methods. Experiments were conducted using a deuterium-tritium generator, as well as with polyenergetic spallation neutrons in two Los Alamos Neutron Science Center accelerator flight paths. These experiments were carried out to improve system design and determine system characteristics, while demonstrating that TiGReSSE could partially reject scatter and select energy in novel neutron energy ranges up to 600 MeV (i.e., 80% of the speed of light). It was also shown that optimal neutron radiography energies vary between objects. Simulations were also conducted using Los Alamos National Laboratory&#39;s radiation transport code, MCNP6, to further support system design and characterization, modeling properties including detector efficiency, dose to radiography objects during imaging, and direct-to-scatter ratios. MCNP6 was also used to design an optimal shielding configuration for the camera. Based on all work conducted, it is recommended that a pulsed monoenergetic neutron source with energy from 10 to 14 MeV be used for scatter rejection, and that a spallation target be used to create a polyenergetic pulsed source to also enable energy selection, while being mindful that other objects may exist that require higher energy neutrons.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3753</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5154&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3753</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5154</articleid>
+<submission-date>2016-02-23T11:09:40-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8198351</context-key>
+<submission-path>utk_graddiss/3753</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Howard Hall, Mariya Zhuravleva, Lawrence Heilbronn</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

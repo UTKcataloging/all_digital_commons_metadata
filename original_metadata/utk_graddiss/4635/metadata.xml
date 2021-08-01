@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Optimization Framework for Integrating Variable Capacity and Pavement Thickness Requirements in Highway Cost Allocation</title>
+<publication-date>2017-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>skumardu@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Kumar Dubey</lname>
+<fname>Saurav</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Transportation</keyword>
+<keyword>Linear Programming</keyword>
+<keyword>Cost Optimization</keyword>
+</keywords>
+<disciplines><discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The objective of Highway Cost Allocation (HCA) is to distribute or allocate in a fair and rational manner the cost of a transportation facility (either a highway or bridge) among all vehicle classes using it. The purpose of this dissertation is to study and enhance a model, known as the &lt;em&gt;least-core&lt;/em&gt; model, to include both pavement thickness and traffic capacity requirements for all coalitions formed with a given group of vehicle classes. Considering vehicle classes as players and groups of vehicle classes as coalitions, it is possible to quantify the thickness and width of pavement needed to accommodate the vehicle classes in a coalition. Typically, thickness of the pavement depends upon the traffic load, which is measured in &lt;em&gt;18,000 lb&lt;/em&gt;. &lt;em&gt;Equivalent Single Axle Load&lt;/em&gt; (ESAL). Additionally, the width of the pavement is measured in terms of &lt;em&gt;traffic lanes&lt;/em&gt;. The cost of the &lt;em&gt;grand coalition&lt;/em&gt; (including all players) is allocated using a linear programming (LP) model with constraints defining set of allocations belonging to the &lt;em&gt;core&lt;/em&gt; that represent three properties of completeness, marginality and rationality. The right hand side of the LP model is determined for a given coalition with known traffic load (ESAL) and traffic capacity requirements (lanes). The least-core model maximizes the lower bound on savings experienced by all vehicle classes as a result of joining the grand coalition. The resulting optimal solution can be a unique allocation or multiple allocations. If the optimal &lt;em&gt;basic feasible solution&lt;/em&gt; is unique, it is known as the &lt;em&gt;nucleolus&lt;/em&gt;. Otherwise, the nucleolus is the average of all optimal basic feasible solutions. Since enumeration of all optimal basic feasible solutions is considered inefficient, an existing algorithm -referred to in the literature as the sequential LP approach- is adapted to the HCA problem. The procedure converges to the nucleolus by solving a sequence of LP models using well-known complementary slackness conditions. Finally, necessary conditions are identified for a special case of the least-core model to occur, wherein a closed-form solution can be used to obtain the nucleolus.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4635</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6104&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4635</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6104</articleid>
+<submission-date>2017-06-09T10:26:00-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10274910</context-key>
+<submission-path>utk_graddiss/4635</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Alberto Garcia</value>
+</field>
+<field name="advisor2" type="string">
+<value>Anahita Khojandi, James L. Simonton, Qiang He</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

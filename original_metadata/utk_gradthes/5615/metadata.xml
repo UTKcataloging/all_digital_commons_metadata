@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Developer Reputation Estimator: Increasing the Transparency of Developer Contributions in Open Source Software</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>akarnauc@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Karnauch</lname>
+<fname>Andrey</fname>
+</author>
+</authors>
+<keywords>
+<keyword>developer reputation</keyword>
+<keyword>developer experience</keyword>
+<keyword>developer trust</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this work, we present Developer Reputation Estimator (DRE), a web application that measures the technical and social aspects of a developer&#39;s expertise in the open source software (OSS) ecosystem. We provide several measures, from basic activity trace counts (e.g. number of commits, projects, etc.) to more advanced impact measures, such as tracking code re-use for a particular developer. We perform these measures on a novel scale using the World of Code infrastructure, which houses over 18 billion Git objects from many of the major OSS platforms. Together, these measures increase the transparency of a developer&#39;s experience in OSS and can be utilized to quickly establish trust between developers by gauging each other&#39;s skill sets and social network. As a byproduct of developers signing up for DRE, we also build a ground-truth dataset consisting of author identities we know belong to a single developer as well as the ones they do not claim. This dataset can be used as a training set for researchers to perform identity correction on author identities to better model the relationship between developers and other entities in OSS.DRE is the first system that utilizes the WoC infrastructure in this way. It provides several use cases, including lowering the barrier of entry for developers attempting to contribute to a new OSS project, aiding researchers with a training dataset for identity correction, and allowing recruiters to corroborate resume claims made by applicants or seek out qualified developers based on a certain set of criteria. While this first version of DRE might not provide full support for each use case, we motivate these use cases and several other areas of future work to realize the full potential of our application.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5615</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7149&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5615</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7149</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539120</context-key>
+<submission-path>utk_gradthes/5615</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Audris Mockus</value>
+</field>
+<field name="advisor2" type="string">
+<value>Austin Henley, Scott Ruoti</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

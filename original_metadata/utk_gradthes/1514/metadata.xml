@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Low Noise CMOS Charge-Sensitive Preamplifier with Pole/Zero Compensation for a Neutron Detection System</title>
+<publication-date>2006-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Bunch</lname>
+<fname>Steven</fname>
+<mname>Curtis</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This thesis presents the design and implementation of a low noise CMOS charge sensitive preamplifier with pole/zero compensation for a neutron detector to be installed on the Spallation Neutron Source in Oak Ridge, TN. The first prototype chip has been fabricated using Taiwan Semiconductor Manufacturing Company (TSMC) 0.35 µm process. The system contains a preamplifier, an active resistive feedback network, a pole/zero compensation network, and the first real pole input to the shaper system. Experimental results of the system show that proper functionality was achieved. The preamplifier is noise dominant with only 540 rms electron noise at 5 pF detector capacitance and can be used with either a positive or negative input charge signal. The active resistive feedback network uses an on chip nanoampere current source for biasing and a 4-bit D/A converter for user selectable feedback resistance and detector leakage current compensation up to 15 nA. The pole/zero compensation network actively tracks the feedback network for automatic compensation. The first real pole sets the first time constant for the shaper system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1514</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2958&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1514</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2958</articleid>
+<submission-date>2013-07-30T13:31:46-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4361653</context-key>
+<submission-path>utk_gradthes/1514</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles L. Britton, Jr., Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

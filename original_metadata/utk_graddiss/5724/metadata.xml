@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Formation of Diversity - The Role of Environment and Biogeography in Dung Beetle Species Richness, and the Adequacy of Current Diversification Models</title>
+<publication-date>2019-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>oschwery@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Schwery</lname>
+<fname>Orlando</fname>
+<mname>Manuel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>diversification</keyword>
+<keyword>model adequacy</keyword>
+<keyword>phylogenetics</keyword>
+<keyword>Scarabaeinae</keyword>
+<keyword>monophyly</keyword>
+<keyword>biogeography</keyword>
+</keywords>
+<abstract>&lt;p&gt;Model based approaches to study the driving factors behind diversification have become increasingly popular, but in the recent years, various weaknesses of these models have received increased attention. One way to ensure those issues do not affect one’s inferences, is to test a model’s adequacy as a way to judge its suitability to describe the data in an absolute sense. Here, I implement a simple adequacy test for diversification models in the R package BoskR, using metrics for tree shape. I demonstrate the method’s ability to distinguish trees simulated under different models, and then use it to test the adequacy of a range of birth-death diversification models for a large set of empirical phylogenies. I find that while most models are adequate to describe a majority of the empirical trees, a few trees cannot be described by any of those models. Furthermore, the best fitting of a set of models may not always be adequate, highlighting the practical use of incorporating model adequacy tests in the standard procedures for diversification studies.For the empirical parts of my dissertation, I investigate the diversification and biogeography of dung beetles. It has been hypothesized that their origin and distribution are either the result of Gondwanan vicariance, or out-of-Africa dispersal. Furthermore, dung beetle diversification is thought to have been affected by mammals – particularly large herds of herbivores inhabiting the vast grasslands after the Miocene – and potentially also by non-avian dinosaurs, if dinosaur dung-adapted beetles were affected by the K-Pg extinction of their dung producers. Crucial to answering these questions is to know whether dung beetles are of Mesozoic or Cenozoic origin. Thus, I construct a large dated phylogeny, and use model-based inference to estimate their ancestral area, and the influence of range evolution and diversity of dung producers on their diversification rates. My results suggest that dung beetles originated in Gondwana during the Mesozoic, but it remains unclear to which extent range evolution affected diversification. While adaptation to dinosaur dung and subsequent co-extinction are plausible, the available data cannot support a radiation with the rise of grasslands and herds of herbivores.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5724</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7490&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5724</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7490</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419586</context-key>
+<submission-path>utk_graddiss/5724</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian C. O&#39;Meara</value>
+</field>
+<field name="advisor2" type="string">
+<value>James Fordyce, Kimberly Sheldon, Colin Sumrall</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;http://orcid.org/0000-0001-7373-7407&lt;/p&gt;</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;A version of Chapter I was originally published as: Schwery, O., O’Meara, B.C. “MonoPhy: A simple R package to find and visualize monophyly issues.” PeerJ Computer Science 2:e56. (2016) doi:10.7717/peerj-cs.56.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Ecology and Evolutionary Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

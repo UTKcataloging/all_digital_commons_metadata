@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Two-Phase Cooling Method Using R134a Refrigerant to Cool Power Electronics Devices</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Campbell</lname>
+<fname>Jeremy</fname>
+<mname>Bryant</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Power electronics are vital to the operation and performance of hybrid-electric vehicles (HEVs) because they provide the interface between the energy sources and the traction drive motor.  As with any “real” system, power electronic devices have losses in the form of heat energy during normal switching operation, which has the potential ability to damage or destroy the device.  Thus, to maintain reliability of the PE system, the heat energy produced must be removed. Present HEV cooling methods provide adequate cooling effects, but lack sufficient junction temperature control to maintain long-term reliability. This thesis is based on using the automobile’s air conditioning system as an alternative to conventional power electronics cooling methods for hybrid-electric vehicle applications.&lt;/p&gt;
+&lt;p&gt;This thesis describes the results from a series of experiments performed on a circuit containing an IGBT, gate controller card, and snubber while submerged in an automotive refrigerant bath (R134a).  The circuit was then tested while being cooled using a mock automotive air conditioning system.  Tests were performed on custom made thin-film resistors while being cooled by the same mock air conditioning system.  The thin-film resistors were arranged to resemble a six-switch, three-phase inverter in steady-state operation.  Lastly, an active IGBT junction cooling technique is described and simulated, which incorporates direct cooling of the junction of the power electronic device rather than its case.  The results from the simulation indicate the exposed junction IGBT technique would benefit the device by reducing the junction temperature, increasing forward current ratings, and increasing reliability.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1893</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3249&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1893</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3249</articleid>
+<submission-date>2013-09-20T09:04:53-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4608581</context-key>
+<submission-path>utk_gradthes/1893</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Leon M. Tolbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jack Lawler, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

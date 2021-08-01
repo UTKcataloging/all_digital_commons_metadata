@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A computational study of S. oneidensis MR-1 : discovering the role of hypothetical proteins</title>
+<publication-date>2002-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Yost</lname>
+<fname>Christal</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The genomes of many organisms have been sequenced in the last five years. The characterization of these proteomes is the next step in the process of attaining a global understanding of the workings of the pathways and protein complexes of organisms. It is difficult to computationally assign functional annotations for between thirty and fifty percent of hypothetical proteins from a newly sequenced genome. Sequence based search methods sometimes return little or no information about hypothetical proteins. In these situations three dimensional structural predictions combined with a suite of computational tools can suggest possible functions for these hypothetical proteins. The premise for development of this method is therefore that sequence-structurefunction annotations give experimentalists information that is not available using sequence searches alone. The ability to predict function for more of these hard to annotate hypotheticals will allow better characterization of proteomes, will help experimentalists choose possible candidate genes related to their area of research for further study, and will help with interpretation of microarray data.                                                                                                                                                                                                                                                                                                                                                      By predicting the secondary structures and then the threedimensional structures using the protein threading program PROSPECT, three hypothetical proteins of S. oneidensis MR-1 were assigned preliminary functional annotations. Once these preliminary predictions were made using protein threading, literature searches and computational tools were used to complete the functional predictions, and evaluate the accuracy of the preliminary predictions. Computational tools were used to perform transmembrane domain predictions, coiled coil predictions, signal peptide predictions, sub-cellular localization predictions, searches for conserved functional motifs, and operon structure evaluations. Results supported the preliminary sequence-structure-function predictions for the three hypothetical S. oneidensis MR-1 proteins suggesting that additional functional characterization may be performed using this computational method. This method provides an easy to understand protocol which uses freely available computational tools. Molecular biologists may use this method to gain insight into possible functions for hypothetical proteins of interest.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/6023</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7656&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>6023</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7656</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467685</context-key>
+<submission-path>utk_gradthes/6023</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dong Xu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transport Code Simulations for Shielded Special Nuclear Material Discrimination</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>grouleau@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Rouleau</lname>
+<fname>Gregory</fname>
+<mname>P.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>cargo</keyword>
+<keyword>active interrogation</keyword>
+<keyword>Special Nuclear Material</keyword>
+<keyword>nuclear transport biasing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Every year, millions of containers of cargo enter the United States. Radiation portal monitors based on passive emissions are used to determine if radiological threats are present. Special Nuclear Materials (SNM), which refers to certain uranium and plutonium isotopes, are of particular interest. Since even moderate shielding can prevent passive detection thereof, this thesis investigates use of an X-ray based active interrogation as an alternative. Active interrogation works by exposing the cargo container to a high energy beam which then induces gamma and neutron emissions from SNM that can be detected. Complicating matters, benign materials like lead and tungsten also emit gammas and neutrons when irradiated. In order to identify radiological threats, the active background produced by non-SNM must be estimated and subtracted from the measured data. We investigate use of the Monte Carlo N-Particle Transport Code (MCNP) developed at Los Alamos National Laboratory for generating the active background estimate given a density map of a cargo container. We show that MCNP, which is the gold standard for solving the Boltzmann transport equation, does indeed facilitate the desired material separation only not in the time required in spite of using variance reduction techniques for speeding up the computation. We also study use of Geant4, which is a Monte Carlo transport code from CERN, but find that better physics modules are needed in order for that to be a viable alternative. Finally, we look at discrete ordinates methods, namely, ADVANTG from Oak Ridge National Laboratory and Attila developed by Silver Fir Software. We conclude that the former, which is used to accelerate MCNP simulations, adds too much overhead, while the latter, which can be used to produce an approximate solution in and of itself, has potential for being a feasible platform once modeling of photo-nuclear reactions has been added.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5580</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7114&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5580</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7114</articleid>
+<submission-date>2020-12-04T08:30:03-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20409628</context-key>
+<submission-path>utk_gradthes/5580</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jens Gregor</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jason P. Hayward, Michael G. Thomason</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Semi-Implicit Direct Kinetics Methodology for Deterministic, Time-Dependent, Three-Dimensional, and Fine-Energy Neutron Transport Solutions</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jbanfie1@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Banfield</lname>
+<fname>James</fname>
+<mname>Ernest</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Nuclear Engineering</keyword>
+<keyword>Spatial Kinetics</keyword>
+<keyword>Multiphysics</keyword>
+<keyword>Fuel Performance</keyword>
+<keyword>Neutron Transport</keyword>
+<keyword>High Performance Computing</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Using a semi-implicit direct kinetics (SIDK) method that is developed in this dissertation, a finer neutron energy discretization and improved fidelity for transient radiation transport calculations are facilitated to reduce uncertainties and conservatisms in transient power and temperature predictions. These capabilities are implemented within a parallel computational solver framework, which is able to represent an arbitrary number of neutron energy groups, angles, and spatial discretizations, while internally coupled to an unstructured finite element multi-physics code for temperature and displacement calculations. This capability is demonstrated on a three-dimensional control rod ejection simulation run in parallel utilizing forty-four neutron energy groups.&lt;/p&gt;
+&lt;p&gt;An improved transient nuclear reactor simulation capability is developed by adapting the steady-state radiation transport code Denovo to solve the time-dependent Boltzmann transport equation for transient power distributions. The developed SIDK method is compared to fully-implicit direct kinetics, higher order time integration methods, as well as various computational benchmarks. Errors resulting from time integration, spatial discretization, angular treatment, multi-group treatment, homogenization of temperature, and power over the time step representation are explored.&lt;/p&gt;
+&lt;p&gt;For verification, the SIDK method is developed and tested externally and independently employing a few-group time-dependent neutron diffusion code which is compared to one and two-dimensional benchmarks with and without temperature feedbacks. The results of the semi-implicit direct kinetics method (SIDK) are shown to be accurate to within ~0.2% of direct kinetics and to execute roughly an order of magnitude faster, using a consistent space and time discretization. For sufficiently severe transients, the direct method is shown to produce lower errors with medium time steps than the SIDK method with fine steps, but proves to be subject to more severe oscillations at very coarse time steps than the SIDK method, in addition to producing similar errors (within 0.2 %) at medium spatial discretization with consistent time steps.&lt;/p&gt;
+&lt;p&gt;The objective of this dissertation is to provide developers of next generation high-performance computing neutron kinetics methods a guide to the benefits and costs of the dominant discretization strategies of time, space, neutron energy, and angle for the solution of the time-dependent Boltzmann transport equation.&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1694</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2727&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1694</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2727</articleid>
+<submission-date>2012-10-17T12:37:51-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2727/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3400213</context-key>
+<submission-path>utk_graddiss/1694</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Clarno, Brian Wirth, Robert Grzywacz, Bobby Philip</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

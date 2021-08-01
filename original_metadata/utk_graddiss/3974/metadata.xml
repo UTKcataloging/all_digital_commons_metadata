@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Solutions of Stochastic Differential Equations</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lwang43@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Wang</lname>
+<fname>Liguo</fname>
+</author>
+</authors>
+<keywords>
+<keyword>SDE</keyword>
+<keyword>numerical solution</keyword>
+<keyword>local Lipschitz</keyword>
+<keyword>Malliavin Calculus</keyword>
+</keywords>
+<disciplines><discipline>Probability</discipline>
+</disciplines><abstract>&lt;p&gt;In this dissertation, we consider the problem of simulation of stochastic differential equations driven by Brownian motions or the general Levy processes. There are two types of convergence for a numerical solution of a stochastic differential equation, the strong convergence and the weak convergence. We first introduce the strong convergence of the tamed Euler-Maruyama scheme under non-globally Lipschitz conditions, which allow the polynomial growth for the drift and diffusion coefficients. Then we prove a new weak convergence theorem given that the drift and diffusion coefficients of the stochastic differential equation are only twice continuously differentiable with bounded derivatives up to order 2 and the test function are third order continuously differentiable with all of its derivatives up to order 3 satisfying a polynomial growth condition. We also introduce the multilevel Monte Carlo method, which is efficient in reducing the total computational complexity of computing the expectation of a functional of the solution of a stochastic differential equation. This method combines the three sides of the simulation of stochastic differential equations: the strong convergence, the weak convergence and the Monte Carlo method. At last, a recent progress of the strong convergence of the numerical solutions of stochastic differential equations driven by Levy processes under non-globally Lipschitz conditions is also presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3974</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5331&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3974</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5331</articleid>
+<submission-date>2016-06-16T11:58:20-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8740744</context-key>
+<submission-path>utk_graddiss/3974</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jan Rosinski</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xia Chen, Xiaobing Feng, Wenjun Zhou</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

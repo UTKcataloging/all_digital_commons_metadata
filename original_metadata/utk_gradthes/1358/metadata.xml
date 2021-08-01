@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Versatile Wide-angle Lens Characterization Strategy for Use in the OMNIster Stereo Vision System</title>
+<publication-date>1997-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Johnson</lname>
+<fname>Keith</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This  thesis details the development of an accurate and  efficient wide-angle stereo vision system.  Wide-angle or fisheye stereo is desired because it provides the capa­bility to recover depth information for a large scene from a single  stereo image pair. However, nonlinear image distortions caused by  the  camera optics  complicate the necessary stereo processes of camera modeling and  disparity analysis . The  charac­terization and  removal of these lens distortions therefore is considered vital to stereo evaluation of fisheye images. Existing wide-angle stereo systems have maintained the use of pinhole projections to model the respective camera systems . This ideal projection model does not parametize lens distortion, and as a result, distortions must be described using a highly nonlinear error function.  Systems which incorpo­rate high-order polynomial point mappings, however, have failed to provide accurate distortion description and correction throughout  the system&#39;s field-of-view. Thus, the field-of-view advantage of the  wide-angle vision  system is reduced. This work initially investigates the  characterization of nonlinear wide-angle distortions using the  spherical lens projection model which inherently describes the  existence of radial distortions within its perspective transformations.  Although this physical distortion characterization of the  spherical lens  model  is computationally efficient,  it proves inaccurate when removing typical lens  distortions .  As a result, a more general lens characterization based conceptually on the framework of the spherical lens model, is developed to more accurately describe wide-angle lens distortions. More importantly, this lens characterization strategy provides the framework which is used to develop the OMNIster wide-angle stereo vision system.  This novel system avoids the customary methods of wide-angle stereo which require complete correction of the image pair prior to stereo analysis.  Instead, a correlation search strategy is developed that defines the nonlinear epipolar search constraints between the distorted image pairs.  Further, the algorithm is tested in a controlled stereo setup using both nonlinear lens characterization models, and the accuracy of the depth measurements of each are compared.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1358</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2752&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1358</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2752</articleid>
+<submission-date>2013-04-19T13:40:14-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4048298</context-key>
+<submission-path>utk_gradthes/1358</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>M. A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>P. W. Smith, R. T. Whitaker, W. L. Green</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-04-18T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1997-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-Tag Access for a High Precision Ultra-Wideband Localization System</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nrowe@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rowe</lname>
+<fname>Nathan Carl</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ultra Wide Band</keyword>
+<keyword>Localization</keyword>
+<keyword>Multi-Tag</keyword>
+<keyword>Positioning</keyword>
+</keywords>
+<disciplines><discipline>Systems and Communications</discipline>
+</disciplines><abstract>&lt;p&gt;Ultra-Wideband (UWB) wireless positioning systems have many advantages for track- ing and locating items in indoor environments. Surgical navigation and industrial process control are potential applications for high accuracy UWB localization systems with millimeter or sub-millimeter accuracy. I present improvements made to an existing high accuracy, multi-tag, UWB localization system. The goal of this thesis was to improve the multi-tag performance of this system while maintaining the high localization accuracy, and to utilize the UWB system for digital communications allowing the existing narrowband 2.4 GHz transceiver to be eliminated.&lt;/p&gt;
+&lt;p&gt;This thesis presents a proof-of-concept for a multi-tag, UWB localization system utilizing orthogonal time hopping multiple access (OTHMA). Asynchronous transmit- only UWB digital communication allows identification of tags without the use of a narrowband control channel, and time di↵erence of arrival (TDOA) accomplishes localization. A digital sampling circuit is used for both localization and digital communication. I address the inherent challenge of collisions in an asynchronous transmit-only system while maintaining high accuracy and high update rates. An experimental system was developed consisting of two base stations and two tags allowing measurement of 1-D localization accuracy along with system update rates. The experimental results for localization accuracy were equivalent to results from the existing system while update rates were improved by greater than 50%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1328</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2189&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1328</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2189</articleid>
+<submission-date>2011-10-06T18:50:18-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2279661</context-key>
+<submission-path>utk_gradthes/1328</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Aly Fathy</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul Crilly, Marshall Pace</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

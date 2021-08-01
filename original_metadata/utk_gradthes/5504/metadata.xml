@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Impact of Large-scale Dynamic Load Modeling on the U.S. Eastern Interconnection</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mgonza23@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Bennett</lname>
+<fname>Melanie</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The aim of this thesis is to introduce widespread dynamic load models to the United States Eastern Interconnection 2030 power grid model to help improve its accuracy and capabilities. Currently, all loads in the system are represented by static load models that are unable to capture load phenomenon associated with induction motors. Chapter 1 will provide a general introduction to load modeling by discussing popular static and dynamic load models available. This chapter will also introduce the simulation test case used in Chapter 2 to Chapter 4. In Chapter 2, the complex load model parameters are developed and applied to 28,500 loads in the Eastern Interconnection model and the impact to frequency response is discussed. Buses with large differences in frequency nadir when static or dynamic load models are applied to the system and a bus with a representative response are presented for reference. Snapshots from a movie illustrate the frequency map distribution for the Eastern Interconnection. Chapter 3 is a sensitivity study of the complex load model for certain parameters. The induction motor, constant power, discharge lighting, and static load components of the complex load model are studied. The study metrics are the frequency nadir, settling frequency, and rate of change of frequency for the system average response and a single bus. Chapter 4 validates the developed model for real events recorded by the FNET/Grideye system. The accuracy of the dynamic load model is compared to the current static load model. Chapter 5 discusses the process to develop load models for a utility in the Eastern Interconnection using a bottom-up approach. The developed models are studied for several cases and validated.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5504</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6977&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5504</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6977</articleid>
+<submission-date>2020-08-13T21:48:06-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>18914293</context-key>
+<submission-path>utk_gradthes/5504</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Shutang You, Hector Pulgar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

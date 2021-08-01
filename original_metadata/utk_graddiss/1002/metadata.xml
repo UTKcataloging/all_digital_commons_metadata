@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Securities Processing:  The Effects of a T+3 System on Security Prices</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>vmessman@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Messman</lname>
+<fname>Victoria</fname>
+<mname>Lynn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>stock returns</keyword>
+<keyword>payment delay</keyword>
+<keyword>failure to deliver</keyword>
+<keyword>regulation</keyword>
+<keyword>SEC</keyword>
+<keyword>broker dealer</keyword>
+</keywords>
+<disciplines><discipline>Portfolio and Security Analysis</discipline>
+</disciplines><abstract>&lt;p&gt;This study investigates the settlement period, including payment delays and failed deliveries that occur during the processing of U.S. equity transactions, and its effects on observed stock prices.  Payment and delivery occur three to six calendar days after the trade date in the standard three business day settlement cycle, referred to as T+3.&lt;/p&gt;
+&lt;p&gt;First, the buyer benefits from a payment delay, during which time he can earn interest on the cash needed to settle the trade.  Since the seller has no analogous opportunity, I anticipated that the cost of the payment delay would be reflected in equity prices at a rate equivalent to the risk-free rate over the settlement period in ordinary circumstances and at a higher rate during financial market crises if sellers believe they may not be paid on time.  Using CRSP daily market index returns from 1995 through 2009, I measured the cost of this delay to be approximately three to five times the risk-free rate, proxied by the effective Fed funds rate.  These results suggest that buyers are forced to compensate sellers at rates greater than I expected during normal conditions.&lt;/p&gt;
+&lt;p&gt;Second, the risk of failed delivery may also affect security prices if market participants expect that sellers will not deliver securities on time.  A failed delivery effectively becomes a forward transaction.  I predicted that buyers compensate sellers at the risk-free rate over the extended settlement period.  This compensation would be in addition to the normal payment delay and directly related to the probability of failed delivery; thus, I added SEC Regulation SHO daily failed deliveries data, available from 2004 through 2009, to the model with payment delays.  By constructing a proxy for the change in probability of failure from aggregated fails and market volume, I found that buyers compensate sellers over the lengthened settlement period due to failed deliveries at a rate of approximately 11 basis points daily for an increase in the likelihood of failure of one percentage point.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1002</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1805&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1002</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1805</articleid>
+<submission-date>2010-04-29T15:06:34-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1292378</context-key>
+<submission-path>utk_graddiss/1002</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ramon P. DeGennaro</value>
+</field>
+<field name="advisor2" type="string">
+<value>Phillip R. Daves, Larry Fauver, Mohammed Mohsin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Business Administration</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

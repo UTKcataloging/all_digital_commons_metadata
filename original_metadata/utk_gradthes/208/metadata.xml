@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Longest-Queue-First Signal Scheduling Algorithm with Quality of Service Provisioning for an Isolated Intersection</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Wunderlich</lname>
+<fname>Richard</fname>
+<mname>James</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In today&#39;s fast-paced society, the need to travel using automobiles is increasingly important. Aside from the road itself, the intersection is the most basic unit of a traffic system. As such, controlling the flow of traffic through intersections in an efficient manner has become a task of the utmost importance. The signal-scheduling algorithm described in this thesis is designed for just such a task. Concepts are drawn from the field of packet switching in computer networks and are applied to the traffic control problem. The method proposed utilizes a maximal weight matching algorithm to minimize the queue sizes at each approach to the intersection. The goal is to provide lower average vehicle delay as compared to a current state-of-the-art traffic signal control method. In particular, a focus is given to providing increased levels of service to high-priority vehicle classes (such as emergency vehicles or large trucks). Because the minimization of vehicle queues forms the basis of the algorithm, it is important to establish the conditions under which the system is guaranteed to be stable (i.e. the queue sizes are finite); to this end, Lyapunov function-based analysis is provided. Using a traffic simulation environment, the proposed control method is compared to control methods currently implemented in the field. The results of the simulations show that the performance gain obtained when using the proposed method can be substantial, particularly in the case where prioritization among multiple classes of vehicles is desired.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/208</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1240&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>208</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1240</articleid>
+<submission-date>2010-02-10T09:50:43-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1139019</context-key>
+<submission-path>utk_gradthes/208</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Itamar Elhanany</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tom Urbanik, Ethan Farquhar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/WunderlichRichard.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

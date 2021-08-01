@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analytical Computation of Proper Orthogonal Decomposition Modes and n-Width Approximations for the Heat Equation with Boundary Control</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tfernand@utk.edu</email>
+<lname>Fernandez</lname>
+<fname>Tasha</fname>
+<mname>N.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>boundary control</keyword>
+<keyword>proper orthogonal decomposition</keyword>
+<keyword>n-width</keyword>
+</keywords>
+<disciplines><discipline>Controls and Control Theory</discipline>
+<discipline>Dynamic Systems</discipline>
+<discipline>Fluid Dynamics</discipline>
+<discipline>Numerical Analysis and Computation</discipline>
+<discipline>Ordinary Differential Equations and Applied Dynamics</discipline>
+<discipline>Partial Differential Equations</discipline>
+</disciplines><abstract>&lt;p&gt;Model reduction is a powerful and ubiquitous tool used to reduce the complexity of a dynamical system while preserving the input-output behavior. It has been applied throughout many different disciplines, including controls, fluid and structural dynamics. Model reduction via proper orthogonal decomposition (POD) is utilized for of control of partial differential equations. In this thesis, the analytical expressions of POD modes are derived for the heat equation. The autocorrelation function of the latter is viewed as the kernel of a self adjoint compact operator, and the POD modes and corresponding eigenvalues are computed by solving homogeneous integral equations of the second kind. The computed POD modes are compared to the modes obtained from snapshots for both the one-dimensional and two-dimensional heat equation. Boundary feedback control is obtained through reduced-order POD models of the heat equation and the effectiveness of reduced-order control is compared to the full-order control. Moreover, the explicit computation of the POD modes and eigenvalues are shown to allow the computation of different n-widths approximations for the heat equation, including the linear, Kolmogorov, Gelfand, and Bernstein n-widths.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/794</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1842&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>794</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1842</articleid>
+<submission-date>2010-08-12T13:59:36-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1442292</context-key>
+<submission-path>utk_gradthes/794</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>J. Douglas Birdwell, James J. Nutaro</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

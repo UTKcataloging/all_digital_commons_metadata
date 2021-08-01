@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>G4-FET Based Voltage Reference</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Suheng</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;A precise and stable voltage reference is essential to analog/mixed-signal SoC (system-on-a-chip) applications. The most commonly used voltage reference in standard CMOS processes, the bandgap voltage reference, is limited due to output drift in wide temperature range applications. The temperature drift associated with the bandgap voltage reference is non-linear, thus temperature compensation is difficult. A new reference circuit, the JFET-based voltage reference, is proven to be more temperature stable. However, the JFET-based voltage reference requires a specialized Bi-CMOS process with additional fabrication steps to alter the channel doping for selected devices. The purpose of this thesis is to investigate the feasibility of the JFET-based voltage reference circuit topology in a CMOS-compatible process. The novel G&lt;sup&gt;4&lt;/sup&gt;-FET device fabricated on a standard PDSOI (partially-depleted silicon-on-insulator) CMOS process is chosen as an alternative to the JFET device. A theoretical development of the G&lt;sup&gt;4&lt;/sup&gt;-FET is summarized and results of device characterization are presented. Based on device characterization, all four gates of the G&lt;sup&gt;4&lt;/sup&gt;-FET device are exploited to achieve an equivalent circuit operation without requiring any additional process steps. Results from this characterization are used to design an improved voltage reference based on G&lt;sup&gt;4&lt;/sup&gt;-FETs and test results from a prototype reference circuit are shown including output temperature coefficient, output noise, and power supply rejection. The output voltage achieves approximately constant output variation with temperature over the temperature range of −5 °C to 85 °C, implying that the circuit may be readily temperature compensated, in this case by an inverse-PTAT (proportional-to-absolute-temperature) current. Finally, suggestions for improved reference performance and fully monolithic compatibility are given.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1897</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3254&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1897</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3254</articleid>
+<submission-date>2013-09-20T10:54:40-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4609093</context-key>
+<submission-path>utk_gradthes/1897</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Syed K. Islam, Dr. M. N. Ericson</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

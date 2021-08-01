@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Real Time Fusion of Radioisotope Direction Estimation and Visual Object Tracking</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>egreenle@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Greenlee</lname>
+<fname>Elliot</fname>
+<mname>Davis</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Research into discovering prohibited nuclear material plays an integral role in providing security from terrorism. Although many diverse methods contribute to defense, there exists a capability gap in localizing moving sources. This thesis introduces a real time radioisotope tracking algorithm assisted by visual object tracking methods to fill the capability gap. The proposed algorithm can estimate carrier likelihood for objects in its field of view, and is designed to assist a pedestrian agent wearing a backpack detector. The complex, crowd-filled, urban environments where this algorithm must function combined with the size and weight limitations of a pedestrian system makes designing a functioning algorithm challenging.The contribution of this thesis is threefold. First, a generalized directional estimator is proposed. Second, two state-of-the-art visual object detection and visual object tracking methods are combined into a single tracking algorithm. Third, those outputs are fused to produce a real time radioisotope tracking algorithm. This algorithm is designed for use with the backpack detector built by the IDEAS for WIND research group. This setup takes advantage of recent advances in detector, camera, and computer technologies to meet the challenging physical limitations.The directional estimator operates via gradient boosting regression to predict radioisotope direction with a variance of 50 degrees when trained on a simple laboratory dataset. Under conditions similar to other state-of-the-art methods, the accuracy is comparable. YOLOv3 and SiamFC are chosen by evaluating advanced visual tracking methods in terms of speed and efficiency across multiple architectures, and in terms of accuracy on datasets like the Visual Object Tracking (VOT) Challenge and Common Objects in Context (COCO). The resultant tracking algorithm operates in real time. The outputs of direction estimation and visual tracking are fused using sequential Bayesian inference to predict carrier likelihood. Using lab trials evaluated by hand on visual and nuclear data, and a synthesized challenge dataset using visual data from the Boston Marathon attack, it can be observed that this prototype system advances the state-of-the-art towards localization of a moving source.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5370</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6780&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5370</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6780</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343174</context-key>
+<submission-path>utk_gradthes/5370</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mark Dean, Jason Hayward</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-1892-7854</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

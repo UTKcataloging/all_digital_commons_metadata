@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Forecasting Employee Turnover in Large Organizations</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xzhu8@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Zhu</lname>
+<fname>Xiaojuan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Turnover Forecasting</keyword>
+<keyword>Survival Analysis</keyword>
+<keyword>Time Series</keyword>
+<keyword>Classification Model</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Researchers and human resource departments have focused on employee turnover for decades. This study developed a methodology forecasting employee turnover at organizational and departmental levels to shorten lead time for hiring employees. Various time series modeling techniques were used to identify optimal models for effective employee-turnover prediction based on a large U.S organization&#39;s 11-year monthly turnover data. A dynamic regression model with additive trend, seasonality, interventions, and a very important economic indicator efficiently predicted turnover. Another turnover model predicted both retirement and quitting, including early retirement incentives, demographics, and external economic indicators using the Cox proportional hazard model. A variety of biases in employee-turnover databases along with modeling strategies and factors were discussed. A simulation demonstrated sampling biases&#39; potential impact on predictions. A key factor in the retirement was achieving full vesting, but employees who did not retire immediately maintain a reduced hazard after qualifying for retirement. Also, the model showed that external economic indicators related to S&amp;P 500 real earnings were beneficial in predicting retirement while dividends were most associated with quitting behavior. The third model examined voluntary turnover factors using logistic regression and forecasted employee tenure using a decision tree for four research and development departments. Company job title, gender, ethnicity, age and years of service affected voluntary turnover behavior. However, employees with higher salaries and more work experience were more likely to quit than those with lower salaries and less experience. The result also showed that college major and education level were not associated with R&amp;D employees&#39; decision to quit.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3985</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5343&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3985</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5343</articleid>
+<submission-date>2016-06-17T06:31:17-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8744259</context-key>
+<submission-path>utk_graddiss/3985</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Rapinder Sawhney</value>
+</field>
+<field name="advisor2" type="string">
+<value>John E. Kobza, James L. Simonton, Russell Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

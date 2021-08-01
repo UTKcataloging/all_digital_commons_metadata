@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Three Body Interactions of Rare Gas Solids Calculated Within the Einstein Model</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ddandrea@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>D&#39;Andrea</lname>
+<fname>Dan</fname>
+</author>
+</authors>
+<disciplines><discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Organic Chemistry</discipline>
+<discipline>Other Chemistry</discipline>
+<discipline>Physical Chemistry</discipline>
+<discipline>Programming Languages and Compilers</discipline>
+</disciplines><abstract>&lt;p&gt;Three body interactions can become important in solids at higher pressures and densities as the molecules can come into close contact. At low temperatures, accurate studies of three body interactions in solids require averaging the three-body terms over the molecules&#39; zero point motions. An efficient, but approximate, averaging approach is based on a polynomial approximation of the three-body term. The polynomial approximation can be developed as a function of the symmetry coordinates of a triangle displaced from its average geometry and also as a function of the Cartesian zero point displacements from each atom’s average position. The polynomial approximation approach can be checked through two more accurate, but more time-consuming methods: Gaussian quadrature or Monte Carlo integration of the exact three-body function. Results are presented for solid helium, solid neon and solid argon, treated as Einstein solids. An evaluation of the quality of the Einstein model approximation will also be presented. Results for helium will be compared with quantum Monte Carlo simulations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4284</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5266&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4284</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5266</articleid>
+<submission-date>2016-07-11T14:52:15-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8823177</context-key>
+<submission-path>utk_gradthes/4284</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>Charles Collins, Tessa Calhoun, Sharani Roy, Michael D. Best</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

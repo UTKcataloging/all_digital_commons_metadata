@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Highly Integrated Gate Driver with 100% Duty Cycle Capability and High Output Current Drive for Wide-Bandgap Power Switches in Extreme Environments</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rgreenwe@utk.edu</email>
+<lname>Greenwell</lname>
+<fname>Robert</fname>
+<mname>Lee</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Gate Driver</keyword>
+<keyword>Silicon-on-Insulator</keyword>
+<keyword>SOI</keyword>
+<keyword>High-Temperature</keyword>
+</keywords>
+<disciplines><discipline>VLSI and Circuits, Embedded and Hardware Systems</discipline>
+</disciplines><abstract>&lt;p&gt;High-temperature integrated circuits fill a need in applications where there are obvious benefits to reduced thermal management or where circuitry is placed away from temperature extremes.  Examples of these applications include aerospace, automotive, power generation, and well-logging.  This work focuses on the automotive applications, in which the growing demand for hybrid electric vehicles (HEVs), plug-in hybrid electric vehicles (PHEVs), and fuel cell vehicles (FCVs) has increased the need for high-temperature electronics that can operate at the extreme ambient temperatures that exist under the hood, which can be in excess of 150°C.  Silicon carbide (SiC) and other wide-bandgap power switches that can function at these temperature extremes are now entering the market.  To take full advantage of their potential, high-temperature capable circuits that can also operate in these environments are required.&lt;/p&gt;
+&lt;p&gt;This work presents a high-temperature, high-voltage, silicon-on-insulator (SOI) based gate driver designed for SiC and other wide-bandgap power switches for DC-DC converters and traction drives in HEVs.  This highly integrated gate driver integrated circuit (IC) has been designed to operate at ambient temperatures up to 200ºC, have a high on-chip drive current, require a minimum complement of off-chip components, and be capable of operating at a 100% high-side duty cycle.  Successful operation of the gate driver circuit across temperature with minimal or no thermal management will help to achieve higher power-to-weight and power-to-volume ratios for the power electronics modules in HEVs and, therefore, higher efficiency.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1527</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2716&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1527</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2716</articleid>
+<submission-date>2012-09-27T09:21:08-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3353914</context-key>
+<submission-path>utk_graddiss/1527</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Syed K. Islam, Vasilios Alexiades</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;final pending approval&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

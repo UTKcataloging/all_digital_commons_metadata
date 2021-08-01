@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extension of zigzag search algorithms for power system multi-objective optimization</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qzhang41@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Qiwei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>zig-zag search method</keyword>
+<keyword>economic dispatch</keyword>
+<keyword>line search</keyword>
+<keyword>multi-objective optimization</keyword>
+</keywords>
+<abstract>&lt;p&gt;The work presented in this thesis focuses on the application and extension the zigzag search algorithms in power systems. The zigzag search method is a multi-objective algorithm which has recently been applied in multiple engineering fields, such as oil well replacement, with fast computational time and accurate results.Multi-objective optimization algorithms in power systems have been investigated for years. Most of the literatures focus on evolutionary algorithms (EA) such as a non-dominated sorting genetic algorithm (NSGA) or multi-objective particle swarm optimization (MOPSO) for their simplicity and ease of implementation. However, there have been several issues regarding the evolutionary algorithm (EA). For example, the computational time of EA is significant and the parameter configurations are complicated. Other approaches mainly reply on the weight sum method by lumping together different objective functions to form a new single objective function; however, the priority is hard to determine and the characteristic between different objectives may be lost.In order to improve the performance of power system multi-objective optimization problems, this thesis will first introduce the zigzag search algorithm. Second, by modifying the classic zigzag search algorithm, the zigzag interior point method and zigzag genetic algorithm method will both be proposed to broaden the applications of the classic zigzag search method. Also, in order to provide a systematic method for step-size configuration, a zigzag search method with adaptive step-size will be proposed. Thirdly, all algorithms will be applied to several practical power system multi-objective problems to demonstrate their practicability and effectiveness.The case study will be carried out on a modified IEEE 30-bus system and the IEEE 118-bus system. A comparison will be made with classic multiobjective algorithms which have been widely applied in power systems to demonstrate the effectiveness and efficiency of the proposed zigzag search methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5164</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6571&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5164</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6571</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415114</context-key>
+<submission-path>utk_gradthes/5164</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hector A. Pulgar-Painemal, Kevin L. Tomsovic</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

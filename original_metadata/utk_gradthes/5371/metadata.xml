@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis and Design of a Hybrid Dickson Switched Capacitor Converter for Intermediate Bus Converter Applications</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mlawnicz@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Lawniczak</lname>
+<fname>Maeve</fname>
+<mname>Elise</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;By 2020 it is predicted that 1/3 of all data will pass through the cloud. With society&#39;s growing dependency on data, it is vital that data centers, the cloud&#39;s physical house of content, operate with optimal energy performance to reduce operating costs.Unfortunately, today&#39;s data centers are inefficient, both economically and environmentally. This has led to an increase in demand for energy-efficient servers. One opportunity for improved efficiency is in the power delivery architecture which delivers power from the grid to the motherboard. In this dissertation, the main focus is the intermediate bus converter (IBC), used for the intermediate conversion, typically 48-12V/5V, in server power supplies. The IBC requires compact design so that it can be placed as close to the load as possible to enable more space for computing power and high efficiency to reduce the need for external cooling. Most commonly used converter topologies today include expensive bulky magnetics hindering the converter&#39;s power density. Furthermore, high output current of an IBC makes the efficiency very sensitive to any resistance, such as magnetic parasitic resistance or PCB trace resistance. In this work, analytical loss models are used to review the advantages and disadvantages of frequently used IBC topologies such as the phase-shifted full bridge and LLC. The Hybrid Dickson Switched Capacitor (HDSC) topology is also analyzed. The HDSC&#39;s high step-down conversion ratio and low dependence on magnetics due to the reduced applied volt-seconds, provides a new opportunity for applications such as the intermediate bus converter. The HDSC designs the on-time of devices in order to achieve soft-charging between flying capacitors. Other advantages of the HDSC include low switch stress, small magnetics and adjustable duty cycle for voltage regulation. Challenges, such as minimizing parasitic inductance and resistance between flying capacitors, are addressed and recommendations for PCB layout are provided. In this paper, a 4:1 24-5V and 8:1 48-5V, 100W GaN-based HDSC is designed and tested. The influences of capacitor mismatch and limitations placed on soft-charging operation for the HDSC is also modeled. This analysis can be used as a tool for designers when selecting flying capacitors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5371</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6781&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5371</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6781</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343180</context-key>
+<submission-path>utk_gradthes/5371</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Syed K. Islam, Leon M. Tolbert</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

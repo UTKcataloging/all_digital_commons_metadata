@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multi-criteria Decision Analysis Applied to a Potential U.S. Commercial Spent Nuclear Fuel Allocation Queue Strategy</title>
+<publication-date>2018-05-12T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Joseph</lname>
+<fname>Robert</fname>
+<mname>Anthony</mname>
+<suffix>III</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>spent nuclear fuel</keyword>
+<keyword>multi-criteria decision analysis</keyword>
+<keyword>allocation queue</keyword>
+<keyword>nuclear waste management system</keyword>
+<keyword>commercial SNF</keyword>
+<keyword>decision analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Although work has been done on a wide variety of fields in multi-criteria decision analysis, no literature was found that has specifically studied the development of a spent nuclear fuel (SNF) allocation queue strategy to maximize value to decision maker (DM) based on multiple objectives (allocation queue will be mostly used in this document as a shortened version of this, but allocation queue and allocation queue refer to this same thing). In this document, the DM is the person or persons who ultimately decide what allocation queue is selected. Previous work by Petersen [1] researched optimizing the order in which SNF is removed from nuclear reactor sites with the goal of reducing the number of years after all reactors on a site shut down by when all fuel is cleared from a site. This research proposal seeks to build on those methods to optimize the allocation queue by employing multiple criteria, because the development of allocation strategies for clearing nuclear reactor sites is expected to depend upon several other factors in addition to minimizing the number of Shutdown Reactor Years (SRY). Shutdown reactor years are the cumulative number of years that reactor sites have SNF remaining on-site after they are shut down summed over the entire reactor fleet.In this dissertation, a new model has been developed with the ability to consider a multiple number of DM’s preferences when developing an optimal allocation queue (in terms of maximizing value to the DM). Unlike traditional multi-objective evaluations where potential allocation strategies are developed manually, and the results compared after analyzing each scenario separately, the model was developed to search for optimum allocation strategies based on DM’s preferences. A Chebyshev integer programming method was developed for this application and the results herein provided show that the new model, denoted as the Tractable Validation Model for Value (TVMV), performs as intended.Additionally, major assumptions that affect the TVMV were explored to investigate the implications of different system assumptions. These parameters include the year in which acceptance from reactor sites begins, the maximum fleet-wide acceptance rate per year, the maximum number of canisters that can be accepted from operating or shutdown reactors in each year, and the assumed storage and transportation cask thermal limits.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4924</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6465&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4924</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6465</articleid>
+<submission-date>2018-12-03T13:13:10-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13415053</context-key>
+<submission-path>utk_graddiss/4924</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>G. Ivan Maldonado</value>
+</field>
+<field name="advisor2" type="string">
+<value>James A. Ostrowski, Ronald E. Pevey, Steven E. Skutnik</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-0343-9129</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-05-12T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

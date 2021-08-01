@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Feature-based Image Comparison and Its Application in Wireless Visual Sensor Networks</title>
+<publication-date>2011-01-01T00:00:00-08:00</publication-date>
+<state>withdrawn</state>
+<authors>
+<author>
+<email>ybai2@utk.edu</email>
+<institution>University of Tennessee Knoxville, Department of EECS</institution>
+<lname>Bai</lname>
+<fname>Yang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer Vision</keyword>
+<keyword>Wireless Sensor Networks</keyword>
+</keywords>
+<disciplines><discipline>Computational Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation studies the feature-based image comparison method and its application in Wireless Visual Sensor Networks.&lt;/p&gt;
+&lt;p&gt;Wireless Visual Sensor Networks (WVSNs), formed by a large number of low-cost, small-size visual sensor nodes, represent a new trend in surveillance and monitoring practices. Although each single sensor has very limited capability in sensing, processing and transmission, by working together they can achieve various high level tasks. Sensor collaboration is essential to WVSNs and normally performed among sensors having similar measurements, which are called neighbor sensors. The directional sensing characteristics of imagers and the presence of visual occlusion present unique challenges to neighborhood formation, as geographically-close neighbors might not monitor similar scenes. Besides, the energy resource on the WVSNs is also very tight, with wireless communication and complicated computation consuming most energy in WVSNs. Therefore the feature-based image comparison method has been proposed, which directly compares the captured image from each visual sensor in an economical way in terms of both the computational cost and the transmission overhead.&lt;/p&gt;
+&lt;p&gt;The feature-based image comparison method compares different images and aims to find similar image pairs using a set of local features from each image. The image feature is a numerical representation of the raw image and can be more compact in terms of the data volume than the raw image. The feature-based image comparison contains three steps: feature detection, descriptor calculation and feature comparison.&lt;/p&gt;
+&lt;p&gt;For the step of feature detection, the dissertation proposes two computationally efficient corner detectors. The first detector is based on the Discrete Wavelet Transform that provides multi-scale corner point detection and the scale selection is achieved efficiently through a Gaussian convolution approach. The second detector is based on a linear unmixing model, which treats a corner point as the intersection of two or three “line” bases in a 3 by 3 region. The line bases are extracted through a constrained Nonnegative Matrix Factorization (NMF) approach and the corner detection is accomplished through counting the number of contributing bases in the linear mixture.&lt;/p&gt;
+&lt;p&gt;For the step of descriptor calculation, the dissertation proposes an effective dimensionality reduction algorithm for the high dimensional Scale Invariant Feature Transform (SIFT) descriptors. A set of 40 SIFT descriptor bases are extracted through constrained NMF from a large training set and all SIFT descriptors are then projected onto the space spanned by these bases, achieving dimensionality reduction.&lt;/p&gt;
+&lt;p&gt;The efficiency of the proposed corner detectors have been proven through theoretical analysis. In addition, the effectiveness of the proposed corner detectors and the dimensionality reduction approach has been validated through extensive comparison with several state-of-the-art feature detector/descriptor combinations.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/1</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1002&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1002</articleid>
+<submission-date>2011-04-18T17:03:25-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>1946024</context-key>
+<withdrawn>2016-11-01</withdrawn>
+<submission-path>utk_elecpubs/1</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2000-01-01T13:03:11-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

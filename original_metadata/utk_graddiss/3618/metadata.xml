@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development and Characterization of a Directional Radiation Detection System Using a Fuzzy Logic Algorithm</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mwilli62@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Willis</lname>
+<fname>Michael</fname>
+<mname>Joseph</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Fuzzy logic</keyword>
+<keyword>Position</keyword>
+<keyword>Nuclear security</keyword>
+<keyword>Gamma radiation</keyword>
+<keyword>Direction</keyword>
+<keyword>Radiation</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Traditional radiation detection equipment consists of various types of devices that are capable of determining the presence of radioactive sources in the vicinity of the detection unit. Use of these systems typically consists of survey and search methods that employ broad area sweeps to narrow down the location of a radioactive source. Although these methods are effective, they are typically inefficient and lack the ability to produce a directional bearing of the source relative to the measurement location. More efficient methods that provide relative direction information for detected sources would facilitate a more timely response to a potential radiological threat.&lt;/p&gt;
+&lt;p&gt;The purpose of this research was to develop and test a mobile system capable of detecting radioactive gamma-ray sources and determining the directional bearing relative to the system. This method compares the analogous intensities of a plurality of detectors placed in a specified formation dependent upon the type and size of the detector used. The formation of detectors is designed to take advantage of shadowing in the occluded array of detectors. Based on this shielding principle, a fuzzy logic algorithm was used to analyze the response of each individual detector with respect to the other three to determine the location of a source.&lt;/p&gt;
+&lt;p&gt;The algorithm was tested using MCNP models of urban environments. This helped determine the limitations of the system and its practicality in real world scenarios where distance and shielding of a source lower the probability of detection. Characterization of the ambient background radiation field was also performed in the area relative to where the system testing would take place. This allowed for an evaluation of the system performance with the presence of real-world naturally-occurring background radiation. Source injection studies were completed to test the ability of the system and the threshold at which the system can detect radiation sources. Field tests were also performed in an area similar to that modeled in order to validate the model and verify the results of source localization.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3618</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5027&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3618</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5027</articleid>
+<submission-date>2015-10-09T10:32:40-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7699993</context-key>
+<submission-path>utk_graddiss/3618</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Steven E. Skutnik</value>
+</field>
+<field name="advisor2" type="string">
+<value>Howard L. Hall, Jason P. Hayward, Charles L. Melcher</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

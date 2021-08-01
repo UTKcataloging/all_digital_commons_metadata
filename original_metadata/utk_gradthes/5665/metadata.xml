@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Classification of sEMG signals and Motion data using learning algorithms with application to post-stroke impairment</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ssadhu2@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Sadhu</lname>
+<fname>Sri</fname>
+<mname>Ravali</mname>
+</author>
+</authors>
+<keywords>
+<keyword>CNN</keyword>
+<keyword>Stroke-rehabilitation</keyword>
+<keyword>sEMG</keyword>
+<keyword>Accelerometer</keyword>
+<keyword>Deep-Learning</keyword>
+<keyword>Machine-Learning</keyword>
+<keyword>RNN</keyword>
+</keywords>
+<abstract>&lt;p&gt;Stroke is the 3rd leading cause of deaths in USA with an equally high number of survivors. Post-stroke rehabilitation is an important part of recovery after stroke as it helps to relearn skills lost due to the effect of stroke on a part of your brain. Stroke rehabilitation can help the subject regain independence and improve their quality of life. During their rehabilitation process, a subject is expected to perform a certain number of exercises and constantly try to use their affected limb. But due to social constraints and psychological stress, the subjects tend to perform the respective activities only in a closed environment and hence only in the presence of a physicist i.e.  during their rehabilitation in an hospital, thereby dampening their process of rehabilitation.This thesis aims at laying the foundation to develop a wearable device to track the recovery of a stroke patient while their in-hospital and at home upper limb rehabilitation processes depending on the muscular activity retrieved by a non-invasive sensors placed on the skin of the upper limb of the patient. To achieve this goal multiple steps are involved, but this thesis concentrates on the step which involves identifying the exercise performed by the subject using their bio &amp; kinematic signals. To develop the ideal network for this goal, the thesis initially compares various classic learning techniques used to classify hand gestures using surface-Electromyography(sEMG). From the results obtained from these networks, a CNN is designed specific to the activities and input signals used in this thesis. The CNN is able to classify these activities with an accuracy of around 91%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5665</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7201&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5665</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7201</articleid>
+<submission-date>2021-01-24T14:00:05-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>21246545</context-key>
+<submission-path>utk_gradthes/5665</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Materassi Donatello, Eric Wade</value>
+</field>
+<field name="advisor2" type="string">
+<value>Materassi Donatello, Eric Wade, Hairong Qi</value>
+</field>
+<field name="comments" type="string">
+<value>I am working on publishing a paper, hence portions of this thesis will be used in it.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

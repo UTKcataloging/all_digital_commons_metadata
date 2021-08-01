@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ROTOR BALANCING VIA AN ENHANCED AUTOMATIC DYNAMIC BALANCER WITH INDUCTIVELY COUPLED SHUNT CIRCUIT</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Su</lname>
+<fname>Xiaowen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Automatic dynamic balancer</keyword>
+<keyword>Embedded RLC circuit</keyword>
+<keyword>nonlinear dynamics</keyword>
+<keyword>electromagnetic induction</keyword>
+<keyword>limit cycle</keyword>
+<keyword>stability analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;To reduce manufacturing costs and maintenance frequency of rotordynamic systems resulting from rotational imbalance and associated vibration levels, this research has been focused on the automatic dynamic balancer (ADB) due to its achieving balancing without external power, sensors or a control system and due to its ability of automatically adjusting and compensating for uncertain and changing rotor imbalance levels in real-time. Conventional ADBs are essentially a set of moving balancer balls attached to a rotor, which, through nonlinear dynamic interactions between the rotor vibration and balancer mass motions, reach a stable limit-cycle solution that balances the combined system resulting low residual vibration. One of the drawbacks of ADBs is their inherently nonlinear dynamic nature which can lead to other co-existing non-balanced solutions depending on initial conditions and rotor speed. To resolve this, this research proposed and developed a novel Enhanced Automatic Dynamic Balancer (EADB) which replaces the conventional moving balancer masses with permanent magnet balancer masses. The magnetic balancer masses are then inductively coupled to a shunt circuit network to enable tailoring of the nonlinear dynamic system response via passive circuit parameters such as inductance and capacitance. This new EADB system shows significant improvement in stability and performance over the conventional ADB while still preserving the key benefits such as being passive and self-adapting. We provided a detailed design procedure and some possible implementation parameters. We derived the governing equations and obtained perfect-balancing solutions and whirling limit-cycle solutions for different rotordynamic systems with one EADB or two EADBs. We also explored some other practical concerns when applying the EADBs, such as the effect of gravity if applied on a vertical rotor, tilting vibration suppression if applied on a 3-dimension rotor and the eccentricity of the EADB and the assembling errors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5404</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6940&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5404</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6940</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545424</context-key>
+<submission-path>utk_graddiss/5404</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hans A. DeSmidt</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kivanc Ekici, Seddik M. Djouadi, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

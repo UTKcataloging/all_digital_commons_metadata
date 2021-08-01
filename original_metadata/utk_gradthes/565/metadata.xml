@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computational Investigations of Characteristic Performance Improvements for Subkilogram Laser Micropropulsion</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rthompso@utsi.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Thompson</lname>
+<fname>Richard</fname>
+<mname>Joel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>laser</keyword>
+<keyword>propulsion</keyword>
+<keyword>micropropulsion</keyword>
+<keyword>simulation</keyword>
+</keywords>
+<disciplines><discipline>Mechanical Engineering</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;Experimental investigations have evaluated the feasibility of using laser-driven plasma microthrusters for small-thrust, high-specific-impulse space maneuvers, particularly for micro- and nanosatellite missions. Recent work made use of the Mach2 hydromagnetics code for the construction of an adequate computational model of the micro-thruster opera- tion. This thesis expounds on this previous work by extending the computational modeling capabilities, allowing for the determination of plasma plume properties and characteristic performance assessment of the microthruster; this allows for further computational investi- gation of the performance improvements achieved by new design considerations. Two par- ticular design changes are implemented and measured: (i) the simulation of microthruster performance intentionally achieving laser-supported detonation of energetic polymer fuels for higher-thrust capabilities, and (ii) the implementation of an axisymmetric nozzle to improve passive solid-fuel performance. The Mach2 hydromagnetics code with the new performance assessment capabilities was used to examine the performance improvement of these new modes of operation; results of the simulations are presented and then evaluated for their use in the overall design of the plasma microthruster. Laser-supported detona- tion shows a tremendous potential increase in the laser momentum coupling coefficient Cm , and demonstrates a much higher thrust; the axisymmetric nozzle varies with nozzle half-angle and length, but still demonstrates expected nozzle trends and improves the laser momentum coupling coefficient, Cm , by up to 230% for some designs considered.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/565</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1014&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>565</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1014</articleid>
+<submission-date>2009-11-17T13:18:54-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1065932</context-key>
+<submission-path>utk_gradthes/565</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor M. Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Basil N. Antar, L. Montgomery Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>Thompson_thesis_LaTeX_files.tar</archive-name>
+<upload-name>Thompson_thesis_LaTeX_files.tar</upload-name>
+<url>https://trace.tennessee.edu/cgi/viewcontent.cgi?filename=0&amp;amp;article=1014&amp;amp;context=utk_gradthes&amp;amp;type=additional</url>
+<mime-type>application/x-tar</mime-type>
+<description>LaTeX files</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

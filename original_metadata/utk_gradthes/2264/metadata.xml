@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Determining the Data Needs for Decision Making in Public Libraries</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jones</lname>
+<fname>Thena</fname>
+<mname>Slape</mname>
+</author>
+</authors>
+<disciplines><discipline>Communication</discipline>
+</disciplines><abstract>&lt;p&gt;Library decision makers evaluate community needs and library capabilities in order to select the appropriate services offered by their particular institution. Evaluations of the programs and services may indicate that some are ineffective or inefficient, or that formerly popular services are no longer needed. The internal and external conditions used for decision making change. Monitoring these conditions and evaluations allows the library to make new decisions that maintain its relevance to the community.&lt;/p&gt;
+&lt;p&gt;Administrators must have ready access to appropriate data that will give them the information they need for library decision making. Today’s computer-based libraries accumulate electronic data in their integrated library systems (ILS) and other operational databases; however, these systems do not provide tools for examining the data to reveal trends and patterns, nor do they have any means of integrating important information from other programs and files where the data are stored in incompatible formats. These restrictions are overcome by use of a data warehouse and a set of analytical software tools, forming a decision support system. The data warehouse must be tailored to specific needs and users to succeed. Libraries that wish to pursue decision support can begin by performing a needs analysis to determine the most important use of the proposed warehouse and to identify the data elements needed to support this use.&lt;/p&gt;
+&lt;p&gt;The purpose of this study is to complete the needs analysis phase for a data warehouse for a certain public library that is interested in using its electronic data for data mining and other analytical processes. This study is applied research. Data on users’ needs were collected through two rounds of face-to-face interviews. Participants were selected purposively. The phase one interviews were semi-structured, designed to discover the uses of the data warehouse, and then what data were required for those uses. The phase two interviews were structured, and presented selected data elements from the ILS to interviewees who were asked to evaluate how they would use each element in decision making.&lt;/p&gt;
+&lt;p&gt;Analysis of these interviews showed that the library needs data from sources that vary in physical format, in summary levels, and in data definitions. The library should construct data marts, carefully designed for future integration into a data warehouse. The only data source that is ready for a data mart is the bibliographic database of the integrated library system. Entities and relationships from the ILS are identified for a circulation data mart. The entities and their attributes are described.&lt;/p&gt;
+&lt;p&gt;A second data mart is suggested for integrating vendor reports for the online databases. Vendor reports vary widely in how they define their variables and in the summary levels of their statistics. Unified data definitions need to be created for the variables of importance so that online database usage may be compared with other data on use of library resources, reflected in the circulation data mart.&lt;/p&gt;
+&lt;p&gt;Administrators need data to address a number of other decision situations. These decisions require data from other library sources that are not optimized for data warehousing, or that are external to the library. Suggestions are made for future development of data marts using these sources.&lt;/p&gt;
+&lt;p&gt;The study concludes by recommending that libraries wishing to undertake similar studies begin with a pre-assessment of the entire institution, its data sources, and its management structure, conducted by a consultant. The needs assessment itself should include a focus group session in addition to the interviews.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2264</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3683&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2264</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3683</articleid>
+<submission-date>2013-10-15T09:09:29-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4713096</context-key>
+<submission-path>utk_gradthes/2264</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Peiling Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kendra S. Albright, N. Douglas Raber</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Information Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

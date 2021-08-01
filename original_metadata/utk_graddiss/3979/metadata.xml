@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Investigations of a High Frequency Pulsed Gaseous Fuel Jet Injection into a Supersonic Crossflow</title>
+<publication-date>2016-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nwilli31@utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Williams</lname>
+<fname>Nehemiah</fname>
+<mname>Joel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Pulsed Injection</keyword>
+<keyword>Supersonic Crossflows</keyword>
+<keyword>Scramjet Fuel Injection</keyword>
+</keywords>
+<disciplines><discipline>Aerodynamics and Fluid Mechanics</discipline>
+<discipline>Propulsion and Power</discipline>
+</disciplines><abstract>&lt;p&gt;The investigation of fuel delivery mechanisms is a critical design point in the development of supersonic combustion ramjet (scramjet) technology. Primary challenges include proper penetration of the jet in the supersonic cross-flow while keeping total pressure losses and wall drag to a minimum. To reduce drag and heat loads especially at high burner entry Mach numbers it is desirable to use a minimally intrusive means of fuel delivery.&lt;/p&gt;
+&lt;p&gt;Pulsation of gaseous jets has been shown to increase penetration and mixing in subsonic flows. A limited number of experimental studies and even fewer numerical studies have suggested that when applied to supersonic crossflows, gaseous jets pulsed in the kilohertz range of frequencies improve jet penetration and mixing. To improve on the limited number of numerical studies of pulsed jets in supersonic crossflows (PJISF), 2D and 3D computational fluid dynamics (CFD) simulation models of non-excited (steady) and sinusoidally excited (pulsed) jets were constructed using ANSYS FLUENT 15.0. The 2D results included pulsation at 8, 16, 32 and 48 kHz. These simulation results showed that pulsation at 16 kHz provided the best penetration improvement in the jet near field and far field among all frequencies sampled.&lt;/p&gt;
+&lt;p&gt;A 3D wall-modeled Large Eddy Simulation (WMLES) was constructed with the goals resolving large scale turbulent flow structure and time evolution of a jet pulsed in a supersonic crossflow, as well as to compare the effects of sinusoidal pulsation at 16 kHz with steady injection for the same flow conditions as the 2D case. A comparison of the jet trajectories between the steady and pulsed injection cases demonstrated that for sinusoidal pulsation of a jet at 16 kHz over the equivalent cycle averaged injection total pressure and momentum flux ratio, pressure, jet penetration is improved over the steady jet, up to 50% in the near field of the jet. Furthermore, improved mass concentration decay associated with jet-crossflow mixing and far field total pressure recovery has been demonstrated as a result of pulsation of the jet.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3979</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5257&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3979</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5257</articleid>
+<submission-date>2016-04-15T11:27:26-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>8483599</context-key>
+<submission-path>utk_graddiss/3979</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Trevor Moeller</value>
+</field>
+<field name="advisor2" type="string">
+<value>Roy Schulz, James Simonton, Phuriwat Anusonit-Inthra</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

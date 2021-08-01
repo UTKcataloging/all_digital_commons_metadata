@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Almost Symmetries and the Unit Commitment Problem</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bknueven@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Knueven</lname>
+<fname>Bernard</fname>
+<mname>Albert</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Almost symmetries</keyword>
+<keyword>Symmetry</keyword>
+<keyword>Unit commitment</keyword>
+<keyword>Cut generation</keyword>
+<keyword>Extended formulations</keyword>
+<keyword>Mixed-integer linear programming</keyword>
+</keywords>
+<abstract>&lt;p&gt;This thesis explores two main topics. The first is almost symmetry detection on graphs. The presence of symmetry in combinatorial optimization problems has long been considered an anathema, but in the past decade considerable progress has been made. Modern integer and constraint programming solvers have automatic symmetry detection built-in to either exploit or avoid symmetric regions of the search space. Automatic symmetry detection generally works by converting the input problem to a graph which is in exact correspondence with the problem formulation. Symmetry can then be detected on this graph using one of the excellent existing algorithms; these are also the symmetries of the problem formulation.The motivation for detecting almost symmetries on graphs is that almost symmetries in an integer program can force the solver to explore nearly symmetric regions of the search space. Because of the known correspondence between integer programming formulations and graphs, this is a first step toward detecting almost symmetries in integer programming formulations. Though we are only able to compute almost symmetries for graphs of modest size, the results indicate that almost symmetry is definitely present in some real-world combinatorial structures, and likely warrants further investigation.The second topic explored in this thesis is integer programming formulations for the unit commitment problem. The unit commitment problem involves scheduling power generators to meet anticipated energy demand while minimizing total system operation cost. Today, practitioners usually formulate and solve unit commitment as a large-scale mixed integer linear program.The original intent of this project was to bring the analysis of almost symmetries to the unit commitment problem. Two power generators are almost symmetric in the unit commitment problem if they have almost identical parameters. Along the way, however, new formulations for power generators were discovered that warranted a thorough investigation of their own. Chapters 4 and 5 are a result of this research.Thus this work makes three contributions to the unit commitment problem: a convex hull description for a power generator accommodating many types of constraints, an improved formulation for time-dependent start-up costs, and an exact symmetry reduction technique via reformulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4835</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6375&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4835</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6375</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276537</context-key>
+<submission-path>utk_graddiss/4835</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>James Ostrowski</value>
+</field>
+<field name="advisor2" type="string">
+<value>John E. Kobza, Michael A. Langston, Oleg Shylo</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-3694-6274</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in Mathematical Programming Computation.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Thermal Modeling and Imaging of As-built Automotive Parts</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Govindasamy</lname>
+<fname>Vijaya</fname>
+<mname>Priya Muthusamy</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Simulation is of significant importance in the automotive industry and can be done for various applications ranging from fluid flow analysis to complex thermal management of components. This thesis describes the method and necessary requirements for thermal modeling of automotive parts. Simulation of under hood and under vehicle automotive poses several challenges, the shape and complexity of the geometry used being the first and foremost to be considered. This thesis addresses the simulation of thermal images of as-built automotive parts using the 3D meshes generated from 3D modeling tools, CAD meshes and reverse engineered meshes.&lt;/p&gt;
+&lt;p&gt;Thermal modeling requires complete knowledge about the under hood and under vehicle automotive components. Many factors, both inside and outside the vehicle, affect the heat flow pattern of the vehicle under consideration. Thermal image sequences of under vehicle chassis were acquired to understand the thermal heat pattern and to serve as a basis for simulation. It was inferred that the exhaust system is the system with significant change in temperature and is at temperature close to 450 degree Celsius when the engine is operating at its full capacity. The exhaust system components, namely the catalytic converter, muffler and the exhaust pipes, were considered as the significant components for thermal modeling. The temperature curves of those components were measured with the help of an infrared thermometer to enhance the results of simulation. Application of thermal imaging in the field of threat detection is also addressed in this thesis.&lt;/p&gt;
+&lt;p&gt;Simulation or thermal modeling of the automotive components was done using the software MuSES. The thermal properties and the boundary conditions were assigned to the 3D geometry used and the transient solution was carried out over a period of time. The results for the three types of meshes mentioned earlier are presented and the thermal predictions are analyzed. As-built models can be modeled as they are with the help of reverse engineering, and the temperature predictions of those components provide better simulation results close to reality. The thesis also addresses the idea of comparison between simulation results and real time experimental results.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2349</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3752&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2349</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3752</articleid>
+<submission-date>2013-10-17T11:47:54-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4733347</context-key>
+<submission-path>utk_gradthes/2349</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Andreas Koschan, Seong G. Kong</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

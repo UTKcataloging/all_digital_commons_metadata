@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design, Control and Protection of Modular Multilevel Converter (MMC)-Based Multi-Terminal HVDC System</title>
+<publication-date>2016-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yli81@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Li</lname>
+<fname>Yalong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>HVDC</keyword>
+<keyword>MMC</keyword>
+<keyword>Multi-terminal</keyword>
+<keyword>Testbed</keyword>
+<keyword>DC fault</keyword>
+<keyword>Control</keyword>
+</keywords>
+<disciplines><discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;Even though today’s transmission grids are predominantly based on the high voltage alternating current (HVAC) scheme, interests on high voltage direct current (HVDC) are growing rapidly during the past decade, due to the increased penetration of remote renewable energy. Voltage source converter (VSC) type is preferred over the traditional line-commutated converter (LCC) for this application, due to the advantages like smaller station footprint and no need for strong interfacing ac grid. As the state-of-the-art VSC topology, modular multilevel converter (MMC) is mostly considered. Most renewable energy sources, such as wind and solar, is usually sparsely located. Multi-terminal HVDC (MTDC) provides better use of transmission infrastructure, higher transmission flexibility and reliability, than building multiple point-to-point HVDCs. This dissertation studies the MMC-based MTDC system, including design, control and protection.&lt;/p&gt;
+&lt;p&gt;Passive components design methodology in MMC is developed, with practical consideration. The developed arm inductance selection criterion considers the implementation of circulating current suppression control. And the unbalanced voltage among submodule capacitor is taken into account for submodule capacitance design.&lt;/p&gt;
+&lt;p&gt;Circulating current suppression control is found to impact the MMC operating range. The maximum modulation index reduction is calculated utilizing a decoupled MMC model.&lt;/p&gt;
+&lt;p&gt;A four-terminal HVDC testbed is developed, with similar control and communication architectures of the practical projects implemented. Several most typical operation scenarios and controls are demonstrated or proposed.&lt;/p&gt;
+&lt;p&gt;In order to allow HVDC disconnects to online trip a line, dc line current control is proposed through station control. Utilizing the dc line current control, an automatic dc line current limiting control is proposed. Both controls have been verified in the developed testbed.&lt;/p&gt;
+&lt;p&gt;A systematic dc fault protection strategy of MTDC utilizing hybrid dc circuit breaker is developed, including a new fast and selective fault detection method taking advantage of the hybrid dc circuit breaker special operation mechanism. Detailed criteria and control methods to assist system recovery are presented.&lt;/p&gt;
+&lt;p&gt;A novel fault tolerant MMC topology is proposed with a hybrid submodule by adding an ultra-fast mechanical switch. The converter power loss can be almost the same as the half-bridge MMC, and 1/3 reduction compared to the similar clamp-double topology.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4145</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5578&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4145</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5578</articleid>
+<submission-date>2016-10-06T22:20:49-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9242366</context-key>
+<submission-path>utk_graddiss/4145</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fred Wang</value>
+</field>
+<field name="advisor2" type="string">
+<value>Leon M. Tolbert, Daniel Costinett, James Ostrowski</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

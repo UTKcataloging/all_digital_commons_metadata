@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Simple, Practical Prioritization Scheme for a Job Shop Processing Multiple Job Types</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>szhang12@utk.edu</email>
+<lname>Zhang</lname>
+<fname>Shuping</fname>
+</author>
+</authors>
+<keywords>
+<keyword>prioritization queueing network scheduling</keyword>
+</keywords>
+<disciplines><discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;The maintenance, repair, and overhaul (MRO) process is used to recondition equipment in the railroad, off-shore drilling, aircraft, and shipping industries. In the typical MRO process, the equipment is disassembled into component parts and these parts are routed to back-shops for repair. Repaired parts are returned for reassembling the equipment. Scheduling the back-shop for smooth flow often requires prioritizing the repair of component parts from different original assemblies at different machines. To enable such prioritization, we model the back-shop as a multi-class queueing network with a ConWIP execution system and introduce a new priority scheme to maximize the system performance. In this scheme, we identify the bottleneck machine based on overall workload and classify machines into two categories: the bottleneck machine and the non-bottleneck machine(s). Assemblies with the lowest cycle time receive the highest priority on the bottleneck machine and the lowest priority on non-bottleneck machine(s). Our experimental results show that this priority scheme increases the system performance by lowering the average cycle times without adversely impacting the total throughput.&lt;/p&gt;
+&lt;p&gt;The contribution of this thesis consists primarily of three parts. First, we develop a simple priority scheme for multi-class, multi-server, ConWIP queueing systems with the disassembly/reassembly feature so that schedulers for a job-shop environment would be able to know which part should be given priority, in what order and where. Next, we provide an exact analytical solution to a two-class, two-server closed queueing model with mixed non-preemptive priority scheme. The queueing network model we study has not been analyzed in the literature, and there are no existing models that address the underlying problem of deciding prioritization by job types to maximize the system performance. Finally, we explore conditions under which the non-preemptive priority discipline can be approximated by a preemptive priority discipline.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2503</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3087&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2503</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3087</articleid>
+<submission-date>2013-06-21T01:56:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4249347</context-key>
+<submission-path>utk_graddiss/2503</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mandyam M. Srinivasan, Melissa Bowers</value>
+</field>
+<field name="advisor2" type="string">
+<value>Ken Gilbert, Theodore P. Stank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

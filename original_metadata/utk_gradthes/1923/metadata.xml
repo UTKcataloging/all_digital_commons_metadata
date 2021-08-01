@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Quantitative Endothelial Cell Monolayer Impedance Sensing and Analysis</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cowan</lname>
+<fname>Benjamin</fname>
+<mname>David</mname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The electrical analysis of the biological material has been in existence since the turn of last century. A novel application of this technology to cellular monolayers was implemented by Giaever and Keese 20 years ago with their Electrical Cell-Substrate Impedance Sensing (ECIS) system. The capabilities of a real-time system for endothelial impedance measurement are of immense importance. The endothelium is typically the body’s first contact with stimuli and its reaction to medical conditions of inflammation, disease, and body response are of great significance to understanding the physiology of numerous conditions ranging from heart, lung, and renal disease, to intestinal diseases. It is the purpose of this Master’s thesis to analyze and optimize the ECIS system for making quantitative measurements of endothelial monolayer impedance, and accurately applying the results to a thoroughly reviewed analysis package in order to produce accurate cellular resistance parameters. The optimization of data acquisition (DAQ) is accomplished by systematic noise recognition, examination, and minimization; a task that has previously been unexplored in any studies using the ECIS system. Harmonic, 60 Hz, and Gaussian noise sources were well documented in unfiltered data and successfully minimized in the DAQ. Analog to digital (A/D) noise was found to be the lower limit of reducible noise and was properly documented and considered in analysis. Contamination of the electrode arrays from manufacturing processes and proper electrical connection were also found to be of concern to the proper functioning of the system. Analysis of the optimized acquired data was performed in the LabVIEW programming environment, as it offered a more flexible software package than that provided by the current commercially available ECIS system. The optimized system was applied to a further look into hand arm-vibration syndrome (HAVS) and it was concluded that the acceleration exposure dose, incorrectly calculated from the international standards, did not elicit an acute endothelial inflammation response by our measurements. The cumulative result of this study is that the ECIS system has been optimized and various unresolved sources of error were corrected for a more accurate real-time measurement of the endothelial monolayer barrier function in response to stimuli.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1923</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3281&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1923</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3281</articleid>
+<submission-date>2013-09-23T10:59:44-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4614415</context-key>
+<submission-path>utk_gradthes/1923</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Anthony English</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mehran Kasra, Jack Wasserman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

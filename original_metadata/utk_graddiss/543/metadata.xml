@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scalable Graph Algorithms with Applications in Genetics</title>
+<publication-date>2008-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Yun</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Graph theoretical approaches have been widely used to solve problems arising in bioinformatics and genomic analysis. In particular, enumeration problems such as maximal clique and maximal biclique finding are cores for addressing many biological problems, such as the integration of genome mapping data. However, the enumeration problems may become computation and memory bot- tlenecks for genome-scale elucidation of biological networks due to their &lt;em&gt;NP&lt;/em&gt;-hard nature and the huge memory requirements.&lt;/p&gt;
+&lt;p&gt;Therefore, this research is interested in developing exact, scalable, and efficient algorithms for these biological problems. The &lt;em&gt;Clique Enumerator&lt;/em&gt; including a maximal clique enumeration algo- rithm and its parallel implementation is developed to provide scalable and exact solutions to the maximal clique problem by taking advantage of (a) ultra-large globally addressable memory archi- tectures, (b) the theory of fixed parameter tractability, and (c) a novel bitmap data representation scheme for memory and search space reduction. An implementation of the parallel algorithm scales linearly to at least 64 processors.&lt;/p&gt;
+&lt;p&gt;Maximal biclique finding on bipartite graphs is the other focus of this research because of its key role in the study of gene-phenotype association graphs built from heterogeneous data types. A general purpose algorithm is developed for enumerating maximal bicliques in a bipartite graph, without any problem restriction. Experimental results using both gene expression data and syn- thetic data indicate that the new algorithm can be two to three orders of magnitude faster than the best previous alternatives.&lt;/p&gt;
+&lt;p&gt;The clique and biclique enumeration algorithms are applied to two applications in genetics: the linkage disequilibrium analysis in population genetics with clique algorithms, and the ontology discovery for systems genetics with biclique algorithms. The clique model is applied to extract linkage disequilibrium networks from all loci on the whole-genome. The structures of such networks are analyzed to compare the genetic structure of populations. The biclique model is applied to enumerate bicliques in gene-phenotype association graphs constructed from empirical gene sets. Bicliques are integrated into a directed acyclic graph to provide an empirical discovery of phenotype ontology.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/543</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1610&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>543</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1610</articleid>
+<submission-date>2010-02-22T11:06:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1161933</context-key>
+<submission-path>utk_graddiss/543</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael A. Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Elissa J. Chesler, Lynne E. Parker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/December2008Dissertations/ZhangYun.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

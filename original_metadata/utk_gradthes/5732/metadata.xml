@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical simulation for the cooling of QPS modular coils with embedded copper tubes and subsequent experimental verification</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Owu</lname>
+<fname>Delight</fname>
+<mname>Mawunyo</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Mechanical engineering</keyword>
+</keywords>
+<abstract>&lt;p&gt;Quasi Poloidal Stellarator (QPS) consists of complex shaped modular coils, made of Copper-CTD 403 cyanate ester composite, that are used to carry the heavy current (~30,000 amperes) for the plasma generation. The coils become heated during each plasma pulse from 20°C to about 60°C. The coils need to be cooled back to room temperature after each pulse in order to prevent temperature ratcheting over the duty cycle. After studying various approaches, it was found that the most efficient way of cooling was by passing water through a copper tube embedded inside every conductor. Previously developed numerical approach based on the lumped analysis assumed constant temperature within the copper and the water lumps. Also, the axial conduction along the conductor length was neglected. Considering the large conductivity in the axial direction, 320 W/(mK), compared to that in the radial direction, 9.9 W/(mK), the neglect of axial conduction could be an oversimplification of the problem.The aim of this thesis was to modify the lumped model to include the axial heat conduction in addition to the radial heat conduction and to compare the predictions with experimentally recorded cooling data on 5.5 m and 12.2 m long conductors when they were heated to 60°C and 80°C and cooled with water at different flow rates. The conductor was fabricated using the vacuum pressure impregnation technique. The results from the model showed that although the conductivity in the axial direction was much larger than that in the radial direction, almost all the heat transfer was in the radial direction. The agreement between the model predictions and the experimental data on 12.2 m long conductor was poor, especially at points away from the conductor inlet. The reasons for this poor agreement were attributed to a variety of heat transfer mechanisms that existed in the actual experiments but were not accounted for in the model.Additional modeling work needs to be conducted before the validity of the model for predicting the cooling behavior of long conductors can be determined.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5732</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7354&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5732</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7354</articleid>
+<submission-date>2021-04-13T13:18:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>22467493</context-key>
+<submission-path>utk_gradthes/5732</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Madhu S. Madhukar</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

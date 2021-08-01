@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Revenue Management for Make-to-Order and Make-to-Stock Systems</title>
+<publication-date>2011-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>jwang37@utk.edu</email>
+<lname>Wang</lname>
+<fname>Jiao</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Revenue management</keyword>
+<keyword>Make-to-order</keyword>
+<keyword>Make-to-stock</keyword>
+<keyword>Reinforcement Learning</keyword>
+</keywords>
+<disciplines><discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;With the success of Revenue Management (RM) techniques over the past three decades in various segments of the service industry, many manufacturing firms have started exploring innovative RM technologies to improve their profits. This dissertation studies RM for make-to-order (MTO) and make-to-stock (MTS) systems.&lt;/p&gt;
+&lt;p&gt;We start with a problem faced by a MTO firm that has the ability to reject or accept the order and set prices and lead-times to influence demands. The firm is confronted with the problem to decide, which orders to accept or reject and trade-off the price, lead-time and potential for increased demand against capacity constraints, in order to maximize the total profits in a finite planning horizon with deterministic demands. We develop a mathematical model for this problem. Through numerical analysis, we present insights regarding the benefits of price customization and lead-time flexibilities in various demand scenarios.&lt;/p&gt;
+&lt;p&gt;However, the demands of MTO firms are always hard to be predicted in most situations. We further study the above problem under the stochastic demands, with the objective to maximize the long-run average profit. We model the problem as a Semi-Markov Decision Problem (SMDP) and develop a reinforcement learning (RL) algorithm-Q-learning algorithm (QLA), in which a decision agent is assigned to the machine and improves the accuracy of its action-selection decisions via a “learning&quot; process. Numerical experiment shows the superior performance of the QLA.&lt;/p&gt;
+&lt;p&gt;Finally, we consider a problem in a MTS production system consists of a single machine in which the demands and the processing times for N types of products are random. The problem is to decide when, what, and how much to produce so that the long-run average profit. We develop a mathematical model and propose two RL algorithms for real-time decision-making. Specifically, one is a Q-learning algorithm for Semi-Markov decision process (QLS) and another is a Q-learning algorithm with a learning-improvement heuristic (QLIH) to further improve the performance of QLS. We compare the performance of QLS and QLIH with a benchmarking Brownian policy and the first-come-first-serve policy. The numerical results show that QLIH outperforms QLS and both benchmarking policies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1037</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2159&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1037</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2159</articleid>
+<submission-date>2011-04-19T17:35:10-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1947652</context-key>
+<submission-path>utk_graddiss/1037</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Rapinder Sawhney, Frank M. Guess, Xiaoyan Zhu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

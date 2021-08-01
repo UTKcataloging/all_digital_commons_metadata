@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Prognostic Approaches Using Transient Monitoring Methods</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>msharp6@utk.edu</email>
+<lname>Sharp</lname>
+<fname>Michael</fname>
+<mname>Eric</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Prognostics</keyword>
+<keyword>Transient Monitoring</keyword>
+<keyword>Diagnostics</keyword>
+<keyword>Signal Processing</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;The utilization of steady state monitoring techniques has become an established means of providing diagnostic and prognostic information regarding both systems and equipment. However, steady state data is not the only, or in some cases, even the best source of information regarding the health and state of a system. Transient data has largely been overlooked as a source of system information due to the additional complexity in analyzing these types of signals. The development for algorithms and techniques to quickly, and intuitively develop generic quantification of deviations a transient signal towards the goal of prognostic predictions has until now, largely been overlooked. By quantifying and trending these shifts, an accurate measure of system heath can be established and utilized by prognostic algorithms. In fact, for some systems the elevated stress levels during transients can provide better, more clear indications of system health than those derived from steady state monitoring.&lt;/p&gt;
+&lt;p&gt;This research is based on the hypothesis that equipment health signals for some failure modes are stronger during transient conditions than during steady-state because transient conditions (e.g. start-up) place greater stress on the equipment for these failure modes. From this it follows that these signals related to the system or equipment health would display more prominent indications of abnormality if one were to know the proper means to identify them. This project seeks to develop methods and conceptual models to monitor transient signals for equipment health. The purpose of this research is to assess if monitoring of transient signals could provide alternate or better indicators of incipient equipment failure prior to steady state signals.&lt;strong&gt; &lt;/strong&gt;The project is focused on identifying methods, both traditional and novel, suitable to implement and test transient model monitoring in both an useful and intuitive way. By means of these techniques, it is shown that the addition information gathered during transient portions of life can be used to either to augment existing steady-state information, or in cases where such information is unavailable, be used as a primary means of developing prognostic models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1431</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2612&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1431</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2612</articleid>
+<submission-date>2012-06-21T11:45:52-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2612/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3014805</context-key>
+<submission-path>utk_graddiss/1431</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J W. Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>J W. Hines, Belle Upydhyaya, Laurence Miller, Itamar Arel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

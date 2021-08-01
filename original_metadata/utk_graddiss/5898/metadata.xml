@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Finite element methods for nonlinear, dispersive equations</title>
+<publication-date>2020-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mwise9@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Wise</lname>
+<fname>Michael</fname>
+<mname>Morgan</mname>
+</author>
+</authors>
+<keywords>
+<keyword>finite element methods</keyword>
+<keyword>discontinuous Galerkin methods</keyword>
+<keyword>Korteweg-de Vries equation</keyword>
+<keyword>a priori</keyword>
+<keyword>error estimates</keyword>
+<keyword>a posteriori</keyword>
+<keyword>conservation laws</keyword>
+<keyword>dispersive equations</keyword>
+<keyword>nonlinear equations</keyword>
+<keyword>adaptive methods</keyword>
+</keywords>
+<abstract>&lt;p&gt;The present study is concerned with the numerical approximation of solutions of systems of Korteweg-de Vries type, coupled through their nonlinear terms. We construct, analyze, and numerically validate two types of schemes that differ in their treatment of the third derivatives that appear in the system. This difference is fundamental, earning one method the moniker “conservative” due to its preservation, up to round-off error, of a fundamental invariant of the system. The other, slightly more-standard method is called “dissipative” for lack of this property. For both schemes, we prove convergence of a semidiscrete approximation from an a priori perspective and highlight differences in the assumptions required to analyze each scheme. We also derive a posteriori error estimates for the semidiscrete and fully discrete approximations obtained. Finally, we provide numerical experiments that serve to validate the a priori and a posteriori theory. We experimentally contrast the accuracy of the conservative and dissipative schemes when integrations are made over long time intervals. Also, experiments regarding the effectivity of various a posteriori indicators developed for fully-discrete schemes are presented. We experimentally identify particular components of our estimators that provide independent indicators of the spatial and temporal errors. We conclude by providing additional heuristic estimators based on the a posteriori estimates.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5898</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7664&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5898</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7664</articleid>
+<submission-date>2020-12-10T23:12:02-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20527826</context-key>
+<submission-path>utk_graddiss/5898</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ohannes Karakashian</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Xiaobing Feng, Abner Salgado</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/000000266120641</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2023-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

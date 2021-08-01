@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Advances in Big Data Analytics: Algorithmic Stability and Data Cleansing</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>withdrawn</state>
+<authors>
+<author>
+<email>ylu20@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Lu</lname>
+<fname>Yuping</fname>
+</author>
+</authors>
+<keywords>
+<keyword>big data</keyword>
+<keyword>robustness</keyword>
+<keyword>clustering</keyword>
+<keyword>paraclique</keyword>
+<keyword>outlier detection</keyword>
+</keywords>
+<abstract>&lt;p&gt;Analysis of what has come to be called “big data” presents a number of challenges as data continues to grow in size, complexity and heterogeneity. To help addresses these challenges, we study a pair of foundational issues in algorithmic stability (robustness and tuning), with application to clustering in high-throughput computational biology, and an issue in data cleansing (outlier detection), with application to pre-processing in streaming meteorological measurement. These issues highlight major ongoing research aspects of modern big data analytics. First, a new metric, robustness, is proposed in the setting of biological data clustering to measure an algorithm’s tendency to maintain output coherence over a range of parameter settings. It is well known that different algorithms tend to produce different clusters, and that the choice of algorithm is often driven by factors such as data size and type, similarity measure(s) employed, and the sort of clusters desired. Even within the context of a single algorithm, clusters often vary drastically depending on parameter settings. Empirical comparisons performed over a variety of algorithms and settings show highly differential performance on transcriptomic data and demonstrate that many popular methods actually perform poorly. Second, tuning strategies are studied for maximizing biological fidelity when using the well-known paraclique algorithm. Three initialization strategies are compared, using ontological enrichment as a proxy for cluster quality. Although extant paraclique codes begin by simply employing the first maximum clique found, results indicate that by generating all maximum cliques and then choosing one of highest average edge weight, one can produce a small but statistically significant expected improvement in overall cluster quality. Third, a novel outlier detection method is described that helps cleanse data by combining Pearson correlation coefficients, K-means clustering, and Singular Spectrum Analysis in a coherent framework that detects instrument failures and extreme weather events in Atmospheric Radiation Measurement sensor data. The framework is tested and found to produce more accurate results than do traditional approaches that rely on a hand-annotated database.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5626</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7272&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5626</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7272</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911673</context-key>
+<withdrawn>2020-08-17</withdrawn>
+<submission-path>utk_graddiss/5626</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael Langston</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jitendra Kumar, Qing Cao, Audris Mockus</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

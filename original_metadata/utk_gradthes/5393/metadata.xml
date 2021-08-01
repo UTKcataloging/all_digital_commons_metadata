@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Online Machine Learning Algorithms Review and Comparison in Healthcare</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>njagirda@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Jagirdar</lname>
+<fname>Nikhil</fname>
+<mname>Mukund</mname>
+</author>
+</authors>
+<keywords>
+<keyword>online machine learning</keyword>
+<keyword>predictive model</keyword>
+<keyword>big healthcare data</keyword>
+<keyword>incremental learning</keyword>
+<keyword>online random forest</keyword>
+<keyword>Learn++</keyword>
+<keyword>Adaptive boosting</keyword>
+<keyword>incremental random forest</keyword>
+<keyword>Hoeffding tree</keyword>
+<keyword>batch learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;Currently, the healthcare industry uses Big Data for essential patient care information. Electronic Health Records (EHR) store massive data and are continuously updated with information such as laboratory results, medication, and clinical events. There are various methods by which healthcare data is generated and collected, including databases, healthcare websites, mobile applications, wearable technologies, and sensors. The continuous flow of data will improve healthcare service, medical diagnostic research and, ultimately, patient care. Thus, it is important to implement advanced data analysis techniques to obtain more precise prediction results.Machine Learning (ML) has acquired an important place in Big Healthcare Data (BHD). ML has the capability to run predictive analysis, detect patterns or red flags, and connect dots to enhance personalized treatment plans. Because predictive models have dependent and independent variables, ML algorithms perform mathematical calculations to find the best suitable mathematical equations to predict dependent variables using a given set of independent variables. These model performances depend on datasets and response, or dependent, variable types such as binary or multi-class, supervised or unsupervised.The current research analyzed incremental, or streaming or online, algorithm performance with offline or batch learning (these terms are used interchangeably) using performance measures such as accuracy, model complexity, and time consumption. Batch learning algorithms are provided with the specific dataset, which always constrains the size of the dataset depending on memory consumption. In the case of incremental algorithms, data arrive sequentially, which is determined by hyperparameter optimization such as chunk size, tree split, or hoeffding bond. The model complexity of an incremental learning algorithm is based on a number of parameters, which in turn determine memory consumption.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5393</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6803&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5393</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6803</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343279</context-key>
+<submission-path>utk_gradthes/5393</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xueping Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jamie Coble, John Kobza</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Magnetic Local Positioning System with Supplemental Magnetometer-Accelerometer Data Fusion</title>
+<publication-date>2016-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>bprothro@vols.utk.edu</email>
+<institution>The University of Tennessee, Knoxville</institution>
+<lname>Prothro</lname>
+<fname>Benjamin</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Magnetic Location</keyword>
+<keyword>Kalman Filter</keyword>
+<keyword>Navigation System</keyword>
+</keywords>
+<disciplines><discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Geo-location and tracking technology, once confined to the industrial and military sectors, have been widely proliferated to the consumer world since early in the twenty-first century. The commoditization of Global Positioning System (GPS) and inertial measurement integrated circuits has made this possible, with devices small enough to fit in a cellular phone. However, GPS technology is not without its drawbacks: Its power use is high, and it can fail in smaller, obstructed spaces. Magnetic positioning, which exploits the magnetic field coupling between a set of transmitter beacon coils and a set of receiver coils, is an often overlooked, complementary technology that does not suffer from these problems.&lt;/p&gt;
+&lt;p&gt;Magnetic positioning is strong where GPS is weak; however, it has some weaknesses of its own. Namely, it is subject to distortions due to metal objects in its immediate vicinity. In much of the prior art, these distortions are ignored or either statically measured and then corrected.&lt;/p&gt;
+&lt;p&gt;This work presents a novel technique to dynamically correct for distorted fields. Specifically, a tri-axial magnetometer and a tri-axial accelerometer are integrated with the magnetic positioning system using a complementary Kalman filter. The end result resembles a tightly-coupled integrated GPS/inertial navigation system.&lt;/p&gt;
+&lt;p&gt;The results achieved by this integrated magnetic positioning system prove the viability of the approach. The results are demonstrated in a real-world environment, where both strong, localized distortions and spatially broad distortions are corrected.&lt;/p&gt;
+&lt;p&gt;In addition to the integrated magnetic position system, this work presents a novel scheme for calibrating the magnetic receiver; this technique is termed application domain calibration. In many real-world situations, low-level measurement and calibration will not be possible; therefore, this new technique uses the same set of demodulated and down-mixed data that is used by the magnetic positioning algorithms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3662</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5040&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3662</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5040</articleid>
+<submission-date>2015-10-13T07:37:33-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7710224</context-key>
+<submission-path>utk_graddiss/3662</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Syed K. Islam, Charles L. Britton Jr., Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2017-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

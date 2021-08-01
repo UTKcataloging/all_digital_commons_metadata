@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Stochastic Model for Self-scheduling Problem</title>
+<publication-date>2014-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lzhang42@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Zhang</lname>
+<fname>Lili</fname>
+</author>
+</authors>
+<keywords>
+<keyword>unit commitment</keyword>
+<keyword>optimization</keyword>
+<keyword>stochastic programming</keyword>
+<keyword>self-scheduling</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The unit commitment (UC) problem is a typical application of optimization techniques in the power generation and operation. Given a planning horizon, the UC problem is to find an optimal schedule of generating units, including on/off status and production level of each generating unit at each time period, in order to minimize operational costs, subject to a series of technical constraints. Because technical constraints depend on the characteristics of energy systems, the formulations of the UC problem vary with energy systems. The self-scheduling problem is a variant of the UC problem for the power generating companies to maximize their profits in a deregulated energy market. The deterministic self-scheduling UC problem is known to be polynomial-time solvable using dynamic programming. In this thesis, a stochastic model for the self-scheduling UC problem is presented and an efficient dynamic programming algorithm for the deterministic model is extended to solve the stochastic model. Solutions are compared to those obtained by traditional mixed integer programming method, in terms of the solution time and solution quality. Computational results show that the extended algorithm can obtain an optimal solution faster than Gurobi mixed-integer quadratic solver when solving a stochastic self-scheduling UC problem with a large number of scenarios. Furthermore, the results of a simulation experiment show that solutions based on a large number of scenarios can generate more average revenue or less average loss.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2863</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4046&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2863</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>4046</articleid>
+<submission-date>2014-03-27T13:40:01-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>5396224</context-key>
+<submission-path>utk_gradthes/2863</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mingzhou Jin, James Ostrowski</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tsewei Wang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

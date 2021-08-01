@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Method for Incorporating Fault Codes in Prognostic Analysis</title>
+<publication-date>2014-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>estrong3@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Strong</lname>
+<fname>Eric</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<keywords>
+<keyword>fault codes</keyword>
+<keyword>prognostics</keyword>
+<keyword>diagnostics</keyword>
+<keyword>nuclear</keyword>
+<keyword>reliability</keyword>
+<keyword>remaining useful life</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Information from fault codes associated with a component may be used as an indicator of its health. A fault code is defined as a timestamp at which a component is not operating according to recommended guidelines. The type of fault codes which are relevant for this analysis represent mild or moderate deviations from normal behavior, rather than those requiring immediate repair. Potentially, fault codes may be used to determine the Remaining Useful Life (RUL) of a component by predicting its failure time, which will improve safety and reduce maintenance costs associated with the component. In this dissertation, methods have been developed to integrate the degradation information from fault codes into an existing prognostic parameter to improve the estimation of RUL. Optimization methods such as gradient descent were used to weight each fault code based on their relevance to degradation. Furthermore, topic models, a document analysis and clustering technique, were used as both a dimension-reduction method and fault mode isolation. Methods developed for this dissertation were applied to two real-world data sets, an actuator system and monitored signals from a motor accelerated degradation experiment. The best estimation of RUL for the actuator system was a topic model with a mean absolute error of 6.41% of the data received, and the best estimation of RUL for the motor accelerated degradation experiment was 5.7% of the average lifetime of the motors. The primary contributions of this research includes a method to construct a prognostic parameter from fault codes alone, the integration of degradation information from fault codes into an existing prognostic parameter, the use of topic models in reliability analysis of fault codes, and a software suite that performs these functions on generic data sets.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2735</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3965&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2735</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3965</articleid>
+<submission-date>2014-01-28T08:27:36-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/3965/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>5027465</context-key>
+<submission-path>utk_graddiss/2735</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J W. Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle Upadhyaya, Lawrence Heilbronn, Mingzhou Jin, Jamie Coble</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

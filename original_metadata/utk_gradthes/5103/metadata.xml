@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ANALYSIS OF MULTIPLE SIGNAL ATTACKS ON CONTROL SYSTEMS</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>njakstas@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Jakstas</lname>
+<fname>Nedas</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This thesis studies the effects of different signal injection attacks against a time-delayed networked cyber-physical system (CPS). A CPS is an industrial control system which integrates computer networks and physical processes. CPSs are used in critical areas such as transportation and manufacturing. A networked control system is one that allows the controller and plant to be geographically separated by sending the control and measurement signals over a communication network. The convenience of controlling a plant remotely comes at the cost of increased security risk. An adversary who gains access to the network may intercept the signals and corrupt them or simply prevent the transmission of the signals, which may cause considerable damage to the system. The four types of attacks simulated are i) covert misappropriation attack, ii) replay attack, iii) undetectable attack, and iv) worst-case signal attacks. In all of these cases, the attacker is assumed to have access to the communication network used to send the actuation and measurement signals. All of the attacks are implemented successfully. The covert misappropriation attack resulted in over percent error in the nominal output signal while remaining undetected. The replay attack resulted well above one-hundred percent error and is likely to cause considerable damage to the system. The undetectable actuator attack forced the controller to expend more energy than necessary for a brief period to achieve the nominal output. The worst-case attack caused the controller to expend significantly more energy during the entire simulation in order to achieve the nominal output.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5103</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6510&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5103</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6510</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13414970</context-key>
+<submission-path>utk_gradthes/5103</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Seddik M. Djouadi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Husheng Li, Kevin L. Tomsovic</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

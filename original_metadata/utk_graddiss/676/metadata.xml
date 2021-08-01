@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Kernel-Based Data Mining Approach with Variable Selection for Nonlinear High-Dimensional Data</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>seunghyunbaek@hotmail.com</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Baek</lname>
+<fname>Seung Hyun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Classification</keyword>
+<keyword>Support Vector Machine</keyword>
+<keyword>Information Complexity</keyword>
+<keyword>Wavelet Thresholding</keyword>
+<keyword>Recursive Feature Elimination</keyword>
+<keyword>Floating Search</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;In statistical data mining research, datasets often have nonlinearity and high-dimensionality. It has become difficult to analyze such datasets in a comprehensive manner using traditional statistical methodologies. Kernel-based data mining is one of the most effective statistical methodologies to investigate a variety of problems in areas including pattern recognition, machine learning, bioinformatics, chemometrics, and statistics.  In particular, statistically-sophisticated procedures that emphasize the reliability of results and computational efficiency are required for the analysis of high-dimensional data. In this dissertation, first, a novel wrapper method called SVM-ICOMP-RFE based on hybridized support vector machine (SVM) and recursive feature elimination (RFE) with information-theoretic measure of complexity (ICOMP) is introduced and developed to classify high-dimensional data sets and to carry out subset selection of the variables in the original data space for finding the best for discriminating between groups. Recursive feature elimination (RFE) ranks variables based on the information-theoretic measure of complexity (ICOMP) criterion.  	Second, a dual variables functional support vector machine approach is proposed. The proposed approach uses both the first and second derivatives of the degradation profiles. The modified floating search algorithm for the repeated variable selection, with newly-added degradation path points, is presented to find a few good variables while reducing the computation time for on-line implementation.  	Third, a two-stage scheme for the classification of near infrared (NIR) spectral data is proposed. In the first stage, the proposed multi-scale vertical energy thresholding (MSVET) procedure is used to reduce the dimension of the high-dimensional spectral data. In the second stage, a few important wavelet coefficients are selected using the proposed SVM gradient-recursive feature elimination (RFE).  Fourth, a novel methodology based on a human decision making process for discriminant analysis called PDCM is proposed.  The proposed methodology consists of three basic steps emulating the thinking process: perception, decision, and cognition.  In these steps two concepts known as support vector machines for classification and information complexity are integrated to evaluate learning models.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/676</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1758&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>676</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1758</articleid>
+<submission-date>2010-04-13T13:16:38-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1273497</context-key>
+<submission-path>utk_graddiss/676</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Alberto Garcia, Yuanshun Dai</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xiaoyan Zhu, Hamparsum Bozdogan, Adam M. Taylor</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

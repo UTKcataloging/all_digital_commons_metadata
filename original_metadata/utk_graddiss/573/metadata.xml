@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Sequence-Based Specification of Embedded Systems</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Carter</lname>
+<fname>Jason</fname>
+<mname>Martin</mname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;Software has become integral to the control mechanism of modern devices. From transportation and medicine to entertainment and recreation, embedded systems integrate fundamentally with time and the physical world to impact our lives; therefore, product dependability and safety are of paramount importance.&lt;/p&gt;
+&lt;p&gt;Model-based design has evolved as an effective way to prototype systems and to analyze system function through simulation. This process mitigates the problems and risks associated with embedding software into consumer and industrial products. However, the most difficult tasks remain: Getting the requirements right and reducing them to precise specifications for development, and providing compelling evidence that the product is fit for its intended use.&lt;/p&gt;
+&lt;p&gt;Sequence-based specification of discrete systems, using well-chosen abstractions, has proven very effective in exposing deficiencies in requirements, and then producing precise specifications for good requirements. The process ensures completeness, consistency, and correctness by tracing each specification decision precisely to the requirements. Likewise, Markov chain based testing has proven effective in providing evidence that systems are fit for field use.&lt;/p&gt;
+&lt;p&gt;Model-based designs integrate discrete and continuous behavior; models have both hybrid and switching properties. In this research, we extend sequence-based specification to explicitly include time, continuous functions, nondeterminism, and internal events for embedded real-time systems. The enumeration is transformed into an enumeration hybrid automaton that acts as the foundation for an executable model-based design and an algebraic hybrid I/O automaton with valuable theoretical properties. Enumeration is a step-wise problem solving technique that complements model-based design by converting ordinary requirements into precise specifications. The goal is a complete, consistent, and traceably correct design with a basis for automated testing.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/573</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1641&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>573</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1641</articleid>
+<submission-date>2010-02-23T10:12:01-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1164807</context-key>
+<submission-path>utk_graddiss/573</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jesse H. Poore</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kenneth Stephenson, Michael G. Thomason, Lynne E. Parker</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

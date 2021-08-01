@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Overcoming Statistical Error and Bias in Quantum Monte Carlo: Application to Metal-Doped Helium Clusters</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Warren</lname>
+<fname>Gary</fname>
+<mname>Lee</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<disciplines><discipline>Chemistry</discipline>
+</disciplines><abstract>&lt;p&gt;Quantum Monte Carlo (QMC) methods are a class of powerful computer simulation techniques for solving the many-body Schrӧdinger equation.  These techniques deliver essentially exact results and boast favorable computational scaling with system size.  Calculations provide a full quantum mechanical treatment and may be carried to arbitrary precision.  These characteristics make QMC a promising choice for the investigation of doped helium clusters, where quantum effects are substantial.&lt;/p&gt;
+&lt;p&gt;Stochastic in nature, QMC methods are susceptible to statistical bias and error, which must be carefully controlled.  Moreover, the relationship between the finite sampling error and the statistical uncertainty in observables has never been systematically investigated.  Estimates of arbitrary observables are often substandard and can be plagued by statistical uncertainties an order of magnitude or greater than those for corresponding estimates of the energy.  In this work, we present an analysis of how finite populations, importance sampling, and dimensionality affect the statistical uncertainties in QMC estimates of arbitrary observables.  We find that the uncertainty depends exponentially on the dimensionality of the system, independent of the observable or nature of the system.  This provides insight into the minimal population sizes and importance sampling requirements necessary to obtain useful QMC estimates of properties in high-dimensional systems.&lt;/p&gt;
+&lt;p&gt;With this understanding, we develop new, more robust energy optimization procedures for cluster wavefunctions.  We also implement a high quality eight parameter ansatz for the investigation of both pure and doped helium cluster systems.  Compared to exact DMC results, the optimized wavefunctions recover over 90% of the total energy for clusters of size &lt;em&gt;n &lt;/em&gt;≤ 20.&lt;/p&gt;
+&lt;p&gt;Finally, we apply this knowledge directly to the study of the solvation behavior of neutral calcium and magnesium impurities in helium nanodroplets.  Diffusion Monte Carlo calculations using specially optimized Mg-He and Ca-He wavefunctions accurately determine the energetics and equilibrium structures of these highly quantum systems.  We observe strong deformations of the helium density for both dopants, with calcium preferentially further from the interior of the cluster than magnesium.  Finite size effects in small clusters appear to prevent the interior solvation of magnesium in clusters with 20 or fewer helium atoms.  This contrasts with experimental observations in larger clusters indicating the full interior solvation of magnesium atoms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4354</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6105&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4354</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6105</articleid>
+<submission-date>2017-06-09T10:33:14-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>10274959</context-key>
+<submission-path>utk_graddiss/4354</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Robert J. Hinde</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert Harrison, Ted Barnes, Ben Xue</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Chemistry</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

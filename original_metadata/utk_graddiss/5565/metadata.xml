@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Index-Based Algorithms for Local Query Process in Large-scale Graphs</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>zlu12@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Lu</lname>
+<fname>Zheng</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Graph Algorithm</keyword>
+<keyword>Shortest Path</keyword>
+<keyword>K-truss Community</keyword>
+<keyword>User Mobility Inference</keyword>
+</keywords>
+<abstract>&lt;p&gt;Graphs are naturally used to model real-world networks. Among various types of graph, complex networks, which are a type of graphs (networks) that exhibits unique topology properties, e.g., power-law degree distribution and small diameters, are commonly found in real-world networks and has exposed new challenges for graph analysis. Due to the ever-increasing difficulty in running classic graph algorithms on large-scale graphs, a new type of graph problem, called query-dependent variants of graph problems have drawn raising attention. In this dissertation, we explore how to leverage index structures to design highly efficient algorithms for query-dependent graph problems. We first study point-to-point shortest paths problems in large-scale complex networks. We propose a decentralized search algorithm running on a landmark-based index structure constructed with a new concept called path degree. Due to the light weight of our online search algorithm, we build a distributed system that supports parallel processing of online queries to achieve high throughput. We demonstrate that our system can process hundreds of thousand queries per second on these graphs with higher accuracy and reduced overhead than the state-of-the-art works.We then study the local k-truss community query problem in large-scale complex networks. We generalize the community search problems by supporting both the community-level and the edge-level query with arbitrary cohesiveness criteria. We design a two-level index structure that processes both types of queries for a single or multiple vertices in optimal time. Our method outperforms the state-of-the-art works in both the community search problem and community-level problems by a large margin. Finally, we introduce a new data filter based on graph model and apply it for a real-world problem, which is inferring user mobility from coarse-grained location trace. We use the Voronoi Diagram to model cellular tower&#39;s coverage. We introduce a graph-based data filter with estimations of lower bounds of users&#39; travelled distance. We apply the graph-based filter to our dataset to acquire clean user mobility data for further data analysis task.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5565</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7211&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5565</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7211</articleid>
+<submission-date>2020-08-13T18:48:05-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911432</context-key>
+<submission-path>utk_graddiss/5565</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Qing Cao</value>
+</field>
+<field name="advisor2" type="string">
+<value>Wenjun Zhou, Michael Langston, Hairong Qi</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-7203-220X</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

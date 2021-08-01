@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A GPU-based Implementation for Improved Online Rebinning Performance in Clinical 3-D PET</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Patlolla</lname>
+<fname>Dilip</fname>
+<mname>Reddy</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Online rebinning is an important and well-established technique for reducing the time required to process Positron Emission Tomography data. However, the need for efficient data processing in a clinical setting is growing rapidly and is beginning to exceed the capability of traditional online processing methods. High-count rate applications such as Rubidium 3-D PET studies can easily saturate current online rebinning technology. Realtime processing at these high-count rates is essential to avoid significant data loss. In addition, the emergence of time-of-flight (TOF) scanners is producing very large data sets for processing. TOF applications require efficient online Rebinning methods so as to maintain high patient throughput. Currently, new hardware architectures such as Graphics Processing Units (GPUs) are available to speedup data parallel and number crunching algorithms. In comparison to the usual parallel systems, such as multiprocessor or clustered machines, GPU hardware can be much faster and above all, it is significantly cheaper. The GPUs have been primarily delivered for graphics for video games but are now being used for High Performance computing across many domains. The goal of this thesis is to investigate the suitability of the GPU for PET rebinning algorithms.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/550</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1583&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>550</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1583</articleid>
+<submission-date>2010-02-26T12:24:01-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1176304</context-key>
+<submission-path>utk_gradthes/550</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Hairong Qi, Dr. Itamar Arel</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

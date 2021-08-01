@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Capacity design methods for strongback braced frames</title>
+<publication-date>2018-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Talley</lname>
+<fname>Peter</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>capacity design</keyword>
+<keyword>strongback</keyword>
+<keyword>steel braced frames</keyword>
+<keyword>elastic spine frames</keyword>
+<keyword>design methods</keyword>
+<keyword>FEMA P695</keyword>
+</keywords>
+<abstract>&lt;p&gt;When subjected to strong earthquake ground motions, conventional steel braced frames are vulnerable to soft-story mechanisms, whereby the weakest story accumulates more damage relative to the rest of the structure. This reduces the overall strength of the structure, increases the cost of repairs, and can cause issues during the design process due to the reduced redundancy of the system.One method for mitigating this behavior is the use of an elastic spine frame. These frames combine a stiff vertical “spine”, such as a truss or shear wall, with a more ductile, energy-dissipating system. The spine typically spans the height of the structure and is designed to remain elastic, distributing earthquake demands across the height of the structure and bridging weak stories. One proposed elastic spine frame is the &quot;strongback&quot; braced frame, which merges a steel buckling-restrained braced frame and an elastic truss, using the buckling-restrained braces for energy dissipation and the truss for force distribution.However, strongback braced frames do not have well-established design criteria. Specifically, there is no generally accepted method for ensuring that the strongback remains elastic, and seismic performance factors have not been developed. Additionally, conventional capacity design underestimates the demands on the spine. It is desirous to have a method for design of these frames that hews closely to existing methods utilizing the equivalent lateral force method.This thesis presents the first phase of a study to address these gaps in the design provisions and to better understand the behavior of this system. A suite of building frames which employ the strongback system were designed with the intent of using them as the basis for parametric analytical studies in the second phase. The suite of frames was selected using the requirements of FEMA P695, the state-of-the-art method for determining seismic performance factors. Three alternative capacity design methods were developed and compared to basic capacity design to identify which is best suited to efficiently achieve the performance objectives. The methods were evaluated for efficiency in the design process, and for feasibility of the resulting designs. However, evaluation of performance objectives is the goal of future study.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5359</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6769&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5359</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6769</articleid>
+<submission-date>2019-04-24T09:29:16-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>14343117</context-key>
+<submission-path>utk_gradthes/5359</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mark D. Denavit</value>
+</field>
+<field name="advisor2" type="string">
+<value>Z. John Ma, Nicholas E. Wierschem</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Civil Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>SYNTHNOTES: TOWARDS SYNTHETIC CLINICAL TEXT GENERATION</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>kbrown42@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Brown</lname>
+<fname>Kris</fname>
+<mname>Allen</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;SynthNotes is a statistical natural language generation tool for the creation of realistic medical text notes for use by researchers in clinical language processing. Currently, advancements in medical analytics research face barriers due to patient privacy concerns which limits the numbers of researchers who have access to valuable data. Furthermore, privacy protections restrict the computing environments where data can be processed. This often adds prohibitive costs to researchers. The generation method described here provides domain-independent statistical methods for learning to generate text by extracting and ranking templates from a training corpus. The primary contribution in this work is automating the process of template selection and generation of text through classic machine learning methods. SynthNotes removes the need for human domain experts to construct templates, which can be time intensive and expensive. Furthermore, by using machine learning methods, this approach leads to greater realism and variability in the generated notes than could be achieved through classical language generation methods.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5405</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6813&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5405</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6813</articleid>
+<submission-date>2020-02-12T18:30:08-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>16528532</context-key>
+<submission-path>utk_gradthes/5405</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael Berry, Edmon Begoli</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

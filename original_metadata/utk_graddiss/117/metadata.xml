@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Self-Certified Public Key Cryptographic Methodologies for Resource-Constrained Wireless Sensor Networks</title>
+<publication-date>2007-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Arazi</lname>
+<fname>Ortal</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;As sensor networks become one of the key technologies to realize ubiquitous computing, security remains a growing concern. Although a wealth of key-generation methods have been developed during the past few decades, they cannot be directly applied to sensor network environments. The resource-constrained characteristics of sensor nodes, the ad-hoc nature of their deployment, and the vulnerability of wireless media pose a need for unique solutions.&lt;/p&gt;
+&lt;p&gt;A fundamental requisite for achieving security is the ability to provide for data con…dential- ity and node authentication. However, the scarce resources of sensor networks have rendered the direct applicability of existing public key cryptography (PKC) methodologies impractical. Elliptic Curve Cryptography (ECC) has emerged as a suitable public key cryptographic foun- dation for constrained environments, providing strong security for relatively small key sizes.&lt;/p&gt;
+&lt;p&gt;This work focuses on the clear need for resilient security solutions in wireless sensor networks (WSNs) by introducing e¢ cient PKC methodologies, explicitly designed to accommodate the distinctive attributes of resource-constrained sensor networks. Primary contributions pertain to the introduction of light-weight cryptographic arithmetic operations, and the revision of self- certi…cation (consolidated authentication and key-generation). Moreover, a low-delay group key generation methodology is devised and a denial of service mitigation scheme is introduced. The light-weight cryptographic methods developed pertain to a system-level e¢ cient utilization of the Montgomery procedure and e¢ cient calculations of modular multiplicative inverses. With respect to the latter, computational complexity has been reduced from O&lt;em&gt;(m)&lt;/em&gt; to O&lt;em&gt;(logm),&lt;/em&gt; with little additional memory cost.&lt;/p&gt;
+&lt;p&gt;Complementing the theoretical contributions, practical computation o¤-loading protocols have been developed along with a group key establishment scheme. Implementation on state-of- the-art sensor node platforms has yielded a comprehensive key establishment process obtained in approximately &lt;em&gt;5&lt;/em&gt;0 &lt;em&gt;ns,&lt;/em&gt; while consuming less than 2&lt;em&gt;5 mJ&lt;/em&gt;. These exciting results help demonstrate the technology developed and ensure its impact on next-generation sensor networks.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/117</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1163&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>117</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1163</articleid>
+<submission-date>2010-01-26T12:11:27-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1122344</context-key>
+<submission-path>utk_graddiss/117</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Douglas Birdwell, Donald Bouldin, Tom Dunigan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-12-01T00:00:00-08:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/AraziOrtal.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

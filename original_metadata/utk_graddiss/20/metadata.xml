@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Automated Surveillance Systems with Multi-Camera and Robotic Platforms</title>
+<publication-date>2009-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chen</lname>
+<fname>Chung</fname>
+<mname>Hao</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation addresses automated surveillance systems focusing on four topics: (1) spatial mappings of omnidirectional and PTZ cameras, and PTZ and PTZ cameras; (2) target hopping application for dual camera systems; (3) camera handoff and placement; (4) the mobile tracking platform. The four topics represent four contributions in this dissertation.&lt;/p&gt;
+&lt;p&gt;Dual camera systems have been widely used in surveillance because of the ability to explore the wide field of view (FOV) of the omnidirectional camera and the wide zoom range of the PTZ camera. Most existing algorithms require a priori knowledge of the projection models of omnidirectional and PTZ cameras to solve the spatial mapping between any two cameras. The proposed methods not only improve the mapping accuracy by reducing the dependence on the knowledge of the projection model but also improved flexibility in adjusting to varying system configurations. The omnidirectional camera is capable of multi object tracking while the PTZ camera is able to track one individual target at one time to maintain the required resolution. It becomes necessary for the PTZ camera to distribute its observation time among multiple objects and visit them in sequence. In comparison with the sequential visiting and nearest neighbor methods, the proposed adaptive algorithm requires less computational and visiting time.&lt;/p&gt;
+&lt;p&gt;Tracking with multiple cameras is mainly the consistent labeling or camera handoff problem. An automatic calibration procedure combined with Wilcoxon Signed-Rank Test is proposed to solve the consistent labeling problem. Meanwhile, we introduce an additional constraint to search for optimal cameras‘ overlapped field of views (FOVs) and resource management approach to improve camera handoff performance. Experiments show that our proposed camera handoff and placement can outperform existing approaches.&lt;/p&gt;
+&lt;p&gt;However, in the majority of surveillance systems, their cameras are stationary. These stationary systems often require the desired object to stay within the surveillance range of the system. Thus, the robotic platform we propose uses a visual camera to sense the movement of the desired object and a range sensor to help the robot detect and then avoid obstacles in real time while continuing to track and follow the desired object. Experiment shows this robotic and intelligent system can fulfill the requirements of tracking an object and avoiding obstacles simultaneously when the object moves in speed of 4 km/hr.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/20</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1050&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>20</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1050</articleid>
+<submission-date>2009-12-18T11:27:40-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1094143</context-key>
+<submission-path>utk_graddiss/20</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hairong Qi, Seddik M. Djouadi, Andreas Koschan, Frank M. Guess</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

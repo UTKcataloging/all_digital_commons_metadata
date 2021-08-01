@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computer simulations of biological systems: from protein dynamics to drug discovery</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ragarwa4@vols.utk.edu</email>
+<lname>Agarwal</lname>
+<fname>Rupesh</fname>
+</author>
+</authors>
+<keywords>
+<keyword>drug discovery</keyword>
+<keyword>computational biophysics</keyword>
+<keyword>protein dynamics</keyword>
+<keyword>protein evolution</keyword>
+<keyword>simulation</keyword>
+<keyword>deuteration effect</keyword>
+</keywords>
+<disciplines><discipline>Biochemistry</discipline>
+<discipline>Biophysics</discipline>
+<discipline>Other Biochemistry, Biophysics, and Structural Biology</discipline>
+<discipline>Structural Biology</discipline>
+</disciplines><abstract>&lt;p&gt;Computational biophysics methods such as molecular dynamics (MD) simulations are often used in combination with experimental techniques like neutron scattering, NMR, and FTIR to explore protein conformational landscapes. With the improvements in experimental techniques, there is also a need to continually optimize the MD forcefield parameters to make precise predictions that match experimental results. To complement many of these experiments, an accurate model of deuteration is frequently required, but has been elusive. In our work, we developed a novel method to capture isotope effects in classical MD simulations by re-parameterization of the bonded terms of the CHARMM forcefield using quantum mechanical (QM) calculations.&lt;/p&gt;
+&lt;p&gt;Apart from this, MD simulations can also be applied to explore a range of protein motions over different timescales, which are otherwise experimentally challenging. This work captures three such studies on protein dynamics- 1) the role of a) global and b) local motions in facilitating ligand binding to various adhesin protein homologs, and 2) a comparative study on the effect of temperature and pressure changes on the dynamics of thermophilic and mesophilic pyrophosphatases. In the case of adhesin proteins, we identified that the local motion in the loops near their binding pockets is critical for ligand selectivity, whereas the global inter-domain orientation in the protein is important for binding to the platelets. In the case of pyrophosphatases, our studies revealed that the number of hydrogen bonds, in the respective catalytic pockets of the two homologs, vary with temperature which potentially causes the observed differences in their experimental enzymatic activities.&lt;/p&gt;
+&lt;p&gt;Finally, another emerging application of computational biophysics is in the field of therapeutic research, i.e., to identify new drugs and therapies to cure lethal diseases by incorporating information about the target protein’s dynamics into structure-based drug discovery. Implementing a pipeline that includes ensemble docking and consensus scoring, we successfully targeted two proteins: 1) Histone deacetylase (HDAC) 4 and 2) adhesin protein Hsa, which are known to cause prostate cancer and infective endocarditis, respectively. For both the targets, we identified multiple novel small molecules that also inhibit these proteins in-vitro.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6159</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7116&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6159</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7116</articleid>
+<submission-date>2020-08-04T08:38:18-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18789567</context-key>
+<submission-path>utk_graddiss/6159</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy C. Smith</value>
+</field>
+<field name="advisor2" type="string">
+<value>Tessa Calhoun, Jerome Baudry, Loukas Petridis</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;https://orcid.org/0000-0003-1029-2281&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Life Sciences</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2021-12-15T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

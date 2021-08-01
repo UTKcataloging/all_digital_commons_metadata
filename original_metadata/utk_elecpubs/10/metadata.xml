@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Graph algorithms for machine learning: a case-control study based on prostate cancer populations and high throughput transcriptomic data</title>
+<publication-date>2010-07-23T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>grogers@eecs.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Rogers</lname>
+<fname>Gary</fname>
+<mname>L.</mname>
+</author>
+<author>
+<institution>University of Newcastle</institution>
+<lname>Moscato</lname>
+<fname>Pablo</fname>
+</author>
+<author>
+<email>mlangsto@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Langston</lname>
+<fname>Michael</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<disciplines><discipline>Bioinformatics</discipline>
+<discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;h3&gt;Background&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;The continuing proliferation of high-throughput biological data promises to revolutionize personalized medicine. Confirming the presence or absence of disease is an important goal. In this study, we seek to identify genes, gene products and biological pathways that are crucial to human health, with prostate cancer chosen as the target disease.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;  &lt;h3&gt;Materials and methods&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Using case-control transcriptomic data, we devise a graph theoretical toolkit for this task. It employs both innovative algorithms and novel two-way correlations to pinpoint putative biomarkers that classify unknown samples as cancerous or normal.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;  &lt;h3&gt;Results and conclusion&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Observed accuracy on real data suggests that we are able to achieve sensitivity of 92% and specificity of 91%.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_elecpubs/10</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1014&amp;amp;context=utk_elecpubs&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1014</articleid>
+<submission-date>2013-07-12T13:28:39-07:00</submission-date>
+<publication-title>Faculty Publications and Other Works -- EECS</publication-title>
+<context-key>4310712</context-key>
+<submission-path>utk_elecpubs/10</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>BMC Bioinformatics 2010, 11(Suppl 4):P21 doi:10.1186/1471-2105-11-S4-P21</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-07-12T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-07-23T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

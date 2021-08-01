@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Study of a Position Sensing Gas Proportional Detector for Decommissioning</title>
+<publication-date>2020-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Echterling</lname>
+<fname>Christopher</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Decontamination and decommissioning as required by the Nuclear Regulatory Commission is guided by the Multi-Agency Site Survey and Investigation Manual.  This manual lays out the types of radiological surveys required for decommissioning and the methods and equations to analyze the data.  By optimizing detectors based on this manual, a business engaged in providing decommissioning services can become more competitive.To optimize a detector for decommissioning, position-sensing gas proportional detectors were investigated to determine critical design criteria.  Gas proportional detectors are already commonly in use for decommissioning work.  By adding position sensing, additional speed and efficiency of surveying can be gained.Position-sensitive gas proportional designs appropriate for the application of interest were reviewed.  Some of the critical design parameters for the anode include the diameter, the resistance, the capacitance, and the tension that can be applied to the anode.  The counting gas and pressure and applied bias voltage are required to calculate the gas amplification.  A prototype detector was constructed using a resistive anode with the intent to use charge division to sense position and these design criteria were investigated more fully. A one meter long by 10 centimeter wide detector with five resistive anodes in a planar configuration was constructed.  Anode capacitance must be carefully controlled to ensure that the anode tension is sufficiently high to prevent detector sparking at voltages large enough to ensure gas amplification is on the order of 102.  The intrinsic noise of the detector is problematic and requires careful preamplifier design and specification.  The preamplifiers should be designed in conjunction with the detector to ensure optimal functionality.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5597</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7131&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5597</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7131</articleid>
+<submission-date>2020-12-11T12:42:04-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>20539090</context-key>
+<submission-path>utk_gradthes/5597</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jason Hayward</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Heilbronn, Eric Lukosi</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

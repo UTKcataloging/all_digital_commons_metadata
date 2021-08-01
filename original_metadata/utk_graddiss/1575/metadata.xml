@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Task Execution on Shared and Distributed Memory Architectures</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>yarkhan@utk.edu</email>
+<lname>YarKhan</lname>
+<fname>Asim</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer and Systems Architecture</discipline>
+<discipline>Numerical Analysis and Scientific Computing</discipline>
+<discipline>Software Engineering</discipline>
+<discipline>Systems Architecture</discipline>
+</disciplines><abstract>&lt;p&gt;Multicore architectures with high core counts have come to dominate the world of high performance computing, from shared memory machines to the largest distributed memory clusters. The multicore route to increased performance has a simpler design and better power efficiency than the traditional approach of increasing processor frequencies. But, standard programming techniques are not well adapted to this change in computer architecture design.&lt;/p&gt;
+&lt;p&gt;In this work, we study the use of dynamic runtime environments executing data driven applications as a solution to programming multicore architectures. The goals of our runtime environments are productivity, scalability and performance. We demonstrate productivity by defining a simple programming interface to express code. Our runtime environments are experimentally shown to be scalable and give competitive performance on large multicore and distributed memory machines.&lt;/p&gt;
+&lt;p&gt;This work is driven by linear algebra algorithms, where state-of-the-art libraries (e.g., LAPACK and ScaLAPACK) using a fork-join or block-synchronous execution style do not use the available resources in the most efficient manner. Research work in linear algebra has reformulated these algorithms as tasks acting on tiles of data, with data dependency relationships between the tasks. This results in a task-based DAG for the reformulated algorithms, which can be executed via asynchronous data-driven execution paths analogous to dataflow execution.&lt;/p&gt;
+&lt;p&gt;We study an API and runtime environment for shared memory architectures that efficiently executes serially presented tile based algorithms. This runtime is used to enable linear algebra applications and is shown to deliver performance competitive with state-of- the-art commercial and research libraries.&lt;/p&gt;
+&lt;p&gt;We develop a runtime environment for distributed memory multicore architectures extended from our shared memory implementation. The runtime takes serially presented algorithms designed for the shared memory environment, and schedules and executes them on distributed memory architectures in a scalable and high performance manner. We design a distributed data coherency protocol and a distributed task scheduling mechanism which avoid global coordination. Experimental results with linear algebra applications show the scalability and performance of our runtime environment.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1575</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2774&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1575</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2774</articleid>
+<submission-date>2012-11-14T12:58:09-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3468904</context-key>
+<submission-path>utk_graddiss/1575</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack J. Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Michael W. Berry, Kenneth Stephenson, Stanimire Tomov</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

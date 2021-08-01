@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An ARIMA Supply Chain Model with a Generalized Ordering Policy</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Chatpattananan</lname>
+<fname>Vuttichai</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This dissertation develops models to understand and mitigate the bull- whip effect across supply chains. The models explain the bullwhip effect that is caused by using the up to target ordering policy in standard Material Requirement Planning (MRP) systems. In the up to target ordering policy, the orders are directly driven by actual demand oscillations. We develop the models in AutoRegressive Integrated Moving Average (ARIMA) forms for a single demand item in a tandem line supply chain model. Different from supply chain models in current literature that are based on the assumption of the up to target ordering policy with some specific ARIMA models and specific numbers of stages in supply chain, the up to target ordering policy models in this dissertation can be applied to any ARIMA demand, any or- dering lead time, and any number of stages in supply chains to derive the closed form expressions of the variation in inventory and the variation in orders. In addition, we propose the generalized ordering policy in which the up to target ordering policy is a special case. The generalized ordering policy permits manufacturers to smooth orders with the guaranteed stationary inventory in which smoothing orders is regarded as an effective way to mitigate the bullwhip effect. With the generalized ordering policy, manufacturers can control the tradeoffs between the variation in inventory and the variation in differencing orders which is stationary due to differencing. The generalized order models can be applied to any ARIMA demand, any ordering lead time, and any smoothing period. Two special cases of the generalized ordering policy are also illustrated. One is the previously mentioned up to target ordering policy that minimizes the variation in inventory. Another is the smoothing ordering policy that minimizes the variation in differencing orders. We also provide generic formulas to determine the opti- mal smoothing weights in the smoothing ordering policy for ARIMA(p; 0; q) and ARIMA(p; 1; q) orders. Finally, this dissertation introduces the bounded MRP following the rate based planning concept. We propose a simulation based technique to set the bounds into standard MRP systems for exponential smoothing or ARIMA(0,1,1) demand. With this bounded MRP, we can mitigate the bullwhip effect and reduce the conflict between production planning and infeasible capacity planning.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1967</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3398&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1967</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3398</articleid>
+<submission-date>2013-09-20T10:26:59-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4608947</context-key>
+<submission-path>utk_graddiss/1967</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kenneth Gilbert</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mellissa Bowers, Mandyam Srinivasan, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Motion Control for a Tracking Fluoroscope System</title>
+<publication-date>2005-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Preliasco</lname>
+<fname>Gabriel</fname>
+<mname>Rinaldo</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The tracking fluoroscope system (TFS), patent pending serial No.: 60/606,480; is a vehicle carrying a fluoroscope to take x-rays movies of person’s joints. Fluoroscope, composed by a radiation source and image intensifier, is moved by a total of four servomotors following a subject’s joint. At the same time, vehicle has to follow the subject using two driving-steering servomotor wheels. This thesis is the result of internal research developed at the Mechanical Aerospace Biomedical Engineering Department at the University of Tennessee.&lt;/p&gt;
+&lt;p&gt;The thesis objective is to determine the best control system for TFS subject tracking function in linear translational mode. Kinematic and dynamic models of the system are presented. The kinematic and dynamic control systems are simulated, tested, and compared. A simplified dynamic model is introduced to compare its results with the kinematic model and evaluate if an extensive dynamic model is required. The dynamic model incorporates a tire friction model. Various tests are then carried out to compute the tire model parameters. To overcome some disadvantages presented by the dynamic and kinematic control systems, a stand-off distance controller is introduced and tested. The stand-off distance controller exhibits better performance than the other control systems proposed. Finally, a special setup process is developed and tested to rotate the vehicle in place.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2295</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3763&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2295</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3763</articleid>
+<submission-date>2013-10-17T12:21:32-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4733798</context-key>
+<submission-path>utk_gradthes/2295</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>William R. Hamel</value>
+</field>
+<field name="advisor2" type="string">
+<value>Richard Komistek, G. V. Smith</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

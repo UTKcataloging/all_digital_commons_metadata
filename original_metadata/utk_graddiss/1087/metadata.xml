@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Collaborative Solutions to Visual Sensor Networks</title>
+<publication-date>2011-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mkarakay@utk.edu</email>
+<lname>Karakaya</lname>
+<fname>Mahmut</fname>
+</author>
+</authors>
+<keywords>
+<keyword>visual sensor networks</keyword>
+<keyword>target localization</keyword>
+<keyword>certainty map</keyword>
+<keyword>dynamic itinerary</keyword>
+<keyword>visual coverage estimation</keyword>
+<keyword>fault-tolerance</keyword>
+</keywords>
+<disciplines><discipline>Digital Communications and Networking</discipline>
+<discipline>Other Computer Engineering</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;Visual sensor networks (VSNs) merge computer vision, image processing and wireless sensor network disciplines to solve problems in multi-camera applications in large surveillance areas. Although potentially powerful, VSNs also present unique challenges that could hinder their practical deployment because of the unique camera features including the extremely higher data rate, the directional sensing characteristics, and the existence of visual occlusions.&lt;/p&gt;
+&lt;p&gt;In this dissertation, we first present a collaborative approach for target localization in VSNs. Traditionally; the problem is solved by localizing targets at the intersections of the back-projected 2D cones of each target. However, the existence of visual occlusions among targets would generate many false alarms. Instead of resolving the uncertainty about target existence at the intersections, we identify and study the non-occupied areas in 2D cones and generate the so-called certainty map of targets non-existence. We also propose distributed integration of local certainty maps by following a dynamic itinerary where the entire map is progressively clarified.&lt;/p&gt;
+&lt;p&gt;The accuracy of target localization is affected by the existence of faulty nodes in VSNs. Therefore, we present the design of a fault-tolerant localization algorithm that would not only accurately localize targets but also detect the faults in camera orientations, tolerate these errors and further correct them before they cascade. Based on the locations of detected targets in the fault-tolerated final certainty map, we construct a generative image model that estimates the camera orientations, detect inaccuracies and correct them.&lt;/p&gt;
+&lt;p&gt;In order to ensure the required visual coverage to accurately localize targets or tolerate the faulty nodes, we need to calculate the coverage before deploying sensors. Therefore, we derive the closed-form solution for the coverage estimation based on the &quot;certainty-based detection&quot; model that takes directional sensing of cameras and existence of visual occlusions into account.&lt;/p&gt;
+&lt;p&gt;The effectiveness of the proposed collaborative and fault-tolerant target localization algorithms in localization accuracy as well as fault detection and correction performance has been validated through the results obtained from both simulation and real experiments. In addition, conducted simulation shows extreme consistency with results from theoretical closed-form solution for visual coverage estimation, especially when considering the boundary effect.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1087</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2216&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1087</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2216</articleid>
+<submission-date>2011-06-21T10:23:15-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2069542</context-key>
+<submission-path>utk_graddiss/1087</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong QI</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Cao, Husheng Li, Hamparsum Bozdogan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

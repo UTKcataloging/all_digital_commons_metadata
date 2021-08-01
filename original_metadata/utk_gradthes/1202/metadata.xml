@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Spatial Discrepancies between NHDPlus and LIDAR-Derived Stream Networks</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>nsamu@utk.edu</email>
+<lname>Samu</lname>
+<fname>Nicole</fname>
+<mname>Marie</mname>
+</author>
+</authors>
+<keywords>
+<keyword>LIDAR</keyword>
+<keyword>NHDPlus</keyword>
+<keyword>stream network</keyword>
+<keyword>GIS</keyword>
+<keyword>watershed</keyword>
+<keyword>spatial analysis</keyword>
+</keywords>
+<disciplines><discipline>Geographic Information Sciences</discipline>
+<discipline>Geomorphology</discipline>
+<discipline>Hydrology</discipline>
+<discipline>Physical and Environmental Geography</discipline>
+<discipline>Water Resource Management</discipline>
+</disciplines><abstract>&lt;p&gt;Many organizations demand that current water resource issues necessitate improved stream network mapping for more accurate and reliable watershed analysis and modeling results, which can ultimately enable better management and policy decisions. Stream network data from the National Hydrography Dataset Plus (NHDPlus) and derived from Light Detection and Ranging (LIDAR) are each widely accepted to be of superior quality compared to many other conventional datasets. Each dataset indicates potential to improve a wide range of water resource applications; NHDPlus for its high spatial accuracy and functionality, and LIDAR-derived networks for their high resolutions. NHDPlus is publicly available and widely used; yet, until recently, high production costs and limited availability of LIDAR data have traditionally limited their widespread use in stream network mapping for water resource applications. However, recently increasing availability and decreasing costs suggest that LIDAR-derived networks could potentially be used to improve many application initiatives.&lt;/p&gt;
+&lt;p&gt;This study analyzes spatial discrepancies between NHDPlus and LIDAR-derived stream network datasets. Results from analyses are intended to contribute information that can lead to improved stream network mapping and water resource applications. Mann-Whitney U and Wilcoxon-Signed Rank tests were first conducted to ascertain statistically significant types of spatial discrepancies existing between the datasets. Spatial autocorrelation analysis was then used to quantify spatial patterns of discrepancies between NHDPlus and LIDAR-derived networks. Next, Kruskal-Wallis tests were conducted to determine associations between local patterns of discrepancies and various landscape characteristics. Lastly, Spearman Rank Correlation tests were used to ascertain relationships between landscape characteristics and discrepancies between networks per catchment.&lt;/p&gt;
+&lt;p&gt;Results indicate that significant types and patterns of spatial discrepancies exist between NHDPlus and LIDAR-derived stream network datasets, and local patterns of the discrepancies are spatially related to various landscape characteristics. These findings imply how spatial discrepancies resulting between NHDPlus and LIDAR-derived networks may lead to differing watershed analysis and modeling results. Collectively, this research contributes building fundamental information for better understanding how to improve stream network mapping and water resource applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1202</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2378&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1202</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2378</articleid>
+<submission-date>2012-04-18T18:23:07-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>2779738</context-key>
+<submission-path>utk_gradthes/1202</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Liem T. Tran</value>
+</field>
+<field name="advisor2" type="string">
+<value>Carol P. Harden, Glenn A. Tootle</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2012-01-02T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

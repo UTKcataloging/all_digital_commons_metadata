@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Joint optimization of allocation and release policy decisions for surgical block time under uncertainty</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mloghavi@vols.utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Loghavi</lname>
+<fname>Mina</fname>
+</author>
+</authors>
+<keywords>
+<keyword>optimization</keyword>
+<keyword>simulation</keyword>
+<keyword>healthcare</keyword>
+<keyword>scheduling</keyword>
+<keyword>multi-priority patients</keyword>
+<keyword>release policy</keyword>
+</keywords>
+<disciplines><discipline>Business Administration, Management, and Operations</discipline>
+<discipline>Management Sciences and Quantitative Methods</discipline>
+</disciplines><abstract>&lt;p&gt;The research presented in this dissertation contributes to the growing literature on applications of operations research methodology to healthcare problems through the development and analysis of mathematical models and simulation techniques to find practical solutions to fundamental problems facing nearly all hospitals.&lt;/p&gt;
+&lt;p&gt;In practice, surgical block schedule allocation is usually determined regardless of the stochastic nature of case demand and duration. Once allocated, associated block time release policies, if utilized, are often simple rules that may be far from optimal. Although previous research has examined these decisions individually, our model considers them jointly. A multi-objective model that characterizes financial, temporal, and clinical measures is utilized within a simulation optimization framework. The model is also used to test “conventional wisdom” solutions and to identify improved practical approaches.&lt;/p&gt;
+&lt;p&gt;Our result from scheduling multi-priority patients at the Stafford hospital highlights the importance of considering the joint optimization of block schedule and block release policy on quality of care and revenue, taking into account current resources and performance. The proposed model suggests a new approach for hospitals and OR managers to investigate the dynamic interaction of these decisions and to evaluate the impact of changes in the surgical schedule on operating room usage and patient waiting time, where patients have different sensitivities to waiting time.&lt;/p&gt;
+&lt;p&gt;This study also investigated the performance of multiple scheduling policies under multi-priority patients. Experiments were conducted to assess their impacts on the waiting time of patients and hospital profit. Our results confirmed that our proposed threshold-based reserve policy has superior performance over common scheduling policies by preserving a specific amount of OR time for late-arriving, high priority demand.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/3593</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=4980&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>3593</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>4980</articleid>
+<submission-date>2015-09-15T23:31:34-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>7601719</context-key>
+<submission-path>utk_graddiss/3593</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Charles E. Noon</value>
+</field>
+<field name="advisor2" type="string">
+<value>Melissa Bowers, Bogdan C. Bichescu, Xueping Li</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Management Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Inverse Problems in Image Processing: Blind Image Restoration</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Viswanathan</lname>
+<fname>Ravi</fname>
+</author>
+</authors>
+<disciplines><discipline>Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Blind Image Restoration pertains to the estimation of degradation in an image, without any prior knowledge of the degradation system, and using this estimation to help restore the original image. Original Image, in this case, refers to that version of the image before it experienced degradation. In this thesis, after estimating the degradation system in the form of Gaussian blur and noise, we employ Deconvolution to help restore the original image.&lt;/p&gt;
+&lt;p&gt;In this thesis, we use a Redundant Wavelet based technique to estimate blur in the image using high-frequency information in the image itself. Lipschitz exponent – a measure of local regularity of signals, is computed using the evolution of wavelet coefficients of singularities across scales. It has been shown before that this exponent is related to the blur in the image and we use it in this case to estimate the standard deviation of the Gaussian blur. The properties of wavelets enable us to compute the noise variance in the image. In this thesis, we employ two cases of deconvolution – A strictly Fourier domain Regularized Iterative Wiener filtering approach and A Fourier-Wavelet Cascaded approach with Regularized Iterative Wiener filtering - to compute an estimate of the image to be restored using the blur and noise variance information that was earlier computed.&lt;/p&gt;
+&lt;p&gt;The estimated value of standard deviation of the blur helped obtain robust estimates with deconvolution. It can be observed from the results that Fourier domain Regularized Iterative Wiener filtering provides a more stable output estimate than the Iterative Filtering with Additive Correction methods, especially when the number of iterations employed is more. The Fourier-Wavelet Cascaded deconvolution seems to be image dependent with regards to performance although it outperforms the strictly Fourier domain deconvolution approach in some cases, as can be gauged from the visual quality and Mean Squared Error.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2546</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3805&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2546</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3805</articleid>
+<submission-date>2013-10-18T10:57:20-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4738996</context-key>
+<submission-path>utk_gradthes/2546</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohamed R. Mahfouz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Anthony E. English, Aly Fathy</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Engineering Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Adaptive Nonparametric Modeling Technique for Expanded Condition Monitoring of Processes</title>
+<publication-date>2010-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>mhumbers@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Humberstone</lname>
+<fname>Matthew</fname>
+<mname>John</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Adaptive Modeling</keyword>
+<keyword>Expanded Condition Monitoring</keyword>
+<keyword>Nonparametric Modeling</keyword>
+</keywords>
+<disciplines><discipline>Computer-Aided Engineering and Design</discipline>
+<discipline>Nuclear Engineering</discipline>
+<discipline>Process Control and Systems</discipline>
+<discipline>Signal Processing</discipline>
+</disciplines><abstract>&lt;p&gt;New reactor designs and the license extensions of the current reactors has created new condition monitoring challenges.  A major challenge is the creation of a data-based model for a reactor that has never been built or operated and has no historical data. This is the motivation behind the creation of a hybrid modeling technique based on first principle models that adapts to include operating reactor data as it becomes available.&lt;/p&gt;
+&lt;p&gt;An Adaptive Non-Parametric Model (ANPM) was developed for adaptive monitoring of small to medium size reactors (SMR) but would be applicable to all designs. Ideally, an adaptive model should have the ability to adapt to new operational conditions while maintaining the ability to differentiate faults from nominal conditions. This has been achieved by focusing on two main abilities. The first ability is to adjust the model to adapt from simulated conditions to actual operating conditions, and the second ability is to adapt to expanded operating conditions. In each case the system will not learn new conditions which represent faulted or degraded operations. The ANPM architecture is used to adapt the model&#39;s memory matrix from data from a First Principle Model (FPM) to data from actual system operation. This produces a more accurate model with the capability to adjust to system fluctuations.&lt;/p&gt;
+&lt;p&gt;This newly developed adaptive modeling technique was tested with two pilot applications. The first application was a heat exchanger model that was simulated in both a low and high fidelity method in SIMULINK. The ANPM was applied to the heat exchanger and improved the monitoring performance over a first principle model by increasing the model accuracy from an average MSE of 0.1451 to 0.0028 over the range of operation. The second pilot application was a flow loop built at the University of Tennessee and simulated in SIMULINK.  An improvement in monitoring system performance was observed with the accuracy of the model improving from an average MSE of 0.302 to an MSE of 0.013 over the adaptation range of operation. This research focused on the theory, development, and testing of the ANPM and the corresponding elements in the surveillance system.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/705</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1741&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>705</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1741</articleid>
+<submission-date>2010-04-07T13:37:54-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1265304</context-key>
+<submission-path>utk_graddiss/705</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wes Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Belle R. Upadhyaya, Haitao Liao, Russell L. Zaretzki</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Thermal Evolution of Planetesimals and Protoplanets in the Terrestrial Planet Region: Code Optimization and Implementation on a Distributed Grid using NetSolve</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ghosh</lname>
+<fname>Amitabha</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;A code for asteroidal heat transfer and growth is optimized for performance. The Gauss elimination routine for the solver is replaced by a sparse matrix routine. Finite element matrix assembly operations are rewritten to reduce operations involving 3D arrays to 1D. Advantage is taken of the sparse matrix structure of finite element matrices in reducing 2D arrays to 1D. The number of vector touches are reduced to the extent possible, by carrying over statements from one iteration to the next. The number of do loops are reduced by merging several do loops into one. The optimization reduced the CPU time taken to run the code from 297 sec to 0.88 sec for a matrix size of 100, an improvement of 99.70%. More importantly, the algorithm was reduced from a &lt;em&gt;O&lt;/em&gt;(n&lt;sup&gt;3&lt;/sup&gt;) operation to a &lt;em&gt;O&lt;/em&gt;(n) operation. Thus, the percent time difference between the optimized and unoptimized versions is greater at larger matrix sizes. At matrix sizes of 100, the number of floating point operations were reduced from 2.39 E+09 to 2.99E+07, an improvement of 98.75% and the performance was increased by about 4 times, from 8.06 MFLOPS/s to 33.92 MFLOPS/s. Because of inefficiency in memory allocation, the maximum matrix size for the unoptimized code was limited to 200. This was increased to 5,000,000 for the optimized code. A version of the code was implemented on NetSolve and added to the list of problems on netsolve.cs.utk.edu. Two sample movies were generated using OpenGL to explain the scientific significance of the code. With the implementation of the optimized code, applications to address scientific problems can now be envisioned that were previously thought to be prohibitive in terms of computer time.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1944</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3302&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1944</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3302</articleid>
+<submission-date>2013-09-24T09:43:17-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4618037</context-key>
+<submission-path>utk_gradthes/1944</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Dongarra</value>
+</field>
+<field name="advisor2" type="string">
+<value>Allen J. Baker, Robert Ward</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

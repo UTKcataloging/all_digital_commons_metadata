@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fundamental Limit of Analog Multiplication in Linear Discriminant Classifier</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Hasan</lname>
+<fname>Md</fname>
+<mname>Munir</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;In this thesis analog implementation of a machine learning algorithm, Linear Discriminant Analysis, is analyzed and shown how it performs on a classification problem. Analog machine learning has emerged as a promising field that provides advantages over its digital counterpart in power consumption, circuit area and scalability. Analog computation achieves its efficiency from the physics of device or circuit operation. This allows analog computation to operate on very low signal levels. However, low signal levels make itself vulnerable to noise. Excessive noise levels can render the machine learning system unstable and prone to making wrong decisions. To ensure reasonable accuracy of the system it is essential to understand how noise behaves and propagates along the system.A key component in analog implementation of the Linear Discriminant Analysis is the analog multiplier. A noise analysis is done for the multiplier to show how noise varies with multiplication factor. This also produces a relationship between signal to noise ratio and energy consumption that gives us a limit of accuracy obtained from the multiplier for a given energy consumption. Numerical analysis is provided to show that Linear Discriminant Analysis is well suited for the classification problem. The performance of a hardware implementation of the analog classifier in commercially available 130nm silicon process is also presented. With four feature input currents and three classes to classify the classifier consumes around 4nW of power. The testing process shows that the classifier is able to perform basic classification task in the presence of noise.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4987</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6394&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4987</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6394</articleid>
+<submission-date>2018-11-08T14:23:49-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13276598</context-key>
+<submission-path>utk_gradthes/4987</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jeremy Holleman</value>
+</field>
+<field name="advisor2" type="string">
+<value>Benjamin J. Blalock, Syed K. Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

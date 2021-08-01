@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Surface Modeling and Analysis Using Range Images: Smoothing, Registration, Integration, and Segmentation</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Sun</lname>
+<fname>Yiyong</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This dissertation presents a framework for 3D reconstruction and scene analysis, using a set of range images. The motivation for developing this framework came from the needs to reconstruct the surfaces of small mechanical parts in reverse engineering tasks, build a virtual environment of indoor and outdoor scenes, and understand 3D images.&lt;/p&gt;
+&lt;p&gt;The input of the framework is a set of range images of an object or a scene captured by range scanners. The output is a triangulated surface that can be segmented into meaningful parts. A textured surface can be reconstructed if color images are provided. The framework consists of surface smoothing, registration, integration, and segmentation.&lt;/p&gt;
+&lt;p&gt;Surface smoothing eliminates the noise present in raw measurements from range scanners. This research proposes area-decreasing flow that is theoretically identical to the mean curvature flow. Using area-decreasing flow, there is no need to estimate the curvature value and an optimal step size of the flow can be obtained. Crease edges and sharp corners are preserved by an adaptive scheme.&lt;/p&gt;
+&lt;p&gt;Surface registration aligns measurements from different viewpoints in a common coordinate system. This research proposes a new surface representation scheme named point fingerprint. Surfaces are registered by finding corresponding point pairs in an overlapping region based on fingerprint comparison.&lt;/p&gt;
+&lt;p&gt;Surface integration merges registered surface patches into a whole surface. This research employs an implicit surface-based integration technique. The proposed algorithm can generate watertight models by space carving or filling the holes based on volumetric interpolation. Textures from different views are integrated inside a volumetric grid. Surface segmentation is useful to decompose CAD models in reverse engineering tasks and help object recognition in a 3D scene. This research proposes a watershed-based surface mesh segmentation approach. The new algorithm accurately segments the plateaus by geodesic erosion using fast marching method.&lt;/p&gt;
+&lt;p&gt;The performance of the framework is presented using both synthetic and real world data from different range scanners. The dissertation concludes by summarizing the development of the framework and then suggests future research topics.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2207</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3690&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2207</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3690</articleid>
+<submission-date>2013-10-09T10:19:20-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4688933</context-key>
+<submission-path>utk_graddiss/2207</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Mongi A. Abidi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Michael J. Roberts, Dr. Hairong Qi, Dr. Daniel B. Koch, Dr. Conrad Plaut</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

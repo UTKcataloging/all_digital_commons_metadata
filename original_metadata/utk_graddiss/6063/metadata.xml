@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vibration behavior in modulated tool path (MTP) turning</title>
+<publication-date>2020-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>rcopenh1@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Copenhaver</lname>
+<fname>Ryan</fname>
+<mname>William</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Manufacturing</keyword>
+<keyword>Machining Dynamics</keyword>
+<keyword>Turning</keyword>
+<keyword>Stability</keyword>
+<keyword>Modulated Tool Path</keyword>
+</keywords>
+<disciplines><discipline>Manufacturing</discipline>
+<discipline>Other Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;This project studies the process dynamics and surface finish effects of modulated tool path (MTP) turning. In MTP turning, a small amplitude (typically less than 0.5 mm), low frequency oscillation (typically less than 10 Hz) is superimposed on the feed motion by the machine controller to intentionally segment the traditionally long, continuous chips. The basic science to be examined is the vibration behavior of this special case of interrupted cutting, which is not turning because the chip formation is intentionally discontinuous and is not milling because the time-dependent chip geometry is defined by the oscillatory feed motion, not the trochoidal motion of a rotating and translating milling cutter. The hypothesis that MTP will exhibit forced vibration and secondary Hopf bifurcation (a type of unstable machining conditions) depending on the MTP and machining parameters is tested. A physics-based model of the MTP process is derived and implemented through a second-order, time-delay differential equation math model. This model is used to establish the relationship between: 1) the vibration behavior; and 2) the MTP amplitude and frequency, chip width, spindle speed, nominal feed, and structural dynamics. Experiments are presented to validate the math model accuracy and understand the implications of machining stability and workpiece surface finish.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/6063</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7426&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>6063</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7426</articleid>
+<submission-date>2020-09-30T13:34:37-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/7426/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>19621101</context-key>
+<submission-path>utk_graddiss/6063</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Tony L. Schmitz</value>
+</field>
+<field name="advisor2" type="string">
+<value>Sudarsanam S. Babu, Brett G. Compton, Kevin S. Smith</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>&lt;p&gt;https://orcid.org/0000-0001-7970-4702&lt;/p&gt;</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;This is the finalized draft of my dissertation.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2020-12-01T00:00:00-08:00</value>
+</field>
+<field name="related_item" type="string">
+<value>&lt;p&gt;N/A&lt;/p&gt;</value>
+</field>
+</fields>
+</document>
+</documents>

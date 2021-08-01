@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Numerical Techniques for Classifying Forest Communities in the Tennessee Valley</title>
+<publication-date>1976-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>McCarthy</lname>
+<fname>Dennis</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<disciplines><discipline>Ecology and Evolutionary Biology</discipline>
+</disciplines><abstract>&lt;p&gt;The main objectives of this study were:&lt;/p&gt;
+&lt;p&gt;1. To develop a series of vegetational classification systems based on the floristics of community strata, overstory structural functional features, and environmental parameter of a region typical of the temperate Tennessee Valley;&lt;/p&gt;
+&lt;p&gt;2. To examine the suitability of these classification systems for the complex forests of the Tennessee Valley;&lt;/p&gt;
+&lt;p&gt;3. To develop numerical tools for evaluating classification suitability;&lt;/p&gt;
+&lt;p&gt;4. To use these tools to seek out natural discontinuities in vegetational patterns.&lt;/p&gt;
+&lt;p&gt;To achieve these goals six multivariate cluster analysis programs were examined. Preliminary tests brought out undesirable properties in four of them, however, and these were eliminated from further use. The remaining two programs, MINFO and MDISP, were then employed on a data set from Fentress County, Tennessee; and classification hierarchies were built based on overstory, reproduction, shrubs, overstory plus shrubs, ground cover, all species regardless of stratum, structural - functional characteristics, structural - functional plus quantitative vegetational characteristics, and environmental parameters. Three additional subjective, overstory classification systems were also examined -- a TVA forest-type system, a personally derived system, and a system based on three leading dominant species.&lt;/p&gt;
+&lt;p&gt;Two numerical tools were developed for examining these classification systems. The first tool, the mean indicator score (MIS), is based on the constancy and fidelity of individual species for a particular cluster type. The MIS sums the indicator values (defined in terms of constancy and fidelity) of the species having the strongest affinities for given clusters. The second too, the mean environmental score (MES), sums the response of particular clusters for given environmental parameters. The MIS, then, examines the suitability of a particular classification in terms of floristic affinity, while the MES evaluates in term of environmental response.&lt;/p&gt;
+&lt;p&gt;When 23 Fentress County classifications were compared on the MES scale, a definite trend was evident; but the individual MES&#39;s were statistically not clearly distinguishable. It was concluded, therefore, that the classifications of that particular data set were not readily differentiable in terms of response to the environment. The MIS scale, on the other hand, was much more conclusive, especially when calculations were based on the top 50 indicator species. MINFO classifications of ground cover, overstory, shrubs, and overstory plus shruurbs scored the highest. It was, therefore, concluded that any of these strata could be used to develop suitable vegetation classifications. Structural-functional systems and environmental classifications proved to be particularly unsuitable.&lt;/p&gt;
+&lt;p&gt;All of the classification systems were compared in terms of similarity and were found, in general, to be highly dissimilar. None of the classifications converged on any one interpretation of vegetational patterns.&lt;/p&gt;
+&lt;p&gt;An attempt was made to recognize natural discontinuities in the vegetation by calculating MIS&#39;s at each level of cluster hierarchy. Although the MIS did reach a maximum at an optimal hierarchy level, it was found that the maximum MIS is directly dependent on the weights assigned to fidelity and constancy and is only coincidentally related to the data. Any model that is a function of fidelity and constancy must maximize at a level defined by the constraints of the model rather than by an imposition of the data. If natural discontinuities in the data happen to coincide with maximizing scores for the model, this if fortuitous but is no guarantee that the two will always coincide.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1610</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2999&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1610</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2999</articleid>
+<submission-date>2013-05-15T14:02:47-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4145138</context-key>
+<submission-path>utk_graddiss/1610</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Edward E. C. Clebsch</value>
+</field>
+<field name="advisor2" type="string">
+<value>Frank Woods, H. R. DeSelm, Dewey Bunting, Ray Holton</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Ecology and Evolutionary Biology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1976-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1976-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>GaN-Based High Efficiency Transmitter for Multiple-Receiver Wireless Power Transfer</title>
+<publication-date>2019-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>ljiang7@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Jiang</lname>
+<fname>Ling</fname>
+</author>
+</authors>
+<keywords>
+<keyword>WPT</keyword>
+<keyword>transmitter</keyword>
+<keyword>6.78 MHz</keyword>
+<keyword>single-stage</keyword>
+<keyword>multiple receivers</keyword>
+</keywords>
+<abstract>&lt;p&gt;Wireless power transfer (WPT) has attracted great attention from industry and academia due to high charging flexibility. However, the efficiency of WPT is lower and the cost is higher than the wired power transfer approaches. Efforts including converter optimization, power delivery architecture improvement, and coils have been made to increase system efficiency.In this thesis, new power delivery architectures in the WPT of consumer electronics have been proposed to improve the overall system efficiency and increase the power density.First, a two-stage transmitter architecture is designed for a 100 W WPT system. After comparing with other topologies, the front-end ac-dc power factor correction (PFC) rectifier employs a totem-pole rectifier. A full bridge 6.78 MHz resonant inverter is designed for the subsequent stage. An impedance matching network provides constant transmitter coil current. The experimental results verify the high efficiency, high PF, and low total harmonic distortion (THD).Then, a single-stage transmitter is derived based on the verified two-stage structure. By integration of the PFC rectifier and full bridge inverter, two GaN FETs are saved and high efficiency is maintained. The integrated DCM operated PFC rectifier provides high PF and low THD. By adopting a control scheme, the transmitter coil current and power are regulated. A simple auxiliary circuit is employed to improve the light load efficiency. The experimental results verify the achievement of high efficiency.A closed-loop control scheme is implemented in the single-stage transmitter to supply multiple receivers simultaneously. With a controlled constant transmitter current, the system provides a smooth transition during dynamically load change. ZVS detection circuit is proposed to protect the transmitter from continuous hard switching operation. The control scheme is verified in the experiments.The multiple-reciever WPT system with the single-stage transmitter is investigated. The system operating range is discussed. The method of tracking optimum system efficiency is studied. The system control scheme and control procedure, targeting at providing a wide system operating range, robust operation and capability of tracking the optimized system efficiency, are proposed. Experiment results demonstrate the WPT system operation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5466</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7002&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5466</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7002</articleid>
+<submission-date>2020-02-14T08:42:03-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>16545512</context-key>
+<submission-path>utk_graddiss/5466</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Daniel Costinett</value>
+</field>
+<field name="advisor2" type="string">
+<value>Fred Wang, Leon M. Tolbert, Reid Kress</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in conference papers and journal papers.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-05-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

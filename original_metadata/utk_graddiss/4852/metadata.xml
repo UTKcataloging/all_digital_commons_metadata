@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding Process-Structure Relationship For Site-Specific Microstructure Control in Electron Beam Powder Bed Additive Manufacturing Process Using Numerical Modeling</title>
+<publication-date>2017-12-16T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Raghavan</lname>
+<fname>Narendran</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Numerical Modeling</keyword>
+<keyword>Solidification</keyword>
+<keyword>Additive Manufacturing</keyword>
+<keyword>Microstructure Control</keyword>
+<keyword>Nickel superalloy</keyword>
+<keyword>High Performance Computing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Additive Manufacturing (AM), the fabrication of 3-D parts from CAD models, is a disruptive technology that is transforming the manufacturing industry. In any manufacturing process, understanding the process-structure-property-performance (PSPP) linkage is crucial to predict the lifespan of the manufactured component. In the PSPP linkage, the solidification microstructure (liquid-solid phase transformation) is one of the important factors affecting the mechanical property and performance of the additively manufactured components. During rapid solidification, the solidification microstructure is dictated by the thermal gradient (G) at the liquid-solid interface and velocity (R) of the liquid-solid interface. In this work, the transient heat transfer and fluid flow within the molten pool is numerically analyzed using Truchas, a solidification code developed at Los Alamos National Laboratory. The spatial and temporal variations of temperature gradient (G) and growth velocity (R) at the liquid-solid interface of the melt pool were calculated using the data from numerical modeling.1. The obtained transient knowledge from numerical modeling is used to design new melt scan strategies for an electron beam powder bed AM system (Arcam®) and achieve the following.- Control the grain size of the columnar grains.- Control the grain morphology transition (Columnar to Equiaxed).2. The effect of build geometry on the grain morphology control has been reported. It is found that the scan parameters have to be modified as a function of geometry. The data from in-situ process monitoring (infrared imaging) is also analyzed to distinguish the underlying grain morphology.3. The effect of fluid flow and surface tension as a function of different surfactant concentration is analyzed numerically and compared with pure heat conduction simulations. It is concluded that the necessity of fluid flow in the model depends on the scan strategy in addition to the alloy dependent surface tension.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4852</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6392&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4852</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>6392</articleid>
+<submission-date>2018-11-08T14:09:17-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>13276585</context-key>
+<submission-path>utk_graddiss/4852</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Sudarsanam Suresh Babu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Hahn Choo, Ryan R. Dehoff, William R. Hamel</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-6964-5718</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Energy Science and Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-12-16T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

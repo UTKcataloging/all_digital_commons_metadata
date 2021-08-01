@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Analysis of Simulated Electromyography (EMG) Signals Using Integrated Computer Muscle Model</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Ahad</lname>
+<fname>Mohammad</fname>
+<mname>Abdul</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Electromyography (EMG) is a technique used to study the activity of muscle through detection and analysis of the electrical signals generated during muscular contractions. Electromyographic activity is recorded from skeletal muscles to obtain information about their anatomy and physiology. Electromyography, in interplay with various anatomical techniques, provides the present knowledge of the structural organization and the nervous control of muscle. EMG is the prime source of information about the status of the neuromuscular system, and EMG has developed into a diagnostic tool that allows the clinician to follow changes in nerve and muscle caused by neuromuscular diseases.&lt;/p&gt;
+&lt;p&gt;EMG provides both invasive and noninvasive means for the study of muscular functions [1, 2]. It is also useful in interpreting pathologic states of musculoskeletal or neuromuscular systems [3, 4]. In particular, EMG offers valuable information concerning the timing of muscular activity and its relative intensity [5, 6]. Standard EMG is typically recorded from fine wire or two surface electrodes placed at discrete sites over a muscle or muscle belly. Currently surface grid electrode EMG is widely used.&lt;/p&gt;
+&lt;p&gt;The cell bodies of these neurons reside in the brainstem and spinal cord. The interfacing fiber between motor neuron and muscle is called axon. At the distal end, an axon divides 1 into many terminal branches. Each terminal branch innervates a group of muscle fibers. When a nerve signal approaches the end of an axon, it spreads out over all its terminal branches and stimulates all the muscle fibers supplied by them. So, all the excited muscle fibers contract almost simultaneously. Since they behave as a single functional unit, one nerve fiber and all the muscle fibers innervated by it are called a motor unit (MU) [7, 8]. Generally, the muscle fibers of a motor unit are distributed throughout muscle rather than being clustered together. The fine control of the muscle force is performed through the intricate mechanism and interaction of the brain and muscle. During contraction, these motor units are recruited systematically and the recruited motor units discharge in a train of pulses in a complex manner [9, 10]. The recorded EMG is the temporal summation of all the recruited motor unit action potential trains. Because movement is controlled by motor unit activity, an understanding of motor unit physiology can have a significant impact on the evaluation and treatment of movement disorders.&lt;/p&gt;
+&lt;p&gt;The neuromuscular system is an intricate physiological organization of brain, nerve and muscle. These neural control properties are not well understood mostly because of the experimental difficulties in quantifying the neural input to the muscle. Moreover, the muscle itself is a complex system. It is necessary to address these complexities as accurately as possible. Understanding of these complex systems facilitates the understanding of EMG generation, which is a highly complex signal by itself.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/111</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1157&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>111</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1157</articleid>
+<submission-date>2010-01-26T11:15:18-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1122267</context-key>
+<submission-path>utk_graddiss/111</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Mohammad Ferdjallah</value>
+</field>
+<field name="advisor2" type="string">
+<value>Aly Fathy, Michael J. Roberts, Jack F. Wasserman</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/AhadMohammad.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

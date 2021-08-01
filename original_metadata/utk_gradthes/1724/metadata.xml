@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Toward Molecular Dynamics Simulation of Complex Molecular Systems</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Li</lname>
+<fname>Chao</fname>
+</author>
+</authors>
+<disciplines><discipline>Chemical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Molecular Dynamics (MD) simulation computes atomic trajectories by solving equations of motion numerically using empirical force fields. MD simulation generates information at the microscopic level and uses statistical mechanics to convert this microscopic information to macroscopic observables. Simulation of large molecules, such as chain molecules and biomolecules, however, requires enormous computing work. One way to achieve the simulations is to utilize more powerful computers, such as parallel machines. Another way is to develop efficient algorithms to save the calculations without losing accuracy. This project is to develop a code to perform MD on systems of the mixers, which contain numbers of components of complex molecules with partial charges and allow for the presence of multiple phases.&lt;/p&gt;
+&lt;p&gt;The thesis begins with an introduction of the Ewald Summation method, which deals with electrostatic charges in systems. Parameters that affect the calculation results were discussed. Also simulation cells were extended to arbitrary shapes to give the code a more general applicability.&lt;/p&gt;
+&lt;p&gt;A multiple-Time-Step (MTS) algorithm was introduced to improve the calculation efficiency. The derivations of the two-time-scale and three-time-scale Reference System Propagator Algorithm (RESPA) were presented to obtain reversible and stable MTS algorithms, thereby obtaining a clear blueprint for a variety of ensembles.&lt;/p&gt;
+&lt;p&gt;The Universal Force Field (UFF) was introduced for calculating the energy and geometries of molecules. Parameters for each type of interaction were also discussed in detail.&lt;/p&gt;
+&lt;p&gt;To deal with the presence of multiple phases in our program, methods for studying Vapor-Liquid Equilibrium (VLE) were introduced. Two methods, Temperature Quench Molecular Dynamic (TQMD) and Volume Expansion Molecular Dynamics (VEMD), were discussed and compared.&lt;/p&gt;
+&lt;p&gt;Based on these theories, Ewald Summation code was developed for arbitrary shapes of simulation boxes with charges and time reversible RESPA code was developed for complex molecular systems. The UFF was used to calculate the intramolecular interactions. A Vapor-Liquid Equilibrium code was also developed to check the validity of the simulation.&lt;/p&gt;
+&lt;p&gt;Results from simulations using the Ewald method show that the value of convergence parameter,&lt;em&gt; k&lt;/em&gt;=5/L, depends on the maximum radial dimension for images in k-space, but the small side length requires fewer dimensions for images in k-space and less time to reach equilibrium. Different cases have different optimized values. To obtain the optimized values, numerator of the expression was also adjusted from 2 to 8. Results show that the optimized value is 5 across all cases. Two-time-scale MTS simulation results show that CPU time dramatically decreased as the time-scale ratio increased. The suitable ratio is between 5 and 10.&lt;/p&gt;
+&lt;p&gt;As a case study, simulation results were applied to the VLE program to calculate the critical properties for an ethanol system. Simulation results were compared with the experimental data by plotting reduced properties on the same graph. They fit well: the crossing point is at, &lt;em&gt;T&lt;/em&gt;,=0.88, which falls into the range of 0.8 &lt;  &lt;em&gt;T &lt;/em&gt;&lt; 1.0 from the reference. The codes we developed are valid for the objective system.&lt;/p&gt;
+&lt;p&gt;One of the features of this case study is the demonstration of the problems associated with the modern algorithms used for VLE property generation.  Specifically, the method does not provide quantitative values near the critical point.  Also, the division of the spatial dimension of the simulation box into discretized bins is driven by a balance between small bins (required for fine spatial resolution) and large bins (required for good statistics).  We find that there is no satisfactory balance between these two competing effects for simulations with a few thousand molecules.  This result provides a strong motivation for the development of a new bin-free technique for VLE simulation&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1724</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3074&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1724</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3074</articleid>
+<submission-date>2013-08-20T11:25:00-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4469643</context-key>
+<submission-path>utk_gradthes/1724</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>David J. Keffer, William V. Steele</value>
+</field>
+<field name="advisor2" type="string">
+<value>Brian J. Edwards</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Chemical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

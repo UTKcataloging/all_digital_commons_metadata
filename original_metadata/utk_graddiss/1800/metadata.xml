@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling and Optimization of Resource Allocation in Supply Chain Management Problems</title>
+<publication-date>2013-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>qyuan3@utk.edu</email>
+<lname>Yuan</lname>
+<fname>Qi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Supply Chain Modelling</keyword>
+<keyword>Network Optimization</keyword>
+<keyword>Resource Allocation</keyword>
+<keyword>Operations Research</keyword>
+</keywords>
+<disciplines><discipline>Industrial Engineering</discipline>
+<discipline>Operational Research</discipline>
+<discipline>Operations Research, Systems Engineering and Industrial Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Resource allocation in supply chain management studies how to allocate the limited available resources economically/optimally to satisfy the demands. It is an important research area in operations research. This dissertation focuses on the modeling and optimization of three problems.&lt;/p&gt;
+&lt;p&gt;The first part of the dissertation investigates an important and unique problem in a supply chain distribution network, namely minimum cost network flow with variable lower bounds (MCNF-VLB). This type of network can be used to optimize the utilization of distribution channels (i.e., resources) in a large supply network, in order to minimize the total cost while satisfying flow conservation, lower and upper bounds, and demand/supply constraints. The second part of the dissertation introduces a novel method adopted from multi-product inventory control to optimally allocate the cache space and the frequency (i.e., resources) for multi-stream data prefetching in computer science. The objective is to minimize the cache miss level (backorder level), while satisfying the cache space (inventory space) and the total prefetching frequency (total order frequency) constraints. Also, efforts have also been made to extend the model for a multi-level, multi-stream prefetching system. The third part of the dissertation studies the joint capacity (i.e., resources) and demand allocation problem in a service delivery network. The objective is to minimize the total cost while satisfying a required service reliability, which measures the probability of satisfying customer demand within a delivery time interval.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1800</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2704&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1800</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2704</articleid>
+<submission-date>2012-09-10T01:31:12-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3305703</context-key>
+<submission-path>utk_graddiss/1800</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Xiaoyan Zhu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Xueping Li, Joseph Wilck, Frank M. Guess</value>
+</field>
+<field name="comments" type="string">
+<value>&lt;p&gt;This dissertation addresses three applications of resource allocation in supply chain management area.&lt;/p&gt;</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Industrial Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

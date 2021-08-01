@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analog Multiphase Self-Calibrating DLL to Minimize the Effects of Process, Supply Voltage, and Temperature Variations</title>
+<publication-date>2008-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Vandersand</lname>
+<fname>James</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Delay locked loops have been found to be useful tools in such applications as computing, TDCs, and communications. These system can be found in space exploration vehicles and satellites, which operate in extreme environments. Unfortunately, in these environments supply voltage and temperature will not be constant, therefore they must be under consid- eration when designing a DLL. Furthermore, solar radiation in conjunction with the varying environmental aspects, could cause the delay locked loop to lose it locked state.&lt;/p&gt;
+&lt;p&gt;Delay locked loops are inherently good at tracking these environmental aspects, but in order to do so, the voltage controlled delay line must exhibit a very large gain, which translates to a large capture range. Assuming charged particles hit a key node in the DLL (e.g. the control voltage), the DLL would lose lock and would have to recapture it. Depending on the severity of the  uctuation, this relocking process could easily take on the order of many microseconds assuming the bandwidth was kept low to minimize jitter. To date, no delay locked loops have been published for extreme environment applications.&lt;/p&gt;
+&lt;p&gt;In many other extreme environment circuits, calibration techniques have been applied to minimize the environmental eects. Whereas there have been multiple calibration methods published related to delay locked loops, none of them were intended for extreme environ- ments. Furthermore, none of these methods are directly suitable for an analog multiphase delay locked loop.&lt;/p&gt;
+&lt;p&gt;The self-calibrating DLL in this work includes an all digital calibration circuit, as well as a system transient monitor. The coarse calibration helps minimize global process, voltage, and temperature errors for an analog multiphase DLL. The system monitor is used to detect any transients that might cause the DLL to unlock, which could be used to allow the DLL to be recalibrated to the new environmental conditions. The presented measurement results will demonstrate that the DLL can be used in extreme environments such as space, or other extreme environment applications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/351</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1410&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>351</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1410</articleid>
+<submission-date>2010-02-15T11:18:33-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1145863</context-key>
+<submission-path>utk_graddiss/351</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Benjamin J. Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>M. Nance Ericson, Charles L. Britton, Ethan Farquhar, Syed K. Islam, Vasilios Alexiades</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-05-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/VandersandJames.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

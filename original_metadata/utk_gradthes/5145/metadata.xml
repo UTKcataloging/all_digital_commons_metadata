@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dynamic Equivalent Modeling and Stability Analysis of Electric Power Systems</title>
+<publication-date>2018-08-11T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>xzhan103@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Zhang</lname>
+<fname>Xuemeng</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Interconnected power systems are increasing in both size and complexity. For such large-scale power systems, very accurate full-order dynamic system models are computational intensive to perform dynamic studies. In this paper, a measurement-based dynamic equivalent method is proposed to derive reduced models of large power systems. Specifically, a set of measurements at the boundary nodes between the study area and the external area are employed in model parameter identification. The proposed method is validated using simulation results obtained from both 140-bus NPCC system and 9,000-machine 70,000-bus U.S. Eastern Interconnection (EI) system. The results demonstrate that the measurement-based equivalent technique can capture the external system behaviors precisely. Compared with traditional generator equivalencing method, the proposed measurement-based model has higher accuracy but lower order and improved computational efficiency.The intermittence and fluctuation of renewable generations bring unprecedentedly challenges to the power system reliability and resilience. To keep the lights on after contingencies such as the loss of two largest generation units, it is imperative for a power system to have sufficient frequency response reserve (FRR) to ensure that the decay in system frequency would be arrested before triggering under frequency load shedding (UFLS) schemes. In this paper, a method to derive the EI minimum FRR requirement in real-time will be developed. This minimum FRR will help the EI operators decrease the current FRR requirement and accommodate more renewable generations while achieving a saving of both energy and facility costs. Most importantly, the ability to adaptively vary the FRR will provide the additional agility, resiliency, and reliability to the grid.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5145</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6552&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5145</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6552</articleid>
+<submission-date>2018-12-03T13:29:42-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>13415084</context-key>
+<submission-path>utk_gradthes/5145</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Qing Charles Cao, Fangxing Li, Husheng Li</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published in conference paper
+X. Zhang et al., &quot;Measurement-based power system dynamic model reductions,&quot; 2017 North American Power Symposium (NAPS), Morgantown, WV, 2017, pp. 1-6.
+X. Zhang, et al., &quot;U.S. Eastern Interconnection (EI) Model Reductions Using A Measurement-based Approach,&quot; in 2018 IEEE/PES Transmission and Distribution Conference and Exposition (T&amp;D).</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2018-08-11T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

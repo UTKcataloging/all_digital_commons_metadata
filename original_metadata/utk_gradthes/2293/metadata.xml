@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>“Modeling Study of Individual and Group Behavior of Brazilian Free-Tailed Bats (Tadarida brasiliensis) and Dynamic Bat Counting Using Real-Time Infrared Thermal Video</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Raghavan</lname>
+<fname>Aruna</fname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Brazilian free-tailed bats live as colonies in caves, under bridges and in places where human exploitation is perceived to be minimal. These bats emerge out of their habitats to forage in the fields nearby and help in natural pest control. These bats consume thousands of tons of insects every day in quantities that can amount to 2/3 of the body weight of each bat. The life of these natural pest destroyers are under threat due to human ignorance, exploitation and unknown myths.&lt;/p&gt;
+&lt;p&gt;For economic reasons, it becomes necessary to study the behavior and movement of these bats and to count the number of bats to get an approximate estimate of the numbers of pests killed by them during foraging and the subsequent effects. Due to inhumane conditions in the caves and the distances traveled by the bats, the study of the movement of bats becomes a difficult task. Counting the number of bats by entering inside the caves is almost impossible. So the idea of mathematical modeling has been adopted. The mathematical modeling of the bat movement pattern can be visualized using a simulator designed for this purpose. Advanced image processing techniques have been used to analyze the infra-red thermal videos taken from the bat cave and obtain an approximate value for the number of bats emerging out of the caves. The bat counting algorithm was validated by testing it on the videos taken from the simulator and then applied on the real time infrared thermal video taken near the opening of the cave. The simulator serves both as visualization for the mathematical modeling and also as synthetic dataset for the image processing algorithm. An error of about 10% is added to the results obtained from the image processing algorithm to take into account the undercounting and over counting errors.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2293</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3765&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2293</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3765</articleid>
+<submission-date>2013-10-17T12:30:27-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4733831</context-key>
+<submission-path>utk_gradthes/2293</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Hairong Qi</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

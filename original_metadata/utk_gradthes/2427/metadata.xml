@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Interoperable Executive Library for Loosely Coupled Physics Systems</title>
+<publication-date>2013-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>akail@utk.edu</email>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Kail</lname>
+<fname>Andrew</fname>
+<mname>Austin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>biomechanical Navier-Stokes heat transfer scheduler executive library multiphysics</keyword>
+</keywords>
+<disciplines><discipline>Other Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The complexity of simulating any system-wide process involving biomedical processes or thermal-fluid systems goes beyond the reach of a single computer code. In this document I present an Interoperable Executive Library (IEL) that has been designed to run, in parallel, a collection of multi-component physics simulations. The IEL is a light-weight integrator responsible for managing the distribution of data and memory, coordinating communication among parallel processes, and direct execution of a set of loosely coupled numerical and physics tasks HPC resources&lt;/p&gt;
+&lt;p&gt;Presented are two case studies utilizing the IEL. The first case simulates conjugate heat transfer coupled with a potential flow solver for convective properties and a radiosity module for radiation exchange. Radiation analysis is offloaded to GPGPU&#39;s and includes source terms for time variant solar flux. This simulation illustrates the ability of the IEL to schedule multiple solvers and the subsequent data transfer required.&lt;/p&gt;
+&lt;p&gt;The second test case involves the electro-mechanical simulation of the heart with an associated fluid flow handled by an Incompressible Navier-Stokes solver. In this example I demonstrate the capability of the library to efficiently integrate third-party software and handle more advanced scheduling techniques. The results of the simulations obtained from running on Kraken (CRAY XT5 at NICS), Keeneland (HP SL250G8 at Georgia Tech and NICS) and STAR (Dell T7500 at UT) will be examined and shown.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/2427</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2879&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>2427</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>2879</articleid>
+<submission-date>2013-06-21T09:21:42-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4249922</context-key>
+<submission-path>utk_gradthes/2427</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Kwai L. Wong</value>
+</field>
+<field name="advisor2" type="string">
+<value>A. J. Baker, Xiaopeng Zhao</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aerospace Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-01-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

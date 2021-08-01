@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Intrinsically Evolvable Artificial Neural Networks</title>
+<publication-date>2007-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Merchant</lname>
+<fname>Saumil</fname>
+<mname>Girish</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;Dedicated hardware implementations of neural networks promise to provide faster, lower power operation when compared to software implementations executing on processors. Unfortunately, most custom hardware implementations do not support intrinsic training of these networks on-chip. The training is typically done using offline software simulations and the obtained network is synthesized and targeted to the hardware offline. The FPGA design presented here facilitates on-chip intrinsic training of artificial neural networks. Block-based neural networks (BbNN), the type of artificial neural networks implemented here, are grid-based networks neuron blocks. These networks are trained using genetic algorithms to simultaneously optimize the network structure and the internal synaptic parameters. The design supports online structure and parameter updates, and is an intrinsically evolvable BbNN platform supporting functional-level hardware evolution. Functional-level evolvable hardware (EHW) uses evolutionary algorithms to evolve interconnections and internal parameters of functional modules in reconfigurable computing systems such as FPGAs. Functional modules can be any hardware modules such as multipliers, adders, and trigonometric functions. In the implementation presented, the functional module is a neuron block. The designed platform is suitable for applications in dynamic environments, and can be adapted and retrained online. The online training capability has been demonstrated using a case study. A performance characterization model for RC implementations of BbNNs has also been presented.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/244</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1295&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>244</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1295</articleid>
+<submission-date>2010-02-04T07:58:34-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1131923</context-key>
+<submission-path>utk_graddiss/244</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Gregory D. Peterson</value>
+</field>
+<field name="advisor2" type="string">
+<value>Donald W. Bouldin, Itamar Elhanany, Ethan Farquhar, J. Wesley Hines</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2007/MerchantSaumil.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

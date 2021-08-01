@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonlinear Vibration Control and Limit-Cycle Analysis of Rotor/Autobalancer Systems Equipped with Hydrodynamic and Active Magnetic Bearing Supports</title>
+<publication-date>2012-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>djung2@utk.edu</email>
+<lname>JUNG</lname>
+<fname>DAEYI</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Nonlinear Autobalancer Device</keyword>
+<keyword>Imbalance vibration</keyword>
+<keyword>Hybrid adaptive control</keyword>
+</keywords>
+<disciplines><discipline>Acoustics, Dynamics, and Controls</discipline>
+</disciplines><abstract>&lt;p&gt;In recent years, there has been much interest in the use of automatic balancing devices (ABDs) in rotating machinery. Autobalancers consists of several freely moving eccentric balancing masses mounted on the rotor, which, at certain operating speeds, act to cancel rotor imbalance. This “automatic balancing” phenomena occurs as a result of nonlinear dynamic interactions between the balancer and rotor wherein the balancer masses naturally synchronize with the rotor with appropriate phase to cancel the imbalance. However, due to inherent nonlinearity of the autobalancer, the potential for other undesirable non-synchronous limit-cycle behavior exists. In such situations, the balancer masses do not reach their desired synchronous balanced positions resulting in increased rotor vibration. By recognizing this issues, this research explores this non-synchronous behavior for rotor-shaft system in the augmented with auto-balancer device(ABD) supported by various types of bearing and suggests methods to prevent this undesirable condition by searching for either desirable operating condition to avoid it or suppress it using active actuation. Specifically, an approximated harmonic solution for the limit-cycle is obtained and the limit-cycle stability is assessed via a perturbation and Floquet analysis and the coexistence of the stable balanced synchronous condition and undesired non-synchronous limit-cycle are studied. It is found that for certain combinations of bearing parameters and operating speeds, the non-synchronous limit-cycle can be made unstable thus guaranteeing global asymptotic stability of the synchronous balanced condition and the inherent nonlinear characteristic of the driving frequency induced by ball mass running on ABD track under limit cycle condition is revealed here. Finally, the analysis is validated through numerical time and frequency domain simulation. The findings in this study yield important insights for researchers wishing to utilize automatic balancing devices in shaft/eccentric rotor system with various types of bearing. Additionally, a new adaptive active control algorithm for the rotor/bearing/ABD system supported by active magnetic bearing(AMB) is derived based on the Lyapunov approach which guarantees global asymptotic stability of the synchronous balanced condition. This approach enables the controller to cope with both the system nonlinearity introduced by the passive ABD and with the rotor imbalance uncertainty. Here, the controllability of system is established through an accessible distribution Lie bracket operational analysis. The simulation results demonstrate the advantages of the hybrid ABD/AMB. In particular, it is shown that the balanced equilibrium can be made globally attractive under the action of the adaptive bearing control law, and that the steady-state power levels are significantly reduced via the addition of the ABD. These findings are relevant to limited power applications such as in satellite reaction wheels or flywheel energy storage batteries.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1432</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2614&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1432</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2614</articleid>
+<submission-date>2012-06-21T23:39:25-07:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2614/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>3017478</context-key>
+<submission-path>utk_graddiss/1432</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Dr. Hans A DeSmidt</value>
+</field>
+<field name="advisor2" type="string">
+<value>Dr. Ekici Kivanc, Dr. Seddik M, Djouadi and Dr. Zhao, Xiaopeng</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>RAPS: A Resource Allocation Production Scheduling Algorithm for Hot Food Production Systems</title>
+<publication-date>1976-03-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Goodwin</lname>
+<fname>William</fname>
+<mname>Legree</mname>
+</author>
+</authors>
+<disciplines><discipline>Food Science</discipline>
+</disciplines><abstract>&lt;p&gt;A procedural model for the scheduling of labor and equipment in a hypothetical food production system that operated under traditional constraints was developed, tested and analyzed. The developed model, the RAPS (Resource Allocation Production Scheduling) Algorithm, was applied to a five-day menu of hot foods with a forecasted demand per meal of 500.&lt;/p&gt;
+&lt;p&gt;Based on forecasted demand and the nature of preparation of the menu item, specific production quantities were established to simulate the demands of the meal serving period. Using industrial engineering techniques of activity analysis and time estimation in conjunction with a network-based project management system, the 90 sub-projects of the five-day menu were initially analyzed for 1215 activities, then consolidated into 979 activities.&lt;/p&gt;
+&lt;p&gt;Scheduling of the 979 activities was performed on a worksheet which showed resource availabilities for the 14-hour daily operational period in 10-minute intervals. Generated schedules were in the form of color-coded bar charts. The optimum schedule was obtained by scheduling predecessor and successor activities to a fixed interval according to Late Start (LS) and Early Complete (EC) times, respectively. The optimum schedule, although operationally unrealistic, was used as a guide in developing a series of logical, systematic steps that would smooth the most common exaggerated and erratic demand problems while adhering to resource limitation and simultaniety of production constraints--two of the most significant considerations in the development of a scheduling methodology for hot food production.&lt;/p&gt;
+&lt;p&gt;Comparative resource data were generated showing the optimum and adjusted schedule requirements. Graphic presentation of personnel resource profiles demonstrated the peaks and valleys of demand associated with the use of fixed meal periods. Equipment resource data were presented in the form of daily utilization rates for each piece of equipment. Such data could be used by the manager in considering and/or selecting other alternatives to satisfy existing resource limitation criteria or to impose additional resource limitations.&lt;/p&gt;
+&lt;p&gt;The RAPS Algorithm was determined, through executive analysis, to be a systematic and feasible means of collecting resource allocation/ utilization data with specific application in the areas of menu planning and analysis, facility design, and personnel development, both formally and informally.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/3732</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5289&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>3732</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>5289</articleid>
+<submission-date>2016-08-01T12:37:13-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>8908338</context-key>
+<submission-path>utk_gradthes/3732</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Betty L. Beach</value>
+</field>
+<field name="advisor2" type="string">
+<value>Mary Jo Hitchcock, John R. Buchan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Food Science and Technology</value>
+</field>
+<field name="embargo_date" type="date">
+<value>1976-03-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1976-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

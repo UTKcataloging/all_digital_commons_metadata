@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Wide-Area Measurement Application and Power System Dynamics</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lchen20@utk.edu</email>
+<lname>Chen</lname>
+<fname>Lang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>FNET</keyword>
+<keyword>OTEC Integration</keyword>
+<keyword>Model Validation</keyword>
+<keyword>Societal Event Impact</keyword>
+<keyword>Event Visualization</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;Frequency monitoring network (FNET) is a GPS-synchronized distribution-level phasor measurement system. It is a powerful synchronized monitoring network for large-area power systems that provides significant information and data for power system situational awareness, real time and post-event analysis, and other important aspects of bulk systems. This work explored FNET measurements and utilized them for different applications and power system analysis.&lt;/p&gt;
+&lt;p&gt;An island system was built and validated with FNET measurements to study the stability of the OTEC integration. FNET measurements were also used to validate a large system model like the U.S. Eastern Interconnection. It tries to match the simulation result and frequency measurement of a real event by adjusting the simulation model. The system model is tuned with the combination of different impact factors for different confirmed actual events, and some general rules and specific tuning quantities were concluded from the model validation process.&lt;/p&gt;
+&lt;p&gt;This work also investigated the behavior of the power system frequency during large-scale, synchronous societal events, like the World Cup, Super Bowl and Royal Wedding. It is apparent that large groups of people engaging in the same event at roughly the same time can have significant impacts on the power grid frequency. The systematic analysis of the accumulating and statistical FNET frequency data presents an incisive point of view on the power grid frequency behavior during such events.&lt;/p&gt;
+&lt;p&gt;To better understanding of system events recorded by FNET, a visualization tool was developed to visualize major events that occurred in the North American power grid. The measurement plot combined with the geographical contour map provides intuitive visualization of the event.&lt;/p&gt;
+&lt;p&gt;Finally, the EI system was simplified and clustered into four groups based on FNET measurements and simulation results of generator trip cases. The generation and load capacity of each cluster was calculated based on the clustering result and simulation model, and a flow diagram of this simplified EI system was demonstrated with clusters and power flow between them.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1174</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2391&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1174</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2391</articleid>
+<submission-date>2011-11-16T07:08:12-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2352232</context-key>
+<submission-path>utk_graddiss/1174</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Yilu Liu</value>
+</field>
+<field name="advisor2" type="string">
+<value>Kevin Tomsovic, Fangxing(Fran) Li, Joshua S. Fu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

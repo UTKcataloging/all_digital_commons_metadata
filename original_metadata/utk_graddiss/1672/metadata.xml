@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Development of a Potentially Accurate and Efficient LES CFD Algorithm to Predict Heat and Mass Transport in Inhabited Spaces</title>
+<publication-date>2006-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Grubert</lname>
+<fname>Marcel</fname>
+<mname>Andre</mname>
+</author>
+</authors>
+<disciplines><discipline>Mechanical Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;During the last decades many advances have been made in the prediction of turbulent flow behavior, due largely to new achievements in the field of computational fluid dynamics (CFD). For many years the Reynolds-averaged Navier-Stokes (RaNS) approach, which employs time-averaging, has been the work-horse of the industry in predicting turbulent flow in real-world applications. Although the accuracy of those turbulent flows and the details in flow structure are mostly limited due to its empirical modeling approach, the RaNS based algorithms are able to achieve solutions in relative short amounts of computational time using relatively coarse meshes.&lt;/p&gt;
+&lt;p&gt;But with increased computational capacities, utilizing faster chips and more memory, a different group of theories are getting more attention, one of which is Large-Eddy- Simulation (LES) theory. Able to deliver increased detail in turbulent flow structures and better accuracy due to the fact that a significant range of flow structures are predicted resolvable while only the unresolved, small scale structures are modeled, they are still restricted in use. This comes from the need to resolve the flow details in wall-bounded domains, which unfortunately makes up most of the real-world applications. This need leads to a very fine mesh requirement in the wall region, rivaling direct numerical simulation (DNS) approaches. Since the mesh requirement for LES resolution is a function of Reynolds (Re) and Rayleigh (Ra) numbers, computations are in general limited to relatively modest values of Re and Ra.&lt;/p&gt;
+&lt;p&gt;This dissertation examines several possible improvements to the class of LES formulations. It develops the basic formulation for the unsteady 3-dimensional, incompressible thermal Navier-Stokes equation system, focused on prediction of mixed convection flows in ventilated domains characterized by human habitation. This is accomplished by extending the rational LES theory, developed by Volker John, to the heat and/or mass transport problem class, with focus on boundary conditions suitable for bounded domain implementations. A new sub-grid scale (SGS) model based on the Taylor Weak Statement beta term is introduced, which models the dissipation of mechanical energy by the smallest eddies via artificial (numerical) diffusion. This model is compared to established SGS models, including that due to Smagornisky and several formulations developed by Layton and Illiescu. Numerical results for a range of benchmark and validation problems are generated to access accuracy and utility of the new LES formulation.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1672</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3198&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1672</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3198</articleid>
+<submission-date>2013-08-07T12:40:19-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4402899</context-key>
+<submission-path>utk_graddiss/1672</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>A. J. Baker</value>
+</field>
+<field name="advisor2" type="string">
+<value>Suzanne Lenhart, Arthur Ruggles, Mohamed Mahfouz</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mechanical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

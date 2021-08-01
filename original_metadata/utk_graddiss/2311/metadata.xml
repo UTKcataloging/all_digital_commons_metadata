@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Temporal GIS Design of an Extended Time-geographic Framework for Physical and Virtual Activities</title>
+<publication-date>2005-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Yu</lname>
+<fname>Hongbo</fname>
+</author>
+</authors>
+<disciplines><discipline>Geography</discipline>
+</disciplines><abstract>&lt;p&gt;Recent rapid developments of information and communication technologies (ICT) enable a virtual space, which allows people to conduct activities remotely through tele-presence rather than through conventional physical presence in physical space. ICT offer people additional freedom in space and time to carry out their activities; this freedom leads to changes in the spatio-temporal distributions of activities. Given that activities are the reasons for travel, these changes will impact transportation systems. Therefore, a better understanding of the spatial and temporal characteristics of human activities in today’s society will help researchers study the impact of ICT on transportation. Using an integrated space-time system, Hägerstrand’s time geography provides an effective framework for studying the relationships of various constraints and human activities in physical space, but it does not support activities in virtual space. The present study provides a conceptual model to describe the relationships of physical space and virtual space, extending Hägerstrand’s time geography to handle both physical and virtual activities. This extended framework is used to support investigations of spatial and temporal characteristics of human activities and their interactions in physical and virtual spaces. Using a 3D environment (i.e., 2D space + 1D time), a temporal GIS design is developed to accommodate the extended time-geographic framework. This GIS design supports representations of time-geographic objects (e.g., space-time paths, networkbased space-time prisms, and space-time life paths) and a selected set of analysis functions applied to these objects (e.g., temporal dynamic segmentation and spatiotemporal intersection). A prototype system, with customized functions developed in Visual Basic for Applications (VBA) programs with ArcObjects, is implemented in ArcGIS according to the design. Using a hypothetical activity dataset, the system demonstrates the feasibility of the extended framework and the temporal GIS design to explore physical and virtual activities. This system offers useful tools with which to tackle various real problems related to physical and virtual activities.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/2311</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3883&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>2311</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>3883</articleid>
+<submission-date>2013-10-18T13:16:55-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>4740021</context-key>
+<submission-path>utk_graddiss/2311</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Shih-Lung Shaw</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bruce A. Ralston, Thomas L. Bell, Lee D. Han, Cheng Liu</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Geography</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-08-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

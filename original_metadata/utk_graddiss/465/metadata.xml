@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Scalable, Data- intensive Network Computation</title>
+<publication-date>2008-08-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Liu</lname>
+<fname>Huadong</fname>
+</author>
+</authors>
+<disciplines><discipline>Computer Sciences</discipline>
+</disciplines><abstract>&lt;p&gt;To enable groups of collaborating researchers at different locations to effectively share large datasets and investigate their spontaneous hypotheses on the fly, we are interested in de- veloping a distributed system that can be easily leveraged by a variety of data intensive applications. The system is composed of (i) a number of best effort logistical depots to en- able large-scale data sharing and in-network data processing, (ii) a set of end-to-end tools to effectively aggregate, manage and schedule a large number of network computations with attendant data movements, and (iii) a Distributed Hash Table (DHT) on top of the generic depot services for scalable data management.&lt;/p&gt;
+&lt;p&gt;The logistical depot is extended by following the end-to-end principles and is modeled with a closed queuing network model. Its performance characteristics are studied by solving the steady state distributions of the model using local balance equations. The modeling results confirm that the wide area network is the performance bottleneck and running concurrent jobs can increase resource utilization and system throughput.&lt;/p&gt;
+&lt;p&gt;As a novel contribution, techniques to effectively support resource demanding data- intensive applications using the ¯ne-grained depot services are developed. These techniques include instruction level scheduling of operations, dynamic co-scheduling of computation and replication, and adaptive workload control. Experiments in volume visualization have proved the effectiveness of these techniques. Due to the unique characteristic of data- intensive applications and our co-scheduling algorithm, a DHT is implemented on top of the basic storage and computation services. It demonstrates the potential of the Logistical Networking infrastructure to serve as a service creation platform.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/465</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1528&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>465</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>1528</articleid>
+<submission-date>2010-02-18T13:17:00-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>1154364</context-key>
+<submission-path>utk_graddiss/465</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Micah Beck</value>
+</field>
+<field name="advisor2" type="string">
+<value>Jian Huang, Gregory Peterson, James Plank</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2008-08-01T00:00:00-07:00</value>
+</field>
+<field name="source_fulltext_url" type="string">
+<value>http://etd.utk.edu/2008/August2008Dissertations/LiuHuadong.pdf</value>
+</field>
+</fields>
+</document>
+</documents>

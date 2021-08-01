@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Simulation Model for the Four-Phase Switched-Reluctance Motor</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Cox</lname>
+<fname>James</fname>
+<mname>T</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The switched reluctance motor has become the topic of much discussion and research in the past few years.  While it is one of the oldest motor types in existence, it has not made a big impact in industry, but because of its rugged and robust design, it has recently been viewed as a good candidate to replace other motor types as a workhorse for numerous applications.  Notably among them are the traction applications such as vehicle drive.  It is economical to manufacture and it is very rugged because of its simple construction.  It is robust in that it is fault tolerant.  A failure of one phase does not disable the motor completely.  Unfortunately, it also has some drawbacks.  Its design inherently produces torque ripple, an undesirable quality for vehicle applications, especially at low speed.  This creates the need for more sophisticated means of controlling the motor.&lt;/p&gt;
+&lt;p&gt;This thesis describes a computer model by which the motor could be simulated and studied.  The model is for a four phase switched reluctance motor and is written in MATLAB.  It is hoped that this model could be used to research various control schemes, one or more of which could be used to make the switched reluctance motor a viable means of powering an electric vehicle.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1928</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3286&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1928</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3286</articleid>
+<submission-date>2013-09-23T12:34:01-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4615118</context-key>
+<submission-path>utk_gradthes/1928</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jack Lawler</value>
+</field>
+<field name="advisor2" type="string">
+<value>Paul B. Crilly, Syed Islam</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

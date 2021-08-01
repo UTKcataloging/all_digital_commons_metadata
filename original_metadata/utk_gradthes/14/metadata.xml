@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigation of Various Shaping Methods for the Development of a Fully-Monolithic CMOS Constant-Fraction Discriminator</title>
+<publication-date>1996-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Jackson</lname>
+<fname>Robert</fname>
+<mname>Gentry</mname>
+</author>
+</authors>
+<disciplines><discipline>Electrical and Electronics</discipline>
+</disciplines><abstract>&lt;p&gt;In this work the design of a constant-fraction discriminator (CFD) fabricated in the Orbit Semiconductor l.2-Jl n-well CMOS process is presented. This timing pick-off circuit is designed for use in the readout electronics of the Lead-Scintillator subsystem of the Pioneering High Eenergy Nuclear Ion eXperiment (PHENIX) Electromagnetic Calorimeter at the Relativistic Heavy Ion Collider (RHIC). The design was driven by stringent requirements including low power consumption, small area, arrayable, low cost and a fully integratable shaping network. Various integratable CFD shaping methods are investigated, and the candidate methods chosen for fabrication were the distributed R-C delay-line shaping, lumped-element R-C shaping and Nowlin method shaping. An additional channel of ideal delay-line shaping, utilizing coaxial cable to generate delay, was fabricated and used for a reference in comparing methods. These shaping methods are compared on the basis of die area, time walk performance and timing jitter performance as implemented using the CMOS CFD presented.&lt;/p&gt;
+&lt;p&gt;Each shaping method investigated required no power from the dc supply. Die area for the distributed R-C delay-line, lumped-element R-C, Nowlin method and ideal delay-line (fraction circuit only) were 172 Jl X 70 Jl, 160 Jl X 65 Jl, 179 Jl X 53 Jl and 67 Jl X65Jl,respectively. Timewalkovera100:1dynamicrange(-2Vpeakto-20mVpeak) for these shaping methods in turn was found to be ± 175 ps, ± 150ps , ± 150 ps and ± 185 ps, respectively. Timing jitter performance with a minimum input signal (-20 mVpeak) in rms units for the four methods in turn were 65 ps, 85 ps, 100 ps and 65 ps. The average power dissipated per CFD channel was found to be approximately 12 mW.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/14</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=1023&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>1023</articleid>
+<submission-date>2009-12-09T11:45:09-08:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>1083577</context-key>
+<submission-path>utk_gradthes/14</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>T. Vaughn Blalock</value>
+</field>
+<field name="advisor2" type="string">
+<value>Robert E. Bodenheimer, James M. Rochelle</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1996-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>State-Space Modeling of the Rigid-Body Dynamics of a Navion Airplane From Flight Data, Using Frequency-Domain Identification Techniques.</title>
+<publication-date>2003-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee - Knoxville</institution>
+<lname>Catterall</lname>
+<fname>Robert</fname>
+<mname>Charles</mname>
+</author>
+</authors>
+<disciplines><discipline>Aerospace Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;State-space models of the open-loop dynamics for the cruise flight condition (V = 90 KCAS) of a modified Navion were extracted from flight data using a frequency-domain identification method. The identified longitudinal and lateral/directional models closely match the aircraft’s dynamic response, in both magnitude and phase, for dissimilar flight data. The identified lateral/directional dimensional stability and control derivatives, the model parameters, compare well to values obtained from previous wind tunnel testing. The identified longitudinal derivatives, however, differ from the wind tunnel results, in some cases significantly. The results for the longitudinal derivatives are attributed to insufficient excitation of the aircraft, particularly at the low frequency end (from about 0.2 Hz to 0.6 Hz), and to differences in the test conditions (most notability, the flight data was for the gear down configuration, not gear up as in the wind tunnel study). Further investigation, including additional flight data (preferably from a Navion without fixed gear), is needed to fully resolve these issues, and necessarily identify the longitudinal derivatives.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/1912</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3269&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>1912</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>3269</articleid>
+<submission-date>2013-09-20T12:59:55-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>4610093</context-key>
+<submission-path>utk_gradthes/1912</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Ralph Kimberlin</value>
+</field>
+<field name="advisor2" type="string">
+<value>Peter Solies, Frank Collins</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Aviation Systems</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

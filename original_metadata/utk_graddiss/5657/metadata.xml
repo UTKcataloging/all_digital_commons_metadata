@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Modeling the effects of cognition on cooperation</title>
+<publication-date>2019-08-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lperry13@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Perry</lname>
+<fname>Logan</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Game theory deals with the modeling of strategic interaction between agents. Central to the predictions produced by this framework are the assumption made on rationality and how choices are made. While crucial to the outcomes predicted there exists little to no work investigating the similarities and differences between different strategy protocol updates. In this work, I develop a new protocol for simulating how agents think that I term foresight and compare and contrast it with commonly used protocols. Foresight is a way of accounting for strategic choice that is based on two well established psychological traits of humans: delayed gratification and theory of mind. It is shown that foresight is capable of overcoming the notorious second-order free-rider effect, and thereby promotes cooperation. This is shown by looking at a n-person public goods game and a simpler two-person interaction - developed specifically to mimic the former game&#39;s properties.Another explanation for why agents cooperate with one another is that they do so because they are prone to making mistakes, i.e. they possess a bounded rationality. While this is a logical explanation and there exists machinery that accounts for error when predicting behavior (most notably quantal response models) there exists no mathematical framework to investigate why humans developed this bounded rationality. To address this gap in the literature I develop a model to inspect the evolution of bounded rationality. By accounting for evolutionary pressures, e.g. metabolic requirements of the brain, the possession of a bounded rationality in animals is explained.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5657</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7303&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5657</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7303</articleid>
+<submission-date>2020-08-13T19:12:06-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>18911712</context-key>
+<submission-path>utk_graddiss/5657</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Sergey Gavrilets</value>
+</field>
+<field name="advisor2" type="string">
+<value>Christopher Strickland, Yu-Ting Chen, Alex Bentley</value>
+</field>
+<field name="comments" type="string">
+<value>Portions of this document were previously published.</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Mathematics</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-08-15T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-08-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evolving the General Text Parser (GTP) utility into a usable application via interface design</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Lynn</lname>
+<fname>Patrick</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The GTP (General Text Parser) software started out as a single C++ command line utility for the Solaris computing platform and has grown into a multiple language, multiple platform program supporting twenty-nine different options. The GTP software &quot;provides general purpose parsing of document sets and matrix decomposition for information retrieval applications&quot;. Current releases of GTP include a second utility, GTPQUERY , which has its own set of options and is used in combination with GTP to allow query processing across the parsed document sets. The combination of multiple command line programs, various platform versions, and a complex array of options began to place a huge burden on GTP&#39;s users including the GTP software development group. A method was needed to remove the burden from the user and allow the multiple pieces of the GTP package to function as a single entity. This thesis will describe how the addition of a graphical user interface transformed GTP into a full featured application and allowed users to use the core GTP utilities in a more effective way than could be accomplished through the command line. Also, a visualization concept for viewing query results is introduced. The concept, through the use of graphics, attempts to provide the user with a better understanding of the returned documents while reducing the user&#39;s need to physically read each document in order to assess relevance.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/5957</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7590&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>5957</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>7590</articleid>
+<submission-date>2021-06-22T05:06:03-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>23467619</context-key>
+<submission-path>utk_gradthes/5957</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Michael W. Berry</value>
+</field>
+<field name="advisor2" type="string">
+<value>Bradley Vander Zanden, Tom Dunigan</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

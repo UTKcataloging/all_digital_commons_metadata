@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Derivation of Correction Terms to the Eikonal Approximations in the Formulation of Analytical  Abrasion-Ablation Model</title>
+<publication-date>2012-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>sbhatt@utk.edu</email>
+<lname>Bhatt</lname>
+<fname>Santosh</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Eikonal approximations</keyword>
+<keyword>abrasion</keyword>
+<keyword>ablation</keyword>
+<keyword>high energy</keyword>
+<keyword>ion interactions</keyword>
+</keywords>
+<disciplines><discipline>Nuclear Engineering</discipline>
+<discipline>Physics</discipline>
+</disciplines><abstract>&lt;p&gt;Analytical models for the quantitative predictions of spectra from the neutrons and light ions produced from the high energy, heavy ion (HZE) reactions are extremely important in assessment of the radiation damage during long duration deep space missions, and for various accelerator applications. The fundamental physics of the secondary particle production and transport from these HZE reactions is described using the abrasion-ablation model. The abrasion part of the model is based on the Glauber multiple scattering theory while the ablation process is based on statistical decay based on an evaporation model. The current formulations for the abrasion process are based on the Eikonal approximations, developed using the small angle approximations, which are considered in the strictly forward scattering, in the plane of incident momentum. However, neutron and light ion transport is inherently a three –dimensional problem and therefore requires nuclear models capable of generating double differential cross sections, both energy and angle, for use in the transport codes. This study relaxes the forward scattering, small angle approximation in the development of abrasion-ablation theory by adding higher order correction terms to the phase shift operator used in the abrasion formalism and thus improves the prediction of secondary particle production at different angular and spectral ranges. Four higher order correction terms to the Eikonal approximations were developed based on the previous work by Wallace. The optical potential used in the derivation of the phase functions was reformulated using Gaussian approximations to the nuclear single particle densities. The new formalism, with correction terms, was used to evaluate the total abrasion and the double differential cross sections of the secondary particles in HZE reactions. A comparison of total abrasions cross sections to evaluate the contributions of the individual higher order correction terms has been done. Also, the double differential cross sections were calculated using the current model with two correction terms and compared to the published measurements from accelerator studies.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/1268</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2452&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>1268</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>2452</articleid>
+<submission-date>2012-03-02T14:10:21-08:00</submission-date>
+<native-url>https://trace.tennessee.edu/context/utk_graddiss/article/2452/type/native/viewcontent</native-url>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>2620626</context-key>
+<submission-path>utk_graddiss/1268</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Lawrence W. Townsend</value>
+</field>
+<field name="advisor2" type="string">
+<value>G. Ivan Maldonado, Lawrence H. Heilbronn, Thomas Handler</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

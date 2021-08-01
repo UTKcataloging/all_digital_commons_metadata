@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fusion Machine Scale Wall Material Erosion and Redeposition Modeled with GITR as a Part of an Integrated Simulation to Evaluate Tungsten Plasma Facing Component Lifetimes and Feedback on Fusion Plasmas</title>
+<publication-date>2019-12-15T00:00:00-08:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>tyounkin@vols.utk.edu</email>
+<institution>University of Tennessee</institution>
+<lname>Younkin</lname>
+<fname>Timothy</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Fusion</keyword>
+<keyword>plasma</keyword>
+<keyword>impurity</keyword>
+<keyword>erosion</keyword>
+<keyword>Monte Carlo</keyword>
+<keyword>simulation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Creating a neutron source via fusion in a confined core plasma and extracting the necessary energy creates an adverse environment at the plasma-material interface. In order for the fusion reaction to be sustainable, the response of the coupled plasma-surface interaction must radiate in the edge plasma while an atomic fraction of 10^-5 of  W in the core will make fusion unachievable. Because of this limitation, the underlying physics in the plasma-material interaction must be understood in order to make fusion feasible and economical.This dissertation extends simulation capabilities of the plasma-surface interaction to higher fidelity with the inclusion of multi-scale physics modeling and code integration. Of relevance to the performance of both the divertor and fusion plasma is the migration, interaction kinetics, and re-deposition of the eroded wall material. Considerations of impurity transport can affect surface composition, surface evolution, material response to energetic ions, and radiative properties of the edge and core plasma. Therefore, the development of a high performance, 3D kinetic impurity transport code capable of simulating whole device geometries, and designed to accept high fidelity input for background plasma, plasma sheath, and material response models is necessary. The development of the global impurity transport code (GITR) addresses the necessary physics and computer science challenges associated with the impurity transport problem.A high performance, platform portable, accelerator enabled implementation of the trace impurity model (GITR) has been developed to simulate impurity migration on the scale of a whole device fusion machine. GITR has been benchmarked with simple fluid theory to demonstrate accuracy of the physics model. Comparison to linear plasma device experiments has demonstrated accurate results for net erosion, volumetric impurity density profiles, and migration behavior characteristics. Bayesian statistics have been used to perform formal uncertainty quantification based on background plasma profile measurements in this linear device geometry. Tokamak scenarios for ITER He operation and D-T operation have also been simulated to demonstrate the impurity erosion and migration characteristics for this future device.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5744</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7510&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5744</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7510</articleid>
+<submission-date>2020-12-04T22:54:05-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>20419623</context-key>
+<submission-path>utk_graddiss/5744</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Brian Wirth</value>
+</field>
+<field name="advisor2" type="string">
+<value>Vasilios Alexiades, David Donovan, Rajesh Maingi, Peter Stangeby</value>
+</field>
+<field name="author1_orcid" type="string">
+<value>http://orcid.org/0000-0002-7471-6840</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2020-12-15T00:00:00-08:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2019-12-15T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

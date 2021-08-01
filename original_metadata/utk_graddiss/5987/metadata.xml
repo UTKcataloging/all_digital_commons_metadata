@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multivariate relationship specification and visualization</title>
+<publication-date>2009-05-15T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee</institution>
+<lname>Sisneros</lname>
+<fname>Roberto</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer science</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this dissertation, we present a novel method for multivariate visualization that focuses on multivariate relationshipswithin scientific datasets. Specifically, we explore the considerations of such a problem, i.e. we develop an appropriate visualization approach, provide a framework for the specification of multivariate relationships and analyze the space of such relationships for the purpose of guiding the user toward desired visualizations. The visualization approach is derived from a point classification algorithm that summarizes many variables of a dataset into a single image via the creation of attribute subspaces. Then, we extend the notion of attribute subspaces to encompass multivariate relationships. In addition, we provide an unconstrained framework for the user to define such relationships. Althoughwe intend this approach to be generally applicable, the specification of complicated relationships is a daunting task due to the increasing difficulty for a user to understand and apply these relationships. For this reason, we explore this relationship space with a common information visualization technique well suited for this purpose, parallel coordinates. In manipulating this space, a user is able to discover and select both complex and logically informative relationship specifications.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/5987</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=7920&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>5987</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>7920</articleid>
+<submission-date>2021-04-13T13:24:02-07:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>22467601</context-key>
+<submission-path>utk_graddiss/5987</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Jian Huang</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Computer Science</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-05-15T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

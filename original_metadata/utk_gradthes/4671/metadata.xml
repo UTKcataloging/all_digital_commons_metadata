@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fault Detection and Isolation Expert System and Kernel Smoothing Techniques to Monitor the Continuous Automated Vault Inventory System (CAVIS)</title>
+<publication-date>2004-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bowling</lname>
+<fname>Joseph</fname>
+<mname>Michael</mname>
+</author>
+</authors>
+<disciplines><discipline>Nuclear Engineering</discipline>
+</disciplines><abstract>&lt;p&gt;The Continuous Automated Vault Inventory System (CAVIS™) is a system designed to continually monitor the status of special nuclear materials (SNM) at the Oak Ridge based Y-12 facility. CAVIS consists of an integrated package of low-cost sensors used to continuously monitor weight and radiation attributes of the stored items. The CAVIS system detects “change-in-state” of the special nuclear material and generates an appropriate alarm. Unfortunately, the CAVIS system is susceptible to false alarms that do not coincide with the removal of special nuclear material. These false alarms may be due to the random stochastic nature of the measurements, due to failing components, or due to external sources in the vicinity or the facility. The response to a false alarm may be an inventory check, which entails the physical verification of the attributes of the SNM. Thus, it is desirable to limit this costly response.&lt;/p&gt;
+&lt;p&gt;This thesis presents the development of a monitoring system for CAVIS to eliminate the costly responses caused by false alarms. The system merges advanced statistical algorithms, such as the sequential probability ratio test (SPRT), to extract features related to changes in the CAVIS sensors with an expert system that forms a hypothesis on the root cause of any anomaly. In addition, kernel-averaging techniques have been developed as a regional anomaly-monitoring module. This thesis presents the development of the expert system and the kernel-averaging techniques features in the fault detection and isolation system. The implementation of these techniques will enable the monitoring of the CAVIS system and develop alternative hypothesis of the root cause of spurious CAVIS alarms. These alternative hypotheses can be investigated prior to any inventory check, thus reducing cost and lessening radiation exposures.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_gradthes/4671</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=6265&amp;amp;context=utk_gradthes&amp;amp;unstamped=1</fulltext-url>
+<label>4671</label>
+<document-type>thesis</document-type>
+<type>article</type>
+<articleid>6265</articleid>
+<submission-date>2017-08-09T12:39:52-07:00</submission-date>
+<publication-title>Masters Theses</publication-title>
+<context-key>10572500</context-key>
+<submission-path>utk_gradthes/4671</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>J. Wesley Hines</value>
+</field>
+<field name="advisor2" type="string">
+<value>Lawrence Townsend, Laurence Miller</value>
+</field>
+<field name="degree_name" type="string">
+<value>Master of Science</value>
+</field>
+<field name="department" type="string">
+<value>Nuclear Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

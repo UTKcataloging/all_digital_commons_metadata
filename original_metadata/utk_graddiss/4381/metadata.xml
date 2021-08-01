@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Co-Optimization of Gas-Electricity Integrated Energy Systems Under Uncertainties</title>
+<publication-date>2017-05-01T00:00:00-07:00</publication-date>
+<state>published</state>
+<authors>
+<author>
+<email>lbai3@vols.utk.edu</email>
+<institution>University of Tennessee, Knoxville</institution>
+<lname>Bai</lname>
+<fname>Linquan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Co-optimization</keyword>
+<keyword>coordinated operation</keyword>
+<keyword>expansion planning</keyword>
+<keyword>gas and electricity integrated energy systems</keyword>
+<keyword>interval optimization</keyword>
+<keyword>robust optimization</keyword>
+<keyword>stochastic optimization</keyword>
+</keywords>
+<disciplines><discipline>Electrical and Computer Engineering</discipline>
+<discipline>Power and Energy</discipline>
+</disciplines><abstract>&lt;p&gt;In the United States, natural gas-fired generators have gained increasing popularity in recent years due to low fuel cost and emission, as well as the needed large gas reserves. Consequently, it is worthwhile to consider the high interdependency between the gas and electricity networks. In this dissertation, several co-optimization models for the optimal operation and planning of gas-electricity integrated energy systems (IES) are proposed and investigated considering uncertainties from wind power and load demands.&lt;/p&gt;
+&lt;p&gt;For the coordinated operation of gas-electricity IES: 1) an interval optimization based coordinated operating strategy for the gas-electricity IES is proposed to improve the overall system energy efficiency and optimize the energy flow. The gas and electricity infrastructures are modeled in detail and their operation constraints are fully considered. Then, a demand response program is incorporated into the optimization model, and its effects on the IES operation are investigated. Interval optimization is applied to address wind power uncertainty in IES. 2) a stochastic optimal operating strategy for gas-electricity IES is proposed considering N-1 contingencies in both gas and electricity networks. Since gas pipeline contingencies limit the fuel deliverability to gas-fired units, N-1 contingencies in both gas and electricity networks are considered to ensure that the system operation is able to sustain any possible power transmission or gas pipeline failure. Moreover, wind power uncertainty is addressed by stochastic programming. 3) a robust scheduling model is proposed for gas-electricity IES with uncertain wind power considering both gas and electricity N-1 contingencies. The proposed method is robust against wind power uncertainty to ensure that the system can sustain possible N-1 contingency event of gas pipeline or power transmission. Case studies demonstrate the effectiveness of the proposed models.&lt;/p&gt;
+&lt;p&gt;For the co-optimization planning of gas-electricity IES: a two-stage robust optimization model is proposed for expansion co-planning of gas-electricity IES. The proposed model is solved by the column and constraint generation (C&amp;CG) algorithm. The locations and capacities of new gas-fired generators, power transmission lines, and gas pipelines are optimally determined, which is robust against the uncertainties from electric and gas load growth as well as wind power.&lt;/p&gt;</abstract>
+<coverpage-url>https://trace.tennessee.edu/utk_graddiss/4381</coverpage-url>
+<fulltext-url>https://trace.tennessee.edu/cgi/viewcontent.cgi?article=5673&amp;amp;context=utk_graddiss&amp;amp;unstamped=1</fulltext-url>
+<label>4381</label>
+<document-type>dissertation</document-type>
+<type>article</type>
+<articleid>5673</articleid>
+<submission-date>2016-11-14T10:21:33-08:00</submission-date>
+<publication-title>Doctoral Dissertations</publication-title>
+<context-key>9374547</context-key>
+<submission-path>utk_graddiss/4381</submission-path>
+<fields>
+<field name="advisor1" type="string">
+<value>Fangxing (Fran) Li</value>
+</field>
+<field name="advisor2" type="string">
+<value>Yilu Liu, Kevin Tomsovic, Mingzhou Jin</value>
+</field>
+<field name="degree_name" type="string">
+<value>Doctor of Philosophy</value>
+</field>
+<field name="department" type="string">
+<value>Electrical Engineering</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2018-05-15T00:00:00-07:00</value>
+</field>
+<field name="instruct" type="string">
+<value>1</value>
+</field>
+<field name="publication_date" type="date">
+<value>2017-05-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>
